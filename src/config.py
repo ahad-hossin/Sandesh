@@ -28,7 +28,7 @@ GEMINI_FALLBACK_MODELS = [
 
 # --- Posting volume ---
 MAX_POSTS_PER_RUN = int(os.environ.get("MAX_POSTS_PER_RUN", "2"))
-MAX_ITEM_AGE_HOURS = int(os.environ.get("MAX_ITEM_AGE_HOURS", "24"))
+MAX_ITEM_AGE_HOURS = int(os.environ.get("MAX_ITEM_AGE_HOURS", "12"))  # >12h = never post
 
 # --- API budgets (calls per UTC day unless noted) ---
 # Google slashed the Gemini free tier: ~20 requests/day per model PER PROJECT

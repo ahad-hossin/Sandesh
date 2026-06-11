@@ -88,7 +88,7 @@ Below are fresh candidate stories from 4 Bangladeshi outlets (some headlines in 
    - dramatic human stories, big names (politicians, stars, cricketers), surprising numbers
    - national-pride moments and major international news with local relevance
    - a story covered by several outlets at once is a strong viral signal
-   FRESHNESS IS CRITICAL — each candidate shows its age. Strongly prefer stories under 3 hours old. Never pick a story older than 8 hours unless it is still clearly the day's dominant story. Skip placeholder stories with no substance yet ("details awaited", "magnitude pending") unless the event itself broke within the last hour. Skip ads, horoscopes, recipes, TV schedules, live-stream pages, opinion teasers and trivial routine items. Fewer than {max_posts} — or zero — is fine if nothing fresh is genuinely share-worthy.
+   FRESHNESS TIERS (each candidate is labeled): under 2 hours = BEST, post these; 2-5 hours = good; 5-12 hours = BAD, pick only if nothing fresher is share-worthy. Anything older never reaches you. Prefer a strong BEST/good story over a slightly-more-viral BAD one. Skip placeholder stories with no substance yet ("details awaited", "magnitude pending") unless the event itself broke within the last hour. Skip ads, horoscopes, recipes, TV schedules, live-stream pages, opinion teasers and trivial routine items. Fewer than {max_posts} — or zero — is fine if nothing fresh is genuinely share-worthy.
 4. Give each selected story a short English topic key for future dedup.
 
 RECENTLY POSTED TOPICS (do not repeat):
@@ -373,7 +373,13 @@ def select_stories(candidates: list, history: list) -> list:
         try:
             dt = datetime.fromisoformat(c["published"].replace("Z", "+00:00"))
             hours = (now - dt).total_seconds() / 3600
-            return f"{hours:.1f}h ago"
+            if hours <= 2:
+                tier = "BEST"
+            elif hours <= 5:
+                tier = "good"
+            else:
+                tier = "BAD-avoid"
+            return f"{hours:.1f}h ago [{tier}]"
         except Exception:
             # Daily Star's /todays-news page lists today's edition without
             # per-article times
