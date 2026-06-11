@@ -78,9 +78,9 @@ _COMPOSE_SCHEMA = {
         "hashtags": {"type": "string", "description": "4-6 widely-used, non-restricted hashtags separated by spaces, mixing broad reach (#Bangladesh #News) with story-specific tags"},
         "tweet": {"type": "string", "description": "standalone X post, max 270 chars incl. 1-3 hashtags"},
         "story_risk": {"type": "string", "enum": ["clean", "sensitive", "graphic", "do_not_post"]},
-        "image_safe": {"type": "boolean", "description": "false if the attached photo shows blood, corpses, graphic injury, weapons in use, or nudity; true otherwise or when no photo is attached"},
+        "best_image": {"type": "integer", "description": "1-based index of the attached photo to use as the cover — the most relevant, visually striking AND platform-safe one. 0 if none of the attached photos is suitable or safe."},
     },
-    "required": ["headline", "summary", "category", "template", "details", "hook", "hashtags", "tweet", "story_risk", "image_safe"],
+    "required": ["headline", "summary", "category", "template", "details", "hook", "hashtags", "tweet", "story_risk", "best_image"],
 }
 
 _COMPOSE_PROMPT = """You are the editor of "{brand}", a Bangladeshi news page that posts in ENGLISH.
@@ -102,7 +102,7 @@ Platform safety (this page must never violate Facebook/Instagram policies):
 - Never glorify or sensationalize violence; report it neutrally. Attribute every health/medical claim to its source (e.g. "according to the DGHS"). Use strictly neutral wording on political and communal stories.
 - story_risk: "clean" for normal news; "sensitive" for violent crime, disasters, communal or health stories (your wording must be extra careful); "graphic" if the story centers on gory/disturbing details (use strictly clinical wording); "do_not_post" ONLY if the story cannot be covered at all without violating platform policy (gratuitous gore, glorifying violence or terrorism, explicit content).
 - Soften, never censor: for sensitive/graphic stories use plain clinical wording ("killed", "injured") and skip gory specifics (method details, wound descriptions, suffering) — but keep every word intact and factual. Never mask words with symbols or slang ("k*lled", "unalived"): masking looks spammy and platforms detect it anyway. The goal is that almost every story remains postable through neutral wording.
-- image_safe: a photo may be attached to this message. Set image_safe=false if it shows blood, dead bodies, graphic injuries, weapons being used on people, or nudity — anything Meta's filters would flag. If no photo is attached, set true.
+- best_image: candidate photos from the outlets are attached in order: {photo_list}. Pick the ONE best cover photo (1-based index): most relevant to the story, most visually striking for a social feed, AND safe for Meta — never pick a photo showing blood, dead bodies, graphic injuries, weapons being fired or used on people, strikes/explosions with visible casualties, or nudity. If no attached photo qualifies, answer 0 (the post then runs with a text-only cover).
 
 STORY HEADLINES (from the outlets):
 {titles}
@@ -143,12 +143,17 @@ def _call_gemini(parts: list, schema: dict) -> dict:
                 if gap > 0:
                     time.sleep(gap)
                 _last_call = time.time()
-                resp = requests.post(
-                    _ENDPOINT.format(model=model),
-                    params={"key": api_key},
-                    json=body,
-                    timeout=120,
-                )
+                try:
+                    resp = requests.post(
+                        _ENDPOINT.format(model=model),
+                        params={"key": api_key},
+                        json=body,
+                        timeout=120,
+                    )
+                except requests.RequestException as e:
+                    # transient network failure — retry, don't crash the lane walk
+                    last_err = f"network error on {model}: {str(e)[:80]}"
+                    continue
                 budget.spend(pair)
                 if resp.status_code == 429:
                     # could be the per-minute limit, not the daily one: cool
@@ -177,39 +182,6 @@ def _call_gemini(parts: list, schema: dict) -> dict:
                 text = data["candidates"][0]["content"]["parts"][0]["text"]
                 return json.loads(text)
     raise RuntimeError(f"Gemini unavailable after retries ({last_err})")
-
-
-_IMG_CHECK_SCHEMA = {
-    "type": "object",
-    "properties": {"image_safe": {"type": "boolean"}},
-    "required": ["image_safe"],
-}
-
-_IMG_CHECK_PROMPT = (
-    "Is the attached photo safe to publish on a news page on Facebook/Instagram? "
-    "Unsafe: blood, dead bodies, graphic injuries, weapons being fired or used on "
-    "people, explosions/strikes with visible destruction or casualties, nudity — "
-    "anything Meta's content filters would flag. Neutral portraits, buildings, "
-    "meetings, landscapes, sports are safe."
-)
-
-
-def check_image_safe(image_data_uri: str) -> bool:
-    """Standalone vision check for a fallback image (only used when the first
-    candidate photo was flagged in the compose call)."""
-    if not image_data_uri.startswith("data:"):
-        return False
-    header, b64 = image_data_uri.split(",", 1)
-    mime = header.split(":", 1)[1].split(";", 1)[0]
-    try:
-        result = _call_gemini(
-            [{"text": _IMG_CHECK_PROMPT}, {"inline_data": {"mime_type": mime, "data": b64}}],
-            _IMG_CHECK_SCHEMA,
-        )
-        return bool(result.get("image_safe", False))
-    except Exception as e:
-        print(f"  [warn] image safety check failed: {e}")
-        return False
 
 
 def select_stories(candidates: list, history: list) -> list:
@@ -258,29 +230,50 @@ def _build_caption(hook: str, details: list, hashtags: str, sources: str) -> str
     return body + tail
 
 
-def compose_post(story: dict, article_text: str, image_data_uri: str = "") -> dict:
-    """Phase 2 -> full post content for one selected story. The candidate
-    photo rides along in the same request so Gemini safety-checks it for
-    free (no extra API call)."""
+MAX_IMAGES = 4
+_MAX_IMAGE_BYTES = 4_000_000
+
+
+def compose_post(story: dict, article_text: str, images: list = None) -> dict:
+    """Phase 2 -> full post content for one selected story. Every outlet's
+    candidate photo rides along in the same request (numbered, in order), and
+    Gemini picks the best safe one — relevance + visual punch + platform
+    safety judged side by side, no extra API calls."""
     cluster = story["cluster"]
     primary = next((c for c in cluster if c["lang"] == "en"), cluster[0])
     titles = "\n".join(f"- [{c['source']}] {c['title']}" for c in cluster)
+
+    attached = []  # (mime, b64, credit)
+    for uri, credit in (images or [])[:MAX_IMAGES]:
+        if not uri.startswith("data:"):
+            continue
+        header, b64 = uri.split(",", 1)
+        if len(b64) > _MAX_IMAGE_BYTES * 1.4:
+            continue
+        attached.append((header.split(":", 1)[1].split(";", 1)[0], b64, credit))
+
+    photo_list = ", ".join(f"{i + 1}: {c}" for i, (_, _, c) in enumerate(attached)) or "(none attached)"
     prompt = _COMPOSE_PROMPT.format(
         brand=config.BRAND_NAME,
         titles=titles,
         primary_source=primary["source"],
         article=article_text[:4500] or "(article text unavailable — use only the headlines)",
+        photo_list=photo_list,
     )
     parts = [{"text": prompt}]
-    if image_data_uri.startswith("data:"):
-        header, b64 = image_data_uri.split(",", 1)
-        mime = header.split(":", 1)[1].split(";", 1)[0]
+    for mime, b64, _ in attached:
         parts.append({"inline_data": {"mime_type": mime, "data": b64}})
     p = _call_gemini(parts, _COMPOSE_SCHEMA)
     details = [d.strip() for d in p.get("details", []) if d.strip()][:14]
     marked = p["headline"][:130]
     sources = ", ".join(dict.fromkeys(c["source"] for c in cluster))
     caption = _build_caption(p.get("hook", ""), details, p.get("hashtags", ""), sources)
+    choice = int(p.get("best_image", 0))
+    image_data_uri, photo_credit = "", ""
+    if 1 <= choice <= len(attached):
+        mime, b64, credit = attached[choice - 1]
+        image_data_uri = f"data:{mime};base64,{b64}"
+        photo_credit = credit
     return {
         "topic": story["topic"],
         "headline_marked": marked,                      # with [[highlight]] for the image
@@ -292,10 +285,10 @@ def compose_post(story: dict, article_text: str, image_data_uri: str = "") -> di
         "caption": caption,
         "tweet": p["tweet"][:275],
         "story_risk": p.get("story_risk", "clean"),
-        "image_safe": bool(p.get("image_safe", True)),
+        "image_data_uri": image_data_uri,
+        "photo_credit": photo_credit,
         "source": sources,
         "url": primary["url"],
-        "image": primary.get("image", ""),
         "orig_title": primary["title"],
         "cluster_urls": [c["url"] for c in cluster],
         "cluster_titles": [c["title"] for c in cluster],

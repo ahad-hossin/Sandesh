@@ -32,9 +32,8 @@ for idx, story in enumerate(stories):
     art = article.fetch_article(primary["url"])
     img_url = article.upgrade_thumb(primary.get("image", "")) or art["og_image"]
     image_uri = article.fetch_as_data_uri(img_url)
-    post = brain.compose_post(story, art["text"], image_uri)
-    post["photo_credit"] = primary["source"]
-    post["image_data_uri"] = "" if (post["story_risk"] == "graphic" or not post["image_safe"]) else image_uri
+    gallery = [(image_uri, primary["source"])] if image_uri else []
+    post = brain.compose_post(story, art["text"], gallery)
     posts.append(post)
     print(f"\n--- {post['source']} | {post['category']} | {post['template']}")
     print("headline:", post["headline_marked"])

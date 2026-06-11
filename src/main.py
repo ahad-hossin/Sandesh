@@ -101,15 +101,18 @@ def generate() -> int:
                 ref = article.fetch_article(ref[3:]).get("og_image", "")
             return article.fetch_as_data_uri(ref) if ref else ""
 
-        image_uri, photo_credit, used_idx = "", "", -1
-        for i, (ref, credit) in enumerate(candidates_img):
+        # resolve every outlet's candidate photo (up to the model's cap) and
+        # let Gemini pick the best safe one inside the compose call
+        gallery = []
+        for ref, credit in candidates_img:
+            if len(gallery) >= brain.MAX_IMAGES:
+                break
             uri = _resolve(ref)
             if uri:
-                image_uri, photo_credit, used_idx = uri, credit, i
-                break
+                gallery.append((uri, credit))
 
         try:
-            post = brain.compose_post(story, art["text"], image_uri)
+            post = brain.compose_post(story, art["text"], gallery)
         except Exception as e:
             print(f"  [warn] compose failed for '{story['topic']}': {e}")
             continue
@@ -129,20 +132,9 @@ def generate() -> int:
                                            "headline": post["headline"], "topic": post["topic"],
                                            "source": post["source"]}, "policy-skip")
             continue
-        if image_uri and not post["image_safe"]:
-            # flagged photo: try the other outlets' photos before going text-only
-            print(f"  [policy] photo from {photo_credit} flagged unsafe — trying alternatives")
-            image_uri, photo_credit = "", ""
-            for ref, credit in candidates_img[used_idx + 1:]:
-                uri = _resolve(ref)
-                if uri and brain.check_image_safe(uri):
-                    image_uri, photo_credit = uri, credit
-                    print(f"  [policy] using safe alternative photo from {credit}")
-                    break
-
-        post["image_data_uri"] = image_uri
-        post["photo_credit"] = photo_credit
-        print(f"  {post['headline'][:60]}... photo={'yes' if image_uri else 'no'}, risk={post['story_risk']}, details={len(post['details'])} paras")
+        photo_note = f"photo: {post['photo_credit']}" if post["image_data_uri"] else \
+            (f"no photo (Gemini rejected {len(gallery)} candidate(s))" if gallery else "no photo available")
+        print(f"  {post['headline'][:60]}... {photo_note}, risk={post['story_risk']}, details={len(post['details'])} paras")
         posts.append(post)
 
     if not posts:
