@@ -61,8 +61,10 @@ def _ig_wait(container: str, tries: int = 5) -> None:
             raise RuntimeError(f"IG container error: {st}")
 
 
-def _ig_publish(container: str):
-    """media_publish with one patient retry if the app-hour budget is hit."""
+def _ig_publish(container: str, caption: str = ""):
+    """media_publish with one patient retry if the app-hour budget is hit.
+    Meta sometimes publishes successfully and STILL returns a 400 'Fatal'
+    OAuthException — verify against recent media before calling it a failure."""
     for attempt in range(2):
         resp = requests.post(
             f"{GRAPH}/{config.IG_USER_ID}/media_publish",
@@ -73,6 +75,19 @@ def _ig_publish(container: str):
             print("  [warn] Meta app rate limit hit, waiting 90s before retrying publish...")
             time.sleep(90)
             continue
+        if resp.status_code == 400 and '"Fatal"' in resp.text and caption:
+            print("  [warn] IG returned 'Fatal' on publish — verifying whether the post actually landed...")
+            time.sleep(12)
+            check = requests.get(
+                f"{GRAPH}/{config.IG_USER_ID}/media",
+                params={"fields": "id,caption", "limit": "5",
+                        "access_token": config.META_ACCESS_TOKEN},
+                timeout=60,
+            ).json()
+            for m in check.get("data", []):
+                if (m.get("caption") or "")[:60] == caption[:60]:
+                    print("  [warn] post IS live despite the error — treating as success")
+                    return m["id"]
         resp.raise_for_status()
         return resp.json().get("id", "ok")
 
@@ -122,7 +137,7 @@ def post_instagram(post: dict) -> str:
         container = resp.json()["id"]
 
     _ig_wait(container)
-    result = _ig_publish(container)
+    result = _ig_publish(container, post.get("caption", ""))
     budget.spend("instagram")
     return result
 
