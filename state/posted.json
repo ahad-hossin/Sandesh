@@ -4723,8 +4723,13 @@
   "headline": "Fire breaks out at Khulna City Medical College and Hospital",
   "topic": "fire at khulna medical college hospital",
   "source": "Dhaka Tribune, Jamuna TV, The Daily Star, Prothom Alo, Somoy News",
-  "status": "queued",
-  "at": "2026-06-11T17:06:54Z"
+  "status": "failed",
+  "at": "2026-06-11T17:06:54Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"Any of the pages_read_engagement,",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"Any of the pages_read_engagement,",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "613ca30a8dc3e603",
@@ -4732,8 +4737,13 @@
   "headline": "Fire breaks out at Khulna City Medical College and Hospital",
   "topic": "fire at khulna medical college hospital",
   "source": "Dhaka Tribune, Jamuna TV, The Daily Star, Prothom Alo, Somoy News",
-  "status": "queued",
-  "at": "2026-06-11T17:06:54Z"
+  "status": "failed",
+  "at": "2026-06-11T17:06:54Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"Any of the pages_read_engagement,",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"Any of the pages_read_engagement,",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "01cced5aa502a837",
@@ -4741,8 +4751,13 @@
   "headline": "Fire breaks out at Khulna City Medical College and Hospital",
   "topic": "fire at khulna medical college hospital",
   "source": "Dhaka Tribune, Jamuna TV, The Daily Star, Prothom Alo, Somoy News",
-  "status": "queued",
-  "at": "2026-06-11T17:06:54Z"
+  "status": "failed",
+  "at": "2026-06-11T17:06:54Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"Any of the pages_read_engagement,",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"Any of the pages_read_engagement,",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "c7e19ad4ccf84fec",
@@ -4750,8 +4765,13 @@
   "headline": "Fire breaks out at Khulna City Medical College and Hospital",
   "topic": "fire at khulna medical college hospital",
   "source": "Dhaka Tribune, Jamuna TV, The Daily Star, Prothom Alo, Somoy News",
-  "status": "queued",
-  "at": "2026-06-11T17:06:54Z"
+  "status": "failed",
+  "at": "2026-06-11T17:06:54Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"Any of the pages_read_engagement,",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"Any of the pages_read_engagement,",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "28eadb7fad856fae",
@@ -4759,7 +4779,12 @@
   "headline": "Fire breaks out at Khulna City Medical College and Hospital",
   "topic": "fire at khulna medical college hospital",
   "source": "Dhaka Tribune, Jamuna TV, The Daily Star, Prothom Alo, Somoy News",
-  "status": "queued",
-  "at": "2026-06-11T17:06:54Z"
+  "status": "failed",
+  "at": "2026-06-11T17:06:54Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"Any of the pages_read_engagement,",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"Any of the pages_read_engagement,",
+   "x": "dry-run"
+  }
  }
 ]
