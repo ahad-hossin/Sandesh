@@ -185,7 +185,7 @@ def _call_gemini(parts: list, schema: dict) -> dict:
                     last_err = f"HTTP {resp.status_code} on {model}"
                     continue
                 if resp.status_code != 200:
-                    last_err = f"HTTP {resp.status_code} on {model} (key {ki + 1})"
+                    last_err = f"HTTP {resp.status_code} on {model} (key {ki + 1}): {resp.text[:160]}"
                     break
                 data = resp.json()
                 text = data["candidates"][0]["content"]["parts"][0]["text"]
