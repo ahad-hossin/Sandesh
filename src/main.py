@@ -69,6 +69,8 @@ def generate() -> int:
     print("== Phase 2: fetch articles, compose posts ==")
     posts = []
     for idx, story in enumerate(stories):
+        if len(posts) >= config.MAX_POSTS_PER_RUN:
+            break
         cluster = story["cluster"]
         primary = next((c for c in cluster if c["lang"] == "en"), cluster[0])
         art = article.fetch_article(primary["url"])
@@ -117,21 +119,24 @@ def generate() -> int:
             print(f"  [warn] compose failed for '{story['topic']}': {e}")
             continue
 
-        # dedup backstop layer 1: deterministic word overlap
-        if state.is_duplicate(post["headline"], post["topic"], history):
-            continue
-        # layer 2: focused AI same-event check against the most-similar posted
-        # items (catches synonym rewordings word-overlap cannot)
+        # dedup: lexical word-overlap raises the ALARM, the focused AI check
+        # is the JUDGE — it knows a match result after a match preview (or a
+        # verdict after a trial) is new news, not a duplicate
+        lex_alarm = state.is_duplicate(post["headline"], post["topic"], history)
         similar = state.top_overlapping(post["headline"], post["topic"], history)
-        if similar:
-            try:
-                dup_idx = brain.check_duplicate(post["headline"], post["summary"], similar)
-            except Exception as e:
-                print(f"  [warn] AI dedup check failed ({e}) — letting the post through")
-                dup_idx = 0
+        if lex_alarm or similar:
+            dup_idx = 0
+            if similar:
+                try:
+                    dup_idx = brain.check_duplicate(post["headline"], post["summary"], similar)
+                except Exception as e:
+                    print(f"  [warn] AI dedup check failed ({e})")
+                    dup_idx = 1 if lex_alarm else 0  # fail closed only on a lexical alarm
+            elif lex_alarm:
+                dup_idx = 1
             if dup_idx:
-                print(f"  [dedup-ai] '{post['headline'][:60]}' = same event as posted "
-                      f"'{similar[dup_idx - 1][:60]}'")
+                ref = similar[dup_idx - 1][:60] if similar else "(lexical match)"
+                print(f"  [dedup] skipping '{post['headline'][:60]}' = same event as '{ref}'")
                 continue
 
         # content safety verdicts (came back in the same compose call)

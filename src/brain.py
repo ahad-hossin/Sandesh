@@ -349,9 +349,10 @@ def check_duplicate(headline: str, summary: str, posted_headlines: list) -> int:
         f"Summary: {summary}\n\n"
         "Does the NEW story report the same event and the same development as any "
         "item above (same thing, possibly reworded or in synonyms)? A genuinely NEW "
-        "development of an ongoing story (a new decision, a new toll, a reversal "
-        "that happened AFTER the posted item) is NOT a duplicate. Answer with the "
-        "item number, or 0 if none."
+        "development of an ongoing story is NOT a duplicate — e.g. the RESULT of a "
+        "match after we posted the match preview, a verdict after we posted the "
+        "trial, a new decision, a new toll, a reversal that happened AFTER the "
+        "posted item. Answer with the item number, or 0 if none."
     )
     result = _call_gemini([{"text": prompt}], _DUP_SCHEMA)
     return int(result.get("duplicate_of", 0))
@@ -382,15 +383,18 @@ def select_stories(candidates: list, history: list) -> list:
         f"{i} | {c['source']} | {c['lang']} | {_age(c)} | {c.get('category','')} | {c['title']} | {c['description'][:140]}"
         for i, c in enumerate(candidates)
     )
+    # ask for a ranked shortlist larger than we'll post, so stories vetoed by
+    # the dedup layers have ranked replacements waiting
+    shortlist = min(config.MAX_POSTS_PER_RUN * 3, 6)
     prompt = _SELECT_PROMPT.format(
         brand=config.BRAND_NAME,
-        max_posts=config.MAX_POSTS_PER_RUN,
+        max_posts=shortlist,
         history=history_lines,
         candidates=cand_lines,
-    )
+    ) + "\nRank your selected stories BEST FIRST (highest viral potential first)."
     result = _call_gemini([{"text": prompt}], _SELECT_SCHEMA)
     stories = []
-    for s in result.get("stories", [])[: config.MAX_POSTS_PER_RUN]:
+    for s in result.get("stories", [])[:shortlist]:
         ids = [i for i in s.get("candidate_ids", []) if 0 <= i < len(candidates)]
         if not ids:
             continue
