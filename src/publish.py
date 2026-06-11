@@ -45,8 +45,11 @@ def post_facebook(post: dict) -> str:
     return resp.json().get("post_id") or resp.json().get("id", "ok")
 
 
-def _ig_wait(container: str) -> None:
-    for _ in range(20):
+def _ig_wait(container: str, tries: int = 8) -> None:
+    # frugal polling — Meta's app-level budget is ~200 calls/hour and status
+    # checks count against it
+    for i in range(tries):
+        time.sleep(4 + 2 * i)
         st = requests.get(
             f"{GRAPH}/{container}",
             params={"fields": "status_code", "access_token": config.META_ACCESS_TOKEN},
@@ -56,7 +59,22 @@ def _ig_wait(container: str) -> None:
             return
         if st.get("status_code") == "ERROR":
             raise RuntimeError(f"IG container error: {st}")
-        time.sleep(3)
+
+
+def _ig_publish(container: str):
+    """media_publish with one patient retry if the app-hour budget is hit."""
+    for attempt in range(2):
+        resp = requests.post(
+            f"{GRAPH}/{config.IG_USER_ID}/media_publish",
+            data={"creation_id": container, "access_token": config.META_ACCESS_TOKEN},
+            timeout=120,
+        )
+        if resp.status_code == 403 and "request limit" in resp.text.lower() and attempt == 0:
+            print("  [warn] Meta app rate limit hit, waiting 90s before retrying publish...")
+            time.sleep(90)
+            continue
+        resp.raise_for_status()
+        return resp.json().get("id", "ok")
 
 
 def post_instagram(post: dict) -> str:
@@ -104,14 +122,9 @@ def post_instagram(post: dict) -> str:
         container = resp.json()["id"]
 
     _ig_wait(container)
-    resp = requests.post(
-        f"{GRAPH}/{config.IG_USER_ID}/media_publish",
-        data={"creation_id": container, "access_token": config.META_ACCESS_TOKEN},
-        timeout=120,
-    )
-    resp.raise_for_status()
+    result = _ig_publish(container)
     budget.spend("instagram")
-    return resp.json().get("id", "ok")
+    return result
 
 
 def post_x(post: dict) -> str:
