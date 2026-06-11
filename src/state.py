@@ -120,6 +120,27 @@ def is_duplicate(headline: str, topic: str, history: list, threshold: float = 0.
     return False
 
 
+def top_overlapping(headline: str, topic: str, history: list, k: int = 8) -> list:
+    """Recent history entries sharing at least 2 content words with the new
+    story — candidates for the AI same-event check."""
+    new_words = _tokens(headline) | _tokens(topic)
+    scored = []
+    for e in history[-200:]:
+        old_words = _tokens(f"{e.get('headline', '')} {e.get('topic', '')}")
+        shared = len(new_words & old_words)
+        if shared >= 2 and e.get("headline"):
+            scored.append((shared, e["headline"]))
+    scored.sort(key=lambda x: -x[0])
+    seen, out = set(), []
+    for _, h in scored:
+        if h not in seen:
+            seen.add(h)
+            out.append(h)
+        if len(out) >= k:
+            break
+    return out
+
+
 def load_queue() -> list:
     if os.path.exists(config.QUEUE_FILE):
         with open(config.QUEUE_FILE, "r", encoding="utf-8") as f:

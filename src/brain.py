@@ -189,6 +189,33 @@ def _call_gemini(parts: list, schema: dict) -> dict:
     raise RuntimeError(f"Gemini unavailable after retries ({last_err})")
 
 
+_DUP_SCHEMA = {
+    "type": "object",
+    "properties": {"duplicate_of": {"type": "integer", "description": "1-based index of the already-posted item that reports the SAME event/development as the new story; 0 if none do"}},
+    "required": ["duplicate_of"],
+}
+
+
+def check_duplicate(headline: str, summary: str, posted_headlines: list) -> int:
+    """Focused pairwise same-event check — catches synonym rewordings that
+    word-overlap cannot ('license revoked' vs 'cancels licence')."""
+    items = "\n".join(f"{i + 1}. {h}" for i, h in enumerate(posted_headlines))
+    prompt = (
+        "We already posted these news items:\n"
+        f"{items}\n\n"
+        "NEW story:\n"
+        f"Headline: {headline}\n"
+        f"Summary: {summary}\n\n"
+        "Does the NEW story report the same event and the same development as any "
+        "item above (same thing, possibly reworded or in synonyms)? A genuinely NEW "
+        "development of an ongoing story (a new decision, a new toll, a reversal "
+        "that happened AFTER the posted item) is NOT a duplicate. Answer with the "
+        "item number, or 0 if none."
+    )
+    result = _call_gemini([{"text": prompt}], _DUP_SCHEMA)
+    return int(result.get("duplicate_of", 0))
+
+
 def select_stories(candidates: list, history: list) -> list:
     """Phase 1 -> [{cluster: [items], topic: str}], newest stories first."""
     if not config.GEMINI_API_KEY:

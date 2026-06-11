@@ -117,10 +117,22 @@ def generate() -> int:
             print(f"  [warn] compose failed for '{story['topic']}': {e}")
             continue
 
-        # deterministic dedup backstop — Gemini occasionally re-selects an
-        # already-posted story with different wording
+        # dedup backstop layer 1: deterministic word overlap
         if state.is_duplicate(post["headline"], post["topic"], history):
             continue
+        # layer 2: focused AI same-event check against the most-similar posted
+        # items (catches synonym rewordings word-overlap cannot)
+        similar = state.top_overlapping(post["headline"], post["topic"], history)
+        if similar:
+            try:
+                dup_idx = brain.check_duplicate(post["headline"], post["summary"], similar)
+            except Exception as e:
+                print(f"  [warn] AI dedup check failed ({e}) — letting the post through")
+                dup_idx = 0
+            if dup_idx:
+                print(f"  [dedup-ai] '{post['headline'][:60]}' = same event as posted "
+                      f"'{similar[dup_idx - 1][:60]}'")
+                continue
 
         # content safety verdicts (came back in the same compose call)
         if post["story_risk"] == "do_not_post":
