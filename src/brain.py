@@ -126,6 +126,8 @@ def _call_gemini(parts: list, schema: dict) -> dict:
     models = [config.GEMINI_MODEL] + config.GEMINI_FALLBACK_MODELS
     keys = config.GEMINI_API_KEYS
     last_err = None
+    deadline = time.time() + 120  # hard cap per call — a run must never stall
+    cooled = False                # at most ONE throttle cool-off per call
     # try the backup key on the best model before degrading to a lesser model
     for model in models:
         limit = config.GEMINI_DAILY_LIMITS.get(model, config.GEMINI_DEFAULT_DAILY_LIMIT)
@@ -134,11 +136,11 @@ def _call_gemini(parts: list, schema: dict) -> dict:
             if budget.remaining(pair, limit) <= 0:
                 print(f"  [budget] {model} (key {ki + 1}): daily budget used up, trying next")
                 continue
-            for attempt in range(4):
+            for attempt in range(2):
+                if time.time() > deadline:
+                    raise RuntimeError(f"Gemini call exceeded time cap ({last_err})")
                 if attempt:
-                    wait = 2 ** attempt  # 2, 4, 8s
-                    print(f"  [warn] Gemini {last_err}, retry {model} (key {ki + 1}) in {wait}s...")
-                    time.sleep(wait)
+                    time.sleep(2)
                 # respect the free tier's requests-per-minute ceiling
                 gap = config.GEMINI_MIN_INTERVAL - (time.time() - _last_call)
                 if gap > 0:
@@ -149,7 +151,7 @@ def _call_gemini(parts: list, schema: dict) -> dict:
                         _ENDPOINT.format(model=model),
                         params={"key": api_key},
                         json=body,
-                        timeout=120,
+                        timeout=90,
                     )
                 except requests.RequestException as e:
                     # transient network failure — retry, don't crash the lane walk
@@ -157,17 +159,18 @@ def _call_gemini(parts: list, schema: dict) -> dict:
                     continue
                 budget.spend(pair)
                 if resp.status_code == 429:
-                    body = resp.text.lower()
-                    if "perday" in body or "per day" in body or "daily" in body:
+                    text_l = resp.text.lower()
+                    if "perday" in text_l or "per day" in text_l or "daily" in text_l:
                         # genuinely out of daily quota — bench this lane
                         budget.exhaust(pair, limit)
                         last_err = f"HTTP 429 on {model} (key {ki + 1}, daily quota)"
                         break
-                    # per-minute / ambiguous throttle: cool off once, then
-                    # move to the next lane WITHOUT benching this one
-                    if attempt == 0:
-                        print(f"  [warn] HTTP 429 on {model} (key {ki + 1}), cooling off 35s...")
-                        time.sleep(35)
+                    # per-minute throttle: cool off once per CALL, otherwise
+                    # just move to the next lane (no benching)
+                    if not cooled:
+                        cooled = True
+                        print(f"  [warn] HTTP 429 on {model} (key {ki + 1}), cooling off 15s...")
+                        time.sleep(15)
                         last_err = f"HTTP 429 on {model} (key {ki + 1})"
                         continue
                     last_err = f"HTTP 429 on {model} (key {ki + 1}, throttled)"

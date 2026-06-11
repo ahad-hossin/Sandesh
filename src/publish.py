@@ -45,7 +45,7 @@ def post_facebook(post: dict) -> str:
     return resp.json().get("post_id") or resp.json().get("id", "ok")
 
 
-def _ig_wait(container: str, tries: int = 8) -> None:
+def _ig_wait(container: str, tries: int = 5) -> None:
     # frugal polling — Meta's app-level budget is ~200 calls/hour and status
     # checks count against it
     for i in range(tries):
