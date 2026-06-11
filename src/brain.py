@@ -9,6 +9,7 @@ write the post — headline with a [[highlighted]] key phrase, summary, the
 details-slide paragraphs, caption and tweet, all in English."""
 import json
 import time
+from datetime import datetime, timezone
 
 import requests
 
@@ -52,13 +53,13 @@ Below are fresh candidate stories from 4 Bangladeshi outlets (some headlines in 
    - dramatic human stories, big names (politicians, stars, cricketers), surprising numbers
    - national-pride moments and major international news with local relevance
    - a story covered by several outlets at once is a strong viral signal
-   Among equally strong stories prefer the most RECENT. Skip ads, horoscopes, recipes, TV schedules, live-stream pages, opinion teasers and trivial routine items. Fewer than {max_posts} — or zero — is fine if nothing is genuinely share-worthy.
+   FRESHNESS IS CRITICAL — each candidate shows its age. Strongly prefer stories under 3 hours old. Never pick a story older than 8 hours unless it is still clearly the day's dominant story. Skip placeholder stories with no substance yet ("details awaited", "magnitude pending") unless the event itself broke within the last hour. Skip ads, horoscopes, recipes, TV schedules, live-stream pages, opinion teasers and trivial routine items. Fewer than {max_posts} — or zero — is fine if nothing fresh is genuinely share-worthy.
 4. Give each selected story a short English topic key for future dedup.
 
 RECENTLY POSTED TOPICS (do not repeat):
 {history}
 
-CANDIDATES (index | source | lang | published | category | title | snippet):
+CANDIDATES (index | source | lang | age | category | title | snippet):
 {candidates}
 """
 
@@ -225,8 +226,18 @@ def select_stories(candidates: list, history: list) -> list:
     history_lines = "\n".join(
         f"- {e['topic']} ({e.get('headline', '')})" for e in recent
     ) or "(nothing posted yet)"
+    now = datetime.now(timezone.utc)
+
+    def _age(c):
+        try:
+            dt = datetime.fromisoformat(c["published"].replace("Z", "+00:00"))
+            hours = (now - dt).total_seconds() / 3600
+            return f"{hours:.1f}h ago"
+        except Exception:
+            return "age unknown"
+
     cand_lines = "\n".join(
-        f"{i} | {c['source']} | {c['lang']} | {c['published']} | {c.get('category','')} | {c['title']} | {c['description'][:140]}"
+        f"{i} | {c['source']} | {c['lang']} | {_age(c)} | {c.get('category','')} | {c['title']} | {c['description'][:140]}"
         for i, c in enumerate(candidates)
     )
     prompt = _SELECT_PROMPT.format(

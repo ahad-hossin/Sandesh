@@ -42,7 +42,8 @@ def _item(src, title, url, when, desc="", image="", category=""):
         "lang": src["lang"],
         "title": re.sub(r"\s+", " ", title).strip(),
         "url": url.strip(),
-        "published": when.strftime("%Y-%m-%dT%H:%M:%SZ"),
+        # when=None -> publication time genuinely unknown (don't fake "now")
+        "published": when.strftime("%Y-%m-%dT%H:%M:%SZ") if when else "",
         "description": desc,
         "image": image,
         "category": category,
@@ -124,7 +125,6 @@ _DS_ARTICLE = re.compile(r"^/[\w/-]+/news/[\w-]+-\d+$")
 
 def _fetch_dailystar_today(src) -> list:
     soup = BeautifulSoup(http_get(src["url"]).text, "html.parser")
-    now = datetime.now(timezone.utc)
     items, seen = [], set()
     for a in soup.find_all("a", href=True):
         href = a["href"].split("?")[0]
@@ -133,7 +133,8 @@ def _fetch_dailystar_today(src) -> list:
             continue
         seen.add(href)
         cat = href.strip("/").split("/")[0]
-        items.append(_item(src, title, "https://www.thedailystar.net" + href, now, category=cat))
+        # the /todays-news page shows no per-article timestamps
+        items.append(_item(src, title, "https://www.thedailystar.net" + href, None, category=cat))
         if len(items) >= MAX_PER_SOURCE:
             break
     return items
