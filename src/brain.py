@@ -190,12 +190,62 @@ def _call_gemini(parts: list, schema: dict) -> dict:
                 data = resp.json()
                 text = data["candidates"][0]["content"]["parts"][0]["text"]
                 return json.loads(text)
-    # every Gemini lane failed — try GitHub Models (different provider,
-    # account-authenticated, immune to runner-IP throttling)
-    result = _call_github_models(parts, schema, last_err)
+    # every Gemini lane failed — cross-provider fallbacks (account-auth,
+    # immune to the runner-IP throttling that hits Gemini's free tier)
+    result = _call_groq(parts, schema, last_err)
+    if result is None:
+        result = _call_github_models(parts, schema, last_err)
     if result is not None:
         return result
     raise RuntimeError(f"Gemini unavailable after retries ({last_err})")
+
+
+def _openai_style_content(parts: list) -> tuple:
+    """Convert Gemini-style parts to OpenAI-style content; returns
+    (content, has_images)."""
+    content, has_images = [], False
+    for p in parts:
+        if "text" in p:
+            content.append({"type": "text", "text": p["text"]})
+        elif "inline_data" in p:
+            d = p["inline_data"]
+            has_images = True
+            content.append({"type": "image_url",
+                            "image_url": {"url": f"data:{d['mime_type']};base64,{d['data']}"}})
+    return content, has_images
+
+
+def _call_groq(parts: list, schema: dict, gemini_err: str = ""):
+    if not config.GROQ_API_KEY:
+        return None
+    if budget.remaining("groq", config.GROQ_DAILY_LIMIT) <= 0:
+        print("  [budget] Groq fallback budget used up")
+        return None
+    print(f"  [warn] all Gemini lanes failed ({gemini_err}) — falling back to Groq")
+    content, has_images = _openai_style_content(parts)
+    # JSON mode needs the schema spelled out in the prompt
+    content.insert(0, {"type": "text", "text":
+                       "Respond ONLY with a JSON object exactly matching this JSON schema:\n"
+                       + json.dumps(schema)})
+    model = config.GROQ_VISION_MODEL if has_images else config.GROQ_TEXT_MODEL
+    try:
+        resp = requests.post(
+            "https://api.groq.com/openai/v1/chat/completions",
+            headers={"Authorization": f"Bearer {config.GROQ_API_KEY}"},
+            json={"model": model,
+                  "messages": [{"role": "user", "content": content}],
+                  "response_format": {"type": "json_object"},
+                  "temperature": 0.4},
+            timeout=90,
+        )
+        budget.spend("groq")
+        if resp.status_code != 200:
+            print(f"  [warn] Groq HTTP {resp.status_code}: {resp.text[:140]}")
+            return None
+        return json.loads(resp.json()["choices"][0]["message"]["content"])
+    except Exception as e:
+        print(f"  [warn] Groq fallback failed: {str(e)[:120]}")
+        return None
 
 
 _GH_MODELS_URL = "https://models.github.ai/inference/chat/completions"

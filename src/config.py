@@ -39,6 +39,13 @@ GEMINI_DAILY_LIMITS = {
 }
 GEMINI_MIN_INTERVAL = float(os.environ.get("GEMINI_MIN_INTERVAL", "6.5"))  # sec between calls (10 RPM)
 
+# Groq: first cross-provider fallback when every Gemini lane fails.
+# Account-authenticated (no runner-IP issues), fast, generous free tier.
+GROQ_API_KEY = os.environ.get("GROQ_API_KEY", "")
+GROQ_TEXT_MODEL = os.environ.get("GROQ_TEXT_MODEL", "llama-3.3-70b-versatile")
+GROQ_VISION_MODEL = os.environ.get("GROQ_VISION_MODEL", "meta-llama/llama-4-scout-17b-16e-instruct")
+GROQ_DAILY_LIMIT = int(os.environ.get("GROQ_DAILY_LIMIT", "800"))
+
 # GitHub Models: last-resort fallback when every Gemini lane fails. Runs on
 # GitHub's own infra, authenticated by the workflow token (no IP-reputation
 # problems on Actions runners). Free tier is modest — reserve for outages.
