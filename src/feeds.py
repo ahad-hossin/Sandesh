@@ -125,16 +125,39 @@ _DS_ARTICLE = re.compile(r"^/[\w/-]+/news/[\w-]+-\d+$")
 
 def _fetch_dailystar_today(src) -> list:
     soup = BeautifulSoup(http_get(src["url"]).text, "html.parser")
+    now = datetime.now(timezone.utc)
     items, seen = [], set()
-    for a in soup.find_all("a", href=True):
+    for h3 in soup.find_all("h3", class_="card-title"):
+        a = h3.find("a", href=True)
+        if not a:
+            continue
         href = a["href"].split("?")[0]
         title = a.get_text(" ", strip=True)
         if not _DS_ARTICLE.match(href) or len(title) < 20 or href in seen:
             continue
+        # the card wrapper carries "N hour(s) ago" and the intro text
+        card, info, intro = h3, None, None
+        for _ in range(5):
+            card = card.parent
+            if card is None:
+                break
+            info = card.find(class_="card-info")
+            if info:
+                intro = card.find(class_="card-intro")
+                break
+        when = None
+        if info:
+            m = re.search(r"(\d+)\s*(minute|hour|day)", info.get_text(" ", strip=True).lower())
+            if m:
+                n, unit = int(m.group(1)), m.group(2)
+                when = now - timedelta(**{unit + "s": n})
+        if when and when < _cutoff():
+            continue
         seen.add(href)
+        desc = intro.get_text(" ", strip=True)[:400] if intro else ""
         cat = href.strip("/").split("/")[0]
-        # the /todays-news page shows no per-article timestamps
-        items.append(_item(src, title, "https://www.thedailystar.net" + href, None, category=cat))
+        items.append(_item(src, title, "https://www.thedailystar.net" + href, when,
+                           desc=desc, category=cat))
         if len(items) >= MAX_PER_SOURCE:
             break
     return items
