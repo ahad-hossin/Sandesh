@@ -4898,5 +4898,23 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media_publish :: {\"error\":{\"message\":\"Fatal\",\"type\":\"OAuthExcep",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "30e0e2c7e5733aaf",
+  "url": "https://www.thedailystar.net/news/world/us-israel-war-iran/news/trump-cancels-us-strikes-iran-citing-progress-talks-4196761",
+  "headline": "Trump cancels US strikes on Iran citing diplomatic progress",
+  "topic": "trump cancels iran strikes",
+  "source": "Jamuna TV, The Daily Star",
+  "status": "queued",
+  "at": "2026-06-11T19:06:37Z"
+ },
+ {
+  "title_hash": "4df1e961a01afd77",
+  "url": "https://www.jamuna.tv/international/657923",
+  "headline": "Trump cancels US strikes on Iran citing diplomatic progress",
+  "topic": "trump cancels iran strikes",
+  "source": "Jamuna TV, The Daily Star",
+  "status": "queued",
+  "at": "2026-06-11T19:06:37Z"
  }
 ]
