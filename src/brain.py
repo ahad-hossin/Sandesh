@@ -190,7 +190,55 @@ def _call_gemini(parts: list, schema: dict) -> dict:
                 data = resp.json()
                 text = data["candidates"][0]["content"]["parts"][0]["text"]
                 return json.loads(text)
+    # every Gemini lane failed — try GitHub Models (different provider,
+    # account-authenticated, immune to runner-IP throttling)
+    result = _call_github_models(parts, schema, last_err)
+    if result is not None:
+        return result
     raise RuntimeError(f"Gemini unavailable after retries ({last_err})")
+
+
+_GH_MODELS_URL = "https://models.github.ai/inference/chat/completions"
+
+
+def _call_github_models(parts: list, schema: dict, gemini_err: str = ""):
+    if not config.GH_MODELS_TOKEN:
+        return None
+    if budget.remaining("ghmodels", config.GH_MODELS_DAILY_LIMIT) <= 0:
+        print("  [budget] GitHub Models fallback budget used up")
+        return None
+    print(f"  [warn] all Gemini lanes failed ({gemini_err}) — falling back to GitHub Models")
+    content = []
+    for p in parts:
+        if "text" in p:
+            content.append({"type": "text", "text": p["text"]})
+        elif "inline_data" in p:
+            d = p["inline_data"]
+            content.append({"type": "image_url",
+                            "image_url": {"url": f"data:{d['mime_type']};base64,{d['data']}"}})
+    body = {
+        "model": config.GH_MODELS_MODEL,
+        "messages": [{"role": "user", "content": content}],
+        "response_format": {"type": "json_schema",
+                            "json_schema": {"name": "output", "schema": schema}},
+        "temperature": 0.4,
+    }
+    try:
+        resp = requests.post(
+            _GH_MODELS_URL,
+            headers={"Authorization": f"Bearer {config.GH_MODELS_TOKEN}",
+                     "X-GitHub-Api-Version": "2022-11-28"},
+            json=body,
+            timeout=90,
+        )
+        budget.spend("ghmodels")
+        if resp.status_code != 200:
+            print(f"  [warn] GitHub Models HTTP {resp.status_code}: {resp.text[:140]}")
+            return None
+        return json.loads(resp.json()["choices"][0]["message"]["content"])
+    except Exception as e:
+        print(f"  [warn] GitHub Models fallback failed: {str(e)[:120]}")
+        return None
 
 
 _DUP_SCHEMA = {

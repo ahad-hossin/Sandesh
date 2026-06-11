@@ -7,6 +7,7 @@ on:
 
 permissions:
   contents: write
+  models: read   # GitHub Models fallback when Gemini is unreachable from runner IPs
 
 concurrency:
   group: news-bot
@@ -34,6 +35,7 @@ jobs:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           GEMINI_API_KEY_2: ${{ secrets.GEMINI_API_KEY_2 }}
           GEMINI_API_KEY_3: ${{ secrets.GEMINI_API_KEY_3 }}
+          GH_MODELS_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           BRAND_NAME: ${{ vars.BRAND_NAME || 'SANDESH' }}
           MAX_POSTS_PER_RUN: ${{ vars.MAX_POSTS_PER_RUN || '2' }}
         run: python -m src.main generate

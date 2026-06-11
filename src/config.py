@@ -39,6 +39,13 @@ GEMINI_DAILY_LIMITS = {
 }
 GEMINI_MIN_INTERVAL = float(os.environ.get("GEMINI_MIN_INTERVAL", "6.5"))  # sec between calls (10 RPM)
 
+# GitHub Models: last-resort fallback when every Gemini lane fails. Runs on
+# GitHub's own infra, authenticated by the workflow token (no IP-reputation
+# problems on Actions runners). Free tier is modest — reserve for outages.
+GH_MODELS_TOKEN = os.environ.get("GH_MODELS_TOKEN", "")
+GH_MODELS_MODEL = os.environ.get("GH_MODELS_MODEL", "openai/gpt-4o-mini")
+GH_MODELS_DAILY_LIMIT = int(os.environ.get("GH_MODELS_DAILY_LIMIT", "140"))
+
 IG_DAILY_LIMIT = int(os.environ.get("IG_DAILY_LIMIT", "45"))    # Meta hard limit: 50 posts/24h
 FB_DAILY_LIMIT = int(os.environ.get("FB_DAILY_LIMIT", "90"))    # generous self-imposed cap
 X_DAILY_LIMIT = int(os.environ.get("X_DAILY_LIMIT", "16"))      # keeps X free tier viable
