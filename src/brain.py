@@ -234,7 +234,9 @@ def select_stories(candidates: list, history: list) -> list:
             hours = (now - dt).total_seconds() / 3600
             return f"{hours:.1f}h ago"
         except Exception:
-            return "age unknown"
+            # Daily Star's /todays-news page lists today's edition without
+            # per-article times
+            return "today (exact time unknown)"
 
     cand_lines = "\n".join(
         f"{i} | {c['source']} | {c['lang']} | {_age(c)} | {c.get('category','')} | {c['title']} | {c['description'][:140]}"
