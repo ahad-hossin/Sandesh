@@ -8,12 +8,47 @@ Phase 2 (one call per selected story): read the article's actual body text and
 write the post — headline with a [[highlighted]] key phrase, summary, the
 details-slide paragraphs, caption and tweet, all in English."""
 import json
+import re
 import time
 from datetime import datetime, timezone
 
 import requests
 
 from . import budget, config
+
+
+def _extract_json(text: str) -> dict:
+    """Parse a JSON object out of model output that may carry markdown fences
+    or stray prose around it (Gemma especially)."""
+    text = text.strip()
+    text = re.sub(r"^```[a-z]*\s*", "", text)
+    text = re.sub(r"\s*```\s*$", "", text)
+    try:
+        return json.loads(text)
+    except json.JSONDecodeError:
+        pass
+    start = text.find("{")
+    if start < 0:
+        raise ValueError("no JSON object in model output")
+    depth, in_str, esc = 0, False, False
+    for i in range(start, len(text)):
+        ch = text[i]
+        if in_str:
+            if esc:
+                esc = False
+            elif ch == "\\":
+                esc = True
+            elif ch == '"':
+                in_str = False
+        elif ch == '"':
+            in_str = True
+        elif ch == "{":
+            depth += 1
+        elif ch == "}":
+            depth -= 1
+            if depth == 0:
+                return json.loads(text[start:i + 1])
+    raise ValueError("unbalanced JSON in model output")
 
 _last_call = 0.0
 
@@ -188,8 +223,12 @@ def _call_gemini(parts: list, schema: dict) -> dict:
                     last_err = f"HTTP {resp.status_code} on {model} (key {ki + 1}): {resp.text[:160]}"
                     break
                 data = resp.json()
-                text = data["candidates"][0]["content"]["parts"][0]["text"]
-                return json.loads(text)
+                try:
+                    text = data["candidates"][0]["content"]["parts"][0]["text"]
+                    return _extract_json(text)
+                except (KeyError, IndexError, ValueError) as e:
+                    last_err = f"unparseable output from {model}: {str(e)[:60]}"
+                    break
     # every Gemini lane failed — cross-provider fallbacks (account-auth,
     # immune to the runner-IP throttling that hits Gemini's free tier)
     result = _call_groq(parts, schema, last_err)
@@ -242,7 +281,7 @@ def _call_groq(parts: list, schema: dict, gemini_err: str = ""):
         if resp.status_code != 200:
             print(f"  [warn] Groq HTTP {resp.status_code}: {resp.text[:140]}")
             return None
-        return json.loads(resp.json()["choices"][0]["message"]["content"])
+        return _extract_json(resp.json()["choices"][0]["message"]["content"])
     except Exception as e:
         print(f"  [warn] Groq fallback failed: {str(e)[:120]}")
         return None
@@ -285,7 +324,7 @@ def _call_github_models(parts: list, schema: dict, gemini_err: str = ""):
         if resp.status_code != 200:
             print(f"  [warn] GitHub Models HTTP {resp.status_code}: {resp.text[:140]}")
             return None
-        return json.loads(resp.json()["choices"][0]["message"]["content"])
+        return _extract_json(resp.json()["choices"][0]["message"]["content"])
     except Exception as e:
         print(f"  [warn] GitHub Models fallback failed: {str(e)[:120]}")
         return None

@@ -17,10 +17,12 @@ GEMINI_API_KEY_2 = os.environ.get("GEMINI_API_KEY_2", "")  # backup keys
 GEMINI_API_KEY_3 = os.environ.get("GEMINI_API_KEY_3", "")
 GEMINI_API_KEYS = [k for k in (GEMINI_API_KEY, GEMINI_API_KEY_2, GEMINI_API_KEY_3) if k]
 GEMINI_MODEL = os.environ.get("GEMINI_MODEL", "gemini-2.5-flash")
-# tried in order when the primary model keeps returning 429/5xx
+# tried in order when the primary model keeps returning 429/5xx.
+# gemma-4-31b-it is the capacity workhorse: 1,500 req/day free (vs 20 for
+# the Gemini models) with vision. 2.0-flash removed (free tier gives it 0/day).
 GEMINI_FALLBACK_MODELS = [
     m.strip() for m in os.environ.get(
-        "GEMINI_FALLBACK_MODELS", "gemini-2.0-flash,gemini-2.5-flash-lite"
+        "GEMINI_FALLBACK_MODELS", "gemma-4-31b-it,gemini-2.5-flash-lite"
     ).split(",") if m.strip()
 ]
 
@@ -29,13 +31,15 @@ MAX_POSTS_PER_RUN = int(os.environ.get("MAX_POSTS_PER_RUN", "2"))
 MAX_ITEM_AGE_HOURS = int(os.environ.get("MAX_ITEM_AGE_HOURS", "24"))
 
 # --- API budgets (calls per UTC day unless noted) ---
-# Gemini free tier is roughly 10 req/min and 250 req/day per model; budgets
-# stay under that with margin for retries. Override any of these via env.
-GEMINI_DEFAULT_DAILY_LIMIT = 150
+# Google slashed the Gemini free tier: ~20 requests/day per model PER PROJECT
+# (keys in the same project share the pool — assume shared and budget each
+# key at a third). Groq (800/day) carries the bulk once Gemini's small daily
+# allowance is spent. Override any of these via env.
+GEMINI_DEFAULT_DAILY_LIMIT = 6
 GEMINI_DAILY_LIMITS = {
-    "gemini-2.5-flash": int(os.environ.get("GEMINI_25_FLASH_DAILY", "230")),
-    "gemini-2.0-flash": int(os.environ.get("GEMINI_20_FLASH_DAILY", "180")),
-    "gemini-2.5-flash-lite": int(os.environ.get("GEMINI_25_LITE_DAILY", "900")),
+    "gemini-2.5-flash": int(os.environ.get("GEMINI_25_FLASH_DAILY", "6")),
+    "gemma-4-31b-it": int(os.environ.get("GEMMA_4_31B_DAILY", "450")),
+    "gemini-2.5-flash-lite": int(os.environ.get("GEMINI_25_LITE_DAILY", "6")),
 }
 GEMINI_MIN_INTERVAL = float(os.environ.get("GEMINI_MIN_INTERVAL", "6.5"))  # sec between calls (10 RPM)
 
