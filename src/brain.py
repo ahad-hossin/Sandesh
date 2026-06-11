@@ -100,7 +100,7 @@ Tweet rules: standalone, lead with the hook, under 270 chars, 1-3 hashtags.
 
 Platform safety (this page must never violate Facebook/Instagram policies):
 - Never glorify or sensationalize violence; report it neutrally. Attribute every health/medical claim to its source (e.g. "according to the DGHS"). Use strictly neutral wording on political and communal stories.
-- story_risk: "clean" for normal news; "sensitive" for violent crime, disasters, communal or health stories (your wording must be extra careful); "graphic" if the story centers on gory/disturbing details (it will be posted without a photo); "do_not_post" ONLY if the story cannot be covered at all without violating platform policy (gratuitous gore, glorifying violence or terrorism, explicit content).
+- story_risk: "clean" for normal news; "sensitive" for violent crime, disasters, communal or health stories (your wording must be extra careful); "graphic" if the story centers on gory/disturbing details (use strictly clinical wording); "do_not_post" ONLY if the story cannot be covered at all without violating platform policy (gratuitous gore, glorifying violence or terrorism, explicit content).
 - Soften, never censor: for sensitive/graphic stories use plain clinical wording ("killed", "injured") and skip gory specifics (method details, wound descriptions, suffering) — but keep every word intact and factual. Never mask words with symbols or slang ("k*lled", "unalived"): masking looks spammy and platforms detect it anyway. The goal is that almost every story remains postable through neutral wording.
 - image_safe: a photo may be attached to this message. Set image_safe=false if it shows blood, dead bodies, graphic injuries, weapons being used on people, or nudity — anything Meta's filters would flag. If no photo is attached, set true.
 
@@ -177,6 +177,39 @@ def _call_gemini(parts: list, schema: dict) -> dict:
                 text = data["candidates"][0]["content"]["parts"][0]["text"]
                 return json.loads(text)
     raise RuntimeError(f"Gemini unavailable after retries ({last_err})")
+
+
+_IMG_CHECK_SCHEMA = {
+    "type": "object",
+    "properties": {"image_safe": {"type": "boolean"}},
+    "required": ["image_safe"],
+}
+
+_IMG_CHECK_PROMPT = (
+    "Is the attached photo safe to publish on a news page on Facebook/Instagram? "
+    "Unsafe: blood, dead bodies, graphic injuries, weapons being fired or used on "
+    "people, explosions/strikes with visible destruction or casualties, nudity — "
+    "anything Meta's content filters would flag. Neutral portraits, buildings, "
+    "meetings, landscapes, sports are safe."
+)
+
+
+def check_image_safe(image_data_uri: str) -> bool:
+    """Standalone vision check for a fallback image (only used when the first
+    candidate photo was flagged in the compose call)."""
+    if not image_data_uri.startswith("data:"):
+        return False
+    header, b64 = image_data_uri.split(",", 1)
+    mime = header.split(":", 1)[1].split(";", 1)[0]
+    try:
+        result = _call_gemini(
+            [{"text": _IMG_CHECK_PROMPT}, {"inline_data": {"mime_type": mime, "data": b64}}],
+            _IMG_CHECK_SCHEMA,
+        )
+        return bool(result.get("image_safe", False))
+    except Exception as e:
+        print(f"  [warn] image safety check failed: {e}")
+        return False
 
 
 def select_stories(candidates: list, history: list) -> list:

@@ -81,26 +81,32 @@ def generate() -> int:
                     if art["text"]:
                         art_provider = c["source"]
                         break
-        # photo first (RSS thumbnail -> primary og:image -> other outlets in
-        # the cluster), so the compose call can safety-check it for free
-        image_uri, photo_credit = "", ""
+        # candidate photos in preference order: primary RSS thumb, primary
+        # article og:image, then every other outlet's thumb/og:image
+        candidates_img = []
         if primary.get("image"):
-            image_uri = article.fetch_as_data_uri(article.upgrade_thumb(primary["image"]))
-            photo_credit = primary["source"]
-        if not image_uri and art.get("og_image"):
-            image_uri = article.fetch_as_data_uri(art["og_image"])
-            photo_credit = art_provider
-        if not image_uri:
-            for c in cluster:
-                if c["url"] == primary["url"]:
-                    continue
-                img_url = article.upgrade_thumb(c.get("image", "")) or \
-                    article.fetch_article(c["url"]).get("og_image", "")
-                if img_url:
-                    image_uri = article.fetch_as_data_uri(img_url)
-                    if image_uri:
-                        photo_credit = c["source"]
-                        break
+            candidates_img.append((article.upgrade_thumb(primary["image"]), primary["source"]))
+        if art.get("og_image"):
+            candidates_img.append((art["og_image"], art_provider))
+        for c in cluster:
+            if c["url"] == primary["url"]:
+                continue
+            if c.get("image"):
+                candidates_img.append((article.upgrade_thumb(c["image"]), c["source"]))
+            else:
+                candidates_img.append(("og:" + c["url"], c["source"]))
+
+        def _resolve(ref: str) -> str:
+            if ref.startswith("og:"):
+                ref = article.fetch_article(ref[3:]).get("og_image", "")
+            return article.fetch_as_data_uri(ref) if ref else ""
+
+        image_uri, photo_credit, used_idx = "", "", -1
+        for i, (ref, credit) in enumerate(candidates_img):
+            uri = _resolve(ref)
+            if uri:
+                image_uri, photo_credit, used_idx = uri, credit, i
+                break
 
         try:
             post = brain.compose_post(story, art["text"], image_uri)
@@ -123,9 +129,16 @@ def generate() -> int:
                                            "headline": post["headline"], "topic": post["topic"],
                                            "source": post["source"]}, "policy-skip")
             continue
-        if image_uri and (post["story_risk"] == "graphic" or not post["image_safe"]):
-            print(f"  [policy] dropping photo for '{post['headline'][:60]}' (risk={post['story_risk']}, image_safe={post['image_safe']})")
+        if image_uri and not post["image_safe"]:
+            # flagged photo: try the other outlets' photos before going text-only
+            print(f"  [policy] photo from {photo_credit} flagged unsafe — trying alternatives")
             image_uri, photo_credit = "", ""
+            for ref, credit in candidates_img[used_idx + 1:]:
+                uri = _resolve(ref)
+                if uri and brain.check_image_safe(uri):
+                    image_uri, photo_credit = uri, credit
+                    print(f"  [policy] using safe alternative photo from {credit}")
+                    break
 
         post["image_data_uri"] = image_uri
         post["photo_credit"] = photo_credit
@@ -159,7 +172,9 @@ def generate() -> int:
 
     lines = ["## News bot — generated", ""]
     for p in posts:
-        lines.append(f"- **{p['headline']}** ({p['category']}, {p['template']}) — {p['source']}")
+        photo = f"photo: {p['photo_credit']}" if p.get("image_data_uri") else "no photo"
+        lines.append(f"- **{p['headline']}** ({p['category']}, {p['template']}, "
+                     f"risk: {p['story_risk']}, {photo}, {len(p['image_files'])} slides) — {p['source']}")
     lines += ["", f"Budgets after run: {budget.summary()}"]
     _summary(lines)
     return 0
