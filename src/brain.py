@@ -156,15 +156,20 @@ def _call_gemini(parts: list, schema: dict) -> dict:
                     continue
                 budget.spend(pair)
                 if resp.status_code == 429:
-                    # could be the per-minute limit, not the daily one: cool
-                    # off and retry once before benching this key+model pair
+                    body = resp.text.lower()
+                    if "perday" in body or "per day" in body or "daily" in body:
+                        # genuinely out of daily quota — bench this lane
+                        budget.exhaust(pair, limit)
+                        last_err = f"HTTP 429 on {model} (key {ki + 1}, daily quota)"
+                        break
+                    # per-minute / ambiguous throttle: cool off once, then
+                    # move to the next lane WITHOUT benching this one
                     if attempt == 0:
                         print(f"  [warn] HTTP 429 on {model} (key {ki + 1}), cooling off 35s...")
                         time.sleep(35)
                         last_err = f"HTTP 429 on {model} (key {ki + 1})"
                         continue
-                    budget.exhaust(pair, limit)
-                    last_err = f"HTTP 429 on {model} (key {ki + 1}, persistent)"
+                    last_err = f"HTTP 429 on {model} (key {ki + 1}, throttled)"
                     break
                 if resp.status_code == 403:
                     # usually Google momentarily flagging the CI runner's IP
