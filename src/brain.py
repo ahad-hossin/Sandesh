@@ -113,10 +113,11 @@ _COMPOSE_SCHEMA = {
         "hook": {"type": "string", "description": "1-2 punchy factual lines that open the caption — what shows before '...more', impossible to scroll past"},
         "hashtags": {"type": "string", "description": "4-6 widely-used, non-restricted hashtags separated by spaces, mixing broad reach (#Bangladesh #News) with story-specific tags"},
         "tweet": {"type": "string", "description": "standalone X post, max 270 chars incl. 1-3 hashtags"},
+        "location": {"type": "string", "description": "the city/town this story happened in, for the Instagram location tag — e.g. 'Dhaka', 'Khulna', 'Narayanganj', 'Mexico City'; empty string if there is no single clear place"},
         "story_risk": {"type": "string", "enum": ["clean", "sensitive", "graphic", "do_not_post"]},
         "best_image": {"type": "integer", "description": "1-based index of the attached photo to use as the cover — the most relevant, visually striking AND platform-safe one. 0 if none of the attached photos is suitable or safe."},
     },
-    "required": ["headline", "summary", "category", "template", "details", "hook", "hashtags", "tweet", "story_risk", "best_image"],
+    "required": ["headline", "summary", "category", "template", "details", "hook", "hashtags", "tweet", "location", "story_risk", "best_image"],
 }
 
 _COMPOSE_PROMPT = """You are the editor of "{brand}", a Bangladeshi news page that posts in ENGLISH.
@@ -133,6 +134,7 @@ Template rules (pick exactly by these):
 Details rules: short paragraphs (2-3 sentences each) telling the FULL story — what/who/where/numbers/background/what's next. Use as many paragraphs as the story needs (typically 4-10); they flow across the details slides of the carousel. Put the most gripping facts in the first paragraph.
 Hook rules: 1-2 lines that open the caption — it's all people see before "...more", so make it impossible to scroll past (a striking fact, number or question; still factual). The full story details follow it automatically, so don't repeat them.
 Tweet rules: standalone, lead with the hook, under 270 chars, 1-3 hashtags.
+Location rule: name the single city/town where the story happened (for the Instagram location tag). Use the most specific real place ('Narayanganj', not 'Bangladesh'). Empty string when the story spans many places or has no geographic anchor.
 
 Platform safety (this page must never violate Facebook/Instagram policies):
 - Never glorify or sensationalize violence; report it neutrally. Attribute every health/medical claim to its source (e.g. "according to the DGHS"). Use strictly neutral wording on political and communal stories.
@@ -480,6 +482,7 @@ def compose_post(story: dict, article_text: str, images: list = None) -> dict:
         "caption": caption,
         "tweet": p["tweet"][:275],
         "story_risk": p.get("story_risk", "clean"),
+        "location": (p.get("location") or "").strip()[:60],
         "image_data_uri": image_data_uri,
         "photo_credit": photo_credit,
         "source": sources,

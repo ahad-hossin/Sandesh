@@ -45,6 +45,46 @@ def post_facebook(post: dict) -> str:
     return resp.json().get("post_id") or resp.json().get("id", "ok")
 
 
+def _ig_location_id(place: str) -> str:
+    """Find a Meta place page for the story's location ('' if none found)."""
+    if not place:
+        return ""
+    try:
+        resp = requests.get(
+            f"{GRAPH}/pages/search",
+            params={"q": place, "fields": "id,name,location",
+                    "access_token": config.META_ACCESS_TOKEN},
+            timeout=30,
+        )
+        if resp.status_code != 200:
+            print(f"  [warn] place search failed ({resp.status_code}) — posting without location")
+            return ""
+        results = [d for d in resp.json().get("data", []) if d.get("location")]
+        # prefer a Bangladeshi place when the name is ambiguous
+        bd = [d for d in results if (d["location"].get("country") or "") == "Bangladesh"]
+        pick = (bd or results)[0] if (bd or results) else None
+        if pick:
+            print(f"  [location] '{place}' -> {pick['name']} ({pick['id']})")
+            return pick["id"]
+    except Exception as e:
+        print(f"  [warn] place search error: {str(e)[:80]}")
+    return ""
+
+
+def _ig_create(data: dict, loc_id: str):
+    """Create an IG media container; if the location is rejected, retry
+    without it rather than losing the post."""
+    if loc_id:
+        attempt = dict(data, location_id=loc_id)
+        resp = requests.post(f"{GRAPH}/{config.IG_USER_ID}/media", data=attempt, timeout=120)
+        if resp.status_code == 200:
+            return resp
+        print(f"  [warn] container with location failed ({resp.status_code}) — retrying without")
+    resp = requests.post(f"{GRAPH}/{config.IG_USER_ID}/media", data=data, timeout=120)
+    resp.raise_for_status()
+    return resp
+
+
 def _ig_wait(container: str, tries: int = 5) -> None:
     # frugal polling — Meta's app-level budget is ~200 calls/hour and status
     # checks count against it
@@ -105,14 +145,11 @@ def post_instagram(post: dict) -> str:
     if probe.status_code != 200:
         return f"skipped: image URL not publicly reachable (HTTP {probe.status_code} — is the repo private?)"
 
+    loc_id = _ig_location_id(post.get("location", ""))
+
     if len(urls) == 1:
-        resp = requests.post(
-            f"{GRAPH}/{config.IG_USER_ID}/media",
-            data={"image_url": urls[0], "caption": post["caption"],
-                  "access_token": config.META_ACCESS_TOKEN},
-            timeout=120,
-        )
-        resp.raise_for_status()
+        resp = _ig_create({"image_url": urls[0], "caption": post["caption"],
+                           "access_token": config.META_ACCESS_TOKEN}, loc_id)
         container = resp.json()["id"]
     else:
         children = []
@@ -127,13 +164,9 @@ def post_instagram(post: dict) -> str:
             child = resp.json()["id"]
             _ig_wait(child)
             children.append(child)
-        resp = requests.post(
-            f"{GRAPH}/{config.IG_USER_ID}/media",
-            data={"media_type": "CAROUSEL", "children": ",".join(children),
-                  "caption": post["caption"], "access_token": config.META_ACCESS_TOKEN},
-            timeout=120,
-        )
-        resp.raise_for_status()
+        resp = _ig_create({"media_type": "CAROUSEL", "children": ",".join(children),
+                           "caption": post["caption"],
+                           "access_token": config.META_ACCESS_TOKEN}, loc_id)
         container = resp.json()["id"]
 
     _ig_wait(container)
