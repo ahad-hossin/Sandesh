@@ -57,7 +57,7 @@ GH_MODELS_TOKEN = os.environ.get("GH_MODELS_TOKEN", "")
 GH_MODELS_MODEL = os.environ.get("GH_MODELS_MODEL", "openai/gpt-4o-mini")
 GH_MODELS_DAILY_LIMIT = int(os.environ.get("GH_MODELS_DAILY_LIMIT", "140"))
 
-IG_DAILY_LIMIT = int(os.environ.get("IG_DAILY_LIMIT", "45"))    # Meta hard limit: 50 posts/24h
+IG_DAILY_LIMIT = int(os.environ.get("IG_DAILY_LIMIT", "48"))    # Meta hard limit: 50 posts/24h; 2/hr steady = 48
 FB_DAILY_LIMIT = int(os.environ.get("FB_DAILY_LIMIT", "90"))    # generous self-imposed cap
 X_DAILY_LIMIT = int(os.environ.get("X_DAILY_LIMIT", "16"))      # keeps X free tier viable
 X_MONTHLY_LIMIT = int(os.environ.get("X_MONTHLY_LIMIT", "480")) # X free tier: ~500 writes/month
