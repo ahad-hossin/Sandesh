@@ -6473,8 +6473,13 @@
   "headline": "Police raid home of 'Grenade Babu' in Khulna, brother Joni detained",
   "topic": "khulna-crime-updates",
   "source": "Dhaka Tribune, Prothom Alo",
-  "status": "queued",
-  "at": "2026-06-12T14:17:36Z"
+  "status": "failed",
+  "at": "2026-06-12T14:17:36Z",
+  "results": {
+   "facebook": "error: 500 Server Error: Internal Server Error for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"An unexpected error has",
+   "instagram": "error: 500 Server Error: Internal Server Error for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"An unexpected error has",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "4a3a7246832d7904",
@@ -6482,8 +6487,13 @@
   "headline": "Police raid home of 'Grenade Babu' in Khulna, brother Joni detained",
   "topic": "khulna-crime-updates",
   "source": "Dhaka Tribune, Prothom Alo",
-  "status": "queued",
-  "at": "2026-06-12T14:17:36Z"
+  "status": "failed",
+  "at": "2026-06-12T14:17:36Z",
+  "results": {
+   "facebook": "error: 500 Server Error: Internal Server Error for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"An unexpected error has",
+   "instagram": "error: 500 Server Error: Internal Server Error for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"An unexpected error has",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "842f282797f0b035",
@@ -6491,7 +6501,12 @@
   "headline": "UK lawyer of Bangladeshi origin license suspended for 6 months over ChatGPT case",
   "topic": "uk-bangladeshi-lawyer-suspended",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-06-12T14:17:36Z"
+  "status": "failed",
+  "at": "2026-06-12T14:17:36Z",
+  "results": {
+   "facebook": "error: 500 Server Error: Internal Server Error for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"An unexpected error has",
+   "instagram": "error: 500 Server Error: Internal Server Error for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"An unexpected error has",
+   "x": "dry-run"
+  }
  }
 ]
