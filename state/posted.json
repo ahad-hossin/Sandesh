@@ -5731,8 +5731,13 @@
   "headline": "Father detained for allegedly killing 2-month-old son",
   "topic": "father arrested killing infant son",
   "source": "Somoy News, Prothom Alo",
-  "status": "queued",
-  "at": "2026-06-12T08:06:29Z"
+  "status": "posted",
+  "at": "2026-06-12T08:06:29Z",
+  "results": {
+   "facebook": "1237737746078842_122097394311361546",
+   "instagram": "error: 500 Server Error: Internal Server Error for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"code\":1,\"message\":\"An unknown err",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "18faf1724e187967",
@@ -5740,8 +5745,13 @@
   "headline": "Father detained for allegedly killing 2-month-old son",
   "topic": "father arrested killing infant son",
   "source": "Somoy News, Prothom Alo",
-  "status": "queued",
-  "at": "2026-06-12T08:06:29Z"
+  "status": "posted",
+  "at": "2026-06-12T08:06:29Z",
+  "results": {
+   "facebook": "1237737746078842_122097394311361546",
+   "instagram": "error: 500 Server Error: Internal Server Error for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"code\":1,\"message\":\"An unknown err",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "b3e9e88d257e2cff",
@@ -5749,8 +5759,13 @@
   "headline": "Woman dies after mugger yanks her from rickshaw in Dhaka",
   "topic": "dhaka mugging violence",
   "source": "bdnews24.com, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-06-12T08:06:29Z"
+  "status": "posted",
+  "at": "2026-06-12T08:06:29Z",
+  "results": {
+   "facebook": "1237737746078842_122097394803361546",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"The image format is not supported",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "d0db09dd1738760d",
@@ -5758,7 +5773,12 @@
   "headline": "Woman dies after mugger yanks her from rickshaw in Dhaka",
   "topic": "dhaka mugging violence",
   "source": "bdnews24.com, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-06-12T08:06:29Z"
+  "status": "posted",
+  "at": "2026-06-12T08:06:29Z",
+  "results": {
+   "facebook": "1237737746078842_122097394803361546",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"The image format is not supported",
+   "x": "dry-run"
+  }
  }
 ]
