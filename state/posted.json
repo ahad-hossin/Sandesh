@@ -6389,8 +6389,13 @@
   "headline": "17-year wait ends: Mohammedan wins DPL crown after dramatic finale",
   "topic": "mohammedan wins dpl crown",
   "source": "Somoy News, The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-06-12T14:08:52Z"
+  "status": "failed",
+  "at": "2026-06-12T14:08:52Z",
+  "results": {
+   "facebook": "error: 500 Server Error: Internal Server Error for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"An unknown error has oc",
+   "instagram": "error: 500 Server Error: Internal Server Error for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"An unknown error has oc",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "b9dcd7451f6f58e5",
@@ -6398,8 +6403,13 @@
   "headline": "17-year wait ends: Mohammedan wins DPL crown after dramatic finale",
   "topic": "mohammedan wins dpl crown",
   "source": "Somoy News, The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-06-12T14:08:52Z"
+  "status": "failed",
+  "at": "2026-06-12T14:08:52Z",
+  "results": {
+   "facebook": "error: 500 Server Error: Internal Server Error for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"An unknown error has oc",
+   "instagram": "error: 500 Server Error: Internal Server Error for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"An unknown error has oc",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "68088312c49cef76",
@@ -6407,8 +6417,13 @@
   "headline": "17-year wait ends: Mohammedan wins DPL crown after dramatic finale",
   "topic": "mohammedan wins dpl crown",
   "source": "Somoy News, The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-06-12T14:08:52Z"
+  "status": "failed",
+  "at": "2026-06-12T14:08:52Z",
+  "results": {
+   "facebook": "error: 500 Server Error: Internal Server Error for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"An unknown error has oc",
+   "instagram": "error: 500 Server Error: Internal Server Error for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"An unknown error has oc",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "a47273129d85f9ee",
@@ -6416,8 +6431,13 @@
   "headline": "Afran Nisho returns as Masud in ‘Surongo 2’ officially announced",
   "topic": "surongo 2 official announcement",
   "source": "The Daily Star, Prothom Alo, Somoy News",
-  "status": "queued",
-  "at": "2026-06-12T14:08:52Z"
+  "status": "failed",
+  "at": "2026-06-12T14:08:52Z",
+  "results": {
+   "facebook": "error: 500 Server Error: Internal Server Error for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"An unknown error has oc",
+   "instagram": "error: 500 Server Error: Internal Server Error for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"An unknown error has oc",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "9aa2de1f1a326743",
@@ -6425,8 +6445,13 @@
   "headline": "Afran Nisho returns as Masud in ‘Surongo 2’ officially announced",
   "topic": "surongo 2 official announcement",
   "source": "The Daily Star, Prothom Alo, Somoy News",
-  "status": "queued",
-  "at": "2026-06-12T14:08:52Z"
+  "status": "failed",
+  "at": "2026-06-12T14:08:52Z",
+  "results": {
+   "facebook": "error: 500 Server Error: Internal Server Error for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"An unknown error has oc",
+   "instagram": "error: 500 Server Error: Internal Server Error for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"An unknown error has oc",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "1d85e130b63202d5",
@@ -6434,7 +6459,12 @@
   "headline": "Afran Nisho returns as Masud in ‘Surongo 2’ officially announced",
   "topic": "surongo 2 official announcement",
   "source": "The Daily Star, Prothom Alo, Somoy News",
-  "status": "queued",
-  "at": "2026-06-12T14:08:52Z"
+  "status": "failed",
+  "at": "2026-06-12T14:08:52Z",
+  "results": {
+   "facebook": "error: 500 Server Error: Internal Server Error for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"An unknown error has oc",
+   "instagram": "error: 500 Server Error: Internal Server Error for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"An unknown error has oc",
+   "x": "dry-run"
+  }
  }
 ]
