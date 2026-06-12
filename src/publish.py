@@ -204,16 +204,23 @@ def post_x(post: dict) -> str:
 
 
 def publish_post(post: dict) -> dict:
-    """Returns {platform: result-or-error} for one queued post."""
+    """Returns {platform: result-or-error} for one queued post. A 5xx from a
+    platform (e.g. a Meta outage blip) gets one patient retry."""
     results = {}
     for name, fn in (("facebook", post_facebook), ("instagram", post_instagram), ("x", post_x)):
-        try:
-            results[name] = fn(post)
-        except Exception as e:
-            detail = str(e)
-            body = getattr(getattr(e, "response", None), "text", "")
-            if body:
-                detail += f" :: {body[:300]}"
-            results[name] = f"error: {detail}"
-            print(f"  [error] {name}: {detail}")
+        for attempt in range(2):
+            try:
+                results[name] = fn(post)
+                break
+            except Exception as e:
+                detail = str(e)
+                body = getattr(getattr(e, "response", None), "text", "")
+                if body:
+                    detail += f" :: {body[:300]}"
+                if attempt == 0 and "500 Server Error" in detail:
+                    print(f"  [warn] {name}: server error — retrying in 60s...")
+                    time.sleep(60)
+                    continue
+                results[name] = f"error: {detail}"
+                print(f"  [error] {name}: {detail}")
     return results

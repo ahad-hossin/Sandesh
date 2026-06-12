@@ -41,7 +41,10 @@ def generate() -> int:
     print(f"Total fresh candidates: {len(candidates)}")
 
     history = state.load_history()
-    seen = state.seen_keys(history)
+    # failed publishes (e.g. during a Meta outage) must not block a retry —
+    # dedup only against what actually went out
+    history_active = [e for e in history if e.get("status") != "failed"]
+    seen = state.seen_keys(history_active)
     fresh = [
         c for c in candidates
         if c["url"] not in seen and state.title_hash(c["title"]) not in seen
@@ -54,7 +57,7 @@ def generate() -> int:
 
     print("== Phase 1: Gemini selects and dedupes stories ==")
     try:
-        stories = brain.select_stories(feeds.interleave_cap(fresh, 180), history)
+        stories = brain.select_stories(feeds.interleave_cap(fresh, 180), history_active)
     except Exception as e:
         # a Gemini outage shouldn't fail the whole run — skip this hour
         _summary(["## News bot", f"Skipped this hour: Gemini unavailable ({e})"])
@@ -122,8 +125,8 @@ def generate() -> int:
         # dedup: lexical word-overlap raises the ALARM, the focused AI check
         # is the JUDGE — it knows a match result after a match preview (or a
         # verdict after a trial) is new news, not a duplicate
-        lex_alarm = state.is_duplicate(post["headline"], post["topic"], history)
-        similar = state.top_overlapping(post["headline"], post["topic"], history)
+        lex_alarm = state.is_duplicate(post["headline"], post["topic"], history_active)
+        similar = state.top_overlapping(post["headline"], post["topic"], history_active)
         if lex_alarm or similar:
             dup_idx = 0
             if similar:
