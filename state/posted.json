@@ -8372,8 +8372,13 @@
   "headline": "Toxic lead from toys mixes into children's blood, raising health risks",
   "topic": "toxic lead in children toys",
   "source": "Somoy News",
-  "status": "queued",
-  "at": "2026-06-15T00:08:22Z"
+  "status": "failed",
+  "at": "2026-06-15T00:08:22Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"Any of the pages_read_engagement,",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"Any of the pages_read_engagement,",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "228f1847b44c75ec",
@@ -8381,7 +8386,12 @@
   "headline": "Mastermind of human trafficking scam arrested in Narayanganj, extorted crores of taka",
   "topic": "human trafficking fake scam arrest",
   "source": "Somoy News",
-  "status": "queued",
-  "at": "2026-06-15T00:08:22Z"
+  "status": "failed",
+  "at": "2026-06-15T00:08:22Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"Any of the pages_read_engagement,",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"Any of the pages_read_engagement,",
+   "x": "dry-run"
+  }
  }
 ]
