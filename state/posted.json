@@ -1,61 +1,5 @@
 [
  {
-  "title_hash": "91f3b38e09c069af",
-  "url": "https://www.prothomalo.com/bangladesh/district/n8c46nkvry",
-  "headline": "12 fire units rush as fire breaks out at Khulna City Medical College",
-  "topic": "khulna hospital fire",
-  "source": "Dhaka Tribune, Jamuna TV, bdnews24.com, Somoy News, Prothom Alo",
-  "status": "posted",
-  "at": "2026-06-11T18:51:48Z",
-  "results": {
-   "facebook": "1237737746078842_122097107973361546",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media_publish :: {\"error\":{\"message\":\"Fatal\",\"type\":\"OAuthExcep",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "5a7f71b81724cfb6",
-  "url": "https://www.dhakatribune.com/bangladesh/412400/one-in-11-bangladeshi-children-now-in-labour",
-  "headline": "1 in 11 Bangladeshi children now in labour, reports data",
-  "topic": "bangladesh child labour surge",
-  "source": "Dhaka Tribune",
-  "status": "posted",
-  "at": "2026-06-11T18:51:48Z",
-  "results": {
-   "facebook": "1237737746078842_122097109017361546",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media_publish :: {\"error\":{\"message\":\"Fatal\",\"type\":\"OAuthExcep",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "ae3ef5110f4e7a04",
-  "url": "https://www.dhakatribune.com/bangladesh/nation/412394/speakers-social-responsibility-crucial-to-ending",
-  "headline": "1 in 11 Bangladeshi children now in labour, reports data",
-  "topic": "bangladesh child labour surge",
-  "source": "Dhaka Tribune",
-  "status": "posted",
-  "at": "2026-06-11T18:51:48Z",
-  "results": {
-   "facebook": "1237737746078842_122097109017361546",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media_publish :: {\"error\":{\"message\":\"Fatal\",\"type\":\"OAuthExcep",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "30e0e2c7e5733aaf",
-  "url": "https://www.thedailystar.net/news/world/us-israel-war-iran/news/trump-cancels-us-strikes-iran-citing-progress-talks-4196761",
-  "headline": "Trump cancels US strikes on Iran citing diplomatic progress",
-  "topic": "trump cancels iran strikes",
-  "source": "Jamuna TV, The Daily Star",
-  "status": "posted",
-  "at": "2026-06-11T19:06:37Z",
-  "results": {
-   "facebook": "1237737746078842_122097113793361546",
-   "instagram": "17972081643104137",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "4df1e961a01afd77",
   "url": "https://www.jamuna.tv/international/657923",
   "headline": "Trump cancels US strikes on Iran citing diplomatic progress",
@@ -8393,5 +8337,41 @@
    "instagram": "18124849834635143",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "a407f499f55b0a5f",
+  "url": "https://bdnews24.com/bangladesh/bf17cfc27450",
+  "headline": "PM orders swift AI camera rollout on Dhaka roads",
+  "topic": "dhaka ai traffic cameras",
+  "source": "Prothom Alo, bdnews24.com",
+  "status": "queued",
+  "at": "2026-06-15T15:09:09Z"
+ },
+ {
+  "title_hash": "2ab345b67eca106f",
+  "url": "https://www.prothomalo.com/video/bangladesh/oa4p770nyc",
+  "headline": "PM orders swift AI camera rollout on Dhaka roads",
+  "topic": "dhaka ai traffic cameras",
+  "source": "Prothom Alo, bdnews24.com",
+  "status": "queued",
+  "at": "2026-06-15T15:09:09Z"
+ },
+ {
+  "title_hash": "fc59207506bb1a77",
+  "url": "https://www.dhakatribune.com/bangladesh/parliament/412735/parliament-passes-tk-56-117cr-supplementary-budget",
+  "headline": "Parliament passes Tk 56,117cr supplementary budget amid economic debate",
+  "topic": "supplementary budget passed",
+  "source": "Dhaka Tribune, Prothom Alo",
+  "status": "queued",
+  "at": "2026-06-15T15:09:09Z"
+ },
+ {
+  "title_hash": "38c623d036f104ae",
+  "url": "https://www.prothomalo.com/business/ws94lxuv7o",
+  "headline": "Parliament passes Tk 56,117cr supplementary budget amid economic debate",
+  "topic": "supplementary budget passed",
+  "source": "Dhaka Tribune, Prothom Alo",
+  "status": "queued",
+  "at": "2026-06-15T15:09:09Z"
  }
 ]
