@@ -8372,8 +8372,13 @@
   "headline": "Mastermind of syndicate extorting crores by staging human trafficking drama arrested",
   "topic": "human trafficking scam arrest",
   "source": "Somoy News",
-  "status": "queued",
-  "at": "2026-06-15T01:08:10Z"
+  "status": "failed",
+  "at": "2026-06-15T01:08:10Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"Any of the pages_read_engagement,",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"Any of the pages_read_engagement,",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "830afb6d1417e2c4",
@@ -8381,7 +8386,12 @@
   "headline": "Teenager arrested in Siddheswari on charges of raping 7-year-old child",
   "topic": "siddheswari child rape arrest",
   "source": "Somoy News",
-  "status": "queued",
-  "at": "2026-06-15T01:08:10Z"
+  "status": "failed",
+  "at": "2026-06-15T01:08:10Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"Any of the pages_read_engagement,",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"Any of the pages_read_engagement,",
+   "x": "dry-run"
+  }
  }
 ]
