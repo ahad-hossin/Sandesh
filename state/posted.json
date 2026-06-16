@@ -1,61 +1,5 @@
 [
  {
-  "title_hash": "e354693927e18a9e",
-  "url": "https://www.jamuna.tv/international/657966",
-  "headline": "Meta platforms Facebook, WhatsApp, and Messenger restored after 1-hour outage",
-  "topic": "facebook messenger whatsapp outage",
-  "source": "Jamuna TV, Somoy News, bdnews24.com, Prothom Alo",
-  "status": "posted",
-  "at": "2026-06-12T15:08:46Z",
-  "results": {
-   "facebook": "1237737746078842_122097607077361546",
-   "instagram": "error: 500 Server Error: Internal Server Error for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"An unexpected error has",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "a3aaaf0227d6bdf3",
-  "url": "https://www.somoynews.tv/news/2026-06-12/yXHZ3DFC",
-  "headline": "Meta platforms Facebook, WhatsApp, and Messenger restored after 1-hour outage",
-  "topic": "facebook messenger whatsapp outage",
-  "source": "Jamuna TV, Somoy News, bdnews24.com, Prothom Alo",
-  "status": "posted",
-  "at": "2026-06-12T15:08:46Z",
-  "results": {
-   "facebook": "1237737746078842_122097607077361546",
-   "instagram": "error: 500 Server Error: Internal Server Error for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"An unexpected error has",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "d74666243a7360ba",
-  "url": "https://www.prothomalo.com/bangladesh/br819wvr1b",
-  "headline": "Meta platforms Facebook, WhatsApp, and Messenger restored after 1-hour outage",
-  "topic": "facebook messenger whatsapp outage",
-  "source": "Jamuna TV, Somoy News, bdnews24.com, Prothom Alo",
-  "status": "posted",
-  "at": "2026-06-12T15:08:46Z",
-  "results": {
-   "facebook": "1237737746078842_122097607077361546",
-   "instagram": "error: 500 Server Error: Internal Server Error for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"An unexpected error has",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "4c67ec46e7072455",
-  "url": "https://www.prothomalo.com/bangladesh/district/fu8pf3e5t6",
-  "headline": "Football fever: Argentina and Brazil fans hold rallies in Barishal",
-  "topic": "world cup fan celebrations bangladesh",
-  "source": "Prothom Alo, Jamuna TV, Somoy News",
-  "status": "posted",
-  "at": "2026-06-12T15:08:46Z",
-  "results": {
-   "facebook": "1237737746078842_122097607263361546",
-   "instagram": "error: 500 Server Error: Internal Server Error for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"An unexpected error has",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "355ba0fca7503021",
   "url": "https://www.prothomalo.com/bangladesh/district/7u3tx6b408",
   "headline": "Football fever: Argentina and Brazil fans hold rallies in Barishal",
@@ -8393,5 +8337,41 @@
    "instagram": "18140983960527144",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "40e26980cd148e79",
+  "url": "https://www.dhakatribune.com/bangladesh/dhaka/412847/youth-stabbed-to-death-in-kamrangirchar",
+  "headline": "Youth found dead on stairs of relative's house in Raozan",
+  "topic": "youth-murder-dhaka-raozan",
+  "source": "Dhaka Tribune, Prothom Alo",
+  "status": "queued",
+  "at": "2026-06-16T15:18:43Z"
+ },
+ {
+  "title_hash": "47a504e498afd9ff",
+  "url": "https://www.prothomalo.com/bangladesh/district/t6882zutta",
+  "headline": "Youth found dead on stairs of relative's house in Raozan",
+  "topic": "youth-murder-dhaka-raozan",
+  "source": "Dhaka Tribune, Prothom Alo",
+  "status": "queued",
+  "at": "2026-06-16T15:18:43Z"
+ },
+ {
+  "title_hash": "f13855e5d65cc838",
+  "url": "https://www.dhakatribune.com/bangladesh/412843/oc-si-injured-in-adabor-mugging-raid-two",
+  "headline": "2 police officers injured in mugger attack in Dhaka's Adabor",
+  "topic": "police-attacked-adabor-mugging",
+  "source": "Dhaka Tribune, The Daily Star",
+  "status": "queued",
+  "at": "2026-06-16T15:18:43Z"
+ },
+ {
+  "title_hash": "0c3f1d4e5e3ac132",
+  "url": "https://www.thedailystar.net/news/crime-justice/news/oc-si-hacked-muggers-dhakas-mohammadpur-police-4200361",
+  "headline": "2 police officers injured in mugger attack in Dhaka's Adabor",
+  "topic": "police-attacked-adabor-mugging",
+  "source": "Dhaka Tribune, The Daily Star",
+  "status": "queued",
+  "at": "2026-06-16T15:18:43Z"
  }
 ]
