@@ -1,33 +1,5 @@
 [
  {
-  "title_hash": "7240025c50815ea7",
-  "url": "https://www.jamuna.tv/international/657968",
-  "headline": "Meta platforms Facebook, WhatsApp, and Messenger restored after 1-hour outage",
-  "topic": "facebook messenger whatsapp outage",
-  "source": "Jamuna TV, Somoy News, bdnews24.com, Prothom Alo",
-  "status": "posted",
-  "at": "2026-06-12T15:08:46Z",
-  "results": {
-   "facebook": "1237737746078842_122097607077361546",
-   "instagram": "error: 500 Server Error: Internal Server Error for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"An unexpected error has",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "fecfc1420da055f6",
-  "url": "https://www.somoynews.tv/news/2026-06-12/NH8Y1P7T",
-  "headline": "Meta platforms Facebook, WhatsApp, and Messenger restored after 1-hour outage",
-  "topic": "facebook messenger whatsapp outage",
-  "source": "Jamuna TV, Somoy News, bdnews24.com, Prothom Alo",
-  "status": "posted",
-  "at": "2026-06-12T15:08:46Z",
-  "results": {
-   "facebook": "1237737746078842_122097607077361546",
-   "instagram": "error: 500 Server Error: Internal Server Error for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"An unexpected error has",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "e354693927e18a9e",
   "url": "https://www.jamuna.tv/international/657966",
   "headline": "Meta platforms Facebook, WhatsApp, and Messenger restored after 1-hour outage",
@@ -8393,5 +8365,23 @@
    "instagram": "18099310157273302",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "802c39a038be8094",
+  "url": "https://bdnews24.com/bangladesh/b463f46e118b",
+  "headline": "Soil excavation suspended under Padma Bridge Rail Link over safety concerns",
+  "topic": "padma bridge rail link safety",
+  "source": "bdnews24.com, Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-06-16T14:22:30Z"
+ },
+ {
+  "title_hash": "3fe223deb2421089",
+  "url": "https://www.dhakatribune.com/bangladesh/nation/412831/controversy-erupts-over-soil-removal-from-beneath",
+  "headline": "Soil excavation suspended under Padma Bridge Rail Link over safety concerns",
+  "topic": "padma bridge rail link safety",
+  "source": "bdnews24.com, Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-06-16T14:22:30Z"
  }
 ]
