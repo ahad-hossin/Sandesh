@@ -1,89 +1,5 @@
 [
  {
-  "title_hash": "830afb6d1417e2c4",
-  "url": "https://www.somoynews.tv/news/2026-06-15/2MRw1XWZ",
-  "headline": "Teenager arrested in Siddheswari on charges of raping 7-year-old child",
-  "topic": "siddheswari child rape arrest",
-  "source": "Somoy News",
-  "status": "failed",
-  "at": "2026-06-15T01:08:10Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"Any of the pages_read_engagement,",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"Any of the pages_read_engagement,",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "d1de29ca745c950d",
-  "url": "https://www.somoynews.tv/news/2026-06-15/wQRFCHQz",
-  "headline": "Hasan Mahmud takes 9 wickets on county debut, hailed as 'world-class' by captain",
-  "topic": "hasan mahmud county debut 9 wickets",
-  "source": "Somoy News, Prothom Alo",
-  "status": "posted",
-  "at": "2026-06-15T02:10:00Z",
-  "results": {
-   "facebook": "1237737746078842_122099370447361546",
-   "instagram": "17852747619696641",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "7fd9b4967c4ef211",
-  "url": "https://www.prothomalo.com/sports/cricket/hpccdxbaye",
-  "headline": "Hasan Mahmud takes 9 wickets on county debut, hailed as 'world-class' by captain",
-  "topic": "hasan mahmud county debut 9 wickets",
-  "source": "Somoy News, Prothom Alo",
-  "status": "posted",
-  "at": "2026-06-15T02:10:00Z",
-  "results": {
-   "facebook": "1237737746078842_122099370447361546",
-   "instagram": "17852747619696641",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "228f1847b44c75ec",
-  "url": "https://www.somoynews.tv/news/2026-06-14/C5FJSHz5",
-  "headline": "Fraudster ringleader arrested for stealing crores via human trafficking scam",
-  "topic": "human trafficking scam mastermind arrested",
-  "source": "Somoy News",
-  "status": "posted",
-  "at": "2026-06-15T02:10:00Z",
-  "results": {
-   "facebook": "1237737746078842_122099370897361546",
-   "instagram": "17920250778374544",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "914d8754d4e1abee",
-  "url": "https://www.thedailystar.net/sports/sports-special/fifa-world-cup-2026/news/diallo-scores-90th-minute-winner-ivory-coast-edge-ecuador-1-0-4199076",
-  "headline": "Amad Diallo's 90th-minute goal: Ivory Coast edge Ecuador 1-0 in World Cup opener",
-  "topic": "ivory coast vs ecuador",
-  "source": "Jamuna TV, The Daily Star, Somoy News",
-  "status": "posted",
-  "at": "2026-06-15T03:07:17Z",
-  "results": {
-   "facebook": "1237737746078842_122099396763361546",
-   "instagram": "18125437741644445",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "939c6c1b723fc8e8",
-  "url": "https://www.jamuna.tv/sports/658120",
-  "headline": "Amad Diallo's 90th-minute goal: Ivory Coast edge Ecuador 1-0 in World Cup opener",
-  "topic": "ivory coast vs ecuador",
-  "source": "Jamuna TV, The Daily Star, Somoy News",
-  "status": "posted",
-  "at": "2026-06-15T03:07:17Z",
-  "results": {
-   "facebook": "1237737746078842_122099396763361546",
-   "instagram": "18125437741644445",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "c6bb127acb3d5a72",
   "url": "https://www.jamuna.tv/sports/658118",
   "headline": "Amad Diallo's 90th-minute goal: Ivory Coast edge Ecuador 1-0 in World Cup opener",
@@ -8388,5 +8304,59 @@
    "instagram": "18111855275493647",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "89ab061887760a73",
+  "url": "https://www.dhakatribune.com/bangladesh/politics/413069/jamaat-ameer-govt-trying-to-establish-one-party",
+  "headline": "Jamaat Ameer: BNP trying to establish one-party rule in Bangladesh",
+  "topic": "jamaat-ameer-one-party-rule-claim",
+  "source": "Dhaka Tribune, The Daily Star, Prothom Alo, Somoy News",
+  "status": "queued",
+  "at": "2026-06-19T11:06:58Z"
+ },
+ {
+  "title_hash": "1025e894cdc9c617",
+  "url": "https://www.thedailystar.net/news/politics/news/bnp-trying-establish-one-party-rule-jamaat-ameer-4202771",
+  "headline": "Jamaat Ameer: BNP trying to establish one-party rule in Bangladesh",
+  "topic": "jamaat-ameer-one-party-rule-claim",
+  "source": "Dhaka Tribune, The Daily Star, Prothom Alo, Somoy News",
+  "status": "queued",
+  "at": "2026-06-19T11:06:58Z"
+ },
+ {
+  "title_hash": "6b0ab2e07b210560",
+  "url": "https://www.prothomalo.com/bangladesh/district/jm3yh3y997",
+  "headline": "Jamaat Ameer: BNP trying to establish one-party rule in Bangladesh",
+  "topic": "jamaat-ameer-one-party-rule-claim",
+  "source": "Dhaka Tribune, The Daily Star, Prothom Alo, Somoy News",
+  "status": "queued",
+  "at": "2026-06-19T11:06:58Z"
+ },
+ {
+  "title_hash": "c3c7844dd150562c",
+  "url": "https://www.somoynews.tv/news/2026-06-19/uASzWH2y",
+  "headline": "Jamaat Ameer: BNP trying to establish one-party rule in Bangladesh",
+  "topic": "jamaat-ameer-one-party-rule-claim",
+  "source": "Dhaka Tribune, The Daily Star, Prothom Alo, Somoy News",
+  "status": "queued",
+  "at": "2026-06-19T11:06:58Z"
+ },
+ {
+  "title_hash": "4a5d0764a3fa82cd",
+  "url": "https://www.dhakatribune.com/bangladesh/health/413068/measles-outbreak-death-toll-reaches-670-as-four",
+  "headline": "Measles outbreak: Death toll reaches 76 in Sylhet Division",
+  "topic": "measles-outbreak-death-toll",
+  "source": "Dhaka Tribune, bdnews24.com",
+  "status": "queued",
+  "at": "2026-06-19T11:06:58Z"
+ },
+ {
+  "title_hash": "44042fd514c590db",
+  "url": "https://bdnews24.com/bangladesh/9a5e93c746b8",
+  "headline": "Measles outbreak: Death toll reaches 76 in Sylhet Division",
+  "topic": "measles-outbreak-death-toll",
+  "source": "Dhaka Tribune, bdnews24.com",
+  "status": "queued",
+  "at": "2026-06-19T11:06:58Z"
  }
 ]
