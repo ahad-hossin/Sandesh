@@ -8353,8 +8353,13 @@
   "headline": "Police officer injured as two restaurants attacked in Rajshahi",
   "topic": "rajshahi-restaurant-attacks",
   "source": "Jamuna TV, Somoy News",
-  "status": "queued",
-  "at": "2026-06-19T23:07:20Z"
+  "status": "posted",
+  "at": "2026-06-19T23:07:20Z",
+  "results": {
+   "facebook": "1237737746078842_122103856515361546",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"Only photo or video can be accept",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "460d82dfb571753b",
@@ -8362,8 +8367,13 @@
   "headline": "Police officer injured as two restaurants attacked in Rajshahi",
   "topic": "rajshahi-restaurant-attacks",
   "source": "Jamuna TV, Somoy News",
-  "status": "queued",
-  "at": "2026-06-19T23:07:20Z"
+  "status": "posted",
+  "at": "2026-06-19T23:07:20Z",
+  "results": {
+   "facebook": "1237737746078842_122103856515361546",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"Only photo or video can be accept",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "0152aa0730edffb1",
@@ -8371,7 +8381,12 @@
   "headline": "One killed, 5 injured in clash between two groups in Chapainawabganj",
   "topic": "chapainawabganj-clash-death",
   "source": "Somoy News",
-  "status": "queued",
-  "at": "2026-06-19T23:07:20Z"
+  "status": "posted",
+  "at": "2026-06-19T23:07:20Z",
+  "results": {
+   "facebook": "1237737746078842_122103856677361546",
+   "instagram": "17923549980141571",
+   "x": "dry-run"
+  }
  }
 ]
