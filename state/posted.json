@@ -8353,8 +8353,13 @@
   "headline": "32 killed in Israeli attacks in Lebanon; US-Iran peace talks in deep crisis",
   "topic": "lebanon-israel-strikes-iran-us-talks",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-06-21T01:07:10Z"
+  "status": "posted",
+  "at": "2026-06-21T01:07:10Z",
+  "results": {
+   "facebook": "1237737746078842_122104913523361546",
+   "instagram": "18155433190472264",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "661b58b3df7b713e",
@@ -8362,8 +8367,13 @@
   "headline": "Severe erosion at Teesta Bridge protection dam threatens Rangpur-Kakina road in Rangpur",
   "topic": "teesta-bridge-erosion-threat",
   "source": "Somoy News, Jamuna TV",
-  "status": "queued",
-  "at": "2026-06-21T01:07:10Z"
+  "status": "posted",
+  "at": "2026-06-21T01:07:10Z",
+  "results": {
+   "facebook": "1237737746078842_122104914291361546",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"Only photo or video can be accept",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "4559fe4d85890202",
@@ -8371,7 +8381,12 @@
   "headline": "Severe erosion at Teesta Bridge protection dam threatens Rangpur-Kakina road in Rangpur",
   "topic": "teesta-bridge-erosion-threat",
   "source": "Somoy News, Jamuna TV",
-  "status": "queued",
-  "at": "2026-06-21T01:07:10Z"
+  "status": "posted",
+  "at": "2026-06-21T01:07:10Z",
+  "results": {
+   "facebook": "1237737746078842_122104914291361546",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"Only photo or video can be accept",
+   "x": "dry-run"
+  }
  }
 ]
