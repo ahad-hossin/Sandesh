@@ -1,61 +1,5 @@
 [
  {
-  "title_hash": "b56102934a44cd2b",
-  "url": "https://www.jamuna.tv/all-bangladesh/658395",
-  "headline": "Police officer injured as two restaurants attacked in Rajshahi",
-  "topic": "rajshahi-restaurant-attacks",
-  "source": "Jamuna TV, Somoy News",
-  "status": "posted",
-  "at": "2026-06-19T23:07:20Z",
-  "results": {
-   "facebook": "1237737746078842_122103856515361546",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"Only photo or video can be accept",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "460d82dfb571753b",
-  "url": "https://www.somoynews.tv/news/2026-06-19/OCT5HL2v",
-  "headline": "Police officer injured as two restaurants attacked in Rajshahi",
-  "topic": "rajshahi-restaurant-attacks",
-  "source": "Jamuna TV, Somoy News",
-  "status": "posted",
-  "at": "2026-06-19T23:07:20Z",
-  "results": {
-   "facebook": "1237737746078842_122103856515361546",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"Only photo or video can be accept",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "0152aa0730edffb1",
-  "url": "https://www.somoynews.tv/news/2026-06-19/TRxKM18H",
-  "headline": "One killed, 5 injured in clash between two groups in Chapainawabganj",
-  "topic": "chapainawabganj-clash-death",
-  "source": "Somoy News",
-  "status": "posted",
-  "at": "2026-06-19T23:07:20Z",
-  "results": {
-   "facebook": "1237737746078842_122103856677361546",
-   "instagram": "17923549980141571",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "f11c9ef3f1ba5879",
-  "url": "https://www.somoynews.tv/news/2026-06-19/tYM9HNYz",
-  "headline": "Brazil-Germany World Cup rematch? Remembering the 7-1 nightmare.",
-  "topic": "brazil-germany-world-cup-rematch",
-  "source": "Somoy News",
-  "status": "posted",
-  "at": "2026-06-20T00:07:48Z",
-  "results": {
-   "facebook": "1237737746078842_122103890901361546",
-   "instagram": "18104744525083402",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "9bff8c9e81227334",
   "url": "https://www.prothomalo.com/sports/football/atgsj1e2vm",
   "headline": "Brazil President Lula jokes Neymar is doing 'home office' at World Cup due to injury",
@@ -8373,5 +8317,41 @@
    "instagram": "18093949643256426",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "77b3dcbff0037eab",
+  "url": "https://www.thedailystar.net/business/news/world-bank-approves-450m-financing-strengthen-bangladeshs-banking-sector-4207141",
+  "headline": "World Bank to provide $450m financing to strengthen Bangladesh’s banking sector",
+  "topic": "world-bank-banking-sector-loan",
+  "source": "Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-06-24T11:06:48Z"
+ },
+ {
+  "title_hash": "37ab3ddad41fb262",
+  "url": "https://www.prothomalo.com/business/bank/38qpbu1cxw",
+  "headline": "World Bank to provide $450m financing to strengthen Bangladesh’s banking sector",
+  "topic": "world-bank-banking-sector-loan",
+  "source": "Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-06-24T11:06:48Z"
+ },
+ {
+  "title_hash": "ad220f997c5a7998",
+  "url": "https://bdnews24.com/entertainment/3c20e4c47636",
+  "headline": "Actor Zaher Alvi granted 2-day police remand over wife's suicide",
+  "topic": "actor-alvi-remand-wife-suicide",
+  "source": "bdnews24.com, Prothom Alo",
+  "status": "queued",
+  "at": "2026-06-24T11:06:48Z"
+ },
+ {
+  "title_hash": "6886a875bcfbe8a4",
+  "url": "https://www.prothomalo.com/bangladesh/dzyrnmb1h2",
+  "headline": "Actor Zaher Alvi granted 2-day police remand over wife's suicide",
+  "topic": "actor-alvi-remand-wife-suicide",
+  "source": "bdnews24.com, Prothom Alo",
+  "status": "queued",
+  "at": "2026-06-24T11:06:48Z"
  }
 ]
