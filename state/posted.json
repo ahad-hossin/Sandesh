@@ -1,33 +1,5 @@
 [
  {
-  "title_hash": "190c8df85eeb13a1",
-  "url": "https://www.thedailystar.net/culture/tv-film/news/bfaa-election-shiba-sanu-elected-president-joy-chowdhury-becomes-general-secretary-4215436",
-  "headline": "Shiba Sanu elected president of Bangladesh Film Artistes Association",
-  "topic": "bfaa-election-shiba-sanu",
-  "source": "The Daily Star, Prothom Alo, Somoy News, Jamuna TV",
-  "status": "posted",
-  "at": "2026-07-04T07:08:31Z",
-  "results": {
-   "facebook": "1237737746078842_122110024041361546",
-   "instagram": "17998224191785426",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "c31745b8395d0a3f",
-  "url": "https://www.prothomalo.com/entertainment/dhallywood/xtgelg8vo7",
-  "headline": "Shiba Sanu elected president of Bangladesh Film Artistes Association",
-  "topic": "bfaa-election-shiba-sanu",
-  "source": "The Daily Star, Prothom Alo, Somoy News, Jamuna TV",
-  "status": "posted",
-  "at": "2026-07-04T07:08:31Z",
-  "results": {
-   "facebook": "1237737746078842_122110024041361546",
-   "instagram": "17998224191785426",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "978a0a116c4e59c4",
   "url": "https://www.somoynews.tv/news/2026-07-04/xys7sXSy",
   "headline": "Shiba Sanu elected president of Bangladesh Film Artistes Association",
@@ -8393,5 +8365,23 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"Only photo or video can be accept",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "6c2e80c122a68789",
+  "url": "https://www.somoynews.tv/news/2026-07-09/CLsPNGMv",
+  "headline": "Ministry announces good news on primary head teacher promotions",
+  "topic": "primary-head-teacher-promotion",
+  "source": "Somoy News",
+  "status": "queued",
+  "at": "2026-07-09T01:07:36Z"
+ },
+ {
+  "title_hash": "861985afa2b5d4d5",
+  "url": "https://www.jamuna.tv/national/659603",
+  "headline": "Markets in Dhaka to remain closed on Thursday, July 9",
+  "topic": "dhaka-markets-closed-thursday",
+  "source": "Jamuna TV",
+  "status": "queued",
+  "at": "2026-07-09T01:07:36Z"
  }
 ]
