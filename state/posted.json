@@ -8377,8 +8377,13 @@
   "headline": "Global outage: Facebook desktop version unavailable for many users",
   "topic": "facebook-desktop-version-unusable",
   "source": "Jamuna TV",
-  "status": "queued",
-  "at": "2026-07-19T09:07:13Z"
+  "status": "posted",
+  "at": "2026-07-19T09:07:13Z",
+  "results": {
+   "facebook": "1237737746078842_122116364439361546",
+   "instagram": "17902774332307416",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "9493d2658a3d1775",
@@ -8386,7 +8391,12 @@
   "headline": "Users face issues as Facebook goes down suddenly",
   "topic": "facebook-down-globally-users-face-hardship",
   "source": "Somoy News",
-  "status": "queued",
-  "at": "2026-07-19T09:07:13Z"
+  "status": "posted",
+  "at": "2026-07-19T09:07:13Z",
+  "results": {
+   "facebook": "1237737746078842_122116364637361546",
+   "instagram": "18081293846675981",
+   "x": "dry-run"
+  }
  }
 ]
