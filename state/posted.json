@@ -8357,8 +8357,13 @@
   "headline": "7 killed as helicopter crashes in Argentina",
   "topic": "argentina-helicopter-crash",
   "source": "Somoy News",
-  "status": "queued",
-  "at": "2026-07-29T23:07:49Z"
+  "status": "posted",
+  "at": "2026-07-29T23:07:49Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"We limit how often you can post, ",
+   "instagram": "18338502673284768",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "a0e25a18c8e63f2e",
@@ -8366,7 +8371,12 @@
   "headline": "Egypt: US-owned tanker hit by drone attack",
   "topic": "egypt-us-tanker-drone-attack",
   "source": "Somoy News",
-  "status": "queued",
-  "at": "2026-07-29T23:07:49Z"
+  "status": "posted",
+  "at": "2026-07-29T23:07:49Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"We limit how often you can post, ",
+   "instagram": "17881105575615572",
+   "x": "dry-run"
+  }
  }
 ]
