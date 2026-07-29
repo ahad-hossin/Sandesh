@@ -8329,8 +8329,13 @@
   "headline": "DU to review all appointments made between 2009 and 2024",
   "topic": "du-appointment-review",
   "source": "The Daily Star, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-07-29T17:08:58Z"
+  "status": "posted",
+  "at": "2026-07-29T17:08:58Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"We limit how often you can post, ",
+   "instagram": "18327898474276708",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "f979f96955047573",
@@ -8338,8 +8343,13 @@
   "headline": "DU to review all appointments made between 2009 and 2024",
   "topic": "du-appointment-review",
   "source": "The Daily Star, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-07-29T17:08:58Z"
+  "status": "posted",
+  "at": "2026-07-29T17:08:58Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"We limit how often you can post, ",
+   "instagram": "18327898474276708",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "e0819e662cfddc97",
@@ -8347,8 +8357,13 @@
   "headline": "Tk 16,885 crore to import fuel oil from 5 countries",
   "topic": "fuel-oil-import-tripura-pineapples",
   "source": "Prothom Alo, Somoy News",
-  "status": "queued",
-  "at": "2026-07-29T17:08:58Z"
+  "status": "posted",
+  "at": "2026-07-29T17:08:58Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"We limit how often you can post, ",
+   "instagram": "18032580839818497",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "926f89f023f8ebba",
@@ -8356,7 +8371,12 @@
   "headline": "Tk 16,885 crore to import fuel oil from 5 countries",
   "topic": "fuel-oil-import-tripura-pineapples",
   "source": "Prothom Alo, Somoy News",
-  "status": "queued",
-  "at": "2026-07-29T17:08:58Z"
+  "status": "posted",
+  "at": "2026-07-29T17:08:58Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"We limit how often you can post, ",
+   "instagram": "18032580839818497",
+   "x": "dry-run"
+  }
  }
 ]
