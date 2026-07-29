@@ -8371,7 +8371,12 @@
   "headline": "US-Bangla to add 21 Boeing aircraft in $1.5 billion deal",
   "topic": "us-bangla-boeing-deal",
   "source": "The Daily Star",
-  "status": "queued",
-  "at": "2026-07-29T19:09:19Z"
+  "status": "posted",
+  "at": "2026-07-29T19:09:19Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"We limit how often you can post, ",
+   "instagram": "18102066295916375",
+   "x": "dry-run"
+  }
  }
 ]
