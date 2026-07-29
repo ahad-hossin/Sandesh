@@ -8343,8 +8343,13 @@
   "headline": "Bangladesh remittance inflow hits $2.62 billion in 4 weeks",
   "topic": "remittance-inflow-boosts-bangladeshi-economy",
   "source": "Somoy News, Jamuna TV",
-  "status": "queued",
-  "at": "2026-07-29T18:08:42Z"
+  "status": "posted",
+  "at": "2026-07-29T18:08:42Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"We limit how often you can post, ",
+   "instagram": "18031027682653491",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "2a8602af2149c333",
@@ -8352,8 +8357,13 @@
   "headline": "Bangladesh remittance inflow hits $2.62 billion in 4 weeks",
   "topic": "remittance-inflow-boosts-bangladeshi-economy",
   "source": "Somoy News, Jamuna TV",
-  "status": "queued",
-  "at": "2026-07-29T18:08:42Z"
+  "status": "posted",
+  "at": "2026-07-29T18:08:42Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"We limit how often you can post, ",
+   "instagram": "18031027682653491",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "8a928c85dbad155d",
@@ -8361,7 +8371,12 @@
   "headline": "UN experts urge action to end trafficking and deaths of Rohingyas",
   "topic": "rohingya-trafficking-and-deaths-on-andaman-sea",
   "source": "Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-07-29T18:08:42Z"
+  "status": "posted",
+  "at": "2026-07-29T18:08:42Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"We limit how often you can post, ",
+   "instagram": "17953112052210264",
+   "x": "dry-run"
+  }
  }
 ]
