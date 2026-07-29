@@ -8357,8 +8357,13 @@
   "headline": "20 crore rupees and 15kg gold recovered from retired driver's home in West Bengal",
   "topic": "west-bengal-driver-cash-gold-seizure",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-07-29T22:07:39Z"
+  "status": "posted",
+  "at": "2026-07-29T22:07:39Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"We limit how often you can post, ",
+   "instagram": "18169236847448036",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "ca8065d730e52d18",
@@ -8366,7 +8371,12 @@
   "headline": "Merging banks' depositors can withdraw up to Tk 10 lakh for emergencies",
   "topic": "merging-islamic-banks-withdrawal-limit",
   "source": "The Daily Star",
-  "status": "queued",
-  "at": "2026-07-29T22:07:39Z"
+  "status": "posted",
+  "at": "2026-07-29T22:07:39Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"We limit how often you can post, ",
+   "instagram": "18331000201272185",
+   "x": "dry-run"
+  }
  }
 ]
