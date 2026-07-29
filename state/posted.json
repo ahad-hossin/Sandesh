@@ -8357,8 +8357,13 @@
   "headline": "3 dead as boundary wall collapses at Mirpur University College",
   "topic": "mirpur-wall-collapse-toll-3",
   "source": "The Daily Star",
-  "status": "queued",
-  "at": "2026-07-29T21:07:24Z"
+  "status": "posted",
+  "at": "2026-07-29T21:07:24Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"We limit how often you can post, ",
+   "instagram": "18082993514290848",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "b1388d04f8a96d50",
@@ -8366,7 +8371,12 @@
   "headline": "Digital shift: Banks can now partner with foreign payment platforms like PayPal",
   "topic": "bangladesh-banks-paypal-partnership",
   "source": "The Daily Star",
-  "status": "queued",
-  "at": "2026-07-29T21:07:24Z"
+  "status": "posted",
+  "at": "2026-07-29T21:07:24Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"We limit how often you can post, ",
+   "instagram": "18089624264541710",
+   "x": "dry-run"
+  }
  }
 ]
