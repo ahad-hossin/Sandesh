@@ -8329,8 +8329,13 @@
   "headline": "US downgrades travel advisory for Bangladesh to Level 2",
   "topic": "us-eases-bangladesh-travel-advisory",
   "source": "The Daily Star, Somoy News",
-  "status": "queued",
-  "at": "2026-07-30T21:07:37Z"
+  "status": "failed",
+  "at": "2026-07-30T21:07:37Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "75a8ff203ee38254",
@@ -8338,8 +8343,13 @@
   "headline": "US downgrades travel advisory for Bangladesh to Level 2",
   "topic": "us-eases-bangladesh-travel-advisory",
   "source": "The Daily Star, Somoy News",
-  "status": "queued",
-  "at": "2026-07-30T21:07:37Z"
+  "status": "failed",
+  "at": "2026-07-30T21:07:37Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "ae116020581a5b8b",
@@ -8347,8 +8357,13 @@
   "headline": "Bangladesh Bank cuts policy rate to 9.50% to boost investment",
   "topic": "bb-lowers-policy-interest-rate",
   "source": "Prothom Alo, Somoy News",
-  "status": "queued",
-  "at": "2026-07-30T21:07:37Z"
+  "status": "failed",
+  "at": "2026-07-30T21:07:37Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "da5805a1651eded0",
@@ -8356,7 +8371,12 @@
   "headline": "Bangladesh Bank cuts policy rate to 9.50% to boost investment",
   "topic": "bb-lowers-policy-interest-rate",
   "source": "Prothom Alo, Somoy News",
-  "status": "queued",
-  "at": "2026-07-30T21:07:37Z"
+  "status": "failed",
+  "at": "2026-07-30T21:07:37Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
