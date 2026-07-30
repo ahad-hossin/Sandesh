@@ -8329,8 +8329,13 @@
   "headline": "Iran claims three US F-35 jets destroyed in Jordan strike",
   "topic": "iran-claims-us-f35-destroyed",
   "source": "Prothom Alo, Jamuna TV",
-  "status": "queued",
-  "at": "2026-07-30T19:07:41Z"
+  "status": "failed",
+  "at": "2026-07-30T19:07:41Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "d00cd8e70173716b",
@@ -8338,8 +8343,13 @@
   "headline": "Iran claims three US F-35 jets destroyed in Jordan strike",
   "topic": "iran-claims-us-f35-destroyed",
   "source": "Prothom Alo, Jamuna TV",
-  "status": "queued",
-  "at": "2026-07-30T19:07:41Z"
+  "status": "failed",
+  "at": "2026-07-30T19:07:41Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "a8ecaaaa9d1eaf78",
@@ -8347,8 +8357,13 @@
   "headline": "Dhaka residents face severe gas shortages as CPB protests",
   "topic": "dhaka-gas-crisis-clock",
   "source": "Dhaka Tribune, Prothom Alo",
-  "status": "queued",
-  "at": "2026-07-30T19:07:41Z"
+  "status": "failed",
+  "at": "2026-07-30T19:07:41Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "744e2fa81edaf4b1",
@@ -8356,7 +8371,12 @@
   "headline": "Dhaka residents face severe gas shortages as CPB protests",
   "topic": "dhaka-gas-crisis-clock",
   "source": "Dhaka Tribune, Prothom Alo",
-  "status": "queued",
-  "at": "2026-07-30T19:07:41Z"
+  "status": "failed",
+  "at": "2026-07-30T19:07:41Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
