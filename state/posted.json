@@ -8315,8 +8315,13 @@
   "headline": "US lowers Bangladesh travel advisory from Level 3 to Level 2",
   "topic": "us-bangladesh-travel-advisory-ease",
   "source": "The Daily Star, Somoy News, Prothom Alo",
-  "status": "queued",
-  "at": "2026-07-30T23:07:33Z"
+  "status": "failed",
+  "at": "2026-07-30T23:07:33Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "75a8ff203ee38254",
@@ -8324,8 +8329,13 @@
   "headline": "US lowers Bangladesh travel advisory from Level 3 to Level 2",
   "topic": "us-bangladesh-travel-advisory-ease",
   "source": "The Daily Star, Somoy News, Prothom Alo",
-  "status": "queued",
-  "at": "2026-07-30T23:07:33Z"
+  "status": "failed",
+  "at": "2026-07-30T23:07:33Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "52d2026d49a1201c",
@@ -8333,8 +8343,13 @@
   "headline": "US lowers Bangladesh travel advisory from Level 3 to Level 2",
   "topic": "us-bangladesh-travel-advisory-ease",
   "source": "The Daily Star, Somoy News, Prothom Alo",
-  "status": "queued",
-  "at": "2026-07-30T23:07:33Z"
+  "status": "failed",
+  "at": "2026-07-30T23:07:33Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "708ce5bb29f0a85f",
@@ -8342,8 +8357,13 @@
   "headline": "Bangladesh Bank warns against crypto and MLM scams",
   "topic": "bb-crypto-mlm-scam-warning",
   "source": "Somoy News",
-  "status": "queued",
-  "at": "2026-07-30T23:07:33Z"
+  "status": "failed",
+  "at": "2026-07-30T23:07:33Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "00f7b2b1a2b272cb",
@@ -8351,7 +8371,12 @@
   "headline": "Bangladesh Bank warns against crypto and MLM scams",
   "topic": "bb-crypto-mlm-scam-warning",
   "source": "Somoy News",
-  "status": "queued",
-  "at": "2026-07-30T23:07:33Z"
+  "status": "failed",
+  "at": "2026-07-30T23:07:33Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
