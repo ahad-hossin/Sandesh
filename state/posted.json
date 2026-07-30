@@ -8329,8 +8329,13 @@
   "headline": "Iran's IRGC claims US military helicopters destroyed in Kuwait attack",
   "topic": "iran-claims-us-helicopter-destroyed-kuwait-base",
   "source": "Jamuna TV",
-  "status": "queued",
-  "at": "2026-07-30T14:09:44Z"
+  "status": "posted",
+  "at": "2026-07-30T14:09:44Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"We limit how often you can post, ",
+   "instagram": "17898870894514680",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "fb09144b86f569a2",
@@ -8338,8 +8343,13 @@
   "headline": "Iran's IRGC claims US military helicopters destroyed in Kuwait attack",
   "topic": "iran-claims-us-helicopter-destroyed-kuwait-base",
   "source": "Jamuna TV",
-  "status": "queued",
-  "at": "2026-07-30T14:09:44Z"
+  "status": "posted",
+  "at": "2026-07-30T14:09:44Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"We limit how often you can post, ",
+   "instagram": "17898870894514680",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "2e15e82df5746380",
@@ -8347,8 +8357,13 @@
   "headline": "626 Bangladeshis face auto-cancellation of UAE visas, gov't says",
   "topic": "uae-visa-cancellations-affect-bangladeshis",
   "source": "Dhaka Tribune, Jamuna TV",
-  "status": "queued",
-  "at": "2026-07-30T14:09:44Z"
+  "status": "posted",
+  "at": "2026-07-30T14:09:44Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"We limit how often you can post, ",
+   "instagram": "17965407282150610",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "a3a158afa936f7dc",
@@ -8356,7 +8371,12 @@
   "headline": "626 Bangladeshis face auto-cancellation of UAE visas, gov't says",
   "topic": "uae-visa-cancellations-affect-bangladeshis",
   "source": "Dhaka Tribune, Jamuna TV",
-  "status": "queued",
-  "at": "2026-07-30T14:09:44Z"
+  "status": "posted",
+  "at": "2026-07-30T14:09:44Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"We limit how often you can post, ",
+   "instagram": "17965407282150610",
+   "x": "dry-run"
+  }
  }
 ]
