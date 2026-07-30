@@ -8343,8 +8343,13 @@
   "headline": "Iran claims three US F-35 fighter jets destroyed in Jordan attack",
   "topic": "iran-claims-us-f35-destroyed",
   "source": "Prothom Alo, Jamuna TV",
-  "status": "queued",
-  "at": "2026-07-30T20:07:53Z"
+  "status": "failed",
+  "at": "2026-07-30T20:07:53Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "d00cd8e70173716b",
@@ -8352,8 +8357,13 @@
   "headline": "Iran claims three US F-35 fighter jets destroyed in Jordan attack",
   "topic": "iran-claims-us-f35-destroyed",
   "source": "Prothom Alo, Jamuna TV",
-  "status": "queued",
-  "at": "2026-07-30T20:07:53Z"
+  "status": "failed",
+  "at": "2026-07-30T20:07:53Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "ae116020581a5b8b",
@@ -8361,7 +8371,12 @@
   "headline": "Bangladesh Bank cuts policy rate to 9.50% to boost investment",
   "topic": "central-bank-lowers-policy-rate",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-07-30T20:07:53Z"
+  "status": "failed",
+  "at": "2026-07-30T20:07:53Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
