@@ -8357,8 +8357,13 @@
   "headline": "Bangladesh public health facilities face severe medicine shortages and disrupted lab services, study finds",
   "topic": "public-health-meds-shortage-labs-disrupted",
   "source": "The Daily Star",
-  "status": "queued",
-  "at": "2026-07-30T01:07:53Z"
+  "status": "posted",
+  "at": "2026-07-30T01:07:53Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"We limit how often you can post, ",
+   "instagram": "17875117947535496",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "f15c938e848c6daf",
@@ -8366,7 +8371,12 @@
   "headline": "Textile mill production halved amid gas crisis, millers seek PM's urgent intervention",
   "topic": "textile-millers-seek-pm-help-gas-crisis",
   "source": "The Daily Star",
-  "status": "queued",
-  "at": "2026-07-30T01:07:53Z"
+  "status": "posted",
+  "at": "2026-07-30T01:07:53Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"We limit how often you can post, ",
+   "instagram": "18002762279978821",
+   "x": "dry-run"
+  }
  }
 ]
