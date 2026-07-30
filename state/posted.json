@@ -8301,8 +8301,13 @@
   "headline": "Severe shortage: Dhaka now lives by the ‘gas clock’ as crisis deepens",
   "topic": "dhaka-gas-crisis-alarms",
   "source": "Dhaka Tribune, Prothom Alo",
-  "status": "queued",
-  "at": "2026-07-30T18:07:19Z"
+  "status": "failed",
+  "at": "2026-07-30T18:07:19Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "744e2fa81edaf4b1",
@@ -8310,8 +8315,13 @@
   "headline": "Severe shortage: Dhaka now lives by the ‘gas clock’ as crisis deepens",
   "topic": "dhaka-gas-crisis-alarms",
   "source": "Dhaka Tribune, Prothom Alo",
-  "status": "queued",
-  "at": "2026-07-30T18:07:19Z"
+  "status": "failed",
+  "at": "2026-07-30T18:07:19Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "4156a58176e6fb98",
@@ -8319,8 +8329,13 @@
   "headline": "DU suspends 3 teachers and relieves 4 others of key duties",
   "topic": "du-teachers-suspended",
   "source": "Dhaka Tribune, Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-07-30T18:07:19Z"
+  "status": "failed",
+  "at": "2026-07-30T18:07:19Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "7cfed18babd236ff",
@@ -8328,8 +8343,13 @@
   "headline": "DU suspends 3 teachers and relieves 4 others of key duties",
   "topic": "du-teachers-suspended",
   "source": "Dhaka Tribune, Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-07-30T18:07:19Z"
+  "status": "failed",
+  "at": "2026-07-30T18:07:19Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "4f3911433f6ff58a",
@@ -8337,8 +8357,13 @@
   "headline": "DU suspends 3 teachers and relieves 4 others of key duties",
   "topic": "du-teachers-suspended",
   "source": "Dhaka Tribune, Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-07-30T18:07:19Z"
+  "status": "failed",
+  "at": "2026-07-30T18:07:19Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "4a575351165ae362",
@@ -8346,7 +8371,12 @@
   "headline": "DU suspends 3 teachers and relieves 4 others of key duties",
   "topic": "du-teachers-suspended",
   "source": "Dhaka Tribune, Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-07-30T18:07:19Z"
+  "status": "failed",
+  "at": "2026-07-30T18:07:19Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
