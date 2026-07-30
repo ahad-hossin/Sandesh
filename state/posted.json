@@ -1,47 +1,5 @@
 [
  {
-  "title_hash": "3fc78949a3cd6fd4",
-  "url": "https://www.thedailystar.net/sports/sports-special/fifa-world-cup-2026/news/messis-inter-miami-sign-casemiro-4230131",
-  "headline": "Brazilian star Casemiro signs with Inter Miami to join Messi and Suarez",
-  "topic": "fifa-best-xi-and-inter-miami-casemiro",
-  "source": "The Daily Star, Jamuna TV",
-  "status": "posted",
-  "at": "2026-07-22T20:07:39Z",
-  "results": {
-   "facebook": "1237737746078842_122117291769361546",
-   "instagram": "18160896127462041",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "9160044928308c82",
-  "url": "https://www.jamuna.tv/sports/660585",
-  "headline": "Brazilian star Casemiro signs with Inter Miami to join Messi and Suarez",
-  "topic": "fifa-best-xi-and-inter-miami-casemiro",
-  "source": "The Daily Star, Jamuna TV",
-  "status": "posted",
-  "at": "2026-07-22T20:07:39Z",
-  "results": {
-   "facebook": "1237737746078842_122117291769361546",
-   "instagram": "18160896127462041",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "34bc083c6bd3a2a2",
-  "url": "https://www.prothomalo.com/bangladesh/district/jrkrds4ikg",
-  "headline": "Mymensingh: Missing youth's decapitated body found buried in ground",
-  "topic": "mymensingh-college-murder-body-found",
-  "source": "Prothom Alo",
-  "status": "posted",
-  "at": "2026-07-22T20:07:39Z",
-  "results": {
-   "facebook": "1237737746078842_122117295081361546",
-   "instagram": "18099214604192997",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "d07378eee02f220c",
   "url": "https://www.thedailystar.net/news/bangladesh/news/hygiene-campaign-launched-miss-world-bangladesh-4230291",
   "headline": "Miss World Bangladesh launches nationwide hygiene campaign",
@@ -8378,5 +8336,32 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "40037232a61443bb",
+  "url": "https://www.prothomalo.com/world/middle-east/kyv6lf0sez",
+  "headline": "Iran claims three US F-35 fighter jets destroyed in Jordan attack",
+  "topic": "iran-claims-us-f35-destroyed",
+  "source": "Prothom Alo, Jamuna TV",
+  "status": "queued",
+  "at": "2026-07-30T20:07:53Z"
+ },
+ {
+  "title_hash": "d00cd8e70173716b",
+  "url": "https://www.jamuna.tv/international/661176",
+  "headline": "Iran claims three US F-35 fighter jets destroyed in Jordan attack",
+  "topic": "iran-claims-us-f35-destroyed",
+  "source": "Prothom Alo, Jamuna TV",
+  "status": "queued",
+  "at": "2026-07-30T20:07:53Z"
+ },
+ {
+  "title_hash": "ae116020581a5b8b",
+  "url": "https://www.prothomalo.com/business/bank/uq7b9s7oer",
+  "headline": "Bangladesh Bank cuts policy rate to 9.50% to boost investment",
+  "topic": "central-bank-lowers-policy-rate",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-07-30T20:07:53Z"
  }
 ]
