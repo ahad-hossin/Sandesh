@@ -8357,8 +8357,13 @@
   "headline": "Myanmar junta agrees to take back Rohingya refugees from Bangladesh",
   "topic": "myanmar-to-take-back-rohingya",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-07-30T13:09:36Z"
+  "status": "posted",
+  "at": "2026-07-30T13:09:36Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"We limit how often you can post, ",
+   "instagram": "18112821013942605",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "1c1b3c3943a40b34",
@@ -8366,7 +8371,12 @@
   "headline": "300,000 Rohingya to be repatriated from Bangladesh to Myanmar",
   "topic": "malaysia-says-myanmar-to-take-back-rohingya",
   "source": "The Daily Star",
-  "status": "queued",
-  "at": "2026-07-30T13:09:36Z"
+  "status": "posted",
+  "at": "2026-07-30T13:09:36Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"We limit how often you can post, ",
+   "instagram": "18048298673584938",
+   "x": "dry-run"
+  }
  }
 ]
