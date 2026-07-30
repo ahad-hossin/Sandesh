@@ -8357,8 +8357,13 @@
   "headline": "IPC: Over 15.3 million Bangladeshis face acute food insecurity",
   "topic": "bangladesh-acute-food-insecurity",
   "source": "Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-07-30T00:09:59Z"
+  "status": "posted",
+  "at": "2026-07-30T00:09:59Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"We limit how often you can post, ",
+   "instagram": "17900591607521605",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "f4baa89eef5313fe",
@@ -8366,7 +8371,12 @@
   "headline": "Bangladeshi jobseekers lured into cyber-scam compounds in Southeast Asia",
   "topic": "cyber-scam-trafficking-bangladeshis",
   "source": "The Daily Star",
-  "status": "queued",
-  "at": "2026-07-30T00:09:59Z"
+  "status": "posted",
+  "at": "2026-07-30T00:09:59Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"We limit how often you can post, ",
+   "instagram": "18137619739602518",
+   "x": "dry-run"
+  }
  }
 ]
