@@ -8343,8 +8343,13 @@
   "headline": "Iran to receive 400 Chinese air-defence missile launchers amid US war, sources say",
   "topic": "us-iran-tensions-china-arms",
   "source": "Jamuna TV, The Daily Star",
-  "status": "queued",
-  "at": "2026-07-30T03:08:09Z"
+  "status": "posted",
+  "at": "2026-07-30T03:08:09Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"We limit how often you can post, ",
+   "instagram": "17888986350600067",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "1f1ecedb0e166bd9",
@@ -8352,8 +8357,13 @@
   "headline": "Iran to receive 400 Chinese air-defence missile launchers amid US war, sources say",
   "topic": "us-iran-tensions-china-arms",
   "source": "Jamuna TV, The Daily Star",
-  "status": "queued",
-  "at": "2026-07-30T03:08:09Z"
+  "status": "posted",
+  "at": "2026-07-30T03:08:09Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"We limit how often you can post, ",
+   "instagram": "17888986350600067",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "245c624318c23ed7",
@@ -8361,7 +8371,12 @@
   "headline": "New pay scale for govt employees to reach cabinet soon",
   "topic": "govt-pay-scale-cabinet-soon",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-07-30T03:08:09Z"
+  "status": "posted",
+  "at": "2026-07-30T03:08:09Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"We limit how often you can post, ",
+   "instagram": "18411016477155955",
+   "x": "dry-run"
+  }
  }
 ]
