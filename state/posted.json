@@ -8357,8 +8357,13 @@
   "headline": "10 years in jail for spreading rumors and misinformation under amended Cyber Security Act",
   "topic": "10-year-jail-rumor-misinformation",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-07-30T02:09:54Z"
+  "status": "posted",
+  "at": "2026-07-30T02:09:54Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"We limit how often you can post, ",
+   "instagram": "18108567476048935",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "1f15f505c44895df",
@@ -8366,7 +8371,12 @@
   "headline": "Russia launches major ballistic missile attack on Kyiv",
   "topic": "russia-kyiv-ballistic-missile-attack",
   "source": "Somoy News",
-  "status": "queued",
-  "at": "2026-07-30T02:09:54Z"
+  "status": "posted",
+  "at": "2026-07-30T02:09:54Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"We limit how often you can post, ",
+   "instagram": "18102443378247687",
+   "x": "dry-run"
+  }
  }
 ]
