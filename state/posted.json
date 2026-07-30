@@ -8343,8 +8343,13 @@
   "headline": "Heavy rains ravage Faridpur chilli fields, causing prices to soar",
   "topic": "faridpur-chilli-price-hike",
   "source": "Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-07-30T15:07:14Z"
+  "status": "posted",
+  "at": "2026-07-30T15:07:14Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"We limit how often you can post, ",
+   "instagram": "17969424641935817",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "f6ef5f4b0f442f98",
@@ -8352,8 +8357,13 @@
   "headline": "835 die as measles-like symptoms toll rises in Bangladesh",
   "topic": "measles-death-toll-increase",
   "source": "The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-07-30T15:07:14Z"
+  "status": "posted",
+  "at": "2026-07-30T15:07:14Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"We limit how often you can post, ",
+   "instagram": "17975179901907649",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "994f2ad4ad7bf871",
@@ -8361,7 +8371,12 @@
   "headline": "835 die as measles-like symptoms toll rises in Bangladesh",
   "topic": "measles-death-toll-increase",
   "source": "The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-07-30T15:07:14Z"
+  "status": "posted",
+  "at": "2026-07-30T15:07:14Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"We limit how often you can post, ",
+   "instagram": "17975179901907649",
+   "x": "dry-run"
+  }
  }
 ]
