@@ -1,61 +1,5 @@
 [
  {
-  "title_hash": "d07378eee02f220c",
-  "url": "https://www.thedailystar.net/news/bangladesh/news/hygiene-campaign-launched-miss-world-bangladesh-4230291",
-  "headline": "Miss World Bangladesh launches nationwide hygiene campaign",
-  "topic": "miss-world-bangladesh-hygiene-campaign",
-  "source": "Prothom Alo, The Daily Star",
-  "status": "posted",
-  "at": "2026-07-22T21:07:27Z",
-  "results": {
-   "facebook": "1237737746078842_122117330853361546",
-   "instagram": "18101089787263056",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "5924a0e079d320a6",
-  "url": "https://www.haal.fashion/arrangement/event/euww2t27pl",
-  "headline": "Miss World Bangladesh launches nationwide hygiene campaign",
-  "topic": "miss-world-bangladesh-hygiene-campaign",
-  "source": "Prothom Alo, The Daily Star",
-  "status": "posted",
-  "at": "2026-07-22T21:07:27Z",
-  "results": {
-   "facebook": "1237737746078842_122117330853361546",
-   "instagram": "18101089787263056",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "b01b64c65e35904c",
-  "url": "https://www.thedailystar.net/news/environment/natural-resources/energy/news/qatarenergy-set-prolong-lng-supply-halt-4230336",
-  "headline": "Global energy alert: QatarEnergy to extend LNG supply halt through mid-October",
-  "topic": "qatar-energy-lng-supply-halt",
-  "source": "The Daily Star",
-  "status": "posted",
-  "at": "2026-07-22T21:07:27Z",
-  "results": {
-   "facebook": "1237737746078842_122117331231361546",
-   "instagram": "18059942267759494",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "7138746e00b4e6d9",
-  "url": "https://www.thedailystar.net/news/bangladesh/news/can-nazrul-remain-lawmaker-4230351",
-  "headline": "Expulsion from party: Gazi Nazrul may retain MP seat despite viral video scandal",
-  "topic": "jamaat-mp-gazi-nazrul-expulsion-legal-status",
-  "source": "Prothom Alo, The Daily Star",
-  "status": "posted",
-  "at": "2026-07-22T22:07:49Z",
-  "results": {
-   "facebook": "1237737746078842_122117338125361546",
-   "instagram": "18169271335445857",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "580b1260e0b3bca6",
   "url": "https://www.prothomalo.com/politics/c8pls9hsgx",
   "headline": "Expulsion from party: Gazi Nazrul may retain MP seat despite viral video scandal",
@@ -8378,5 +8322,41 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "52ee06cc53d8b4ba",
+  "url": "https://www.thedailystar.net/news/bangladesh/diplomacy/news/us-eases-bangladesh-travel-advisory-citing-lower-risk-4236801",
+  "headline": "US downgrades travel advisory for Bangladesh to Level 2",
+  "topic": "us-eases-bangladesh-travel-advisory",
+  "source": "The Daily Star, Somoy News",
+  "status": "queued",
+  "at": "2026-07-30T21:07:37Z"
+ },
+ {
+  "title_hash": "75a8ff203ee38254",
+  "url": "https://www.somoynews.tv/news/2026-07-30/wTB11vyG",
+  "headline": "US downgrades travel advisory for Bangladesh to Level 2",
+  "topic": "us-eases-bangladesh-travel-advisory",
+  "source": "The Daily Star, Somoy News",
+  "status": "queued",
+  "at": "2026-07-30T21:07:37Z"
+ },
+ {
+  "title_hash": "ae116020581a5b8b",
+  "url": "https://www.prothomalo.com/business/bank/uq7b9s7oer",
+  "headline": "Bangladesh Bank cuts policy rate to 9.50% to boost investment",
+  "topic": "bb-lowers-policy-interest-rate",
+  "source": "Prothom Alo, Somoy News",
+  "status": "queued",
+  "at": "2026-07-30T21:07:37Z"
+ },
+ {
+  "title_hash": "da5805a1651eded0",
+  "url": "https://www.somoynews.tv/news/2026-07-30/J3vZJH3O",
+  "headline": "Bangladesh Bank cuts policy rate to 9.50% to boost investment",
+  "topic": "bb-lowers-policy-interest-rate",
+  "source": "Prothom Alo, Somoy News",
+  "status": "queued",
+  "at": "2026-07-30T21:07:37Z"
  }
 ]
