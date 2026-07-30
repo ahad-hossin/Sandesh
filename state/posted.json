@@ -8329,8 +8329,13 @@
   "headline": "Trump's special envoy Sergio Llorens arrives in Dhaka",
   "topic": "trump-envoy-sergio-gor-dhaka",
   "source": "Somoy News",
-  "status": "queued",
-  "at": "2026-07-30T17:07:38Z"
+  "status": "failed",
+  "at": "2026-07-30T17:07:38Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "11eddcb41f4367a8",
@@ -8338,8 +8343,13 @@
   "headline": "55 European nations vote to boycott World Cup over FIFA stake sale plans",
   "topic": "uefa-boycott-world-cup-fifa",
   "source": "Somoy News, The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-07-30T17:07:38Z"
+  "status": "failed",
+  "at": "2026-07-30T17:07:38Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "632dd856d82c322f",
@@ -8347,8 +8357,13 @@
   "headline": "55 European nations vote to boycott World Cup over FIFA stake sale plans",
   "topic": "uefa-boycott-world-cup-fifa",
   "source": "Somoy News, The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-07-30T17:07:38Z"
+  "status": "failed",
+  "at": "2026-07-30T17:07:38Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "10664a96dfeec4b9",
@@ -8356,7 +8371,12 @@
   "headline": "55 European nations vote to boycott World Cup over FIFA stake sale plans",
   "topic": "uefa-boycott-world-cup-fifa",
   "source": "Somoy News, The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-07-30T17:07:38Z"
+  "status": "failed",
+  "at": "2026-07-30T17:07:38Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
