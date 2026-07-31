@@ -1,61 +1,5 @@
 [
  {
-  "title_hash": "f5287ee6f99ee415",
-  "url": "https://www.prothomalo.com/bangladesh/crime/bmuuugmdz0",
-  "headline": "BGB foils push-in attempt of 8 people at Kushtia border",
-  "topic": "human-trafficking-border-push-in",
-  "source": "Prothom Alo, The Daily Star, Jamuna TV",
-  "status": "posted",
-  "at": "2026-07-24T08:09:35Z",
-  "results": {
-   "facebook": "1237737746078842_122117675469361546",
-   "instagram": "18108647315064047",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "9ab9b1fec549a2d1",
-  "url": "https://www.jamuna.tv/all-bangladesh/660659",
-  "headline": "BGB foils push-in attempt of 8 people at Kushtia border",
-  "topic": "human-trafficking-border-push-in",
-  "source": "Prothom Alo, The Daily Star, Jamuna TV",
-  "status": "posted",
-  "at": "2026-07-24T08:09:35Z",
-  "results": {
-   "facebook": "1237737746078842_122117675469361546",
-   "instagram": "18108647315064047",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "561225df3a26f190",
-  "url": "https://www.prothomalo.com/bangladesh/district/fqf4e8vx74",
-  "headline": "BGB foils push-in attempt of 8 people at Kushtia border",
-  "topic": "human-trafficking-border-push-in",
-  "source": "Prothom Alo, The Daily Star, Jamuna TV",
-  "status": "posted",
-  "at": "2026-07-24T08:09:35Z",
-  "results": {
-   "facebook": "1237737746078842_122117675469361546",
-   "instagram": "18108647315064047",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "1a9a421fa0da5b77",
-  "url": "https://www.dhakatribune.com/bangladesh/415872/pm-s-adviser-jobs-key-to-bangladesh-s-next-growth",
-  "headline": "428 people arrested in Dhaka in 24 hours during police raids",
-  "topic": "police-arrests-and-reinstatement",
-  "source": "Prothom Alo, Dhaka Tribune",
-  "status": "posted",
-  "at": "2026-07-24T09:08:56Z",
-  "results": {
-   "facebook": "1237737746078842_122117683767361546",
-   "instagram": "18335668123248987",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "3903792a874cee03",
   "url": "https://www.prothomalo.com/bangladesh/crime/f3wg0p26fp",
   "headline": "428 people arrested in Dhaka in 24 hours during police raids",
@@ -8378,5 +8322,41 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "5e9753f0299651c2",
+  "url": "https://www.dhakatribune.com/bangladesh/health/416270/study-finds-average-54-000-microplastic-particles",
+  "headline": "54,000 microplastics per liter: Soybean oil in Bangladesh contaminated",
+  "topic": "microplastics-soybean-oil-bangladesh",
+  "source": "Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-07-31T18:09:00Z"
+ },
+ {
+  "title_hash": "a9e2bf078479be8c",
+  "url": "https://www.dhakatribune.com/bangladesh/foreign-affairs/416439/indian-hasina-not-allowed-political-activities",
+  "headline": "India: Hasina not allowed political activities from its soil",
+  "topic": "india-hasina-political-activities-ban",
+  "source": "Dhaka Tribune, Prothom Alo",
+  "status": "queued",
+  "at": "2026-07-31T18:09:00Z"
+ },
+ {
+  "title_hash": "807de9359bd22c75",
+  "url": "https://www.prothomalo.com/video/bangladesh/bhz1cj04yl",
+  "headline": "India: Hasina not allowed political activities from its soil",
+  "topic": "india-hasina-political-activities-ban",
+  "source": "Dhaka Tribune, Prothom Alo",
+  "status": "queued",
+  "at": "2026-07-31T18:09:00Z"
+ },
+ {
+  "title_hash": "75f44e6d9d665cf3",
+  "url": "https://www.prothomalo.com/video/bangladesh/0hjao8j0yy",
+  "headline": "India: Hasina not allowed political activities from its soil",
+  "topic": "india-hasina-political-activities-ban",
+  "source": "Dhaka Tribune, Prothom Alo",
+  "status": "queued",
+  "at": "2026-07-31T18:09:00Z"
  }
 ]
