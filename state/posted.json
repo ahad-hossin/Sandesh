@@ -8329,8 +8329,13 @@
   "headline": "US denies Iran's claim of destroying F-35s in attacks on Middle East bases",
   "topic": "iran-attacks-us-bases-middle-east",
   "source": "Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-07-31T02:09:44Z"
+  "status": "failed",
+  "at": "2026-07-31T02:09:44Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "40037232a61443bb",
@@ -8338,8 +8343,13 @@
   "headline": "US denies Iran's claim of destroying F-35s in attacks on Middle East bases",
   "topic": "iran-attacks-us-bases-middle-east",
   "source": "Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-07-31T02:09:44Z"
+  "status": "failed",
+  "at": "2026-07-31T02:09:44Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "d00cd8e70173716b",
@@ -8347,8 +8357,13 @@
   "headline": "US denies Iran's claim of destroying F-35s in attacks on Middle East bases",
   "topic": "iran-attacks-us-bases-middle-east",
   "source": "Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-07-31T02:09:44Z"
+  "status": "failed",
+  "at": "2026-07-31T02:09:44Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "708ce5bb29f0a85f",
@@ -8356,7 +8371,12 @@
   "headline": "Bangladesh Bank warns against financial fraud involving crypto and MLM schemes",
   "topic": "bangladesh-bank-warns-crypto-mlm-fraud",
   "source": "Somoy News",
-  "status": "queued",
-  "at": "2026-07-31T02:09:44Z"
+  "status": "failed",
+  "at": "2026-07-31T02:09:44Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
