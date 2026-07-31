@@ -1,75 +1,5 @@
 [
  {
-  "title_hash": "8fbcbefddf58825a",
-  "url": "https://www.somoynews.tv/news/2026-07-23/U255v42s",
-  "headline": "Modi government proposes talks with protesters over exam leak scandal",
-  "topic": "modi-govt-protest-talks",
-  "source": "Somoy News, Jamuna TV",
-  "status": "posted",
-  "at": "2026-07-23T18:16:14Z",
-  "results": {
-   "facebook": "1237737746078842_122117522223361546",
-   "instagram": "18109441096806334",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "ba7c446ef5a26458",
-  "url": "https://www.jamuna.tv/international/660628",
-  "headline": "Modi government proposes talks with protesters over exam leak scandal",
-  "topic": "modi-govt-protest-talks",
-  "source": "Somoy News, Jamuna TV",
-  "status": "posted",
-  "at": "2026-07-23T18:16:14Z",
-  "results": {
-   "facebook": "1237737746078842_122117522223361546",
-   "instagram": "18109441096806334",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "4b66b3e0287c26ad",
-  "url": "https://www.jamuna.tv/international/660610",
-  "headline": "Modi government proposes talks with protesters over exam leak scandal",
-  "topic": "modi-govt-protest-talks",
-  "source": "Somoy News, Jamuna TV",
-  "status": "posted",
-  "at": "2026-07-23T18:16:14Z",
-  "results": {
-   "facebook": "1237737746078842_122117522223361546",
-   "instagram": "18109441096806334",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "fe4545719ac26f77",
-  "url": "https://www.dhakatribune.com/bangladesh/415805/6-165-candidates-pass-50th-bcs-written-test",
-  "headline": "6,165 candidates pass 50th BCS written test",
-  "topic": "50th-bcs-written-results",
-  "source": "Somoy News, Jamuna TV, Dhaka Tribune",
-  "status": "posted",
-  "at": "2026-07-23T18:16:14Z",
-  "results": {
-   "facebook": "1237737746078842_122117522427361546",
-   "instagram": "18053240405561241",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "44d16e5f63deb0e7",
-  "url": "https://www.somoynews.tv/news/2026-07-23/tMLJTWsY",
-  "headline": "6,165 candidates pass 50th BCS written test",
-  "topic": "50th-bcs-written-results",
-  "source": "Somoy News, Jamuna TV, Dhaka Tribune",
-  "status": "posted",
-  "at": "2026-07-23T18:16:14Z",
-  "results": {
-   "facebook": "1237737746078842_122117522427361546",
-   "instagram": "18053240405561241",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "9325cc100c3f1679",
   "url": "https://www.jamuna.tv/national/660626",
   "headline": "6,165 candidates pass 50th BCS written test",
@@ -8378,5 +8308,50 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "34453df614a26449",
+  "url": "https://www.dhakatribune.com/bangladesh/nation/416403/jubo-league-activist-killed-in-khulna",
+  "headline": "Jubo League activist shot and hacked to death in Khulna",
+  "topic": "jubo-league-activist-killed-khulna",
+  "source": "Dhaka Tribune, Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-07-31T08:07:35Z"
+ },
+ {
+  "title_hash": "9bcf9e9e19128a68",
+  "url": "https://www.prothomalo.com/video/bangladesh/8ba7oo7ziu",
+  "headline": "Jubo League activist shot and hacked to death in Khulna",
+  "topic": "jubo-league-activist-killed-khulna",
+  "source": "Dhaka Tribune, Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-07-31T08:07:35Z"
+ },
+ {
+  "title_hash": "1751ff7bcdfdfd72",
+  "url": "https://www.thedailystar.net/news/crime-justice/news/man-shot-dead-khulna-4236916",
+  "headline": "Jubo League activist shot and hacked to death in Khulna",
+  "topic": "jubo-league-activist-killed-khulna",
+  "source": "Dhaka Tribune, Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-07-31T08:07:35Z"
+ },
+ {
+  "title_hash": "9997f895732b2f43",
+  "url": "https://www.prothomalo.com/bangladesh/district/r55q962qpn",
+  "headline": "Jubo League activist shot and hacked to death in Khulna",
+  "topic": "jubo-league-activist-killed-khulna",
+  "source": "Dhaka Tribune, Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-07-31T08:07:35Z"
+ },
+ {
+  "title_hash": "ec85a1e675520c3e",
+  "url": "https://www.dhakatribune.com/bangladesh/416402/rainfall-may-continue-across-bangladesh-until",
+  "headline": "Weather alert: Rainfall may continue across Bangladesh until August 3",
+  "topic": "bangladesh-rainfall-forecast-3-days",
+  "source": "Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-07-31T08:07:35Z"
  }
 ]
