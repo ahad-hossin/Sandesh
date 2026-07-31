@@ -1,75 +1,5 @@
 [
  {
-  "title_hash": "2268fbe615480e23",
-  "url": "https://www.somoynews.tv/news/2026-07-23/ZGJTOPDw",
-  "headline": "Oil prices rise for 5th day as global supply fears grow",
-  "topic": "global-oil-price-hike",
-  "source": "Somoy News, The Daily Star",
-  "status": "posted",
-  "at": "2026-07-23T22:07:37Z",
-  "results": {
-   "facebook": "1237737746078842_122117556243361546",
-   "instagram": "18097905572362847",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "64e58c05332f46e5",
-  "url": "https://www.somoynews.tv/news/2026-07-23/tMw9XKQ4",
-  "headline": "60 kmph winds: Storm risk in 10 districts including Dhaka by 9 AM",
-  "topic": "storm-warning-dhaka-10-districts",
-  "source": "Somoy News",
-  "status": "posted",
-  "at": "2026-07-23T23:07:16Z",
-  "results": {
-   "facebook": "1237737746078842_122117565747361546",
-   "instagram": "18384803509166157",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "fbf3698a8056cc21",
-  "url": "https://www.somoynews.tv/news/2026-07-23/0y2sJ8xK",
-  "headline": "Tk 5 million spent, but road collapses within a month",
-  "topic": "road-collapse-development-scandal",
-  "source": "Somoy News",
-  "status": "posted",
-  "at": "2026-07-23T23:07:16Z",
-  "results": {
-   "facebook": "1237737746078842_122117565993361546",
-   "instagram": "17984218260040185",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "9562cc76da51ee9e",
-  "url": "https://www.somoynews.tv/news/2026-07-23/uVCLE5AW",
-  "headline": "Big fall in gold and silver prices in the world market",
-  "topic": "global-gold-silver-price-drop",
-  "source": "Somoy News",
-  "status": "posted",
-  "at": "2026-07-24T00:08:07Z",
-  "results": {
-   "facebook": "1237737746078842_122117571825361546",
-   "instagram": "18157334917491785",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "d514526d00a5d2b3",
-  "url": "https://www.somoynews.tv/news/2026-07-23/IMP4TPKM",
-  "headline": "Tk 5 crore project abandoned for 3 years, vital parts stolen",
-  "topic": "abandoned-project-equipment-theft",
-  "source": "Somoy News",
-  "status": "posted",
-  "at": "2026-07-24T00:08:07Z",
-  "results": {
-   "facebook": "1237737746078842_122117572047361546",
-   "instagram": "18223873294323937",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "f388b0dbd143c5cd",
   "url": "https://www.jamuna.tv/international/660652",
   "headline": "US imposes new tariffs on products from Bangladesh and 59 other trade partners over forced labor concerns",
@@ -8378,5 +8308,50 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "c698de5252720db6",
+  "url": "https://www.thedailystar.net/sports/football/news/senior-infantino-advisor-resigns-over-fifas-bad-deal-football-4237036",
+  "headline": "Global football crisis: AFC joins UEFA and CONCACAF in opposing FIFA plan",
+  "topic": "uefa-concacaf-boycott-fifa",
+  "source": "Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-07-31T14:07:31Z"
+ },
+ {
+  "title_hash": "9e6901f9a75c3cfe",
+  "url": "https://www.prothomalo.com/video/sports/jvr6fw1h41",
+  "headline": "Global football crisis: AFC joins UEFA and CONCACAF in opposing FIFA plan",
+  "topic": "uefa-concacaf-boycott-fifa",
+  "source": "Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-07-31T14:07:31Z"
+ },
+ {
+  "title_hash": "ad2d77ccc76971c4",
+  "url": "https://www.prothomalo.com/sports/football/p6h0mn8ist",
+  "headline": "Global football crisis: AFC joins UEFA and CONCACAF in opposing FIFA plan",
+  "topic": "uefa-concacaf-boycott-fifa",
+  "source": "Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-07-31T14:07:31Z"
+ },
+ {
+  "title_hash": "d30a2168d6ec750e",
+  "url": "https://www.thedailystar.net/news/crime-justice/news/bag-left-outside-ashulia-shop-inside-was-powerful-pressure-cooker-bomb-4237046",
+  "headline": "Powerful pressure-cooker bomb recovered in Ashulia",
+  "topic": "ashulia-savar-pressure-cooker-bomb",
+  "source": "The Daily Star, Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-07-31T14:07:31Z"
+ },
+ {
+  "title_hash": "dfe8edb557c0736f",
+  "url": "https://www.dhakatribune.com/bangladesh/nation/416419/bomb-like-object-recovered-from-ashulia",
+  "headline": "Powerful pressure-cooker bomb recovered in Ashulia",
+  "topic": "ashulia-savar-pressure-cooker-bomb",
+  "source": "The Daily Star, Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-07-31T14:07:31Z"
  }
 ]
