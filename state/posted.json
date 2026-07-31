@@ -8329,8 +8329,13 @@
   "headline": "Trump announces complete disarmament of Hamas for Gaza peace",
   "topic": "trump-hamas-disarmament-deal",
   "source": "Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-07-31T04:07:14Z"
+  "status": "failed",
+  "at": "2026-07-31T04:07:14Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "418acca0f810da8f",
@@ -8338,8 +8343,13 @@
   "headline": "Trump announces complete disarmament of Hamas for Gaza peace",
   "topic": "trump-hamas-disarmament-deal",
   "source": "Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-07-31T04:07:14Z"
+  "status": "failed",
+  "at": "2026-07-31T04:07:14Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "f4f07d0308853b3a",
@@ -8347,8 +8357,13 @@
   "headline": "Trump announces complete disarmament of Hamas for Gaza peace",
   "topic": "trump-hamas-disarmament-deal",
   "source": "Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-07-31T04:07:14Z"
+  "status": "failed",
+  "at": "2026-07-31T04:07:14Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "c6c50a92b328a624",
@@ -8356,7 +8371,12 @@
   "headline": "US Special Envoy Sergio Gor to visit Rohingya camps in Cox's Bazar",
   "topic": "sergio-gor-rohingya-camp-visit",
   "source": "Jamuna TV",
-  "status": "queued",
-  "at": "2026-07-31T04:07:14Z"
+  "status": "failed",
+  "at": "2026-07-31T04:07:14Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
