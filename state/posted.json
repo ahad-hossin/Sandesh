@@ -1,47 +1,5 @@
 [
  {
-  "title_hash": "9325cc100c3f1679",
-  "url": "https://www.jamuna.tv/national/660626",
-  "headline": "6,165 candidates pass 50th BCS written test",
-  "topic": "50th-bcs-written-results",
-  "source": "Somoy News, Jamuna TV, Dhaka Tribune",
-  "status": "posted",
-  "at": "2026-07-23T18:16:14Z",
-  "results": {
-   "facebook": "1237737746078842_122117522427361546",
-   "instagram": "18053240405561241",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "5caf3f222aafff65",
-  "url": "https://www.dhakatribune.com/bangladesh/nation/415841/ku-students-lock-admin-building-boycott-classes",
-  "headline": "KU students lock admin building, boycott classes over hidden camera allegation",
-  "topic": "khulna-university-hidden-camera-boycott",
-  "source": "Dhaka Tribune, Somoy News, The Daily Star",
-  "status": "posted",
-  "at": "2026-07-23T19:08:46Z",
-  "results": {
-   "facebook": "1237737746078842_122117528439361546",
-   "instagram": "18128422531641129",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "678f035f7595842e",
-  "url": "https://www.somoynews.tv/news/2026-07-23/xC5XW5ZI",
-  "headline": "KU students lock admin building, boycott classes over hidden camera allegation",
-  "topic": "khulna-university-hidden-camera-boycott",
-  "source": "Dhaka Tribune, Somoy News, The Daily Star",
-  "status": "posted",
-  "at": "2026-07-23T19:08:46Z",
-  "results": {
-   "facebook": "1237737746078842_122117528439361546",
-   "instagram": "18128422531641129",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "a2289d21a26227cc",
   "url": "https://www.thedailystar.net/news/bangladesh/news/hidden-phone-washroom-sparks-class-boycott-ku-4231081",
   "headline": "KU students lock admin building, boycott classes over hidden camera allegation",
@@ -8378,5 +8336,32 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "9cdcf991b00c0068",
+  "url": "https://www.thedailystar.net/news/asia/south-asia/news/explosion-coal-mine-kills-34-southern-pakistan-4236961",
+  "headline": "34 workers killed in coal mine blast in southern Pakistan",
+  "topic": "pakistan-coal-mine-explosion-kills-dozens",
+  "source": "Jamuna TV, The Daily Star",
+  "status": "queued",
+  "at": "2026-07-31T09:07:24Z"
+ },
+ {
+  "title_hash": "bbfe724e7e14d2b4",
+  "url": "https://www.jamuna.tv/international/661214",
+  "headline": "34 workers killed in coal mine blast in southern Pakistan",
+  "topic": "pakistan-coal-mine-explosion-kills-dozens",
+  "source": "Jamuna TV, The Daily Star",
+  "status": "queued",
+  "at": "2026-07-31T09:07:24Z"
+ },
+ {
+  "title_hash": "9b0ff35ef0366e5f",
+  "url": "https://www.jamuna.tv/international/661213",
+  "headline": "India reviewing Bangladesh's request to extradite Sheikh Hasina",
+  "topic": "india-reviewing-bangladesh-extradition-request-sheikh-hasina",
+  "source": "Jamuna TV",
+  "status": "queued",
+  "at": "2026-07-31T09:07:24Z"
  }
 ]
