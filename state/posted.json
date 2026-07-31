@@ -8301,8 +8301,13 @@
   "headline": "PM Tarique Rahman drives himself to inspect Dhaka city services",
   "topic": "pm-city-inspection-drive",
   "source": "Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-07-31T19:07:53Z"
+  "status": "failed",
+  "at": "2026-07-31T19:07:53Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "bb33030a7a5ccaad",
@@ -8310,8 +8315,13 @@
   "headline": "PM Tarique Rahman drives himself to inspect Dhaka city services",
   "topic": "pm-city-inspection-drive",
   "source": "Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-07-31T19:07:53Z"
+  "status": "failed",
+  "at": "2026-07-31T19:07:53Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "208ce1650075dc47",
@@ -8319,8 +8329,13 @@
   "headline": "PM Tarique Rahman drives himself to inspect Dhaka city services",
   "topic": "pm-city-inspection-drive",
   "source": "Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-07-31T19:07:53Z"
+  "status": "failed",
+  "at": "2026-07-31T19:07:53Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "3e0778b0fc9772e0",
@@ -8328,8 +8343,13 @@
   "headline": "1 death, 153 hospitalised as dengue cases surge in Bangladesh",
   "topic": "bangladesh-dengue-surge-august",
   "source": "Dhaka Tribune, Jamuna TV",
-  "status": "queued",
-  "at": "2026-07-31T19:07:53Z"
+  "status": "failed",
+  "at": "2026-07-31T19:07:53Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "623fc7becc2e9f71",
@@ -8337,8 +8357,13 @@
   "headline": "1 death, 153 hospitalised as dengue cases surge in Bangladesh",
   "topic": "bangladesh-dengue-surge-august",
   "source": "Dhaka Tribune, Jamuna TV",
-  "status": "queued",
-  "at": "2026-07-31T19:07:53Z"
+  "status": "failed",
+  "at": "2026-07-31T19:07:53Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "5a5211f1ebca9a17",
@@ -8346,7 +8371,12 @@
   "headline": "1 death, 153 hospitalised as dengue cases surge in Bangladesh",
   "topic": "bangladesh-dengue-surge-august",
   "source": "Dhaka Tribune, Jamuna TV",
-  "status": "queued",
-  "at": "2026-07-31T19:07:53Z"
+  "status": "failed",
+  "at": "2026-07-31T19:07:53Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
