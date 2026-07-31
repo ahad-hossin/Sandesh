@@ -8357,8 +8357,13 @@
   "headline": "Bangladesh Bank warns against crypto and MLM financial fraud",
   "topic": "bangladesh-bank-crypto-mlm-fraud-warning",
   "source": "Somoy News",
-  "status": "queued",
-  "at": "2026-07-31T01:08:23Z"
+  "status": "failed",
+  "at": "2026-07-31T01:08:23Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "dfa2f6210d90da8b",
@@ -8366,7 +8371,12 @@
   "headline": "First prize 6 lakh taka in 124th Prize Bond draw on Sunday",
   "topic": "prize-bond-draw-announcement",
   "source": "Somoy News",
-  "status": "queued",
-  "at": "2026-07-31T01:08:23Z"
+  "status": "failed",
+  "at": "2026-07-31T01:08:23Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
