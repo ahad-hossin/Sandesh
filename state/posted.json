@@ -1,33 +1,5 @@
 [
  {
-  "title_hash": "81e8eb2f0fa98e44",
-  "url": "https://www.dhakatribune.com/bangladesh/education/415789/education-minister-chittagong-board%E2%80%99s-suspended",
-  "headline": "Ctg Board HSC exams to resume July 27 after flood suspension",
-  "topic": "ctg-board-hsc-exams-resume",
-  "source": "The Daily Star, Somoy News, Jamuna TV, Dhaka Tribune",
-  "status": "posted",
-  "at": "2026-07-23T19:08:46Z",
-  "results": {
-   "facebook": "1237737746078842_122117528715361546",
-   "instagram": "18100560662136539",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "61d1010eee5a46f3",
-  "url": "https://www.dhakatribune.com/bangladesh/foreign-affairs/415849/riyadh-road-crash-kills-3-members-of-faridpur",
-  "headline": "3 Bangladeshis killed in Saudi road crash during Umrah trip",
-  "topic": "saudi-arabia-road-crash-bangladeshis",
-  "source": "Jamuna TV, Dhaka Tribune",
-  "status": "posted",
-  "at": "2026-07-23T20:07:58Z",
-  "results": {
-   "facebook": "1237737746078842_122117536035361546",
-   "instagram": "18610396405004453",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "538c8c2ca33632bf",
   "url": "https://www.jamuna.tv/international/660650",
   "headline": "3 Bangladeshis killed in Saudi road crash during Umrah trip",
@@ -8378,5 +8350,23 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "09f517bfdd9b2eed",
+  "url": "https://www.dhakatribune.com/bangladesh/crime/416415/three-held-with-464-weapons-at-baitul-mukarram",
+  "headline": "464 weapons seized: Three held with 464 weapons at Baitul Mukarram",
+  "topic": "weapons-stockpiled-for-criminals-arrested-baitul-mukarram",
+  "source": "Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-07-31T11:07:59Z"
+ },
+ {
+  "title_hash": "914166c3e39c6a26",
+  "url": "https://www.jamuna.tv/national/661219",
+  "headline": "1,085 new cases as 2 die of suspected measles in 24 hours",
+  "topic": "measles-deaths-and-new-cases-surge",
+  "source": "Jamuna TV",
+  "status": "queued",
+  "at": "2026-07-31T11:07:59Z"
  }
 ]
