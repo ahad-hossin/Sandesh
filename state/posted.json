@@ -8329,8 +8329,13 @@
   "headline": "54,000 microplastics per liter: Soybean oil in Bangladesh contaminated",
   "topic": "microplastics-soybean-oil-bangladesh",
   "source": "Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-07-31T18:09:00Z"
+  "status": "failed",
+  "at": "2026-07-31T18:09:00Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "a9e2bf078479be8c",
@@ -8338,8 +8343,13 @@
   "headline": "India: Hasina not allowed political activities from its soil",
   "topic": "india-hasina-political-activities-ban",
   "source": "Dhaka Tribune, Prothom Alo",
-  "status": "queued",
-  "at": "2026-07-31T18:09:00Z"
+  "status": "failed",
+  "at": "2026-07-31T18:09:00Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "807de9359bd22c75",
@@ -8347,8 +8357,13 @@
   "headline": "India: Hasina not allowed political activities from its soil",
   "topic": "india-hasina-political-activities-ban",
   "source": "Dhaka Tribune, Prothom Alo",
-  "status": "queued",
-  "at": "2026-07-31T18:09:00Z"
+  "status": "failed",
+  "at": "2026-07-31T18:09:00Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "75f44e6d9d665cf3",
@@ -8356,7 +8371,12 @@
   "headline": "India: Hasina not allowed political activities from its soil",
   "topic": "india-hasina-political-activities-ban",
   "source": "Dhaka Tribune, Prothom Alo",
-  "status": "queued",
-  "at": "2026-07-31T18:09:00Z"
+  "status": "failed",
+  "at": "2026-07-31T18:09:00Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
