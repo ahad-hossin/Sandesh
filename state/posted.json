@@ -8301,8 +8301,13 @@
   "headline": "NCP removes Joint General Secretary Salauddin Tanvir from post",
   "topic": "ncp-salauddin-tanvir-removed",
   "source": "Somoy News, Jamuna TV",
-  "status": "queued",
-  "at": "2026-07-31T23:07:20Z"
+  "status": "failed",
+  "at": "2026-07-31T23:07:20Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "b4b8143c4e629957",
@@ -8310,8 +8315,13 @@
   "headline": "NCP removes Joint General Secretary Salauddin Tanvir from post",
   "topic": "ncp-salauddin-tanvir-removed",
   "source": "Somoy News, Jamuna TV",
-  "status": "queued",
-  "at": "2026-07-31T23:07:20Z"
+  "status": "failed",
+  "at": "2026-07-31T23:07:20Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "69db998a3d1b0b64",
@@ -8319,8 +8329,13 @@
   "headline": "PM Tarique Rahman drives around Dhaka to inspect city management",
   "topic": "pm-dhaka-city-inspection",
   "source": "Somoy News, Jamuna TV, Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-07-31T23:07:20Z"
+  "status": "failed",
+  "at": "2026-07-31T23:07:20Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "95401a12f6d19ff9",
@@ -8328,8 +8343,13 @@
   "headline": "PM Tarique Rahman drives around Dhaka to inspect city management",
   "topic": "pm-dhaka-city-inspection",
   "source": "Somoy News, Jamuna TV, Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-07-31T23:07:20Z"
+  "status": "failed",
+  "at": "2026-07-31T23:07:20Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "2c370889d076f172",
@@ -8337,8 +8357,13 @@
   "headline": "PM Tarique Rahman drives around Dhaka to inspect city management",
   "topic": "pm-dhaka-city-inspection",
   "source": "Somoy News, Jamuna TV, Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-07-31T23:07:20Z"
+  "status": "failed",
+  "at": "2026-07-31T23:07:20Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "bb33030a7a5ccaad",
@@ -8346,7 +8371,12 @@
   "headline": "PM Tarique Rahman drives around Dhaka to inspect city management",
   "topic": "pm-dhaka-city-inspection",
   "source": "Somoy News, Jamuna TV, Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-07-31T23:07:20Z"
+  "status": "failed",
+  "at": "2026-07-31T23:07:20Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
