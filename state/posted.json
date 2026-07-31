@@ -8329,8 +8329,13 @@
   "headline": "3 killed, 20 injured in Tangail bus-truck collision",
   "topic": "tangail-bus-truck-collision-3-dead",
   "source": "The Daily Star",
-  "status": "queued",
-  "at": "2026-07-31T00:07:41Z"
+  "status": "failed",
+  "at": "2026-07-31T00:07:41Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "a6790b6284076f18",
@@ -8338,8 +8343,13 @@
   "headline": "DSCC unveils Tk 4,004 crore budget for FY2026-27, but past implementation raises questions",
   "topic": "dscc-budget-fy2026-27",
   "source": "Prothom Alo, Dhaka Tribune, The Daily Star",
-  "status": "queued",
-  "at": "2026-07-31T00:07:41Z"
+  "status": "failed",
+  "at": "2026-07-31T00:07:41Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "64b1bf1391c7c9fe",
@@ -8347,8 +8357,13 @@
   "headline": "DSCC unveils Tk 4,004 crore budget for FY2026-27, but past implementation raises questions",
   "topic": "dscc-budget-fy2026-27",
   "source": "Prothom Alo, Dhaka Tribune, The Daily Star",
-  "status": "queued",
-  "at": "2026-07-31T00:07:41Z"
+  "status": "failed",
+  "at": "2026-07-31T00:07:41Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "4ebaae93aa389e1a",
@@ -8356,7 +8371,12 @@
   "headline": "DSCC unveils Tk 4,004 crore budget for FY2026-27, but past implementation raises questions",
   "topic": "dscc-budget-fy2026-27",
   "source": "Prothom Alo, Dhaka Tribune, The Daily Star",
-  "status": "queued",
-  "at": "2026-07-31T00:07:41Z"
+  "status": "failed",
+  "at": "2026-07-31T00:07:41Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
