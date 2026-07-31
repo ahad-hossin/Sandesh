@@ -8315,8 +8315,13 @@
   "headline": "Jubo League activist shot and hacked to death in Khulna",
   "topic": "jubo-league-activist-killed-khulna",
   "source": "Dhaka Tribune, Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-07-31T08:07:35Z"
+  "status": "failed",
+  "at": "2026-07-31T08:07:35Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "9bcf9e9e19128a68",
@@ -8324,8 +8329,13 @@
   "headline": "Jubo League activist shot and hacked to death in Khulna",
   "topic": "jubo-league-activist-killed-khulna",
   "source": "Dhaka Tribune, Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-07-31T08:07:35Z"
+  "status": "failed",
+  "at": "2026-07-31T08:07:35Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "1751ff7bcdfdfd72",
@@ -8333,8 +8343,13 @@
   "headline": "Jubo League activist shot and hacked to death in Khulna",
   "topic": "jubo-league-activist-killed-khulna",
   "source": "Dhaka Tribune, Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-07-31T08:07:35Z"
+  "status": "failed",
+  "at": "2026-07-31T08:07:35Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "9997f895732b2f43",
@@ -8342,8 +8357,13 @@
   "headline": "Jubo League activist shot and hacked to death in Khulna",
   "topic": "jubo-league-activist-killed-khulna",
   "source": "Dhaka Tribune, Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-07-31T08:07:35Z"
+  "status": "failed",
+  "at": "2026-07-31T08:07:35Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "ec85a1e675520c3e",
@@ -8351,7 +8371,12 @@
   "headline": "Weather alert: Rainfall may continue across Bangladesh until August 3",
   "topic": "bangladesh-rainfall-forecast-3-days",
   "source": "Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-07-31T08:07:35Z"
+  "status": "failed",
+  "at": "2026-07-31T08:07:35Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
