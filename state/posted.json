@@ -1,33 +1,5 @@
 [
  {
-  "title_hash": "538c8c2ca33632bf",
-  "url": "https://www.jamuna.tv/international/660650",
-  "headline": "3 Bangladeshis killed in Saudi road crash during Umrah trip",
-  "topic": "saudi-arabia-road-crash-bangladeshis",
-  "source": "Jamuna TV, Dhaka Tribune",
-  "status": "posted",
-  "at": "2026-07-23T20:07:58Z",
-  "results": {
-   "facebook": "1237737746078842_122117536035361546",
-   "instagram": "18610396405004453",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "971b932509f736d6",
-  "url": "https://www.thedailystar.net/news/world/news/iran-hits-cia-sites-russian-link-eyed-4231181",
-  "headline": "US probes Russian role in Iranian drone attacks on CIA sites",
-  "topic": "iran-attack-cia-russia-link",
-  "source": "Prothom Alo, The Daily Star",
-  "status": "posted",
-  "at": "2026-07-23T20:07:58Z",
-  "results": {
-   "facebook": "1237737746078842_122117536227361546",
-   "instagram": "18146886832521510",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "235e4e3eadf61dad",
   "url": "https://www.prothomalo.com/world/middle-east/i58kzydpe3",
   "headline": "US probes Russian role in Iranian drone attacks on CIA sites",
@@ -8378,5 +8350,23 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "f6f420cb62c7ce88",
+  "url": "https://www.thedailystar.net/news/bangladesh/diplomacy/news/indias-govt-tells-parliament-hasina-not-allowed-use-indian-soil-political-activity-4237021",
+  "headline": "India tells parliament Hasina not allowed to use Indian soil for political activity",
+  "topic": "hasina-political-activity-ban-india",
+  "source": "The Daily Star",
+  "status": "queued",
+  "at": "2026-07-31T12:07:48Z"
+ },
+ {
+  "title_hash": "8c1c728198ea9793",
+  "url": "https://www.dhakatribune.com/bangladesh/health/416422/measles-outbreak-death-toll-reaches-837-as-two",
+  "headline": "837 dead as measles outbreak death toll rises",
+  "topic": "measles-outbreak-death-toll-update",
+  "source": "Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-07-31T12:07:48Z"
  }
 ]
