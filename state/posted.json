@@ -1,61 +1,5 @@
 [
  {
-  "title_hash": "37600000df1647ec",
-  "url": "https://www.prothomalo.com/business/economics/eutkwwxjyo",
-  "headline": "PM vows to build $1 trillion economy by 2034",
-  "topic": "pm-1-trillion-economy-target",
-  "source": "Dhaka Tribune, The Daily Star, Prothom Alo, Somoy News, Jamuna TV",
-  "status": "posted",
-  "at": "2026-07-23T14:08:48Z",
-  "results": {
-   "facebook": "1237737746078842_122117481021361546",
-   "instagram": "18050578754793050",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "d9c257b81bc84ecf",
-  "url": "https://www.somoynews.tv/news/2026-07-23/8UwJCEL3",
-  "headline": "PM vows to build $1 trillion economy by 2034",
-  "topic": "pm-1-trillion-economy-target",
-  "source": "Dhaka Tribune, The Daily Star, Prothom Alo, Somoy News, Jamuna TV",
-  "status": "posted",
-  "at": "2026-07-23T14:08:48Z",
-  "results": {
-   "facebook": "1237737746078842_122117481021361546",
-   "instagram": "18050578754793050",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "019cb1f60a112acf",
-  "url": "https://www.jamuna.tv/national/660606",
-  "headline": "PM vows to build $1 trillion economy by 2034",
-  "topic": "pm-1-trillion-economy-target",
-  "source": "Dhaka Tribune, The Daily Star, Prothom Alo, Somoy News, Jamuna TV",
-  "status": "posted",
-  "at": "2026-07-23T14:08:48Z",
-  "results": {
-   "facebook": "1237737746078842_122117481021361546",
-   "instagram": "18050578754793050",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "47bb9af9a87cf558",
-  "url": "https://www.dhakatribune.com/bangladesh/nation/415824/man-awarded-death-penalty-for-killing-3rd-grader",
-  "headline": "Comilla: Man awarded death penalty for raping and killing 3rd grader",
-  "topic": "comilla-child-rape-murder-death-penalty",
-  "source": "Dhaka Tribune, Somoy News",
-  "status": "posted",
-  "at": "2026-07-23T14:08:48Z",
-  "results": {
-   "facebook": "1237737746078842_122117481495361546",
-   "instagram": "17893545897602629",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "251944c0f521f124",
   "url": "https://www.somoynews.tv/news/2026-07-23/GPLRxD02",
   "headline": "Comilla: Man awarded death penalty for raping and killing 3rd grader",
@@ -8378,5 +8322,41 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "d912ce82cd1060c8",
+  "url": "https://www.jamuna.tv/international/661185",
+  "headline": "US denies Iran's claim of destroying F-35s in attacks on Middle East bases",
+  "topic": "iran-attacks-us-bases-middle-east",
+  "source": "Jamuna TV, Prothom Alo",
+  "status": "queued",
+  "at": "2026-07-31T02:09:44Z"
+ },
+ {
+  "title_hash": "40037232a61443bb",
+  "url": "https://www.prothomalo.com/world/middle-east/kyv6lf0sez",
+  "headline": "US denies Iran's claim of destroying F-35s in attacks on Middle East bases",
+  "topic": "iran-attacks-us-bases-middle-east",
+  "source": "Jamuna TV, Prothom Alo",
+  "status": "queued",
+  "at": "2026-07-31T02:09:44Z"
+ },
+ {
+  "title_hash": "d00cd8e70173716b",
+  "url": "https://www.jamuna.tv/international/661176",
+  "headline": "US denies Iran's claim of destroying F-35s in attacks on Middle East bases",
+  "topic": "iran-attacks-us-bases-middle-east",
+  "source": "Jamuna TV, Prothom Alo",
+  "status": "queued",
+  "at": "2026-07-31T02:09:44Z"
+ },
+ {
+  "title_hash": "708ce5bb29f0a85f",
+  "url": "https://www.somoynews.tv/news/2026-07-30/QTEGNB1H",
+  "headline": "Bangladesh Bank warns against financial fraud involving crypto and MLM schemes",
+  "topic": "bangladesh-bank-warns-crypto-mlm-fraud",
+  "source": "Somoy News",
+  "status": "queued",
+  "at": "2026-07-31T02:09:44Z"
  }
 ]
