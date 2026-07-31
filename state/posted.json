@@ -8315,8 +8315,13 @@
   "headline": "3 killed, 20 injured in Tangail bus-truck collision last night",
   "topic": "tangail-bus-truck-collision-3-dead",
   "source": "Jamuna TV, Prothom Alo, The Daily Star, Somoy News",
-  "status": "queued",
-  "at": "2026-07-31T03:10:10Z"
+  "status": "failed",
+  "at": "2026-07-31T03:10:10Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "b1edc3096c0cbdee",
@@ -8324,8 +8329,13 @@
   "headline": "3 killed, 20 injured in Tangail bus-truck collision last night",
   "topic": "tangail-bus-truck-collision-3-dead",
   "source": "Jamuna TV, Prothom Alo, The Daily Star, Somoy News",
-  "status": "queued",
-  "at": "2026-07-31T03:10:10Z"
+  "status": "failed",
+  "at": "2026-07-31T03:10:10Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "64380bd02ba1ff5f",
@@ -8333,8 +8343,13 @@
   "headline": "3 killed, 20 injured in Tangail bus-truck collision last night",
   "topic": "tangail-bus-truck-collision-3-dead",
   "source": "Jamuna TV, Prothom Alo, The Daily Star, Somoy News",
-  "status": "queued",
-  "at": "2026-07-31T03:10:10Z"
+  "status": "failed",
+  "at": "2026-07-31T03:10:10Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "f3694b23bb0cacb6",
@@ -8342,8 +8357,13 @@
   "headline": "3 killed, 20 injured in Tangail bus-truck collision last night",
   "topic": "tangail-bus-truck-collision-3-dead",
   "source": "Jamuna TV, Prothom Alo, The Daily Star, Somoy News",
-  "status": "queued",
-  "at": "2026-07-31T03:10:10Z"
+  "status": "failed",
+  "at": "2026-07-31T03:10:10Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "d912ce82cd1060c8",
@@ -8351,7 +8371,12 @@
   "headline": "Iran attacks US bases in Kuwait, Bahrain and Jordan in retaliation",
   "topic": "iran-attacks-us-bases",
   "source": "Jamuna TV",
-  "status": "queued",
-  "at": "2026-07-31T03:10:10Z"
+  "status": "failed",
+  "at": "2026-07-31T03:10:10Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
