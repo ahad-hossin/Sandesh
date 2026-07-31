@@ -1,75 +1,5 @@
 [
  {
-  "title_hash": "ab4faa4681b98e46",
-  "url": "https://www.prothomalo.com/video/bangladesh/qqicfn1iyp",
-  "headline": "Speaker says he knows nothing about president's resignation",
-  "topic": "president-resignation-speculation-speaker-return",
-  "source": "Prothom Alo, Dhaka Tribune, Jamuna TV, The Daily Star, Somoy News",
-  "status": "posted",
-  "at": "2026-07-24T10:09:26Z",
-  "results": {
-   "facebook": "1237737746078842_122117693811361546",
-   "instagram": "18073563584348232",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "54deccb51959274a",
-  "url": "https://www.thedailystar.net/news/accidents-fires/news/mbstu-student-dies-after-fall-and-electrocution-tangail-4231391",
-  "headline": "Tragedy in Tangail: MBSTU student dies after fall and electrocution",
-  "topic": "student-death-electrocution-fall",
-  "source": "Jamuna TV, The Daily Star",
-  "status": "posted",
-  "at": "2026-07-24T10:09:26Z",
-  "results": {
-   "facebook": "1237737746078842_122117693991361546",
-   "instagram": "18080092769307375",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "8b755fe00de5a14e",
-  "url": "https://www.jamuna.tv/campus/660680",
-  "headline": "Tragedy in Tangail: MBSTU student dies after fall and electrocution",
-  "topic": "student-death-electrocution-fall",
-  "source": "Jamuna TV, The Daily Star",
-  "status": "posted",
-  "at": "2026-07-24T10:09:26Z",
-  "results": {
-   "facebook": "1237737746078842_122117693991361546",
-   "instagram": "18080092769307375",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "eb01e1e4e95c8929",
-  "url": "https://www.dhakatribune.com/bangladesh/415876/president-mohammed-shahabuddin-resigns",
-  "headline": "President Mohammed Shahabuddin resigns from office",
-  "topic": "president-shahabuddin-resigns",
-  "source": "Dhaka Tribune, Jamuna TV, The Daily Star, Prothom Alo",
-  "status": "posted",
-  "at": "2026-07-24T11:07:26Z",
-  "results": {
-   "facebook": "1237737746078842_122117707599361546",
-   "instagram": "17935194360341242",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "29e3f5e8a7525109",
-  "url": "https://www.jamuna.tv/national/660684",
-  "headline": "President Mohammed Shahabuddin resigns from office",
-  "topic": "president-shahabuddin-resigns",
-  "source": "Dhaka Tribune, Jamuna TV, The Daily Star, Prothom Alo",
-  "status": "posted",
-  "at": "2026-07-24T11:07:26Z",
-  "results": {
-   "facebook": "1237737746078842_122117707599361546",
-   "instagram": "17935194360341242",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "9e70e601c198d15a",
   "url": "https://www.thedailystar.net/news/cross-border/news/bgb-thwarts-push-attempt-cnawabganj-border-4231416",
   "headline": "President Mohammed Shahabuddin resigns from office",
@@ -8378,5 +8308,50 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "d0448961da207d3a",
+  "url": "https://www.prothomalo.com/world/usa/y9qdgvcu7w",
+  "headline": "Iran attacks two US-guarded oil tankers in Strait of Hormuz",
+  "topic": "us-iran-tanker-attacks",
+  "source": "Prothom Alo, Jamuna TV",
+  "status": "queued",
+  "at": "2026-07-31T21:09:21Z"
+ },
+ {
+  "title_hash": "9fe210bbea9c61d9",
+  "url": "https://www.jamuna.tv/international/661239",
+  "headline": "Iran attacks two US-guarded oil tankers in Strait of Hormuz",
+  "topic": "us-iran-tanker-attacks",
+  "source": "Prothom Alo, Jamuna TV",
+  "status": "queued",
+  "at": "2026-07-31T21:09:21Z"
+ },
+ {
+  "title_hash": "69db998a3d1b0b64",
+  "url": "https://www.thedailystar.net/news/politics/news/pm-drives-around-dhaka-inspect-city-management-4237291",
+  "headline": "PM Tarique Rahman inspects Dhaka city management by driving himself",
+  "topic": "pm-dhaka-city-inspection",
+  "source": "Somoy News, Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-07-31T21:09:21Z"
+ },
+ {
+  "title_hash": "95401a12f6d19ff9",
+  "url": "https://www.somoynews.tv/news/2026-07-31/AX37yAX2",
+  "headline": "PM Tarique Rahman inspects Dhaka city management by driving himself",
+  "topic": "pm-dhaka-city-inspection",
+  "source": "Somoy News, Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-07-31T21:09:21Z"
+ },
+ {
+  "title_hash": "bb33030a7a5ccaad",
+  "url": "https://www.prothomalo.com/bangladesh/mtw7xo0cod",
+  "headline": "PM Tarique Rahman inspects Dhaka city management by driving himself",
+  "topic": "pm-dhaka-city-inspection",
+  "source": "Somoy News, Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-07-31T21:09:21Z"
  }
 ]
