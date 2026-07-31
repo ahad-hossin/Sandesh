@@ -8329,8 +8329,13 @@
   "headline": "34 killed as coal mine explosion rocks southern Pakistan",
   "topic": "karakoram-avalanche-10-climbers-missing",
   "source": "Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-07-31T10:07:55Z"
+  "status": "failed",
+  "at": "2026-07-31T10:07:55Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "18a2bc4a8ed8d5db",
@@ -8338,8 +8343,13 @@
   "headline": "34 killed as coal mine explosion rocks southern Pakistan",
   "topic": "karakoram-avalanche-10-climbers-missing",
   "source": "Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-07-31T10:07:55Z"
+  "status": "failed",
+  "at": "2026-07-31T10:07:55Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "f196c604372766d1",
@@ -8347,8 +8357,13 @@
   "headline": "3 killed, 20+ injured in bus-truck collision in Tangail",
   "topic": "tangail-bus-truck-collision-3-killed",
   "source": "Dhaka Tribune, The Daily Star",
-  "status": "queued",
-  "at": "2026-07-31T10:07:55Z"
+  "status": "failed",
+  "at": "2026-07-31T10:07:55Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "e811da1fb060c8be",
@@ -8356,7 +8371,12 @@
   "headline": "3 killed, 20+ injured in bus-truck collision in Tangail",
   "topic": "tangail-bus-truck-collision-3-killed",
   "source": "Dhaka Tribune, The Daily Star",
-  "status": "queued",
-  "at": "2026-07-31T10:07:55Z"
+  "status": "failed",
+  "at": "2026-07-31T10:07:55Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
