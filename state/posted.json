@@ -8343,8 +8343,13 @@
   "headline": "34 workers killed in coal mine blast in southern Pakistan",
   "topic": "pakistan-coal-mine-explosion-kills-dozens",
   "source": "Jamuna TV, The Daily Star",
-  "status": "queued",
-  "at": "2026-07-31T09:07:24Z"
+  "status": "failed",
+  "at": "2026-07-31T09:07:24Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "bbfe724e7e14d2b4",
@@ -8352,8 +8357,13 @@
   "headline": "34 workers killed in coal mine blast in southern Pakistan",
   "topic": "pakistan-coal-mine-explosion-kills-dozens",
   "source": "Jamuna TV, The Daily Star",
-  "status": "queued",
-  "at": "2026-07-31T09:07:24Z"
+  "status": "failed",
+  "at": "2026-07-31T09:07:24Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "9b0ff35ef0366e5f",
@@ -8361,7 +8371,12 @@
   "headline": "India reviewing Bangladesh's request to extradite Sheikh Hasina",
   "topic": "india-reviewing-bangladesh-extradition-request-sheikh-hasina",
   "source": "Jamuna TV",
-  "status": "queued",
-  "at": "2026-07-31T09:07:24Z"
+  "status": "failed",
+  "at": "2026-07-31T09:07:24Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
