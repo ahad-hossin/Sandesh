@@ -8301,8 +8301,13 @@
   "headline": "Bangladesh Bank cuts policy rate to 9.50% to boost investment",
   "topic": "central-bank-cuts-policy-rate-to-9.5%",
   "source": "Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-07-31T07:07:43Z"
+  "status": "failed",
+  "at": "2026-07-31T07:07:43Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "ae43dc50716c6009",
@@ -8310,8 +8315,13 @@
   "headline": "Bangladesh Bank cuts policy rate to 9.50% to boost investment",
   "topic": "central-bank-cuts-policy-rate-to-9.5%",
   "source": "Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-07-31T07:07:43Z"
+  "status": "failed",
+  "at": "2026-07-31T07:07:43Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "ec85a1e675520c3e",
@@ -8319,8 +8329,13 @@
   "headline": "Gold prices rise again in Bangladesh by 2,216 BDT per bhori",
   "topic": "gold-price-drops-then-rises-again",
   "source": "Dhaka Tribune, Jamuna TV, Somoy News",
-  "status": "queued",
-  "at": "2026-07-31T07:07:43Z"
+  "status": "failed",
+  "at": "2026-07-31T07:07:43Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "cc470506bff68e2b",
@@ -8328,8 +8343,13 @@
   "headline": "Gold prices rise again in Bangladesh by 2,216 BDT per bhori",
   "topic": "gold-price-drops-then-rises-again",
   "source": "Dhaka Tribune, Jamuna TV, Somoy News",
-  "status": "queued",
-  "at": "2026-07-31T07:07:43Z"
+  "status": "failed",
+  "at": "2026-07-31T07:07:43Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "6fb81effa62f07f6",
@@ -8337,8 +8357,13 @@
   "headline": "Gold prices rise again in Bangladesh by 2,216 BDT per bhori",
   "topic": "gold-price-drops-then-rises-again",
   "source": "Dhaka Tribune, Jamuna TV, Somoy News",
-  "status": "queued",
-  "at": "2026-07-31T07:07:43Z"
+  "status": "failed",
+  "at": "2026-07-31T07:07:43Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "56c4524b754ec554",
@@ -8346,7 +8371,12 @@
   "headline": "Gold prices rise again in Bangladesh by 2,216 BDT per bhori",
   "topic": "gold-price-drops-then-rises-again",
   "source": "Dhaka Tribune, Jamuna TV, Somoy News",
-  "status": "queued",
-  "at": "2026-07-31T07:07:43Z"
+  "status": "failed",
+  "at": "2026-07-31T07:07:43Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
