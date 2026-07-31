@@ -8357,8 +8357,13 @@
   "headline": "464 weapons seized: Three held with 464 weapons at Baitul Mukarram",
   "topic": "weapons-stockpiled-for-criminals-arrested-baitul-mukarram",
   "source": "Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-07-31T11:07:59Z"
+  "status": "failed",
+  "at": "2026-07-31T11:07:59Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "914166c3e39c6a26",
@@ -8366,7 +8371,12 @@
   "headline": "1,085 new cases as 2 die of suspected measles in 24 hours",
   "topic": "measles-deaths-and-new-cases-surge",
   "source": "Jamuna TV",
-  "status": "queued",
-  "at": "2026-07-31T11:07:59Z"
+  "status": "failed",
+  "at": "2026-07-31T11:07:59Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
