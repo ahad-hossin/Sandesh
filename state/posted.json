@@ -1,75 +1,5 @@
 [
  {
-  "title_hash": "251944c0f521f124",
-  "url": "https://www.somoynews.tv/news/2026-07-23/GPLRxD02",
-  "headline": "Comilla: Man awarded death penalty for raping and killing 3rd grader",
-  "topic": "comilla-child-rape-murder-death-penalty",
-  "source": "Dhaka Tribune, Somoy News",
-  "status": "posted",
-  "at": "2026-07-23T14:08:48Z",
-  "results": {
-   "facebook": "1237737746078842_122117481495361546",
-   "instagram": "17893545897602629",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "7064f31c2a8486d8",
-  "url": "https://www.dhakatribune.com/bangladesh/415831/mozaffar-shown-arrested-in-crimes-against-humanity",
-  "headline": "Mozaffar shown arrested in crimes against humanity case",
-  "topic": "muzaffar-arrested-crimes-against-humanity",
-  "source": "Dhaka Tribune, Somoy News, Jamuna TV",
-  "status": "posted",
-  "at": "2026-07-23T15:10:53Z",
-  "results": {
-   "facebook": "1237737746078842_122117493849361546",
-   "instagram": "18058353731783090",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "a13613666cbaf800",
-  "url": "https://www.dhakatribune.com/bangladesh/court/415812/ict-shows-mozzafar-arrested-in-crimes-against",
-  "headline": "Mozaffar shown arrested in crimes against humanity case",
-  "topic": "muzaffar-arrested-crimes-against-humanity",
-  "source": "Dhaka Tribune, Somoy News, Jamuna TV",
-  "status": "posted",
-  "at": "2026-07-23T15:10:53Z",
-  "results": {
-   "facebook": "1237737746078842_122117493849361546",
-   "instagram": "18058353731783090",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "4a870d26bfd6a4c6",
-  "url": "https://www.somoynews.tv/news/2026-07-23/uDTJKFP3",
-  "headline": "Mozaffar shown arrested in crimes against humanity case",
-  "topic": "muzaffar-arrested-crimes-against-humanity",
-  "source": "Dhaka Tribune, Somoy News, Jamuna TV",
-  "status": "posted",
-  "at": "2026-07-23T15:10:53Z",
-  "results": {
-   "facebook": "1237737746078842_122117493849361546",
-   "instagram": "18058353731783090",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "954322d288453503",
-  "url": "https://www.jamuna.tv/national/660608",
-  "headline": "Mozaffar shown arrested in crimes against humanity case",
-  "topic": "muzaffar-arrested-crimes-against-humanity",
-  "source": "Dhaka Tribune, Somoy News, Jamuna TV",
-  "status": "posted",
-  "at": "2026-07-23T15:10:53Z",
-  "results": {
-   "facebook": "1237737746078842_122117493849361546",
-   "instagram": "18058353731783090",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "43c1c4f0fc8fd224",
   "url": "https://www.dhakatribune.com/bangladesh/415810/3-digs-among-17-police-officers-sent-into-forced",
   "headline": "17 high-ranking police officers sent into forced retirement by government",
@@ -8378,5 +8308,50 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "e811da1fb060c8be",
+  "url": "https://www.thedailystar.net/news/accidents-fires/news/3-killed-20-injured-tangail-bus-truck-collision-4236811",
+  "headline": "3 killed, 20 injured in Tangail bus-truck collision last night",
+  "topic": "tangail-bus-truck-collision-3-dead",
+  "source": "Jamuna TV, Prothom Alo, The Daily Star, Somoy News",
+  "status": "queued",
+  "at": "2026-07-31T03:10:10Z"
+ },
+ {
+  "title_hash": "b1edc3096c0cbdee",
+  "url": "https://www.jamuna.tv/all-bangladesh/661188",
+  "headline": "3 killed, 20 injured in Tangail bus-truck collision last night",
+  "topic": "tangail-bus-truck-collision-3-dead",
+  "source": "Jamuna TV, Prothom Alo, The Daily Star, Somoy News",
+  "status": "queued",
+  "at": "2026-07-31T03:10:10Z"
+ },
+ {
+  "title_hash": "64380bd02ba1ff5f",
+  "url": "https://www.prothomalo.com/bangladesh/district/4p6fiqdmc0",
+  "headline": "3 killed, 20 injured in Tangail bus-truck collision last night",
+  "topic": "tangail-bus-truck-collision-3-dead",
+  "source": "Jamuna TV, Prothom Alo, The Daily Star, Somoy News",
+  "status": "queued",
+  "at": "2026-07-31T03:10:10Z"
+ },
+ {
+  "title_hash": "f3694b23bb0cacb6",
+  "url": "https://www.somoynews.tv/news/2026-07-30/34KOG546",
+  "headline": "3 killed, 20 injured in Tangail bus-truck collision last night",
+  "topic": "tangail-bus-truck-collision-3-dead",
+  "source": "Jamuna TV, Prothom Alo, The Daily Star, Somoy News",
+  "status": "queued",
+  "at": "2026-07-31T03:10:10Z"
+ },
+ {
+  "title_hash": "d912ce82cd1060c8",
+  "url": "https://www.jamuna.tv/international/661185",
+  "headline": "Iran attacks US bases in Kuwait, Bahrain and Jordan in retaliation",
+  "topic": "iran-attacks-us-bases",
+  "source": "Jamuna TV",
+  "status": "queued",
+  "at": "2026-07-31T03:10:10Z"
  }
 ]
