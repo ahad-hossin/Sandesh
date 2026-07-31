@@ -8329,8 +8329,13 @@
   "headline": "NCP removes Joint General Secretary Salauddin Tanvir from post",
   "topic": "ncp-officials-removed",
   "source": "Somoy News, Jamuna TV",
-  "status": "queued",
-  "at": "2026-07-31T22:07:30Z"
+  "status": "failed",
+  "at": "2026-07-31T22:07:30Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "b4b8143c4e629957",
@@ -8338,8 +8343,13 @@
   "headline": "NCP removes Joint General Secretary Salauddin Tanvir from post",
   "topic": "ncp-officials-removed",
   "source": "Somoy News, Jamuna TV",
-  "status": "queued",
-  "at": "2026-07-31T22:07:30Z"
+  "status": "failed",
+  "at": "2026-07-31T22:07:30Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "3e0778b0fc9772e0",
@@ -8347,8 +8357,13 @@
   "headline": "36 deaths in July: Dengue cases and fatalities surge in Bangladesh",
   "topic": "dengue-august-surge",
   "source": "Dhaka Tribune, The Daily Star",
-  "status": "queued",
-  "at": "2026-07-31T22:07:30Z"
+  "status": "failed",
+  "at": "2026-07-31T22:07:30Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "47724f3d7ae67a45",
@@ -8356,7 +8371,12 @@
   "headline": "36 deaths in July: Dengue cases and fatalities surge in Bangladesh",
   "topic": "dengue-august-surge",
   "source": "Dhaka Tribune, The Daily Star",
-  "status": "queued",
-  "at": "2026-07-31T22:07:30Z"
+  "status": "failed",
+  "at": "2026-07-31T22:07:30Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
