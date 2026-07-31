@@ -1,61 +1,5 @@
 [
  {
-  "title_hash": "9e70e601c198d15a",
-  "url": "https://www.thedailystar.net/news/cross-border/news/bgb-thwarts-push-attempt-cnawabganj-border-4231416",
-  "headline": "President Mohammed Shahabuddin resigns from office",
-  "topic": "president-shahabuddin-resigns",
-  "source": "Dhaka Tribune, Jamuna TV, The Daily Star, Prothom Alo",
-  "status": "posted",
-  "at": "2026-07-24T11:07:26Z",
-  "results": {
-   "facebook": "1237737746078842_122117707599361546",
-   "instagram": "17935194360341242",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "efd5071a21892360",
-  "url": "https://www.prothomalo.com/video/bangladesh/z8fyqfrcwc",
-  "headline": "President Mohammed Shahabuddin resigns from office",
-  "topic": "president-shahabuddin-resigns",
-  "source": "Dhaka Tribune, Jamuna TV, The Daily Star, Prothom Alo",
-  "status": "posted",
-  "at": "2026-07-24T11:07:26Z",
-  "results": {
-   "facebook": "1237737746078842_122117707599361546",
-   "instagram": "17935194360341242",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "3c1e9cb10bef77a2",
-  "url": "https://www.prothomalo.com/politics/raassttrpti-saahaabuddiner-pdtyaag",
-  "headline": "President Mohammed Shahabuddin resigns from office",
-  "topic": "president-shahabuddin-resigns",
-  "source": "Dhaka Tribune, Jamuna TV, The Daily Star, Prothom Alo",
-  "status": "posted",
-  "at": "2026-07-24T11:07:26Z",
-  "results": {
-   "facebook": "1237737746078842_122117707599361546",
-   "instagram": "17935194360341242",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "0301b033cbf016ee",
-  "url": "https://www.prothomalo.com/politics/l1njgzuhsd",
-  "headline": "President Mohammed Shahabuddin resigns from office",
-  "topic": "president-shahabuddin-resigns",
-  "source": "Dhaka Tribune, Jamuna TV, The Daily Star, Prothom Alo",
-  "status": "posted",
-  "at": "2026-07-24T11:07:26Z",
-  "results": {
-   "facebook": "1237737746078842_122117707599361546",
-   "instagram": "17935194360341242",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "76ad3496883660e9",
   "url": "https://www.thedailystar.net/news/politics/news/shahabuddin-resigns-president-4231436",
   "headline": "President Mohammed Shahabuddin resigns from office",
@@ -8378,5 +8322,41 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "384378556eec406c",
+  "url": "https://www.somoynews.tv/news/2026-07-31/zYHUBUC7",
+  "headline": "NCP removes Joint General Secretary Salauddin Tanvir from post",
+  "topic": "ncp-officials-removed",
+  "source": "Somoy News, Jamuna TV",
+  "status": "queued",
+  "at": "2026-07-31T22:07:30Z"
+ },
+ {
+  "title_hash": "b4b8143c4e629957",
+  "url": "https://www.jamuna.tv/politics/661240",
+  "headline": "NCP removes Joint General Secretary Salauddin Tanvir from post",
+  "topic": "ncp-officials-removed",
+  "source": "Somoy News, Jamuna TV",
+  "status": "queued",
+  "at": "2026-07-31T22:07:30Z"
+ },
+ {
+  "title_hash": "3e0778b0fc9772e0",
+  "url": "https://www.dhakatribune.com/bangladesh/health/416446/august-may-mark-peak-of-bangladesh-s-dengue-season",
+  "headline": "36 deaths in July: Dengue cases and fatalities surge in Bangladesh",
+  "topic": "dengue-august-surge",
+  "source": "Dhaka Tribune, The Daily Star",
+  "status": "queued",
+  "at": "2026-07-31T22:07:30Z"
+ },
+ {
+  "title_hash": "47724f3d7ae67a45",
+  "url": "https://www.thedailystar.net/health/disease/news/dengue-deaths-cases-surge-july-4237366",
+  "headline": "36 deaths in July: Dengue cases and fatalities surge in Bangladesh",
+  "topic": "dengue-august-surge",
+  "source": "Dhaka Tribune, The Daily Star",
+  "status": "queued",
+  "at": "2026-07-31T22:07:30Z"
  }
 ]
