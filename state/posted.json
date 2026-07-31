@@ -8315,8 +8315,13 @@
   "headline": "Global football crisis: AFC joins UEFA and CONCACAF in opposing FIFA plan",
   "topic": "uefa-concacaf-boycott-fifa",
   "source": "Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-07-31T14:07:31Z"
+  "status": "failed",
+  "at": "2026-07-31T14:07:31Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "9e6901f9a75c3cfe",
@@ -8324,8 +8329,13 @@
   "headline": "Global football crisis: AFC joins UEFA and CONCACAF in opposing FIFA plan",
   "topic": "uefa-concacaf-boycott-fifa",
   "source": "Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-07-31T14:07:31Z"
+  "status": "failed",
+  "at": "2026-07-31T14:07:31Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "ad2d77ccc76971c4",
@@ -8333,8 +8343,13 @@
   "headline": "Global football crisis: AFC joins UEFA and CONCACAF in opposing FIFA plan",
   "topic": "uefa-concacaf-boycott-fifa",
   "source": "Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-07-31T14:07:31Z"
+  "status": "failed",
+  "at": "2026-07-31T14:07:31Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "d30a2168d6ec750e",
@@ -8342,8 +8357,13 @@
   "headline": "Powerful pressure-cooker bomb recovered in Ashulia",
   "topic": "ashulia-savar-pressure-cooker-bomb",
   "source": "The Daily Star, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-07-31T14:07:31Z"
+  "status": "failed",
+  "at": "2026-07-31T14:07:31Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "dfe8edb557c0736f",
@@ -8351,7 +8371,12 @@
   "headline": "Powerful pressure-cooker bomb recovered in Ashulia",
   "topic": "ashulia-savar-pressure-cooker-bomb",
   "source": "The Daily Star, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-07-31T14:07:31Z"
+  "status": "failed",
+  "at": "2026-07-31T14:07:31Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
