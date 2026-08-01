@@ -1,61 +1,5 @@
 [
  {
-  "title_hash": "6291ea1ae9b371c7",
-  "url": "https://www.dhakatribune.com/bangladesh/415896/acting-president-hafiz-uddin-ahmad-assumes-office",
-  "headline": "Salahuddin praises President Shahabuddin's role in constitutional continuity",
-  "topic": "president-shahabuddin-resignation-details",
-  "source": "Dhaka Tribune, The Daily Star, Somoy News, Jamuna TV, Prothom Alo",
-  "status": "posted",
-  "at": "2026-07-24T15:07:41Z",
-  "results": {
-   "facebook": "1237737746078842_122117761533361546",
-   "instagram": "17923243581392496",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "f9d327c097875ec3",
-  "url": "https://www.jamuna.tv/national/660688",
-  "headline": "Salahuddin praises President Shahabuddin's role in constitutional continuity",
-  "topic": "president-shahabuddin-resignation-details",
-  "source": "Dhaka Tribune, The Daily Star, Somoy News, Jamuna TV, Prothom Alo",
-  "status": "posted",
-  "at": "2026-07-24T15:07:41Z",
-  "results": {
-   "facebook": "1237737746078842_122117761533361546",
-   "instagram": "17923243581392496",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "ad5ceac4e675135a",
-  "url": "https://www.jamuna.tv/national/660687",
-  "headline": "Salahuddin praises President Shahabuddin's role in constitutional continuity",
-  "topic": "president-shahabuddin-resignation-details",
-  "source": "Dhaka Tribune, The Daily Star, Somoy News, Jamuna TV, Prothom Alo",
-  "status": "posted",
-  "at": "2026-07-24T15:07:41Z",
-  "results": {
-   "facebook": "1237737746078842_122117761533361546",
-   "instagram": "17923243581392496",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "148ca35bb55fec62",
-  "url": "https://www.somoynews.tv/news/2026-07-24/uKTTPPK8",
-  "headline": "Salahuddin praises President Shahabuddin's role in constitutional continuity",
-  "topic": "president-shahabuddin-resignation-details",
-  "source": "Dhaka Tribune, The Daily Star, Somoy News, Jamuna TV, Prothom Alo",
-  "status": "posted",
-  "at": "2026-07-24T15:07:41Z",
-  "results": {
-   "facebook": "1237737746078842_122117761533361546",
-   "instagram": "17923243581392496",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "80cd519a65632a9a",
   "url": "https://www.jamuna.tv/national/660686",
   "headline": "Salahuddin praises President Shahabuddin's role in constitutional continuity",
@@ -8378,5 +8322,41 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "ca2cdfeef5460a7f",
+  "url": "https://www.dhakatribune.com/bangladesh/dhaka/416458/minor-dispute-in-mohammadpur-leaves-seven-injured",
+  "headline": "4 killed as truck and pickup collide head-on in Bogura",
+  "topic": "minor-dispute-mohammadpur-7-injured",
+  "source": "Dhaka Tribune, The Daily Star",
+  "status": "queued",
+  "at": "2026-08-01T07:07:28Z"
+ },
+ {
+  "title_hash": "fa4d956cbe6c5144",
+  "url": "https://www.thedailystar.net/news/accidents-fires/news/4-killed-truck-pickup-collision-bogura-4237496",
+  "headline": "4 killed as truck and pickup collide head-on in Bogura",
+  "topic": "minor-dispute-mohammadpur-7-injured",
+  "source": "Dhaka Tribune, The Daily Star",
+  "status": "queued",
+  "at": "2026-08-01T07:07:28Z"
+ },
+ {
+  "title_hash": "3a0be86260eba7f3",
+  "url": "https://www.dhakatribune.com/bangladesh/foreign-affairs/416459/us-makes-visa-bond-requirement-permanent-raises",
+  "headline": "Costly stealth jet: US F-35 fighter jet crashes near California base",
+  "topic": "us-visa-bond-requirement-permanent-raised-cap",
+  "source": "Dhaka Tribune, The Daily Star",
+  "status": "queued",
+  "at": "2026-08-01T07:07:28Z"
+ },
+ {
+  "title_hash": "c79013f92fdeef2c",
+  "url": "https://www.thedailystar.net/news/world/usa/news/us-fighter-jet-crashes-near-california-military-base-4237421",
+  "headline": "Costly stealth jet: US F-35 fighter jet crashes near California base",
+  "topic": "us-visa-bond-requirement-permanent-raised-cap",
+  "source": "Dhaka Tribune, The Daily Star",
+  "status": "queued",
+  "at": "2026-08-01T07:07:28Z"
  }
 ]
