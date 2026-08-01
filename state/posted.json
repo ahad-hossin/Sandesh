@@ -8329,8 +8329,13 @@
   "headline": "4 killed as truck and pickup collide head-on in Bogura",
   "topic": "minor-dispute-mohammadpur-7-injured",
   "source": "Dhaka Tribune, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-01T07:07:28Z"
+  "status": "failed",
+  "at": "2026-08-01T07:07:28Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "fa4d956cbe6c5144",
@@ -8338,8 +8343,13 @@
   "headline": "4 killed as truck and pickup collide head-on in Bogura",
   "topic": "minor-dispute-mohammadpur-7-injured",
   "source": "Dhaka Tribune, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-01T07:07:28Z"
+  "status": "failed",
+  "at": "2026-08-01T07:07:28Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "3a0be86260eba7f3",
@@ -8347,8 +8357,13 @@
   "headline": "Costly stealth jet: US F-35 fighter jet crashes near California base",
   "topic": "us-visa-bond-requirement-permanent-raised-cap",
   "source": "Dhaka Tribune, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-01T07:07:28Z"
+  "status": "failed",
+  "at": "2026-08-01T07:07:28Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "c79013f92fdeef2c",
@@ -8356,7 +8371,12 @@
   "headline": "Costly stealth jet: US F-35 fighter jet crashes near California base",
   "topic": "us-visa-bond-requirement-permanent-raised-cap",
   "source": "Dhaka Tribune, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-01T07:07:28Z"
+  "status": "failed",
+  "at": "2026-08-01T07:07:28Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
