@@ -1,33 +1,5 @@
 [
  {
-  "title_hash": "845274d4af70fdf1",
-  "url": "https://www.prothomalo.com/sports/football/j62ee7jlfa",
-  "headline": "Bangladesh secure direct quarterfinal berth at 2026 Asian Games cricket",
-  "topic": "asian-games-cricket-argentina-world-cup",
-  "source": "The Daily Star, Prothom Alo",
-  "status": "posted",
-  "at": "2026-07-24T12:08:21Z",
-  "results": {
-   "facebook": "1237737746078842_122117722491361546",
-   "instagram": "17890786635596088",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "bab6c58d98051512",
-  "url": "https://www.thedailystar.net/news/accidents-fires/news/policeman-rushes-accident-scene-finds-10-year-old-son-dead-4231466",
-  "headline": "Police officer finds 10-year-old son dead at accident scene",
-  "topic": "policeman-son-accident-death",
-  "source": "The Daily Star, Prothom Alo",
-  "status": "posted",
-  "at": "2026-07-24T13:08:24Z",
-  "results": {
-   "facebook": "1237737746078842_122117737317361546",
-   "instagram": "18110566370092822",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "aeb612c7b153aef6",
   "url": "https://www.prothomalo.com/bangladesh/district/7l3xtegazk",
   "headline": "Police officer finds 10-year-old son dead at accident scene",
@@ -8378,5 +8350,23 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "c2fcc455b5c15439",
+  "url": "https://www.jamuna.tv/economy/661243",
+  "headline": "Fragrant rice prices hit record high, increasing Tk 60-80 per kg in one month",
+  "topic": "fragrant-rice-record-price-hike",
+  "source": "Jamuna TV",
+  "status": "queued",
+  "at": "2026-08-01T02:08:12Z"
+ },
+ {
+  "title_hash": "a70fbaa57e365fd4",
+  "url": "https://www.prothomalo.com/sports/cricket/za6wofm895",
+  "headline": "Bangladesh Test openers face 4-year century drought, struggle ahead of Australia series",
+  "topic": "bangladesh-cricket-openers-crisis",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-01T02:08:12Z"
  }
 ]
