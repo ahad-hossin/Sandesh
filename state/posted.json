@@ -8357,8 +8357,13 @@
   "headline": "840 dead as measles outbreak death toll rises",
   "topic": "measles-outbreak-death-toll-reaches-840",
   "source": "Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-08-01T11:07:16Z"
+  "status": "failed",
+  "at": "2026-08-01T11:07:16Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "6c8b2d120f4abaf3",
@@ -8366,7 +8371,12 @@
   "headline": "840 children died from measles symptoms across Bangladesh",
   "topic": "measles-outbreak-death-toll-reaches-840",
   "source": "Jamuna TV",
-  "status": "queued",
-  "at": "2026-08-01T11:07:16Z"
+  "status": "failed",
+  "at": "2026-08-01T11:07:16Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
