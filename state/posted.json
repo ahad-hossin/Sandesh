@@ -8315,8 +8315,13 @@
   "headline": "1 killed, 10 injured in clash over children's quarrel in Brahmanbaria",
   "topic": "brahmanbaria-clash-leaves-one-dead-ten-injured",
   "source": "Jamuna TV",
-  "status": "queued",
-  "at": "2026-08-01T08:07:26Z"
+  "status": "failed",
+  "at": "2026-08-01T08:07:26Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "54a6dcf10be5a0c8",
@@ -8324,8 +8329,13 @@
   "headline": "1 killed, 10 injured in clash over children's quarrel in Brahmanbaria",
   "topic": "brahmanbaria-clash-leaves-one-dead-ten-injured",
   "source": "Jamuna TV",
-  "status": "queued",
-  "at": "2026-08-01T08:07:26Z"
+  "status": "failed",
+  "at": "2026-08-01T08:07:26Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "983047e7db88b875",
@@ -8333,8 +8343,13 @@
   "headline": "1 killed, 10 injured in clash over children's quarrel in Brahmanbaria",
   "topic": "brahmanbaria-clash-leaves-one-dead-ten-injured",
   "source": "Jamuna TV",
-  "status": "queued",
-  "at": "2026-08-01T08:07:26Z"
+  "status": "failed",
+  "at": "2026-08-01T08:07:26Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "68813ed75035772d",
@@ -8342,8 +8357,13 @@
   "headline": "Miles of spider webs cover riverbanks near Jerusalem",
   "topic": "overcrowded-boat-capsizes-in-sunamganj-haor-four-missing",
   "source": "Dhaka Tribune, Jamuna TV",
-  "status": "queued",
-  "at": "2026-08-01T08:07:26Z"
+  "status": "failed",
+  "at": "2026-08-01T08:07:26Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "eb588861af148205",
@@ -8351,7 +8371,12 @@
   "headline": "Miles of spider webs cover riverbanks near Jerusalem",
   "topic": "overcrowded-boat-capsizes-in-sunamganj-haor-four-missing",
   "source": "Dhaka Tribune, Jamuna TV",
-  "status": "queued",
-  "at": "2026-08-01T08:07:26Z"
+  "status": "failed",
+  "at": "2026-08-01T08:07:26Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
