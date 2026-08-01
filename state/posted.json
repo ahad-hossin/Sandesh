@@ -8315,8 +8315,13 @@
   "headline": "US Special Envoy Sergio Gor calls on PM",
   "topic": "us-envoy-sergio-gor-visit-dhaka",
   "source": "Dhaka Tribune, Somoy News, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-01T06:09:33Z"
+  "status": "failed",
+  "at": "2026-08-01T06:09:33Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "4d69c2050f941c24",
@@ -8324,8 +8329,13 @@
   "headline": "US Special Envoy Sergio Gor calls on PM",
   "topic": "us-envoy-sergio-gor-visit-dhaka",
   "source": "Dhaka Tribune, Somoy News, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-01T06:09:33Z"
+  "status": "failed",
+  "at": "2026-08-01T06:09:33Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "a14079c3d44baa0d",
@@ -8333,8 +8343,13 @@
   "headline": "US Special Envoy Sergio Gor calls on PM",
   "topic": "us-envoy-sergio-gor-visit-dhaka",
   "source": "Dhaka Tribune, Somoy News, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-01T06:09:33Z"
+  "status": "failed",
+  "at": "2026-08-01T06:09:33Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "454c899e6e1a4887",
@@ -8342,8 +8357,13 @@
   "headline": "Health Minister: Educated mothers neglecting child care",
   "topic": "health-minister-on-maternal-care",
   "source": "Jamuna TV, Somoy News",
-  "status": "queued",
-  "at": "2026-08-01T06:09:33Z"
+  "status": "failed",
+  "at": "2026-08-01T06:09:33Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "b24329a0b319a2e5",
@@ -8351,7 +8371,12 @@
   "headline": "Health Minister: Educated mothers neglecting child care",
   "topic": "health-minister-on-maternal-care",
   "source": "Jamuna TV, Somoy News",
-  "status": "queued",
-  "at": "2026-08-01T06:09:33Z"
+  "status": "failed",
+  "at": "2026-08-01T06:09:33Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
