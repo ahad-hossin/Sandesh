@@ -1,33 +1,5 @@
 [
  {
-  "title_hash": "2d68ec59cfe8fea4",
-  "url": "https://www.dhakatribune.com/bangladesh/415884/former-and-resigned-presidents%E2%80%99-benefits-under-the",
-  "headline": "Salahuddin praises President Shahabuddin's role in constitutional continuity",
-  "topic": "president-shahabuddin-resignation-details",
-  "source": "Dhaka Tribune, The Daily Star, Somoy News, Jamuna TV, Prothom Alo",
-  "status": "posted",
-  "at": "2026-07-24T15:07:41Z",
-  "results": {
-   "facebook": "1237737746078842_122117761533361546",
-   "instagram": "17923243581392496",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "91ec43f138d149dc",
-  "url": "https://www.prothomalo.com/video/bangladesh/e8cyqxwr0e",
-  "headline": "Salahuddin praises President Shahabuddin's role in constitutional continuity",
-  "topic": "president-shahabuddin-resignation-details",
-  "source": "Dhaka Tribune, The Daily Star, Somoy News, Jamuna TV, Prothom Alo",
-  "status": "posted",
-  "at": "2026-07-24T15:07:41Z",
-  "results": {
-   "facebook": "1237737746078842_122117761533361546",
-   "instagram": "17923243581392496",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "dab0108c8c2a0581",
   "url": "https://www.prothomalo.com/video/bangladesh/1wfnw9rhga",
   "headline": "Salahuddin praises President Shahabuddin's role in constitutional continuity",
@@ -8378,5 +8350,23 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "9cdff4485542313d",
+  "url": "https://www.dhakatribune.com/bangladesh/foreign-affairs/416463/gor-proposes-bangladesh-join-us-led-pax-silica",
+  "headline": "US Envoy Gor proposes Bangladesh join US-led Pax Silica initiative",
+  "topic": "us-envoy-bangladesh-pax-silica-initiative",
+  "source": "Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-08-01T09:07:46Z"
+ },
+ {
+  "title_hash": "36c1d609652d5c96",
+  "url": "https://www.thedailystar.net/news/bangladesh/news/mirpur-10-metro-station-shut-after-suspicious-bag-found-another-reported-near-farmgate-4237546",
+  "headline": "Mirpur-10 metro station shut after suspicious bag found",
+  "topic": "dhaka-metro-suspicious-bag-alert",
+  "source": "The Daily Star",
+  "status": "queued",
+  "at": "2026-08-01T09:07:46Z"
  }
 ]
