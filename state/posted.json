@@ -8343,8 +8343,13 @@
   "headline": "Gaza: Two Palestinians killed in Israeli attacks across the strip",
   "topic": "measles-outbreak-death-toll-increase",
   "source": "Dhaka Tribune, Jamuna TV",
-  "status": "queued",
-  "at": "2026-08-01T10:07:17Z"
+  "status": "failed",
+  "at": "2026-08-01T10:07:17Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "6d48924d6ddcc5ed",
@@ -8352,8 +8357,13 @@
   "headline": "Gaza: Two Palestinians killed in Israeli attacks across the strip",
   "topic": "measles-outbreak-death-toll-increase",
   "source": "Dhaka Tribune, Jamuna TV",
-  "status": "queued",
-  "at": "2026-08-01T10:07:17Z"
+  "status": "failed",
+  "at": "2026-08-01T10:07:17Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "68813ed75035772d",
@@ -8361,7 +8371,12 @@
   "headline": "4 missing after overcrowded boat capsizes in Sunamganj haor",
   "topic": "sunamganj-boat-capsizes-missing",
   "source": "Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-08-01T10:07:17Z"
+  "status": "failed",
+  "at": "2026-08-01T10:07:17Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
