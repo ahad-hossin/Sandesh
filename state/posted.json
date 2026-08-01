@@ -8329,8 +8329,13 @@
   "headline": "Journalist injured in Faridpur by snatcher gang attack",
   "topic": "faridpur-journalist-attack",
   "source": "Somoy News",
-  "status": "queued",
-  "at": "2026-08-01T00:10:33Z"
+  "status": "failed",
+  "at": "2026-08-01T00:10:33Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "69db998a3d1b0b64",
@@ -8338,8 +8343,13 @@
   "headline": "PM Tarique Rahman drives himself to inspect Dhaka city services, orders immediate fixes",
   "topic": "pm-inspects-dhaka-city-management",
   "source": "Somoy News, Jamuna TV, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-01T00:10:33Z"
+  "status": "failed",
+  "at": "2026-08-01T00:10:33Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "95401a12f6d19ff9",
@@ -8347,8 +8357,13 @@
   "headline": "PM Tarique Rahman drives himself to inspect Dhaka city services, orders immediate fixes",
   "topic": "pm-inspects-dhaka-city-management",
   "source": "Somoy News, Jamuna TV, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-01T00:10:33Z"
+  "status": "failed",
+  "at": "2026-08-01T00:10:33Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "2c370889d076f172",
@@ -8356,7 +8371,12 @@
   "headline": "PM Tarique Rahman drives himself to inspect Dhaka city services, orders immediate fixes",
   "topic": "pm-inspects-dhaka-city-management",
   "source": "Somoy News, Jamuna TV, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-01T00:10:33Z"
+  "status": "failed",
+  "at": "2026-08-01T00:10:33Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
