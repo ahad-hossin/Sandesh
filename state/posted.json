@@ -1,75 +1,5 @@
 [
  {
-  "title_hash": "aeb612c7b153aef6",
-  "url": "https://www.prothomalo.com/bangladesh/district/7l3xtegazk",
-  "headline": "Police officer finds 10-year-old son dead at accident scene",
-  "topic": "policeman-son-accident-death",
-  "source": "The Daily Star, Prothom Alo",
-  "status": "posted",
-  "at": "2026-07-24T13:08:24Z",
-  "results": {
-   "facebook": "1237737746078842_122117737317361546",
-   "instagram": "18110566370092822",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "94feda343bdeebec",
-  "url": "https://www.thedailystar.net/sports/football/news/germany-appoint-klopp-head-coach-after-world-cup-disappointment-4231471",
-  "headline": "Germany appoint Juergen Klopp as head coach on four-year deal",
-  "topic": "jurgen-klopp-germany-coach",
-  "source": "Prothom Alo, The Daily Star",
-  "status": "posted",
-  "at": "2026-07-24T13:08:24Z",
-  "results": {
-   "facebook": "1237737746078842_122117737695361546",
-   "instagram": "18060730598773021",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "9081170f5a9f7799",
-  "url": "https://www.prothomalo.com/sports/football/9zanzqn0uf",
-  "headline": "Germany appoint Juergen Klopp as head coach on four-year deal",
-  "topic": "jurgen-klopp-germany-coach",
-  "source": "Prothom Alo, The Daily Star",
-  "status": "posted",
-  "at": "2026-07-24T13:08:24Z",
-  "results": {
-   "facebook": "1237737746078842_122117737695361546",
-   "instagram": "18060730598773021",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "7112035b8e9a3447",
-  "url": "https://www.dhakatribune.com/bangladesh/health/415890/181-more-dengue-patients-admitted-to-hospitals",
-  "headline": "181 more dengue patients admitted to hospitals",
-  "topic": "dengue-patients-surge",
-  "source": "Dhaka Tribune, Somoy News",
-  "status": "posted",
-  "at": "2026-07-24T14:07:31Z",
-  "results": {
-   "facebook": "1237737746078842_122117750097361546",
-   "instagram": "18109754671969377",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "dac2b0ebadaffa9c",
-  "url": "https://www.somoynews.tv/news/2026-07-24/wT9v60D4",
-  "headline": "181 more dengue patients admitted to hospitals",
-  "topic": "dengue-patients-surge",
-  "source": "Dhaka Tribune, Somoy News",
-  "status": "posted",
-  "at": "2026-07-24T14:07:31Z",
-  "results": {
-   "facebook": "1237737746078842_122117750097361546",
-   "instagram": "18109754671969377",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "0722bb12f0314a55",
   "url": "https://www.dhakatribune.com/bangladesh/weather/415887/dhaka-among-10-districts-at-risk-as-monsoon",
   "headline": "60 kmph winds: 13 regions at risk of storms as monsoon intensifies",
@@ -8378,5 +8308,50 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "2f53b5e35549455c",
+  "url": "https://www.thedailystar.net/sports/football/news/timeline-the-rise-and-fall-fifas-private-investment-plan-4237396",
+  "headline": "FIFA scraps private investment plan after fierce global backlash",
+  "topic": "fifa-scraps-world-cup-investment-plan",
+  "source": "Prothom Alo, The Daily Star, Jamuna TV",
+  "status": "queued",
+  "at": "2026-08-01T03:07:34Z"
+ },
+ {
+  "title_hash": "d461cf20d3a067aa",
+  "url": "https://www.prothomalo.com/sports/football/fn3bbwp9n1",
+  "headline": "FIFA scraps private investment plan after fierce global backlash",
+  "topic": "fifa-scraps-world-cup-investment-plan",
+  "source": "Prothom Alo, The Daily Star, Jamuna TV",
+  "status": "queued",
+  "at": "2026-08-01T03:07:34Z"
+ },
+ {
+  "title_hash": "c919b33e51285fb3",
+  "url": "https://www.thedailystar.net/sports/football/news/fifa-scraps-private-investment-plan-after-backlash-4237376",
+  "headline": "FIFA scraps private investment plan after fierce global backlash",
+  "topic": "fifa-scraps-world-cup-investment-plan",
+  "source": "Prothom Alo, The Daily Star, Jamuna TV",
+  "status": "queued",
+  "at": "2026-08-01T03:07:34Z"
+ },
+ {
+  "title_hash": "f9acff843a975ce1",
+  "url": "https://www.jamuna.tv/sports/661246",
+  "headline": "FIFA scraps private investment plan after fierce global backlash",
+  "topic": "fifa-scraps-world-cup-investment-plan",
+  "source": "Prothom Alo, The Daily Star, Jamuna TV",
+  "status": "queued",
+  "at": "2026-08-01T03:07:34Z"
+ },
+ {
+  "title_hash": "9fe12c4010985aa7",
+  "url": "https://www.jamuna.tv/international/661252",
+  "headline": "US and Israel preparing major attacks on Iran's energy infrastructure",
+  "topic": "us-israel-iran-energy-attack-prep",
+  "source": "Jamuna TV",
+  "status": "queued",
+  "at": "2026-08-01T03:07:34Z"
  }
 ]
