@@ -1,75 +1,5 @@
 [
  {
-  "title_hash": "20c958f104c9cbe8",
-  "url": "https://www.somoynews.tv/news/2026-07-24/wGV4ZUv3",
-  "headline": "Journalist attacked with hammer by Chhatra Dal and Jubo Dal leaders",
-  "topic": "journalist-attacked-student-youth-dal",
-  "source": "Somoy News",
-  "status": "posted",
-  "at": "2026-07-24T20:08:31Z",
-  "results": {
-   "facebook": "1237737746078842_122117806845361546",
-   "instagram": "18608636185057086",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "baf76c1d21f9a49c",
-  "url": "https://www.somoynews.tv/news/2026-07-24/FE63TABP",
-  "headline": "2 dead, including a child, in gas leak explosion in Bhatara",
-  "topic": "bhatara-gas-explosion-deaths",
-  "source": "Somoy News",
-  "status": "posted",
-  "at": "2026-07-24T20:08:31Z",
-  "results": {
-   "facebook": "1237737746078842_122117807013361546",
-   "instagram": "18104613167152054",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "2a030ce6fde30e11",
-  "url": "https://www.thedailystar.net/news/crime-justice/news/jubo-dal-activist-shot-dead-dhakas-kafrul-4231666",
-  "headline": "Jubo Dal activist shot dead in Dhaka's Kafrul, 2 others injured",
-  "topic": "jubo-dal-activist-shot-dead-dhaka",
-  "source": "Prothom Alo, The Daily Star",
-  "status": "posted",
-  "at": "2026-07-24T21:08:19Z",
-  "results": {
-   "facebook": "1237737746078842_122117818209361546",
-   "instagram": "18086189297649759",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "878dfcc1d340d959",
-  "url": "https://www.prothomalo.com/bangladesh/crime/9xg7c501g1",
-  "headline": "Jubo Dal activist shot dead in Dhaka's Kafrul, 2 others injured",
-  "topic": "jubo-dal-activist-shot-dead-dhaka",
-  "source": "Prothom Alo, The Daily Star",
-  "status": "posted",
-  "at": "2026-07-24T21:08:19Z",
-  "results": {
-   "facebook": "1237737746078842_122117818209361546",
-   "instagram": "18086189297649759",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "f270eafd9d9bf61c",
-  "url": "https://www.prothomalo.com/world/middle-east/flca7q8no1",
-  "headline": "Iran sends missiles and drones to Houthis to pressure Red Sea",
-  "topic": "iran-missiles-to-houthi",
-  "source": "Prothom Alo",
-  "status": "posted",
-  "at": "2026-07-24T21:08:19Z",
-  "results": {
-   "facebook": "1237737746078842_122117818437361546",
-   "instagram": "18132471490616729",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "d427ec3d72668561",
   "url": "https://www.thedailystar.net/news/world/news/icc-members-dismiss-prosecutor-karim-khan-diplomatic-sources-say-4231671",
   "headline": "82 ICC member states vote to dismiss prosecutor Karim Khan",
@@ -8398,5 +8328,50 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "b2e1272a6cc53b82",
+  "url": "https://www.dhakatribune.com/bangladesh/416505/police-hq-issues-highest-alert-for-official",
+  "headline": "Police HQ issues nationwide highest alert over threat to police vehicles",
+  "topic": "police-hq-alert-suspicious-objects",
+  "source": "Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-08-01T17:08:14Z"
+ },
+ {
+  "title_hash": "d2701f1302e51420",
+  "url": "https://www.dhakatribune.com/bangladesh/416500/cttc-rules-out-link-between-motijheel-explosive",
+  "headline": "Police HQ issues nationwide highest alert over threat to police vehicles",
+  "topic": "police-hq-alert-suspicious-objects",
+  "source": "Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-08-01T17:08:14Z"
+ },
+ {
+  "title_hash": "9518f1c2847f3ef1",
+  "url": "https://www.dhakatribune.com/bangladesh/education/416492/14-384-primary-teachers-to-join-from-october",
+  "headline": "Over 14,000 primary teachers to join from October 29",
+  "topic": "primary-teachers-joining-october",
+  "source": "Somoy News, Jamuna TV, Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-08-01T17:08:14Z"
+ },
+ {
+  "title_hash": "38eb3f5f9bb893aa",
+  "url": "https://www.somoynews.tv/news/2026-08-01/KICWWFIH",
+  "headline": "Over 14,000 primary teachers to join from October 29",
+  "topic": "primary-teachers-joining-october",
+  "source": "Somoy News, Jamuna TV, Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-08-01T17:08:14Z"
+ },
+ {
+  "title_hash": "8596ae33d4ad257c",
+  "url": "https://www.jamuna.tv/national/661318",
+  "headline": "Over 14,000 primary teachers to join from October 29",
+  "topic": "primary-teachers-joining-october",
+  "source": "Somoy News, Jamuna TV, Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-08-01T17:08:14Z"
  }
 ]
