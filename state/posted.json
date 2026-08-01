@@ -1,33 +1,5 @@
 [
  {
-  "title_hash": "331b5cdaae2f8ff0",
-  "url": "https://www.thedailystar.net/sports/sports-special/fifa-world-cup-2026/news/kempes-urges-fans-not-believe-baseless-rumours-about-argentina-4231406",
-  "headline": "Bangladesh secure direct quarterfinal berth at 2026 Asian Games cricket",
-  "topic": "asian-games-cricket-argentina-world-cup",
-  "source": "The Daily Star, Prothom Alo",
-  "status": "posted",
-  "at": "2026-07-24T12:08:21Z",
-  "results": {
-   "facebook": "1237737746078842_122117722491361546",
-   "instagram": "17890786635596088",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "d20ea6153fa34a2a",
-  "url": "https://www.thedailystar.net/sports/sports-special/fifa-world-cup-2026/news/intolerable-and-unacceptable-de-la-fuente-blasts-argentina-players-post-final-clash-4231376",
-  "headline": "Bangladesh secure direct quarterfinal berth at 2026 Asian Games cricket",
-  "topic": "asian-games-cricket-argentina-world-cup",
-  "source": "The Daily Star, Prothom Alo",
-  "status": "posted",
-  "at": "2026-07-24T12:08:21Z",
-  "results": {
-   "facebook": "1237737746078842_122117722491361546",
-   "instagram": "17890786635596088",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "845274d4af70fdf1",
   "url": "https://www.prothomalo.com/sports/football/j62ee7jlfa",
   "headline": "Bangladesh secure direct quarterfinal berth at 2026 Asian Games cricket",
@@ -8378,5 +8350,23 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "c2fcc455b5c15439",
+  "url": "https://www.jamuna.tv/economy/661243",
+  "headline": "Fragrant rice hits record prices in Bangladesh; up Tk 60-80 per kg in a month",
+  "topic": "aromatic-rice-price-hike",
+  "source": "Jamuna TV",
+  "status": "queued",
+  "at": "2026-08-01T01:08:04Z"
+ },
+ {
+  "title_hash": "c919b33e51285fb3",
+  "url": "https://www.thedailystar.net/sports/football/news/fifa-scraps-private-investment-plan-after-backlash-4237376",
+  "headline": "FIFA scraps private investment plan after fierce global backlash from football officials",
+  "topic": "fifa-scraps-private-investment",
+  "source": "The Daily Star",
+  "status": "queued",
+  "at": "2026-08-01T01:08:04Z"
  }
 ]
