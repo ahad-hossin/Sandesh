@@ -8335,8 +8335,13 @@
   "headline": "Police HQ issues nationwide highest alert over threat to police vehicles",
   "topic": "police-hq-alert-suspicious-objects",
   "source": "Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-08-01T17:08:14Z"
+  "status": "failed",
+  "at": "2026-08-01T17:08:14Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "d2701f1302e51420",
@@ -8344,8 +8349,13 @@
   "headline": "Police HQ issues nationwide highest alert over threat to police vehicles",
   "topic": "police-hq-alert-suspicious-objects",
   "source": "Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-08-01T17:08:14Z"
+  "status": "failed",
+  "at": "2026-08-01T17:08:14Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "9518f1c2847f3ef1",
@@ -8353,8 +8363,13 @@
   "headline": "Over 14,000 primary teachers to join from October 29",
   "topic": "primary-teachers-joining-october",
   "source": "Somoy News, Jamuna TV, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-08-01T17:08:14Z"
+  "status": "failed",
+  "at": "2026-08-01T17:08:14Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "38eb3f5f9bb893aa",
@@ -8362,8 +8377,13 @@
   "headline": "Over 14,000 primary teachers to join from October 29",
   "topic": "primary-teachers-joining-october",
   "source": "Somoy News, Jamuna TV, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-08-01T17:08:14Z"
+  "status": "failed",
+  "at": "2026-08-01T17:08:14Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "8596ae33d4ad257c",
@@ -8371,7 +8391,12 @@
   "headline": "Over 14,000 primary teachers to join from October 29",
   "topic": "primary-teachers-joining-october",
   "source": "Somoy News, Jamuna TV, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-08-01T17:08:14Z"
+  "status": "failed",
+  "at": "2026-08-01T17:08:14Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
