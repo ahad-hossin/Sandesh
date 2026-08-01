@@ -1,33 +1,5 @@
 [
  {
-  "title_hash": "7ce7cce064854bf1",
-  "url": "https://www.prothomalo.com/video/bangladesh/mhtf8bv486",
-  "headline": "Salahuddin praises President Shahabuddin's role in constitutional continuity",
-  "topic": "president-shahabuddin-resignation-details",
-  "source": "Dhaka Tribune, The Daily Star, Somoy News, Jamuna TV, Prothom Alo",
-  "status": "posted",
-  "at": "2026-07-24T15:07:41Z",
-  "results": {
-   "facebook": "1237737746078842_122117761533361546",
-   "instagram": "17923243581392496",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "a3d77cdbdc7e5726",
-  "url": "https://www.prothomalo.com/bangladesh/ake0xl7oli",
-  "headline": "Salahuddin praises President Shahabuddin's role in constitutional continuity",
-  "topic": "president-shahabuddin-resignation-details",
-  "source": "Dhaka Tribune, The Daily Star, Somoy News, Jamuna TV, Prothom Alo",
-  "status": "posted",
-  "at": "2026-07-24T15:07:41Z",
-  "results": {
-   "facebook": "1237737746078842_122117761533361546",
-   "instagram": "17923243581392496",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "6b7b3586da369df7",
   "url": "https://www.prothomalo.com/politics/qnbh9uhaxq",
   "headline": "Salahuddin praises President Shahabuddin's role in constitutional continuity",
@@ -8378,5 +8350,23 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "c62902cfb054efed",
+  "url": "https://www.dhakatribune.com/bangladesh/health/416466/measles-outbreak-death-toll-reaches-840-as-three",
+  "headline": "840 dead as measles outbreak death toll rises",
+  "topic": "measles-outbreak-death-toll-reaches-840",
+  "source": "Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-08-01T11:07:16Z"
+ },
+ {
+  "title_hash": "6c8b2d120f4abaf3",
+  "url": "https://www.jamuna.tv/health/661296",
+  "headline": "840 children died from measles symptoms across Bangladesh",
+  "topic": "measles-outbreak-death-toll-reaches-840",
+  "source": "Jamuna TV",
+  "status": "queued",
+  "at": "2026-08-01T11:07:16Z"
  }
 ]
