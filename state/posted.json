@@ -8357,8 +8357,13 @@
   "headline": "Fragrant rice prices hit record high, increasing Tk 60-80 per kg in one month",
   "topic": "fragrant-rice-record-price-hike",
   "source": "Jamuna TV",
-  "status": "queued",
-  "at": "2026-08-01T02:08:12Z"
+  "status": "failed",
+  "at": "2026-08-01T02:08:12Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "a70fbaa57e365fd4",
@@ -8366,7 +8371,12 @@
   "headline": "Bangladesh Test openers face 4-year century drought, struggle ahead of Australia series",
   "topic": "bangladesh-cricket-openers-crisis",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-01T02:08:12Z"
+  "status": "failed",
+  "at": "2026-08-01T02:08:12Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
