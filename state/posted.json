@@ -8329,8 +8329,13 @@
   "headline": "US Special Envoy Sergio Gor says US investors to visit Bangladesh next week",
   "topic": "us-envoy-pm-meeting-investments",
   "source": "Jamuna TV, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-08-01T05:07:16Z"
+  "status": "failed",
+  "at": "2026-08-01T05:07:16Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "20c1d90631d33144",
@@ -8338,8 +8343,13 @@
   "headline": "US Special Envoy Sergio Gor says US investors to visit Bangladesh next week",
   "topic": "us-envoy-pm-meeting-investments",
   "source": "Jamuna TV, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-08-01T05:07:16Z"
+  "status": "failed",
+  "at": "2026-08-01T05:07:16Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "ecb81d9bb21f2704",
@@ -8347,8 +8357,13 @@
   "headline": "US Special Envoy Sergio Gor says US investors to visit Bangladesh next week",
   "topic": "us-envoy-pm-meeting-investments",
   "source": "Jamuna TV, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-08-01T05:07:16Z"
+  "status": "failed",
+  "at": "2026-08-01T05:07:16Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "332702a1c0cfc33d",
@@ -8356,7 +8371,12 @@
   "headline": "US urges global partners to increase contributions for Rohingya camps",
   "topic": "us-urges-rohingya-funding",
   "source": "The Daily Star",
-  "status": "queued",
-  "at": "2026-08-01T05:07:16Z"
+  "status": "failed",
+  "at": "2026-08-01T05:07:16Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
