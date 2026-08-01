@@ -8349,8 +8349,13 @@
   "headline": "BNP Standing Committee: Tarique Rahman to nominate presidential candidate",
   "topic": "bnp-president-nomination-tarique",
   "source": "Jamuna TV",
-  "status": "queued",
-  "at": "2026-08-01T16:07:03Z"
+  "status": "failed",
+  "at": "2026-08-01T16:07:03Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "df65e0f29fa837d1",
@@ -8358,8 +8363,13 @@
   "headline": "BNP Standing Committee: Tarique Rahman to nominate presidential candidate",
   "topic": "bnp-president-nomination-tarique",
   "source": "Jamuna TV",
-  "status": "queued",
-  "at": "2026-08-01T16:07:03Z"
+  "status": "failed",
+  "at": "2026-08-01T16:07:03Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "7588fe9f7966764e",
@@ -8367,8 +8377,13 @@
   "headline": "Over 5,000 jobless as S Alam shuts 11 factories in Chattogram",
   "topic": "s-alam-factories-closure-ctg",
   "source": "The Daily Star, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-08-01T16:07:03Z"
+  "status": "failed",
+  "at": "2026-08-01T16:07:03Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "d4b648d236f140f8",
@@ -8376,7 +8391,12 @@
   "headline": "Over 5,000 jobless as S Alam shuts 11 factories in Chattogram",
   "topic": "s-alam-factories-closure-ctg",
   "source": "The Daily Star, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-08-01T16:07:03Z"
+  "status": "failed",
+  "at": "2026-08-01T16:07:03Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
