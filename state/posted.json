@@ -8377,8 +8377,13 @@
   "headline": "Political shift: NCP leader suspended over remarks about PM Tarique",
   "topic": "ncp-leader-suspended-pm-tarique-remarks",
   "source": "Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-08-01T15:10:10Z"
+  "status": "failed",
+  "at": "2026-08-01T15:10:10Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "8b1517d9bd52d034",
@@ -8386,7 +8391,12 @@
   "headline": "371 new cases as Dengue cases rise in 24 hours",
   "topic": "dengue-cases-rise-371-24h",
   "source": "Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-08-01T15:10:10Z"
+  "status": "failed",
+  "at": "2026-08-01T15:10:10Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
