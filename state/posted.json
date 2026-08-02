@@ -8349,8 +8349,13 @@
   "headline": "10 dead in avalanche: Body of climber Nirmal Purja recovered from Broad Peak",
   "topic": "climber-nirmal-purja-death",
   "source": "Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-02T22:07:09Z"
+  "status": "failed",
+  "at": "2026-08-02T22:07:09Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "edb50e5591de7868",
@@ -8358,8 +8363,13 @@
   "headline": "10 dead in avalanche: Body of climber Nirmal Purja recovered from Broad Peak",
   "topic": "climber-nirmal-purja-death",
   "source": "Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-02T22:07:09Z"
+  "status": "failed",
+  "at": "2026-08-02T22:07:09Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "6c64f5ef12dcf9f0",
@@ -8367,8 +8377,13 @@
   "headline": "10 dead in avalanche: Body of climber Nirmal Purja recovered from Broad Peak",
   "topic": "climber-nirmal-purja-death",
   "source": "Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-02T22:07:09Z"
+  "status": "failed",
+  "at": "2026-08-02T22:07:09Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "bee9a996eea214ea",
@@ -8376,7 +8391,12 @@
   "headline": "Legendary singer Runa Laila returns to Sydney stage after 10 years",
   "topic": "runa-layla-sydney-concert",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-02T22:07:09Z"
+  "status": "failed",
+  "at": "2026-08-02T22:07:09Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
