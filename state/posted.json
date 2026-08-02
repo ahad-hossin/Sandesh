@@ -8335,8 +8335,13 @@
   "headline": "US-Israel plan major attacks on Iran as Trump faces conflicting advice from allies",
   "topic": "us-iran-attack-plans",
   "source": "Prothom Alo, Somoy News",
-  "status": "queued",
-  "at": "2026-08-02T01:08:26Z"
+  "status": "failed",
+  "at": "2026-08-02T01:08:26Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "9fcdd32191537618",
@@ -8344,8 +8349,13 @@
   "headline": "US-Israel plan major attacks on Iran as Trump faces conflicting advice from allies",
   "topic": "us-iran-attack-plans",
   "source": "Prothom Alo, Somoy News",
-  "status": "queued",
-  "at": "2026-08-02T01:08:26Z"
+  "status": "failed",
+  "at": "2026-08-02T01:08:26Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "f473f71d7e9254e2",
@@ -8353,8 +8363,13 @@
   "headline": "US-Israel plan major attacks on Iran as Trump faces conflicting advice from allies",
   "topic": "us-iran-attack-plans",
   "source": "Prothom Alo, Somoy News",
-  "status": "queued",
-  "at": "2026-08-02T01:08:26Z"
+  "status": "failed",
+  "at": "2026-08-02T01:08:26Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "a84a270315bc948f",
@@ -8362,8 +8377,13 @@
   "headline": "Body exhumed 12 hours after burial in Jamalpur due to 'jinn possession' claim, creating sensation",
   "topic": "jamalpur-body-exhumed",
   "source": "Jamuna TV",
-  "status": "queued",
-  "at": "2026-08-02T01:08:26Z"
+  "status": "failed",
+  "at": "2026-08-02T01:08:26Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "a84a270315bc948f",
@@ -8371,7 +8391,12 @@
   "headline": "Body exhumed 12 hours after burial in Jamalpur due to 'jinn possession' claim, creating sensation",
   "topic": "jamalpur-body-exhumed",
   "source": "Jamuna TV",
-  "status": "queued",
-  "at": "2026-08-02T01:08:26Z"
+  "status": "failed",
+  "at": "2026-08-02T01:08:26Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
