@@ -1,75 +1,5 @@
 [
  {
-  "title_hash": "5d474fbd452010d2",
-  "url": "https://www.prothomalo.com/bangladesh/district/og3y4a2jnk",
-  "headline": "Police officer stabbed while attempting to arrest drug dealer in Chattogram",
-  "topic": "ctg-cop-stabbed-drug-arrest",
-  "source": "The Daily Star, Prothom Alo",
-  "status": "posted",
-  "at": "2026-07-25T21:06:42Z",
-  "results": {
-   "facebook": "1237737746078842_122118019455361546",
-   "instagram": "18120673096741150",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "23280bae1ed42efc",
-  "url": "https://www.prothomalo.com/world/t2pdut7cal",
-  "headline": "Trump warns China and Russia not to supply weapons to Iran",
-  "topic": "trump-threatens-putin-xi-india-edu-minister",
-  "source": "Prothom Alo",
-  "status": "posted",
-  "at": "2026-07-25T21:06:42Z",
-  "results": {
-   "facebook": "1237737746078842_122118019671361546",
-   "instagram": "17971405196917719",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "21fdd28c6448e6ab",
-  "url": "https://www.prothomalo.com/world/india/z5yx041rnw",
-  "headline": "Trump warns China and Russia not to supply weapons to Iran",
-  "topic": "trump-threatens-putin-xi-india-edu-minister",
-  "source": "Prothom Alo",
-  "status": "posted",
-  "at": "2026-07-25T21:06:42Z",
-  "results": {
-   "facebook": "1237737746078842_122118019671361546",
-   "instagram": "17971405196917719",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "46c239bffabc1057",
-  "url": "https://www.somoynews.tv/news/2026-07-25/CMUJXzGt",
-  "headline": "Fire breaks out at Dhaka airport in garbage pile near Gate 8",
-  "topic": "dhaka-airport-fire",
-  "source": "Somoy News, Jamuna TV",
-  "status": "posted",
-  "at": "2026-07-25T22:08:29Z",
-  "results": {
-   "facebook": "1237737746078842_122118025749361546",
-   "instagram": "17878907931617686",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "450e5d2b88f199d7",
-  "url": "https://www.jamuna.tv/national/660777",
-  "headline": "Fire breaks out at Dhaka airport in garbage pile near Gate 8",
-  "topic": "dhaka-airport-fire",
-  "source": "Somoy News, Jamuna TV",
-  "status": "posted",
-  "at": "2026-07-25T22:08:29Z",
-  "results": {
-   "facebook": "1237737746078842_122118025749361546",
-   "instagram": "17878907931617686",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "6d48bc3f37e28816",
   "url": "https://www.thedailystar.net/news/bangladesh/news/police-escorts-withdrawn-18-ministers-4232441",
   "headline": "Austerity drive: Police escorts withdrawn for 18 ministers in Dhaka",
@@ -8398,5 +8328,50 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "24a796062c0ad56a",
+  "url": "https://www.jamuna.tv/international/661338",
+  "headline": "3 killed in shooting at In-N-Out Burger in Idaho, US",
+  "topic": "us-restaurant-shooting",
+  "source": "Jamuna TV, Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-02T04:07:00Z"
+ },
+ {
+  "title_hash": "06e0255b44c543a6",
+  "url": "https://www.prothomalo.com/world/usa/gel3ukcgfw",
+  "headline": "3 killed in shooting at In-N-Out Burger in Idaho, US",
+  "topic": "us-restaurant-shooting",
+  "source": "Jamuna TV, Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-02T04:07:00Z"
+ },
+ {
+  "title_hash": "d0fbff951a23a6c9",
+  "url": "https://www.thedailystar.net/sports/football/news/messi-returns-action-miami-after-world-cup-final-heartbreak-4238131",
+  "headline": "Lionel Messi returns to action for Inter Miami in 2-2 draw",
+  "topic": "messi-inter-miami-return",
+  "source": "Prothom Alo, Jamuna TV, The Daily Star",
+  "status": "queued",
+  "at": "2026-08-02T04:07:00Z"
+ },
+ {
+  "title_hash": "4dd8be44b797e6c5",
+  "url": "https://www.prothomalo.com/sports/football/8ezd3gtaoi",
+  "headline": "Lionel Messi returns to action for Inter Miami in 2-2 draw",
+  "topic": "messi-inter-miami-return",
+  "source": "Prothom Alo, Jamuna TV, The Daily Star",
+  "status": "queued",
+  "at": "2026-08-02T04:07:00Z"
+ },
+ {
+  "title_hash": "fae378c528d75334",
+  "url": "https://www.jamuna.tv/sports/661337",
+  "headline": "Lionel Messi returns to action for Inter Miami in 2-2 draw",
+  "topic": "messi-inter-miami-return",
+  "source": "Prothom Alo, Jamuna TV, The Daily Star",
+  "status": "queued",
+  "at": "2026-08-02T04:07:00Z"
  }
 ]
