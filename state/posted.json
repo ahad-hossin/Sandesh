@@ -8363,8 +8363,13 @@
   "headline": "2 injured as Shibir and JCD clash at DU's Shahidullah Hall",
   "topic": "du-shibir-jcd-scuffles",
   "source": "The Daily Star, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-08-02T17:07:34Z"
+  "status": "failed",
+  "at": "2026-08-02T17:07:34Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "fec105904f54c1a8",
@@ -8372,8 +8377,13 @@
   "headline": "2 injured as Shibir and JCD clash at DU's Shahidullah Hall",
   "topic": "du-shibir-jcd-scuffles",
   "source": "The Daily Star, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-08-02T17:07:34Z"
+  "status": "failed",
+  "at": "2026-08-02T17:07:34Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "cb886ae4f4c87d1b",
@@ -8381,7 +8391,12 @@
   "headline": "Tk28 lakh in fake notes: Police arrest two suspects",
   "topic": "fake-notes-seized-gulshan",
   "source": "Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-08-02T17:07:34Z"
+  "status": "failed",
+  "at": "2026-08-02T17:07:34Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
