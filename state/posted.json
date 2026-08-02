@@ -1,33 +1,5 @@
 [
  {
-  "title_hash": "0a51a4ee54e15f70",
-  "url": "https://www.prothomalo.com/bangladesh/district/x9pir0m55y",
-  "headline": "36 days at sea: Two Sri Lankan fishermen rescued in Maheshkhali",
-  "topic": "sri-lankan-fishermen-rescued-maheshkhali",
-  "source": "Dhaka Tribune, Prothom Alo",
-  "status": "posted",
-  "at": "2026-07-25T19:07:47Z",
-  "results": {
-   "facebook": "1237737746078842_122118000519361546",
-   "instagram": "18005882186765355",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "9791b41e7be17d3c",
-  "url": "https://www.prothomalo.com/bangladesh/r48l6zp758",
-  "headline": "PM Tarique Rahman meets new Navy Chief Vice Admiral Misbah ul Azim",
-  "topic": "pm-navy-chief-meeting",
-  "source": "Prothom Alo, Jamuna TV",
-  "status": "posted",
-  "at": "2026-07-25T19:07:47Z",
-  "results": {
-   "facebook": "1237737746078842_122118000897361546",
-   "instagram": "18200934655366514",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "5e7ff089f636f189",
   "url": "https://www.jamuna.tv/national/660743",
   "headline": "PM Tarique Rahman meets new Navy Chief Vice Admiral Misbah ul Azim",
@@ -8398,5 +8370,23 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "1b38eb0a8c119989",
+  "url": "https://www.somoynews.tv/news/2026-08-01/uRD8WyR0",
+  "headline": "Wife accused of killing husband with sleeping pills in Barguna; suspect absconding.",
+  "topic": "wife-accused-killing-husband-barguna",
+  "source": "Somoy News",
+  "status": "queued",
+  "at": "2026-08-02T02:07:57Z"
+ },
+ {
+  "title_hash": "a03bd07103db8339",
+  "url": "https://www.somoynews.tv/news/2026-08-01/BvHFAVxL",
+  "headline": "Gold worth over 13 crore Taka found on a young man's body",
+  "topic": "youth-caught-with-13-crore-gold",
+  "source": "Somoy News",
+  "status": "queued",
+  "at": "2026-08-02T02:07:57Z"
  }
 ]
