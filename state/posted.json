@@ -8321,8 +8321,13 @@
   "headline": "Ex-IGP Benazir Ahmed released from Dubai jail amid unconfirmed reports",
   "topic": "ex-igp-benazir-uae-repatriation",
   "source": "Dhaka Tribune, Prothom Alo, Jamuna TV",
-  "status": "queued",
-  "at": "2026-08-02T12:07:41Z"
+  "status": "failed",
+  "at": "2026-08-02T12:07:41Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "f58e8027a37983c5",
@@ -8330,8 +8335,13 @@
   "headline": "Ex-IGP Benazir Ahmed released from Dubai jail amid unconfirmed reports",
   "topic": "ex-igp-benazir-uae-repatriation",
   "source": "Dhaka Tribune, Prothom Alo, Jamuna TV",
-  "status": "queued",
-  "at": "2026-08-02T12:07:41Z"
+  "status": "failed",
+  "at": "2026-08-02T12:07:41Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "dc854c23cd62d37a",
@@ -8339,8 +8349,13 @@
   "headline": "Ex-IGP Benazir Ahmed released from Dubai jail amid unconfirmed reports",
   "topic": "ex-igp-benazir-uae-repatriation",
   "source": "Dhaka Tribune, Prothom Alo, Jamuna TV",
-  "status": "queued",
-  "at": "2026-08-02T12:07:41Z"
+  "status": "failed",
+  "at": "2026-08-02T12:07:41Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "e2365062532f4919",
@@ -8348,8 +8363,13 @@
   "headline": "Ex-IGP Benazir Ahmed released from Dubai jail amid unconfirmed reports",
   "topic": "ex-igp-benazir-uae-repatriation",
   "source": "Dhaka Tribune, Prothom Alo, Jamuna TV",
-  "status": "queued",
-  "at": "2026-08-02T12:07:41Z"
+  "status": "failed",
+  "at": "2026-08-02T12:07:41Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "aba774975677c92a",
@@ -8357,8 +8377,13 @@
   "headline": "Tk70 hike: 12kg LPG cylinder price rises to Tk1,598 for August",
   "topic": "lpg-price-hike-august",
   "source": "Dhaka Tribune, Jamuna TV",
-  "status": "queued",
-  "at": "2026-08-02T12:07:41Z"
+  "status": "failed",
+  "at": "2026-08-02T12:07:41Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "04f1274cb3a4306a",
@@ -8366,7 +8391,12 @@
   "headline": "Tk70 hike: 12kg LPG cylinder price rises to Tk1,598 for August",
   "topic": "lpg-price-hike-august",
   "source": "Dhaka Tribune, Jamuna TV",
-  "status": "queued",
-  "at": "2026-08-02T12:07:41Z"
+  "status": "failed",
+  "at": "2026-08-02T12:07:41Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
