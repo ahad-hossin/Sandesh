@@ -1,61 +1,5 @@
 [
  {
-  "title_hash": "c41d89ad0c046768",
-  "url": "https://www.dhakatribune.com/bangladesh/415964/who-around-9600-people-die-from-drowning-each",
-  "headline": "Around 9,600 people die from drowning each year in Bangladesh, says WHO",
-  "topic": "drowning-deaths-and-icu-bacteria-risks",
-  "source": "Dhaka Tribune, Somoy News",
-  "status": "posted",
-  "at": "2026-07-25T15:08:42Z",
-  "results": {
-   "facebook": "1237737746078842_122117962233361546",
-   "instagram": "18108542939599624",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "a790d4f61f6e9664",
-  "url": "https://www.somoynews.tv/news/2026-07-25/wQ0ELSvV",
-  "headline": "Around 9,600 people die from drowning each year in Bangladesh, says WHO",
-  "topic": "drowning-deaths-and-icu-bacteria-risks",
-  "source": "Dhaka Tribune, Somoy News",
-  "status": "posted",
-  "at": "2026-07-25T15:08:42Z",
-  "results": {
-   "facebook": "1237737746078842_122117962233361546",
-   "instagram": "18108542939599624",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "1722258129ed7e01",
-  "url": "https://www.dhakatribune.com/bangladesh/415963/59m-children-at-climate-risk-is-bangladesh",
-  "headline": "Around 9,600 people die from drowning each year in Bangladesh, says WHO",
-  "topic": "drowning-deaths-and-icu-bacteria-risks",
-  "source": "Dhaka Tribune, Somoy News",
-  "status": "posted",
-  "at": "2026-07-25T15:08:42Z",
-  "results": {
-   "facebook": "1237737746078842_122117962233361546",
-   "instagram": "18108542939599624",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "880dc15557c21ae9",
-  "url": "https://www.dhakatribune.com/bangladesh/health/415974/health-minister-finds-expired-medicines-at",
-  "headline": "Health Minister finds expired medicines in toilet at Morrelganj health complex",
-  "topic": "health-minister-finds-expired-medicines-at-health-complex",
-  "source": "Dhaka Tribune, Prothom Alo",
-  "status": "posted",
-  "at": "2026-07-25T16:07:58Z",
-  "results": {
-   "facebook": "1237737746078842_122117972487361546",
-   "instagram": "18111455134957100",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "ddcdcd01471f4842",
   "url": "https://www.prothomalo.com/bangladesh/district/cfvcwgf249",
   "headline": "Health Minister finds expired medicines in toilet at Morrelganj health complex",
@@ -8398,5 +8342,41 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "53163cf90ff1d11f",
+  "url": "https://www.prothomalo.com/world/middle-east/xxnt2xvhk9",
+  "headline": "Trump in dilemma as Saudi Arabia seeks de-escalation with Iran, Israel pushes for war",
+  "topic": "us-iran-military-plans-escalation",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-02T00:08:50Z"
+ },
+ {
+  "title_hash": "9fcdd32191537618",
+  "url": "https://www.prothomalo.com/world/middle-east/rngdfi1znh",
+  "headline": "Trump in dilemma as Saudi Arabia seeks de-escalation with Iran, Israel pushes for war",
+  "topic": "us-iran-military-plans-escalation",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-02T00:08:50Z"
+ },
+ {
+  "title_hash": "1044534c62999391",
+  "url": "https://www.prothomalo.com/world/europe/dnbo8stdjm",
+  "headline": "67 migrants dead, 48,000 returned after mass border crossing into Spain's Ceuta",
+  "topic": "ceuta-migrant-deaths",
+  "source": "Prothom Alo, Jamuna TV",
+  "status": "queued",
+  "at": "2026-08-02T00:08:50Z"
+ },
+ {
+  "title_hash": "fd8c5ba596462252",
+  "url": "https://www.jamuna.tv/international/661317",
+  "headline": "67 migrants dead, 48,000 returned after mass border crossing into Spain's Ceuta",
+  "topic": "ceuta-migrant-deaths",
+  "source": "Prothom Alo, Jamuna TV",
+  "status": "queued",
+  "at": "2026-08-02T00:08:50Z"
  }
 ]
