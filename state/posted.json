@@ -1,75 +1,5 @@
 [
  {
-  "title_hash": "f3091863d4996ee7",
-  "url": "https://www.somoynews.tv/news/2026-07-28/SD0641Gu",
-  "headline": "4 gold bars recovered from passenger's rectum at HSIA",
-  "topic": "airport-gold-smuggling",
-  "source": "Somoy News",
-  "status": "posted",
-  "at": "2026-07-28T21:07:29Z",
-  "results": {
-   "facebook": "1237737746078842_122118750015361546",
-   "instagram": "18041265173820756",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "5cf25d6aff7c3cef",
-  "url": "https://www.thedailystar.net/news/bangladesh/news/gunmen-attack-businessmans-car-chattogram-rangamati-highway-4235171",
-  "headline": "Gunmen attack businessman's car on Chattogram-Rangamati highway",
-  "topic": "businessman-car-attack-chattogram",
-  "source": "The Daily Star",
-  "status": "posted",
-  "at": "2026-07-28T22:08:05Z",
-  "results": {
-   "facebook": "1237737746078842_122118755751361546",
-   "instagram": "17947535355035397",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "77741f31511569f2",
-  "url": "https://www.thedailystar.net/business/economy/news/sp-revises-bangladesh-outlook-negative-4235001",
-  "headline": "S&P Global revises Bangladesh outlook to negative from stable",
-  "topic": "sp-bangladesh-outlook-negative",
-  "source": "The Daily Star",
-  "status": "posted",
-  "at": "2026-07-28T22:08:05Z",
-  "results": {
-   "facebook": "1237737746078842_122118755937361546",
-   "instagram": "18098531915622222",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "c2274b0692a04957",
-  "url": "https://www.prothomalo.com/politics/ja6qtps9b3",
-  "headline": "NCP to hold protest rally in Habiganj after attacks on leaders",
-  "topic": "ncp-protest-habiganj",
-  "source": "Prothom Alo",
-  "status": "posted",
-  "at": "2026-07-28T23:07:12Z",
-  "results": {
-   "facebook": "1237737746078842_122118772509361546",
-   "instagram": "18057007652781696",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "a0797fafbe3a3f69",
-  "url": "https://www.prothomalo.com/bangladesh/capital/xrb7isuuj9",
-  "headline": "Mother of July uprising martyr Sajid sleeps with his t-shirt for comfort",
-  "topic": "martyr-sajid-mother-story",
-  "source": "Prothom Alo",
-  "status": "posted",
-  "at": "2026-07-28T23:07:12Z",
-  "results": {
-   "facebook": "1237737746078842_122118772611361546",
-   "instagram": "18348720904218109",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "c3bf38f43c536645",
   "url": "https://www.prothomalo.com/world/south-america/q6e9d5lv2m",
   "headline": "US Democrats funded 'anti-Argentina campaign' during World Cup, claims President Milei",
@@ -8398,5 +8328,50 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "8cfd7ebe922416b9",
+  "url": "https://www.thedailystar.net/news/world/news/climber-nirmal-purjas-body-recovered-4238756",
+  "headline": "10 dead in avalanche: Body of climber Nirmal Purja recovered from Broad Peak",
+  "topic": "climber-nirmal-purja-death",
+  "source": "Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-08-02T21:07:06Z"
+ },
+ {
+  "title_hash": "edb50e5591de7868",
+  "url": "https://www.prothomalo.com/world/pakistan/xedyl6dihk",
+  "headline": "10 dead in avalanche: Body of climber Nirmal Purja recovered from Broad Peak",
+  "topic": "climber-nirmal-purja-death",
+  "source": "Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-08-02T21:07:06Z"
+ },
+ {
+  "title_hash": "6c64f5ef12dcf9f0",
+  "url": "https://www.prothomalo.com/video/international/ixft1ahcn3",
+  "headline": "10 dead in avalanche: Body of climber Nirmal Purja recovered from Broad Peak",
+  "topic": "climber-nirmal-purja-death",
+  "source": "Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-08-02T21:07:06Z"
+ },
+ {
+  "title_hash": "fec105904f54c1a8",
+  "url": "https://www.dhakatribune.com/bangladesh/campus/416582/du-hall-cancels-shibir-leader%E2%80%99s-seat-over-viral",
+  "headline": "DU hall cancels Shibir leader’s seat over viral video",
+  "topic": "du-shibir-student-clash",
+  "source": "Dhaka Tribune, Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-02T21:07:06Z"
+ },
+ {
+  "title_hash": "91ead0a8445f2086",
+  "url": "https://www.prothomalo.com/video/bangladesh/32axcqhyf9",
+  "headline": "DU hall cancels Shibir leader’s seat over viral video",
+  "topic": "du-shibir-student-clash",
+  "source": "Dhaka Tribune, Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-02T21:07:06Z"
  }
 ]
