@@ -8335,8 +8335,13 @@
   "headline": "3 killed in shooting at In-N-Out Burger in Idaho, US",
   "topic": "us-restaurant-shooting",
   "source": "Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-02T04:07:00Z"
+  "status": "failed",
+  "at": "2026-08-02T04:07:00Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "06e0255b44c543a6",
@@ -8344,8 +8349,13 @@
   "headline": "3 killed in shooting at In-N-Out Burger in Idaho, US",
   "topic": "us-restaurant-shooting",
   "source": "Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-02T04:07:00Z"
+  "status": "failed",
+  "at": "2026-08-02T04:07:00Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "d0fbff951a23a6c9",
@@ -8353,8 +8363,13 @@
   "headline": "Lionel Messi returns to action for Inter Miami in 2-2 draw",
   "topic": "messi-inter-miami-return",
   "source": "Prothom Alo, Jamuna TV, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-02T04:07:00Z"
+  "status": "failed",
+  "at": "2026-08-02T04:07:00Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "4dd8be44b797e6c5",
@@ -8362,8 +8377,13 @@
   "headline": "Lionel Messi returns to action for Inter Miami in 2-2 draw",
   "topic": "messi-inter-miami-return",
   "source": "Prothom Alo, Jamuna TV, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-02T04:07:00Z"
+  "status": "failed",
+  "at": "2026-08-02T04:07:00Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "fae378c528d75334",
@@ -8371,7 +8391,12 @@
   "headline": "Lionel Messi returns to action for Inter Miami in 2-2 draw",
   "topic": "messi-inter-miami-return",
   "source": "Prothom Alo, Jamuna TV, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-02T04:07:00Z"
+  "status": "failed",
+  "at": "2026-08-02T04:07:00Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
