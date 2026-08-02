@@ -1,33 +1,5 @@
 [
  {
-  "title_hash": "6d48bc3f37e28816",
-  "url": "https://www.thedailystar.net/news/bangladesh/news/police-escorts-withdrawn-18-ministers-4232441",
-  "headline": "Austerity drive: Police escorts withdrawn for 18 ministers in Dhaka",
-  "topic": "ministers-police-escorts-withdrawn",
-  "source": "The Daily Star",
-  "status": "posted",
-  "at": "2026-07-25T22:08:29Z",
-  "results": {
-   "facebook": "1237737746078842_122118026037361546",
-   "instagram": "18115676980929407",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "6456dadc42112d5b",
-  "url": "https://www.thedailystar.net/sports/sports-special/fifa-world-cup-2026/news/messi-can-skip-all-star-game-after-grueling-world-cup-says-mls-4232356",
-  "headline": "MLS: Messi can skip All-Star Game after grueling World Cup",
-  "topic": "messi-skip-mls-all-star",
-  "source": "The Daily Star",
-  "status": "posted",
-  "at": "2026-07-25T23:07:37Z",
-  "results": {
-   "facebook": "1237737746078842_122118031419361546",
-   "instagram": "17940282039075351",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "07c0f4b0cac3c1f0",
   "url": "https://www.prothomalo.com/bangladesh/capital/mxmei4ky63",
   "headline": "Tk 28 lakh crore laundered: Govt wants to stop money laundering to boost investment",
@@ -8398,5 +8370,23 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "d2142278242ab528",
+  "url": "https://www.dhakatribune.com/bangladesh/court/416518/appeal-hearing-begins-in-ahsanullah-master-murder",
+  "headline": "Court begins appeal hearing in Ahsanullah Master murder case",
+  "topic": "ahsanullah-master-murder-appeal-hearing",
+  "source": "Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-08-02T05:07:33Z"
+ },
+ {
+  "title_hash": "24a796062c0ad56a",
+  "url": "https://www.jamuna.tv/international/661338",
+  "headline": "3 killed in shooting at In-N-Out Burger in Idaho, US",
+  "topic": "three-killed-in-us-restaurant-shooting",
+  "source": "Jamuna TV",
+  "status": "queued",
+  "at": "2026-08-02T05:07:33Z"
  }
 ]
