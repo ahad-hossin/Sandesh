@@ -8335,8 +8335,13 @@
   "headline": "13 dead after tourist plane crashes in Peru",
   "topic": "peru-tourist-plane-crash-13-dead",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-02T10:07:30Z"
+  "status": "failed",
+  "at": "2026-08-02T10:07:30Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "9d89135d8675ad1e",
@@ -8344,8 +8349,13 @@
   "headline": "13 dead after tourist plane crashes in Peru",
   "topic": "peru-tourist-plane-crash-13-dead",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-02T10:07:30Z"
+  "status": "failed",
+  "at": "2026-08-02T10:07:30Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "3292a8dbfc032085",
@@ -8353,8 +8363,13 @@
   "headline": "14,384 primary teachers to join on Oct 1",
   "topic": "primary-teachers-join-october-1",
   "source": "Jamuna TV, Dhaka Tribune, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-02T10:07:30Z"
+  "status": "failed",
+  "at": "2026-08-02T10:07:30Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "8aeabdaf8d793897",
@@ -8362,8 +8377,13 @@
   "headline": "14,384 primary teachers to join on Oct 1",
   "topic": "primary-teachers-join-october-1",
   "source": "Jamuna TV, Dhaka Tribune, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-02T10:07:30Z"
+  "status": "failed",
+  "at": "2026-08-02T10:07:30Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "1b060f758b4d3f4c",
@@ -8371,7 +8391,12 @@
   "headline": "14,384 primary teachers to join on Oct 1",
   "topic": "primary-teachers-join-october-1",
   "source": "Jamuna TV, Dhaka Tribune, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-02T10:07:30Z"
+  "status": "failed",
+  "at": "2026-08-02T10:07:30Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
