@@ -8377,8 +8377,13 @@
   "headline": "Court begins appeal hearing in Ahsanullah Master murder case",
   "topic": "ahsanullah-master-murder-appeal-hearing",
   "source": "Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-08-02T05:07:33Z"
+  "status": "failed",
+  "at": "2026-08-02T05:07:33Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "24a796062c0ad56a",
@@ -8386,7 +8391,12 @@
   "headline": "3 killed in shooting at In-N-Out Burger in Idaho, US",
   "topic": "three-killed-in-us-restaurant-shooting",
   "source": "Jamuna TV",
-  "status": "queued",
-  "at": "2026-08-02T05:07:33Z"
+  "status": "failed",
+  "at": "2026-08-02T05:07:33Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
