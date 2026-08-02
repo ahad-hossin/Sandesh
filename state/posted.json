@@ -1,75 +1,5 @@
 [
  {
-  "title_hash": "5b5a3be180b0921e",
-  "url": "https://www.jamuna.tv/international/661013",
-  "headline": "US forces thwarted Iran's missile attack in Middle East, CENTCOM claims",
-  "topic": "centcom-repels-iran-attack",
-  "source": "Jamuna TV",
-  "status": "posted",
-  "at": "2026-07-29T03:09:35Z",
-  "results": {
-   "facebook": "1237737746078842_122118791823361546",
-   "instagram": "18105391046277718",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "966457f773a300e9",
-  "url": "https://www.dhakatribune.com/bangladesh/416224/nationwide-ambulance-strike-called-off",
-  "headline": "Nationwide ambulance strike called off after government assurance to review demands within 30 days",
-  "topic": "nationwide-ambulance-strike-called-off",
-  "source": "Dhaka Tribune, Jamuna TV",
-  "status": "posted",
-  "at": "2026-07-29T04:10:10Z",
-  "results": {
-   "facebook": "1237737746078842_122118799455361546",
-   "instagram": "18008877368952098",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "9a066eaeff421c5f",
-  "url": "https://www.jamuna.tv/national/661014",
-  "headline": "Nationwide ambulance strike called off after government assurance to review demands within 30 days",
-  "topic": "nationwide-ambulance-strike-called-off",
-  "source": "Dhaka Tribune, Jamuna TV",
-  "status": "posted",
-  "at": "2026-07-29T04:10:10Z",
-  "results": {
-   "facebook": "1237737746078842_122118799455361546",
-   "instagram": "18008877368952098",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "fcdc323450aee026",
-  "url": "https://www.prothomalo.com/bangladesh/district/flt2fc9bu6",
-  "headline": "2 killed, 25 injured as dispute over a signboard sparks bloody clashes in Bhairab",
-  "topic": "bhairab-village-clash-signboard",
-  "source": "Prothom Alo",
-  "status": "posted",
-  "at": "2026-07-29T04:10:10Z",
-  "results": {
-   "facebook": "1237737746078842_122118799617361546",
-   "instagram": "17991929333991379",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "66c67be3212ca1cf",
-  "url": "https://www.dhakatribune.com/bangladesh/court/416226/sc-clears-way-for-sarwar-alamgir-to-perform-mp",
-  "headline": "SC clears way for Sarwar Alamgir to perform MP duties",
-  "topic": "sarwar-alamgir-mp-duties-cleared",
-  "source": "Dhaka Tribune, Jamuna TV",
-  "status": "posted",
-  "at": "2026-07-29T05:07:47Z",
-  "results": {
-   "facebook": "1237737746078842_122118806871361546",
-   "instagram": "18082478108689988",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "88b8496538ea9d4f",
   "url": "https://www.jamuna.tv/national/661020",
   "headline": "SC clears way for Sarwar Alamgir to perform MP duties",
@@ -8398,5 +8328,50 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "4f3eeec2bc239e67",
+  "url": "https://www.dhakatribune.com/bangladesh/foreign-affairs/416581/bangladesh-proposes-importing-gas-from-myanmar-via",
+  "headline": "Energy security: Bangladesh proposes importing gas from Myanmar via pipeline",
+  "topic": "bangladesh-myanmar-gas-pipeline",
+  "source": "Somoy News, Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-08-02T23:04:58Z"
+ },
+ {
+  "title_hash": "8166b499729550d4",
+  "url": "https://www.somoynews.tv/news/2026-08-02/StU9DFvX",
+  "headline": "Energy security: Bangladesh proposes importing gas from Myanmar via pipeline",
+  "topic": "bangladesh-myanmar-gas-pipeline",
+  "source": "Somoy News, Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-08-02T23:04:58Z"
+ },
+ {
+  "title_hash": "1ce212f729ad9001",
+  "url": "https://www.dhakatribune.com/bangladesh/416555/pm-hails-mist-world-champions-pledges-support-for",
+  "headline": "PM pledges support for tech startups after meeting world champion MIST team",
+  "topic": "pm-support-tech-startups",
+  "source": "Somoy News, Prothom Alo, Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-08-02T23:04:58Z"
+ },
+ {
+  "title_hash": "3bb3223216cff21e",
+  "url": "https://www.somoynews.tv/news/2026-08-02/UyMsvGx5",
+  "headline": "PM pledges support for tech startups after meeting world champion MIST team",
+  "topic": "pm-support-tech-startups",
+  "source": "Somoy News, Prothom Alo, Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-08-02T23:04:58Z"
+ },
+ {
+  "title_hash": "38fd220e2ecc65a8",
+  "url": "https://www.prothomalo.com/bangladesh/lrk1n46t8g",
+  "headline": "PM pledges support for tech startups after meeting world champion MIST team",
+  "topic": "pm-support-tech-startups",
+  "source": "Somoy News, Prothom Alo, Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-08-02T23:04:58Z"
  }
 ]
