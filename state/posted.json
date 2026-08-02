@@ -8335,8 +8335,13 @@
   "headline": "Energy security: Bangladesh proposes importing gas from Myanmar via pipeline",
   "topic": "bangladesh-myanmar-gas-pipeline",
   "source": "Somoy News, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-08-02T23:04:58Z"
+  "status": "failed",
+  "at": "2026-08-02T23:04:58Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "8166b499729550d4",
@@ -8344,8 +8349,13 @@
   "headline": "Energy security: Bangladesh proposes importing gas from Myanmar via pipeline",
   "topic": "bangladesh-myanmar-gas-pipeline",
   "source": "Somoy News, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-08-02T23:04:58Z"
+  "status": "failed",
+  "at": "2026-08-02T23:04:58Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "1ce212f729ad9001",
@@ -8353,8 +8363,13 @@
   "headline": "PM pledges support for tech startups after meeting world champion MIST team",
   "topic": "pm-support-tech-startups",
   "source": "Somoy News, Prothom Alo, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-08-02T23:04:58Z"
+  "status": "failed",
+  "at": "2026-08-02T23:04:58Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "3bb3223216cff21e",
@@ -8362,8 +8377,13 @@
   "headline": "PM pledges support for tech startups after meeting world champion MIST team",
   "topic": "pm-support-tech-startups",
   "source": "Somoy News, Prothom Alo, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-08-02T23:04:58Z"
+  "status": "failed",
+  "at": "2026-08-02T23:04:58Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "38fd220e2ecc65a8",
@@ -8371,7 +8391,12 @@
   "headline": "PM pledges support for tech startups after meeting world champion MIST team",
   "topic": "pm-support-tech-startups",
   "source": "Somoy News, Prothom Alo, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-08-02T23:04:58Z"
+  "status": "failed",
+  "at": "2026-08-02T23:04:58Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
