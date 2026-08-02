@@ -8321,8 +8321,13 @@
   "headline": "LPG price rises by Tk 70; 12kg cylinder now Tk 1,598 for August",
   "topic": "lpg-price-hike-august",
   "source": "Somoy News, The Daily Star, Dhaka Tribune, Jamuna TV",
-  "status": "queued",
-  "at": "2026-08-02T16:08:22Z"
+  "status": "failed",
+  "at": "2026-08-02T16:08:22Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "27f795ede26ea59e",
@@ -8330,8 +8335,13 @@
   "headline": "LPG price rises by Tk 70; 12kg cylinder now Tk 1,598 for August",
   "topic": "lpg-price-hike-august",
   "source": "Somoy News, The Daily Star, Dhaka Tribune, Jamuna TV",
-  "status": "queued",
-  "at": "2026-08-02T16:08:22Z"
+  "status": "failed",
+  "at": "2026-08-02T16:08:22Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "aba774975677c92a",
@@ -8339,8 +8349,13 @@
   "headline": "LPG price rises by Tk 70; 12kg cylinder now Tk 1,598 for August",
   "topic": "lpg-price-hike-august",
   "source": "Somoy News, The Daily Star, Dhaka Tribune, Jamuna TV",
-  "status": "queued",
-  "at": "2026-08-02T16:08:22Z"
+  "status": "failed",
+  "at": "2026-08-02T16:08:22Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "04f1274cb3a4306a",
@@ -8348,8 +8363,13 @@
   "headline": "LPG price rises by Tk 70; 12kg cylinder now Tk 1,598 for August",
   "topic": "lpg-price-hike-august",
   "source": "Somoy News, The Daily Star, Dhaka Tribune, Jamuna TV",
-  "status": "queued",
-  "at": "2026-08-02T16:08:22Z"
+  "status": "failed",
+  "at": "2026-08-02T16:08:22Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "0d9701c212e6240b",
@@ -8357,8 +8377,13 @@
   "headline": "Tk 57 lakh looted from bKash staff Armed robbers hit bus on Teknaf highway",
   "topic": "teknaf-bus-robbery-bkash",
   "source": "Somoy News, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-02T16:08:22Z"
+  "status": "failed",
+  "at": "2026-08-02T16:08:22Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "457c4ff396ae6290",
@@ -8366,7 +8391,12 @@
   "headline": "Tk 57 lakh looted from bKash staff Armed robbers hit bus on Teknaf highway",
   "topic": "teknaf-bus-robbery-bkash",
   "source": "Somoy News, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-02T16:08:22Z"
+  "status": "failed",
+  "at": "2026-08-02T16:08:22Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
