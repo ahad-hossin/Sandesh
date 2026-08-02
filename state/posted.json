@@ -1,33 +1,5 @@
 [
  {
-  "title_hash": "07c0f4b0cac3c1f0",
-  "url": "https://www.prothomalo.com/bangladesh/capital/mxmei4ky63",
-  "headline": "Tk 28 lakh crore laundered: Govt wants to stop money laundering to boost investment",
-  "topic": "govt-stop-money-laundering-investment",
-  "source": "Prothom Alo",
-  "status": "posted",
-  "at": "2026-07-25T23:07:37Z",
-  "results": {
-   "facebook": "1237737746078842_122118031749361546",
-   "instagram": "17901421629497892",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "9974f25ee7b300b0",
-  "url": "https://www.prothomalo.com/bangladesh/aanf92colk",
-  "headline": "BDT 4,469 crore financial irregularities found in Shahjalal Airport Third Terminal project audit",
-  "topic": "shahjalal-airport-project-irregularities",
-  "source": "Prothom Alo",
-  "status": "posted",
-  "at": "2026-07-26T04:07:40Z",
-  "results": {
-   "facebook": "1237737746078842_122118080673361546",
-   "instagram": "18435466000193304",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "fa7e071501014320",
   "url": "https://www.jamuna.tv/national/660787",
   "headline": "Md. Shahabuddin to leave Bangabhaban today after early resignation due to health reasons",
@@ -8398,5 +8370,23 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "25f3e63a5f3583f3",
+  "url": "https://www.jamuna.tv/international/661350",
+  "headline": "Over 75 family members killed in Gaza war, says Ismail Haniyeh's son",
+  "topic": "gaza-war-ismaeil-haniyah-son-claims-75-family-members-killed",
+  "source": "Jamuna TV",
+  "status": "queued",
+  "at": "2026-08-02T06:07:58Z"
+ },
+ {
+  "title_hash": "fc9469c69b3f35d5",
+  "url": "https://www.somoynews.tv/news/2026-08-02/KTyyx45T",
+  "headline": "Tragedy in Kalabagan: Man kills wife and mother-in-law",
+  "topic": "kalabagan-wife-mother-in-law-murdered-husband-flees-with-child",
+  "source": "Somoy News",
+  "status": "queued",
+  "at": "2026-08-02T06:07:58Z"
  }
 ]
