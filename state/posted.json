@@ -1,75 +1,5 @@
 [
  {
-  "title_hash": "fa5b7f39b948ab8e",
-  "url": "https://www.prothomalo.com/video/bangladesh/dhc79cii4d",
-  "headline": "Acting President Hafiz Uddin pays tribute to Liberation War martyrs at National Memorial, Savar",
-  "topic": "acting-president-hafiz-uddin-tributes",
-  "source": "Prothom Alo, Jamuna TV, The Daily Star",
-  "status": "posted",
-  "at": "2026-07-26T08:08:44Z",
-  "results": {
-   "facebook": "1237737746078842_122118117789361546",
-   "instagram": "18088318640402053",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "7752ade5c2f8cad5",
-  "url": "https://www.jamuna.tv/national/660797",
-  "headline": "Acting President Hafiz Uddin pays tribute to Liberation War martyrs at National Memorial, Savar",
-  "topic": "acting-president-hafiz-uddin-tributes",
-  "source": "Prothom Alo, Jamuna TV, The Daily Star",
-  "status": "posted",
-  "at": "2026-07-26T08:08:44Z",
-  "results": {
-   "facebook": "1237737746078842_122118117789361546",
-   "instagram": "18088318640402053",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "d852dc56920773b3",
-  "url": "https://www.jamuna.tv/national/660790",
-  "headline": "Acting President Hafiz Uddin pays tribute to Liberation War martyrs at National Memorial, Savar",
-  "topic": "acting-president-hafiz-uddin-tributes",
-  "source": "Prothom Alo, Jamuna TV, The Daily Star",
-  "status": "posted",
-  "at": "2026-07-26T08:08:44Z",
-  "results": {
-   "facebook": "1237737746078842_122118117789361546",
-   "instagram": "18088318640402053",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "931035c89faea433",
-  "url": "https://www.dhakatribune.com/bangladesh/court/415998/hc-issues-rule-over-tk-50l-compensation-in-st",
-  "headline": "Bhatara gas leak: All 3 family members dead after explosion",
-  "topic": "bhatara-gas-explosion-last-victim-dies",
-  "source": "Dhaka Tribune, The Daily Star",
-  "status": "posted",
-  "at": "2026-07-26T09:09:01Z",
-  "results": {
-   "facebook": "1237737746078842_122118125775361546",
-   "instagram": "18136843012512015",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "b60a2a69a0a0ba1c",
-  "url": "https://www.dhakatribune.com/bangladesh/dhaka/415988/bhatara-gas-explosion-last-surviving-victim-dies",
-  "headline": "Bhatara gas leak: All 3 family members dead after explosion",
-  "topic": "bhatara-gas-explosion-last-victim-dies",
-  "source": "Dhaka Tribune, The Daily Star",
-  "status": "posted",
-  "at": "2026-07-26T09:09:01Z",
-  "results": {
-   "facebook": "1237737746078842_122118125775361546",
-   "instagram": "18136843012512015",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "78923852b63e5481",
   "url": "https://www.thedailystar.net/news/accidents-fires/news/all-3-family-members-bhatara-gas-leak-explosion-dead-4232381",
   "headline": "Bhatara gas leak: All 3 family members dead after explosion",
@@ -8398,5 +8328,50 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "a467eca6cc994264",
+  "url": "https://www.prothomalo.com/video/international/extqnuj2od",
+  "headline": "13 dead after tourist plane crashes in Peru",
+  "topic": "peru-tourist-plane-crash-13-dead",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-02T10:07:30Z"
+ },
+ {
+  "title_hash": "9d89135d8675ad1e",
+  "url": "https://www.prothomalo.com/world/south-america/4gp1be7k4z",
+  "headline": "13 dead after tourist plane crashes in Peru",
+  "topic": "peru-tourist-plane-crash-13-dead",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-02T10:07:30Z"
+ },
+ {
+  "title_hash": "3292a8dbfc032085",
+  "url": "https://www.dhakatribune.com/bangladesh/education/416521/joining-date-for-14-384-primary-teachers-brought",
+  "headline": "14,384 primary teachers to join on Oct 1",
+  "topic": "primary-teachers-join-october-1",
+  "source": "Jamuna TV, Dhaka Tribune, The Daily Star",
+  "status": "queued",
+  "at": "2026-08-02T10:07:30Z"
+ },
+ {
+  "title_hash": "8aeabdaf8d793897",
+  "url": "https://www.jamuna.tv/national/661365",
+  "headline": "14,384 primary teachers to join on Oct 1",
+  "topic": "primary-teachers-join-october-1",
+  "source": "Jamuna TV, Dhaka Tribune, The Daily Star",
+  "status": "queued",
+  "at": "2026-08-02T10:07:30Z"
+ },
+ {
+  "title_hash": "1b060f758b4d3f4c",
+  "url": "https://www.thedailystar.net/news/education/news/14384-primary-teacher-recruits-join-oct-1-4238196",
+  "headline": "14,384 primary teachers to join on Oct 1",
+  "topic": "primary-teachers-join-october-1",
+  "source": "Jamuna TV, Dhaka Tribune, The Daily Star",
+  "status": "queued",
+  "at": "2026-08-02T10:07:30Z"
  }
 ]
