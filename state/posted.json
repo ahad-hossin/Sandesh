@@ -1,75 +1,5 @@
 [
  {
-  "title_hash": "ddcdcd01471f4842",
-  "url": "https://www.prothomalo.com/bangladesh/district/cfvcwgf249",
-  "headline": "Health Minister finds expired medicines in toilet at Morrelganj health complex",
-  "topic": "health-minister-finds-expired-medicines-at-health-complex",
-  "source": "Dhaka Tribune, Prothom Alo",
-  "status": "posted",
-  "at": "2026-07-25T16:07:58Z",
-  "results": {
-   "facebook": "1237737746078842_122117972487361546",
-   "instagram": "18111455134957100",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "72297214283d71b8",
-  "url": "https://www.dhakatribune.com/bangladesh/415972/bbs-survey-over-57%25-of-bangladeshi-households-now",
-  "headline": "Over 57% of Bangladeshi households now have internet access, BBS survey says",
-  "topic": "bangladesh-households-internet-access-rises-to-over-57-percent",
-  "source": "Dhaka Tribune",
-  "status": "posted",
-  "at": "2026-07-25T16:07:58Z",
-  "results": {
-   "facebook": "1237737746078842_122117972817361546",
-   "instagram": "18607819390005450",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "85dfb1b2dd62f32f",
-  "url": "https://www.dhakatribune.com/bangladesh/weather/415970/maritime-ports-asked-to-hoist-cautionary-signal-no",
-  "headline": "Weather Alert: Maritime ports asked to hoist cautionary signal No 3",
-  "topic": "maritime-ports-cautionary-signal-3",
-  "source": "Dhaka Tribune",
-  "status": "posted",
-  "at": "2026-07-25T17:08:18Z",
-  "results": {
-   "facebook": "1237737746078842_122117985063361546",
-   "instagram": "18089293808410600",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "efb28e206f4c86cf",
-  "url": "https://www.dhakatribune.com/bangladesh/nation/415965/heavy-rains-push-up-vegetable-fish-prices-in",
-  "headline": "Heavy rains push up vegetable, fish prices in Gopalganj",
-  "topic": "heavy-rains-push-up-veg-fish-prices",
-  "source": "Dhaka Tribune",
-  "status": "posted",
-  "at": "2026-07-25T17:08:18Z",
-  "results": {
-   "facebook": "1237737746078842_122117985351361546",
-   "instagram": "18077727524691381",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "9689fb3237312ed7",
-  "url": "https://www.dhakatribune.com/bangladesh/foreign-affairs/415982/two-sri-lankan-fishermen-rescued-in-maheshkhali",
-  "headline": "36 days at sea: Two Sri Lankan fishermen rescued in Maheshkhali",
-  "topic": "sri-lankan-fishermen-rescued-maheshkhali",
-  "source": "Dhaka Tribune, Prothom Alo",
-  "status": "posted",
-  "at": "2026-07-25T19:07:47Z",
-  "results": {
-   "facebook": "1237737746078842_122118000519361546",
-   "instagram": "18005882186765355",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "0a51a4ee54e15f70",
   "url": "https://www.prothomalo.com/bangladesh/district/x9pir0m55y",
   "headline": "36 days at sea: Two Sri Lankan fishermen rescued in Maheshkhali",
@@ -8398,5 +8328,50 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "53163cf90ff1d11f",
+  "url": "https://www.prothomalo.com/world/middle-east/xxnt2xvhk9",
+  "headline": "US-Israel plan major attacks on Iran as Trump faces conflicting advice from allies",
+  "topic": "us-iran-attack-plans",
+  "source": "Prothom Alo, Somoy News",
+  "status": "queued",
+  "at": "2026-08-02T01:08:26Z"
+ },
+ {
+  "title_hash": "9fcdd32191537618",
+  "url": "https://www.prothomalo.com/world/middle-east/rngdfi1znh",
+  "headline": "US-Israel plan major attacks on Iran as Trump faces conflicting advice from allies",
+  "topic": "us-iran-attack-plans",
+  "source": "Prothom Alo, Somoy News",
+  "status": "queued",
+  "at": "2026-08-02T01:08:26Z"
+ },
+ {
+  "title_hash": "f473f71d7e9254e2",
+  "url": "https://www.somoynews.tv/news/2026-08-01/MuSX9HBP",
+  "headline": "US-Israel plan major attacks on Iran as Trump faces conflicting advice from allies",
+  "topic": "us-iran-attack-plans",
+  "source": "Prothom Alo, Somoy News",
+  "status": "queued",
+  "at": "2026-08-02T01:08:26Z"
+ },
+ {
+  "title_hash": "a84a270315bc948f",
+  "url": "https://www.jamuna.tv/all-bangladesh/661331",
+  "headline": "Body exhumed 12 hours after burial in Jamalpur due to 'jinn possession' claim, creating sensation",
+  "topic": "jamalpur-body-exhumed",
+  "source": "Jamuna TV",
+  "status": "queued",
+  "at": "2026-08-02T01:08:26Z"
+ },
+ {
+  "title_hash": "a84a270315bc948f",
+  "url": "https://www.jamuna.tv/all-bangladesh/661330",
+  "headline": "Body exhumed 12 hours after burial in Jamalpur due to 'jinn possession' claim, creating sensation",
+  "topic": "jamalpur-body-exhumed",
+  "source": "Jamuna TV",
+  "status": "queued",
+  "at": "2026-08-02T01:08:26Z"
  }
 ]
