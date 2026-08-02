@@ -8377,8 +8377,13 @@
   "headline": "Wife accused of killing husband with sleeping pills in Barguna; suspect absconding.",
   "topic": "wife-accused-killing-husband-barguna",
   "source": "Somoy News",
-  "status": "queued",
-  "at": "2026-08-02T02:07:57Z"
+  "status": "failed",
+  "at": "2026-08-02T02:07:57Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "a03bd07103db8339",
@@ -8386,7 +8391,12 @@
   "headline": "Gold worth over 13 crore Taka found on a young man's body",
   "topic": "youth-caught-with-13-crore-gold",
   "source": "Somoy News",
-  "status": "queued",
-  "at": "2026-08-02T02:07:57Z"
+  "status": "failed",
+  "at": "2026-08-02T02:07:57Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
