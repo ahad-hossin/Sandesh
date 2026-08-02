@@ -1,33 +1,5 @@
 [
  {
-  "title_hash": "808c0ff1712b294b",
-  "url": "https://www.dhakatribune.com/bangladesh/accidents/416055/pedestrian-killed-as-bus-ploughs-into-kurmitola",
-  "headline": "Pedestrian killed as bus crashes onto footpath near Kurmitola Hospital",
-  "topic": "bus-crash-kurmitola-hospital-pedestrian-killed",
-  "source": "The Daily Star, Dhaka Tribune, Prothom Alo",
-  "status": "posted",
-  "at": "2026-07-26T20:08:05Z",
-  "results": {
-   "facebook": "1237737746078842_122118228795361546",
-   "instagram": "17900785386522447",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "748262dce90d6738",
-  "url": "https://www.prothomalo.com/bangladesh/capital/mm6bzbj4eo",
-  "headline": "Pedestrian killed as bus crashes onto footpath near Kurmitola Hospital",
-  "topic": "bus-crash-kurmitola-hospital-pedestrian-killed",
-  "source": "The Daily Star, Dhaka Tribune, Prothom Alo",
-  "status": "posted",
-  "at": "2026-07-26T20:08:05Z",
-  "results": {
-   "facebook": "1237737746078842_122118228795361546",
-   "instagram": "17900785386522447",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "bf8c8ec3e7ec7de8",
   "url": "https://www.dhakatribune.com/bangladesh/power-energy/416047/kurigram-braces-for-week-long-load-shedding-from",
   "headline": "Kurigram faces week-long load shedding from July 29",
@@ -8398,5 +8370,23 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "6b248ac2299dbb05",
+  "url": "https://www.dhakatribune.com/bangladesh/416570/dubai-bail-claim-sparks-fresh-race-to-bring",
+  "headline": "Dubai bail claim: Race to bring Benazir home sparks",
+  "topic": "benazir-dubai-bail-challenge",
+  "source": "Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-08-02T15:07:47Z"
+ },
+ {
+  "title_hash": "e8af485820ae33d2",
+  "url": "https://www.dhakatribune.com/bangladesh/416567/home-minister-law-firm-appointed-to-seek",
+  "headline": "Home Minister says law firm appointed to seek Benazir's return from UAE",
+  "topic": "benazir-return-process-uae",
+  "source": "Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-08-02T15:07:47Z"
  }
 ]
