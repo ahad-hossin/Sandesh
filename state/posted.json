@@ -8321,8 +8321,13 @@
   "headline": "Death penalty for enforced disappearances: Cabinet approves draft law",
   "topic": "enforced-disappearance-law-approved",
   "source": "Dhaka Tribune, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-03T18:07:46Z"
+  "status": "failed",
+  "at": "2026-08-03T18:07:46Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "297c6cd035ec79a1",
@@ -8330,8 +8335,13 @@
   "headline": "Death penalty for enforced disappearances: Cabinet approves draft law",
   "topic": "enforced-disappearance-law-approved",
   "source": "Dhaka Tribune, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-03T18:07:46Z"
+  "status": "failed",
+  "at": "2026-08-03T18:07:46Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "c105d59d2d435cc5",
@@ -8339,8 +8349,13 @@
   "headline": "Bangladesh asks India to stop Sheikh Hasina from making political speeches",
   "topic": "bangladesh-india-hasina-political-speech",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-03T18:07:46Z"
+  "status": "failed",
+  "at": "2026-08-03T18:07:46Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "5b0f843e98bcf358",
@@ -8348,8 +8363,13 @@
   "headline": "Bangladesh asks India to stop Sheikh Hasina from making political speeches",
   "topic": "bangladesh-india-hasina-political-speech",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-03T18:07:46Z"
+  "status": "failed",
+  "at": "2026-08-03T18:07:46Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "42d0d6b7d9a69723",
@@ -8357,8 +8377,13 @@
   "headline": "Bangladesh asks India to stop Sheikh Hasina from making political speeches",
   "topic": "bangladesh-india-hasina-political-speech",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-03T18:07:46Z"
+  "status": "failed",
+  "at": "2026-08-03T18:07:46Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "3635934068d30e51",
@@ -8366,7 +8391,12 @@
   "headline": "Bangladesh asks India to stop Sheikh Hasina from making political speeches",
   "topic": "bangladesh-india-hasina-political-speech",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-03T18:07:46Z"
+  "status": "failed",
+  "at": "2026-08-03T18:07:46Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
