@@ -8349,8 +8349,13 @@
   "headline": "Tk 6.67cr corruption: Court frames charges against ex-NBR official Matiur",
   "topic": "matiur-graft-charges-framed",
   "source": "The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-03T10:07:38Z"
+  "status": "failed",
+  "at": "2026-08-03T10:07:38Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "1d9f02fc3b7f09c2",
@@ -8358,8 +8363,13 @@
   "headline": "Tk 6.67cr corruption: Court frames charges against ex-NBR official Matiur",
   "topic": "matiur-graft-charges-framed",
   "source": "The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-03T10:07:38Z"
+  "status": "failed",
+  "at": "2026-08-03T10:07:38Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "e53f57493a9bd02b",
@@ -8367,8 +8377,13 @@
   "headline": "847 dead as measles outbreak kills three in 24 hours",
   "topic": "measles-outbreak-death-toll-reaches-847",
   "source": "Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-08-03T10:07:38Z"
+  "status": "failed",
+  "at": "2026-08-03T10:07:38Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "b22d138a3fe1c172",
@@ -8376,7 +8391,12 @@
   "headline": "847 dead as measles outbreak kills three in 24 hours",
   "topic": "measles-outbreak-death-toll-reaches-847",
   "source": "Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-08-03T10:07:38Z"
+  "status": "failed",
+  "at": "2026-08-03T10:07:38Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
