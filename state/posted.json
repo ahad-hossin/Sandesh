@@ -1,75 +1,5 @@
 [
  {
-  "title_hash": "eb02c1f87472f1ce",
-  "url": "https://www.thedailystar.net/opinion/editorial/news/stop-cyberbullying-women-4234996",
-  "headline": "Barishal City Corporation appoints first transgender employee",
-  "topic": "barishal-city-corporation-transgender-employee-inclusion",
-  "source": "The Daily Star",
-  "status": "posted",
-  "at": "2026-07-29T09:07:48Z",
-  "results": {
-   "facebook": "1237737746078842_122118842535361546",
-   "instagram": "17973209376094513",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "c40d5ee5fe1751b8",
-  "url": "https://www.jamuna.tv/international/661050",
-  "headline": "Chaos in Lok Sabha: Rahul Gandhi alleges Amit Shah ordered shooting of students",
-  "topic": "indian-politics-parliament-chaos-rahul-gandhi-amit-shah",
-  "source": "Jamuna TV",
-  "status": "posted",
-  "at": "2026-07-29T10:07:18Z",
-  "results": {
-   "facebook": "1237737746078842_122118851631361546",
-   "instagram": "17899577565483507",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "827343c75777d616",
-  "url": "https://www.jamuna.tv/international/661049",
-  "headline": "Chaos in Lok Sabha: Rahul Gandhi alleges Amit Shah ordered shooting of students",
-  "topic": "indian-politics-parliament-chaos-rahul-gandhi-amit-shah",
-  "source": "Jamuna TV",
-  "status": "posted",
-  "at": "2026-07-29T10:07:18Z",
-  "results": {
-   "facebook": "1237737746078842_122118851631361546",
-   "instagram": "17899577565483507",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "a86e98984994518b",
-  "url": "https://www.dhakatribune.com/bangladesh/government-affairs/416245/government-spending-must-improve-people%E2%80%99s-lives",
-  "headline": "Fakhrul Islam Alamgir: Government spending must improve people’s lives",
-  "topic": "fakhrul-govt-spending-people-lives",
-  "source": "Dhaka Tribune",
-  "status": "posted",
-  "at": "2026-07-29T10:07:18Z",
-  "results": {
-   "facebook": "1237737746078842_122118851925361546",
-   "instagram": "17958787443178748",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "b4fcaabf01cb7d0c",
-  "url": "https://www.dhakatribune.com/bangladesh/health/416249/measles-outbreak-death-toll-reaches-831-as-three",
-  "headline": "534 hospitalized as 3 more die of dengue in 24 hours",
-  "topic": "measles-deaths-surge-831",
-  "source": "Jamuna TV, Dhaka Tribune",
-  "status": "posted",
-  "at": "2026-07-29T11:08:31Z",
-  "results": {
-   "facebook": "1237737746078842_122118863109361546",
-   "instagram": "18017237639861196",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "1b4f2123dc749b65",
   "url": "https://www.jamuna.tv/national/661058",
   "headline": "534 hospitalized as 3 more die of dengue in 24 hours",
@@ -8398,5 +8328,50 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "fea8c9d504dd59bf",
+  "url": "https://www.dhakatribune.com/bangladesh/416579/mahdi-amin-govt-to-implement-july-charter-ensure",
+  "headline": "Tribunal investigation reveals weapons on RAB helicopter during July uprising",
+  "topic": "july-uprising-rab-helicopter-weapons",
+  "source": "Prothom Alo, Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-08-03T03:08:08Z"
+ },
+ {
+  "title_hash": "f719a1add7b2585c",
+  "url": "https://www.prothomalo.com/video/bangladesh/tlf7frhiwi",
+  "headline": "Tribunal investigation reveals weapons on RAB helicopter during July uprising",
+  "topic": "july-uprising-rab-helicopter-weapons",
+  "source": "Prothom Alo, Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-08-03T03:08:08Z"
+ },
+ {
+  "title_hash": "fd6370714f7157f6",
+  "url": "https://www.thedailystar.net/news/bangladesh/news/after-measles-debt-crushes-the-poor-4238801",
+  "headline": "Nearly 9 in 10 families borrowed money due to measles outbreak in Bangladesh: Assessment",
+  "topic": "adenovirus-increases-measles-risk",
+  "source": "Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-08-03T03:08:08Z"
+ },
+ {
+  "title_hash": "85dfa296210fffff",
+  "url": "https://www.prothomalo.com/bangladesh/eddino-bhaairaas-baarraacche-haamer-rogiir-jhunki",
+  "headline": "Nearly 9 in 10 families borrowed money due to measles outbreak in Bangladesh: Assessment",
+  "topic": "adenovirus-increases-measles-risk",
+  "source": "Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-08-03T03:08:08Z"
+ },
+ {
+  "title_hash": "4c820228a7b8960b",
+  "url": "https://www.prothomalo.com/bangladesh/4gyjh2p0pn",
+  "headline": "Nearly 9 in 10 families borrowed money due to measles outbreak in Bangladesh: Assessment",
+  "topic": "adenovirus-increases-measles-risk",
+  "source": "Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-08-03T03:08:08Z"
  }
 ]
