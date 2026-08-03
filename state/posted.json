@@ -8363,8 +8363,13 @@
   "headline": "Justice for July killings to be ensured, but interim govt faces discrimination allegations",
   "topic": "july-killings-justice-discrimination",
   "source": "Somoy News",
-  "status": "queued",
-  "at": "2026-08-03T01:08:07Z"
+  "status": "failed",
+  "at": "2026-08-03T01:08:07Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "0f847583aa2bd589",
@@ -8372,8 +8377,13 @@
   "headline": "Justice for July killings to be ensured, but interim govt faces discrimination allegations",
   "topic": "july-killings-justice-discrimination",
   "source": "Somoy News",
-  "status": "queued",
-  "at": "2026-08-03T01:08:07Z"
+  "status": "failed",
+  "at": "2026-08-03T01:08:07Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "26096f0e88c0aea3",
@@ -8381,7 +8391,12 @@
   "headline": "Hilsa fish not found in sea, creating crisis for fishermen and traders",
   "topic": "hilsa-fishing-crisis",
   "source": "Somoy News",
-  "status": "queued",
-  "at": "2026-08-03T01:08:07Z"
+  "status": "failed",
+  "at": "2026-08-03T01:08:07Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
