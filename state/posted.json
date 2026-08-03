@@ -8349,8 +8349,13 @@
   "headline": "Death penalty for enforced disappearance criminalized by Cabinet",
   "topic": "cabinet-approves-enforced-disappearance-law",
   "source": "Dhaka Tribune, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-03T21:07:18Z"
+  "status": "failed",
+  "at": "2026-08-03T21:07:18Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "9dd7c9a195e3ef1f",
@@ -8358,8 +8363,13 @@
   "headline": "Death penalty for enforced disappearance criminalized by Cabinet",
   "topic": "cabinet-approves-enforced-disappearance-law",
   "source": "Dhaka Tribune, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-03T21:07:18Z"
+  "status": "failed",
+  "at": "2026-08-03T21:07:18Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "58deaba8db0bca06",
@@ -8367,8 +8377,13 @@
   "headline": "Bangladesh asks India to block Hasina's political activities on its soil",
   "topic": "bangladesh-india-hasina-political-activity",
   "source": "Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-03T21:07:18Z"
+  "status": "failed",
+  "at": "2026-08-03T21:07:18Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "c105d59d2d435cc5",
@@ -8376,7 +8391,12 @@
   "headline": "Bangladesh asks India to block Hasina's political activities on its soil",
   "topic": "bangladesh-india-hasina-political-activity",
   "source": "Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-03T21:07:18Z"
+  "status": "failed",
+  "at": "2026-08-03T21:07:18Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
