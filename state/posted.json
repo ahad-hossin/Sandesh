@@ -8377,8 +8377,13 @@
   "headline": "3 deaths from dengue in 24 hours, 580 newly hospitalized",
   "topic": "bangladesh-dengue-deaths-and-hospitalizations",
   "source": "Jamuna TV",
-  "status": "queued",
-  "at": "2026-08-03T11:08:06Z"
+  "status": "failed",
+  "at": "2026-08-03T11:08:06Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "60f2cf598698bc39",
@@ -8386,7 +8391,12 @@
   "headline": "847 children dead as measles symptoms claim 3 more lives in 24 hours",
   "topic": "bangladesh-measles-outbreak-deaths",
   "source": "Jamuna TV",
-  "status": "queued",
-  "at": "2026-08-03T11:08:06Z"
+  "status": "failed",
+  "at": "2026-08-03T11:08:06Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
