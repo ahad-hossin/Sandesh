@@ -8349,8 +8349,13 @@
   "headline": "Court frames graft charges against Matiur, ex-NBR official linked to Tk 15 lakh goat",
   "topic": "matiur-goat-controversy-trial",
   "source": "The Daily Star, Somoy News",
-  "status": "queued",
-  "at": "2026-08-03T13:07:32Z"
+  "status": "failed",
+  "at": "2026-08-03T13:07:32Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "31020625ad967fab",
@@ -8358,8 +8363,13 @@
   "headline": "Court frames graft charges against Matiur, ex-NBR official linked to Tk 15 lakh goat",
   "topic": "matiur-goat-controversy-trial",
   "source": "The Daily Star, Somoy News",
-  "status": "queued",
-  "at": "2026-08-03T13:07:32Z"
+  "status": "failed",
+  "at": "2026-08-03T13:07:32Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "541a1062251484af",
@@ -8367,8 +8377,13 @@
   "headline": "Tk 2.33C embezzlement: Ex-Somoy TV MD shown arrested",
   "topic": "somoy-tv-md-arrest-embezzlement",
   "source": "Dhaka Tribune, Somoy News",
-  "status": "queued",
-  "at": "2026-08-03T13:07:32Z"
+  "status": "failed",
+  "at": "2026-08-03T13:07:32Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "935d14311152095e",
@@ -8376,7 +8391,12 @@
   "headline": "Tk 2.33C embezzlement: Ex-Somoy TV MD shown arrested",
   "topic": "somoy-tv-md-arrest-embezzlement",
   "source": "Dhaka Tribune, Somoy News",
-  "status": "queued",
-  "at": "2026-08-03T13:07:32Z"
+  "status": "failed",
+  "at": "2026-08-03T13:07:32Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
