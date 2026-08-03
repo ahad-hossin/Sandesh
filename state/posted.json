@@ -1,61 +1,5 @@
 [
  {
-  "title_hash": "996d919348ef1a19",
-  "url": "https://www.dhakatribune.com/bangladesh/416264/ipc-analysis-over-15.3-million-bangladeshis-face",
-  "headline": "IPC: Over 15.3 million Bangladeshis face acute food insecurity",
-  "topic": "bangladesh-acute-food-insecurity",
-  "source": "Dhaka Tribune",
-  "status": "posted",
-  "at": "2026-07-30T00:09:59Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"We limit how often you can post, ",
-   "instagram": "17900591607521605",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "f4baa89eef5313fe",
-  "url": "https://www.thedailystar.net/news/bangladesh/news/cyber-scam-trafficking-the-new-menace-4236006",
-  "headline": "Bangladeshi jobseekers lured into cyber-scam compounds in Southeast Asia",
-  "topic": "cyber-scam-trafficking-bangladeshis",
-  "source": "The Daily Star",
-  "status": "posted",
-  "at": "2026-07-30T00:09:59Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"We limit how often you can post, ",
-   "instagram": "18137619739602518",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "d03e7350b138147c",
-  "url": "https://www.thedailystar.net/news/bangladesh/news/meds-running-out-labs-falling-apart-4235946",
-  "headline": "Bangladesh public health facilities face severe medicine shortages and disrupted lab services, study finds",
-  "topic": "public-health-meds-shortage-labs-disrupted",
-  "source": "The Daily Star",
-  "status": "posted",
-  "at": "2026-07-30T01:07:53Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"We limit how often you can post, ",
-   "instagram": "17875117947535496",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "f15c938e848c6daf",
-  "url": "https://www.thedailystar.net/business/economy/news/textile-millers-seek-pms-help-gas-crisis-4235781",
-  "headline": "Textile mill production halved amid gas crisis, millers seek PM's urgent intervention",
-  "topic": "textile-millers-seek-pm-help-gas-crisis",
-  "source": "The Daily Star",
-  "status": "posted",
-  "at": "2026-07-30T01:07:53Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"We limit how often you can post, ",
-   "instagram": "18002762279978821",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "45280ea1f99564f2",
   "url": "https://www.prothomalo.com/bangladesh/geogo6nyn7",
   "headline": "10 years in jail for spreading rumors and misinformation under amended Cyber Security Act",
@@ -8398,5 +8342,41 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "d67415fe8e4670f7",
+  "url": "https://www.dhakatribune.com/bangladesh/416657/cabinet-approves-draft-law-criminalizing-enforced",
+  "headline": "Death penalty possible as Cabinet approves draft law criminalizing enforced disappearance",
+  "topic": "cabinet-approves-enforced-disappearance-law",
+  "source": "Dhaka Tribune, Somoy News",
+  "status": "queued",
+  "at": "2026-08-03T19:06:53Z"
+ },
+ {
+  "title_hash": "54929f7c51d7afdf",
+  "url": "https://www.somoynews.tv/news/2026-08-03/03HC7BZ4",
+  "headline": "Death penalty possible as Cabinet approves draft law criminalizing enforced disappearance",
+  "topic": "cabinet-approves-enforced-disappearance-law",
+  "source": "Dhaka Tribune, Somoy News",
+  "status": "queued",
+  "at": "2026-08-03T19:06:53Z"
+ },
+ {
+  "title_hash": "39907a0cfd797fd4",
+  "url": "https://www.jamuna.tv/national/661463",
+  "headline": "Saudi Deputy Foreign Minister arrives in Dhaka on two-day visit",
+  "topic": "saudi-deputy-foreign-minister-visit-dhaka",
+  "source": "Jamuna TV, Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-03T19:06:53Z"
+ },
+ {
+  "title_hash": "301895891ae78430",
+  "url": "https://www.prothomalo.com/bangladesh/konj3peoky",
+  "headline": "Saudi Deputy Foreign Minister arrives in Dhaka on two-day visit",
+  "topic": "saudi-deputy-foreign-minister-visit-dhaka",
+  "source": "Jamuna TV, Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-03T19:06:53Z"
  }
 ]
