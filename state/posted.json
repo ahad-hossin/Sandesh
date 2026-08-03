@@ -1,75 +1,5 @@
 [
  {
-  "title_hash": "88b8496538ea9d4f",
-  "url": "https://www.jamuna.tv/national/661020",
-  "headline": "SC clears way for Sarwar Alamgir to perform MP duties",
-  "topic": "sarwar-alamgir-mp-duties-cleared",
-  "source": "Dhaka Tribune, Jamuna TV",
-  "status": "posted",
-  "at": "2026-07-29T05:07:47Z",
-  "results": {
-   "facebook": "1237737746078842_122118806871361546",
-   "instagram": "18082478108689988",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "c5c99d4dd4bc925a",
-  "url": "https://www.prothomalo.com/politics/raassttrpti-nirbaacn-aagstte-phkhrulke-niyye-sb-aalocnaa",
-  "headline": "August election: Mirza Fakhrul Islam Alamgir likely candidate for President",
-  "topic": "presidential-election-august-fakhrul",
-  "source": "Prothom Alo",
-  "status": "posted",
-  "at": "2026-07-29T05:07:47Z",
-  "results": {
-   "facebook": "1237737746078842_122118807033361546",
-   "instagram": "18074403866695934",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "b1d16941137c1549",
-  "url": "https://www.prothomalo.com/politics/bdpotyxtgz",
-  "headline": "August election: Mirza Fakhrul Islam Alamgir likely candidate for President",
-  "topic": "presidential-election-august-fakhrul",
-  "source": "Prothom Alo",
-  "status": "posted",
-  "at": "2026-07-29T05:07:47Z",
-  "results": {
-   "facebook": "1237737746078842_122118807033361546",
-   "instagram": "18074403866695934",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "abcb95bd9be814bb",
-  "url": "https://www.dhakatribune.com/bangladesh/foreign-affairs/416231/russia-proposes-rupee-payments-for-rooppur-as",
-  "headline": "Russia proposes rupee payments for Rooppur as Dhaka weighs sanctions risks",
-  "topic": "bangladesh-russia-ruppur-payment-deal",
-  "source": "Dhaka Tribune",
-  "status": "posted",
-  "at": "2026-07-29T06:10:15Z",
-  "results": {
-   "facebook": "1237737746078842_122118816585361546",
-   "instagram": "18323458684263679",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "7286abb7180c0250",
-  "url": "https://www.thedailystar.net/business/economy/news/gas-crisis-strikes-paracetamol-api-other-industries-4235016",
-  "headline": "Gas crisis: Paracetamol raw material production halted in Bangladesh",
-  "topic": "dhaka-cng-stations-gas-crisis",
-  "source": "Somoy News, The Daily Star",
-  "status": "posted",
-  "at": "2026-07-29T06:10:15Z",
-  "results": {
-   "facebook": "1237737746078842_122118816825361546",
-   "instagram": "18176489197424736",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "a5390537a2793fcd",
   "url": "https://www.somoynews.tv/news/2026-07-29/0JNBs6SJ",
   "headline": "Gas crisis: Paracetamol raw material production halted in Bangladesh",
@@ -8398,5 +8328,50 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "dff28f0a1b2f33de",
+  "url": "https://www.dhakatribune.com/bangladesh/dhaka/416575/gas-shortage-disrupts-transport-services-across",
+  "headline": "Gas shortage disrupts transport and sparks power cuts across Bangladesh",
+  "topic": "gas-shortage-transport-disruption",
+  "source": "Dhaka Tribune, Somoy News, The Daily Star",
+  "status": "queued",
+  "at": "2026-08-03T00:09:30Z"
+ },
+ {
+  "title_hash": "30fbbbc808a2a21e",
+  "url": "https://www.somoynews.tv/news/2026-08-02/Ty8uW6tR",
+  "headline": "Gas shortage disrupts transport and sparks power cuts across Bangladesh",
+  "topic": "gas-shortage-transport-disruption",
+  "source": "Dhaka Tribune, Somoy News, The Daily Star",
+  "status": "queued",
+  "at": "2026-08-03T00:09:30Z"
+ },
+ {
+  "title_hash": "ed294f020fc7bb40",
+  "url": "https://www.thedailystar.net/news/bangladesh/news/gas-shortage-sparks-extensive-power-cuts-4238811",
+  "headline": "Gas shortage disrupts transport and sparks power cuts across Bangladesh",
+  "topic": "gas-shortage-transport-disruption",
+  "source": "Dhaka Tribune, Somoy News, The Daily Star",
+  "status": "queued",
+  "at": "2026-08-03T00:09:30Z"
+ },
+ {
+  "title_hash": "e4838529c12bad1b",
+  "url": "https://www.dhakatribune.com/bangladesh/politics/416584/jamaat-voices-concern-over-lpg-price-hike",
+  "headline": "LPG price hike effective from evening in Bangladesh; Jamaat expresses concern",
+  "topic": "lpg-price-hike-bangladesh",
+  "source": "Dhaka Tribune, Somoy News",
+  "status": "queued",
+  "at": "2026-08-03T00:09:30Z"
+ },
+ {
+  "title_hash": "27f795ede26ea59e",
+  "url": "https://www.somoynews.tv/news/2026-08-02/LW8BytVC",
+  "headline": "LPG price hike effective from evening in Bangladesh; Jamaat expresses concern",
+  "topic": "lpg-price-hike-bangladesh",
+  "source": "Dhaka Tribune, Somoy News",
+  "status": "queued",
+  "at": "2026-08-03T00:09:30Z"
  }
 ]
