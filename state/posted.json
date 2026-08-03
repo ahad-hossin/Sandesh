@@ -8335,8 +8335,13 @@
   "headline": "Benazir Ahmed granted bail in UAE court, Bangladesh seeks cancellation",
   "topic": "benazir-ahmed-bail-uae-return",
   "source": "Dhaka Tribune, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-03T02:07:35Z"
+  "status": "failed",
+  "at": "2026-08-03T02:07:35Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "6b248ac2299dbb05",
@@ -8344,8 +8349,13 @@
   "headline": "Benazir Ahmed granted bail in UAE court, Bangladesh seeks cancellation",
   "topic": "benazir-ahmed-bail-uae-return",
   "source": "Dhaka Tribune, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-03T02:07:35Z"
+  "status": "failed",
+  "at": "2026-08-03T02:07:35Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "4126bdbc9c6099c8",
@@ -8353,8 +8363,13 @@
   "headline": "Benazir Ahmed granted bail in UAE court, Bangladesh seeks cancellation",
   "topic": "benazir-ahmed-bail-uae-return",
   "source": "Dhaka Tribune, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-03T02:07:35Z"
+  "status": "failed",
+  "at": "2026-08-03T02:07:35Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "dff28f0a1b2f33de",
@@ -8362,8 +8377,13 @@
   "headline": "Power cuts intensify across Bangladesh due to gas shortage, impacting daily life and industry",
   "topic": "nationwide-gas-power-shortage",
   "source": "Dhaka Tribune, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-03T02:07:35Z"
+  "status": "failed",
+  "at": "2026-08-03T02:07:35Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "ed294f020fc7bb40",
@@ -8371,7 +8391,12 @@
   "headline": "Power cuts intensify across Bangladesh due to gas shortage, impacting daily life and industry",
   "topic": "nationwide-gas-power-shortage",
   "source": "Dhaka Tribune, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-03T02:07:35Z"
+  "status": "failed",
+  "at": "2026-08-03T02:07:35Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
