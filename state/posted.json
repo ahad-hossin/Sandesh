@@ -8377,8 +8377,13 @@
   "headline": "Over 300k rounds fired: Police reform remains stalled despite July uprising",
   "topic": "police-reform-priority-analysis",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-03T08:08:20Z"
+  "status": "failed",
+  "at": "2026-08-03T08:08:20Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "db52fa9eabdda26e",
@@ -8386,7 +8391,12 @@
   "headline": "PM appeals for public help to keep Bangladesh clean and litter-free",
   "topic": "pm-appeal-clean-bangladesh",
   "source": "Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-08-03T08:08:20Z"
+  "status": "failed",
+  "at": "2026-08-03T08:08:20Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
