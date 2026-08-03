@@ -8335,8 +8335,13 @@
   "headline": "Ex-Rab commander says gunfights were staged to kill victims",
   "topic": "ex-rab-commander-staged-gunfights-testimony",
   "source": "The Daily Star",
-  "status": "queued",
-  "at": "2026-08-03T17:07:48Z"
+  "status": "failed",
+  "at": "2026-08-03T17:07:48Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "276c662c3d8b5283",
@@ -8344,8 +8349,13 @@
   "headline": "Ex-Rab commander says gunfights were staged to kill victims",
   "topic": "ex-rab-commander-staged-gunfights-testimony",
   "source": "The Daily Star",
-  "status": "queued",
-  "at": "2026-08-03T17:07:48Z"
+  "status": "failed",
+  "at": "2026-08-03T17:07:48Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "d67415fe8e4670f7",
@@ -8353,8 +8363,13 @@
   "headline": "Death penalty proposed as cabinet approves draft law criminalizing enforced disappearance",
   "topic": "enforced-disappearance-criminalization-law",
   "source": "Dhaka Tribune, The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-03T17:07:48Z"
+  "status": "failed",
+  "at": "2026-08-03T17:07:48Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "9ee2cc75e3d8e01c",
@@ -8362,8 +8377,13 @@
   "headline": "Death penalty proposed as cabinet approves draft law criminalizing enforced disappearance",
   "topic": "enforced-disappearance-criminalization-law",
   "source": "Dhaka Tribune, The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-03T17:07:48Z"
+  "status": "failed",
+  "at": "2026-08-03T17:07:48Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "297c6cd035ec79a1",
@@ -8371,7 +8391,12 @@
   "headline": "Death penalty proposed as cabinet approves draft law criminalizing enforced disappearance",
   "topic": "enforced-disappearance-criminalization-law",
   "source": "Dhaka Tribune, The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-03T17:07:48Z"
+  "status": "failed",
+  "at": "2026-08-03T17:07:48Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
