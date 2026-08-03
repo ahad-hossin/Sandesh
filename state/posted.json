@@ -8349,8 +8349,13 @@
   "headline": "9 in 10 families borrow money for measles treatment in Bangladesh",
   "topic": "measles-outbreak-treatment-cost",
   "source": "Dhaka Tribune, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-03T09:08:07Z"
+  "status": "failed",
+  "at": "2026-08-03T09:08:07Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "fd6370714f7157f6",
@@ -8358,8 +8363,13 @@
   "headline": "9 in 10 families borrow money for measles treatment in Bangladesh",
   "topic": "measles-outbreak-treatment-cost",
   "source": "Dhaka Tribune, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-03T09:08:07Z"
+  "status": "failed",
+  "at": "2026-08-03T09:08:07Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "e1d72c4f186b5385",
@@ -8367,8 +8377,13 @@
   "headline": "Gazipur's gas crisis: Severe shortage disrupts factories and lives",
   "topic": "gas-crisis-impact-factories-life",
   "source": "The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-03T09:08:07Z"
+  "status": "failed",
+  "at": "2026-08-03T09:08:07Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "6313f049e118ed5b",
@@ -8376,7 +8391,12 @@
   "headline": "Gazipur's gas crisis: Severe shortage disrupts factories and lives",
   "topic": "gas-crisis-impact-factories-life",
   "source": "The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-03T09:08:07Z"
+  "status": "failed",
+  "at": "2026-08-03T09:08:07Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
