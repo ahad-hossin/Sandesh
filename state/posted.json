@@ -8335,8 +8335,13 @@
   "headline": "Gas shortage disrupts transport and sparks power cuts across Bangladesh",
   "topic": "gas-shortage-transport-disruption",
   "source": "Dhaka Tribune, Somoy News, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-03T00:09:30Z"
+  "status": "failed",
+  "at": "2026-08-03T00:09:30Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "30fbbbc808a2a21e",
@@ -8344,8 +8349,13 @@
   "headline": "Gas shortage disrupts transport and sparks power cuts across Bangladesh",
   "topic": "gas-shortage-transport-disruption",
   "source": "Dhaka Tribune, Somoy News, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-03T00:09:30Z"
+  "status": "failed",
+  "at": "2026-08-03T00:09:30Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "ed294f020fc7bb40",
@@ -8353,8 +8363,13 @@
   "headline": "Gas shortage disrupts transport and sparks power cuts across Bangladesh",
   "topic": "gas-shortage-transport-disruption",
   "source": "Dhaka Tribune, Somoy News, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-03T00:09:30Z"
+  "status": "failed",
+  "at": "2026-08-03T00:09:30Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "e4838529c12bad1b",
@@ -8362,8 +8377,13 @@
   "headline": "LPG price hike effective from evening in Bangladesh; Jamaat expresses concern",
   "topic": "lpg-price-hike-bangladesh",
   "source": "Dhaka Tribune, Somoy News",
-  "status": "queued",
-  "at": "2026-08-03T00:09:30Z"
+  "status": "failed",
+  "at": "2026-08-03T00:09:30Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "27f795ede26ea59e",
@@ -8371,7 +8391,12 @@
   "headline": "LPG price hike effective from evening in Bangladesh; Jamaat expresses concern",
   "topic": "lpg-price-hike-bangladesh",
   "source": "Dhaka Tribune, Somoy News",
-  "status": "queued",
-  "at": "2026-08-03T00:09:30Z"
+  "status": "failed",
+  "at": "2026-08-03T00:09:30Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
