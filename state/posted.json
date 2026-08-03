@@ -8363,8 +8363,13 @@
   "headline": "17 killed in suicide bombing at police station in Pakistan",
   "topic": "pakistan-suicide-bombing-at-police-station",
   "source": "Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-03T12:08:18Z"
+  "status": "failed",
+  "at": "2026-08-03T12:08:18Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "d87ee1b66a38fbec",
@@ -8372,8 +8377,13 @@
   "headline": "17 killed in suicide bombing at police station in Pakistan",
   "topic": "pakistan-suicide-bombing-at-police-station",
   "source": "Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-03T12:08:18Z"
+  "status": "failed",
+  "at": "2026-08-03T12:08:18Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "104eb085096296c1",
@@ -8381,7 +8391,12 @@
   "headline": "3 deaths from dengue in 24 hours, 580 new hospitalizations",
   "topic": "bangladesh-dengue-deaths-and-hospitalizations",
   "source": "Jamuna TV",
-  "status": "queued",
-  "at": "2026-08-03T12:08:18Z"
+  "status": "failed",
+  "at": "2026-08-03T12:08:18Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
