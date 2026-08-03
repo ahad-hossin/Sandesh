@@ -8377,8 +8377,13 @@
   "headline": "2 killed as two firefighting helicopters collide in mid-air in Greece",
   "topic": "two-helicopters-collide-mid-air-killing-2",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-03T06:07:09Z"
+  "status": "failed",
+  "at": "2026-08-03T06:07:09Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "5c3fa38a131e6156",
@@ -8386,7 +8391,12 @@
   "headline": "Pregnant woman dies after alleged assault by husband in Dhamrai",
   "topic": "pregnant-woman-dies-after-alleged-assault-by-husband",
   "source": "Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-08-03T06:07:09Z"
+  "status": "failed",
+  "at": "2026-08-03T06:07:09Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
