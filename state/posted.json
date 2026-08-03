@@ -1,89 +1,5 @@
 [
  {
-  "title_hash": "a42e7434fe9413cc",
-  "url": "https://www.thedailystar.net/news/bangladesh/news/mirpur-wall-collapse-toll-rises-3-4235836",
-  "headline": "3 dead as boundary wall collapses at Mirpur University College",
-  "topic": "mirpur-wall-collapse-toll-3",
-  "source": "The Daily Star",
-  "status": "posted",
-  "at": "2026-07-29T21:07:24Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"We limit how often you can post, ",
-   "instagram": "18082993514290848",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "b1388d04f8a96d50",
-  "url": "https://www.thedailystar.net/business/economy/news/banks-can-now-tie-payment-platforms-paypal-4235756",
-  "headline": "Digital shift: Banks can now partner with foreign payment platforms like PayPal",
-  "topic": "bangladesh-banks-paypal-partnership",
-  "source": "The Daily Star",
-  "status": "posted",
-  "at": "2026-07-29T21:07:24Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"We limit how often you can post, ",
-   "instagram": "18089624264541710",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "2d8eebb1f9067389",
-  "url": "https://www.prothomalo.com/world/india/zzpzhuaok8",
-  "headline": "20 crore rupees and 15kg gold recovered from retired driver's home in West Bengal",
-  "topic": "west-bengal-driver-cash-gold-seizure",
-  "source": "Prothom Alo",
-  "status": "posted",
-  "at": "2026-07-29T22:07:39Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"We limit how often you can post, ",
-   "instagram": "18169236847448036",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "ca8065d730e52d18",
-  "url": "https://www.thedailystar.net/business/global-economy/news/depositors-merging-banks-can-withdraw-tk-10-lakh-4235771",
-  "headline": "Merging banks' depositors can withdraw up to Tk 10 lakh for emergencies",
-  "topic": "merging-islamic-banks-withdrawal-limit",
-  "source": "The Daily Star",
-  "status": "posted",
-  "at": "2026-07-29T22:07:39Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"We limit how often you can post, ",
-   "instagram": "18331000201272185",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "3274345d2515cedd",
-  "url": "https://www.somoynews.tv/news/2026-07-29/65zC3XWM",
-  "headline": "7 killed as helicopter crashes in Argentina",
-  "topic": "argentina-helicopter-crash",
-  "source": "Somoy News",
-  "status": "posted",
-  "at": "2026-07-29T23:07:49Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"We limit how often you can post, ",
-   "instagram": "18338502673284768",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "a0e25a18c8e63f2e",
-  "url": "https://www.somoynews.tv/news/2026-07-29/R4QYUX40",
-  "headline": "Egypt: US-owned tanker hit by drone attack",
-  "topic": "egypt-us-tanker-drone-attack",
-  "source": "Somoy News",
-  "status": "posted",
-  "at": "2026-07-29T23:07:49Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"We limit how often you can post, ",
-   "instagram": "17881105575615572",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "996d919348ef1a19",
   "url": "https://www.dhakatribune.com/bangladesh/416264/ipc-analysis-over-15.3-million-bangladeshis-face",
   "headline": "IPC: Over 15.3 million Bangladeshis face acute food insecurity",
@@ -8398,5 +8314,59 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "d67415fe8e4670f7",
+  "url": "https://www.dhakatribune.com/bangladesh/416657/cabinet-approves-draft-law-criminalizing-enforced",
+  "headline": "Death penalty for enforced disappearances: Cabinet approves draft law",
+  "topic": "enforced-disappearance-law-approved",
+  "source": "Dhaka Tribune, Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-03T18:07:46Z"
+ },
+ {
+  "title_hash": "297c6cd035ec79a1",
+  "url": "https://www.prothomalo.com/bangladesh/fys9550ide",
+  "headline": "Death penalty for enforced disappearances: Cabinet approves draft law",
+  "topic": "enforced-disappearance-law-approved",
+  "source": "Dhaka Tribune, Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-03T18:07:46Z"
+ },
+ {
+  "title_hash": "c105d59d2d435cc5",
+  "url": "https://www.prothomalo.com/video/bangladesh/tvlcm3wm5j",
+  "headline": "Bangladesh asks India to stop Sheikh Hasina from making political speeches",
+  "topic": "bangladesh-india-hasina-political-speech",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-03T18:07:46Z"
+ },
+ {
+  "title_hash": "5b0f843e98bcf358",
+  "url": "https://www.prothomalo.com/video/bangladesh/v9coedmk3b",
+  "headline": "Bangladesh asks India to stop Sheikh Hasina from making political speeches",
+  "topic": "bangladesh-india-hasina-political-speech",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-03T18:07:46Z"
+ },
+ {
+  "title_hash": "42d0d6b7d9a69723",
+  "url": "https://www.prothomalo.com/politics/haasinaar-bktby-bndhe-bhaarter-shyogitaa-caayy-baanlaadesh",
+  "headline": "Bangladesh asks India to stop Sheikh Hasina from making political speeches",
+  "topic": "bangladesh-india-hasina-political-speech",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-03T18:07:46Z"
+ },
+ {
+  "title_hash": "3635934068d30e51",
+  "url": "https://www.prothomalo.com/bangladesh/mndk56suh7",
+  "headline": "Bangladesh asks India to stop Sheikh Hasina from making political speeches",
+  "topic": "bangladesh-india-hasina-political-speech",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-03T18:07:46Z"
  }
 ]
