@@ -8349,8 +8349,13 @@
   "headline": "Death penalty possible as Cabinet approves draft law criminalizing enforced disappearance",
   "topic": "cabinet-approves-enforced-disappearance-law",
   "source": "Dhaka Tribune, Somoy News",
-  "status": "queued",
-  "at": "2026-08-03T19:06:53Z"
+  "status": "failed",
+  "at": "2026-08-03T19:06:53Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "54929f7c51d7afdf",
@@ -8358,8 +8363,13 @@
   "headline": "Death penalty possible as Cabinet approves draft law criminalizing enforced disappearance",
   "topic": "cabinet-approves-enforced-disappearance-law",
   "source": "Dhaka Tribune, Somoy News",
-  "status": "queued",
-  "at": "2026-08-03T19:06:53Z"
+  "status": "failed",
+  "at": "2026-08-03T19:06:53Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "39907a0cfd797fd4",
@@ -8367,8 +8377,13 @@
   "headline": "Saudi Deputy Foreign Minister arrives in Dhaka on two-day visit",
   "topic": "saudi-deputy-foreign-minister-visit-dhaka",
   "source": "Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-03T19:06:53Z"
+  "status": "failed",
+  "at": "2026-08-03T19:06:53Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "301895891ae78430",
@@ -8376,7 +8391,12 @@
   "headline": "Saudi Deputy Foreign Minister arrives in Dhaka on two-day visit",
   "topic": "saudi-deputy-foreign-minister-visit-dhaka",
   "source": "Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-03T19:06:53Z"
+  "status": "failed",
+  "at": "2026-08-03T19:06:53Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
