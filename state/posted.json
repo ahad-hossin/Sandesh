@@ -8363,8 +8363,13 @@
   "headline": "PM Sheikh Hasina to face gallows upon return in December, claims opposition leader",
   "topic": "nahid-islam-hasina-execution-statement",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-03T14:08:38Z"
+  "status": "failed",
+  "at": "2026-08-03T14:08:38Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "7017e32db17fa3de",
@@ -8372,8 +8377,13 @@
   "headline": "Bangladesh asks India to block Hasina's political speeches from its soil",
   "topic": "bangladesh-india-hasina-virtual-event",
   "source": "Dhaka Tribune, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-03T14:08:38Z"
+  "status": "failed",
+  "at": "2026-08-03T14:08:38Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "725b888b8f5ebabc",
@@ -8381,7 +8391,12 @@
   "headline": "Bangladesh asks India to block Hasina's political speeches from its soil",
   "topic": "bangladesh-india-hasina-virtual-event",
   "source": "Dhaka Tribune, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-03T14:08:38Z"
+  "status": "failed",
+  "at": "2026-08-03T14:08:38Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
