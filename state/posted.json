@@ -8335,8 +8335,13 @@
   "headline": "Tribunal investigation reveals weapons on RAB helicopter during July uprising",
   "topic": "july-uprising-rab-helicopter-weapons",
   "source": "Prothom Alo, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-08-03T03:08:08Z"
+  "status": "failed",
+  "at": "2026-08-03T03:08:08Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "f719a1add7b2585c",
@@ -8344,8 +8349,13 @@
   "headline": "Tribunal investigation reveals weapons on RAB helicopter during July uprising",
   "topic": "july-uprising-rab-helicopter-weapons",
   "source": "Prothom Alo, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-08-03T03:08:08Z"
+  "status": "failed",
+  "at": "2026-08-03T03:08:08Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "fd6370714f7157f6",
@@ -8353,8 +8363,13 @@
   "headline": "Nearly 9 in 10 families borrowed money due to measles outbreak in Bangladesh: Assessment",
   "topic": "adenovirus-increases-measles-risk",
   "source": "Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-03T03:08:08Z"
+  "status": "failed",
+  "at": "2026-08-03T03:08:08Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "85dfa296210fffff",
@@ -8362,8 +8377,13 @@
   "headline": "Nearly 9 in 10 families borrowed money due to measles outbreak in Bangladesh: Assessment",
   "topic": "adenovirus-increases-measles-risk",
   "source": "Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-03T03:08:08Z"
+  "status": "failed",
+  "at": "2026-08-03T03:08:08Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "4c820228a7b8960b",
@@ -8371,7 +8391,12 @@
   "headline": "Nearly 9 in 10 families borrowed money due to measles outbreak in Bangladesh: Assessment",
   "topic": "adenovirus-increases-measles-risk",
   "source": "Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-03T03:08:08Z"
+  "status": "failed",
+  "at": "2026-08-03T03:08:08Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
