@@ -1,33 +1,5 @@
 [
  {
-  "title_hash": "92382f2d7a306085",
-  "url": "https://www.jamuna.tv/national/661059",
-  "headline": "Dhaka and Delhi agree to reset ties on sovereign equality",
-  "topic": "bangladesh-india-ties-reset",
-  "source": "Dhaka Tribune, Somoy News, Jamuna TV, The Daily Star",
-  "status": "posted",
-  "at": "2026-07-29T15:11:01Z",
-  "results": {
-   "facebook": "1237737746078842_122118897765361546",
-   "instagram": "18115669546925747",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "1b44e943d4322116",
-  "url": "https://www.thedailystar.net/news/bangladesh/diplomacy/news/once-pm-tarique-visits-india-things-will-move-forward-constructively-indian-high-commissioner-4235521",
-  "headline": "Dhaka and Delhi agree to reset ties on sovereign equality",
-  "topic": "bangladesh-india-ties-reset",
-  "source": "Dhaka Tribune, Somoy News, Jamuna TV, The Daily Star",
-  "status": "posted",
-  "at": "2026-07-29T15:11:01Z",
-  "results": {
-   "facebook": "1237737746078842_122118897765361546",
-   "instagram": "18115669546925747",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "e166067c95b11bab",
   "url": "https://www.somoynews.tv/news/2026-07-29/K1JsGIRB",
   "headline": "Dhaka and Delhi agree to reset ties on sovereign equality",
@@ -8398,5 +8370,23 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "104eb085096296c1",
+  "url": "https://www.jamuna.tv/national/661441",
+  "headline": "3 deaths from dengue in 24 hours, 580 newly hospitalized",
+  "topic": "bangladesh-dengue-deaths-and-hospitalizations",
+  "source": "Jamuna TV",
+  "status": "queued",
+  "at": "2026-08-03T11:08:06Z"
+ },
+ {
+  "title_hash": "60f2cf598698bc39",
+  "url": "https://www.jamuna.tv/health/661440",
+  "headline": "847 children dead as measles symptoms claim 3 more lives in 24 hours",
+  "topic": "bangladesh-measles-outbreak-deaths",
+  "source": "Jamuna TV",
+  "status": "queued",
+  "at": "2026-08-03T11:08:06Z"
  }
 ]
