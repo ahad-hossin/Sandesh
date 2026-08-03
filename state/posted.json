@@ -1,33 +1,5 @@
 [
  {
-  "title_hash": "9d061e6f94e15b41",
-  "url": "https://www.dhakatribune.com/bangladesh/politics/416269/ncp-leaders-police-scuffle-as-convoy-stopped-in",
-  "headline": "Police stop NCP leaders' convoy in Sreemangal amid political tension",
-  "topic": "ncp-leaders-confront-police-and-bnp-tensions",
-  "source": "Dhaka Tribune, Jamuna TV, Prothom Alo, The Daily Star",
-  "status": "posted",
-  "at": "2026-07-29T13:08:21Z",
-  "results": {
-   "facebook": "1237737746078842_122118877845361546",
-   "instagram": "18197359633372839",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "08bfa061d17f0238",
-  "url": "https://www.jamuna.tv/politics/661060",
-  "headline": "Police stop NCP leaders' convoy in Sreemangal amid political tension",
-  "topic": "ncp-leaders-confront-police-and-bnp-tensions",
-  "source": "Dhaka Tribune, Jamuna TV, Prothom Alo, The Daily Star",
-  "status": "posted",
-  "at": "2026-07-29T13:08:21Z",
-  "results": {
-   "facebook": "1237737746078842_122118877845361546",
-   "instagram": "18197359633372839",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "071a759e2a0f30c8",
   "url": "https://www.prothomalo.com/video/bangladesh/r3qry9c8pd",
   "headline": "Police stop NCP leaders' convoy in Sreemangal amid political tension",
@@ -8398,5 +8370,23 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "794f0b8b7c8f9b77",
+  "url": "https://www.prothomalo.com/video/international/k80ls7j696",
+  "headline": "2 killed as two firefighting helicopters collide in mid-air in Greece",
+  "topic": "two-helicopters-collide-mid-air-killing-2",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-03T06:07:09Z"
+ },
+ {
+  "title_hash": "5c3fa38a131e6156",
+  "url": "https://www.dhakatribune.com/bangladesh/crime/416590/pregnant-woman-dies-after-alleged-assault-by",
+  "headline": "Pregnant woman dies after alleged assault by husband in Dhamrai",
+  "topic": "pregnant-woman-dies-after-alleged-assault-by-husband",
+  "source": "Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-08-03T06:07:09Z"
  }
 ]
