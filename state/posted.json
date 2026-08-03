@@ -1,47 +1,5 @@
 [
  {
-  "title_hash": "e166067c95b11bab",
-  "url": "https://www.somoynews.tv/news/2026-07-29/K1JsGIRB",
-  "headline": "Dhaka and Delhi agree to reset ties on sovereign equality",
-  "topic": "bangladesh-india-ties-reset",
-  "source": "Dhaka Tribune, Somoy News, Jamuna TV, The Daily Star",
-  "status": "posted",
-  "at": "2026-07-29T15:11:01Z",
-  "results": {
-   "facebook": "1237737746078842_122118897765361546",
-   "instagram": "18115669546925747",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "7506af95319a1284",
-  "url": "https://www.haal.fashion/fashion/trend/avxba7cc05",
-  "headline": "Bani Kapoor stuns in off-shoulder lehenga at India Couture Week",
-  "topic": "ncp-bnp-tensions-habiganj-section-144",
-  "source": "Prothom Alo, Jamuna TV",
-  "status": "posted",
-  "at": "2026-07-29T16:08:06Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"We limit how often you can post, ",
-   "instagram": "18108781427282284",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "fa78842a8a65b1fd",
-  "url": "https://www.jamuna.tv/all-bangladesh/661079",
-  "headline": "Bani Kapoor stuns in off-shoulder lehenga at India Couture Week",
-  "topic": "ncp-bnp-tensions-habiganj-section-144",
-  "source": "Prothom Alo, Jamuna TV",
-  "status": "posted",
-  "at": "2026-07-29T16:08:06Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"We limit how often you can post, ",
-   "instagram": "18108781427282284",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "7ba249f0c0cf9c6a",
   "url": "https://www.prothomalo.com/bangladesh/pl492n12ei",
   "headline": "Bani Kapoor stuns in off-shoulder lehenga at India Couture Week",
@@ -8398,5 +8356,32 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "1f235bfff8a97262",
+  "url": "https://www.jamuna.tv/international/661445",
+  "headline": "17 killed in suicide bombing at police station in Pakistan",
+  "topic": "pakistan-suicide-bombing-at-police-station",
+  "source": "Jamuna TV, Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-03T12:08:18Z"
+ },
+ {
+  "title_hash": "d87ee1b66a38fbec",
+  "url": "https://www.prothomalo.com/video/international/lpia2xz1ds",
+  "headline": "17 killed in suicide bombing at police station in Pakistan",
+  "topic": "pakistan-suicide-bombing-at-police-station",
+  "source": "Jamuna TV, Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-03T12:08:18Z"
+ },
+ {
+  "title_hash": "104eb085096296c1",
+  "url": "https://www.jamuna.tv/national/661441",
+  "headline": "3 deaths from dengue in 24 hours, 580 new hospitalizations",
+  "topic": "bangladesh-dengue-deaths-and-hospitalizations",
+  "source": "Jamuna TV",
+  "status": "queued",
+  "at": "2026-08-03T12:08:18Z"
  }
 ]
