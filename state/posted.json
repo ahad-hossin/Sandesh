@@ -8363,8 +8363,13 @@
   "headline": "17 killed in mob violence across Bangladesh in July, HRSS report",
   "topic": "july-violence-hrss-report",
   "source": "The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-03T23:06:53Z"
+  "status": "failed",
+  "at": "2026-08-03T23:06:53Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "f65563ec956ce9f7",
@@ -8372,8 +8377,13 @@
   "headline": "17 killed in mob violence across Bangladesh in July, HRSS report",
   "topic": "july-violence-hrss-report",
   "source": "The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-03T23:06:53Z"
+  "status": "failed",
+  "at": "2026-08-03T23:06:53Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "caf5c92b6d1e5614",
@@ -8381,7 +8391,12 @@
   "headline": "Saudi Crown Prince urges Trump not to attack Iran",
   "topic": "saudi-crown-prince-trump-iran",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-03T23:06:53Z"
+  "status": "failed",
+  "at": "2026-08-03T23:06:53Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
