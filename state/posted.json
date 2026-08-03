@@ -1,47 +1,5 @@
 [
  {
-  "title_hash": "a5390537a2793fcd",
-  "url": "https://www.somoynews.tv/news/2026-07-29/0JNBs6SJ",
-  "headline": "Gas crisis: Paracetamol raw material production halted in Bangladesh",
-  "topic": "dhaka-cng-stations-gas-crisis",
-  "source": "Somoy News, The Daily Star",
-  "status": "posted",
-  "at": "2026-07-29T06:10:15Z",
-  "results": {
-   "facebook": "1237737746078842_122118816825361546",
-   "instagram": "18176489197424736",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "31630ed03a0febc9",
-  "url": "https://www.dhakatribune.com/bangladesh/nation/416235/section-144-imposed-in-habiganj-amid-bnp-ncp",
-  "headline": "Habiganj: Section 144 imposed amid BNP-NCP tensions",
-  "topic": "section-144-imposed-habiganj-bnp-ncp-tensions",
-  "source": "Dhaka Tribune",
-  "status": "posted",
-  "at": "2026-07-29T07:08:03Z",
-  "results": {
-   "facebook": "1237737746078842_122118823623361546",
-   "instagram": "18110740763054229",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "8fe3717ecb662e6f",
-  "url": "https://www.dhakatribune.com/bangladesh/416233/5-bangladeshi-women-return-home-after-serving-jail",
-  "headline": "5 Bangladeshi women return home after serving jail terms in India",
-  "topic": "five-bangladeshi-women-return-home-after-serving-jail-in-india",
-  "source": "Dhaka Tribune",
-  "status": "posted",
-  "at": "2026-07-29T07:08:03Z",
-  "results": {
-   "facebook": "1237737746078842_122118823911361546",
-   "instagram": "17901522765495479",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "155eb48ca09de86e",
   "url": "https://www.dhakatribune.com/bangladesh/court/416238/sc-stays-hc-order-barring-arrests-without-specific",
   "headline": "SC stays HC order barring arrests without specific case",
@@ -8398,5 +8356,32 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "dbee47eb41c6d380",
+  "url": "https://www.somoynews.tv/news/2026-08-02/GNw1szBM",
+  "headline": "Justice for July killings to be ensured, but interim govt faces discrimination allegations",
+  "topic": "july-killings-justice-discrimination",
+  "source": "Somoy News",
+  "status": "queued",
+  "at": "2026-08-03T01:08:07Z"
+ },
+ {
+  "title_hash": "0f847583aa2bd589",
+  "url": "https://www.somoynews.tv/news/2026-08-02/R1PTCZ1O",
+  "headline": "Justice for July killings to be ensured, but interim govt faces discrimination allegations",
+  "topic": "july-killings-justice-discrimination",
+  "source": "Somoy News",
+  "status": "queued",
+  "at": "2026-08-03T01:08:07Z"
+ },
+ {
+  "title_hash": "26096f0e88c0aea3",
+  "url": "https://www.somoynews.tv/news/2026-08-03/AMO7wzJM",
+  "headline": "Hilsa fish not found in sea, creating crisis for fishermen and traders",
+  "topic": "hilsa-fishing-crisis",
+  "source": "Somoy News",
+  "status": "queued",
+  "at": "2026-08-03T01:08:07Z"
  }
 ]
