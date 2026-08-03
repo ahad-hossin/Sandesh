@@ -8349,8 +8349,13 @@
   "headline": "Bangladesh asks India to prevent Sheikh Hasina's political speeches from its soil",
   "topic": "bangladesh-india-hasina-political-speeches",
   "source": "The Daily Star, Dhaka Tribune, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-03T15:08:36Z"
+  "status": "failed",
+  "at": "2026-08-03T15:08:36Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "7017e32db17fa3de",
@@ -8358,8 +8363,13 @@
   "headline": "Bangladesh asks India to prevent Sheikh Hasina's political speeches from its soil",
   "topic": "bangladesh-india-hasina-political-speeches",
   "source": "The Daily Star, Dhaka Tribune, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-03T15:08:36Z"
+  "status": "failed",
+  "at": "2026-08-03T15:08:36Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "725b888b8f5ebabc",
@@ -8367,8 +8377,13 @@
   "headline": "Bangladesh asks India to prevent Sheikh Hasina's political speeches from its soil",
   "topic": "bangladesh-india-hasina-political-speeches",
   "source": "The Daily Star, Dhaka Tribune, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-03T15:08:36Z"
+  "status": "failed",
+  "at": "2026-08-03T15:08:36Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "297c6cd035ec79a1",
@@ -8376,7 +8391,12 @@
   "headline": "Death penalty for enforced disappearances: Cabinet approves draft law on disappearances",
   "topic": "enforced-disappearance-bill-death-penalty",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-03T15:08:36Z"
+  "status": "failed",
+  "at": "2026-08-03T15:08:36Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
