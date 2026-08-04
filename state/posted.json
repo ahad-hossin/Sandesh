@@ -8349,8 +8349,13 @@
   "headline": "93 killed on Aug 4 as ‘March to Dhaka’ moved up to Aug 5",
   "topic": "march to dhaka advanced",
   "source": "Jamuna TV, Somoy News",
-  "status": "queued",
-  "at": "2026-08-04T07:07:43Z"
+  "status": "failed",
+  "at": "2026-08-04T07:07:43Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "1ad6c0ecbbecf289",
@@ -8358,8 +8363,13 @@
   "headline": "93 killed on Aug 4 as ‘March to Dhaka’ moved up to Aug 5",
   "topic": "march to dhaka advanced",
   "source": "Jamuna TV, Somoy News",
-  "status": "queued",
-  "at": "2026-08-04T07:07:43Z"
+  "status": "failed",
+  "at": "2026-08-04T07:07:43Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "d42575a5ac135651",
@@ -8367,8 +8377,13 @@
   "headline": "Rail link between Dhaka and northern Bangladesh snapped after derailment",
   "topic": "dhaka north rail link snapped",
   "source": "Jamuna TV, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-04T07:07:43Z"
+  "status": "failed",
+  "at": "2026-08-04T07:07:43Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "574e0480e8606aac",
@@ -8376,7 +8391,12 @@
   "headline": "Rail link between Dhaka and northern Bangladesh snapped after derailment",
   "topic": "dhaka north rail link snapped",
   "source": "Jamuna TV, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-04T07:07:43Z"
+  "status": "failed",
+  "at": "2026-08-04T07:07:43Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
