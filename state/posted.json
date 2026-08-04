@@ -8335,8 +8335,13 @@
   "headline": "Student wings of JCD and Shibir clash at Jagannath University, several injured",
   "topic": "jagannath university student clashes",
   "source": "Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-04T08:07:26Z"
+  "status": "failed",
+  "at": "2026-08-04T08:07:26Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "870fdb2a23615d14",
@@ -8344,8 +8349,13 @@
   "headline": "Student wings of JCD and Shibir clash at Jagannath University, several injured",
   "topic": "jagannath university student clashes",
   "source": "Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-04T08:07:26Z"
+  "status": "failed",
+  "at": "2026-08-04T08:07:26Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "aa060db119761a3b",
@@ -8353,8 +8363,13 @@
   "headline": "July Mass Uprising Memorial Museum to open August 6",
   "topic": "july uprising museum inauguration",
   "source": "Dhaka Tribune, Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-04T08:07:26Z"
+  "status": "failed",
+  "at": "2026-08-04T08:07:26Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "d1bde57fd091f459",
@@ -8362,8 +8377,13 @@
   "headline": "July Mass Uprising Memorial Museum to open August 6",
   "topic": "july uprising museum inauguration",
   "source": "Dhaka Tribune, Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-04T08:07:26Z"
+  "status": "failed",
+  "at": "2026-08-04T08:07:26Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "37352c8e4987aee6",
@@ -8371,7 +8391,12 @@
   "headline": "July Mass Uprising Memorial Museum to open August 6",
   "topic": "july uprising museum inauguration",
   "source": "Dhaka Tribune, Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-04T08:07:26Z"
+  "status": "failed",
+  "at": "2026-08-04T08:07:26Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
