@@ -1,61 +1,5 @@
 [
  {
-  "title_hash": "744e2fa81edaf4b1",
-  "url": "https://www.prothomalo.com/video/bangladesh/d5r1qtrl9g",
-  "headline": "Severe shortage: Dhaka now lives by the ‘gas clock’ as crisis deepens",
-  "topic": "dhaka-gas-crisis-alarms",
-  "source": "Dhaka Tribune, Prothom Alo",
-  "status": "failed",
-  "at": "2026-07-30T18:07:19Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "4156a58176e6fb98",
-  "url": "https://www.dhakatribune.com/bangladesh/campus1/416381/du-suspends-3-teachers-relieves-four-others-of",
-  "headline": "DU suspends 3 teachers and relieves 4 others of key duties",
-  "topic": "du-teachers-suspended",
-  "source": "Dhaka Tribune, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-07-30T18:07:19Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "7cfed18babd236ff",
-  "url": "https://www.jamuna.tv/national/661173",
-  "headline": "DU suspends 3 teachers and relieves 4 others of key duties",
-  "topic": "du-teachers-suspended",
-  "source": "Dhaka Tribune, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-07-30T18:07:19Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "4f3911433f6ff58a",
-  "url": "https://www.prothomalo.com/education/saadekaa-haalimsh-ddhaabir-tin-shiksskke-saamyyik-brkhaast",
-  "headline": "DU suspends 3 teachers and relieves 4 others of key duties",
-  "topic": "du-teachers-suspended",
-  "source": "Dhaka Tribune, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-07-30T18:07:19Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "4a575351165ae362",
   "url": "https://www.prothomalo.com/bangladesh/26uufmoqly",
   "headline": "DU suspends 3 teachers and relieves 4 others of key duties",
@@ -8398,5 +8342,41 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "6dac1d73d7724e55",
+  "url": "https://www.jamuna.tv/national/661486",
+  "headline": "93 killed on Aug 4 as ‘March to Dhaka’ moved up to Aug 5",
+  "topic": "march to dhaka advanced",
+  "source": "Jamuna TV, Somoy News",
+  "status": "queued",
+  "at": "2026-08-04T07:07:43Z"
+ },
+ {
+  "title_hash": "1ad6c0ecbbecf289",
+  "url": "https://www.somoynews.tv/news/2026-08-04/09Iy7xW9",
+  "headline": "93 killed on Aug 4 as ‘March to Dhaka’ moved up to Aug 5",
+  "topic": "march to dhaka advanced",
+  "source": "Jamuna TV, Somoy News",
+  "status": "queued",
+  "at": "2026-08-04T07:07:43Z"
+ },
+ {
+  "title_hash": "d42575a5ac135651",
+  "url": "https://www.thedailystar.net/news/bangladesh/transport/news/rail-link-between-dhaka-and-northern-bangladesh-snapped-following-derailment-4239771",
+  "headline": "Rail link between Dhaka and northern Bangladesh snapped after derailment",
+  "topic": "dhaka north rail link snapped",
+  "source": "Jamuna TV, The Daily Star",
+  "status": "queued",
+  "at": "2026-08-04T07:07:43Z"
+ },
+ {
+  "title_hash": "574e0480e8606aac",
+  "url": "https://www.jamuna.tv/all-bangladesh/661483",
+  "headline": "Rail link between Dhaka and northern Bangladesh snapped after derailment",
+  "topic": "dhaka north rail link snapped",
+  "source": "Jamuna TV, The Daily Star",
+  "status": "queued",
+  "at": "2026-08-04T07:07:43Z"
  }
 ]
