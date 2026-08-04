@@ -8321,8 +8321,13 @@
   "headline": "Trump warns Iran of last chance before decapitation",
   "topic": "trump-iran-last-chance-warning",
   "source": "Jamuna TV, The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-04T06:07:31Z"
+  "status": "failed",
+  "at": "2026-08-04T06:07:31Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "5957537d7208e083",
@@ -8330,8 +8335,13 @@
   "headline": "Trump warns Iran of last chance before decapitation",
   "topic": "trump-iran-last-chance-warning",
   "source": "Jamuna TV, The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-04T06:07:31Z"
+  "status": "failed",
+  "at": "2026-08-04T06:07:31Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "c5e84edf3275adae",
@@ -8339,8 +8349,13 @@
   "headline": "Trump warns Iran of last chance before decapitation",
   "topic": "trump-iran-last-chance-warning",
   "source": "Jamuna TV, The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-04T06:07:31Z"
+  "status": "failed",
+  "at": "2026-08-04T06:07:31Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "1da6c383c5835d00",
@@ -8348,8 +8363,13 @@
   "headline": "Trump warns Iran of last chance before decapitation",
   "topic": "trump-iran-last-chance-warning",
   "source": "Jamuna TV, The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-04T06:07:31Z"
+  "status": "failed",
+  "at": "2026-08-04T06:07:31Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "4e4e41f9cdf1c888",
@@ -8357,8 +8377,13 @@
   "headline": "Gas crisis hits economy: Garment sector operating at 40% capacity",
   "topic": "bangladesh-electricity-crisis",
   "source": "Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-04T06:07:31Z"
+  "status": "failed",
+  "at": "2026-08-04T06:07:31Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "860270cdde252d56",
@@ -8366,7 +8391,12 @@
   "headline": "Gas crisis hits economy: Garment sector operating at 40% capacity",
   "topic": "bangladesh-electricity-crisis",
   "source": "Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-04T06:07:31Z"
+  "status": "failed",
+  "at": "2026-08-04T06:07:31Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
