@@ -1,47 +1,5 @@
 [
  {
-  "title_hash": "5b2fce7754614232",
-  "url": "https://www.prothomalo.com/bangladesh/yv6hj8ipg0",
-  "headline": "Police arrest human trafficking suspect in Dhaka",
-  "topic": "human-trafficking-facebook-lure",
-  "source": "Dhaka Tribune, Prothom Alo",
-  "status": "posted",
-  "at": "2026-07-30T06:07:39Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"We limit how often you can post, ",
-   "instagram": "18022567106896457",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "a715981843654713",
-  "url": "https://www.prothomalo.com/roundtable/iqjsp61cj1",
-  "headline": "Police arrest human trafficking suspect in Dhaka",
-  "topic": "human-trafficking-facebook-lure",
-  "source": "Dhaka Tribune, Prothom Alo",
-  "status": "posted",
-  "at": "2026-07-30T06:07:39Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"We limit how often you can post, ",
-   "instagram": "18022567106896457",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "dcd9f154d83a876e",
-  "url": "https://www.dhakatribune.com/bangladesh/dhaka/416299/dhaka-ranks-9th-among-world-s-most-polluted-cities",
-  "headline": "529 people arrested in Dhaka in 24 hours during police raids",
-  "topic": "dhaka-pollution-arrests",
-  "source": "Dhaka Tribune, Prothom Alo",
-  "status": "posted",
-  "at": "2026-07-30T06:07:39Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"We limit how often you can post, ",
-   "instagram": "18222832387336274",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "99603ad0576d8962",
   "url": "https://www.prothomalo.com/bangladesh/crime/1s8wq6pgcp",
   "headline": "529 people arrested in Dhaka in 24 hours during police raids",
@@ -8398,5 +8356,32 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "67f48835ffdd5b3e",
+  "url": "https://www.thedailystar.net/news/bangladesh/news/case-filed-against-gazi-salahuddin-tanvir-over-facebook-posts-pm-tarique-rahman-4239551",
+  "headline": "Case filed against Gazi Salahuddin Tanvir for derogatory Facebook posts on PM Tarique Rahman",
+  "topic": "bnp-leader-tanvir-facebook-case",
+  "source": "The Daily Star",
+  "status": "queued",
+  "at": "2026-08-04T00:08:04Z"
+ },
+ {
+  "title_hash": "0a3a5a03165667e8",
+  "url": "https://www.dhakatribune.com/bangladesh/court/416624/dentist-murder-husband-granted-two-day-remand",
+  "headline": "Husband remanded in dentist's murder case in Dakshinkhan, Dhaka",
+  "topic": "dakshinkhan-dentist-murder-husband-arrested",
+  "source": "Prothom Alo, Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-08-04T00:08:04Z"
+ },
+ {
+  "title_hash": "73fd7f787c2f2344",
+  "url": "https://www.prothomalo.com/bangladesh/crime/o75yogjbt4",
+  "headline": "Husband remanded in dentist's murder case in Dakshinkhan, Dhaka",
+  "topic": "dakshinkhan-dentist-murder-husband-arrested",
+  "source": "Prothom Alo, Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-08-04T00:08:04Z"
  }
 ]
