@@ -8363,8 +8363,13 @@
   "headline": "Case filed against Gazi Salahuddin Tanvir for derogatory Facebook posts on PM Tarique Rahman",
   "topic": "bnp-leader-tanvir-facebook-case",
   "source": "The Daily Star",
-  "status": "queued",
-  "at": "2026-08-04T00:08:04Z"
+  "status": "failed",
+  "at": "2026-08-04T00:08:04Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "0a3a5a03165667e8",
@@ -8372,8 +8377,13 @@
   "headline": "Husband remanded in dentist's murder case in Dakshinkhan, Dhaka",
   "topic": "dakshinkhan-dentist-murder-husband-arrested",
   "source": "Prothom Alo, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-08-04T00:08:04Z"
+  "status": "failed",
+  "at": "2026-08-04T00:08:04Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "73fd7f787c2f2344",
@@ -8381,7 +8391,12 @@
   "headline": "Husband remanded in dentist's murder case in Dakshinkhan, Dhaka",
   "topic": "dakshinkhan-dentist-murder-husband-arrested",
   "source": "Prothom Alo, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-08-04T00:08:04Z"
+  "status": "failed",
+  "at": "2026-08-04T00:08:04Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
