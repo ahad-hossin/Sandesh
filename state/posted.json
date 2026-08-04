@@ -1,75 +1,5 @@
 [
  {
-  "title_hash": "4a575351165ae362",
-  "url": "https://www.prothomalo.com/bangladesh/26uufmoqly",
-  "headline": "DU suspends 3 teachers and relieves 4 others of key duties",
-  "topic": "du-teachers-suspended",
-  "source": "Dhaka Tribune, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-07-30T18:07:19Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "40037232a61443bb",
-  "url": "https://www.prothomalo.com/world/middle-east/kyv6lf0sez",
-  "headline": "Iran claims three US F-35 jets destroyed in Jordan strike",
-  "topic": "iran-claims-us-f35-destroyed",
-  "source": "Prothom Alo, Jamuna TV",
-  "status": "failed",
-  "at": "2026-07-30T19:07:41Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "d00cd8e70173716b",
-  "url": "https://www.jamuna.tv/international/661176",
-  "headline": "Iran claims three US F-35 jets destroyed in Jordan strike",
-  "topic": "iran-claims-us-f35-destroyed",
-  "source": "Prothom Alo, Jamuna TV",
-  "status": "failed",
-  "at": "2026-07-30T19:07:41Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "a8ecaaaa9d1eaf78",
-  "url": "https://www.dhakatribune.com/bangladesh/dhaka/416378/dhaka-now-lives-by-the-%E2%80%98gas-clock%E2%80%99",
-  "headline": "Dhaka residents face severe gas shortages as CPB protests",
-  "topic": "dhaka-gas-crisis-clock",
-  "source": "Dhaka Tribune, Prothom Alo",
-  "status": "failed",
-  "at": "2026-07-30T19:07:41Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "744e2fa81edaf4b1",
-  "url": "https://www.prothomalo.com/video/bangladesh/d5r1qtrl9g",
-  "headline": "Dhaka residents face severe gas shortages as CPB protests",
-  "topic": "dhaka-gas-crisis-clock",
-  "source": "Dhaka Tribune, Prothom Alo",
-  "status": "failed",
-  "at": "2026-07-30T19:07:41Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "40037232a61443bb",
   "url": "https://www.prothomalo.com/world/middle-east/kyv6lf0sez",
   "headline": "Iran claims three US F-35 fighter jets destroyed in Jordan attack",
@@ -8398,5 +8328,50 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "b731a2f5c52388b0",
+  "url": "https://www.thedailystar.net/news/education/campus/news/jcd-shibir-clash-jagannath-university-over-placards-4239806",
+  "headline": "Student wings of JCD and Shibir clash at Jagannath University, several injured",
+  "topic": "jagannath university student clashes",
+  "source": "Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-08-04T08:07:26Z"
+ },
+ {
+  "title_hash": "870fdb2a23615d14",
+  "url": "https://www.prothomalo.com/politics/jzhzk1qn97",
+  "headline": "Student wings of JCD and Shibir clash at Jagannath University, several injured",
+  "topic": "jagannath university student clashes",
+  "source": "Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-08-04T08:07:26Z"
+ },
+ {
+  "title_hash": "aa060db119761a3b",
+  "url": "https://www.dhakatribune.com/bangladesh/416682/how-to-book-tickets-for-july-uprising-museum",
+  "headline": "July Mass Uprising Memorial Museum to open August 6",
+  "topic": "july uprising museum inauguration",
+  "source": "Dhaka Tribune, Jamuna TV, Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-04T08:07:26Z"
+ },
+ {
+  "title_hash": "d1bde57fd091f459",
+  "url": "https://www.jamuna.tv/national/661489",
+  "headline": "July Mass Uprising Memorial Museum to open August 6",
+  "topic": "july uprising museum inauguration",
+  "source": "Dhaka Tribune, Jamuna TV, Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-04T08:07:26Z"
+ },
+ {
+  "title_hash": "37352c8e4987aee6",
+  "url": "https://www.prothomalo.com/bangladesh/r2bak5v84h",
+  "headline": "July Mass Uprising Memorial Museum to open August 6",
+  "topic": "july uprising museum inauguration",
+  "source": "Dhaka Tribune, Jamuna TV, Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-04T08:07:26Z"
  }
 ]
