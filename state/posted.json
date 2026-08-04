@@ -8377,8 +8377,13 @@
   "headline": "Gas shortage slashes industrial production by 40%, forcing factories to extend holidays",
   "topic": "gas-shortage-factory-impact",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-04T04:07:52Z"
+  "status": "failed",
+  "at": "2026-08-04T04:07:52Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "af99541646a46a42",
@@ -8386,7 +8391,12 @@
   "headline": "Ukraine drone attack on crowded Russian beach kills 7, injures 40, including children",
   "topic": "ukraine-drone-attack-russia-beach",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-04T04:07:52Z"
+  "status": "failed",
+  "at": "2026-08-04T04:07:52Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
