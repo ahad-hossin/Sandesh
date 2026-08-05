@@ -1,75 +1,5 @@
 [
  {
-  "title_hash": "c14bef949c160dff",
-  "url": "https://www.prothomalo.com/world/middle-east/xdtk9t6iuo",
-  "headline": "Iran warns US of escalating tensions in the Middle East",
-  "topic": "iran-us-tensions-escalation",
-  "source": "The Daily Star, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-01T13:07:34Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "fc0fdde0cb3a437e",
-  "url": "https://www.dhakatribune.com/bangladesh/foreign-affairs/416459/us-makes-visa-bond-requirement-permanent-raises",
-  "headline": "US makes $20,000 visa bond permanent for Bangladeshis",
-  "topic": "us-visa-bond-permanent-bangladeshis",
-  "source": "Dhaka Tribune, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-01T13:07:34Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "a1c60feba296b16f",
-  "url": "https://www.prothomalo.com/world/usa/s44kq63urd",
-  "headline": "US makes $20,000 visa bond permanent for Bangladeshis",
-  "topic": "us-visa-bond-permanent-bangladeshis",
-  "source": "Dhaka Tribune, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-01T13:07:34Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "926d754f5b4131a8",
-  "url": "https://www.dhakatribune.com/bangladesh/crime/416481/inside-rab-s-mirror-room-29-cells-hidden-death",
-  "headline": "ICT judges inspect 'Aynaghar' detention cell at Rab-1",
-  "topic": "rab-aynaghor-visit",
-  "source": "Dhaka Tribune, Prothom Alo, Somoy News, The Daily Star",
-  "status": "failed",
-  "at": "2026-08-01T14:09:06Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "d2bd635cfcdc37bc",
-  "url": "https://www.prothomalo.com/video/bangladesh/1pujy1fn99",
-  "headline": "ICT judges inspect 'Aynaghar' detention cell at Rab-1",
-  "topic": "rab-aynaghor-visit",
-  "source": "Dhaka Tribune, Prothom Alo, Somoy News, The Daily Star",
-  "status": "failed",
-  "at": "2026-08-01T14:09:06Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "0bcc1cf32cc2b7b9",
   "url": "https://www.somoynews.tv/news/2026-08-01/zRwFW3Qs",
   "headline": "ICT judges inspect 'Aynaghar' detention cell at Rab-1",
@@ -8398,5 +8328,50 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "8b78b7c27ccee253",
+  "url": "https://www.dhakatribune.com/bangladesh/416752/pm-inaugurates-july-uprising-museum",
+  "headline": "PM inaugurates July Mass Uprising Memorial Museum in Dhaka; opens to public Thursday",
+  "topic": "PM inaugurates July Uprising Museum",
+  "source": "Jamuna TV, Dhaka Tribune, Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-08-05T05:07:13Z"
+ },
+ {
+  "title_hash": "3c5fa477aea25d22",
+  "url": "https://www.jamuna.tv/national/661533",
+  "headline": "PM inaugurates July Mass Uprising Memorial Museum in Dhaka; opens to public Thursday",
+  "topic": "PM inaugurates July Uprising Museum",
+  "source": "Jamuna TV, Dhaka Tribune, Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-08-05T05:07:13Z"
+ },
+ {
+  "title_hash": "beb32b7acf2fbc15",
+  "url": "https://www.prothomalo.com/bangladesh/g10q74zsvy",
+  "headline": "PM inaugurates July Mass Uprising Memorial Museum in Dhaka; opens to public Thursday",
+  "topic": "PM inaugurates July Uprising Museum",
+  "source": "Jamuna TV, Dhaka Tribune, Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-08-05T05:07:13Z"
+ },
+ {
+  "title_hash": "0b4a36d2e977e168",
+  "url": "https://www.thedailystar.net/supplements/july-uprising-day-2026/news/pm-opens-july-mass-uprising-memorial-museum-4240571",
+  "headline": "PM inaugurates July Mass Uprising Memorial Museum in Dhaka; opens to public Thursday",
+  "topic": "PM inaugurates July Uprising Museum",
+  "source": "Jamuna TV, Dhaka Tribune, Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-08-05T05:07:13Z"
+ },
+ {
+  "title_hash": "229801aad9ef980f",
+  "url": "https://www.dhakatribune.com/bangladesh/416754/52-tons-of-green-chillis-imported-from-india-in",
+  "headline": "52 tons of green chillis imported from India in two days",
+  "topic": "Green chillies imported from India",
+  "source": "Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-08-05T05:07:13Z"
  }
 ]
