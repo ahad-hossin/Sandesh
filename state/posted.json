@@ -1,61 +1,5 @@
 [
  {
-  "title_hash": "ac06f310bd322ece",
-  "url": "https://www.prothomalo.com/bangladesh/iykxj19zpu",
-  "headline": "Police HQ issues nationwide alert over possible attacks on police vehicles",
-  "topic": "police-vehicle-attack-alert",
-  "source": "The Daily Star, Jamuna TV, Dhaka Tribune, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-01T22:06:38Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "be58d3baa5ab54ab",
-  "url": "https://www.dhakatribune.com/bangladesh/politics/416507/bnp-authorizes-tarique-rahman-to-finalize",
-  "headline": "BNP authorizes Tarique Rahman to finalize presidential candidate",
-  "topic": "bnp-tarique-presidential-candidate",
-  "source": "Somoy News, Dhaka Tribune, Jamuna TV, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-08-01T23:07:12Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "8ef8f7f9ea557d16",
-  "url": "https://www.somoynews.tv/news/2026-08-01/HOX72TUK",
-  "headline": "BNP authorizes Tarique Rahman to finalize presidential candidate",
-  "topic": "bnp-tarique-presidential-candidate",
-  "source": "Somoy News, Dhaka Tribune, Jamuna TV, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-08-01T23:07:12Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "3dde56c87bd1743c",
-  "url": "https://www.jamuna.tv/national/661324",
-  "headline": "BNP authorizes Tarique Rahman to finalize presidential candidate",
-  "topic": "bnp-tarique-presidential-candidate",
-  "source": "Somoy News, Dhaka Tribune, Jamuna TV, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-08-01T23:07:12Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "7574743cd1e05390",
   "url": "https://www.prothomalo.com/politics/ihnp78yils",
   "headline": "BNP authorizes Tarique Rahman to finalize presidential candidate",
@@ -8398,5 +8342,41 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "a8212536cbe12bc8",
+  "url": "https://www.thedailystar.net/news/monsoon-misery/news/10-districts-likely-face-short-term-floods-next-24-48-hours-ffwc-4240816",
+  "headline": "402mm rain: 10 districts at risk of flooding in next 48 hours",
+  "topic": "bangladesh flood warning",
+  "source": "The Daily Star, Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-08-05T15:10:35Z"
+ },
+ {
+  "title_hash": "8da109e3b625efa1",
+  "url": "https://www.dhakatribune.com/bangladesh/nation/416796/teesta-flows-above-danger-level-in-lalmonirhat",
+  "headline": "402mm rain: 10 districts at risk of flooding in next 48 hours",
+  "topic": "bangladesh flood warning",
+  "source": "The Daily Star, Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-08-05T15:10:35Z"
+ },
+ {
+  "title_hash": "85e68d204e0d2c74",
+  "url": "https://www.dhakatribune.com/bangladesh/nation/416804/gas-crisis-deepens-intensifying-load-shedding-in",
+  "headline": "Gas crisis deepens, intensifying load shedding in Chittagong",
+  "topic": "chittagong gas crisis load shedding",
+  "source": "Dhaka Tribune, Somoy News",
+  "status": "queued",
+  "at": "2026-08-05T15:10:35Z"
+ },
+ {
+  "title_hash": "62bba8292c1abeb6",
+  "url": "https://www.somoynews.tv/news/2026-08-05/K3WzGS7T",
+  "headline": "Gas crisis deepens, intensifying load shedding in Chittagong",
+  "topic": "chittagong gas crisis load shedding",
+  "source": "Dhaka Tribune, Somoy News",
+  "status": "queued",
+  "at": "2026-08-05T15:10:35Z"
  }
 ]
