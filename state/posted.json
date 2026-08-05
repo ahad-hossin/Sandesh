@@ -8307,8 +8307,13 @@
   "headline": "854 dead as measles outbreak worsens in Bangladesh",
   "topic": "measles outbreak death toll",
   "source": "Dhaka Tribune, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-05T11:07:19Z"
+  "status": "failed",
+  "at": "2026-08-05T11:07:19Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "c8a65597706eed41",
@@ -8316,8 +8321,13 @@
   "headline": "854 dead as measles outbreak worsens in Bangladesh",
   "topic": "measles outbreak death toll",
   "source": "Dhaka Tribune, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-05T11:07:19Z"
+  "status": "failed",
+  "at": "2026-08-05T11:07:19Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "6c72f1f6a3aab4c3",
@@ -8325,8 +8335,13 @@
   "headline": "Ex-NCP leader Gazi Salahuddin Tanvir sent to jail over Facebook posts",
   "topic": "gazi salahuddin tanvir jailed",
   "source": "Dhaka Tribune, Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-05T11:07:19Z"
+  "status": "failed",
+  "at": "2026-08-05T11:07:19Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "b17d48d5fc1e8bd0",
@@ -8334,8 +8349,13 @@
   "headline": "Ex-NCP leader Gazi Salahuddin Tanvir sent to jail over Facebook posts",
   "topic": "gazi salahuddin tanvir jailed",
   "source": "Dhaka Tribune, Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-05T11:07:19Z"
+  "status": "failed",
+  "at": "2026-08-05T11:07:19Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "f7c066b3c992cfc4",
@@ -8343,8 +8363,13 @@
   "headline": "Ex-NCP leader Gazi Salahuddin Tanvir sent to jail over Facebook posts",
   "topic": "gazi salahuddin tanvir jailed",
   "source": "Dhaka Tribune, Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-05T11:07:19Z"
+  "status": "failed",
+  "at": "2026-08-05T11:07:19Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "18c7d2912bfea24e",
@@ -8352,8 +8377,13 @@
   "headline": "Ex-NCP leader Gazi Salahuddin Tanvir sent to jail over Facebook posts",
   "topic": "gazi salahuddin tanvir jailed",
   "source": "Dhaka Tribune, Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-05T11:07:19Z"
+  "status": "failed",
+  "at": "2026-08-05T11:07:19Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "2bcca3ea5e3d4b2a",
@@ -8361,7 +8391,12 @@
   "headline": "Ex-NCP leader Gazi Salahuddin Tanvir sent to jail over Facebook posts",
   "topic": "gazi salahuddin tanvir jailed",
   "source": "Dhaka Tribune, Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-05T11:07:19Z"
+  "status": "failed",
+  "at": "2026-08-05T11:07:19Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
