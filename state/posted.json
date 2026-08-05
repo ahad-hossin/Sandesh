@@ -8321,8 +8321,13 @@
   "headline": "Dhaka outraged over India allowing Hasina's media event in New Delhi",
   "topic": "bangladesh outrage over hasina delhi media event",
   "source": "The Daily Star, Dhaka Tribune, Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-05T22:06:41Z"
+  "status": "failed",
+  "at": "2026-08-05T22:06:41Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "e76deae045a0a967",
@@ -8330,8 +8335,13 @@
   "headline": "Dhaka outraged over India allowing Hasina's media event in New Delhi",
   "topic": "bangladesh outrage over hasina delhi media event",
   "source": "The Daily Star, Dhaka Tribune, Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-05T22:06:41Z"
+  "status": "failed",
+  "at": "2026-08-05T22:06:41Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "70216248a5920de2",
@@ -8339,8 +8349,13 @@
   "headline": "Dhaka outraged over India allowing Hasina's media event in New Delhi",
   "topic": "bangladesh outrage over hasina delhi media event",
   "source": "The Daily Star, Dhaka Tribune, Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-05T22:06:41Z"
+  "status": "failed",
+  "at": "2026-08-05T22:06:41Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "5e783ee546f91beb",
@@ -8348,8 +8363,13 @@
   "headline": "Dhaka outraged over India allowing Hasina's media event in New Delhi",
   "topic": "bangladesh outrage over hasina delhi media event",
   "source": "The Daily Star, Dhaka Tribune, Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-05T22:06:41Z"
+  "status": "failed",
+  "at": "2026-08-05T22:06:41Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "73086e7517e93ba4",
@@ -8357,8 +8377,13 @@
   "headline": "Dhaka outraged over India allowing Hasina's media event in New Delhi",
   "topic": "bangladesh outrage over hasina delhi media event",
   "source": "The Daily Star, Dhaka Tribune, Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-05T22:06:41Z"
+  "status": "failed",
+  "at": "2026-08-05T22:06:41Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "50d754db6bfd7674",
@@ -8366,7 +8391,12 @@
   "headline": "Planned outages: 4-hour power cuts scheduled for Thursday",
   "topic": "thursday power outage areas",
   "source": "Somoy News",
-  "status": "queued",
-  "at": "2026-08-05T22:06:41Z"
+  "status": "failed",
+  "at": "2026-08-05T22:06:41Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
