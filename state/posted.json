@@ -1,131 +1,5 @@
 [
  {
-  "title_hash": "8ef8f7f9ea557d16",
-  "url": "https://www.somoynews.tv/news/2026-08-01/HOX72TUK",
-  "headline": "BNP authorizes Tarique Rahman to finalize presidential candidate",
-  "topic": "bnp-tarique-presidential-candidate",
-  "source": "Dhaka Tribune, Somoy News, Jamuna TV, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-08-01T22:06:38Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "3dde56c87bd1743c",
-  "url": "https://www.jamuna.tv/national/661324",
-  "headline": "BNP authorizes Tarique Rahman to finalize presidential candidate",
-  "topic": "bnp-tarique-presidential-candidate",
-  "source": "Dhaka Tribune, Somoy News, Jamuna TV, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-08-01T22:06:38Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "ec80ed6fb96577d5",
-  "url": "https://www.prothomalo.com/video/78omvyvu07",
-  "headline": "BNP authorizes Tarique Rahman to finalize presidential candidate",
-  "topic": "bnp-tarique-presidential-candidate",
-  "source": "Dhaka Tribune, Somoy News, Jamuna TV, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-08-01T22:06:38Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "7574743cd1e05390",
-  "url": "https://www.prothomalo.com/politics/ihnp78yils",
-  "headline": "BNP authorizes Tarique Rahman to finalize presidential candidate",
-  "topic": "bnp-tarique-presidential-candidate",
-  "source": "Dhaka Tribune, Somoy News, Jamuna TV, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-08-01T22:06:38Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "588911edfe2836f1",
-  "url": "https://www.thedailystar.net/news/bangladesh/news/tarique-pick-bnp-presidential-candidate-4238006",
-  "headline": "BNP authorizes Tarique Rahman to finalize presidential candidate",
-  "topic": "bnp-tarique-presidential-candidate",
-  "source": "Dhaka Tribune, Somoy News, Jamuna TV, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-08-01T22:06:38Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "958ef28261b406d0",
-  "url": "https://www.thedailystar.net/news/bangladesh/news/police-hq-issues-nationwide-alert-over-possible-attacks-police-vehicles-4237961",
-  "headline": "Police HQ issues nationwide alert over possible attacks on police vehicles",
-  "topic": "police-vehicle-attack-alert",
-  "source": "The Daily Star, Jamuna TV, Dhaka Tribune, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-01T22:06:38Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "e25c3145001fe124",
-  "url": "https://www.jamuna.tv/national/661327",
-  "headline": "Police HQ issues nationwide alert over possible attacks on police vehicles",
-  "topic": "police-vehicle-attack-alert",
-  "source": "The Daily Star, Jamuna TV, Dhaka Tribune, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-01T22:06:38Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "b2e1272a6cc53b82",
-  "url": "https://www.dhakatribune.com/bangladesh/416505/police-hq-issues-highest-alert-for-official",
-  "headline": "Police HQ issues nationwide alert over possible attacks on police vehicles",
-  "topic": "police-vehicle-attack-alert",
-  "source": "The Daily Star, Jamuna TV, Dhaka Tribune, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-01T22:06:38Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "48cc0b1d33ee3a46",
-  "url": "https://www.prothomalo.com/bangladesh/pulisher-yaanbaahne-haamlaar-shngkaayy-deshjurre-strktaa",
-  "headline": "Police HQ issues nationwide alert over possible attacks on police vehicles",
-  "topic": "police-vehicle-attack-alert",
-  "source": "The Daily Star, Jamuna TV, Dhaka Tribune, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-01T22:06:38Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "ac06f310bd322ece",
   "url": "https://www.prothomalo.com/bangladesh/iykxj19zpu",
   "headline": "Police HQ issues nationwide alert over possible attacks on police vehicles",
@@ -8398,5 +8272,86 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "8da109e3b625efa1",
+  "url": "https://www.dhakatribune.com/bangladesh/nation/416796/teesta-flows-above-danger-level-in-lalmonirhat",
+  "headline": "Teesta flows 13cm above danger level; flash flood feared within 48 hours",
+  "topic": "teesta river danger level",
+  "source": "Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-08-05T14:07:07Z"
+ },
+ {
+  "title_hash": "cc9420680221e6f1",
+  "url": "https://www.dhakatribune.com/bangladesh/416760/teesta-flows-13cm-above-danger-level-in",
+  "headline": "Teesta flows 13cm above danger level; flash flood feared within 48 hours",
+  "topic": "teesta river danger level",
+  "source": "Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-08-05T14:07:07Z"
+ },
+ {
+  "title_hash": "c7116c06fb15afa5",
+  "url": "https://www.dhakatribune.com/bangladesh/416783/pm-justice-for-anti-fascist-movement-killings-to",
+  "headline": "PM Tarique Rahman inaugurates July Uprising Museum, vows transparent justice",
+  "topic": "tarique rahman july museum",
+  "source": "Prothom Alo, Dhaka Tribune, The Daily Star, Jamuna TV",
+  "status": "queued",
+  "at": "2026-08-05T14:07:07Z"
+ },
+ {
+  "title_hash": "8c49d98a159c1299",
+  "url": "https://www.prothomalo.com/video/bangladesh/qp3p9dys6v",
+  "headline": "PM Tarique Rahman inaugurates July Uprising Museum, vows transparent justice",
+  "topic": "tarique rahman july museum",
+  "source": "Prothom Alo, Dhaka Tribune, The Daily Star, Jamuna TV",
+  "status": "queued",
+  "at": "2026-08-05T14:07:07Z"
+ },
+ {
+  "title_hash": "e262fcde4d95fa7b",
+  "url": "https://www.prothomalo.com/video/bangladesh/s62gpj6myh",
+  "headline": "PM Tarique Rahman inaugurates July Uprising Museum, vows transparent justice",
+  "topic": "tarique rahman july museum",
+  "source": "Prothom Alo, Dhaka Tribune, The Daily Star, Jamuna TV",
+  "status": "queued",
+  "at": "2026-08-05T14:07:07Z"
+ },
+ {
+  "title_hash": "8b78b7c27ccee253",
+  "url": "https://www.dhakatribune.com/bangladesh/416752/pm-inaugurates-july-uprising-museum",
+  "headline": "PM Tarique Rahman inaugurates July Uprising Museum, vows transparent justice",
+  "topic": "tarique rahman july museum",
+  "source": "Prothom Alo, Dhaka Tribune, The Daily Star, Jamuna TV",
+  "status": "queued",
+  "at": "2026-08-05T14:07:07Z"
+ },
+ {
+  "title_hash": "3e3d2eb549321e23",
+  "url": "https://www.thedailystar.net/supplements/july-uprising-day-2026/news/justice-anti-fascist-movement-killings-be-transparent-impartial-pm-4240641",
+  "headline": "PM Tarique Rahman inaugurates July Uprising Museum, vows transparent justice",
+  "topic": "tarique rahman july museum",
+  "source": "Prothom Alo, Dhaka Tribune, The Daily Star, Jamuna TV",
+  "status": "queued",
+  "at": "2026-08-05T14:07:07Z"
+ },
+ {
+  "title_hash": "3c5fa477aea25d22",
+  "url": "https://www.jamuna.tv/national/661533",
+  "headline": "PM Tarique Rahman inaugurates July Uprising Museum, vows transparent justice",
+  "topic": "tarique rahman july museum",
+  "source": "Prothom Alo, Dhaka Tribune, The Daily Star, Jamuna TV",
+  "status": "queued",
+  "at": "2026-08-05T14:07:07Z"
+ },
+ {
+  "title_hash": "0b4a36d2e977e168",
+  "url": "https://www.thedailystar.net/supplements/july-uprising-day-2026/news/pm-opens-july-mass-uprising-memorial-museum-4240571",
+  "headline": "PM Tarique Rahman inaugurates July Uprising Museum, vows transparent justice",
+  "topic": "tarique rahman july museum",
+  "source": "Prothom Alo, Dhaka Tribune, The Daily Star, Jamuna TV",
+  "status": "queued",
+  "at": "2026-08-05T14:07:07Z"
  }
 ]
