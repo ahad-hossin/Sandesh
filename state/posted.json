@@ -8349,8 +8349,13 @@
   "headline": "North Korea warns of ‘military options’ over Japan rearmament",
   "topic": "north korea warns japan over rearmament",
   "source": "Dhaka Tribune, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-05T13:08:06Z"
+  "status": "failed",
+  "at": "2026-08-05T13:08:06Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "84cd95d3bf761cfc",
@@ -8358,8 +8363,13 @@
   "headline": "North Korea warns of ‘military options’ over Japan rearmament",
   "topic": "north korea warns japan over rearmament",
   "source": "Dhaka Tribune, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-05T13:08:06Z"
+  "status": "failed",
+  "at": "2026-08-05T13:08:06Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "4e9ff6264f60b7c8",
@@ -8367,8 +8377,13 @@
   "headline": "10 injured as JCD and Shibir clash at Barishal University",
   "topic": "barisal university clash between student groups",
   "source": "Dhaka Tribune, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-05T13:08:06Z"
+  "status": "failed",
+  "at": "2026-08-05T13:08:06Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "2b66c2246034511f",
@@ -8376,7 +8391,12 @@
   "headline": "10 injured as JCD and Shibir clash at Barishal University",
   "topic": "barisal university clash between student groups",
   "source": "Dhaka Tribune, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-05T13:08:06Z"
+  "status": "failed",
+  "at": "2026-08-05T13:08:06Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
