@@ -1,89 +1,5 @@
 [
  {
-  "title_hash": "4d69c2050f941c24",
-  "url": "https://www.somoynews.tv/news/2026-08-01/6ZTUAOwT",
-  "headline": "US Special Envoy Sergio Gor calls on PM",
-  "topic": "us-envoy-sergio-gor-visit-dhaka",
-  "source": "Dhaka Tribune, Somoy News, The Daily Star",
-  "status": "failed",
-  "at": "2026-08-01T06:09:33Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "a14079c3d44baa0d",
-  "url": "https://www.thedailystar.net/news/bangladesh/diplomacy/news/us-special-envoy-sergio-gor-calls-pm-4237471",
-  "headline": "US Special Envoy Sergio Gor calls on PM",
-  "topic": "us-envoy-sergio-gor-visit-dhaka",
-  "source": "Dhaka Tribune, Somoy News, The Daily Star",
-  "status": "failed",
-  "at": "2026-08-01T06:09:33Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "454c899e6e1a4887",
-  "url": "https://www.jamuna.tv/national/661267",
-  "headline": "Health Minister: Educated mothers neglecting child care",
-  "topic": "health-minister-on-maternal-care",
-  "source": "Jamuna TV, Somoy News",
-  "status": "failed",
-  "at": "2026-08-01T06:09:33Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "b24329a0b319a2e5",
-  "url": "https://www.somoynews.tv/news/2026-08-01/xDJv6WzD",
-  "headline": "Health Minister: Educated mothers neglecting child care",
-  "topic": "health-minister-on-maternal-care",
-  "source": "Jamuna TV, Somoy News",
-  "status": "failed",
-  "at": "2026-08-01T06:09:33Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "ca2cdfeef5460a7f",
-  "url": "https://www.dhakatribune.com/bangladesh/dhaka/416458/minor-dispute-in-mohammadpur-leaves-seven-injured",
-  "headline": "4 killed as truck and pickup collide head-on in Bogura",
-  "topic": "minor-dispute-mohammadpur-7-injured",
-  "source": "Dhaka Tribune, The Daily Star",
-  "status": "failed",
-  "at": "2026-08-01T07:07:28Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "fa4d956cbe6c5144",
-  "url": "https://www.thedailystar.net/news/accidents-fires/news/4-killed-truck-pickup-collision-bogura-4237496",
-  "headline": "4 killed as truck and pickup collide head-on in Bogura",
-  "topic": "minor-dispute-mohammadpur-7-injured",
-  "source": "Dhaka Tribune, The Daily Star",
-  "status": "failed",
-  "at": "2026-08-01T07:07:28Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "3a0be86260eba7f3",
   "url": "https://www.dhakatribune.com/bangladesh/foreign-affairs/416459/us-makes-visa-bond-requirement-permanent-raises",
   "headline": "Costly stealth jet: US F-35 fighter jet crashes near California base",
@@ -8398,5 +8314,59 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "41474d737b50842b",
+  "url": "https://www.jamuna.tv/national/661526",
+  "headline": "July Charter to be implemented for democratic, prosperous Bangladesh: Minister",
+  "topic": "July Uprising Anniversary",
+  "source": "Jamuna TV, Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-05T02:08:11Z"
+ },
+ {
+  "title_hash": "adb6fb80171d6829",
+  "url": "https://www.prothomalo.com/bangladesh/vyx4hfr3vm",
+  "headline": "July Charter to be implemented for democratic, prosperous Bangladesh: Minister",
+  "topic": "July Uprising Anniversary",
+  "source": "Jamuna TV, Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-05T02:08:11Z"
+ },
+ {
+  "title_hash": "cc7f225dd7cfcd05",
+  "url": "https://www.jamuna.tv/national/661525",
+  "headline": "July Charter to be implemented for democratic, prosperous Bangladesh: Minister",
+  "topic": "July Uprising Anniversary",
+  "source": "Jamuna TV, Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-05T02:08:11Z"
+ },
+ {
+  "title_hash": "3a9524545998d556",
+  "url": "https://www.prothomalo.com/bangladesh/7lv3p0hl98",
+  "headline": "July Charter to be implemented for democratic, prosperous Bangladesh: Minister",
+  "topic": "July Uprising Anniversary",
+  "source": "Jamuna TV, Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-05T02:08:11Z"
+ },
+ {
+  "title_hash": "6baf6af7b2e64504",
+  "url": "https://www.prothomalo.com/bangladesh/pgil9yn57s",
+  "headline": "July Charter to be implemented for democratic, prosperous Bangladesh: Minister",
+  "topic": "July Uprising Anniversary",
+  "source": "Jamuna TV, Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-05T02:08:11Z"
+ },
+ {
+  "title_hash": "197ad7ce3e614548",
+  "url": "https://www.prothomalo.com/business/349boyi2ym",
+  "headline": "Default loans hit 35-36%, economy worse than thought: Ex-Bangladesh Bank Governor",
+  "topic": "Politics and Economy Link",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-05T02:08:11Z"
  }
 ]
