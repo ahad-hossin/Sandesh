@@ -8335,8 +8335,13 @@
   "headline": "Jamaat ameer claims another revolution is imminent",
   "topic": "jamaat ameer imminent revolution",
   "source": "Prothom Alo, Dhaka Tribune, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-05T12:08:01Z"
+  "status": "failed",
+  "at": "2026-08-05T12:08:01Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "58b0e529e363683f",
@@ -8344,8 +8349,13 @@
   "headline": "Jamaat ameer claims another revolution is imminent",
   "topic": "jamaat ameer imminent revolution",
   "source": "Prothom Alo, Dhaka Tribune, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-05T12:08:01Z"
+  "status": "failed",
+  "at": "2026-08-05T12:08:01Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "b1a41b5a30db2344",
@@ -8353,8 +8363,13 @@
   "headline": "Jamaat ameer claims another revolution is imminent",
   "topic": "jamaat ameer imminent revolution",
   "source": "Prothom Alo, Dhaka Tribune, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-05T12:08:01Z"
+  "status": "failed",
+  "at": "2026-08-05T12:08:01Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "a616a006a6c73164",
@@ -8362,8 +8377,13 @@
   "headline": "Acting President: Supporting July martyrs' families is govt's sacred duty",
   "topic": "acting president july martyrs support",
   "source": "Dhaka Tribune, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-05T12:08:01Z"
+  "status": "failed",
+  "at": "2026-08-05T12:08:01Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "51ab6907f194d846",
@@ -8371,7 +8391,12 @@
   "headline": "Acting President: Supporting July martyrs' families is govt's sacred duty",
   "topic": "acting president july martyrs support",
   "source": "Dhaka Tribune, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-05T12:08:01Z"
+  "status": "failed",
+  "at": "2026-08-05T12:08:01Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
