@@ -1,47 +1,5 @@
 [
  {
-  "title_hash": "0bcc1cf32cc2b7b9",
-  "url": "https://www.somoynews.tv/news/2026-08-01/zRwFW3Qs",
-  "headline": "ICT judges inspect 'Aynaghar' detention cell at Rab-1",
-  "topic": "rab-aynaghor-visit",
-  "source": "Dhaka Tribune, Prothom Alo, Somoy News, The Daily Star",
-  "status": "failed",
-  "at": "2026-08-01T14:09:06Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "2a5588e632834359",
-  "url": "https://www.prothomalo.com/bangladesh/1l2hk0t0lr",
-  "headline": "ICT judges inspect 'Aynaghar' detention cell at Rab-1",
-  "topic": "rab-aynaghor-visit",
-  "source": "Dhaka Tribune, Prothom Alo, Somoy News, The Daily Star",
-  "status": "failed",
-  "at": "2026-08-01T14:09:06Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "f238cf9a53a06f68",
-  "url": "https://www.thedailystar.net/news/crime-justice/news/ict-judges-inspect-aynaghar-detention-cell-rab-1-4237491",
-  "headline": "ICT judges inspect 'Aynaghar' detention cell at Rab-1",
-  "topic": "rab-aynaghor-visit",
-  "source": "Dhaka Tribune, Prothom Alo, Somoy News, The Daily Star",
-  "status": "failed",
-  "at": "2026-08-01T14:09:06Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "9518f1c2847f3ef1",
   "url": "https://www.dhakatribune.com/bangladesh/education/416492/14-384-primary-teachers-to-join-from-october",
   "headline": "14,384 primary teachers to join from October 29",
@@ -8398,5 +8356,32 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "68e112fe0c0ee6ca",
+  "url": "https://www.jamuna.tv/international/661538",
+  "headline": "112 bodies, 40 children recovered from Gaza rubble after 2 years",
+  "topic": "gaza civilians killed in israeli airstrikes",
+  "source": "Jamuna TV",
+  "status": "queued",
+  "at": "2026-08-05T06:09:15Z"
+ },
+ {
+  "title_hash": "f4075d0dfe06d560",
+  "url": "https://www.thedailystar.net/news/world/usa/news/trump-warns-iran-open-hormuz-or-get-hit-very-hard-4240546",
+  "headline": "Trump warns Iran: Open Strait of Hormuz or face 'hit very hard'",
+  "topic": "trump warns iran to open hormuz strait",
+  "source": "Jamuna TV, The Daily Star",
+  "status": "queued",
+  "at": "2026-08-05T06:09:15Z"
+ },
+ {
+  "title_hash": "029af884d527018a",
+  "url": "https://www.jamuna.tv/international/661536",
+  "headline": "Trump warns Iran: Open Strait of Hormuz or face 'hit very hard'",
+  "topic": "trump warns iran to open hormuz strait",
+  "source": "Jamuna TV, The Daily Star",
+  "status": "queued",
+  "at": "2026-08-05T06:09:15Z"
  }
 ]
