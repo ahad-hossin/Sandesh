@@ -8377,8 +8377,13 @@
   "headline": "Actor Ilias Kanchan, currently in Bangladesh for treatment, to return to London this month for further care",
   "topic": "ilias kanchan london return",
   "source": "Somoy News",
-  "status": "queued",
-  "at": "2026-08-05T00:08:17Z"
+  "status": "failed",
+  "at": "2026-08-05T00:08:17Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "70d7e32b1678fbad",
@@ -8386,7 +8391,12 @@
   "headline": "Content creator Ripon fined BDT 5 lakh in arbitration over alleged rape of teenager",
   "topic": "content creator rape fine",
   "source": "Somoy News",
-  "status": "queued",
-  "at": "2026-08-05T00:08:17Z"
+  "status": "failed",
+  "at": "2026-08-05T00:08:17Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
