@@ -1,89 +1,5 @@
 [
  {
-  "title_hash": "36c1d609652d5c96",
-  "url": "https://www.thedailystar.net/news/bangladesh/news/mirpur-10-metro-station-shut-after-suspicious-bag-found-another-reported-near-farmgate-4237546",
-  "headline": "Betel leaves and zarda found in suspicious bags at metro stations",
-  "topic": "suspicious-bags-metro-stations-dhaka",
-  "source": "Dhaka Tribune, The Daily Star, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-01T12:09:29Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "7eb2698b425779fd",
-  "url": "https://www.jamuna.tv/national/661282",
-  "headline": "Betel leaves and zarda found in suspicious bags at metro stations",
-  "topic": "suspicious-bags-metro-stations-dhaka",
-  "source": "Dhaka Tribune, The Daily Star, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-01T12:09:29Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "dbcde5749b5bc673",
-  "url": "https://www.prothomalo.com/video/bangladesh/j2jxvg88dm",
-  "headline": "Betel leaves and zarda found in suspicious bags at metro stations",
-  "topic": "suspicious-bags-metro-stations-dhaka",
-  "source": "Dhaka Tribune, The Daily Star, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-01T12:09:29Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "fc0fdde0cb3a437e",
-  "url": "https://www.dhakatribune.com/bangladesh/foreign-affairs/416459/us-makes-visa-bond-requirement-permanent-raises",
-  "headline": "US makes $20,000 visa bond permanent for Bangladeshis",
-  "topic": "us-visa-bond-permanent-bangladeshis",
-  "source": "Dhaka Tribune, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-01T12:09:29Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "a1c60feba296b16f",
-  "url": "https://www.prothomalo.com/world/usa/s44kq63urd",
-  "headline": "US makes $20,000 visa bond permanent for Bangladeshis",
-  "topic": "us-visa-bond-permanent-bangladeshis",
-  "source": "Dhaka Tribune, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-01T12:09:29Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "778bb7433abe7886",
-  "url": "https://www.thedailystar.net/news/world/us-israel-war-iran/news/iran-military-accuses-us-escalating-tensions-region-4237636",
-  "headline": "Iran warns US of escalating tensions in the Middle East",
-  "topic": "iran-us-tensions-escalation",
-  "source": "The Daily Star, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-01T13:07:34Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "c14bef949c160dff",
   "url": "https://www.prothomalo.com/world/middle-east/xdtk9t6iuo",
   "headline": "Iran warns US of escalating tensions in the Middle East",
@@ -8398,5 +8314,59 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "8b78b7c27ccee253",
+  "url": "https://www.dhakatribune.com/bangladesh/416752/pm-inaugurates-july-uprising-museum",
+  "headline": "PM Tareque Rahman inaugurates July Uprising Memorial Museum",
+  "topic": "pm inaugurates july uprising museum",
+  "source": "Jamuna TV, Dhaka Tribune, Somoy News",
+  "status": "queued",
+  "at": "2026-08-05T04:08:05Z"
+ },
+ {
+  "title_hash": "3c5fa477aea25d22",
+  "url": "https://www.jamuna.tv/national/661533",
+  "headline": "PM Tareque Rahman inaugurates July Uprising Memorial Museum",
+  "topic": "pm inaugurates july uprising museum",
+  "source": "Jamuna TV, Dhaka Tribune, Somoy News",
+  "status": "queued",
+  "at": "2026-08-05T04:08:05Z"
+ },
+ {
+  "title_hash": "532d16b3c1ddbe08",
+  "url": "https://www.somoynews.tv/news/2026-08-05/OFy1SEFW",
+  "headline": "PM Tareque Rahman inaugurates July Uprising Memorial Museum",
+  "topic": "pm inaugurates july uprising museum",
+  "source": "Jamuna TV, Dhaka Tribune, Somoy News",
+  "status": "queued",
+  "at": "2026-08-05T04:08:05Z"
+ },
+ {
+  "title_hash": "1762f5737546ef44",
+  "url": "https://www.jamuna.tv/national/661532",
+  "headline": "Digital forensics uncovers Sheikh Hasina's secret telecom network during escape",
+  "topic": "hasina's last hours and departure",
+  "source": "Jamuna TV, Somoy News, Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-05T04:08:05Z"
+ },
+ {
+  "title_hash": "868746fcfde91467",
+  "url": "https://www.somoynews.tv/news/2026-08-05/KXt8230X",
+  "headline": "Digital forensics uncovers Sheikh Hasina's secret telecom network during escape",
+  "topic": "hasina's last hours and departure",
+  "source": "Jamuna TV, Somoy News, Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-05T04:08:05Z"
+ },
+ {
+  "title_hash": "20e14464f3805c32",
+  "url": "https://www.prothomalo.com/bangladesh/1hh1ftgdiv",
+  "headline": "Digital forensics uncovers Sheikh Hasina's secret telecom network during escape",
+  "topic": "hasina's last hours and departure",
+  "source": "Jamuna TV, Somoy News, Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-05T04:08:05Z"
  }
 ]
