@@ -8363,8 +8363,13 @@
   "headline": "112 bodies, 40 children recovered from Gaza rubble after 2 years",
   "topic": "gaza civilians killed in israeli airstrikes",
   "source": "Jamuna TV",
-  "status": "queued",
-  "at": "2026-08-05T06:09:15Z"
+  "status": "failed",
+  "at": "2026-08-05T06:09:15Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "f4075d0dfe06d560",
@@ -8372,8 +8377,13 @@
   "headline": "Trump warns Iran: Open Strait of Hormuz or face 'hit very hard'",
   "topic": "trump warns iran to open hormuz strait",
   "source": "Jamuna TV, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-05T06:09:15Z"
+  "status": "failed",
+  "at": "2026-08-05T06:09:15Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "029af884d527018a",
@@ -8381,7 +8391,12 @@
   "headline": "Trump warns Iran: Open Strait of Hormuz or face 'hit very hard'",
   "topic": "trump warns iran to open hormuz strait",
   "source": "Jamuna TV, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-05T06:09:15Z"
+  "status": "failed",
+  "at": "2026-08-05T06:09:15Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
