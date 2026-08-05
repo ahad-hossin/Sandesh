@@ -1,61 +1,5 @@
 [
  {
-  "title_hash": "7574743cd1e05390",
-  "url": "https://www.prothomalo.com/politics/ihnp78yils",
-  "headline": "BNP authorizes Tarique Rahman to finalize presidential candidate",
-  "topic": "bnp-tarique-presidential-candidate",
-  "source": "Somoy News, Dhaka Tribune, Jamuna TV, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-08-01T23:07:12Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "588911edfe2836f1",
-  "url": "https://www.thedailystar.net/news/bangladesh/news/tarique-pick-bnp-presidential-candidate-4238006",
-  "headline": "BNP authorizes Tarique Rahman to finalize presidential candidate",
-  "topic": "bnp-tarique-presidential-candidate",
-  "source": "Somoy News, Dhaka Tribune, Jamuna TV, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-08-01T23:07:12Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "958ef28261b406d0",
-  "url": "https://www.thedailystar.net/news/bangladesh/news/police-hq-issues-nationwide-alert-over-possible-attacks-police-vehicles-4237961",
-  "headline": "Police HQ issues nationwide alert over possible attacks on police vehicles",
-  "topic": "police-hq-alert-vehicle-attacks",
-  "source": "The Daily Star, Jamuna TV, Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-08-01T23:07:12Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "e25c3145001fe124",
-  "url": "https://www.jamuna.tv/national/661327",
-  "headline": "Police HQ issues nationwide alert over possible attacks on police vehicles",
-  "topic": "police-hq-alert-vehicle-attacks",
-  "source": "The Daily Star, Jamuna TV, Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-08-01T23:07:12Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "b2e1272a6cc53b82",
   "url": "https://www.dhakatribune.com/bangladesh/416505/police-hq-issues-highest-alert-for-official",
   "headline": "Police HQ issues nationwide alert over possible attacks on police vehicles",
@@ -8398,5 +8342,41 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "c85cc806d0dd6883",
+  "url": "https://www.thedailystar.net/sports/cricket/news/hridoys-record-fifty-shakibs-breakthrough-send-jaffna-lpl-final-4240836",
+  "headline": "Hridoy's record fifty, Shakib's wicket Jaffna Kings reach LPL final",
+  "topic": "hridoy-shakib-lpl-final",
+  "source": "The Daily Star, Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-05T16:07:35Z"
+ },
+ {
+  "title_hash": "75e207097f939ac2",
+  "url": "https://www.prothomalo.com/sports/cricket/8e8kh66hw6",
+  "headline": "Hridoy's record fifty, Shakib's wicket Jaffna Kings reach LPL final",
+  "topic": "hridoy-shakib-lpl-final",
+  "source": "The Daily Star, Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-05T16:07:35Z"
+ },
+ {
+  "title_hash": "1504dc4c9bef640c",
+  "url": "https://www.thedailystar.net/news/environment/climate-crisis/natural-disaster/news/coxs-bazar-landslides-kill-rohingya-child-disrupt-marine-drive-traffic-4240821",
+  "headline": "Landslides in Cox's Bazar: Rohingya child killed in refugee camp",
+  "topic": "coxs-bazar-landslides",
+  "source": "The Daily Star, Somoy News",
+  "status": "queued",
+  "at": "2026-08-05T16:07:35Z"
+ },
+ {
+  "title_hash": "939d5886ea54f134",
+  "url": "https://www.somoynews.tv/news/2026-08-05/6tu32EWH",
+  "headline": "Landslides in Cox's Bazar: Rohingya child killed in refugee camp",
+  "topic": "coxs-bazar-landslides",
+  "source": "The Daily Star, Somoy News",
+  "status": "queued",
+  "at": "2026-08-05T16:07:35Z"
  }
 ]
