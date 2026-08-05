@@ -8335,8 +8335,13 @@
   "headline": "PM inaugurates July Mass Uprising Memorial Museum in Dhaka; opens to public Thursday",
   "topic": "PM inaugurates July Uprising Museum",
   "source": "Jamuna TV, Dhaka Tribune, Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-05T05:07:13Z"
+  "status": "failed",
+  "at": "2026-08-05T05:07:13Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "3c5fa477aea25d22",
@@ -8344,8 +8349,13 @@
   "headline": "PM inaugurates July Mass Uprising Memorial Museum in Dhaka; opens to public Thursday",
   "topic": "PM inaugurates July Uprising Museum",
   "source": "Jamuna TV, Dhaka Tribune, Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-05T05:07:13Z"
+  "status": "failed",
+  "at": "2026-08-05T05:07:13Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "beb32b7acf2fbc15",
@@ -8353,8 +8363,13 @@
   "headline": "PM inaugurates July Mass Uprising Memorial Museum in Dhaka; opens to public Thursday",
   "topic": "PM inaugurates July Uprising Museum",
   "source": "Jamuna TV, Dhaka Tribune, Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-05T05:07:13Z"
+  "status": "failed",
+  "at": "2026-08-05T05:07:13Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "0b4a36d2e977e168",
@@ -8362,8 +8377,13 @@
   "headline": "PM inaugurates July Mass Uprising Memorial Museum in Dhaka; opens to public Thursday",
   "topic": "PM inaugurates July Uprising Museum",
   "source": "Jamuna TV, Dhaka Tribune, Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-05T05:07:13Z"
+  "status": "failed",
+  "at": "2026-08-05T05:07:13Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "229801aad9ef980f",
@@ -8371,7 +8391,12 @@
   "headline": "52 tons of green chillis imported from India in two days",
   "topic": "Green chillies imported from India",
   "source": "Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-08-05T05:07:13Z"
+  "status": "failed",
+  "at": "2026-08-05T05:07:13Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
