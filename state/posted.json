@@ -8321,8 +8321,13 @@
   "headline": "PM Tareque Rahman inaugurates July Uprising Memorial Museum",
   "topic": "pm inaugurates july uprising museum",
   "source": "Jamuna TV, Dhaka Tribune, Somoy News",
-  "status": "queued",
-  "at": "2026-08-05T04:08:05Z"
+  "status": "failed",
+  "at": "2026-08-05T04:08:05Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "3c5fa477aea25d22",
@@ -8330,8 +8335,13 @@
   "headline": "PM Tareque Rahman inaugurates July Uprising Memorial Museum",
   "topic": "pm inaugurates july uprising museum",
   "source": "Jamuna TV, Dhaka Tribune, Somoy News",
-  "status": "queued",
-  "at": "2026-08-05T04:08:05Z"
+  "status": "failed",
+  "at": "2026-08-05T04:08:05Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "532d16b3c1ddbe08",
@@ -8339,8 +8349,13 @@
   "headline": "PM Tareque Rahman inaugurates July Uprising Memorial Museum",
   "topic": "pm inaugurates july uprising museum",
   "source": "Jamuna TV, Dhaka Tribune, Somoy News",
-  "status": "queued",
-  "at": "2026-08-05T04:08:05Z"
+  "status": "failed",
+  "at": "2026-08-05T04:08:05Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "1762f5737546ef44",
@@ -8348,8 +8363,13 @@
   "headline": "Digital forensics uncovers Sheikh Hasina's secret telecom network during escape",
   "topic": "hasina's last hours and departure",
   "source": "Jamuna TV, Somoy News, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-05T04:08:05Z"
+  "status": "failed",
+  "at": "2026-08-05T04:08:05Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "868746fcfde91467",
@@ -8357,8 +8377,13 @@
   "headline": "Digital forensics uncovers Sheikh Hasina's secret telecom network during escape",
   "topic": "hasina's last hours and departure",
   "source": "Jamuna TV, Somoy News, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-05T04:08:05Z"
+  "status": "failed",
+  "at": "2026-08-05T04:08:05Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "20e14464f3805c32",
@@ -8366,7 +8391,12 @@
   "headline": "Digital forensics uncovers Sheikh Hasina's secret telecom network during escape",
   "topic": "hasina's last hours and departure",
   "source": "Jamuna TV, Somoy News, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-05T04:08:05Z"
+  "status": "failed",
+  "at": "2026-08-05T04:08:05Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
