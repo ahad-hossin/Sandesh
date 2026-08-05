@@ -1,61 +1,5 @@
 [
  {
-  "title_hash": "ec80ed6fb96577d5",
-  "url": "https://www.prothomalo.com/video/78omvyvu07",
-  "headline": "BNP authorizes Tarique Rahman to finalize presidential candidate",
-  "topic": "bnp-tarique-presidential-candidate",
-  "source": "Dhaka Tribune, Somoy News, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-01T21:07:34Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "0a7c00f942ea6669",
-  "url": "https://www.prothomalo.com/politics/raassttrpti-mnonyyner-bhaar-taarek-rhmaaner-opr",
-  "headline": "BNP authorizes Tarique Rahman to finalize presidential candidate",
-  "topic": "bnp-tarique-presidential-candidate",
-  "source": "Dhaka Tribune, Somoy News, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-01T21:07:34Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "7574743cd1e05390",
-  "url": "https://www.prothomalo.com/politics/ihnp78yils",
-  "headline": "BNP authorizes Tarique Rahman to finalize presidential candidate",
-  "topic": "bnp-tarique-presidential-candidate",
-  "source": "Dhaka Tribune, Somoy News, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-01T21:07:34Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "be58d3baa5ab54ab",
-  "url": "https://www.dhakatribune.com/bangladesh/politics/416507/bnp-authorizes-tarique-rahman-to-finalize",
-  "headline": "BNP authorizes Tarique Rahman to finalize presidential candidate",
-  "topic": "bnp-tarique-presidential-candidate",
-  "source": "Dhaka Tribune, Somoy News, Jamuna TV, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-08-01T22:06:38Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "8ef8f7f9ea557d16",
   "url": "https://www.somoynews.tv/news/2026-08-01/HOX72TUK",
   "headline": "BNP authorizes Tarique Rahman to finalize presidential candidate",
@@ -8398,5 +8342,41 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "e62aa3f0a8ab76ce",
+  "url": "https://www.dhakatribune.com/bangladesh/court/416790/prosecution-seeks-meta-data-of-mozaffar-hossain-in",
+  "headline": "North Korea warns of ‘military options’ over Japan rearmament",
+  "topic": "north korea warns japan over rearmament",
+  "source": "Dhaka Tribune, The Daily Star",
+  "status": "queued",
+  "at": "2026-08-05T13:08:06Z"
+ },
+ {
+  "title_hash": "84cd95d3bf761cfc",
+  "url": "https://www.thedailystar.net/news/world/news/north-korea-warns-military-options-over-japan-rearmament-4240751",
+  "headline": "North Korea warns of ‘military options’ over Japan rearmament",
+  "topic": "north korea warns japan over rearmament",
+  "source": "Dhaka Tribune, The Daily Star",
+  "status": "queued",
+  "at": "2026-08-05T13:08:06Z"
+ },
+ {
+  "title_hash": "4e9ff6264f60b7c8",
+  "url": "https://www.dhakatribune.com/bangladesh/campus1/416789/10-injured-in-clash-between-chhatra-dal-shibir",
+  "headline": "10 injured as JCD and Shibir clash at Barishal University",
+  "topic": "barisal university clash between student groups",
+  "source": "Dhaka Tribune, The Daily Star",
+  "status": "queued",
+  "at": "2026-08-05T13:08:06Z"
+ },
+ {
+  "title_hash": "2b66c2246034511f",
+  "url": "https://www.thedailystar.net/news/education/campus/news/least-10-injured-jcd-shibir-clash-barishal-university-4240666",
+  "headline": "10 injured as JCD and Shibir clash at Barishal University",
+  "topic": "barisal university clash between student groups",
+  "source": "Dhaka Tribune, The Daily Star",
+  "status": "queued",
+  "at": "2026-08-05T13:08:06Z"
  }
 ]
