@@ -8349,8 +8349,13 @@
   "headline": "Hridoy's record fifty, Shakib's wicket Jaffna Kings reach LPL final",
   "topic": "hridoy-shakib-lpl-final",
   "source": "The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-05T16:07:35Z"
+  "status": "failed",
+  "at": "2026-08-05T16:07:35Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "75e207097f939ac2",
@@ -8358,8 +8363,13 @@
   "headline": "Hridoy's record fifty, Shakib's wicket Jaffna Kings reach LPL final",
   "topic": "hridoy-shakib-lpl-final",
   "source": "The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-05T16:07:35Z"
+  "status": "failed",
+  "at": "2026-08-05T16:07:35Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "1504dc4c9bef640c",
@@ -8367,8 +8377,13 @@
   "headline": "Landslides in Cox's Bazar: Rohingya child killed in refugee camp",
   "topic": "coxs-bazar-landslides",
   "source": "The Daily Star, Somoy News",
-  "status": "queued",
-  "at": "2026-08-05T16:07:35Z"
+  "status": "failed",
+  "at": "2026-08-05T16:07:35Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "939d5886ea54f134",
@@ -8376,7 +8391,12 @@
   "headline": "Landslides in Cox's Bazar: Rohingya child killed in refugee camp",
   "topic": "coxs-bazar-landslides",
   "source": "The Daily Star, Somoy News",
-  "status": "queued",
-  "at": "2026-08-05T16:07:35Z"
+  "status": "failed",
+  "at": "2026-08-05T16:07:35Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
