@@ -1,33 +1,5 @@
 [
  {
-  "title_hash": "2f53b5e35549455c",
-  "url": "https://www.thedailystar.net/sports/football/news/timeline-the-rise-and-fall-fifas-private-investment-plan-4237396",
-  "headline": "FIFA scraps private investment plan for World Cup after global backlash",
-  "topic": "fifa-scraps-private-investment-plan",
-  "source": "The Daily Star, Prothom Alo, Jamuna TV",
-  "status": "failed",
-  "at": "2026-08-01T04:06:53Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "f9acff843a975ce1",
-  "url": "https://www.jamuna.tv/sports/661246",
-  "headline": "FIFA scraps private investment plan for World Cup after global backlash",
-  "topic": "fifa-scraps-private-investment-plan",
-  "source": "The Daily Star, Prothom Alo, Jamuna TV",
-  "status": "failed",
-  "at": "2026-08-01T04:06:53Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "c79013f92fdeef2c",
   "url": "https://www.thedailystar.net/news/world/usa/news/us-fighter-jet-crashes-near-california-military-base-4237421",
   "headline": "US F-35 fighter jet crashes near California military base",
@@ -8398,5 +8370,23 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "9a3cfc81cfcec158",
+  "url": "https://www.somoynews.tv/news/2026-08-04/WtIwST05",
+  "headline": "Actor Ilias Kanchan, currently in Bangladesh for treatment, to return to London this month for further care",
+  "topic": "ilias kanchan london return",
+  "source": "Somoy News",
+  "status": "queued",
+  "at": "2026-08-05T00:08:17Z"
+ },
+ {
+  "title_hash": "70d7e32b1678fbad",
+  "url": "https://www.somoynews.tv/news/2026-08-04/0WZUD9Tt",
+  "headline": "Content creator Ripon fined BDT 5 lakh in arbitration over alleged rape of teenager",
+  "topic": "content creator rape fine",
+  "source": "Somoy News",
+  "status": "queued",
+  "at": "2026-08-05T00:08:17Z"
  }
 ]
