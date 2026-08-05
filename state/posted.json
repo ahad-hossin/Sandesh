@@ -1,75 +1,5 @@
 [
  {
-  "title_hash": "48cc0b1d33ee3a46",
-  "url": "https://www.prothomalo.com/bangladesh/pulisher-yaanbaahne-haamlaar-shngkaayy-deshjurre-strktaa",
-  "headline": "Police HQ issues nationwide alert over possible attacks on police vehicles",
-  "topic": "police-vehicle-attack-alert",
-  "source": "The Daily Star, Jamuna TV, Dhaka Tribune, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-01T21:07:34Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "ac06f310bd322ece",
-  "url": "https://www.prothomalo.com/bangladesh/iykxj19zpu",
-  "headline": "Police HQ issues nationwide alert over possible attacks on police vehicles",
-  "topic": "police-vehicle-attack-alert",
-  "source": "The Daily Star, Jamuna TV, Dhaka Tribune, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-01T21:07:34Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "be58d3baa5ab54ab",
-  "url": "https://www.dhakatribune.com/bangladesh/politics/416507/bnp-authorizes-tarique-rahman-to-finalize",
-  "headline": "BNP authorizes Tarique Rahman to finalize presidential candidate",
-  "topic": "bnp-tarique-presidential-candidate",
-  "source": "Dhaka Tribune, Somoy News, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-01T21:07:34Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "8ef8f7f9ea557d16",
-  "url": "https://www.somoynews.tv/news/2026-08-01/HOX72TUK",
-  "headline": "BNP authorizes Tarique Rahman to finalize presidential candidate",
-  "topic": "bnp-tarique-presidential-candidate",
-  "source": "Dhaka Tribune, Somoy News, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-01T21:07:34Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "3dde56c87bd1743c",
-  "url": "https://www.jamuna.tv/national/661324",
-  "headline": "BNP authorizes Tarique Rahman to finalize presidential candidate",
-  "topic": "bnp-tarique-presidential-candidate",
-  "source": "Dhaka Tribune, Somoy News, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-01T21:07:34Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "ec80ed6fb96577d5",
   "url": "https://www.prothomalo.com/video/78omvyvu07",
   "headline": "BNP authorizes Tarique Rahman to finalize presidential candidate",
@@ -8398,5 +8328,50 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "d03aad522072b126",
+  "url": "https://www.dhakatribune.com/bangladesh/politics/416782/jamaat-ameer-another-revolution-imminent-people",
+  "headline": "Jamaat ameer claims another revolution is imminent",
+  "topic": "jamaat ameer imminent revolution",
+  "source": "Prothom Alo, Dhaka Tribune, The Daily Star",
+  "status": "queued",
+  "at": "2026-08-05T12:08:01Z"
+ },
+ {
+  "title_hash": "58b0e529e363683f",
+  "url": "https://www.prothomalo.com/politics/4k5cfkut2j",
+  "headline": "Jamaat ameer claims another revolution is imminent",
+  "topic": "jamaat ameer imminent revolution",
+  "source": "Prothom Alo, Dhaka Tribune, The Daily Star",
+  "status": "queued",
+  "at": "2026-08-05T12:08:01Z"
+ },
+ {
+  "title_hash": "b1a41b5a30db2344",
+  "url": "https://www.thedailystar.net/news/politics/news/we-will-not-sit-idly-while-the-country-falls-apart-shafiqur-rahman-4240686",
+  "headline": "Jamaat ameer claims another revolution is imminent",
+  "topic": "jamaat ameer imminent revolution",
+  "source": "Prothom Alo, Dhaka Tribune, The Daily Star",
+  "status": "queued",
+  "at": "2026-08-05T12:08:01Z"
+ },
+ {
+  "title_hash": "a616a006a6c73164",
+  "url": "https://www.dhakatribune.com/bangladesh/416781/acting-president-govt%E2%80%99s-sacred-duty-to-support",
+  "headline": "Acting President: Supporting July martyrs' families is govt's sacred duty",
+  "topic": "acting president july martyrs support",
+  "source": "Dhaka Tribune, Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-05T12:08:01Z"
+ },
+ {
+  "title_hash": "51ab6907f194d846",
+  "url": "https://www.prothomalo.com/politics/nwepmt41hz",
+  "headline": "Acting President: Supporting July martyrs' families is govt's sacred duty",
+  "topic": "acting president july martyrs support",
+  "source": "Dhaka Tribune, Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-05T12:08:01Z"
  }
 ]
