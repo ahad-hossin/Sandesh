@@ -1,47 +1,5 @@
 [
  {
-  "title_hash": "ed294f020fc7bb40",
-  "url": "https://www.thedailystar.net/news/bangladesh/news/gas-shortage-sparks-extensive-power-cuts-4238811",
-  "headline": "Gas shortage disrupts transport and sparks power cuts across Bangladesh",
-  "topic": "gas-shortage-transport-disruption",
-  "source": "Dhaka Tribune, Somoy News, The Daily Star",
-  "status": "failed",
-  "at": "2026-08-03T00:09:30Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "e4838529c12bad1b",
-  "url": "https://www.dhakatribune.com/bangladesh/politics/416584/jamaat-voices-concern-over-lpg-price-hike",
-  "headline": "LPG price hike effective from evening in Bangladesh; Jamaat expresses concern",
-  "topic": "lpg-price-hike-bangladesh",
-  "source": "Dhaka Tribune, Somoy News",
-  "status": "failed",
-  "at": "2026-08-03T00:09:30Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "27f795ede26ea59e",
-  "url": "https://www.somoynews.tv/news/2026-08-02/LW8BytVC",
-  "headline": "LPG price hike effective from evening in Bangladesh; Jamaat expresses concern",
-  "topic": "lpg-price-hike-bangladesh",
-  "source": "Dhaka Tribune, Somoy News",
-  "status": "failed",
-  "at": "2026-08-03T00:09:30Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "dbee47eb41c6d380",
   "url": "https://www.somoynews.tv/news/2026-08-02/GNw1szBM",
   "headline": "Justice for July killings to be ensured, but interim govt faces discrimination allegations",
@@ -8398,5 +8356,32 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "cbd81bc1c2b77075",
+  "url": "https://www.somoynews.tv/news/2026-08-06/P2EQBYJ2",
+  "headline": "Obaidul Quader ordered attacks on students via phone call",
+  "topic": "obaidul kader order attack students",
+  "source": "Somoy News, Jamuna TV",
+  "status": "queued",
+  "at": "2026-08-06T14:10:55Z"
+ },
+ {
+  "title_hash": "eac201e965d93135",
+  "url": "https://www.jamuna.tv/national/661649",
+  "headline": "Obaidul Quader ordered attacks on students via phone call",
+  "topic": "obaidul kader order attack students",
+  "source": "Somoy News, Jamuna TV",
+  "status": "queued",
+  "at": "2026-08-06T14:10:55Z"
+ },
+ {
+  "title_hash": "60b9db85af9a5a46",
+  "url": "https://www.somoynews.tv/news/2026-08-06/3Gv5Z2zX",
+  "headline": "Ishrak Hossain claims interim govt embezzled funds for July martyrs' graves",
+  "topic": "ishrak hossain interim govt july martyrs money",
+  "source": "Somoy News",
+  "status": "queued",
+  "at": "2026-08-06T14:10:55Z"
  }
 ]
