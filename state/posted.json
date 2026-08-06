@@ -1,75 +1,5 @@
 [
  {
-  "title_hash": "fd183f74acc748a1",
-  "url": "https://www.jamuna.tv/all-bangladesh/661387",
-  "headline": "UAE court grants bail to ex-IGP Benazir Ahmed but bars him from leaving",
-  "topic": "benazir-ahmed-uae-bail-repatriation",
-  "source": "Jamuna TV, Somoy News, Prothom Alo, The Daily Star, Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-08-02T14:08:05Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "f4156e25904f2625",
-  "url": "https://www.somoynews.tv/news/2026-08-02/CtB56QUI",
-  "headline": "UAE court grants bail to ex-IGP Benazir Ahmed but bars him from leaving",
-  "topic": "benazir-ahmed-uae-bail-repatriation",
-  "source": "Jamuna TV, Somoy News, Prothom Alo, The Daily Star, Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-08-02T14:08:05Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "8134bc5d2893e164",
-  "url": "https://www.prothomalo.com/bangladesh/psn9g0vuq0",
-  "headline": "UAE court grants bail to ex-IGP Benazir Ahmed but bars him from leaving",
-  "topic": "benazir-ahmed-uae-bail-repatriation",
-  "source": "Jamuna TV, Somoy News, Prothom Alo, The Daily Star, Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-08-02T14:08:05Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "f58e8027a37983c5",
-  "url": "https://www.dhakatribune.com/bangladesh/foreign-affairs/416544/humaiun-kobir-govt-starts-process-to-repatriate",
-  "headline": "UAE court grants bail to ex-IGP Benazir Ahmed but bars him from leaving",
-  "topic": "benazir-ahmed-uae-bail-repatriation",
-  "source": "Jamuna TV, Somoy News, Prothom Alo, The Daily Star, Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-08-02T14:08:05Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "6ec441fc1db26715",
-  "url": "https://www.thedailystar.net/news/news/no-official-word-benazirs-reported-dubai-bail-acc-4238371",
-  "headline": "UAE court grants bail to ex-IGP Benazir Ahmed but bars him from leaving",
-  "topic": "benazir-ahmed-uae-bail-repatriation",
-  "source": "Jamuna TV, Somoy News, Prothom Alo, The Daily Star, Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-08-02T14:08:05Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "3d06f480c031b5df",
   "url": "https://www.prothomalo.com/bangladesh/district/1vvpzlybpi",
   "headline": "UAE court grants bail to ex-IGP Benazir Ahmed but bars him from leaving",
@@ -8398,5 +8328,50 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "cc470506bff68e2b",
+  "url": "https://www.dhakatribune.com/bangladesh/416823/gold-prices-rise-again",
+  "headline": "Gold prices in Bangladesh jump by BDT 9,856 per bhori, reaching BDT 232,930",
+  "topic": "gold price hike",
+  "source": "Dhaka Tribune, Jamuna TV",
+  "status": "queued",
+  "at": "2026-08-06T05:07:45Z"
+ },
+ {
+  "title_hash": "109d0fc5442c048b",
+  "url": "https://www.jamuna.tv/national/661601",
+  "headline": "Gold prices in Bangladesh jump by BDT 9,856 per bhori, reaching BDT 232,930",
+  "topic": "gold price hike",
+  "source": "Dhaka Tribune, Jamuna TV",
+  "status": "queued",
+  "at": "2026-08-06T05:07:45Z"
+ },
+ {
+  "title_hash": "f9ce03dcc189b224",
+  "url": "https://www.thedailystar.net/sports/football/news/messi-sizzles-double-first-start-world-cup-final-sets-leagues-cup-record-4241311",
+  "headline": "Messi scores record double in first start since World Cup final, leads Inter Miami to victory",
+  "topic": "messi inter miami win",
+  "source": "The Daily Star, Jamuna TV, Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-06T05:07:45Z"
+ },
+ {
+  "title_hash": "87305c578a13e3ee",
+  "url": "https://www.jamuna.tv/sports/661596",
+  "headline": "Messi scores record double in first start since World Cup final, leads Inter Miami to victory",
+  "topic": "messi inter miami win",
+  "source": "The Daily Star, Jamuna TV, Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-06T05:07:45Z"
+ },
+ {
+  "title_hash": "c7cbe56324f1165c",
+  "url": "https://www.prothomalo.com/sports/football/hcjauppgtf",
+  "headline": "Messi scores record double in first start since World Cup final, leads Inter Miami to victory",
+  "topic": "messi inter miami win",
+  "source": "The Daily Star, Jamuna TV, Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-06T05:07:45Z"
  }
 ]
