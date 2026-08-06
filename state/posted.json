@@ -8307,8 +8307,13 @@
   "headline": "4-hour power outages expected across parts of Bangladesh on Thursday",
   "topic": "scheduled power outages",
   "source": "Somoy News",
-  "status": "queued",
-  "at": "2026-08-06T00:07:02Z"
+  "status": "failed",
+  "at": "2026-08-06T00:07:02Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "74475292bddd8534",
@@ -8316,8 +8321,13 @@
   "headline": "Dhaka outraged as India allows Hasina media event, calls it 'detrimental' to ties",
   "topic": "hasina delhi media event controversy",
   "source": "The Daily Star, Dhaka Tribune, Jamuna TV, Somoy News",
-  "status": "queued",
-  "at": "2026-08-06T00:07:02Z"
+  "status": "failed",
+  "at": "2026-08-06T00:07:02Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "e76deae045a0a967",
@@ -8325,8 +8335,13 @@
   "headline": "Dhaka outraged as India allows Hasina media event, calls it 'detrimental' to ties",
   "topic": "hasina delhi media event controversy",
   "source": "The Daily Star, Dhaka Tribune, Jamuna TV, Somoy News",
-  "status": "queued",
-  "at": "2026-08-06T00:07:02Z"
+  "status": "failed",
+  "at": "2026-08-06T00:07:02Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "70216248a5920de2",
@@ -8334,8 +8349,13 @@
   "headline": "Dhaka outraged as India allows Hasina media event, calls it 'detrimental' to ties",
   "topic": "hasina delhi media event controversy",
   "source": "The Daily Star, Dhaka Tribune, Jamuna TV, Somoy News",
-  "status": "queued",
-  "at": "2026-08-06T00:07:02Z"
+  "status": "failed",
+  "at": "2026-08-06T00:07:02Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "51630adb8b70d3ff",
@@ -8343,8 +8363,13 @@
   "headline": "Dhaka outraged as India allows Hasina media event, calls it 'detrimental' to ties",
   "topic": "hasina delhi media event controversy",
   "source": "The Daily Star, Dhaka Tribune, Jamuna TV, Somoy News",
-  "status": "queued",
-  "at": "2026-08-06T00:07:02Z"
+  "status": "failed",
+  "at": "2026-08-06T00:07:02Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "73086e7517e93ba4",
@@ -8352,8 +8377,13 @@
   "headline": "Dhaka outraged as India allows Hasina media event, calls it 'detrimental' to ties",
   "topic": "hasina delhi media event controversy",
   "source": "The Daily Star, Dhaka Tribune, Jamuna TV, Somoy News",
-  "status": "queued",
-  "at": "2026-08-06T00:07:02Z"
+  "status": "failed",
+  "at": "2026-08-06T00:07:02Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "7da468d9c9429183",
@@ -8361,7 +8391,12 @@
   "headline": "Dhaka outraged as India allows Hasina media event, calls it 'detrimental' to ties",
   "topic": "hasina delhi media event controversy",
   "source": "The Daily Star, Dhaka Tribune, Jamuna TV, Somoy News",
-  "status": "queued",
-  "at": "2026-08-06T00:07:02Z"
+  "status": "failed",
+  "at": "2026-08-06T00:07:02Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
