@@ -8307,8 +8307,13 @@
   "headline": "EC: Presidential election on August 20",
   "topic": "bangladesh presidential election schedule",
   "source": "Dhaka Tribune, The Daily Star, Somoy News, Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-06T11:06:39Z"
+  "status": "failed",
+  "at": "2026-08-06T11:06:39Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "db8694ccf2e117f4",
@@ -8316,8 +8321,13 @@
   "headline": "EC: Presidential election on August 20",
   "topic": "bangladesh presidential election schedule",
   "source": "Dhaka Tribune, The Daily Star, Somoy News, Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-06T11:06:39Z"
+  "status": "failed",
+  "at": "2026-08-06T11:06:39Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "94fa071484902618",
@@ -8325,8 +8335,13 @@
   "headline": "EC: Presidential election on August 20",
   "topic": "bangladesh presidential election schedule",
   "source": "Dhaka Tribune, The Daily Star, Somoy News, Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-06T11:06:39Z"
+  "status": "failed",
+  "at": "2026-08-06T11:06:39Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "99e5036ac4e3c12b",
@@ -8334,8 +8349,13 @@
   "headline": "EC: Presidential election on August 20",
   "topic": "bangladesh presidential election schedule",
   "source": "Dhaka Tribune, The Daily Star, Somoy News, Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-06T11:06:39Z"
+  "status": "failed",
+  "at": "2026-08-06T11:06:39Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "94fa071484902618",
@@ -8343,8 +8363,13 @@
   "headline": "EC: Presidential election on August 20",
   "topic": "bangladesh presidential election schedule",
   "source": "Dhaka Tribune, The Daily Star, Somoy News, Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-06T11:06:39Z"
+  "status": "failed",
+  "at": "2026-08-06T11:06:39Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "74b57c4fe2ce33c9",
@@ -8352,8 +8377,13 @@
   "headline": "Measles outbreak: Death toll reaches 860 as six die in 24 hours",
   "topic": "measles outbreak death toll",
   "source": "Dhaka Tribune, Jamuna TV",
-  "status": "queued",
-  "at": "2026-08-06T11:06:39Z"
+  "status": "failed",
+  "at": "2026-08-06T11:06:39Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "ca8bd21d852a7970",
@@ -8361,7 +8391,12 @@
   "headline": "Measles outbreak: Death toll reaches 860 as six die in 24 hours",
   "topic": "measles outbreak death toll",
   "source": "Dhaka Tribune, Jamuna TV",
-  "status": "queued",
-  "at": "2026-08-06T11:06:39Z"
+  "status": "failed",
+  "at": "2026-08-06T11:06:39Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
