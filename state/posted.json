@@ -8349,8 +8349,13 @@
   "headline": "Messi nets record double in Inter Miami's 4-2 win, becomes Leagues Cup all-time top scorer",
   "topic": "Messi Inter Miami Win",
   "source": "Jamuna TV, Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-06T04:07:19Z"
+  "status": "failed",
+  "at": "2026-08-06T04:07:19Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "87305c578a13e3ee",
@@ -8358,8 +8363,13 @@
   "headline": "Messi nets record double in Inter Miami's 4-2 win, becomes Leagues Cup all-time top scorer",
   "topic": "Messi Inter Miami Win",
   "source": "Jamuna TV, Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-06T04:07:19Z"
+  "status": "failed",
+  "at": "2026-08-06T04:07:19Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "c7cbe56324f1165c",
@@ -8367,8 +8377,13 @@
   "headline": "Messi nets record double in Inter Miami's 4-2 win, becomes Leagues Cup all-time top scorer",
   "topic": "Messi Inter Miami Win",
   "source": "Jamuna TV, Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-06T04:07:19Z"
+  "status": "failed",
+  "at": "2026-08-06T04:07:19Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "fcf93492ec83f957",
@@ -8376,7 +8391,12 @@
   "headline": "Gusty winds up to 60 km/h and thunderstorms forecast for 6 districts by afternoon",
   "topic": "6 Districts Thunderstorm Forecast",
   "source": "Jamuna TV",
-  "status": "queued",
-  "at": "2026-08-06T04:07:19Z"
+  "status": "failed",
+  "at": "2026-08-06T04:07:19Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
