@@ -8335,8 +8335,13 @@
   "headline": "Gold prices in Bangladesh jump by BDT 9,856 per bhori, reaching BDT 232,930",
   "topic": "gold price hike",
   "source": "Dhaka Tribune, Jamuna TV",
-  "status": "queued",
-  "at": "2026-08-06T05:07:45Z"
+  "status": "failed",
+  "at": "2026-08-06T05:07:45Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "109d0fc5442c048b",
@@ -8344,8 +8349,13 @@
   "headline": "Gold prices in Bangladesh jump by BDT 9,856 per bhori, reaching BDT 232,930",
   "topic": "gold price hike",
   "source": "Dhaka Tribune, Jamuna TV",
-  "status": "queued",
-  "at": "2026-08-06T05:07:45Z"
+  "status": "failed",
+  "at": "2026-08-06T05:07:45Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "f9ce03dcc189b224",
@@ -8353,8 +8363,13 @@
   "headline": "Messi scores record double in first start since World Cup final, leads Inter Miami to victory",
   "topic": "messi inter miami win",
   "source": "The Daily Star, Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-06T05:07:45Z"
+  "status": "failed",
+  "at": "2026-08-06T05:07:45Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "87305c578a13e3ee",
@@ -8362,8 +8377,13 @@
   "headline": "Messi scores record double in first start since World Cup final, leads Inter Miami to victory",
   "topic": "messi inter miami win",
   "source": "The Daily Star, Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-06T05:07:45Z"
+  "status": "failed",
+  "at": "2026-08-06T05:07:45Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "c7cbe56324f1165c",
@@ -8371,7 +8391,12 @@
   "headline": "Messi scores record double in first start since World Cup final, leads Inter Miami to victory",
   "topic": "messi inter miami win",
   "source": "The Daily Star, Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-06T05:07:45Z"
+  "status": "failed",
+  "at": "2026-08-06T05:07:45Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
