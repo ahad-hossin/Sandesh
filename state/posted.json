@@ -8335,8 +8335,13 @@
   "headline": "Call record reveals Obaidul Quader ordered attacks on students",
   "topic": "obaidul kader saddam audio record",
   "source": "Jamuna TV, Prothom Alo, Somoy News",
-  "status": "queued",
-  "at": "2026-08-06T12:07:38Z"
+  "status": "failed",
+  "at": "2026-08-06T12:07:38Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "3c17108b4f66fa24",
@@ -8344,8 +8349,13 @@
   "headline": "Call record reveals Obaidul Quader ordered attacks on students",
   "topic": "obaidul kader saddam audio record",
   "source": "Jamuna TV, Prothom Alo, Somoy News",
-  "status": "queued",
-  "at": "2026-08-06T12:07:38Z"
+  "status": "failed",
+  "at": "2026-08-06T12:07:38Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "cbd81bc1c2b77075",
@@ -8353,8 +8363,13 @@
   "headline": "Call record reveals Obaidul Quader ordered attacks on students",
   "topic": "obaidul kader saddam audio record",
   "source": "Jamuna TV, Prothom Alo, Somoy News",
-  "status": "queued",
-  "at": "2026-08-06T12:07:38Z"
+  "status": "failed",
+  "at": "2026-08-06T12:07:38Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "d37ed33caa38c5a0",
@@ -8362,8 +8377,13 @@
   "headline": "471 more hospitalised with dengue in 24 hours",
   "topic": "dengue cases rise",
   "source": "Dhaka Tribune, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-06T12:07:38Z"
+  "status": "failed",
+  "at": "2026-08-06T12:07:38Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "9ce424c8b5657779",
@@ -8371,7 +8391,12 @@
   "headline": "471 more hospitalised with dengue in 24 hours",
   "topic": "dengue cases rise",
   "source": "Dhaka Tribune, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-06T12:07:38Z"
+  "status": "failed",
+  "at": "2026-08-06T12:07:38Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
