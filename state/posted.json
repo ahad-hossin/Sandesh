@@ -1,61 +1,5 @@
 [
  {
-  "title_hash": "04f1274cb3a4306a",
-  "url": "https://www.jamuna.tv/economy/661381",
-  "headline": "LPG price rises by Tk 70 for August",
-  "topic": "lp-gas-price-hike",
-  "source": "Prothom Alo, Dhaka Tribune, Jamuna TV, Somoy News, The Daily Star",
-  "status": "failed",
-  "at": "2026-08-02T14:08:05Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "27f795ede26ea59e",
-  "url": "https://www.somoynews.tv/news/2026-08-02/LW8BytVC",
-  "headline": "LPG price rises by Tk 70 for August",
-  "topic": "lp-gas-price-hike",
-  "source": "Prothom Alo, Dhaka Tribune, Jamuna TV, Somoy News, The Daily Star",
-  "status": "failed",
-  "at": "2026-08-02T14:08:05Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "71d70d6cb4eaf34f",
-  "url": "https://www.thedailystar.net/news/environment/natural-resources/energy/news/lpg-price-rises-tk-70-tk-1598-12kg-cylinder-august-4238336",
-  "headline": "LPG price rises by Tk 70 for August",
-  "topic": "lp-gas-price-hike",
-  "source": "Prothom Alo, Dhaka Tribune, Jamuna TV, Somoy News, The Daily Star",
-  "status": "failed",
-  "at": "2026-08-02T14:08:05Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "4be834266950b854",
-  "url": "https://www.thedailystar.net/news/news/benazir-granted-bail-uae-barred-leaving-country-salahuddin-4238406",
-  "headline": "UAE court grants bail to ex-IGP Benazir Ahmed but bars him from leaving",
-  "topic": "benazir-ahmed-uae-bail-repatriation",
-  "source": "Jamuna TV, Somoy News, Prothom Alo, The Daily Star, Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-08-02T14:08:05Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "fd183f74acc748a1",
   "url": "https://www.jamuna.tv/all-bangladesh/661387",
   "headline": "UAE court grants bail to ex-IGP Benazir Ahmed but bars him from leaving",
@@ -8398,5 +8342,41 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "f9ce03dcc189b224",
+  "url": "https://www.thedailystar.net/sports/football/news/messi-sizzles-double-first-start-world-cup-final-sets-leagues-cup-record-4241311",
+  "headline": "Messi nets record double in Inter Miami's 4-2 win, becomes Leagues Cup all-time top scorer",
+  "topic": "Messi Inter Miami Win",
+  "source": "Jamuna TV, Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-08-06T04:07:19Z"
+ },
+ {
+  "title_hash": "87305c578a13e3ee",
+  "url": "https://www.jamuna.tv/sports/661596",
+  "headline": "Messi nets record double in Inter Miami's 4-2 win, becomes Leagues Cup all-time top scorer",
+  "topic": "Messi Inter Miami Win",
+  "source": "Jamuna TV, Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-08-06T04:07:19Z"
+ },
+ {
+  "title_hash": "c7cbe56324f1165c",
+  "url": "https://www.prothomalo.com/sports/football/hcjauppgtf",
+  "headline": "Messi nets record double in Inter Miami's 4-2 win, becomes Leagues Cup all-time top scorer",
+  "topic": "Messi Inter Miami Win",
+  "source": "Jamuna TV, Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-08-06T04:07:19Z"
+ },
+ {
+  "title_hash": "fcf93492ec83f957",
+  "url": "https://www.jamuna.tv/weather/661594",
+  "headline": "Gusty winds up to 60 km/h and thunderstorms forecast for 6 districts by afternoon",
+  "topic": "6 Districts Thunderstorm Forecast",
+  "source": "Jamuna TV",
+  "status": "queued",
+  "at": "2026-08-06T04:07:19Z"
  }
 ]
