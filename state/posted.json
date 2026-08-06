@@ -8363,8 +8363,13 @@
   "headline": "Obaidul Quader ordered attacks on students via phone call",
   "topic": "obaidul kader order attack students",
   "source": "Somoy News, Jamuna TV",
-  "status": "queued",
-  "at": "2026-08-06T14:10:55Z"
+  "status": "failed",
+  "at": "2026-08-06T14:10:55Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "eac201e965d93135",
@@ -8372,8 +8377,13 @@
   "headline": "Obaidul Quader ordered attacks on students via phone call",
   "topic": "obaidul kader order attack students",
   "source": "Somoy News, Jamuna TV",
-  "status": "queued",
-  "at": "2026-08-06T14:10:55Z"
+  "status": "failed",
+  "at": "2026-08-06T14:10:55Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "60b9db85af9a5a46",
@@ -8381,7 +8391,12 @@
   "headline": "Ishrak Hossain claims interim govt embezzled funds for July martyrs' graves",
   "topic": "ishrak hossain interim govt july martyrs money",
   "source": "Somoy News",
-  "status": "queued",
-  "at": "2026-08-06T14:10:55Z"
+  "status": "failed",
+  "at": "2026-08-06T14:10:55Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
