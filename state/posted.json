@@ -1,75 +1,5 @@
 [
  {
-  "title_hash": "dc854c23cd62d37a",
-  "url": "https://www.prothomalo.com/bangladesh/yxulg420zr",
-  "headline": "Ex-IGP Benazir Ahmed released from Dubai jail amid unconfirmed reports",
-  "topic": "ex-igp-benazir-uae-repatriation",
-  "source": "Dhaka Tribune, Prothom Alo, Jamuna TV",
-  "status": "failed",
-  "at": "2026-08-02T12:07:41Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "e2365062532f4919",
-  "url": "https://www.jamuna.tv/national/661366",
-  "headline": "Ex-IGP Benazir Ahmed released from Dubai jail amid unconfirmed reports",
-  "topic": "ex-igp-benazir-uae-repatriation",
-  "source": "Dhaka Tribune, Prothom Alo, Jamuna TV",
-  "status": "failed",
-  "at": "2026-08-02T12:07:41Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "aba774975677c92a",
-  "url": "https://www.dhakatribune.com/bangladesh/power-energy/416547/berc-raises-12kg-lpg-price-by-tk70-for-august",
-  "headline": "Tk70 hike: 12kg LPG cylinder price rises to Tk1,598 for August",
-  "topic": "lpg-price-hike-august",
-  "source": "Dhaka Tribune, Jamuna TV",
-  "status": "failed",
-  "at": "2026-08-02T12:07:41Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "04f1274cb3a4306a",
-  "url": "https://www.jamuna.tv/economy/661381",
-  "headline": "Tk70 hike: 12kg LPG cylinder price rises to Tk1,598 for August",
-  "topic": "lpg-price-hike-august",
-  "source": "Dhaka Tribune, Jamuna TV",
-  "status": "failed",
-  "at": "2026-08-02T12:07:41Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "571c863d6365aec6",
-  "url": "https://www.dhakatribune.com/bangladesh/health/416559/measles-outbreak-death-toll-reaches-844-as-four",
-  "headline": "844 children die as measles outbreak worsens in Bangladesh",
-  "topic": "measles-outbreak-death-toll-rises",
-  "source": "Dhaka Tribune, The Daily Star, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-02T13:08:25Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "10af932cdaf76c68",
   "url": "https://www.thedailystar.net/health/disease/news/4-more-children-die-measles-symptoms-4238286",
   "headline": "844 children die as measles outbreak worsens in Bangladesh",
@@ -8398,5 +8328,50 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "74d588f2b3a847d5",
+  "url": "https://www.dhakatribune.com/bangladesh/nation/416810/shakib-al-hasan%E2%80%99s-magura-house-targeted-in-attack",
+  "headline": "Petrol bomb hurled at Shakib Al Hasan's house in Magura; police investigating incident",
+  "topic": "shakib al hasan house attacked",
+  "source": "Dhaka Tribune, Jamuna TV, The Daily Star",
+  "status": "queued",
+  "at": "2026-08-06T01:17:27Z"
+ },
+ {
+  "title_hash": "36b8d73340856bd8",
+  "url": "https://www.jamuna.tv/all-bangladesh/661583",
+  "headline": "Petrol bomb hurled at Shakib Al Hasan's house in Magura; police investigating incident",
+  "topic": "shakib al hasan house attacked",
+  "source": "Dhaka Tribune, Jamuna TV, The Daily Star",
+  "status": "queued",
+  "at": "2026-08-06T01:17:27Z"
+ },
+ {
+  "title_hash": "51630adb8b70d3ff",
+  "url": "https://www.thedailystar.net/news/crime-justice/news/shakibs-magura-home-vandalised-after-he-joined-hasinas-media-event-delhi-4241256",
+  "headline": "Petrol bomb hurled at Shakib Al Hasan's house in Magura; police investigating incident",
+  "topic": "shakib al hasan house attacked",
+  "source": "Dhaka Tribune, Jamuna TV, The Daily Star",
+  "status": "queued",
+  "at": "2026-08-06T01:17:27Z"
+ },
+ {
+  "title_hash": "6ea50f73654caaae",
+  "url": "https://www.thedailystar.net/news/bangladesh/news/tagores-85th-death-anniv-today-4241246",
+  "headline": "Rabindranath Tagore's 85th death anniversary observed today, honoring his immense legacy",
+  "topic": "tagore 85th death anniversary",
+  "source": "Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-08-06T01:17:27Z"
+ },
+ {
+  "title_hash": "abc66488cd2bc726",
+  "url": "https://www.prothomalo.com/bangladesh/3pewwxai7z",
+  "headline": "Rabindranath Tagore's 85th death anniversary observed today, honoring his immense legacy",
+  "topic": "tagore 85th death anniversary",
+  "source": "Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-08-06T01:17:27Z"
  }
 ]
