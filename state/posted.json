@@ -8321,8 +8321,13 @@
   "headline": "India says it does not support remarks of ousted PM Sheikh Hasina",
   "topic": "india denies support for hasina remarks",
   "source": "Prothom Alo, Somoy News, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-08-07T18:06:40Z"
+  "status": "failed",
+  "at": "2026-08-07T18:06:40Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "2d008c7b56745630",
@@ -8330,8 +8335,13 @@
   "headline": "India says it does not support remarks of ousted PM Sheikh Hasina",
   "topic": "india denies support for hasina remarks",
   "source": "Prothom Alo, Somoy News, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-08-07T18:06:40Z"
+  "status": "failed",
+  "at": "2026-08-07T18:06:40Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "2503c1928bae499d",
@@ -8339,8 +8349,13 @@
   "headline": "India says it does not support remarks of ousted PM Sheikh Hasina",
   "topic": "india denies support for hasina remarks",
   "source": "Prothom Alo, Somoy News, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-08-07T18:06:40Z"
+  "status": "failed",
+  "at": "2026-08-07T18:06:40Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "ea1b60cfa96f8c5a",
@@ -8348,8 +8363,13 @@
   "headline": "India says it does not support remarks of ousted PM Sheikh Hasina",
   "topic": "india denies support for hasina remarks",
   "source": "Prothom Alo, Somoy News, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-08-07T18:06:40Z"
+  "status": "failed",
+  "at": "2026-08-07T18:06:40Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "f23ab027fa3e2c78",
@@ -8357,8 +8377,13 @@
   "headline": "Investigation reveals underworld links in high-profile killings",
   "topic": "underworld links in high profile killings",
   "source": "Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-08-07T18:06:40Z"
+  "status": "failed",
+  "at": "2026-08-07T18:06:40Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "147d76d33813ad60",
@@ -8366,7 +8391,12 @@
   "headline": "Investigation reveals underworld links in high-profile killings",
   "topic": "underworld links in high profile killings",
   "source": "Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-08-07T18:06:40Z"
+  "status": "failed",
+  "at": "2026-08-07T18:06:40Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
