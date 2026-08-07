@@ -8377,8 +8377,13 @@
   "headline": "Unemployment among university graduates hits 13.54% in Bangladesh, highest across all education levels",
   "topic": "Unemployment crisis for graduates",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-07T03:07:38Z"
+  "status": "failed",
+  "at": "2026-08-07T03:07:38Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "1b1298b5c77c76a2",
@@ -8386,7 +8391,12 @@
   "headline": "10 teachers teach without pay for over a decade at Nasirnagar Chatalpar Degree College",
   "topic": "Teachers unpaid for decade continue teaching",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-07T03:07:38Z"
+  "status": "failed",
+  "at": "2026-08-07T03:07:38Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
