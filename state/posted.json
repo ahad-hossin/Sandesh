@@ -1,89 +1,5 @@
 [
  {
-  "title_hash": "574e0480e8606aac",
-  "url": "https://www.jamuna.tv/all-bangladesh/661483",
-  "headline": "Rail link between Dhaka and northern Bangladesh snapped after derailment",
-  "topic": "dhaka north rail link snapped",
-  "source": "Jamuna TV, The Daily Star",
-  "status": "failed",
-  "at": "2026-08-04T07:07:43Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "b731a2f5c52388b0",
-  "url": "https://www.thedailystar.net/news/education/campus/news/jcd-shibir-clash-jagannath-university-over-placards-4239806",
-  "headline": "Student wings of JCD and Shibir clash at Jagannath University, several injured",
-  "topic": "jagannath university student clashes",
-  "source": "Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-08-04T08:07:26Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "870fdb2a23615d14",
-  "url": "https://www.prothomalo.com/politics/jzhzk1qn97",
-  "headline": "Student wings of JCD and Shibir clash at Jagannath University, several injured",
-  "topic": "jagannath university student clashes",
-  "source": "Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-08-04T08:07:26Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "aa060db119761a3b",
-  "url": "https://www.dhakatribune.com/bangladesh/416682/how-to-book-tickets-for-july-uprising-museum",
-  "headline": "July Mass Uprising Memorial Museum to open August 6",
-  "topic": "july uprising museum inauguration",
-  "source": "Dhaka Tribune, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-04T08:07:26Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "d1bde57fd091f459",
-  "url": "https://www.jamuna.tv/national/661489",
-  "headline": "July Mass Uprising Memorial Museum to open August 6",
-  "topic": "july uprising museum inauguration",
-  "source": "Dhaka Tribune, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-04T08:07:26Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "37352c8e4987aee6",
-  "url": "https://www.prothomalo.com/bangladesh/r2bak5v84h",
-  "headline": "July Mass Uprising Memorial Museum to open August 6",
-  "topic": "july uprising museum inauguration",
-  "source": "Dhaka Tribune, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-04T08:07:26Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "d42575a5ac135651",
   "url": "https://www.thedailystar.net/news/bangladesh/transport/news/rail-link-between-dhaka-and-northern-bangladesh-snapped-following-derailment-4239771",
   "headline": "Silk City Express derailment: Rail link between Dhaka and north snapped",
@@ -8398,5 +8314,59 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "9372fbbd43025963",
+  "url": "https://www.prothomalo.com/world/lq5ajyrlpf",
+  "headline": "AI creates 16 new viruses different from any natural ones",
+  "topic": "ai creates 16 new viruses",
+  "source": "Prothom Alo, Jamuna TV",
+  "status": "queued",
+  "at": "2026-08-07T22:06:50Z"
+ },
+ {
+  "title_hash": "3d9cf59927786cad",
+  "url": "https://www.jamuna.tv/technology/661725",
+  "headline": "AI creates 16 new viruses different from any natural ones",
+  "topic": "ai creates 16 new viruses",
+  "source": "Prothom Alo, Jamuna TV",
+  "status": "queued",
+  "at": "2026-08-07T22:06:50Z"
+ },
+ {
+  "title_hash": "06d5e79745405270",
+  "url": "https://www.thedailystar.net/news/crime-justice/news/content-creator-held-over-rape-15-yr-old-girl-4242476",
+  "headline": "Content creator arrested for raping 15-year-old girl in Netrokona",
+  "topic": "content creator arrested netrokona rape",
+  "source": "The Daily Star, Dhaka Tribune, Jamuna TV, Somoy News",
+  "status": "queued",
+  "at": "2026-08-07T22:06:50Z"
+ },
+ {
+  "title_hash": "5a5198310bc29274",
+  "url": "https://www.dhakatribune.com/bangladesh/crime/416955/content-creator-ripon-mia-arrested-in-netrokona",
+  "headline": "Content creator arrested for raping 15-year-old girl in Netrokona",
+  "topic": "content creator arrested netrokona rape",
+  "source": "The Daily Star, Dhaka Tribune, Jamuna TV, Somoy News",
+  "status": "queued",
+  "at": "2026-08-07T22:06:50Z"
+ },
+ {
+  "title_hash": "9a646d5ef492ec80",
+  "url": "https://www.jamuna.tv/all-bangladesh/661706",
+  "headline": "Content creator arrested for raping 15-year-old girl in Netrokona",
+  "topic": "content creator arrested netrokona rape",
+  "source": "The Daily Star, Dhaka Tribune, Jamuna TV, Somoy News",
+  "status": "queued",
+  "at": "2026-08-07T22:06:50Z"
+ },
+ {
+  "title_hash": "b153532c76629100",
+  "url": "https://www.somoynews.tv/news/2026-08-07/YxL8Z9Rx",
+  "headline": "Content creator arrested for raping 15-year-old girl in Netrokona",
+  "topic": "content creator arrested netrokona rape",
+  "source": "The Daily Star, Dhaka Tribune, Jamuna TV, Somoy News",
+  "status": "queued",
+  "at": "2026-08-07T22:06:50Z"
  }
 ]
