@@ -1,33 +1,5 @@
 [
  {
-  "title_hash": "7ec74ab9767219e2",
-  "url": "https://www.jamuna.tv/international/661406",
-  "headline": "Trump calls off 'disastrous' strikes, negotiations with Iran to begin Monday",
-  "topic": "trump-iran-talks-avoid-strikes",
-  "source": "Jamuna TV, The Daily Star, Somoy News",
-  "status": "failed",
-  "at": "2026-08-03T05:07:04Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "8ef0d0628ef8b4e3",
-  "url": "https://www.somoynews.tv/news/2026-08-03/TI7XS2SA",
-  "headline": "Trump calls off 'disastrous' strikes, negotiations with Iran to begin Monday",
-  "topic": "trump-iran-talks-avoid-strikes",
-  "source": "Jamuna TV, The Daily Star, Somoy News",
-  "status": "failed",
-  "at": "2026-08-03T05:07:04Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "dd7ac2956a14c58f",
   "url": "https://www.somoynews.tv/news/2026-08-03/DWsQ1QuL",
   "headline": "Adenovirus increasing risks for measles patients, 2,000 children left scarred",
@@ -8398,5 +8370,23 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "511aba71c88b5090",
+  "url": "https://www.prothomalo.com/bangladesh/crime/ndxwezer0b",
+  "headline": "Looted weapons used in crimes, hundreds of escaped prisoners still at large after July uprising",
+  "topic": "unrecovered stolen weapons and escaped prisoners",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-07T02:07:28Z"
+ },
+ {
+  "title_hash": "c81fca9c9e7723ca",
+  "url": "https://www.prothomalo.com/entertainment/dhallywood/t25eq3v4sa",
+  "headline": "Samanzar Sayeed to represent Bangladesh at 75th Miss World in Vietnam",
+  "topic": "bangladesh contestant miss world",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-07T02:07:28Z"
  }
 ]
