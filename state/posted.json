@@ -8377,8 +8377,13 @@
   "headline": "Looted weapons used in crimes, hundreds of escaped prisoners still at large after July uprising",
   "topic": "unrecovered stolen weapons and escaped prisoners",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-07T02:07:28Z"
+  "status": "failed",
+  "at": "2026-08-07T02:07:28Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "c81fca9c9e7723ca",
@@ -8386,7 +8391,12 @@
   "headline": "Samanzar Sayeed to represent Bangladesh at 75th Miss World in Vietnam",
   "topic": "bangladesh contestant miss world",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-07T02:07:28Z"
+  "status": "failed",
+  "at": "2026-08-07T02:07:28Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
