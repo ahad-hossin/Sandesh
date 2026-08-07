@@ -1,47 +1,5 @@
 [
  {
-  "title_hash": "85dfa296210fffff",
-  "url": "https://www.prothomalo.com/bangladesh/eddino-bhaairaas-baarraacche-haamer-rogiir-jhunki",
-  "headline": "Adenovirus increasing risks for measles patients, 2,000 children left scarred",
-  "topic": "adenovirus-increases-measles-risk",
-  "source": "Somoy News, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-03T05:07:04Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "4c820228a7b8960b",
-  "url": "https://www.prothomalo.com/bangladesh/4gyjh2p0pn",
-  "headline": "Adenovirus increasing risks for measles patients, 2,000 children left scarred",
-  "topic": "adenovirus-increases-measles-risk",
-  "source": "Somoy News, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-03T05:07:04Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "794f0b8b7c8f9b77",
-  "url": "https://www.prothomalo.com/video/international/k80ls7j696",
-  "headline": "2 killed as two firefighting helicopters collide in mid-air in Greece",
-  "topic": "two-helicopters-collide-mid-air-killing-2",
-  "source": "Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-03T06:07:09Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "5c3fa38a131e6156",
   "url": "https://www.dhakatribune.com/bangladesh/crime/416590/pregnant-woman-dies-after-alleged-assault-by",
   "headline": "Pregnant woman dies after alleged assault by husband in Dhamrai",
@@ -8398,5 +8356,32 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "524c88dc5fa775c8",
+  "url": "https://www.prothomalo.com/chakri/chakri-news/jtui9et2nn",
+  "headline": "13.54% of university graduates are unemployed in Bangladesh, highest among all education levels",
+  "topic": "Bangladesh youth unemployment crisis",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-07T04:08:18Z"
+ },
+ {
+  "title_hash": "71bcac80454f0f4f",
+  "url": "https://www.prothomalo.com/bangladesh/district/rribrxzjpn",
+  "headline": "6 killed in bus crash and 10 injured in Bogura early Friday morning",
+  "topic": "Bogura bus crash kills 6",
+  "source": "Prothom Alo, Somoy News",
+  "status": "queued",
+  "at": "2026-08-07T04:08:18Z"
+ },
+ {
+  "title_hash": "06c434914a05603d",
+  "url": "https://www.somoynews.tv/news/2026-08-07/x829J2Cz",
+  "headline": "6 killed in bus crash and 10 injured in Bogura early Friday morning",
+  "topic": "Bogura bus crash kills 6",
+  "source": "Prothom Alo, Somoy News",
+  "status": "queued",
+  "at": "2026-08-07T04:08:18Z"
  }
 ]
