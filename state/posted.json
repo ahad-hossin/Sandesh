@@ -1,61 +1,5 @@
 [
  {
-  "title_hash": "860270cdde252d56",
-  "url": "https://www.prothomalo.com/bangladesh/district/te45dc5otm",
-  "headline": "Gas crisis hits economy: Garment sector operating at 40% capacity",
-  "topic": "bangladesh-electricity-crisis",
-  "source": "Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-08-04T06:07:31Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "6dac1d73d7724e55",
-  "url": "https://www.jamuna.tv/national/661486",
-  "headline": "93 killed on Aug 4 as ‘March to Dhaka’ moved up to Aug 5",
-  "topic": "march to dhaka advanced",
-  "source": "Jamuna TV, Somoy News",
-  "status": "failed",
-  "at": "2026-08-04T07:07:43Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "1ad6c0ecbbecf289",
-  "url": "https://www.somoynews.tv/news/2026-08-04/09Iy7xW9",
-  "headline": "93 killed on Aug 4 as ‘March to Dhaka’ moved up to Aug 5",
-  "topic": "march to dhaka advanced",
-  "source": "Jamuna TV, Somoy News",
-  "status": "failed",
-  "at": "2026-08-04T07:07:43Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "d42575a5ac135651",
-  "url": "https://www.thedailystar.net/news/bangladesh/transport/news/rail-link-between-dhaka-and-northern-bangladesh-snapped-following-derailment-4239771",
-  "headline": "Rail link between Dhaka and northern Bangladesh snapped after derailment",
-  "topic": "dhaka north rail link snapped",
-  "source": "Jamuna TV, The Daily Star",
-  "status": "failed",
-  "at": "2026-08-04T07:07:43Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "574e0480e8606aac",
   "url": "https://www.jamuna.tv/all-bangladesh/661483",
   "headline": "Rail link between Dhaka and northern Bangladesh snapped after derailment",
@@ -8398,5 +8342,41 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "be335af534fbab25",
+  "url": "https://www.prothomalo.com/world/middle-east/gozj1ktvq0",
+  "headline": "Trump says war with Iran will end soon, Hormuz deal near",
+  "topic": "us iran peace talks",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-07T21:08:09Z"
+ },
+ {
+  "title_hash": "5a5198310bc29274",
+  "url": "https://www.dhakatribune.com/bangladesh/crime/416955/content-creator-ripon-mia-arrested-in-netrokona",
+  "headline": "Content creator Ripon Mia arrested for rape of 15-year-old girl in Netrokona",
+  "topic": "content creator arrested rape",
+  "source": "Dhaka Tribune, The Daily Star, Jamuna TV",
+  "status": "queued",
+  "at": "2026-08-07T21:08:09Z"
+ },
+ {
+  "title_hash": "06d5e79745405270",
+  "url": "https://www.thedailystar.net/news/crime-justice/news/content-creator-held-over-rape-15-yr-old-girl-4242476",
+  "headline": "Content creator Ripon Mia arrested for rape of 15-year-old girl in Netrokona",
+  "topic": "content creator arrested rape",
+  "source": "Dhaka Tribune, The Daily Star, Jamuna TV",
+  "status": "queued",
+  "at": "2026-08-07T21:08:09Z"
+ },
+ {
+  "title_hash": "9a646d5ef492ec80",
+  "url": "https://www.jamuna.tv/all-bangladesh/661706",
+  "headline": "Content creator Ripon Mia arrested for rape of 15-year-old girl in Netrokona",
+  "topic": "content creator arrested rape",
+  "source": "Dhaka Tribune, The Daily Star, Jamuna TV",
+  "status": "queued",
+  "at": "2026-08-07T21:08:09Z"
  }
 ]
