@@ -1,47 +1,5 @@
 [
  {
-  "title_hash": "5c3fa38a131e6156",
-  "url": "https://www.dhakatribune.com/bangladesh/crime/416590/pregnant-woman-dies-after-alleged-assault-by",
-  "headline": "Pregnant woman dies after alleged assault by husband in Dhamrai",
-  "topic": "pregnant-woman-dies-after-alleged-assault-by-husband",
-  "source": "Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-08-03T06:07:09Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "db52fa9eabdda26e",
-  "url": "https://www.dhakatribune.com/bangladesh/416593/pm-appeals-for-public-help-to-keep-bangladesh",
-  "headline": "PM Kills Littering to keep Bangladesh clean and litter-free",
-  "topic": "pm-clean-bangladesh-appeal",
-  "source": "Dhaka Tribune, Jamuna TV",
-  "status": "failed",
-  "at": "2026-08-03T07:07:29Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "dc1347b235ce8222",
-  "url": "https://www.jamuna.tv/national/661420",
-  "headline": "PM Kills Littering to keep Bangladesh clean and litter-free",
-  "topic": "pm-clean-bangladesh-appeal",
-  "source": "Dhaka Tribune, Jamuna TV",
-  "status": "failed",
-  "at": "2026-08-03T07:07:29Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "dde0fa73bb64f4bb",
   "url": "https://www.thedailystar.net/news/bangladesh/news/measles-shots-mop-drive-does-lot-better-4238791",
   "headline": "4.7 lakh children vaccinated in special drive to curb measles outbreak",
@@ -8398,5 +8356,32 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "81be904d2aaf315e",
+  "url": "https://www.prothomalo.com/bangladesh/district/c6qffex1fg",
+  "headline": "8 killed and 25 injured in head-on bus collision on Dhaka-Sylhet highway",
+  "topic": "bus collision kills 8 in Sylhet",
+  "source": "Prothom Alo, Jamuna TV",
+  "status": "queued",
+  "at": "2026-08-07T05:08:28Z"
+ },
+ {
+  "title_hash": "4ef692169da5a4ed",
+  "url": "https://www.jamuna.tv/all-bangladesh/661679",
+  "headline": "8 killed and 25 injured in head-on bus collision on Dhaka-Sylhet highway",
+  "topic": "bus collision kills 8 in Sylhet",
+  "source": "Prothom Alo, Jamuna TV",
+  "status": "queued",
+  "at": "2026-08-07T05:08:28Z"
+ },
+ {
+  "title_hash": "4b769ecaccb62c57",
+  "url": "https://www.dhakatribune.com/bangladesh/nation/416899/bus-loses-control-kills-7-labourers-in-bogra",
+  "headline": "Bus loses control, kills 7 labourers in Bogra",
+  "topic": "bus kills 7 labourers in Bogra",
+  "source": "Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-08-07T05:08:28Z"
  }
 ]
