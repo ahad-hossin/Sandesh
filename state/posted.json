@@ -1,75 +1,5 @@
 [
  {
-  "title_hash": "55233df6153a1d23",
-  "url": "https://www.thedailystar.net/news/world/us-israel-war-iran/news/iran-denies-us-talks-underway-4239616",
-  "headline": "Trump says new US-Iran talks begin, but Tehran denies negotiations are underway",
-  "topic": "trump-iran-ultimatum-hormuz",
-  "source": "Somoy News, Jamuna TV, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-08-04T03:09:46Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "7e55131c662c539b",
-  "url": "https://www.somoynews.tv/news/2026-08-04/VZt55uQC",
-  "headline": "Trump says new US-Iran talks begin, but Tehran denies negotiations are underway",
-  "topic": "trump-iran-ultimatum-hormuz",
-  "source": "Somoy News, Jamuna TV, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-08-04T03:09:46Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "a0a1411096988c09",
-  "url": "https://www.jamuna.tv/international/661473",
-  "headline": "Trump says new US-Iran talks begin, but Tehran denies negotiations are underway",
-  "topic": "trump-iran-ultimatum-hormuz",
-  "source": "Somoy News, Jamuna TV, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-08-04T03:09:46Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "6e7d46200d062d55",
-  "url": "https://www.jamuna.tv/international/661470",
-  "headline": "Trump says new US-Iran talks begin, but Tehran denies negotiations are underway",
-  "topic": "trump-iran-ultimatum-hormuz",
-  "source": "Somoy News, Jamuna TV, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-08-04T03:09:46Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "a3cfadf3f2c682c8",
-  "url": "https://www.jamuna.tv/international/661469",
-  "headline": "Trump says new US-Iran talks begin, but Tehran denies negotiations are underway",
-  "topic": "trump-iran-ultimatum-hormuz",
-  "source": "Somoy News, Jamuna TV, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-08-04T03:09:46Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "0da2cde1d7d62d0a",
   "url": "https://www.jamuna.tv/international/661468",
   "headline": "Trump says new US-Iran talks begin, but Tehran denies negotiations are underway",
@@ -8398,5 +8328,50 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "0d2e8f0db8168238",
+  "url": "https://www.dhakatribune.com/bangladesh/416943/biman-flight-from-toronto-to-dhaka-grounded-in",
+  "headline": "259 passengers stranded as Biman flight stuck in Rome for 7.5 hours",
+  "topic": "biman flight rome emergency landing",
+  "source": "Jamuna TV, Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-08-07T16:07:02Z"
+ },
+ {
+  "title_hash": "fdce1643badad6b3",
+  "url": "https://www.jamuna.tv/international/661724",
+  "headline": "259 passengers stranded as Biman flight stuck in Rome for 7.5 hours",
+  "topic": "biman flight rome emergency landing",
+  "source": "Jamuna TV, Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-08-07T16:07:02Z"
+ },
+ {
+  "title_hash": "2f7e3d9a6c63d0a7",
+  "url": "https://www.dhakatribune.com/bangladesh/nation/416951/over-500-workers-laid-off-at-garment-factory",
+  "headline": "565 workers laid off at Ashulia garment factory due to order slump",
+  "topic": "ashulia garment factory layoffs",
+  "source": "Dhaka Tribune, The Daily Star",
+  "status": "queued",
+  "at": "2026-08-07T16:07:02Z"
+ },
+ {
+  "title_hash": "5dcb67c842c16db9",
+  "url": "https://www.thedailystar.net/business/economy/rmg/news/565-workers-lose-jobs-ashulia-garment-factory-management-cites-order-slump-4242301",
+  "headline": "565 workers laid off at Ashulia garment factory due to order slump",
+  "topic": "ashulia garment factory layoffs",
+  "source": "Dhaka Tribune, The Daily Star",
+  "status": "queued",
+  "at": "2026-08-07T16:07:02Z"
+ },
+ {
+  "title_hash": "141530837626956a",
+  "url": "https://www.dhakatribune.com/bangladesh/416926/ashulia-garment-factory-lays-off-565-workers",
+  "headline": "565 workers laid off at Ashulia garment factory due to order slump",
+  "topic": "ashulia garment factory layoffs",
+  "source": "Dhaka Tribune, The Daily Star",
+  "status": "queued",
+  "at": "2026-08-07T16:07:02Z"
  }
 ]
