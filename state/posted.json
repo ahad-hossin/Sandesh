@@ -8335,8 +8335,13 @@
   "headline": "259 passengers stranded as Biman flight stuck in Rome for 7.5 hours",
   "topic": "biman flight rome emergency landing",
   "source": "Jamuna TV, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-08-07T16:07:02Z"
+  "status": "failed",
+  "at": "2026-08-07T16:07:02Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "fdce1643badad6b3",
@@ -8344,8 +8349,13 @@
   "headline": "259 passengers stranded as Biman flight stuck in Rome for 7.5 hours",
   "topic": "biman flight rome emergency landing",
   "source": "Jamuna TV, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-08-07T16:07:02Z"
+  "status": "failed",
+  "at": "2026-08-07T16:07:02Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "2f7e3d9a6c63d0a7",
@@ -8353,8 +8363,13 @@
   "headline": "565 workers laid off at Ashulia garment factory due to order slump",
   "topic": "ashulia garment factory layoffs",
   "source": "Dhaka Tribune, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-07T16:07:02Z"
+  "status": "failed",
+  "at": "2026-08-07T16:07:02Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "5dcb67c842c16db9",
@@ -8362,8 +8377,13 @@
   "headline": "565 workers laid off at Ashulia garment factory due to order slump",
   "topic": "ashulia garment factory layoffs",
   "source": "Dhaka Tribune, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-07T16:07:02Z"
+  "status": "failed",
+  "at": "2026-08-07T16:07:02Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "141530837626956a",
@@ -8371,7 +8391,12 @@
   "headline": "565 workers laid off at Ashulia garment factory due to order slump",
   "topic": "ashulia garment factory layoffs",
   "source": "Dhaka Tribune, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-07T16:07:02Z"
+  "status": "failed",
+  "at": "2026-08-07T16:07:02Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
