@@ -8363,8 +8363,13 @@
   "headline": "Over 200 migrants rescued off Greece coast, mostly from Bangladesh and Sudan",
   "topic": "migrants rescued greece",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-07T23:07:57Z"
+  "status": "failed",
+  "at": "2026-08-07T23:07:57Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "3d9cf59927786cad",
@@ -8372,8 +8377,13 @@
   "headline": "AI model creates 16 new viruses after DNA training",
   "topic": "ai creates new viruses",
   "source": "Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-07T23:07:57Z"
+  "status": "failed",
+  "at": "2026-08-07T23:07:57Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "9372fbbd43025963",
@@ -8381,7 +8391,12 @@
   "headline": "AI model creates 16 new viruses after DNA training",
   "topic": "ai creates new viruses",
   "source": "Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-07T23:07:57Z"
+  "status": "failed",
+  "at": "2026-08-07T23:07:57Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
