@@ -8307,8 +8307,13 @@
   "headline": "Shakib Al Hasan says he is ready to return home and face trial if given security",
   "topic": "shakib al hasan return trial",
   "source": "The Daily Star",
-  "status": "queued",
-  "at": "2026-08-07T12:08:07Z"
+  "status": "failed",
+  "at": "2026-08-07T12:08:07Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "ec0f7be5b65d87c0",
@@ -8316,8 +8321,13 @@
   "headline": "9 killed in two-bus collision in Sylhet",
   "topic": "sylhet bus collision",
   "source": "Dhaka Tribune, The Daily Star, Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-07T12:08:07Z"
+  "status": "failed",
+  "at": "2026-08-07T12:08:07Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "7aa776e692945b0a",
@@ -8325,8 +8335,13 @@
   "headline": "9 killed in two-bus collision in Sylhet",
   "topic": "sylhet bus collision",
   "source": "Dhaka Tribune, The Daily Star, Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-07T12:08:07Z"
+  "status": "failed",
+  "at": "2026-08-07T12:08:07Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "3c386e5cd8abfb41",
@@ -8334,8 +8349,13 @@
   "headline": "9 killed in two-bus collision in Sylhet",
   "topic": "sylhet bus collision",
   "source": "Dhaka Tribune, The Daily Star, Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-07T12:08:07Z"
+  "status": "failed",
+  "at": "2026-08-07T12:08:07Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "86414d18c80bbaf0",
@@ -8343,8 +8363,13 @@
   "headline": "9 killed in two-bus collision in Sylhet",
   "topic": "sylhet bus collision",
   "source": "Dhaka Tribune, The Daily Star, Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-07T12:08:07Z"
+  "status": "failed",
+  "at": "2026-08-07T12:08:07Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "4ef692169da5a4ed",
@@ -8352,8 +8377,13 @@
   "headline": "9 killed in two-bus collision in Sylhet",
   "topic": "sylhet bus collision",
   "source": "Dhaka Tribune, The Daily Star, Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-07T12:08:07Z"
+  "status": "failed",
+  "at": "2026-08-07T12:08:07Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "ab114903616c2eb5",
@@ -8361,7 +8391,12 @@
   "headline": "9 killed in two-bus collision in Sylhet",
   "topic": "sylhet bus collision",
   "source": "Dhaka Tribune, The Daily Star, Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-07T12:08:07Z"
+  "status": "failed",
+  "at": "2026-08-07T12:08:07Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
