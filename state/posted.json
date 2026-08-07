@@ -8363,8 +8363,13 @@
   "headline": "13.54% of university graduates are unemployed in Bangladesh, highest among all education levels",
   "topic": "Bangladesh youth unemployment crisis",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-07T04:08:18Z"
+  "status": "failed",
+  "at": "2026-08-07T04:08:18Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "71bcac80454f0f4f",
@@ -8372,8 +8377,13 @@
   "headline": "6 killed in bus crash and 10 injured in Bogura early Friday morning",
   "topic": "Bogura bus crash kills 6",
   "source": "Prothom Alo, Somoy News",
-  "status": "queued",
-  "at": "2026-08-07T04:08:18Z"
+  "status": "failed",
+  "at": "2026-08-07T04:08:18Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "06c434914a05603d",
@@ -8381,7 +8391,12 @@
   "headline": "6 killed in bus crash and 10 injured in Bogura early Friday morning",
   "topic": "Bogura bus crash kills 6",
   "source": "Prothom Alo, Somoy News",
-  "status": "queued",
-  "at": "2026-08-07T04:08:18Z"
+  "status": "failed",
+  "at": "2026-08-07T04:08:18Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
