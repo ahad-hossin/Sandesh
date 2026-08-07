@@ -1,103 +1,5 @@
 [
  {
-  "title_hash": "67f48835ffdd5b3e",
-  "url": "https://www.thedailystar.net/news/bangladesh/news/case-filed-against-gazi-salahuddin-tanvir-over-facebook-posts-pm-tarique-rahman-4239551",
-  "headline": "Case filed against Gazi Salahuddin Tanvir for derogatory Facebook posts on PM Tarique Rahman",
-  "topic": "bnp-leader-tanvir-facebook-case",
-  "source": "The Daily Star",
-  "status": "failed",
-  "at": "2026-08-04T00:08:04Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "0a3a5a03165667e8",
-  "url": "https://www.dhakatribune.com/bangladesh/court/416624/dentist-murder-husband-granted-two-day-remand",
-  "headline": "Husband remanded in dentist's murder case in Dakshinkhan, Dhaka",
-  "topic": "dakshinkhan-dentist-murder-husband-arrested",
-  "source": "Prothom Alo, Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-08-04T00:08:04Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "73fd7f787c2f2344",
-  "url": "https://www.prothomalo.com/bangladesh/crime/o75yogjbt4",
-  "headline": "Husband remanded in dentist's murder case in Dakshinkhan, Dhaka",
-  "topic": "dakshinkhan-dentist-murder-husband-arrested",
-  "source": "Prothom Alo, Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-08-04T00:08:04Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "55233df6153a1d23",
-  "url": "https://www.thedailystar.net/news/world/us-israel-war-iran/news/iran-denies-us-talks-underway-4239616",
-  "headline": "Iran denies US talks despite Trump's claim of new negotiations starting Monday",
-  "topic": "iran-us-tensions-trump-warnings",
-  "source": "Jamuna TV, Prothom Alo, Somoy News, The Daily Star",
-  "status": "failed",
-  "at": "2026-08-04T01:07:54Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "c5e84edf3275adae",
-  "url": "https://www.jamuna.tv/international/661465",
-  "headline": "Iran denies US talks despite Trump's claim of new negotiations starting Monday",
-  "topic": "iran-us-tensions-trump-warnings",
-  "source": "Jamuna TV, Prothom Alo, Somoy News, The Daily Star",
-  "status": "failed",
-  "at": "2026-08-04T01:07:54Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "caf5c92b6d1e5614",
-  "url": "https://www.prothomalo.com/world/middle-east/7mi9u69tk2",
-  "headline": "Iran denies US talks despite Trump's claim of new negotiations starting Monday",
-  "topic": "iran-us-tensions-trump-warnings",
-  "source": "Jamuna TV, Prothom Alo, Somoy News, The Daily Star",
-  "status": "failed",
-  "at": "2026-08-04T01:07:54Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "c7f8a882fe75d39b",
-  "url": "https://www.jamuna.tv/international/661461",
-  "headline": "Iran denies US talks despite Trump's claim of new negotiations starting Monday",
-  "topic": "iran-us-tensions-trump-warnings",
-  "source": "Jamuna TV, Prothom Alo, Somoy News, The Daily Star",
-  "status": "failed",
-  "at": "2026-08-04T01:07:54Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "ee57fe647bf8d74a",
   "url": "https://www.somoynews.tv/news/2026-08-03/N53sst5T",
   "headline": "Iran denies US talks despite Trump's claim of new negotiations starting Monday",
@@ -8398,5 +8300,68 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "b813ae7621d5ba93",
+  "url": "https://www.thedailystar.net/sports/cricket/news/shakib-says-he-ready-return-home-and-face-trial-if-given-security-4242201",
+  "headline": "Shakib Al Hasan says he is ready to return home and face trial if given security",
+  "topic": "shakib al hasan return trial",
+  "source": "The Daily Star",
+  "status": "queued",
+  "at": "2026-08-07T12:08:07Z"
+ },
+ {
+  "title_hash": "ec0f7be5b65d87c0",
+  "url": "https://www.dhakatribune.com/bangladesh/nation/416901/8-killed-25-injured-in-head-on-bus-collision-in",
+  "headline": "9 killed in two-bus collision in Sylhet",
+  "topic": "sylhet bus collision",
+  "source": "Dhaka Tribune, The Daily Star, Jamuna TV, Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-07T12:08:07Z"
+ },
+ {
+  "title_hash": "7aa776e692945b0a",
+  "url": "https://www.thedailystar.net/news/accidents-fires/news/eight-killed-sylhet-bus-collision-4242086",
+  "headline": "9 killed in two-bus collision in Sylhet",
+  "topic": "sylhet bus collision",
+  "source": "Dhaka Tribune, The Daily Star, Jamuna TV, Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-07T12:08:07Z"
+ },
+ {
+  "title_hash": "3c386e5cd8abfb41",
+  "url": "https://www.jamuna.tv/all-bangladesh/661684",
+  "headline": "9 killed in two-bus collision in Sylhet",
+  "topic": "sylhet bus collision",
+  "source": "Dhaka Tribune, The Daily Star, Jamuna TV, Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-07T12:08:07Z"
+ },
+ {
+  "title_hash": "86414d18c80bbaf0",
+  "url": "https://www.jamuna.tv/all-bangladesh/661683",
+  "headline": "9 killed in two-bus collision in Sylhet",
+  "topic": "sylhet bus collision",
+  "source": "Dhaka Tribune, The Daily Star, Jamuna TV, Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-07T12:08:07Z"
+ },
+ {
+  "title_hash": "4ef692169da5a4ed",
+  "url": "https://www.jamuna.tv/all-bangladesh/661679",
+  "headline": "9 killed in two-bus collision in Sylhet",
+  "topic": "sylhet bus collision",
+  "source": "Dhaka Tribune, The Daily Star, Jamuna TV, Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-07T12:08:07Z"
+ },
+ {
+  "title_hash": "ab114903616c2eb5",
+  "url": "https://www.prothomalo.com/video/bangladesh/54prkc2tsl",
+  "headline": "9 killed in two-bus collision in Sylhet",
+  "topic": "sylhet bus collision",
+  "source": "Dhaka Tribune, The Daily Star, Jamuna TV, Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-07T12:08:07Z"
  }
 ]
