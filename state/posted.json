@@ -8335,8 +8335,13 @@
   "headline": "Shakib Al Hasan ready to return and face trial if security is guaranteed",
   "topic": "shakib al hasan ready to return",
   "source": "Jamuna TV, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-07T13:08:06Z"
+  "status": "failed",
+  "at": "2026-08-07T13:08:06Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "49f6bf95893399a6",
@@ -8344,8 +8349,13 @@
   "headline": "Shakib Al Hasan ready to return and face trial if security is guaranteed",
   "topic": "shakib al hasan ready to return",
   "source": "Jamuna TV, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-07T13:08:06Z"
+  "status": "failed",
+  "at": "2026-08-07T13:08:06Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "e5f54c4c628b93e3",
@@ -8353,8 +8363,13 @@
   "headline": "Sheikh Hasina announces plan to return to Bangladesh in December",
   "topic": "india reaction to hasina press conference",
   "source": "Dhaka Tribune, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-07T13:08:06Z"
+  "status": "failed",
+  "at": "2026-08-07T13:08:06Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "cfc0df03a9c7662e",
@@ -8362,8 +8377,13 @@
   "headline": "Sheikh Hasina announces plan to return to Bangladesh in December",
   "topic": "india reaction to hasina press conference",
   "source": "Dhaka Tribune, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-07T13:08:06Z"
+  "status": "failed",
+  "at": "2026-08-07T13:08:06Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "ea8f7c93c0155ee5",
@@ -8371,7 +8391,12 @@
   "headline": "Sheikh Hasina announces plan to return to Bangladesh in December",
   "topic": "india reaction to hasina press conference",
   "source": "Dhaka Tribune, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-07T13:08:06Z"
+  "status": "failed",
+  "at": "2026-08-07T13:08:06Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
