@@ -1,47 +1,5 @@
 [
  {
-  "title_hash": "d42575a5ac135651",
-  "url": "https://www.thedailystar.net/news/bangladesh/transport/news/rail-link-between-dhaka-and-northern-bangladesh-snapped-following-derailment-4239771",
-  "headline": "Silk City Express derailment: Rail link between Dhaka and north snapped",
-  "topic": "silk city express derailment",
-  "source": "Somoy News, The Daily Star, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-04T09:07:37Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "5bf094095138f3af",
-  "url": "https://www.somoynews.tv/news/2026-08-04/vMHOVu4S",
-  "headline": "Silk City Express derailment: Rail link between Dhaka and north snapped",
-  "topic": "silk city express derailment",
-  "source": "Somoy News, The Daily Star, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-04T09:07:37Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "574e0480e8606aac",
-  "url": "https://www.jamuna.tv/all-bangladesh/661483",
-  "headline": "Silk City Express derailment: Rail link between Dhaka and north snapped",
-  "topic": "silk city express derailment",
-  "source": "Somoy News, The Daily Star, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-04T09:07:37Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "953da6f7dc6230a5",
   "url": "https://www.prothomalo.com/bangladesh/district/fbca4m63a8",
   "headline": "Silk City Express derailment: Rail link between Dhaka and north snapped",
@@ -8398,5 +8356,32 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "d7b361292b6eff55",
+  "url": "https://www.prothomalo.com/world/europe/u52fax3vin",
+  "headline": "Over 200 migrants rescued off Greece coast, mostly from Bangladesh and Sudan",
+  "topic": "migrants rescued greece",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-07T23:07:57Z"
+ },
+ {
+  "title_hash": "3d9cf59927786cad",
+  "url": "https://www.jamuna.tv/technology/661725",
+  "headline": "AI model creates 16 new viruses after DNA training",
+  "topic": "ai creates new viruses",
+  "source": "Jamuna TV, Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-07T23:07:57Z"
+ },
+ {
+  "title_hash": "9372fbbd43025963",
+  "url": "https://www.prothomalo.com/world/lq5ajyrlpf",
+  "headline": "AI model creates 16 new viruses after DNA training",
+  "topic": "ai creates new viruses",
+  "source": "Jamuna TV, Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-07T23:07:57Z"
  }
 ]
