@@ -8321,8 +8321,13 @@
   "headline": "Investigation finds Sheikh Hasina involved in Salahuddin Ahmed's disappearance",
   "topic": "salahuddin-hasina-india-ties",
   "source": "Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-08T13:08:48Z"
+  "status": "failed",
+  "at": "2026-08-08T13:08:48Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "d2ae372b176996ec",
@@ -8330,8 +8335,13 @@
   "headline": "Investigation finds Sheikh Hasina involved in Salahuddin Ahmed's disappearance",
   "topic": "salahuddin-hasina-india-ties",
   "source": "Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-08T13:08:48Z"
+  "status": "failed",
+  "at": "2026-08-08T13:08:48Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "7293795f3bae96f9",
@@ -8339,8 +8349,13 @@
   "headline": "Investigation finds Sheikh Hasina involved in Salahuddin Ahmed's disappearance",
   "topic": "salahuddin-hasina-india-ties",
   "source": "Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-08T13:08:48Z"
+  "status": "failed",
+  "at": "2026-08-08T13:08:48Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "02c472a53936f0c2",
@@ -8348,8 +8363,13 @@
   "headline": "PM hands over appointment letters to 10 July victims’ families",
   "topic": "pm-july-victims-support",
   "source": "Dhaka Tribune, Somoy News",
-  "status": "queued",
-  "at": "2026-08-08T13:08:48Z"
+  "status": "failed",
+  "at": "2026-08-08T13:08:48Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "b5c801636ad0d4f1",
@@ -8357,8 +8377,13 @@
   "headline": "PM hands over appointment letters to 10 July victims’ families",
   "topic": "pm-july-victims-support",
   "source": "Dhaka Tribune, Somoy News",
-  "status": "queued",
-  "at": "2026-08-08T13:08:48Z"
+  "status": "failed",
+  "at": "2026-08-08T13:08:48Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "c670c957b0c2f1a6",
@@ -8366,7 +8391,12 @@
   "headline": "PM hands over appointment letters to 10 July victims’ families",
   "topic": "pm-july-victims-support",
   "source": "Dhaka Tribune, Somoy News",
-  "status": "queued",
-  "at": "2026-08-08T13:08:48Z"
+  "status": "failed",
+  "at": "2026-08-08T13:08:48Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
