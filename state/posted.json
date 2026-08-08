@@ -8377,8 +8377,13 @@
   "headline": "2,200 Hilsa fish caught in one haul, worth 4.85 million BDT",
   "topic": "massive hilsa catch",
   "source": "Somoy News",
-  "status": "queued",
-  "at": "2026-08-08T22:09:53Z"
+  "status": "failed",
+  "at": "2026-08-08T22:09:53Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "a329ff6998afdecc",
@@ -8386,7 +8391,12 @@
   "headline": "2 injured as double-decker bus hits pillar of Elevated Expressway",
   "topic": "elevated expressway bus crash",
   "source": "Somoy News",
-  "status": "queued",
-  "at": "2026-08-08T22:09:53Z"
+  "status": "failed",
+  "at": "2026-08-08T22:09:53Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
