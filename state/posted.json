@@ -1,61 +1,5 @@
 [
  {
-  "title_hash": "535a941b2b35c350",
-  "url": "https://www.dhakatribune.com/bangladesh/campus1/416706/tension-grips-dhaka-college-after-chhatra",
-  "headline": "10 injured, including principal of Dhaka Alia Madrasa, in Shibir-JCD clash",
-  "topic": "chhatra dal shibir clashes campuses",
-  "source": "Dhaka Tribune, Prothom Alo, Jamuna TV",
-  "status": "failed",
-  "at": "2026-08-04T18:07:13Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "0ec37dd634935c41",
-  "url": "https://www.prothomalo.com/video/bangladesh/yetrz81f6b",
-  "headline": "10 injured, including principal of Dhaka Alia Madrasa, in Shibir-JCD clash",
-  "topic": "chhatra dal shibir clashes campuses",
-  "source": "Dhaka Tribune, Prothom Alo, Jamuna TV",
-  "status": "failed",
-  "at": "2026-08-04T18:07:13Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "1d82185b655a28cb",
-  "url": "https://www.prothomalo.com/photo/bangladesh/p5e3vgr6nv",
-  "headline": "10 injured, including principal of Dhaka Alia Madrasa, in Shibir-JCD clash",
-  "topic": "chhatra dal shibir clashes campuses",
-  "source": "Dhaka Tribune, Prothom Alo, Jamuna TV",
-  "status": "failed",
-  "at": "2026-08-04T18:07:13Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "79e3bc62d2d30b6b",
-  "url": "https://www.prothomalo.com/politics/tfktaqsnkn",
-  "headline": "10 injured, including principal of Dhaka Alia Madrasa, in Shibir-JCD clash",
-  "topic": "chhatra dal shibir clashes campuses",
-  "source": "Dhaka Tribune, Prothom Alo, Jamuna TV",
-  "status": "failed",
-  "at": "2026-08-04T18:07:13Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "c257ac3227c1e225",
   "url": "https://www.prothomalo.com/bangladesh/l0zv42oy8c",
   "headline": "10 injured, including principal of Dhaka Alia Madrasa, in Shibir-JCD clash",
@@ -8398,5 +8342,41 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "97087f2367ffc52c",
+  "url": "https://www.thedailystar.net/sports/football/news/reports-say-messis-father-has-passed-away-4242876",
+  "headline": "Jorge Messi, father and agent of Lionel Messi, has died at 68",
+  "topic": "lionel messi father death",
+  "source": "The Daily Star, Jamuna TV, Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-08T16:23:47Z"
+ },
+ {
+  "title_hash": "f14d3b727f02ffdb",
+  "url": "https://www.jamuna.tv/sports/661776",
+  "headline": "Jorge Messi, father and agent of Lionel Messi, has died at 68",
+  "topic": "lionel messi father death",
+  "source": "The Daily Star, Jamuna TV, Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-08T16:23:47Z"
+ },
+ {
+  "title_hash": "5205d199b876a00e",
+  "url": "https://www.prothomalo.com/sports/football/p27ewgqijw",
+  "headline": "Jorge Messi, father and agent of Lionel Messi, has died at 68",
+  "topic": "lionel messi father death",
+  "source": "The Daily Star, Jamuna TV, Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-08T16:23:47Z"
+ },
+ {
+  "title_hash": "b79acf795e827ccd",
+  "url": "https://www.prothomalo.com/sports/football/mbs6lvzfl6",
+  "headline": "Jorge Messi, father and agent of Lionel Messi, has died at 68",
+  "topic": "lionel messi father death",
+  "source": "The Daily Star, Jamuna TV, Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-08T16:23:47Z"
  }
 ]
