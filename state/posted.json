@@ -1,19 +1,5 @@
 [
  {
-  "title_hash": "c257ac3227c1e225",
-  "url": "https://www.prothomalo.com/bangladesh/l0zv42oy8c",
-  "headline": "Over 50 injured as Chhatra Dal and Shibir clash at Dhaka Alia Madrasa",
-  "topic": "chhatra dal shibir clashes dhaka",
-  "source": "Prothom Alo, Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-08-04T19:07:01Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "30378f3a01b508fd",
   "url": "https://www.thedailystar.net/news/bangladesh/news/dmp-tightens-security-across-city-4240331",
   "headline": "DMP tightens security across Dhaka for July Mass Uprising Day",
@@ -8398,5 +8384,14 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "e73b8d8034ba2991",
+  "url": "https://www.somoynews.tv/news/2026-08-08/OM4PSIML",
+  "headline": "Comilla: Tenant kills landlord, dismembers body",
+  "topic": "cumilla tenant kills landlord",
+  "source": "Somoy News",
+  "status": "queued",
+  "at": "2026-08-08T21:58:06Z"
  }
 ]
