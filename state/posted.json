@@ -8335,8 +8335,13 @@
   "headline": "Bangladesh suffer crushing innings defeat after being bowled out for 54 in warm-up game",
   "topic": "bangladesh cricket loss australia",
   "source": "Jamuna TV, Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-08T05:07:49Z"
+  "status": "failed",
+  "at": "2026-08-08T05:07:49Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "868f7ffeb0169c9f",
@@ -8344,8 +8349,13 @@
   "headline": "Bangladesh suffer crushing innings defeat after being bowled out for 54 in warm-up game",
   "topic": "bangladesh cricket loss australia",
   "source": "Jamuna TV, Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-08T05:07:49Z"
+  "status": "failed",
+  "at": "2026-08-08T05:07:49Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "c2bc8cc0ee968f1c",
@@ -8353,8 +8363,13 @@
   "headline": "Bangladesh suffer crushing innings defeat after being bowled out for 54 in warm-up game",
   "topic": "bangladesh cricket loss australia",
   "source": "Jamuna TV, Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-08T05:07:49Z"
+  "status": "failed",
+  "at": "2026-08-08T05:07:49Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "bd23bae24f756a65",
@@ -8362,8 +8377,13 @@
   "headline": "Dhaka-Delhi relations face new tension over Sheikh Hasina's Delhi press interaction",
   "topic": "dhaka delhi hasina tension",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-08T05:07:49Z"
+  "status": "failed",
+  "at": "2026-08-08T05:07:49Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "21aba52764130271",
@@ -8371,7 +8391,12 @@
   "headline": "Dhaka-Delhi relations face new tension over Sheikh Hasina's Delhi press interaction",
   "topic": "dhaka delhi hasina tension",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-08T05:07:49Z"
+  "status": "failed",
+  "at": "2026-08-08T05:07:49Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
