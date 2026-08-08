@@ -8335,8 +8335,13 @@
   "headline": "India says it does not endorse Hasina's remarks at New Delhi event",
   "topic": "bangladesh india hasina tension",
   "source": "Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-08T11:07:08Z"
+  "status": "failed",
+  "at": "2026-08-08T11:07:08Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "c0d0e7c66d236234",
@@ -8344,8 +8349,13 @@
   "headline": "India says it does not endorse Hasina's remarks at New Delhi event",
   "topic": "bangladesh india hasina tension",
   "source": "Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-08T11:07:08Z"
+  "status": "failed",
+  "at": "2026-08-08T11:07:08Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "c4aff84d0a5ef01b",
@@ -8353,8 +8363,13 @@
   "headline": "India says it does not endorse Hasina's remarks at New Delhi event",
   "topic": "bangladesh india hasina tension",
   "source": "Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-08T11:07:08Z"
+  "status": "failed",
+  "at": "2026-08-08T11:07:08Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "082db1a95a842cc2",
@@ -8362,8 +8377,13 @@
   "headline": "24% of children under five suffer from stunting in Bangladesh",
   "topic": "measles outbreak death toll",
   "source": "Dhaka Tribune, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-08T11:07:08Z"
+  "status": "failed",
+  "at": "2026-08-08T11:07:08Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "b3af50f12faba17e",
@@ -8371,7 +8391,12 @@
   "headline": "24% of children under five suffer from stunting in Bangladesh",
   "topic": "measles outbreak death toll",
   "source": "Dhaka Tribune, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-08T11:07:08Z"
+  "status": "failed",
+  "at": "2026-08-08T11:07:08Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
