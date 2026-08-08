@@ -8349,8 +8349,13 @@
   "headline": "Bangladesh protests Sheikh Hasina's Delhi media interaction, sparking new bilateral tension",
   "topic": "Dhaka Delhi relations tension",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-08T04:07:20Z"
+  "status": "failed",
+  "at": "2026-08-08T04:07:20Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "21aba52764130271",
@@ -8358,8 +8363,13 @@
   "headline": "Bangladesh protests Sheikh Hasina's Delhi media interaction, sparking new bilateral tension",
   "topic": "Dhaka Delhi relations tension",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-08T04:07:20Z"
+  "status": "failed",
+  "at": "2026-08-08T04:07:20Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "e4ce40121534ea4a",
@@ -8367,8 +8377,13 @@
   "headline": "Yunus-led interim government sworn in on August 8, 2024, marking a new political chapter",
   "topic": "July uprising 2 year anniversary",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-08T04:07:20Z"
+  "status": "failed",
+  "at": "2026-08-08T04:07:20Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "105e004018804cba",
@@ -8376,7 +8391,12 @@
   "headline": "Yunus-led interim government sworn in on August 8, 2024, marking a new political chapter",
   "topic": "July uprising 2 year anniversary",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-08T04:07:20Z"
+  "status": "failed",
+  "at": "2026-08-08T04:07:20Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
