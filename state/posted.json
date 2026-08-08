@@ -1,47 +1,5 @@
 [
  {
-  "title_hash": "870fdb2a23615d14",
-  "url": "https://www.prothomalo.com/politics/jzhzk1qn97",
-  "headline": "Clashes erupt at JCD and Shibir fight at Jagannath University",
-  "topic": "university student clashes",
-  "source": "The Daily Star, Prothom Alo, Jamuna TV",
-  "status": "failed",
-  "at": "2026-08-04T09:07:37Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "ac9e9c9bdb8fd764",
-  "url": "https://www.dhakatribune.com/bangladesh/416673/green-chilli-imports-resume-through-hili-after-8.5",
-  "headline": "Green chilli prices drop by over 50% as imports resume",
-  "topic": "green chilli prices drop",
-  "source": "Jamuna TV, Somoy News, Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-08-04T10:07:00Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "0ec60f1c36d85a7b",
-  "url": "https://www.jamuna.tv/economy/661503",
-  "headline": "Green chilli prices drop by over 50% as imports resume",
-  "topic": "green chilli prices drop",
-  "source": "Jamuna TV, Somoy News, Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-08-04T10:07:00Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "8ceb9a774de6096e",
   "url": "https://www.somoynews.tv/news/2026-08-04/Z8VAHR4x",
   "headline": "Green chilli prices drop by over 50% as imports resume",
@@ -8398,5 +8356,32 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "b085d6f1c642fafd",
+  "url": "https://www.somoynews.tv/news/2026-08-08/LHyU7zHJ",
+  "headline": "9-hour power outage expected in various areas across the country from morning",
+  "topic": "9 hour power outage areas",
+  "source": "Somoy News",
+  "status": "queued",
+  "at": "2026-08-08T02:08:04Z"
+ },
+ {
+  "title_hash": "e4ce40121534ea4a",
+  "url": "https://www.prothomalo.com/photo/bangladesh/p7hi8pjoug",
+  "headline": "Interim government led by Muhammad Yunus took oath on August 8, 2024, students on streets",
+  "topic": "july uprising anniversary",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-08T02:08:04Z"
+ },
+ {
+  "title_hash": "105e004018804cba",
+  "url": "https://www.prothomalo.com/politics/9wlvdgkdpa",
+  "headline": "Interim government led by Muhammad Yunus took oath on August 8, 2024, students on streets",
+  "topic": "july uprising anniversary",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-08T02:08:04Z"
  }
 ]
