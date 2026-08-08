@@ -1,47 +1,5 @@
 [
  {
-  "title_hash": "953da6f7dc6230a5",
-  "url": "https://www.prothomalo.com/bangladesh/district/fbca4m63a8",
-  "headline": "Silk City Express derailment: Rail link between Dhaka and north snapped",
-  "topic": "silk city express derailment",
-  "source": "Somoy News, The Daily Star, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-04T09:07:37Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "b731a2f5c52388b0",
-  "url": "https://www.thedailystar.net/news/education/campus/news/jcd-shibir-clash-jagannath-university-over-placards-4239806",
-  "headline": "Clashes erupt at JCD and Shibir fight at Jagannath University",
-  "topic": "university student clashes",
-  "source": "The Daily Star, Prothom Alo, Jamuna TV",
-  "status": "failed",
-  "at": "2026-08-04T09:07:37Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "d9f114868f6b13f9",
-  "url": "https://www.prothomalo.com/bangladesh/district/ndtj2qy487",
-  "headline": "Clashes erupt at JCD and Shibir fight at Jagannath University",
-  "topic": "university student clashes",
-  "source": "The Daily Star, Prothom Alo, Jamuna TV",
-  "status": "failed",
-  "at": "2026-08-04T09:07:37Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "8f12430dec157ecd",
   "url": "https://www.thedailystar.net/news/education/campus/news/banner-dispute-sparks-shibir-chhatra-dal-clash-begum-rokeya-university-4239781",
   "headline": "Clashes erupt at JCD and Shibir fight at Jagannath University",
@@ -8398,5 +8356,32 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "d7b361292b6eff55",
+  "url": "https://www.prothomalo.com/world/europe/u52fax3vin",
+  "headline": "Over 200 migrants rescued off Greece coast, mostly from Bangladesh and Sudan",
+  "topic": "bangladeshi migrants rescued greece",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-08T00:07:26Z"
+ },
+ {
+  "title_hash": "3d9cf59927786cad",
+  "url": "https://www.jamuna.tv/technology/661725",
+  "headline": "AI model creates 16 new viruses never before seen in nature, Stanford study reveals",
+  "topic": "ai creates new viruses",
+  "source": "Jamuna TV, Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-08T00:07:26Z"
+ },
+ {
+  "title_hash": "9372fbbd43025963",
+  "url": "https://www.prothomalo.com/world/lq5ajyrlpf",
+  "headline": "AI model creates 16 new viruses never before seen in nature, Stanford study reveals",
+  "topic": "ai creates new viruses",
+  "source": "Jamuna TV, Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-08T00:07:26Z"
  }
 ]
