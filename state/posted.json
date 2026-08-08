@@ -1,61 +1,5 @@
 [
  {
-  "title_hash": "5d1f9a5c6f58c914",
-  "url": "https://www.somoynews.tv/news/2026-08-04/tGCWVTGQ",
-  "headline": "Around 50 injured as student wings clash at Jagannath University",
-  "topic": "student wing clashes universities",
-  "source": "The Daily Star, Somoy News, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-04T10:07:00Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "8f12430dec157ecd",
-  "url": "https://www.thedailystar.net/news/education/campus/news/banner-dispute-sparks-shibir-chhatra-dal-clash-begum-rokeya-university-4239781",
-  "headline": "Around 50 injured as student wings clash at Jagannath University",
-  "topic": "student wing clashes universities",
-  "source": "The Daily Star, Somoy News, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-04T10:07:00Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "8dee8114dfcf10cd",
-  "url": "https://www.prothomalo.com/video/bangladesh/l4fxurf96v",
-  "headline": "Around 50 injured as student wings clash at Jagannath University",
-  "topic": "student wing clashes universities",
-  "source": "The Daily Star, Somoy News, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-04T10:07:00Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "870fdb2a23615d14",
-  "url": "https://www.prothomalo.com/politics/jzhzk1qn97",
-  "headline": "Around 50 injured as student wings clash at Jagannath University",
-  "topic": "student wing clashes universities",
-  "source": "The Daily Star, Somoy News, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-04T10:07:00Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "0837d714ad0ff9ab",
   "url": "https://www.thedailystar.net/news/education/campus/news/jcd-shibir-clash-jagannath-university-over-placards-4239806",
   "headline": "Around 50 injured as student wings clash at Jagannath University",
@@ -8398,5 +8342,41 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "bd23bae24f756a65",
+  "url": "https://www.prothomalo.com/bangladesh/cpnit61ep5",
+  "headline": "Bangladesh protests Sheikh Hasina's Delhi media interaction, sparking new bilateral tension",
+  "topic": "Dhaka Delhi relations tension",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-08T04:07:20Z"
+ },
+ {
+  "title_hash": "21aba52764130271",
+  "url": "https://www.prothomalo.com/opinion/editorial/unxjrxseof",
+  "headline": "Bangladesh protests Sheikh Hasina's Delhi media interaction, sparking new bilateral tension",
+  "topic": "Dhaka Delhi relations tension",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-08T04:07:20Z"
+ },
+ {
+  "title_hash": "e4ce40121534ea4a",
+  "url": "https://www.prothomalo.com/photo/bangladesh/p7hi8pjoug",
+  "headline": "Yunus-led interim government sworn in on August 8, 2024, marking a new political chapter",
+  "topic": "July uprising 2 year anniversary",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-08T04:07:20Z"
+ },
+ {
+  "title_hash": "105e004018804cba",
+  "url": "https://www.prothomalo.com/politics/9wlvdgkdpa",
+  "headline": "Yunus-led interim government sworn in on August 8, 2024, marking a new political chapter",
+  "topic": "July uprising 2 year anniversary",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-08T04:07:20Z"
  }
 ]
