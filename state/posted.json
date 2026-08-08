@@ -8335,8 +8335,13 @@
   "headline": "Lionel Messi target of suicide bombing threat during World Cup",
   "topic": "bomb threat against messi",
   "source": "Somoy News",
-  "status": "queued",
-  "at": "2026-08-08T20:09:01Z"
+  "status": "failed",
+  "at": "2026-08-08T20:09:01Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "d9f8eada461941e5",
@@ -8344,8 +8349,13 @@
   "headline": "Lionel Messi's father has passed away",
   "topic": "death of messi father",
   "source": "Somoy News, Prothom Alo, Jamuna TV",
-  "status": "queued",
-  "at": "2026-08-08T20:09:01Z"
+  "status": "failed",
+  "at": "2026-08-08T20:09:01Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "5205d199b876a00e",
@@ -8353,8 +8363,13 @@
   "headline": "Lionel Messi's father has passed away",
   "topic": "death of messi father",
   "source": "Somoy News, Prothom Alo, Jamuna TV",
-  "status": "queued",
-  "at": "2026-08-08T20:09:01Z"
+  "status": "failed",
+  "at": "2026-08-08T20:09:01Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "f14d3b727f02ffdb",
@@ -8362,8 +8377,13 @@
   "headline": "Lionel Messi's father has passed away",
   "topic": "death of messi father",
   "source": "Somoy News, Prothom Alo, Jamuna TV",
-  "status": "queued",
-  "at": "2026-08-08T20:09:01Z"
+  "status": "failed",
+  "at": "2026-08-08T20:09:01Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "7eefa5f4561c86b6",
@@ -8371,7 +8391,12 @@
   "headline": "Lionel Messi's father has passed away",
   "topic": "death of messi father",
   "source": "Somoy News, Prothom Alo, Jamuna TV",
-  "status": "queued",
-  "at": "2026-08-08T20:09:01Z"
+  "status": "failed",
+  "at": "2026-08-08T20:09:01Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
