@@ -8335,8 +8335,13 @@
   "headline": "India says it does not endorse Sheikh Hasina's remarks at New Delhi event",
   "topic": "india hasina press meet controversy",
   "source": "Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-08T10:07:10Z"
+  "status": "failed",
+  "at": "2026-08-08T10:07:10Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "c4aff84d0a5ef01b",
@@ -8344,8 +8349,13 @@
   "headline": "India says it does not endorse Sheikh Hasina's remarks at New Delhi event",
   "topic": "india hasina press meet controversy",
   "source": "Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-08T10:07:10Z"
+  "status": "failed",
+  "at": "2026-08-08T10:07:10Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "a5b0ae8970534062",
@@ -8353,8 +8363,13 @@
   "headline": "India says it does not endorse Sheikh Hasina's remarks at New Delhi event",
   "topic": "india hasina press meet controversy",
   "source": "Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-08T10:07:10Z"
+  "status": "failed",
+  "at": "2026-08-08T10:07:10Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "b7b7894de6d92af0",
@@ -8362,8 +8377,13 @@
   "headline": "Govt says no way for Shakib to return after event with Sheikh Hasina",
   "topic": "shakib al hasan return prospects",
   "source": "Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-08T10:07:10Z"
+  "status": "failed",
+  "at": "2026-08-08T10:07:10Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "7537e8a41a55594d",
@@ -8371,7 +8391,12 @@
   "headline": "Govt says no way for Shakib to return after event with Sheikh Hasina",
   "topic": "shakib al hasan return prospects",
   "source": "Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-08T10:07:10Z"
+  "status": "failed",
+  "at": "2026-08-08T10:07:10Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
