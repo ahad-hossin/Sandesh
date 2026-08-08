@@ -8377,8 +8377,13 @@
   "headline": "Bangladesh Air Force recruiting Officer Cadets for 95th BAF Academy Course; apply by Sep 5, 2026",
   "topic": "Bangladesh Air Force Jobs",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-08T03:07:41Z"
+  "status": "failed",
+  "at": "2026-08-08T03:07:41Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "b085d6f1c642fafd",
@@ -8386,7 +8391,12 @@
   "headline": "9-hour power cuts expected in several areas across Bangladesh from morning",
   "topic": "9-Hour Power Outage",
   "source": "Somoy News",
-  "status": "queued",
-  "at": "2026-08-08T03:07:41Z"
+  "status": "failed",
+  "at": "2026-08-08T03:07:41Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
