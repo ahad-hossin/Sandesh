@@ -1,33 +1,5 @@
 [
  {
-  "title_hash": "8ceb9a774de6096e",
-  "url": "https://www.somoynews.tv/news/2026-08-04/Z8VAHR4x",
-  "headline": "Green chilli prices drop by over 50% as imports resume",
-  "topic": "green chilli prices drop",
-  "source": "Jamuna TV, Somoy News, Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-08-04T10:07:00Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "0837d714ad0ff9ab",
-  "url": "https://www.thedailystar.net/news/education/campus/news/jcd-shibir-clash-jagannath-university-over-placards-4239806",
-  "headline": "Around 50 injured as student wings clash at Jagannath University",
-  "topic": "student wing clashes universities",
-  "source": "The Daily Star, Somoy News, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-04T10:07:00Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "5d1f9a5c6f58c914",
   "url": "https://www.somoynews.tv/news/2026-08-04/tGCWVTGQ",
   "headline": "Around 50 injured as student wings clash at Jagannath University",
@@ -8398,5 +8370,23 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "ec8de52b2386746a",
+  "url": "https://www.prothomalo.com/chakri/employment/1hht7a9dq0",
+  "headline": "Bangladesh Air Force recruiting Officer Cadets for 95th BAF Academy Course; apply by Sep 5, 2026",
+  "topic": "Bangladesh Air Force Jobs",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-08T03:07:41Z"
+ },
+ {
+  "title_hash": "b085d6f1c642fafd",
+  "url": "https://www.somoynews.tv/news/2026-08-08/LHyU7zHJ",
+  "headline": "9-hour power cuts expected in several areas across Bangladesh from morning",
+  "topic": "9-Hour Power Outage",
+  "source": "Somoy News",
+  "status": "queued",
+  "at": "2026-08-08T03:07:41Z"
  }
 ]
