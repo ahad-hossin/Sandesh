@@ -1,75 +1,5 @@
 [
  {
-  "title_hash": "4df7191295640386",
-  "url": "https://www.prothomalo.com/video/bangladesh/d8ectkdlw5",
-  "headline": "Scores injured as clashes hit Jagannath University between student wings",
-  "topic": "jnu shibir-chhatra dal clashes",
-  "source": "Dhaka Tribune, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-08-04T14:07:57Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "7dc9182bfb130842",
-  "url": "https://www.prothomalo.com/bangladesh/crime/3nrj58bmph",
-  "headline": "Scores injured as clashes hit Jagannath University between student wings",
-  "topic": "jnu shibir-chhatra dal clashes",
-  "source": "Dhaka Tribune, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-08-04T14:07:57Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "0837d714ad0ff9ab",
-  "url": "https://www.thedailystar.net/news/education/campus/news/jcd-shibir-clash-jagannath-university-over-placards-4239806",
-  "headline": "Scores injured as clashes hit Jagannath University between student wings",
-  "topic": "jnu shibir-chhatra dal clashes",
-  "source": "Dhaka Tribune, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-08-04T14:07:57Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "db478dddc7c10642",
-  "url": "https://www.thedailystar.net/news/politics/news/tension-grips-dhaka-college-after-chhatra-dal-shibir-clash-4240011",
-  "headline": "Over 30 injured as Chhatra Dal and Shibir clash at Dhaka College",
-  "topic": "chhatra dal shibir clashes campuses",
-  "source": "Jamuna TV, The Daily Star, Dhaka Tribune, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-04T15:10:29Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "4932d27fc273bada",
-  "url": "https://www.jamuna.tv/national/661517",
-  "headline": "Over 30 injured as Chhatra Dal and Shibir clash at Dhaka College",
-  "topic": "chhatra dal shibir clashes campuses",
-  "source": "Jamuna TV, The Daily Star, Dhaka Tribune, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-04T15:10:29Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "658a98684610f332",
   "url": "https://www.dhakatribune.com/bangladesh/campus1/416722/shibir-jcd-clash-leaves-dhaka-alia-madrasa",
   "headline": "Over 30 injured as Chhatra Dal and Shibir clash at Dhaka College",
@@ -8398,5 +8328,50 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "da05b24a906e4e5f",
+  "url": "https://www.thedailystar.net/news/bangladesh/diplomacy/news/delhi-press-meet-indian-govt-says-it-doesnt-endorse-hasinas-remarks-4242521",
+  "headline": "India says it does not endorse Sheikh Hasina's remarks at New Delhi event",
+  "topic": "india hasina press meet controversy",
+  "source": "Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-08-08T10:07:10Z"
+ },
+ {
+  "title_hash": "c4aff84d0a5ef01b",
+  "url": "https://www.prothomalo.com/bangladesh/dillite-haasinaa-bitrk-baanlaadesh-bhaart-ttaanaaporren",
+  "headline": "India says it does not endorse Sheikh Hasina's remarks at New Delhi event",
+  "topic": "india hasina press meet controversy",
+  "source": "Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-08-08T10:07:10Z"
+ },
+ {
+  "title_hash": "a5b0ae8970534062",
+  "url": "https://www.thedailystar.net/news/politics/news/india-flouts-norms-over-hasina-press-conference-says-jamaat-4242481",
+  "headline": "India says it does not endorse Sheikh Hasina's remarks at New Delhi event",
+  "topic": "india hasina press meet controversy",
+  "source": "Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-08-08T10:07:10Z"
+ },
+ {
+  "title_hash": "b7b7894de6d92af0",
+  "url": "https://www.thedailystar.net/news/bangladesh/news/no-way-shakib-return-now-4242546",
+  "headline": "Govt says no way for Shakib to return after event with Sheikh Hasina",
+  "topic": "shakib al hasan return prospects",
+  "source": "Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-08-08T10:07:10Z"
+ },
+ {
+  "title_hash": "7537e8a41a55594d",
+  "url": "https://www.prothomalo.com/bangladesh/1kaq6my0q4",
+  "headline": "Govt says no way for Shakib to return after event with Sheikh Hasina",
+  "topic": "shakib al hasan return prospects",
+  "source": "Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-08-08T10:07:10Z"
  }
 ]
