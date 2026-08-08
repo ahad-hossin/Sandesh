@@ -1,33 +1,5 @@
 [
  {
-  "title_hash": "8f12430dec157ecd",
-  "url": "https://www.thedailystar.net/news/education/campus/news/banner-dispute-sparks-shibir-chhatra-dal-clash-begum-rokeya-university-4239781",
-  "headline": "Clashes erupt at JCD and Shibir fight at Jagannath University",
-  "topic": "university student clashes",
-  "source": "The Daily Star, Prothom Alo, Jamuna TV",
-  "status": "failed",
-  "at": "2026-08-04T09:07:37Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "634d6d40c07fd17b",
-  "url": "https://www.jamuna.tv/all-bangladesh/661488",
-  "headline": "Clashes erupt at JCD and Shibir fight at Jagannath University",
-  "topic": "university student clashes",
-  "source": "The Daily Star, Prothom Alo, Jamuna TV",
-  "status": "failed",
-  "at": "2026-08-04T09:07:37Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "870fdb2a23615d14",
   "url": "https://www.prothomalo.com/politics/jzhzk1qn97",
   "headline": "Clashes erupt at JCD and Shibir fight at Jagannath University",
@@ -8398,5 +8370,23 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "d7b361292b6eff55",
+  "url": "https://www.prothomalo.com/world/europe/u52fax3vin",
+  "headline": "Over 200 migrants rescued off Greek coast; most are from Bangladesh and Sudan",
+  "topic": "Bangladeshi Migrants Rescued Greece",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-08T01:07:24Z"
+ },
+ {
+  "title_hash": "f8598818217f92f9",
+  "url": "https://www.jamuna.tv/all-bangladesh/661728",
+  "headline": "Death toll rises on Sherpur-Telibazar highway; 9 killed in recent bus collision",
+  "topic": "Sherpur Telibazar Deaths",
+  "source": "Jamuna TV",
+  "status": "queued",
+  "at": "2026-08-08T01:07:24Z"
  }
 ]
