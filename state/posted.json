@@ -8391,7 +8391,12 @@
   "headline": "BNP leader dies of snakebite, family alleges antivenom withheld",
   "topic": "bnp leader snakebite death",
   "source": "Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-08-08T17:56:16Z"
+  "status": "failed",
+  "at": "2026-08-08T17:56:16Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
