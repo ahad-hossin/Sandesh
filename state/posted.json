@@ -8363,8 +8363,13 @@
   "headline": "9-hour power outage expected in various areas across the country from morning",
   "topic": "9 hour power outage areas",
   "source": "Somoy News",
-  "status": "queued",
-  "at": "2026-08-08T02:08:04Z"
+  "status": "failed",
+  "at": "2026-08-08T02:08:04Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "e4ce40121534ea4a",
@@ -8372,8 +8377,13 @@
   "headline": "Interim government led by Muhammad Yunus took oath on August 8, 2024, students on streets",
   "topic": "july uprising anniversary",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-08T02:08:04Z"
+  "status": "failed",
+  "at": "2026-08-08T02:08:04Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "105e004018804cba",
@@ -8381,7 +8391,12 @@
   "headline": "Interim government led by Muhammad Yunus took oath on August 8, 2024, students on streets",
   "topic": "july uprising anniversary",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-08T02:08:04Z"
+  "status": "failed",
+  "at": "2026-08-08T02:08:04Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
