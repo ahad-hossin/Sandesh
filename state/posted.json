@@ -8377,8 +8377,13 @@
   "headline": "Over 200 migrants rescued off Greek coast; most are from Bangladesh and Sudan",
   "topic": "Bangladeshi Migrants Rescued Greece",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-08T01:07:24Z"
+  "status": "failed",
+  "at": "2026-08-08T01:07:24Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "f8598818217f92f9",
@@ -8386,7 +8391,12 @@
   "headline": "Death toll rises on Sherpur-Telibazar highway; 9 killed in recent bus collision",
   "topic": "Sherpur Telibazar Deaths",
   "source": "Jamuna TV",
-  "status": "queued",
-  "at": "2026-08-08T01:07:24Z"
+  "status": "failed",
+  "at": "2026-08-08T01:07:24Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
