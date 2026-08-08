@@ -8335,8 +8335,13 @@
   "headline": "Govt says no prospect of return for Shakib after event with Hasina",
   "topic": "shakib al hasan return blocked",
   "source": "Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-08T09:07:09Z"
+  "status": "failed",
+  "at": "2026-08-08T09:07:09Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "7537e8a41a55594d",
@@ -8344,8 +8349,13 @@
   "headline": "Govt says no prospect of return for Shakib after event with Hasina",
   "topic": "shakib al hasan return blocked",
   "source": "Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-08T09:07:09Z"
+  "status": "failed",
+  "at": "2026-08-08T09:07:09Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "c09b160f5ca82282",
@@ -8353,8 +8363,13 @@
   "headline": "Tarique Rahman tortured at JIC cell during 1/11 period: ICT Chief Prosecutor",
   "topic": "tarique rahman jic torture",
   "source": "The Daily Star, Jamuna TV, Somoy News",
-  "status": "queued",
-  "at": "2026-08-08T09:07:09Z"
+  "status": "failed",
+  "at": "2026-08-08T09:07:09Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "75385e065f65e604",
@@ -8362,8 +8377,13 @@
   "headline": "Tarique Rahman tortured at JIC cell during 1/11 period: ICT Chief Prosecutor",
   "topic": "tarique rahman jic torture",
   "source": "The Daily Star, Jamuna TV, Somoy News",
-  "status": "queued",
-  "at": "2026-08-08T09:07:09Z"
+  "status": "failed",
+  "at": "2026-08-08T09:07:09Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "288ba4eb10cfc21b",
@@ -8371,7 +8391,12 @@
   "headline": "Tarique Rahman tortured at JIC cell during 1/11 period: ICT Chief Prosecutor",
   "topic": "tarique rahman jic torture",
   "source": "The Daily Star, Jamuna TV, Somoy News",
-  "status": "queued",
-  "at": "2026-08-08T09:07:09Z"
+  "status": "failed",
+  "at": "2026-08-08T09:07:09Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
