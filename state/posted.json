@@ -1,47 +1,5 @@
 [
  {
-  "title_hash": "2b971fef28c87c13",
-  "url": "https://www.dhakatribune.com/bangladesh/416725/db-chief-no-specific-sabotage-threat-over-aug-5",
-  "headline": "DMP tightens security across Dhaka for July Mass Uprising Day",
-  "topic": "july uprising anniversary security",
-  "source": "Jamuna TV, Prothom Alo, The Daily Star, Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-08-04T19:07:01Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "eddf635c7dabd54c",
-  "url": "https://www.dhakatribune.com/bangladesh/416713/dmp-tightens-security-across-dhaka-ahead-of-july",
-  "headline": "DMP tightens security across Dhaka for July Mass Uprising Day",
-  "topic": "july uprising anniversary security",
-  "source": "Jamuna TV, Prothom Alo, The Daily Star, Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-08-04T19:07:01Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "d2caa6566e40cf50",
-  "url": "https://www.dhakatribune.com/bangladesh/politics/416748/notun-dhara-sdf-clash-halts-dmch-emergency",
-  "headline": "6 Naya Dhara leaders taken into custody after Press Club and DMCH clashes",
-  "topic": "naya dhara sdf clash dmch",
-  "source": "Dhaka Tribune, The Daily Star",
-  "status": "failed",
-  "at": "2026-08-04T20:07:29Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "780855672243ed27",
   "url": "https://www.thedailystar.net/news/politics/news/6-naya-dhara-leaders-taken-custody-after-press-club-clash-dmch-standoff-4240406",
   "headline": "6 Naya Dhara leaders taken into custody after Press Club and DMCH clashes",
@@ -8398,5 +8356,32 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "5b1a167f82193389",
+  "url": "https://www.dhakatribune.com/bangladesh/417013/bnp-leader-dies-of-snakebite-family-alleges",
+  "headline": "BNP leader dies of snakebite in Patuakhali; family alleges antivenom was withheld",
+  "topic": "BNP leader snakebite death antivenom controversy",
+  "source": "Somoy News, Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-08-09T00:07:34Z"
+ },
+ {
+  "title_hash": "b6d2041953b3fcd1",
+  "url": "https://www.somoynews.tv/news/2026-08-08/K3Cz5ZWw",
+  "headline": "BNP leader dies of snakebite in Patuakhali; family alleges antivenom was withheld",
+  "topic": "BNP leader snakebite death antivenom controversy",
+  "source": "Somoy News, Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-08-09T00:07:34Z"
+ },
+ {
+  "title_hash": "85de696ba0832477",
+  "url": "https://www.thedailystar.net/news/bangladesh/rights/news/pirgachha-police-station-besieged-over-jcd-leaders-death-savar-4243161",
+  "headline": "Pirgachha Police Station besieged by 200+ protesters over JCD leader's death in Savar",
+  "topic": "Pirgachha police station besieged JCD leader death",
+  "source": "The Daily Star",
+  "status": "queued",
+  "at": "2026-08-09T00:07:34Z"
  }
 ]
