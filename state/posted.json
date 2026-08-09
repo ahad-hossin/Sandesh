@@ -8321,8 +8321,13 @@
   "headline": "PM Tareque Rahman visits Chattogram and Cox's Bazar to inspect projects, meet flood victims",
   "topic": "PM visits Maheshkhali flood victims",
   "source": "Dhaka Tribune, Jamuna TV",
-  "status": "queued",
-  "at": "2026-08-09T04:07:37Z"
+  "status": "failed",
+  "at": "2026-08-09T04:07:37Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "05777b7d62b61b74",
@@ -8330,8 +8335,13 @@
   "headline": "PM Tareque Rahman visits Chattogram and Cox's Bazar to inspect projects, meet flood victims",
   "topic": "PM visits Maheshkhali flood victims",
   "source": "Dhaka Tribune, Jamuna TV",
-  "status": "queued",
-  "at": "2026-08-09T04:07:37Z"
+  "status": "failed",
+  "at": "2026-08-09T04:07:37Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "cafe501ca290d4ac",
@@ -8339,8 +8349,13 @@
   "headline": "Lionel Messi misses Inter Miami game after father Jorge Messi dies at 68",
   "topic": "Messi's father passes away",
   "source": "The Daily Star, Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-09T04:07:37Z"
+  "status": "failed",
+  "at": "2026-08-09T04:07:37Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "e73f514104100c81",
@@ -8348,8 +8363,13 @@
   "headline": "Lionel Messi misses Inter Miami game after father Jorge Messi dies at 68",
   "topic": "Messi's father passes away",
   "source": "The Daily Star, Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-09T04:07:37Z"
+  "status": "failed",
+  "at": "2026-08-09T04:07:37Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "fcc4f50dd919cd34",
@@ -8357,8 +8377,13 @@
   "headline": "Lionel Messi misses Inter Miami game after father Jorge Messi dies at 68",
   "topic": "Messi's father passes away",
   "source": "The Daily Star, Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-09T04:07:37Z"
+  "status": "failed",
+  "at": "2026-08-09T04:07:37Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "a4d1837023de2cfe",
@@ -8366,7 +8391,12 @@
   "headline": "Lionel Messi misses Inter Miami game after father Jorge Messi dies at 68",
   "topic": "Messi's father passes away",
   "source": "The Daily Star, Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-09T04:07:37Z"
+  "status": "failed",
+  "at": "2026-08-09T04:07:37Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
