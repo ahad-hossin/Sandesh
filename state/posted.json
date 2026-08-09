@@ -1,75 +1,5 @@
 [
  {
-  "title_hash": "780855672243ed27",
-  "url": "https://www.thedailystar.net/news/politics/news/6-naya-dhara-leaders-taken-custody-after-press-club-clash-dmch-standoff-4240406",
-  "headline": "6 Naya Dhara leaders taken into custody after Press Club and DMCH clashes",
-  "topic": "naya dhara sdf clash dmch",
-  "source": "Dhaka Tribune, The Daily Star",
-  "status": "failed",
-  "at": "2026-08-04T20:07:29Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "658a98684610f332",
-  "url": "https://www.dhakatribune.com/bangladesh/campus1/416722/shibir-jcd-clash-leaves-dhaka-alia-madrasa",
-  "headline": "Over 50 injured as Chhatra Dal and Shibir clash at Dhaka institutions",
-  "topic": "chhatra dal shibir clashes dhaka",
-  "source": "Prothom Alo, Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-08-04T20:07:29Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "75e0a3cf9b0d5fcf",
-  "url": "https://www.prothomalo.com/politics/chaatrdl-shibir-snghrsse-rnnkssetr-bkshiibaajaar",
-  "headline": "Over 50 injured as Chhatra Dal and Shibir clash at Dhaka institutions",
-  "topic": "chhatra dal shibir clashes dhaka",
-  "source": "Prothom Alo, Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-08-04T20:07:29Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "d60cb3a2ea20d15b",
-  "url": "https://www.prothomalo.com/video/bangladesh/hq8jgjaezi",
-  "headline": "Over 50 injured as Chhatra Dal and Shibir clash at Dhaka institutions",
-  "topic": "chhatra dal shibir clashes dhaka",
-  "source": "Prothom Alo, Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-08-04T20:07:29Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "535a941b2b35c350",
-  "url": "https://www.dhakatribune.com/bangladesh/campus1/416706/tension-grips-dhaka-college-after-chhatra",
-  "headline": "Over 50 injured as Chhatra Dal and Shibir clash at Dhaka institutions",
-  "topic": "chhatra dal shibir clashes dhaka",
-  "source": "Prothom Alo, Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-08-04T20:07:29Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "0ec37dd634935c41",
   "url": "https://www.prothomalo.com/video/bangladesh/yetrz81f6b",
   "headline": "Over 50 injured as Chhatra Dal and Shibir clash at Dhaka institutions",
@@ -8398,5 +8328,50 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "ff3176bff096cbc6",
+  "url": "https://www.thedailystar.net/news/world/us-israel-war-iran/news/iran-oman-very-close-deal-hormuz-4243246",
+  "headline": "Iran-Oman deal close on Hormuz control, but strait remains closed; UAE reports ship attack",
+  "topic": "Iran Hormuz Strait Deal",
+  "source": "Prothom Alo, Jamuna TV, The Daily Star",
+  "status": "queued",
+  "at": "2026-08-09T01:07:40Z"
+ },
+ {
+  "title_hash": "76ab91eeac11c742",
+  "url": "https://www.prothomalo.com/world/middle-east/vfyyfmqy8k",
+  "headline": "Iran-Oman deal close on Hormuz control, but strait remains closed; UAE reports ship attack",
+  "topic": "Iran Hormuz Strait Deal",
+  "source": "Prothom Alo, Jamuna TV, The Daily Star",
+  "status": "queued",
+  "at": "2026-08-09T01:07:40Z"
+ },
+ {
+  "title_hash": "078c47cfe22e4353",
+  "url": "https://www.prothomalo.com/world/middle-east/c54fn6w2fo",
+  "headline": "Iran-Oman deal close on Hormuz control, but strait remains closed; UAE reports ship attack",
+  "topic": "Iran Hormuz Strait Deal",
+  "source": "Prothom Alo, Jamuna TV, The Daily Star",
+  "status": "queued",
+  "at": "2026-08-09T01:07:40Z"
+ },
+ {
+  "title_hash": "c4a9583cfde7d60e",
+  "url": "https://www.jamuna.tv/international/661785",
+  "headline": "Iran-Oman deal close on Hormuz control, but strait remains closed; UAE reports ship attack",
+  "topic": "Iran Hormuz Strait Deal",
+  "source": "Prothom Alo, Jamuna TV, The Daily Star",
+  "status": "queued",
+  "at": "2026-08-09T01:07:40Z"
+ },
+ {
+  "title_hash": "85de696ba0832477",
+  "url": "https://www.thedailystar.net/news/bangladesh/rights/news/pirgachha-police-station-besieged-over-jcd-leaders-death-savar-4243161",
+  "headline": "Pirgachha police station besieged over JCD leader’s death in Savar",
+  "topic": "JCD Leader Death Savar",
+  "source": "The Daily Star",
+  "status": "queued",
+  "at": "2026-08-09T01:07:40Z"
  }
 ]
