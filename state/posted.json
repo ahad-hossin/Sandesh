@@ -8335,8 +8335,13 @@
   "headline": "Iran-Oman deal close on Hormuz control, but strait remains closed; UAE reports ship attack",
   "topic": "Iran Hormuz Strait Deal",
   "source": "Prothom Alo, Jamuna TV, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-09T01:07:40Z"
+  "status": "failed",
+  "at": "2026-08-09T01:07:40Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "76ab91eeac11c742",
@@ -8344,8 +8349,13 @@
   "headline": "Iran-Oman deal close on Hormuz control, but strait remains closed; UAE reports ship attack",
   "topic": "Iran Hormuz Strait Deal",
   "source": "Prothom Alo, Jamuna TV, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-09T01:07:40Z"
+  "status": "failed",
+  "at": "2026-08-09T01:07:40Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "078c47cfe22e4353",
@@ -8353,8 +8363,13 @@
   "headline": "Iran-Oman deal close on Hormuz control, but strait remains closed; UAE reports ship attack",
   "topic": "Iran Hormuz Strait Deal",
   "source": "Prothom Alo, Jamuna TV, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-09T01:07:40Z"
+  "status": "failed",
+  "at": "2026-08-09T01:07:40Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "c4a9583cfde7d60e",
@@ -8362,8 +8377,13 @@
   "headline": "Iran-Oman deal close on Hormuz control, but strait remains closed; UAE reports ship attack",
   "topic": "Iran Hormuz Strait Deal",
   "source": "Prothom Alo, Jamuna TV, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-09T01:07:40Z"
+  "status": "failed",
+  "at": "2026-08-09T01:07:40Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "85de696ba0832477",
@@ -8371,7 +8391,12 @@
   "headline": "Pirgachha police station besieged over JCD leader’s death in Savar",
   "topic": "JCD Leader Death Savar",
   "source": "The Daily Star",
-  "status": "queued",
-  "at": "2026-08-09T01:07:40Z"
+  "status": "failed",
+  "at": "2026-08-09T01:07:40Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
