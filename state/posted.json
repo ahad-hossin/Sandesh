@@ -8335,8 +8335,13 @@
   "headline": "16 Bangladeshis killed in Saudi factory fire",
   "topic": "saudi factory fire bangladeshis killed",
   "source": "Jamuna TV, Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-09T22:07:01Z"
+  "status": "failed",
+  "at": "2026-08-09T22:07:01Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "726e3882508a13a7",
@@ -8344,8 +8349,13 @@
   "headline": "16 Bangladeshis killed in Saudi factory fire",
   "topic": "saudi factory fire bangladeshis killed",
   "source": "Jamuna TV, Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-09T22:07:01Z"
+  "status": "failed",
+  "at": "2026-08-09T22:07:01Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "91570578065780c0",
@@ -8353,8 +8363,13 @@
   "headline": "16 Bangladeshis killed in Saudi factory fire",
   "topic": "saudi factory fire bangladeshis killed",
   "source": "Jamuna TV, Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-09T22:07:01Z"
+  "status": "failed",
+  "at": "2026-08-09T22:07:01Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "bf14f23a50c84b74",
@@ -8362,8 +8377,13 @@
   "headline": "BNP's Mirza Fakhrul likely to be presidential nominee",
   "topic": "mirza fakhrul presidential nominee",
   "source": "The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-09T22:07:01Z"
+  "status": "failed",
+  "at": "2026-08-09T22:07:01Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "8c3e76acb02a0b6b",
@@ -8371,7 +8391,12 @@
   "headline": "BNP's Mirza Fakhrul likely to be presidential nominee",
   "topic": "mirza fakhrul presidential nominee",
   "source": "The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-09T22:07:01Z"
+  "status": "failed",
+  "at": "2026-08-09T22:07:01Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
