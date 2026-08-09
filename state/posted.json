@@ -1,61 +1,5 @@
 [
  {
-  "title_hash": "0ec37dd634935c41",
-  "url": "https://www.prothomalo.com/video/bangladesh/yetrz81f6b",
-  "headline": "Over 50 injured as Chhatra Dal and Shibir clash at Dhaka institutions",
-  "topic": "chhatra dal shibir clashes dhaka",
-  "source": "Prothom Alo, Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-08-04T20:07:29Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "e686cf01b36e3da0",
-  "url": "https://www.dhakatribune.com/bangladesh/campus1/416711/two-rounds-of-chhatra-dal-shibir-clashes-hit-jnu",
-  "headline": "Over 50 injured as Chhatra Dal and Shibir clash at Dhaka institutions",
-  "topic": "chhatra dal shibir clashes dhaka",
-  "source": "Prothom Alo, Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-08-04T20:07:29Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "0aa2432e598bac12",
-  "url": "https://www.prothomalo.com/video/bangladesh/mvf01s14md",
-  "headline": "Over 50 injured as Chhatra Dal and Shibir clash at Dhaka institutions",
-  "topic": "chhatra dal shibir clashes dhaka",
-  "source": "Prothom Alo, Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-08-04T20:07:29Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "79e3bc62d2d30b6b",
-  "url": "https://www.prothomalo.com/politics/tfktaqsnkn",
-  "headline": "Over 50 injured as Chhatra Dal and Shibir clash at Dhaka institutions",
-  "topic": "chhatra dal shibir clashes dhaka",
-  "source": "Prothom Alo, Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-08-04T20:07:29Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "c257ac3227c1e225",
   "url": "https://www.prothomalo.com/bangladesh/l0zv42oy8c",
   "headline": "Over 50 injured as Chhatra Dal and Shibir clash at Dhaka institutions",
@@ -8398,5 +8342,41 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "b48400523fb07fb9",
+  "url": "https://www.thedailystar.net/news/healthcare/news/four-more-die-measles-symptoms-4243306",
+  "headline": "Measles-related deaths reach 867 in Bangladesh; 4 more die in 24 hours",
+  "topic": "measles detection rate high",
+  "source": "Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-08-09T02:07:31Z"
+ },
+ {
+  "title_hash": "3158924807dd544f",
+  "url": "https://www.prothomalo.com/bangladesh/ems6mc5a70",
+  "headline": "Measles-related deaths reach 867 in Bangladesh; 4 more die in 24 hours",
+  "topic": "measles detection rate high",
+  "source": "Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-08-09T02:07:31Z"
+ },
+ {
+  "title_hash": "06300d2690df755a",
+  "url": "https://www.dhakatribune.com/bangladesh/417009/pm-to-visit-matarbari-deep-sea-port-in-cox%E2%80%99s",
+  "headline": "PM visits Matarbari deep-sea port in Cox's Bazar, inspects flood-hit areas in Chittagong",
+  "topic": "pm visit chittagong",
+  "source": "Jamuna TV, Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-08-09T02:07:31Z"
+ },
+ {
+  "title_hash": "05777b7d62b61b74",
+  "url": "https://www.jamuna.tv/national/661796",
+  "headline": "PM visits Matarbari deep-sea port in Cox's Bazar, inspects flood-hit areas in Chittagong",
+  "topic": "pm visit chittagong",
+  "source": "Jamuna TV, Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-08-09T02:07:31Z"
  }
 ]
