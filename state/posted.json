@@ -8349,8 +8349,13 @@
   "headline": "Measles-related deaths reach 867 in Bangladesh; 4 more die in 24 hours",
   "topic": "measles detection rate high",
   "source": "Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-09T02:07:31Z"
+  "status": "failed",
+  "at": "2026-08-09T02:07:31Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "3158924807dd544f",
@@ -8358,8 +8363,13 @@
   "headline": "Measles-related deaths reach 867 in Bangladesh; 4 more die in 24 hours",
   "topic": "measles detection rate high",
   "source": "Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-09T02:07:31Z"
+  "status": "failed",
+  "at": "2026-08-09T02:07:31Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "06300d2690df755a",
@@ -8367,8 +8377,13 @@
   "headline": "PM visits Matarbari deep-sea port in Cox's Bazar, inspects flood-hit areas in Chittagong",
   "topic": "pm visit chittagong",
   "source": "Jamuna TV, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-08-09T02:07:31Z"
+  "status": "failed",
+  "at": "2026-08-09T02:07:31Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "05777b7d62b61b74",
@@ -8376,7 +8391,12 @@
   "headline": "PM visits Matarbari deep-sea port in Cox's Bazar, inspects flood-hit areas in Chittagong",
   "topic": "pm visit chittagong",
   "source": "Jamuna TV, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-08-09T02:07:31Z"
+  "status": "failed",
+  "at": "2026-08-09T02:07:31Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
