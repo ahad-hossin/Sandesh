@@ -1,75 +1,5 @@
 [
  {
-  "title_hash": "8da109e3b625efa1",
-  "url": "https://www.dhakatribune.com/bangladesh/nation/416796/teesta-flows-above-danger-level-in-lalmonirhat",
-  "headline": "402mm rain: 10 districts at risk of flooding in next 48 hours",
-  "topic": "bangladesh flood warning",
-  "source": "The Daily Star, Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-08-05T15:10:35Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "85e68d204e0d2c74",
-  "url": "https://www.dhakatribune.com/bangladesh/nation/416804/gas-crisis-deepens-intensifying-load-shedding-in",
-  "headline": "Gas crisis deepens, intensifying load shedding in Chittagong",
-  "topic": "chittagong gas crisis load shedding",
-  "source": "Dhaka Tribune, Somoy News",
-  "status": "failed",
-  "at": "2026-08-05T15:10:35Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "62bba8292c1abeb6",
-  "url": "https://www.somoynews.tv/news/2026-08-05/K3WzGS7T",
-  "headline": "Gas crisis deepens, intensifying load shedding in Chittagong",
-  "topic": "chittagong gas crisis load shedding",
-  "source": "Dhaka Tribune, Somoy News",
-  "status": "failed",
-  "at": "2026-08-05T15:10:35Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "c85cc806d0dd6883",
-  "url": "https://www.thedailystar.net/sports/cricket/news/hridoys-record-fifty-shakibs-breakthrough-send-jaffna-lpl-final-4240836",
-  "headline": "Hridoy's record fifty, Shakib's wicket Jaffna Kings reach LPL final",
-  "topic": "hridoy-shakib-lpl-final",
-  "source": "The Daily Star, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-05T16:07:35Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "75e207097f939ac2",
-  "url": "https://www.prothomalo.com/sports/cricket/8e8kh66hw6",
-  "headline": "Hridoy's record fifty, Shakib's wicket Jaffna Kings reach LPL final",
-  "topic": "hridoy-shakib-lpl-final",
-  "source": "The Daily Star, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-05T16:07:35Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "1504dc4c9bef640c",
   "url": "https://www.thedailystar.net/news/environment/climate-crisis/natural-disaster/news/coxs-bazar-landslides-kill-rohingya-child-disrupt-marine-drive-traffic-4240821",
   "headline": "Landslides in Cox's Bazar: Rohingya child killed in refugee camp",
@@ -8398,5 +8328,50 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "9f8dc7892493c56b",
+  "url": "https://www.thedailystar.net/news/world/middle-east/news/16-bangladeshis-killed-saudi-factory-fire-4244061",
+  "headline": "16 Bangladeshis killed in Saudi factory fire",
+  "topic": "saudi factory fire bangladeshis killed",
+  "source": "Jamuna TV, Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-08-09T22:07:01Z"
+ },
+ {
+  "title_hash": "726e3882508a13a7",
+  "url": "https://www.jamuna.tv/international/661869",
+  "headline": "16 Bangladeshis killed in Saudi factory fire",
+  "topic": "saudi factory fire bangladeshis killed",
+  "source": "Jamuna TV, Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-08-09T22:07:01Z"
+ },
+ {
+  "title_hash": "91570578065780c0",
+  "url": "https://www.prothomalo.com/bangladesh/district/11ltewvhjh",
+  "headline": "16 Bangladeshis killed in Saudi factory fire",
+  "topic": "saudi factory fire bangladeshis killed",
+  "source": "Jamuna TV, Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-08-09T22:07:01Z"
+ },
+ {
+  "title_hash": "bf14f23a50c84b74",
+  "url": "https://www.thedailystar.net/news/politics/news/mirza-fakhrul-likely-be-bnps-presidential-nominee-party-sources-say-4244081",
+  "headline": "BNP's Mirza Fakhrul likely to be presidential nominee",
+  "topic": "mirza fakhrul presidential nominee",
+  "source": "The Daily Star, Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-09T22:07:01Z"
+ },
+ {
+  "title_hash": "8c3e76acb02a0b6b",
+  "url": "https://www.prothomalo.com/politics/f9rv1lmhzs",
+  "headline": "BNP's Mirza Fakhrul likely to be presidential nominee",
+  "topic": "mirza fakhrul presidential nominee",
+  "source": "The Daily Star, Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-09T22:07:01Z"
  }
 ]
