@@ -1,61 +1,5 @@
 [
  {
-  "title_hash": "9833b3916094991b",
-  "url": "https://www.prothomalo.com/opinion/column/7mzp9cfgqm",
-  "headline": "Sheikh Hasina's government collapsed on August 5, 2024, following July's mass uprising",
-  "topic": "july uprising anniversary",
-  "source": "The Daily Star, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-05T03:07:24Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "20e14464f3805c32",
-  "url": "https://www.prothomalo.com/bangladesh/1hh1ftgdiv",
-  "headline": "Sheikh Hasina's government collapsed on August 5, 2024, following July's mass uprising",
-  "topic": "july uprising anniversary",
-  "source": "The Daily Star, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-05T03:07:24Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "baf9745ebdc55a78",
-  "url": "https://www.prothomalo.com/video/bangladesh/l3g7gafel6",
-  "headline": "Sheikh Hasina's government collapsed on August 5, 2024, following July's mass uprising",
-  "topic": "july uprising anniversary",
-  "source": "The Daily Star, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-05T03:07:24Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "275ba7657badf93f",
-  "url": "https://www.prothomalo.com/bangladesh/district/nk4b22rsb2",
-  "headline": "Sheikh Hasina's government collapsed on August 5, 2024, following July's mass uprising",
-  "topic": "july uprising anniversary",
-  "source": "The Daily Star, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-05T03:07:24Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "4a0b272fa83c407b",
   "url": "https://www.prothomalo.com/bangladesh/yjb9s91llv",
   "headline": "Sheikh Hasina's government collapsed on August 5, 2024, following July's mass uprising",
@@ -8398,5 +8342,41 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "739a8b17756a8425",
+  "url": "https://www.thedailystar.net/news/crime-justice/news/salman-shah-murder-accused-arrested-dhaka-airport-police-4243541",
+  "headline": "Salman Shah murder case: Accused 'Don' arrested at Dhaka airport",
+  "topic": "salman shah murder accused arrested",
+  "source": "Jamuna TV, The Daily Star",
+  "status": "queued",
+  "at": "2026-08-09T10:07:15Z"
+ },
+ {
+  "title_hash": "023bb3682da2b12d",
+  "url": "https://www.jamuna.tv/national/661840",
+  "headline": "Salman Shah murder case: Accused 'Don' arrested at Dhaka airport",
+  "topic": "salman shah murder accused arrested",
+  "source": "Jamuna TV, The Daily Star",
+  "status": "queued",
+  "at": "2026-08-09T10:07:15Z"
+ },
+ {
+  "title_hash": "15b7e550ecffa2fe",
+  "url": "https://www.dhakatribune.com/bangladesh/health/417053/measles-outbreak-death-toll-reaches-873-as-six",
+  "headline": "873 children dead from measles and measles-like symptoms across Bangladesh",
+  "topic": "measles outbreak death toll",
+  "source": "Dhaka Tribune, Jamuna TV",
+  "status": "queued",
+  "at": "2026-08-09T10:07:15Z"
+ },
+ {
+  "title_hash": "70ef035f7d3ff36d",
+  "url": "https://www.jamuna.tv/national/661837",
+  "headline": "873 children dead from measles and measles-like symptoms across Bangladesh",
+  "topic": "measles outbreak death toll",
+  "source": "Dhaka Tribune, Jamuna TV",
+  "status": "queued",
+  "at": "2026-08-09T10:07:15Z"
  }
 ]
