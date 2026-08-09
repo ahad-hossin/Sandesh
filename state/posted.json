@@ -8363,8 +8363,13 @@
   "headline": "BNP leader dies of snakebite in Patuakhali; family alleges antivenom was withheld",
   "topic": "BNP leader snakebite death antivenom controversy",
   "source": "Somoy News, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-08-09T00:07:34Z"
+  "status": "failed",
+  "at": "2026-08-09T00:07:34Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "b6d2041953b3fcd1",
@@ -8372,8 +8377,13 @@
   "headline": "BNP leader dies of snakebite in Patuakhali; family alleges antivenom was withheld",
   "topic": "BNP leader snakebite death antivenom controversy",
   "source": "Somoy News, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-08-09T00:07:34Z"
+  "status": "failed",
+  "at": "2026-08-09T00:07:34Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "85de696ba0832477",
@@ -8381,7 +8391,12 @@
   "headline": "Pirgachha Police Station besieged by 200+ protesters over JCD leader's death in Savar",
   "topic": "Pirgachha police station besieged JCD leader death",
   "source": "The Daily Star",
-  "status": "queued",
-  "at": "2026-08-09T00:07:34Z"
+  "status": "failed",
+  "at": "2026-08-09T00:07:34Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
