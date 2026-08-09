@@ -8335,8 +8335,13 @@
   "headline": "Lionel Messi's father, Jorge Messi, dies at 68; Messi misses Inter Miami's Leagues Cup loss",
   "topic": "Messi Returns for Father's Funeral",
   "source": "Somoy News, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-09T03:09:11Z"
+  "status": "failed",
+  "at": "2026-08-09T03:09:11Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "23b29135adf9f469",
@@ -8344,8 +8349,13 @@
   "headline": "Lionel Messi's father, Jorge Messi, dies at 68; Messi misses Inter Miami's Leagues Cup loss",
   "topic": "Messi Returns for Father's Funeral",
   "source": "Somoy News, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-09T03:09:11Z"
+  "status": "failed",
+  "at": "2026-08-09T03:09:11Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "d9f8eada461941e5",
@@ -8353,8 +8363,13 @@
   "headline": "Lionel Messi's father, Jorge Messi, dies at 68; Messi misses Inter Miami's Leagues Cup loss",
   "topic": "Messi Returns for Father's Funeral",
   "source": "Somoy News, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-09T03:09:11Z"
+  "status": "failed",
+  "at": "2026-08-09T03:09:11Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "1500334275fb39e7",
@@ -8362,8 +8377,13 @@
   "headline": "Bangladesh to rethink ties with India if Hasina conducts political activities from its territory",
   "topic": "PM India Visit & Dhaka-Delhi Relations",
   "source": "Somoy News, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-09T03:09:11Z"
+  "status": "failed",
+  "at": "2026-08-09T03:09:11Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "694007c783d15cfc",
@@ -8371,7 +8391,12 @@
   "headline": "Bangladesh to rethink ties with India if Hasina conducts political activities from its territory",
   "topic": "PM India Visit & Dhaka-Delhi Relations",
   "source": "Somoy News, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-09T03:09:11Z"
+  "status": "failed",
+  "at": "2026-08-09T03:09:11Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
