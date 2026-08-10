@@ -1,75 +1,5 @@
 [
  {
-  "title_hash": "644d8530426fcfa6",
-  "url": "https://www.thedailystar.net/news/crime-justice/news/man-carrying-pistol-object-detained-during-ministers-natore-visit-4242346",
-  "headline": "Medical student detained with toy pistol during minister's visit to Natore",
-  "topic": "toy pistol natore minister visit",
-  "source": "Prothom Alo, The Daily Star, Jamuna TV",
-  "status": "failed",
-  "at": "2026-08-07T17:07:25Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "3cdba14aa274c6e4",
-  "url": "https://www.prothomalo.com/video/bangladesh/9psgiwx6kc",
-  "headline": "Medical student detained with toy pistol during minister's visit to Natore",
-  "topic": "toy pistol natore minister visit",
-  "source": "Prothom Alo, The Daily Star, Jamuna TV",
-  "status": "failed",
-  "at": "2026-08-07T17:07:25Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "db32e320100e28fb",
-  "url": "https://www.jamuna.tv/all-bangladesh/661721",
-  "headline": "Medical student detained with toy pistol during minister's visit to Natore",
-  "topic": "toy pistol natore minister visit",
-  "source": "Prothom Alo, The Daily Star, Jamuna TV",
-  "status": "failed",
-  "at": "2026-08-07T17:07:25Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "dd58a654b787da0b",
-  "url": "https://www.prothomalo.com/bangladesh/district/jtijmeptq8",
-  "headline": "Medical student detained with toy pistol during minister's visit to Natore",
-  "topic": "toy pistol natore minister visit",
-  "source": "Prothom Alo, The Daily Star, Jamuna TV",
-  "status": "failed",
-  "at": "2026-08-07T17:07:25Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "e5f54c4c628b93e3",
-  "url": "https://www.dhakatribune.com/bangladesh/foreign-affairs/416928/jaiswal-india-doesn%E2%80%99t-support-sheikh-hasina%E2%80%99s",
-  "headline": "India says it does not support remarks of ousted PM Sheikh Hasina",
-  "topic": "india denies support for hasina remarks",
-  "source": "Prothom Alo, Somoy News, Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-08-07T18:06:40Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "2d008c7b56745630",
   "url": "https://www.prothomalo.com/video/bangladesh/rv9prucaag",
   "headline": "India says it does not support remarks of ousted PM Sheikh Hasina",
@@ -8398,5 +8328,50 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "53d1cd0cd9a9989f",
+  "url": "https://www.thedailystar.net/news/corruption/news/islami-bank-files-acc-complaint-against-shahabuddin-s-alam-over-alleged-tk-500cr-embezzlement-4244466",
+  "headline": "Tk 500cr embezzlement: Islami Bank files ACC complaint against S Alam and others",
+  "topic": "islami bank embezzlement",
+  "source": "The Daily Star, Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-08-10T12:07:14Z"
+ },
+ {
+  "title_hash": "38a591cb8a002c3e",
+  "url": "https://www.dhakatribune.com/bangladesh/crime/417129/gold-worth-tk-3.73c-recovered-from-car-near",
+  "headline": "Tk 500cr embezzlement: Islami Bank files ACC complaint against S Alam and others",
+  "topic": "islami bank embezzlement",
+  "source": "The Daily Star, Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-08-10T12:07:14Z"
+ },
+ {
+  "title_hash": "5f89f5f9f8d908c6",
+  "url": "https://www.dhakatribune.com/bangladesh/health/417126/measles-outbreak-death-toll-reaches-878-as-five",
+  "headline": "Measles outbreak: 5 children die in 24 hours as toll rises",
+  "topic": "measles outbreak deaths",
+  "source": "Dhaka Tribune, Jamuna TV, Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-10T12:07:14Z"
+ },
+ {
+  "title_hash": "7219b5c195377496",
+  "url": "https://www.jamuna.tv/health/661910",
+  "headline": "Measles outbreak: 5 children die in 24 hours as toll rises",
+  "topic": "measles outbreak deaths",
+  "source": "Dhaka Tribune, Jamuna TV, Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-10T12:07:14Z"
+ },
+ {
+  "title_hash": "45cfbf081af45a00",
+  "url": "https://www.prothomalo.com/bangladesh/borzr4gi39",
+  "headline": "Measles outbreak: 5 children die in 24 hours as toll rises",
+  "topic": "measles outbreak deaths",
+  "source": "Dhaka Tribune, Jamuna TV, Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-10T12:07:14Z"
  }
 ]
