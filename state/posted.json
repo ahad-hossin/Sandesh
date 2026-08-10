@@ -1,61 +1,5 @@
 [
  {
-  "title_hash": "2d008c7b56745630",
-  "url": "https://www.prothomalo.com/video/bangladesh/rv9prucaag",
-  "headline": "India says it does not support remarks of ousted PM Sheikh Hasina",
-  "topic": "india denies support for hasina remarks",
-  "source": "Prothom Alo, Somoy News, Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-08-07T18:06:40Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "2503c1928bae499d",
-  "url": "https://www.prothomalo.com/video/bangladesh/vlx57j8uhj",
-  "headline": "India says it does not support remarks of ousted PM Sheikh Hasina",
-  "topic": "india denies support for hasina remarks",
-  "source": "Prothom Alo, Somoy News, Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-08-07T18:06:40Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "ea1b60cfa96f8c5a",
-  "url": "https://www.somoynews.tv/news/2026-08-07/DC1258sP",
-  "headline": "India says it does not support remarks of ousted PM Sheikh Hasina",
-  "topic": "india denies support for hasina remarks",
-  "source": "Prothom Alo, Somoy News, Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-08-07T18:06:40Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "f23ab027fa3e2c78",
-  "url": "https://www.dhakatribune.com/bangladesh/crime/416958/underworld-links-emerge-in-string-of-high-profile",
-  "headline": "Investigation reveals underworld links in high-profile killings",
-  "topic": "underworld links in high profile killings",
-  "source": "Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-08-07T18:06:40Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "147d76d33813ad60",
   "url": "https://www.dhakatribune.com/bangladesh/politics/416959/nahid-blames-hasina-s-delhi-briefing-on",
   "headline": "Investigation reveals underworld links in high-profile killings",
@@ -8398,5 +8342,41 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "19fe7127498b493e",
+  "url": "https://www.dhakatribune.com/bangladesh/court/417138/hc-grants-eight-week-anticipatory-bail-to-gazi",
+  "headline": "Expelled Jamaat MP Gazi Nazrul Islam gets anticipatory bail in murder attempt case",
+  "topic": "nazrul-islam-anticipatory-bail",
+  "source": "Dhaka Tribune, Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-10T13:06:54Z"
+ },
+ {
+  "title_hash": "5363b14bd1ae819a",
+  "url": "https://www.prothomalo.com/bangladesh/536hjt031v",
+  "headline": "Expelled Jamaat MP Gazi Nazrul Islam gets anticipatory bail in murder attempt case",
+  "topic": "nazrul-islam-anticipatory-bail",
+  "source": "Dhaka Tribune, Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-10T13:06:54Z"
+ },
+ {
+  "title_hash": "666227e914470e00",
+  "url": "https://www.dhakatribune.com/bangladesh/foreign-affairs/417155/foreign-minister-govt-yet-to-decide-on-pms%E2%80%99-brics",
+  "headline": "Govt undecided on PM's attendance at BRICS summit",
+  "topic": "pm-brics-summit-attendance",
+  "source": "Dhaka Tribune, The Daily Star",
+  "status": "queued",
+  "at": "2026-08-10T13:06:54Z"
+ },
+ {
+  "title_hash": "c00fe36684cab002",
+  "url": "https://www.thedailystar.net/news/bangladesh/diplomacy/news/no-decision-yet-pms-india-visit-brics-summit-foreign-minister-4244416",
+  "headline": "Govt undecided on PM's attendance at BRICS summit",
+  "topic": "pm-brics-summit-attendance",
+  "source": "Dhaka Tribune, The Daily Star",
+  "status": "queued",
+  "at": "2026-08-10T13:06:54Z"
  }
 ]
