@@ -8335,8 +8335,13 @@
   "headline": "Tk 500cr embezzlement: Islami Bank files ACC complaint against S Alam and others",
   "topic": "islami bank embezzlement",
   "source": "The Daily Star, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-08-10T12:07:14Z"
+  "status": "failed",
+  "at": "2026-08-10T12:07:14Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "38a591cb8a002c3e",
@@ -8344,8 +8349,13 @@
   "headline": "Tk 500cr embezzlement: Islami Bank files ACC complaint against S Alam and others",
   "topic": "islami bank embezzlement",
   "source": "The Daily Star, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-08-10T12:07:14Z"
+  "status": "failed",
+  "at": "2026-08-10T12:07:14Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "5f89f5f9f8d908c6",
@@ -8353,8 +8363,13 @@
   "headline": "Measles outbreak: 5 children die in 24 hours as toll rises",
   "topic": "measles outbreak deaths",
   "source": "Dhaka Tribune, Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-10T12:07:14Z"
+  "status": "failed",
+  "at": "2026-08-10T12:07:14Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "7219b5c195377496",
@@ -8362,8 +8377,13 @@
   "headline": "Measles outbreak: 5 children die in 24 hours as toll rises",
   "topic": "measles outbreak deaths",
   "source": "Dhaka Tribune, Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-10T12:07:14Z"
+  "status": "failed",
+  "at": "2026-08-10T12:07:14Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "45cfbf081af45a00",
@@ -8371,7 +8391,12 @@
   "headline": "Measles outbreak: 5 children die in 24 hours as toll rises",
   "topic": "measles outbreak deaths",
   "source": "Dhaka Tribune, Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-10T12:07:14Z"
+  "status": "failed",
+  "at": "2026-08-10T12:07:14Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
