@@ -8349,8 +8349,13 @@
   "headline": "Expelled Jamaat MP Gazi Nazrul Islam gets anticipatory bail in murder attempt case",
   "topic": "nazrul-islam-anticipatory-bail",
   "source": "Dhaka Tribune, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-10T13:06:54Z"
+  "status": "failed",
+  "at": "2026-08-10T13:06:54Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "5363b14bd1ae819a",
@@ -8358,8 +8363,13 @@
   "headline": "Expelled Jamaat MP Gazi Nazrul Islam gets anticipatory bail in murder attempt case",
   "topic": "nazrul-islam-anticipatory-bail",
   "source": "Dhaka Tribune, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-10T13:06:54Z"
+  "status": "failed",
+  "at": "2026-08-10T13:06:54Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "666227e914470e00",
@@ -8367,8 +8377,13 @@
   "headline": "Govt undecided on PM's attendance at BRICS summit",
   "topic": "pm-brics-summit-attendance",
   "source": "Dhaka Tribune, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-10T13:06:54Z"
+  "status": "failed",
+  "at": "2026-08-10T13:06:54Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "c00fe36684cab002",
@@ -8376,7 +8391,12 @@
   "headline": "Govt undecided on PM's attendance at BRICS summit",
   "topic": "pm-brics-summit-attendance",
   "source": "Dhaka Tribune, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-10T13:06:54Z"
+  "status": "failed",
+  "at": "2026-08-10T13:06:54Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
