@@ -1,89 +1,5 @@
 [
  {
-  "title_hash": "8c49d98a159c1299",
-  "url": "https://www.prothomalo.com/video/bangladesh/qp3p9dys6v",
-  "headline": "Former PM's residence converted into July Mass Uprising Memorial Museum",
-  "topic": "july memorial museum inauguration",
-  "source": "Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-05T17:07:44Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "e262fcde4d95fa7b",
-  "url": "https://www.prothomalo.com/video/bangladesh/s62gpj6myh",
-  "headline": "Former PM's residence converted into July Mass Uprising Memorial Museum",
-  "topic": "july memorial museum inauguration",
-  "source": "Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-05T17:07:44Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "e76deae045a0a967",
-  "url": "https://www.dhakatribune.com/bangladesh/foreign-affairs/416812/bangladesh-outraged-over-allowing-hasina-to",
-  "headline": "Bangladesh outraged over India allowing Hasina's media interaction in New Delhi",
-  "topic": "bangladesh outrage hasina india media",
-  "source": "Jamuna TV, Dhaka Tribune, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-05T18:07:04Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "70216248a5920de2",
-  "url": "https://www.jamuna.tv/national/661585",
-  "headline": "Bangladesh outraged over India allowing Hasina's media interaction in New Delhi",
-  "topic": "bangladesh outrage hasina india media",
-  "source": "Jamuna TV, Dhaka Tribune, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-05T18:07:04Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "3076dfd2ed8f97f8",
-  "url": "https://www.prothomalo.com/bangladesh/m85ngpu5mf",
-  "headline": "Bangladesh outraged over India allowing Hasina's media interaction in New Delhi",
-  "topic": "bangladesh outrage hasina india media",
-  "source": "Jamuna TV, Dhaka Tribune, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-05T18:07:04Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "74d588f2b3a847d5",
-  "url": "https://www.dhakatribune.com/bangladesh/nation/416810/shakib-al-hasan%E2%80%99s-magura-house-targeted-in-attack",
-  "headline": "Petrol bomb hurled at Sakin Al Hasan's house in Magura",
-  "topic": "attack on shakib al hasan house",
-  "source": "Jamuna TV, Dhaka Tribune, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-05T18:07:04Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "36b8d73340856bd8",
   "url": "https://www.jamuna.tv/all-bangladesh/661583",
   "headline": "Petrol bomb hurled at Sakin Al Hasan's house in Magura",
@@ -8398,5 +8314,59 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "9f8dc7892493c56b",
+  "url": "https://www.thedailystar.net/news/world/middle-east/news/16-bangladeshis-killed-saudi-factory-fire-4244061",
+  "headline": "16 Bangladeshis killed in devastating Saudi sofa factory fire",
+  "topic": "saudi factory fire bangladeshis killed",
+  "source": "Jamuna TV, The Daily Star",
+  "status": "queued",
+  "at": "2026-08-10T00:07:41Z"
+ },
+ {
+  "title_hash": "726e3882508a13a7",
+  "url": "https://www.jamuna.tv/international/661869",
+  "headline": "16 Bangladeshis killed in devastating Saudi sofa factory fire",
+  "topic": "saudi factory fire bangladeshis killed",
+  "source": "Jamuna TV, The Daily Star",
+  "status": "queued",
+  "at": "2026-08-10T00:07:41Z"
+ },
+ {
+  "title_hash": "9f8dc7892493c56b",
+  "url": "https://www.thedailystar.net/news/accidents-fires/news/16-bangladeshis-killed-saudi-factory-fire-4244126",
+  "headline": "16 Bangladeshis killed in devastating Saudi sofa factory fire",
+  "topic": "saudi factory fire bangladeshis killed",
+  "source": "Jamuna TV, The Daily Star",
+  "status": "queued",
+  "at": "2026-08-10T00:07:41Z"
+ },
+ {
+  "title_hash": "ec61bd1bc952d935",
+  "url": "https://www.dhakatribune.com/bangladesh/election/417094/presidential-election-set-for-first-contested-vote",
+  "headline": "Mirza Fakhrul Islam Alamgir likely BNP's presidential nominee for upcoming election",
+  "topic": "mirza fakhrul presidential nominee",
+  "source": "Dhaka Tribune, The Daily Star",
+  "status": "queued",
+  "at": "2026-08-10T00:07:41Z"
+ },
+ {
+  "title_hash": "bf14f23a50c84b74",
+  "url": "https://www.thedailystar.net/news/politics/news/mirza-fakhrul-likely-be-bnps-presidential-nominee-party-sources-say-4244081",
+  "headline": "Mirza Fakhrul Islam Alamgir likely BNP's presidential nominee for upcoming election",
+  "topic": "mirza fakhrul presidential nominee",
+  "source": "Dhaka Tribune, The Daily Star",
+  "status": "queued",
+  "at": "2026-08-10T00:07:41Z"
+ },
+ {
+  "title_hash": "7f8e928c3a5842d3",
+  "url": "https://www.thedailystar.net/news/political/news/fakhrul-tipped-be-bnps-president-pick-4244136",
+  "headline": "Mirza Fakhrul Islam Alamgir likely BNP's presidential nominee for upcoming election",
+  "topic": "mirza fakhrul presidential nominee",
+  "source": "Dhaka Tribune, The Daily Star",
+  "status": "queued",
+  "at": "2026-08-10T00:07:41Z"
  }
 ]
