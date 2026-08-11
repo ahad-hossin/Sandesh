@@ -8307,8 +8307,13 @@
   "headline": "India's RAW chief's Dhaka visit 'normal engagement', says Dr Zahed",
   "topic": "raw chief visit dhaka",
   "source": "Dhaka Tribune, Jamuna TV, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-11T09:07:35Z"
+  "status": "failed",
+  "at": "2026-08-11T09:07:35Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "4ee720745c4d4a86",
@@ -8316,8 +8321,13 @@
   "headline": "India's RAW chief's Dhaka visit 'normal engagement', says Dr Zahed",
   "topic": "raw chief visit dhaka",
   "source": "Dhaka Tribune, Jamuna TV, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-11T09:07:35Z"
+  "status": "failed",
+  "at": "2026-08-11T09:07:35Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "e46a5ec4c3ad0334",
@@ -8325,8 +8335,13 @@
   "headline": "India's RAW chief's Dhaka visit 'normal engagement', says Dr Zahed",
   "topic": "raw chief visit dhaka",
   "source": "Dhaka Tribune, Jamuna TV, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-11T09:07:35Z"
+  "status": "failed",
+  "at": "2026-08-11T09:07:35Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "832e457051765261",
@@ -8334,8 +8349,13 @@
   "headline": "Presidential election: President to be elected by open vote of MPs",
   "topic": "presidential election preparation",
   "source": "Jamuna TV, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-08-11T09:07:35Z"
+  "status": "failed",
+  "at": "2026-08-11T09:07:35Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "d9afcd44ef2acfaa",
@@ -8343,8 +8363,13 @@
   "headline": "Presidential election: President to be elected by open vote of MPs",
   "topic": "presidential election preparation",
   "source": "Jamuna TV, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-08-11T09:07:35Z"
+  "status": "failed",
+  "at": "2026-08-11T09:07:35Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "f3b4a6cb0509fda8",
@@ -8352,8 +8377,13 @@
   "headline": "Presidential election: President to be elected by open vote of MPs",
   "topic": "presidential election preparation",
   "source": "Jamuna TV, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-08-11T09:07:35Z"
+  "status": "failed",
+  "at": "2026-08-11T09:07:35Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "7f32d58cf686f0c2",
@@ -8361,7 +8391,12 @@
   "headline": "Presidential election: President to be elected by open vote of MPs",
   "topic": "presidential election preparation",
   "source": "Jamuna TV, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-08-11T09:07:35Z"
+  "status": "failed",
+  "at": "2026-08-11T09:07:35Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
