@@ -1,75 +1,5 @@
 [
  {
-  "title_hash": "f2290f89aa1d5c4c",
-  "url": "https://www.prothomalo.com/politics/raassttrpti-pde-nirbaacn-dui-mnonyynptr-tull-bienpi",
-  "headline": "Presidential election: BNP collects two nomination papers",
-  "topic": "bnp collects presidential nomination papers",
-  "source": "The Daily Star, Dhaka Tribune, Somoy News, Prothom Alo, Jamuna TV",
-  "status": "failed",
-  "at": "2026-08-09T09:06:40Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "14d253a329f161c4",
-  "url": "https://www.jamuna.tv/national/661809",
-  "headline": "Presidential election: BNP collects two nomination papers",
-  "topic": "bnp collects presidential nomination papers",
-  "source": "The Daily Star, Dhaka Tribune, Somoy News, Prothom Alo, Jamuna TV",
-  "status": "failed",
-  "at": "2026-08-09T09:06:40Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "a8d5304871473a19",
-  "url": "https://www.prothomalo.com/politics/t59e2w7diq",
-  "headline": "Presidential election: BNP collects two nomination papers",
-  "topic": "bnp collects presidential nomination papers",
-  "source": "The Daily Star, Dhaka Tribune, Somoy News, Prothom Alo, Jamuna TV",
-  "status": "failed",
-  "at": "2026-08-09T09:06:40Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "55671c9b57667508",
-  "url": "https://www.thedailystar.net/news/politics/news/oli-ahmed-nominated-11-party-alliance-candidate-presidential-election-4243446",
-  "headline": "LDP Chairman Col (retd) Oli Ahmed nominated as presidential candidate by 11-party alliance",
-  "topic": "oli ahmed nominated for presidential election",
-  "source": "The Daily Star, Somoy News, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-09T09:06:40Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "2fa207fbd1768ef2",
-  "url": "https://www.somoynews.tv/news/2026-08-09/ICV7ZAYV",
-  "headline": "LDP Chairman Col (retd) Oli Ahmed nominated as presidential candidate by 11-party alliance",
-  "topic": "oli ahmed nominated for presidential election",
-  "source": "The Daily Star, Somoy News, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-09T09:06:40Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "4c0aa00a98a1a185",
   "url": "https://www.jamuna.tv/national/661820",
   "headline": "LDP Chairman Col (retd) Oli Ahmed nominated as presidential candidate by 11-party alliance",
@@ -8398,5 +8328,50 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "ea4ba1118a2100e8",
+  "url": "https://www.dhakatribune.com/bangladesh/417237/doctors-students-protest-at-dmch-confine",
+  "headline": "Protests at DMCH: Doctors and students confine director over staff transfers",
+  "topic": "dmch protest director confined",
+  "source": "Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-08-11T14:07:22Z"
+ },
+ {
+  "title_hash": "1b6c1ea20d665bb7",
+  "url": "https://www.dhakatribune.com/bangladesh/foreign-affairs/417232/zahed-hasina-to-get-full-security-legal-rights",
+  "headline": "Govt to provide full security for Sheikh Hasina if she returns",
+  "topic": "zahed on hasina and shakib return",
+  "source": "Dhaka Tribune, The Daily Star, Jamuna TV",
+  "status": "queued",
+  "at": "2026-08-11T14:07:22Z"
+ },
+ {
+  "title_hash": "df5e3981fabb8534",
+  "url": "https://www.thedailystar.net/news/bangladesh/news/hasina-will-get-full-security-if-she-returns-bangladesh-zahed-4245251",
+  "headline": "Govt to provide full security for Sheikh Hasina if she returns",
+  "topic": "zahed on hasina and shakib return",
+  "source": "Dhaka Tribune, The Daily Star, Jamuna TV",
+  "status": "queued",
+  "at": "2026-08-11T14:07:22Z"
+ },
+ {
+  "title_hash": "4c1e5ef04603917f",
+  "url": "https://www.dhakatribune.com/bangladesh/417207/zahed-govt-to-ensure-shakib%E2%80%99s-security-if-he",
+  "headline": "Govt to provide full security for Sheikh Hasina if she returns",
+  "topic": "zahed on hasina and shakib return",
+  "source": "Dhaka Tribune, The Daily Star, Jamuna TV",
+  "status": "queued",
+  "at": "2026-08-11T14:07:22Z"
+ },
+ {
+  "title_hash": "2cc3fa46eb22a1cf",
+  "url": "https://www.jamuna.tv/politics/661982",
+  "headline": "Govt to provide full security for Sheikh Hasina if she returns",
+  "topic": "zahed on hasina and shakib return",
+  "source": "Dhaka Tribune, The Daily Star, Jamuna TV",
+  "status": "queued",
+  "at": "2026-08-11T14:07:22Z"
  }
 ]
