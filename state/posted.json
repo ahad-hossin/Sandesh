@@ -1,75 +1,5 @@
 [
  {
-  "title_hash": "5205d199b876a00e",
-  "url": "https://www.prothomalo.com/sports/football/cle-gelen-mesir-baabaa",
-  "headline": "Lionel Messi's father has passed away",
-  "topic": "death of messi father",
-  "source": "Somoy News, Prothom Alo, Jamuna TV",
-  "status": "failed",
-  "at": "2026-08-08T20:09:01Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "f14d3b727f02ffdb",
-  "url": "https://www.jamuna.tv/sports/661776",
-  "headline": "Lionel Messi's father has passed away",
-  "topic": "death of messi father",
-  "source": "Somoy News, Prothom Alo, Jamuna TV",
-  "status": "failed",
-  "at": "2026-08-08T20:09:01Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "7eefa5f4561c86b6",
-  "url": "https://www.prothomalo.com/sports/football/u0ppcklka4",
-  "headline": "Lionel Messi's father has passed away",
-  "topic": "death of messi father",
-  "source": "Somoy News, Prothom Alo, Jamuna TV",
-  "status": "failed",
-  "at": "2026-08-08T20:09:01Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "e73b8d8034ba2991",
-  "url": "https://www.somoynews.tv/news/2026-08-08/OM4PSIML",
-  "headline": "Comilla: Tenant kills landlord, dismembers body",
-  "topic": "cumilla tenant kills landlord",
-  "source": "Somoy News",
-  "status": "failed",
-  "at": "2026-08-08T21:58:06Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "52ce36e906f13cb3",
-  "url": "https://www.somoynews.tv/news/2026-08-08/B3WGJIS3",
-  "headline": "2,200 Hilsa fish caught in one haul, worth 4.85 million BDT",
-  "topic": "massive hilsa catch",
-  "source": "Somoy News",
-  "status": "failed",
-  "at": "2026-08-08T22:09:53Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "a329ff6998afdecc",
   "url": "https://www.somoynews.tv/news/2026-08-08/KHyO1SAM",
   "headline": "2 injured as double-decker bus hits pillar of Elevated Expressway",
@@ -8398,5 +8328,50 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "b981964289f2d149",
+  "url": "https://www.prothomalo.com/bangladesh/district/7b6pg71h0i",
+  "headline": "MP's throat held at ramdao point by stepbrothers for property signing, wife alleges in lawsuit",
+  "topic": "mp threatened by stepbrothers",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-11T05:07:25Z"
+ },
+ {
+  "title_hash": "0959e0ef8909e884",
+  "url": "https://www.jamuna.tv/international/661960",
+  "headline": "US pledges $15.5M aid to Colombia after 7.4 magnitude earthquake causes widespread devastation",
+  "topic": "colombia earthquake death toll rises",
+  "source": "Jamuna TV",
+  "status": "queued",
+  "at": "2026-08-11T05:07:25Z"
+ },
+ {
+  "title_hash": "4aeebf7a767fad24",
+  "url": "https://www.jamuna.tv/international/661959",
+  "headline": "US pledges $15.5M aid to Colombia after 7.4 magnitude earthquake causes widespread devastation",
+  "topic": "colombia earthquake death toll rises",
+  "source": "Jamuna TV",
+  "status": "queued",
+  "at": "2026-08-11T05:07:25Z"
+ },
+ {
+  "title_hash": "218edffbfaabee61",
+  "url": "https://www.jamuna.tv/international/661957",
+  "headline": "US pledges $15.5M aid to Colombia after 7.4 magnitude earthquake causes widespread devastation",
+  "topic": "colombia earthquake death toll rises",
+  "source": "Jamuna TV",
+  "status": "queued",
+  "at": "2026-08-11T05:07:25Z"
+ },
+ {
+  "title_hash": "1a273a6e2994a1c6",
+  "url": "https://www.jamuna.tv/international/661956",
+  "headline": "US pledges $15.5M aid to Colombia after 7.4 magnitude earthquake causes widespread devastation",
+  "topic": "colombia earthquake death toll rises",
+  "source": "Jamuna TV",
+  "status": "queued",
+  "at": "2026-08-11T05:07:25Z"
  }
 ]
