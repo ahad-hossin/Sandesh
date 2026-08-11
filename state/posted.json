@@ -1,75 +1,5 @@
 [
  {
-  "title_hash": "a10ccd21f0eed10f",
-  "url": "https://www.jamuna.tv/national/661832",
-  "headline": "Indian High Commissioner: Tarique-Modi talks could resolve Bangladesh-India issues",
-  "topic": "tarique-modi talks potential",
-  "source": "Dhaka Tribune, The Daily Star, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-09T11:07:21Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "de73d1142e5e9a32",
-  "url": "https://www.prothomalo.com/bangladesh/125y05g8lg",
-  "headline": "Indian High Commissioner: Tarique-Modi talks could resolve Bangladesh-India issues",
-  "topic": "tarique-modi talks potential",
-  "source": "Dhaka Tribune, The Daily Star, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-09T11:07:21Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "739a8b17756a8425",
-  "url": "https://www.thedailystar.net/news/crime-justice/news/salman-shah-murder-accused-arrested-dhaka-airport-police-4243541",
-  "headline": "Actor Don arrested at Dhaka airport as Salman Shah murder accused arrested",
-  "topic": "salman shah murder accused arrested",
-  "source": "The Daily Star, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-09T12:08:00Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "023bb3682da2b12d",
-  "url": "https://www.jamuna.tv/national/661840",
-  "headline": "Actor Don arrested at Dhaka airport as Salman Shah murder accused arrested",
-  "topic": "salman shah murder accused arrested",
-  "source": "The Daily Star, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-09T12:08:00Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "c0284915c6e8cf9c",
-  "url": "https://www.prothomalo.com/bangladesh/crime/rydywxntf5",
-  "headline": "Actor Don arrested at Dhaka airport as Salman Shah murder accused arrested",
-  "topic": "salman shah murder accused arrested",
-  "source": "The Daily Star, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-09T12:08:00Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "898659a8a859d4e9",
   "url": "https://www.dhakatribune.com/bangladesh/foreign-affairs/417047/dinesh-trivedi-tarique-modi-talks-could-resolve",
   "headline": "India says Tarique-Modi talks could resolve issues between Dhaka and New Delhi",
@@ -8398,5 +8328,50 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "81e6b333a4d2b961",
+  "url": "https://www.dhakatribune.com/bangladesh/foreign-affairs/417250/indian-envoy-brief-pm-modi-in-delhi-after-meetings",
+  "headline": "Indian envoy briefs PM Modi after talks with Bangladesh leadership",
+  "topic": "trivedi-modi-bangladesh-talks",
+  "source": "Dhaka Tribune, Jamuna TV, The Daily Star",
+  "status": "queued",
+  "at": "2026-08-11T17:07:33Z"
+ },
+ {
+  "title_hash": "87e810c5831f752e",
+  "url": "https://www.jamuna.tv/national/662009",
+  "headline": "Indian envoy briefs PM Modi after talks with Bangladesh leadership",
+  "topic": "trivedi-modi-bangladesh-talks",
+  "source": "Dhaka Tribune, Jamuna TV, The Daily Star",
+  "status": "queued",
+  "at": "2026-08-11T17:07:33Z"
+ },
+ {
+  "title_hash": "10ad3f9dc54aaff6",
+  "url": "https://www.thedailystar.net/news/bangladesh/diplomacy/news/indian-envoy-meets-modi-day-after-talks-tarique-rahman-4245431",
+  "headline": "Indian envoy briefs PM Modi after talks with Bangladesh leadership",
+  "topic": "trivedi-modi-bangladesh-talks",
+  "source": "Dhaka Tribune, Jamuna TV, The Daily Star",
+  "status": "queued",
+  "at": "2026-08-11T17:07:33Z"
+ },
+ {
+  "title_hash": "bac25c81b538ca55",
+  "url": "https://www.thedailystar.net/culture/entertainment/news/khairul-basar-sustains-injuries-accident-during-thailand-shoot-4245331",
+  "headline": "Actor Khairul Basar injured in Thailand during drama shoot",
+  "topic": "khairul-basar-accident",
+  "source": "Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-08-11T17:07:33Z"
+ },
+ {
+  "title_hash": "05665a82aa6740b8",
+  "url": "https://1971.prothomalo.com/media/television/thaailyaandde-durghttnaayy-aaht-abhinetaa-khaayyrul-baasaar",
+  "headline": "Actor Khairul Basar injured in Thailand during drama shoot",
+  "topic": "khairul-basar-accident",
+  "source": "Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-08-11T17:07:33Z"
  }
 ]
