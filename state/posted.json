@@ -8349,8 +8349,13 @@
   "headline": "At least 14 injured in Jubo Dal-Chhatra Dal clashes in Dhaka’s New Market",
   "topic": "jubo dal chhatra dal clash new market",
   "source": "Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-11T20:07:00Z"
+  "status": "failed",
+  "at": "2026-08-11T20:07:00Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "3603f2256f89a1aa",
@@ -8358,8 +8363,13 @@
   "headline": "At least 14 injured in Jubo Dal-Chhatra Dal clashes in Dhaka’s New Market",
   "topic": "jubo dal chhatra dal clash new market",
   "source": "Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-11T20:07:00Z"
+  "status": "failed",
+  "at": "2026-08-11T20:07:00Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "2b7ed91ed9e5a7f7",
@@ -8367,8 +8377,13 @@
   "headline": "10 injured as JnU bus attacked by locals in Manikganj",
   "topic": "jnu bus attack manikganj",
   "source": "Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-11T20:07:00Z"
+  "status": "failed",
+  "at": "2026-08-11T20:07:00Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "ba5f441f187fa229",
@@ -8376,7 +8391,12 @@
   "headline": "10 injured as JnU bus attacked by locals in Manikganj",
   "topic": "jnu bus attack manikganj",
   "source": "Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-11T20:07:00Z"
+  "status": "failed",
+  "at": "2026-08-11T20:07:00Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
