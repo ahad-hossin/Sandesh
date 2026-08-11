@@ -1,61 +1,5 @@
 [
  {
-  "title_hash": "28d18ebe58b1227e",
-  "url": "https://www.jamuna.tv/national/661842",
-  "headline": "672 hospitalised in 24 hours as 2 die of dengue",
-  "topic": "dengue deaths spike",
-  "source": "The Daily Star, Jamuna TV",
-  "status": "failed",
-  "at": "2026-08-09T14:07:09Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "739a8b17756a8425",
-  "url": "https://www.thedailystar.net/news/crime-justice/news/salman-shah-murder-accused-arrested-dhaka-airport-police-4243541",
-  "headline": "Salman Shah murder case: Accused 'Don' arrested at Dhaka airport",
-  "topic": "salman shah murder case don arrested",
-  "source": "Somoy News, Prothom Alo, The Daily Star, Jamuna TV",
-  "status": "failed",
-  "at": "2026-08-09T15:08:36Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "9804182d80c1f81d",
-  "url": "https://www.somoynews.tv/news/2026-08-09/MwA18tw6",
-  "headline": "Salman Shah murder case: Accused 'Don' arrested at Dhaka airport",
-  "topic": "salman shah murder case don arrested",
-  "source": "Somoy News, Prothom Alo, The Daily Star, Jamuna TV",
-  "status": "failed",
-  "at": "2026-08-09T15:08:36Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "bbc8a4036f8866dd",
-  "url": "https://www.prothomalo.com/bangladesh/crime/eeved38az0",
-  "headline": "Salman Shah murder case: Accused 'Don' arrested at Dhaka airport",
-  "topic": "salman shah murder case don arrested",
-  "source": "Somoy News, Prothom Alo, The Daily Star, Jamuna TV",
-  "status": "failed",
-  "at": "2026-08-09T15:08:36Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "023bb3682da2b12d",
   "url": "https://www.jamuna.tv/national/661840",
   "headline": "Salman Shah murder case: Accused 'Don' arrested at Dhaka airport",
@@ -8398,5 +8342,41 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "705ddfcd9ad01e4c",
+  "url": "https://www.thedailystar.net/news/news/14-injured-jubo-dal-chhatra-dal-clashes-dhakas-new-market-4245751",
+  "headline": "At least 14 injured in Jubo Dal-Chhatra Dal clashes in Dhaka’s New Market",
+  "topic": "jubo dal chhatra dal clash new market",
+  "source": "Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-08-11T20:07:00Z"
+ },
+ {
+  "title_hash": "3603f2256f89a1aa",
+  "url": "https://www.prothomalo.com/bangladesh/crime/4oelbmctpb",
+  "headline": "At least 14 injured in Jubo Dal-Chhatra Dal clashes in Dhaka’s New Market",
+  "topic": "jubo dal chhatra dal clash new market",
+  "source": "Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-08-11T20:07:00Z"
+ },
+ {
+  "title_hash": "2b7ed91ed9e5a7f7",
+  "url": "https://www.thedailystar.net/news/bangladesh/news/10-students-hurt-jnu-bus-attacked-manikganj-4245586",
+  "headline": "10 injured as JnU bus attacked by locals in Manikganj",
+  "topic": "jnu bus attack manikganj",
+  "source": "Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-08-11T20:07:00Z"
+ },
+ {
+  "title_hash": "ba5f441f187fa229",
+  "url": "https://www.prothomalo.com/bangladesh/j8gh7ho3ek",
+  "headline": "10 injured as JnU bus attacked by locals in Manikganj",
+  "topic": "jnu bus attack manikganj",
+  "source": "Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-08-11T20:07:00Z"
  }
 ]
