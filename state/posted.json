@@ -1,47 +1,5 @@
 [
  {
-  "title_hash": "1f3df93f10255975",
-  "url": "https://www.dhakatribune.com/bangladesh/417081/survey-bangladeshis-back-democracy-demand-action",
-  "headline": "IRI survey: BNP gains public favour as Jamaat loses ground",
-  "topic": "iri survey bnp jamaat public favour",
-  "source": "Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-08-09T15:08:36Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "65d71cd911380ef1",
-  "url": "https://www.dhakatribune.com/bangladesh/417090/survey-police-struggle-for-public-trust-as-army",
-  "headline": "IRI Survey: Army tops approval ratings as police struggle for trust",
-  "topic": "iri-survey-public-trust-institutions",
-  "source": "Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-08-09T16:07:03Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "54bea639e14a6e8d",
-  "url": "https://www.dhakatribune.com/bangladesh/417088/iri-survey-bangladesh-almost-evenly-split-over",
-  "headline": "IRI Survey: Army tops approval ratings as police struggle for trust",
-  "topic": "iri-survey-public-trust-institutions",
-  "source": "Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-08-09T16:07:03Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "bce60083f2d3f85e",
   "url": "https://www.dhakatribune.com/bangladesh/417087/iri-survey-economic-pain-weighs-on-public-verdict",
   "headline": "IRI Survey: Army tops approval ratings as police struggle for trust",
@@ -8398,5 +8356,32 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "78f63e14d3c3fdda",
+  "url": "https://www.thedailystar.net/sports/football/news/ronaldo-and-georgina-tie-the-knot-4245761",
+  "headline": "Football star Cristiano Ronaldo and Georgina Rodriguez marry in Portugal",
+  "topic": "ronaldo georgina marry",
+  "source": "The Daily Star",
+  "status": "queued",
+  "at": "2026-08-11T22:07:02Z"
+ },
+ {
+  "title_hash": "705ddfcd9ad01e4c",
+  "url": "https://www.thedailystar.net/news/news/14-injured-jubo-dal-chhatra-dal-clashes-dhakas-new-market-4245751",
+  "headline": "At least 14 injured in Jubo Dal-Chhatra Dal clashes in Dhaka’s New Market",
+  "topic": "jubo dal chhatra dal clash new market",
+  "source": "The Daily Star, Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-11T22:07:02Z"
+ },
+ {
+  "title_hash": "3603f2256f89a1aa",
+  "url": "https://www.prothomalo.com/bangladesh/crime/4oelbmctpb",
+  "headline": "At least 14 injured in Jubo Dal-Chhatra Dal clashes in Dhaka’s New Market",
+  "topic": "jubo dal chhatra dal clash new market",
+  "source": "The Daily Star, Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-11T22:07:02Z"
  }
 ]
