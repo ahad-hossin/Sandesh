@@ -1,61 +1,5 @@
 [
  {
-  "title_hash": "7c4c85e0ab5c9a12",
-  "url": "https://www.prothomalo.com/politics/65j09eo3t0",
-  "headline": "Oli Ahmed nominated as candidate for presidential election by 11-party alliance",
-  "topic": "oli ahmed 11-party alliance presidential candidate",
-  "source": "Somoy News, Jamuna TV, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-08-09T08:08:01Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "d004def2eebc7097",
-  "url": "https://www.thedailystar.net/news/bangladesh/news/presidential-election-bnp-collects-nomination-papers-4243456",
-  "headline": "Presidential election: BNP collects two nomination papers",
-  "topic": "bnp collects presidential nomination papers",
-  "source": "The Daily Star, Dhaka Tribune, Somoy News, Prothom Alo, Jamuna TV",
-  "status": "failed",
-  "at": "2026-08-09T09:06:40Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "64bafb136894d30e",
-  "url": "https://www.dhakatribune.com/bangladesh/election/417039/bnp-collects-two-nomination-forms-for-23rd",
-  "headline": "Presidential election: BNP collects two nomination papers",
-  "topic": "bnp collects presidential nomination papers",
-  "source": "The Daily Star, Dhaka Tribune, Somoy News, Prothom Alo, Jamuna TV",
-  "status": "failed",
-  "at": "2026-08-09T09:06:40Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "7eea683ea7177267",
-  "url": "https://www.somoynews.tv/news/2026-08-09/F2zSO1TI",
-  "headline": "Presidential election: BNP collects two nomination papers",
-  "topic": "bnp collects presidential nomination papers",
-  "source": "The Daily Star, Dhaka Tribune, Somoy News, Prothom Alo, Jamuna TV",
-  "status": "failed",
-  "at": "2026-08-09T09:06:40Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "f2290f89aa1d5c4c",
   "url": "https://www.prothomalo.com/politics/raassttrpti-pde-nirbaacn-dui-mnonyynptr-tull-bienpi",
   "headline": "Presidential election: BNP collects two nomination papers",
@@ -8398,5 +8342,41 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "063dd118990ef21b",
+  "url": "https://www.dhakatribune.com/bangladesh/health/417230/measles-outbreak-death-toll-reaches-880-as-two",
+  "headline": "880 children dead as measles outbreak hits Bangladesh",
+  "topic": "measles outbreak death toll",
+  "source": "Dhaka Tribune, Jamuna TV",
+  "status": "queued",
+  "at": "2026-08-11T13:07:03Z"
+ },
+ {
+  "title_hash": "5bfa462829fa59c7",
+  "url": "https://www.jamuna.tv/national/661979",
+  "headline": "880 children dead as measles outbreak hits Bangladesh",
+  "topic": "measles outbreak death toll",
+  "source": "Dhaka Tribune, Jamuna TV",
+  "status": "queued",
+  "at": "2026-08-11T13:07:03Z"
+ },
+ {
+  "title_hash": "567ee40d30650425",
+  "url": "https://www.dhakatribune.com/bangladesh/health/417222/health-officials-report-756-fresh-cases-of-dengue",
+  "headline": "756 fresh dengue cases reported overnight across Bangladesh",
+  "topic": "dengue cases rise",
+  "source": "Dhaka Tribune, Jamuna TV",
+  "status": "queued",
+  "at": "2026-08-11T13:07:03Z"
+ },
+ {
+  "title_hash": "51dd2ab082442af8",
+  "url": "https://www.jamuna.tv/national/661993",
+  "headline": "756 fresh dengue cases reported overnight across Bangladesh",
+  "topic": "dengue cases rise",
+  "source": "Dhaka Tribune, Jamuna TV",
+  "status": "queued",
+  "at": "2026-08-11T13:07:03Z"
  }
 ]
