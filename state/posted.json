@@ -1,61 +1,5 @@
 [
  {
-  "title_hash": "9f8dc7892493c56b",
-  "url": "https://www.thedailystar.net/news/accidents-fires/news/16-bangladeshis-killed-saudi-factory-fire-4244126",
-  "headline": "16 Bangladeshis killed in devastating sofa factory fire in Saudi Arabia",
-  "topic": "16 Bangladeshis killed in Saudi factory fire",
-  "source": "Jamuna TV, Somoy News, The Daily Star",
-  "status": "failed",
-  "at": "2026-08-10T02:07:57Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "53fbfe877f89b6d4",
-  "url": "https://www.jamuna.tv/national/661871",
-  "headline": "SSC and equivalent exam results to be published today, August 10, for 1.85 million students",
-  "topic": "SSC results published today",
-  "source": "Jamuna TV",
-  "status": "failed",
-  "at": "2026-08-10T02:07:57Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "63e9e9a77054a91e",
-  "url": "https://www.prothomalo.com/education/examination/esessi-smmaan-priikssaar-phlaaphl-aaj",
-  "headline": "SSC & equivalent exam results for 2026 to be published today, August 10",
-  "topic": "SSC exam results published",
-  "source": "Prothom Alo, Jamuna TV",
-  "status": "failed",
-  "at": "2026-08-10T03:07:18Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "53fbfe877f89b6d4",
-  "url": "https://www.jamuna.tv/national/661871",
-  "headline": "SSC & equivalent exam results for 2026 to be published today, August 10",
-  "topic": "SSC exam results published",
-  "source": "Prothom Alo, Jamuna TV",
-  "status": "failed",
-  "at": "2026-08-10T03:07:18Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "b6d09a891ac904c3",
   "url": "https://www.prothomalo.com/education/examination/7bldm1737f",
   "headline": "SSC & equivalent exam results for 2026 to be published today, August 10",
@@ -8398,5 +8342,41 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "a6452e9b29b7004c",
+  "url": "https://www.thedailystar.net/health/disease/news/2-more-die-dengue-723-hospitalised-24-hours-4246096",
+  "headline": "723 hospitalised as 2 more die of dengue in 24 hours",
+  "topic": "dengue deaths update",
+  "source": "Jamuna TV, The Daily Star",
+  "status": "queued",
+  "at": "2026-08-12T12:07:19Z"
+ },
+ {
+  "title_hash": "48bcefc5d8aea41c",
+  "url": "https://www.jamuna.tv/national/662055",
+  "headline": "723 hospitalised as 2 more die of dengue in 24 hours",
+  "topic": "dengue deaths update",
+  "source": "Jamuna TV, The Daily Star",
+  "status": "queued",
+  "at": "2026-08-12T12:07:19Z"
+ },
+ {
+  "title_hash": "4ea4e4b215254154",
+  "url": "https://www.dhakatribune.com/bangladesh/power-energy/417299/gas-shortage-leaves-cng-private-car-drivers",
+  "headline": "Dhaka residents face severe gas crisis as supply drops",
+  "topic": "dhaka cng gas crisis",
+  "source": "Dhaka Tribune, Jamuna TV",
+  "status": "queued",
+  "at": "2026-08-12T12:07:19Z"
+ },
+ {
+  "title_hash": "f83b2b5d44cdf1ff",
+  "url": "https://www.jamuna.tv/national/662043",
+  "headline": "Dhaka residents face severe gas crisis as supply drops",
+  "topic": "dhaka cng gas crisis",
+  "source": "Dhaka Tribune, Jamuna TV",
+  "status": "queued",
+  "at": "2026-08-12T12:07:19Z"
  }
 ]
