@@ -8307,8 +8307,13 @@
   "headline": "Cocktail bomb explodes on Barishal court premises",
   "topic": "barisal court bomb blast",
   "source": "Dhaka Tribune, Jamuna TV, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-12T07:07:07Z"
+  "status": "failed",
+  "at": "2026-08-12T07:07:07Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "d60e55501369a4d0",
@@ -8316,8 +8321,13 @@
   "headline": "Cocktail bomb explodes on Barishal court premises",
   "topic": "barisal court bomb blast",
   "source": "Dhaka Tribune, Jamuna TV, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-12T07:07:07Z"
+  "status": "failed",
+  "at": "2026-08-12T07:07:07Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "cb7d8734d6486823",
@@ -8325,8 +8335,13 @@
   "headline": "Cocktail bomb explodes on Barishal court premises",
   "topic": "barisal court bomb blast",
   "source": "Dhaka Tribune, Jamuna TV, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-12T07:07:07Z"
+  "status": "failed",
+  "at": "2026-08-12T07:07:07Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "4d1c5a3eb2a7701e",
@@ -8334,8 +8349,13 @@
   "headline": "Savar: Pressure cooker wrapped in black tape sparks bomb scare",
   "topic": "savar bomb scare",
   "source": "The Daily Star, Dhaka Tribune, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-12T07:07:07Z"
+  "status": "failed",
+  "at": "2026-08-12T07:07:07Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "40c6d641426aa388",
@@ -8343,8 +8363,13 @@
   "headline": "Savar: Pressure cooker wrapped in black tape sparks bomb scare",
   "topic": "savar bomb scare",
   "source": "The Daily Star, Dhaka Tribune, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-12T07:07:07Z"
+  "status": "failed",
+  "at": "2026-08-12T07:07:07Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "b09a4310b5e40086",
@@ -8352,8 +8377,13 @@
   "headline": "Savar: Pressure cooker wrapped in black tape sparks bomb scare",
   "topic": "savar bomb scare",
   "source": "The Daily Star, Dhaka Tribune, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-12T07:07:07Z"
+  "status": "failed",
+  "at": "2026-08-12T07:07:07Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "8b396673a1b5ec54",
@@ -8361,7 +8391,12 @@
   "headline": "Savar: Pressure cooker wrapped in black tape sparks bomb scare",
   "topic": "savar bomb scare",
   "source": "The Daily Star, Dhaka Tribune, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-12T07:07:07Z"
+  "status": "failed",
+  "at": "2026-08-12T07:07:07Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
