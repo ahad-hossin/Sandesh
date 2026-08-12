@@ -8335,8 +8335,13 @@
   "headline": "Lionel Messi hints at retirement after father's passing",
   "topic": "messi father death",
   "source": "Somoy News",
-  "status": "queued",
-  "at": "2026-08-12T23:07:29Z"
+  "status": "failed",
+  "at": "2026-08-12T23:07:29Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "7f010646982fdb5d",
@@ -8344,8 +8349,13 @@
   "headline": "Lionel Messi hints at retirement after father's passing",
   "topic": "messi father death",
   "source": "Somoy News",
-  "status": "queued",
-  "at": "2026-08-12T23:07:29Z"
+  "status": "failed",
+  "at": "2026-08-12T23:07:29Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "080a3376eb8a33e2",
@@ -8353,8 +8363,13 @@
   "headline": "Lionel Messi hints at retirement after father's passing",
   "topic": "messi father death",
   "source": "Somoy News",
-  "status": "queued",
-  "at": "2026-08-12T23:07:29Z"
+  "status": "failed",
+  "at": "2026-08-12T23:07:29Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "a400143ea521c3c1",
@@ -8362,8 +8377,13 @@
   "headline": "Trump claims Hormuz Strait is under control",
   "topic": "trump hormuz air force one",
   "source": "Somoy News, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-12T23:07:29Z"
+  "status": "failed",
+  "at": "2026-08-12T23:07:29Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "5dcc0dde7d0ccf56",
@@ -8371,7 +8391,12 @@
   "headline": "Trump claims Hormuz Strait is under control",
   "topic": "trump hormuz air force one",
   "source": "Somoy News, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-12T23:07:29Z"
+  "status": "failed",
+  "at": "2026-08-12T23:07:29Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
