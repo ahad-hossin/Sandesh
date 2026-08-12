@@ -1,33 +1,5 @@
 [
  {
-  "title_hash": "5b349ddf08c7eee1",
-  "url": "https://www.thedailystar.net/news/bangladesh/education/news/over-half-humanities-students-unable-clear-ssc-exams-4244286",
-  "headline": "SSC results: Pass rate falls to 62.25% as GPA-5 holders decline",
-  "topic": "ssc-results-2026",
-  "source": "Dhaka Tribune, Prothom Alo, The Daily Star, Jamuna TV, Somoy News",
-  "status": "failed",
-  "at": "2026-08-10T06:07:13Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "15e601428b2c4c54",
-  "url": "https://www.thedailystar.net/news/education/news/english-pass-rate-below-75pc-7-out-9-boards-4244276",
-  "headline": "SSC results: Pass rate falls to 62.25% as GPA-5 holders decline",
-  "topic": "ssc-results-2026",
-  "source": "Dhaka Tribune, Prothom Alo, The Daily Star, Jamuna TV, Somoy News",
-  "status": "failed",
-  "at": "2026-08-10T06:07:13Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "55fa0464a0fafa4b",
   "url": "https://www.thedailystar.net/news/education/news/gpa-5-achievers-fall-fourth-straight-year-4244261",
   "headline": "SSC results: Pass rate falls to 62.25% as GPA-5 holders decline",
@@ -8398,5 +8370,23 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "abe4c35444e8b13b",
+  "url": "https://www.prothomalo.com/bangladesh/capital/qwha27qfi4",
+  "headline": "3,382MW load shedding: Dhaka faces prolonged power cuts on Wednesday night",
+  "topic": "dhaka load shedding",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-12T22:06:53Z"
+ },
+ {
+  "title_hash": "66b4c7a1deb47395",
+  "url": "https://www.prothomalo.com/bangladesh/capital/fnb4aql00p",
+  "headline": "Conjoined twins Zainab and Umme Kulsum have died at DMCH",
+  "topic": "conjoined twins death",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-12T22:06:53Z"
  }
 ]
