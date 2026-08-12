@@ -8363,8 +8363,13 @@
   "headline": "Colombia earthquake death toll surpasses 250; rescue operations continue amid widespread destruction",
   "topic": "Colombia Earthquake Death Toll Rises",
   "source": "Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-12T00:07:41Z"
+  "status": "failed",
+  "at": "2026-08-12T00:07:41Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "f7fd789802154eb3",
@@ -8372,8 +8377,13 @@
   "headline": "Colombia earthquake death toll surpasses 250; rescue operations continue amid widespread destruction",
   "topic": "Colombia Earthquake Death Toll Rises",
   "source": "Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-12T00:07:41Z"
+  "status": "failed",
+  "at": "2026-08-12T00:07:41Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "64c1e9768196bc8c",
@@ -8381,7 +8391,12 @@
   "headline": "Pakistani Actress Durefishan trolled over English pronunciation in new drama 'Dar-e-Najat'",
   "topic": "Durefishan Trolled for English",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-12T00:07:41Z"
+  "status": "failed",
+  "at": "2026-08-12T00:07:41Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
