@@ -8349,8 +8349,13 @@
   "headline": "723 hospitalised as 2 more die of dengue in 24 hours",
   "topic": "dengue deaths update",
   "source": "Jamuna TV, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-12T12:07:19Z"
+  "status": "failed",
+  "at": "2026-08-12T12:07:19Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "48bcefc5d8aea41c",
@@ -8358,8 +8363,13 @@
   "headline": "723 hospitalised as 2 more die of dengue in 24 hours",
   "topic": "dengue deaths update",
   "source": "Jamuna TV, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-12T12:07:19Z"
+  "status": "failed",
+  "at": "2026-08-12T12:07:19Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "4ea4e4b215254154",
@@ -8367,8 +8377,13 @@
   "headline": "Dhaka residents face severe gas crisis as supply drops",
   "topic": "dhaka cng gas crisis",
   "source": "Dhaka Tribune, Jamuna TV",
-  "status": "queued",
-  "at": "2026-08-12T12:07:19Z"
+  "status": "failed",
+  "at": "2026-08-12T12:07:19Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "f83b2b5d44cdf1ff",
@@ -8376,7 +8391,12 @@
   "headline": "Dhaka residents face severe gas crisis as supply drops",
   "topic": "dhaka cng gas crisis",
   "source": "Dhaka Tribune, Jamuna TV",
-  "status": "queued",
-  "at": "2026-08-12T12:07:19Z"
+  "status": "failed",
+  "at": "2026-08-12T12:07:19Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
