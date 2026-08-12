@@ -8335,8 +8335,13 @@
   "headline": "Bangladesh's gross reserves cross $37 billion again",
   "topic": "bangladesh-reserves-cross-37-billion",
   "source": "Jamuna TV",
-  "status": "queued",
-  "at": "2026-08-12T20:07:06Z"
+  "status": "failed",
+  "at": "2026-08-12T20:07:06Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "6040aab087cebec5",
@@ -8344,8 +8349,13 @@
   "headline": "Nationwide order: Shops and malls to close by 8pm",
   "topic": "shops-malls-close-8pm",
   "source": "Somoy News, Prothom Alo, Jamuna TV, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-08-12T20:07:06Z"
+  "status": "failed",
+  "at": "2026-08-12T20:07:06Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "ffc42e8b545058db",
@@ -8353,8 +8363,13 @@
   "headline": "Nationwide order: Shops and malls to close by 8pm",
   "topic": "shops-malls-close-8pm",
   "source": "Somoy News, Prothom Alo, Jamuna TV, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-08-12T20:07:06Z"
+  "status": "failed",
+  "at": "2026-08-12T20:07:06Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "21bf0cb406a62190",
@@ -8362,8 +8377,13 @@
   "headline": "Nationwide order: Shops and malls to close by 8pm",
   "topic": "shops-malls-close-8pm",
   "source": "Somoy News, Prothom Alo, Jamuna TV, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-08-12T20:07:06Z"
+  "status": "failed",
+  "at": "2026-08-12T20:07:06Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "5d5463ff9be1860c",
@@ -8371,7 +8391,12 @@
   "headline": "Nationwide order: Shops and malls to close by 8pm",
   "topic": "shops-malls-close-8pm",
   "source": "Somoy News, Prothom Alo, Jamuna TV, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-08-12T20:07:06Z"
+  "status": "failed",
+  "at": "2026-08-12T20:07:06Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
