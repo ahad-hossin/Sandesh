@@ -8377,8 +8377,13 @@
   "headline": "DU students' residential seats cancelled over homosexuality allegations",
   "topic": "du-hall-homosexuality-allegations",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-12T08:07:47Z"
+  "status": "failed",
+  "at": "2026-08-12T08:07:47Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "005ca3aaf4ab71d5",
@@ -8386,7 +8391,12 @@
   "headline": "Severe gas crisis hits Chattogram as supply drops to half of demand",
   "topic": "bangladesh-gas-crisis",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-12T08:07:47Z"
+  "status": "failed",
+  "at": "2026-08-12T08:07:47Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
