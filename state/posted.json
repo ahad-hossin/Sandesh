@@ -1,75 +1,5 @@
 [
  {
-  "title_hash": "282e07f23251ea08",
-  "url": "https://www.somoynews.tv/news/2026-08-10/z4GE1PLH",
-  "headline": "SSC results: Pass rate falls to 62.25% as GPA-5 holders decline",
-  "topic": "ssc-results-2026",
-  "source": "Dhaka Tribune, Prothom Alo, The Daily Star, Jamuna TV, Somoy News",
-  "status": "failed",
-  "at": "2026-08-10T06:07:13Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "04b21b8ff512e3a7",
-  "url": "https://www.thedailystar.net/news/education/news/ssc-results-today-how-check-your-results-4244211",
-  "headline": "SSC results: Pass rate falls to 62.25% as GPA-5 holders decline",
-  "topic": "ssc-results-2026",
-  "source": "Dhaka Tribune, Prothom Alo, The Daily Star, Jamuna TV, Somoy News",
-  "status": "failed",
-  "at": "2026-08-10T06:07:13Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "3ff6696e44da445b",
-  "url": "https://www.somoynews.tv/news/2026-08-10/CGP1vv96",
-  "headline": "SSC results: Pass rate falls to 62.25% as GPA-5 holders decline",
-  "topic": "ssc-results-2026",
-  "source": "Dhaka Tribune, Prothom Alo, The Daily Star, Jamuna TV, Somoy News",
-  "status": "failed",
-  "at": "2026-08-10T06:07:13Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "f8c0b70a7a978530",
-  "url": "https://www.somoynews.tv/news/2026-08-10/wTFxH1S9",
-  "headline": "SSC results: Pass rate falls to 62.25% as GPA-5 holders decline",
-  "topic": "ssc-results-2026",
-  "source": "Dhaka Tribune, Prothom Alo, The Daily Star, Jamuna TV, Somoy News",
-  "status": "failed",
-  "at": "2026-08-10T06:07:13Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "53fbfe877f89b6d4",
-  "url": "https://www.jamuna.tv/national/661871",
-  "headline": "SSC results: Pass rate falls to 62.25% as GPA-5 holders decline",
-  "topic": "ssc-results-2026",
-  "source": "Dhaka Tribune, Prothom Alo, The Daily Star, Jamuna TV, Somoy News",
-  "status": "failed",
-  "at": "2026-08-10T06:07:13Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "ec6f69e925ba4236",
   "url": "https://www.prothomalo.com/education/examination/irz272rlb0",
   "headline": "SSC results: Pass rate falls to 62.25% as GPA-5 holders decline",
@@ -8398,5 +8328,50 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "dab2b326525c9a33",
+  "url": "https://www.jamuna.tv/economy/662076",
+  "headline": "Bangladesh's gross reserves cross $37 billion again",
+  "topic": "bangladesh-reserves-cross-37-billion",
+  "source": "Jamuna TV",
+  "status": "queued",
+  "at": "2026-08-12T20:07:06Z"
+ },
+ {
+  "title_hash": "6040aab087cebec5",
+  "url": "https://www.dhakatribune.com/bangladesh/417315/shopping-malls-markets-and-shops-to-close-by-8pm",
+  "headline": "Nationwide order: Shops and malls to close by 8pm",
+  "topic": "shops-malls-close-8pm",
+  "source": "Somoy News, Prothom Alo, Jamuna TV, Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-08-12T20:07:06Z"
+ },
+ {
+  "title_hash": "ffc42e8b545058db",
+  "url": "https://www.somoynews.tv/news/2026-08-12/TRZMATHB",
+  "headline": "Nationwide order: Shops and malls to close by 8pm",
+  "topic": "shops-malls-close-8pm",
+  "source": "Somoy News, Prothom Alo, Jamuna TV, Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-08-12T20:07:06Z"
+ },
+ {
+  "title_hash": "21bf0cb406a62190",
+  "url": "https://www.prothomalo.com/video/bangladesh/kb2d12sdvi",
+  "headline": "Nationwide order: Shops and malls to close by 8pm",
+  "topic": "shops-malls-close-8pm",
+  "source": "Somoy News, Prothom Alo, Jamuna TV, Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-08-12T20:07:06Z"
+ },
+ {
+  "title_hash": "5d5463ff9be1860c",
+  "url": "https://www.jamuna.tv/national/662066",
+  "headline": "Nationwide order: Shops and malls to close by 8pm",
+  "topic": "shops-malls-close-8pm",
+  "source": "Somoy News, Prothom Alo, Jamuna TV, Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-08-12T20:07:06Z"
  }
 ]
