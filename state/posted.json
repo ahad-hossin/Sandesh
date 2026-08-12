@@ -8349,8 +8349,13 @@
   "headline": "Bangladesh's energy crisis deepens amid ghost bills, load shedding, and massive system loss",
   "topic": "Bangladesh energy crisis",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-12T02:07:36Z"
+  "status": "failed",
+  "at": "2026-08-12T02:07:36Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "680886bca6aeeb51",
@@ -8358,8 +8363,13 @@
   "headline": "Bangladesh's energy crisis deepens amid ghost bills, load shedding, and massive system loss",
   "topic": "Bangladesh energy crisis",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-12T02:07:36Z"
+  "status": "failed",
+  "at": "2026-08-12T02:07:36Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "bcb7c1f1f77a7474",
@@ -8367,8 +8377,13 @@
   "headline": "Colombia earthquake death toll surpasses 250, rescue operations continue amid widespread destruction",
   "topic": "Colombia earthquake death toll",
   "source": "Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-12T02:07:36Z"
+  "status": "failed",
+  "at": "2026-08-12T02:07:36Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "f7fd789802154eb3",
@@ -8376,7 +8391,12 @@
   "headline": "Colombia earthquake death toll surpasses 250, rescue operations continue amid widespread destruction",
   "topic": "Colombia earthquake death toll",
   "source": "Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-12T02:07:36Z"
+  "status": "failed",
+  "at": "2026-08-12T02:07:36Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
