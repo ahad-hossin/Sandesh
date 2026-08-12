@@ -1,33 +1,5 @@
 [
  {
-  "title_hash": "726e3882508a13a7",
-  "url": "https://www.jamuna.tv/international/661869",
-  "headline": "16 Bangladeshis killed in Saudi factory fire",
-  "topic": "saudi factory fire bangladeshis killed",
-  "source": "Jamuna TV, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-08-09T22:07:01Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "91570578065780c0",
-  "url": "https://www.prothomalo.com/bangladesh/district/11ltewvhjh",
-  "headline": "16 Bangladeshis killed in Saudi factory fire",
-  "topic": "saudi factory fire bangladeshis killed",
-  "source": "Jamuna TV, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-08-09T22:07:01Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "bf14f23a50c84b74",
   "url": "https://www.thedailystar.net/news/politics/news/mirza-fakhrul-likely-be-bnps-presidential-nominee-party-sources-say-4244081",
   "headline": "BNP's Mirza Fakhrul likely to be presidential nominee",
@@ -8398,5 +8370,23 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "6043c95ff5ccc094",
+  "url": "https://www.prothomalo.com/bangladesh/isj5e3sjzd",
+  "headline": "DU students' residential seats cancelled over homosexuality allegations",
+  "topic": "du-hall-homosexuality-allegations",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-12T08:07:47Z"
+ },
+ {
+  "title_hash": "005ca3aaf4ab71d5",
+  "url": "https://www.prothomalo.com/bangladesh/district/z5z0pan9mi",
+  "headline": "Severe gas crisis hits Chattogram as supply drops to half of demand",
+  "topic": "bangladesh-gas-crisis",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-12T08:07:47Z"
  }
 ]
