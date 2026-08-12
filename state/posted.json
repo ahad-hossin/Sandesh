@@ -1,61 +1,5 @@
 [
  {
-  "title_hash": "98c8a02fdb0cb317",
-  "url": "https://www.prothomalo.com/politics/raassttrpti-bhotte-ali-nepthye-jaamaayyaat-kaushl",
-  "headline": "First contested presidential vote in 35 years: Jamaat-led alliance nominates Oli Ahmed",
-  "topic": "mirza fakhrul presidential bid",
-  "source": "Prothom Alo, Dhaka Tribune, Somoy News",
-  "status": "failed",
-  "at": "2026-08-09T20:07:29Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "2debf1e3a885de56",
-  "url": "https://www.somoynews.tv/news/2026-08-09/S3NHP1FD",
-  "headline": "First contested presidential vote in 35 years: Jamaat-led alliance nominates Oli Ahmed",
-  "topic": "mirza fakhrul presidential bid",
-  "source": "Prothom Alo, Dhaka Tribune, Somoy News",
-  "status": "failed",
-  "at": "2026-08-09T20:07:29Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "8c3e76acb02a0b6b",
-  "url": "https://www.prothomalo.com/politics/f9rv1lmhzs",
-  "headline": "First contested presidential vote in 35 years: Jamaat-led alliance nominates Oli Ahmed",
-  "topic": "mirza fakhrul presidential bid",
-  "source": "Prothom Alo, Dhaka Tribune, Somoy News",
-  "status": "failed",
-  "at": "2026-08-09T20:07:29Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "9f8dc7892493c56b",
-  "url": "https://www.thedailystar.net/news/world/middle-east/news/16-bangladeshis-killed-saudi-factory-fire-4244061",
-  "headline": "16 Bangladeshis killed in Saudi factory fire",
-  "topic": "saudi factory fire bangladeshis killed",
-  "source": "Jamuna TV, Somoy News, The Daily Star, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-09T21:06:57Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "726e3882508a13a7",
   "url": "https://www.jamuna.tv/international/661869",
   "headline": "16 Bangladeshis killed in Saudi factory fire",
@@ -8398,5 +8342,41 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "d60332302e6f2993",
+  "url": "https://www.jamuna.tv/all-bangladesh/662030",
+  "headline": "Bomb blast at Barishal District Judge Court premises",
+  "topic": "barishal court bomb blast",
+  "source": "Jamuna TV",
+  "status": "queued",
+  "at": "2026-08-12T06:07:09Z"
+ },
+ {
+  "title_hash": "692099ed2110d48c",
+  "url": "https://www.prothomalo.com/bangladesh/haam-pristhiti-niyyntrnner-baaire-kaar-daayy-ktttaa",
+  "headline": "680 dead as measles situation spirals out of control in Bangladesh",
+  "topic": "measles outbreak bangladesh",
+  "source": "Prothom Alo, Jamuna TV",
+  "status": "queued",
+  "at": "2026-08-12T06:07:09Z"
+ },
+ {
+  "title_hash": "21721f1881d88c31",
+  "url": "https://www.jamuna.tv/all-bangladesh/662026",
+  "headline": "680 dead as measles situation spirals out of control in Bangladesh",
+  "topic": "measles outbreak bangladesh",
+  "source": "Prothom Alo, Jamuna TV",
+  "status": "queued",
+  "at": "2026-08-12T06:07:09Z"
+ },
+ {
+  "title_hash": "821ed095d3b97bdc",
+  "url": "https://www.prothomalo.com/bangladesh/qqpuzxc7nb",
+  "headline": "680 dead as measles situation spirals out of control in Bangladesh",
+  "topic": "measles outbreak bangladesh",
+  "source": "Prothom Alo, Jamuna TV",
+  "status": "queued",
+  "at": "2026-08-12T06:07:09Z"
  }
 ]
