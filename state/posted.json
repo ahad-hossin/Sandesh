@@ -8321,8 +8321,13 @@
   "headline": "Govt orders shops and malls to close by 8pm nationwide",
   "topic": "shops malls close 8pm",
   "source": "Jamuna TV, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-08-12T15:07:09Z"
+  "status": "failed",
+  "at": "2026-08-12T15:07:09Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "5d5463ff9be1860c",
@@ -8330,8 +8335,13 @@
   "headline": "Govt orders shops and malls to close by 8pm nationwide",
   "topic": "shops malls close 8pm",
   "source": "Jamuna TV, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-08-12T15:07:09Z"
+  "status": "failed",
+  "at": "2026-08-12T15:07:09Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "a86110cc9c5cc87a",
@@ -8339,8 +8349,13 @@
   "headline": "6 senior police officers suspended for prolonged absence",
   "topic": "senior police officers suspended",
   "source": "Dhaka Tribune, The Daily Star, Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-12T15:07:09Z"
+  "status": "failed",
+  "at": "2026-08-12T15:07:09Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "294f522810bea0ca",
@@ -8348,8 +8363,13 @@
   "headline": "6 senior police officers suspended for prolonged absence",
   "topic": "senior police officers suspended",
   "source": "Dhaka Tribune, The Daily Star, Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-12T15:07:09Z"
+  "status": "failed",
+  "at": "2026-08-12T15:07:09Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "32606ec75bd09c7a",
@@ -8357,8 +8377,13 @@
   "headline": "6 senior police officers suspended for prolonged absence",
   "topic": "senior police officers suspended",
   "source": "Dhaka Tribune, The Daily Star, Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-12T15:07:09Z"
+  "status": "failed",
+  "at": "2026-08-12T15:07:09Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "5f69de9f240de319",
@@ -8366,7 +8391,12 @@
   "headline": "6 senior police officers suspended for prolonged absence",
   "topic": "senior police officers suspended",
   "source": "Dhaka Tribune, The Daily Star, Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-12T15:07:09Z"
+  "status": "failed",
+  "at": "2026-08-12T15:07:09Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
