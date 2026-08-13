@@ -8363,8 +8363,13 @@
   "headline": "Bangladesh to field first against Australia in opening Test after 23 years in Darwin",
   "topic": "bangladesh cricket match",
   "source": "Jamuna TV, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-13T01:07:31Z"
+  "status": "failed",
+  "at": "2026-08-13T01:07:31Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "cead7a94f19d0b81",
@@ -8372,8 +8377,13 @@
   "headline": "Bangladesh to field first against Australia in opening Test after 23 years in Darwin",
   "topic": "bangladesh cricket match",
   "source": "Jamuna TV, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-13T01:07:31Z"
+  "status": "failed",
+  "at": "2026-08-13T01:07:31Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "abe4c35444e8b13b",
@@ -8381,7 +8391,12 @@
   "headline": "Long load shedding hits various Dhaka areas at night, causing discomfort amid heat",
   "topic": "dhaka load shedding",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-13T01:07:31Z"
+  "status": "failed",
+  "at": "2026-08-13T01:07:31Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
