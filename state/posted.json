@@ -1,33 +1,5 @@
 [
  {
-  "title_hash": "0f398001dc6c742a",
-  "url": "https://www.somoynews.tv/news/2026-08-10/Hy4XTKWy",
-  "headline": "690,608 students fail SSC and equivalent exams",
-  "topic": "ssc-results-2026",
-  "source": "Somoy News, Dhaka Tribune, Jamuna TV, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-08-10T07:09:00Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "1579b6752a5511de",
-  "url": "https://www.dhakatribune.com/bangladesh/education/417114/59%25-of-humanities-students-fail-ssc-exams",
-  "headline": "690,608 students fail SSC and equivalent exams",
-  "topic": "ssc-results-2026",
-  "source": "Somoy News, Dhaka Tribune, Jamuna TV, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-08-10T07:09:00Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "5c8e00f2db8f6b43",
   "url": "https://www.dhakatribune.com/bangladesh/education/417112/88%25-pass-ssc-at-nine-centres-abroad",
   "headline": "690,608 students fail SSC and equivalent exams",
@@ -8398,5 +8370,23 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "ee8c3e8e92cead3d",
+  "url": "https://www.somoynews.tv/news/2026-08-13/P4RZ5FE4",
+  "headline": "Over 1,000 migrants, including 460 Bangladeshis, detained in Malaysia crackdown",
+  "topic": "Malaysia detains Bangladeshi migrants",
+  "source": "Somoy News",
+  "status": "queued",
+  "at": "2026-08-13T03:08:01Z"
+ },
+ {
+  "title_hash": "57b922501f8895b0",
+  "url": "https://www.prothomalo.com/opinion/editorial/q5u769qkvq",
+  "headline": "Dhaka paralyzed by 35mm rain, exposing major city management failure",
+  "topic": "Dhaka waterlogging crisis",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-13T03:08:01Z"
  }
 ]
