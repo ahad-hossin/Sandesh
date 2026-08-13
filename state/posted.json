@@ -1,61 +1,5 @@
 [
  {
-  "title_hash": "a5f1a8263fd36f2d",
-  "url": "https://www.jamuna.tv/national/661917",
-  "headline": "726 patients admitted: Dengue hospitalisations hit record high in 24 hours",
-  "topic": "dengue infections record high",
-  "source": "The Daily Star, Dhaka Tribune, Jamuna TV",
-  "status": "failed",
-  "at": "2026-08-10T15:06:43Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "c784002ca2e37909",
-  "url": "https://www.dhakatribune.com/bangladesh/accidents/417173/17-in-one-room-only-one-survived-saudi-factory",
-  "headline": "16 Bangladeshis killed in Saudi sofa factory fire",
-  "topic": "saudi factory fire bangladeshi deaths",
-  "source": "Dhaka Tribune, The Daily Star, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-10T16:07:44Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "bc107467a524f64b",
-  "url": "https://www.thedailystar.net/news/bangladesh/news/i-will-not-be-able-talk-you-anymore-sons-final-message-riyadh-fire-4244571",
-  "headline": "16 Bangladeshis killed in Saudi sofa factory fire",
-  "topic": "saudi factory fire bangladeshi deaths",
-  "source": "Dhaka Tribune, The Daily Star, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-10T16:07:44Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "5a0d2b0abc8165d1",
-  "url": "https://www.dhakatribune.com/bangladesh/417158/pm-mourns-deaths-of-16-bangladeshis-in-saudi-fire",
-  "headline": "16 Bangladeshis killed in Saudi sofa factory fire",
-  "topic": "saudi factory fire bangladeshi deaths",
-  "source": "Dhaka Tribune, The Daily Star, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-10T16:07:44Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "239a72ff06497b75",
   "url": "https://www.dhakatribune.com/bangladesh/foreign-affairs/417117/khalilur-shama-mourn-16-bangladeshis-killed-in",
   "headline": "16 Bangladeshis killed in Saudi sofa factory fire",
@@ -8398,5 +8342,41 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "52f6d71afd95b5af",
+  "url": "https://www.somoynews.tv/news/2026-08-13/GzNQJKNZ",
+  "headline": "60 kmph winds: Low pressure in Bay of Bengal triggers heavy rain",
+  "topic": "weather-alert-heavy-rain-storm",
+  "source": "Somoy News",
+  "status": "queued",
+  "at": "2026-08-13T22:09:39Z"
+ },
+ {
+  "title_hash": "100f59b04483b231",
+  "url": "https://www.somoynews.tv/news/2026-08-13/W9UIDX59",
+  "headline": "60 kmph winds: Low pressure in Bay of Bengal triggers heavy rain",
+  "topic": "weather-alert-heavy-rain-storm",
+  "source": "Somoy News",
+  "status": "queued",
+  "at": "2026-08-13T22:09:39Z"
+ },
+ {
+  "title_hash": "6b16fc12783dbdac",
+  "url": "https://www.somoynews.tv/news/2026-08-13/yx5GPyB2",
+  "headline": "DB raid in Aftabnagar: Robber shot and arrested with foreign pistol",
+  "topic": "db-raid-gang-arrest",
+  "source": "Somoy News, Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-13T22:09:39Z"
+ },
+ {
+  "title_hash": "a37f68a7cded21b3",
+  "url": "https://www.prothomalo.com/bangladesh/crime/tyr6oq3qn8",
+  "headline": "DB raid in Aftabnagar: Robber shot and arrested with foreign pistol",
+  "topic": "db-raid-gang-arrest",
+  "source": "Somoy News, Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-13T22:09:39Z"
  }
 ]
