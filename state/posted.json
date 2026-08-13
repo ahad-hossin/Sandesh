@@ -8349,8 +8349,13 @@
   "headline": "60 kmph winds: Low pressure in Bay of Bengal triggers heavy rain",
   "topic": "weather-alert-heavy-rain-storm",
   "source": "Somoy News",
-  "status": "queued",
-  "at": "2026-08-13T22:09:39Z"
+  "status": "failed",
+  "at": "2026-08-13T22:09:39Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "100f59b04483b231",
@@ -8358,8 +8363,13 @@
   "headline": "60 kmph winds: Low pressure in Bay of Bengal triggers heavy rain",
   "topic": "weather-alert-heavy-rain-storm",
   "source": "Somoy News",
-  "status": "queued",
-  "at": "2026-08-13T22:09:39Z"
+  "status": "failed",
+  "at": "2026-08-13T22:09:39Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "6b16fc12783dbdac",
@@ -8367,8 +8377,13 @@
   "headline": "DB raid in Aftabnagar: Robber shot and arrested with foreign pistol",
   "topic": "db-raid-gang-arrest",
   "source": "Somoy News, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-13T22:09:39Z"
+  "status": "failed",
+  "at": "2026-08-13T22:09:39Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "a37f68a7cded21b3",
@@ -8376,7 +8391,12 @@
   "headline": "DB raid in Aftabnagar: Robber shot and arrested with foreign pistol",
   "topic": "db-raid-gang-arrest",
   "source": "Somoy News, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-13T22:09:39Z"
+  "status": "failed",
+  "at": "2026-08-13T22:09:39Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
