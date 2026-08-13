@@ -8349,8 +8349,13 @@
   "headline": "Lionel Messi's father passes away, star hints at retirement; Ronaldo sends condolences",
   "topic": "Messi Retirement Hint After Father Death",
   "source": "Somoy News",
-  "status": "queued",
-  "at": "2026-08-13T00:08:15Z"
+  "status": "failed",
+  "at": "2026-08-13T00:08:15Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "7f010646982fdb5d",
@@ -8358,8 +8363,13 @@
   "headline": "Lionel Messi's father passes away, star hints at retirement; Ronaldo sends condolences",
   "topic": "Messi Retirement Hint After Father Death",
   "source": "Somoy News",
-  "status": "queued",
-  "at": "2026-08-13T00:08:15Z"
+  "status": "failed",
+  "at": "2026-08-13T00:08:15Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "080a3376eb8a33e2",
@@ -8367,8 +8377,13 @@
   "headline": "Lionel Messi's father passes away, star hints at retirement; Ronaldo sends condolences",
   "topic": "Messi Retirement Hint After Father Death",
   "source": "Somoy News",
-  "status": "queued",
-  "at": "2026-08-13T00:08:15Z"
+  "status": "failed",
+  "at": "2026-08-13T00:08:15Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "a68d8ecc739b01dc",
@@ -8376,7 +8391,12 @@
   "headline": "Trishal UNO beats leaseholder's worker, video goes viral",
   "topic": "UNO Beats Worker Viral Video",
   "source": "Somoy News",
-  "status": "queued",
-  "at": "2026-08-13T00:08:15Z"
+  "status": "failed",
+  "at": "2026-08-13T00:08:15Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
