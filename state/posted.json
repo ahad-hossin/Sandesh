@@ -8321,8 +8321,13 @@
   "headline": "Trishal UNO Arafat Siddique withdrawn after slapping worker",
   "topic": "trishal uno transferred",
   "source": "Prothom Alo, Jamuna TV",
-  "status": "queued",
-  "at": "2026-08-13T16:07:19Z"
+  "status": "failed",
+  "at": "2026-08-13T16:07:19Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "e2d6c3b75eb6f24a",
@@ -8330,8 +8335,13 @@
   "headline": "Trishal UNO Arafat Siddique withdrawn after slapping worker",
   "topic": "trishal uno transferred",
   "source": "Prothom Alo, Jamuna TV",
-  "status": "queued",
-  "at": "2026-08-13T16:07:19Z"
+  "status": "failed",
+  "at": "2026-08-13T16:07:19Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "c816df0ffaa9495b",
@@ -8339,8 +8349,13 @@
   "headline": "Hasan Mahmud's 6-55 as Bangladesh bowl Australia out for 198 in Darwin",
   "topic": "bangladesh vs australia darwin test day 1",
   "source": "The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-13T16:07:19Z"
+  "status": "failed",
+  "at": "2026-08-13T16:07:19Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "c05362c4b6c42b14",
@@ -8348,8 +8363,13 @@
   "headline": "Hasan Mahmud's 6-55 as Bangladesh bowl Australia out for 198 in Darwin",
   "topic": "bangladesh vs australia darwin test day 1",
   "source": "The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-13T16:07:19Z"
+  "status": "failed",
+  "at": "2026-08-13T16:07:19Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "42c18b9802e3b0fb",
@@ -8357,8 +8377,13 @@
   "headline": "Hasan Mahmud's 6-55 as Bangladesh bowl Australia out for 198 in Darwin",
   "topic": "bangladesh vs australia darwin test day 1",
   "source": "The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-13T16:07:19Z"
+  "status": "failed",
+  "at": "2026-08-13T16:07:19Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "68387cb9c158e832",
@@ -8366,7 +8391,12 @@
   "headline": "Hasan Mahmud's 6-55 as Bangladesh bowl Australia out for 198 in Darwin",
   "topic": "bangladesh vs australia darwin test day 1",
   "source": "The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-13T16:07:19Z"
+  "status": "failed",
+  "at": "2026-08-13T16:07:19Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
