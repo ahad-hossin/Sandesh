@@ -1,61 +1,5 @@
 [
  {
-  "title_hash": "9b84b3dfe7b6b244",
-  "url": "https://www.jamuna.tv/national/661879",
-  "headline": "16 Bangladeshis killed in Saudi factory fire",
-  "topic": "saudi-factory-fire-bangladeshis",
-  "source": "Somoy News, Jamuna TV, The Daily Star, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-10T06:07:13Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "fe9cdc9117c6f63e",
-  "url": "https://www.jamuna.tv/all-bangladesh/661878",
-  "headline": "16 Bangladeshis killed in Saudi factory fire",
-  "topic": "saudi-factory-fire-bangladeshis",
-  "source": "Somoy News, Jamuna TV, The Daily Star, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-10T06:07:13Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "308a7bd945baca7a",
-  "url": "https://www.somoynews.tv/news/2026-08-10/8IAvyA2J",
-  "headline": "16 Bangladeshis killed in Saudi factory fire",
-  "topic": "saudi-factory-fire-bangladeshis",
-  "source": "Somoy News, Jamuna TV, The Daily Star, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-10T06:07:13Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "3c930ccd2c4c4fc5",
-  "url": "https://www.jamuna.tv/all-bangladesh/661872",
-  "headline": "16 Bangladeshis killed in Saudi factory fire",
-  "topic": "saudi-factory-fire-bangladeshis",
-  "source": "Somoy News, Jamuna TV, The Daily Star, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-10T06:07:13Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "726e3882508a13a7",
   "url": "https://www.jamuna.tv/international/661869",
   "headline": "16 Bangladeshis killed in Saudi factory fire",
@@ -8398,5 +8342,41 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "b11e07c7a636b544",
+  "url": "https://www.somoynews.tv/news/2026-08-12/HCxw2OF1",
+  "headline": "Lionel Messi's father passes away, star hints at retirement; Ronaldo sends condolences",
+  "topic": "Messi Retirement Hint After Father Death",
+  "source": "Somoy News",
+  "status": "queued",
+  "at": "2026-08-13T00:08:15Z"
+ },
+ {
+  "title_hash": "7f010646982fdb5d",
+  "url": "https://www.somoynews.tv/news/2026-08-12/CZN1uM46",
+  "headline": "Lionel Messi's father passes away, star hints at retirement; Ronaldo sends condolences",
+  "topic": "Messi Retirement Hint After Father Death",
+  "source": "Somoy News",
+  "status": "queued",
+  "at": "2026-08-13T00:08:15Z"
+ },
+ {
+  "title_hash": "080a3376eb8a33e2",
+  "url": "https://www.somoynews.tv/news/2026-08-12/uyTZMQOK",
+  "headline": "Lionel Messi's father passes away, star hints at retirement; Ronaldo sends condolences",
+  "topic": "Messi Retirement Hint After Father Death",
+  "source": "Somoy News",
+  "status": "queued",
+  "at": "2026-08-13T00:08:15Z"
+ },
+ {
+  "title_hash": "a68d8ecc739b01dc",
+  "url": "https://www.somoynews.tv/news/2026-08-12/GN9OuCRs",
+  "headline": "Trishal UNO beats leaseholder's worker, video goes viral",
+  "topic": "UNO Beats Worker Viral Video",
+  "source": "Somoy News",
+  "status": "queued",
+  "at": "2026-08-13T00:08:15Z"
  }
 ]
