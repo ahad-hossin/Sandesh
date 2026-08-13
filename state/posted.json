@@ -8349,8 +8349,13 @@
   "headline": "Japan fumes as Putin visits disputed island near Tokyo",
   "topic": "putin visit disputed islands japan",
   "source": "Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-13T23:07:12Z"
+  "status": "failed",
+  "at": "2026-08-13T23:07:12Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "5f01cd3e038ff868",
@@ -8358,8 +8363,13 @@
   "headline": "Japan fumes as Putin visits disputed island near Tokyo",
   "topic": "putin visit disputed islands japan",
   "source": "Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-13T23:07:12Z"
+  "status": "failed",
+  "at": "2026-08-13T23:07:12Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "1f39dd60ddef85b2",
@@ -8367,8 +8377,13 @@
   "headline": "PM Tarique Rahman's visit to India hinges on Hasina issue",
   "topic": "pm tarique rahman india visit",
   "source": "Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-13T23:07:12Z"
+  "status": "failed",
+  "at": "2026-08-13T23:07:12Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "e2f91ad4a6f5fdc5",
@@ -8376,7 +8391,12 @@
   "headline": "PM Tarique Rahman's visit to India hinges on Hasina issue",
   "topic": "pm tarique rahman india visit",
   "source": "Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-13T23:07:12Z"
+  "status": "failed",
+  "at": "2026-08-13T23:07:12Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
