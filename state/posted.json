@@ -8321,8 +8321,13 @@
   "headline": "Drivers face three-hour wait for Tk100 gas amid shortages",
   "topic": "dhaka gas shortage",
   "source": "Dhaka Tribune, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-13T18:06:33Z"
+  "status": "failed",
+  "at": "2026-08-13T18:06:33Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "3407bc41785cf44d",
@@ -8330,8 +8335,13 @@
   "headline": "Drivers face three-hour wait for Tk100 gas amid shortages",
   "topic": "dhaka gas shortage",
   "source": "Dhaka Tribune, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-13T18:06:33Z"
+  "status": "failed",
+  "at": "2026-08-13T18:06:33Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "ce8bf104691fe17f",
@@ -8339,8 +8349,13 @@
   "headline": "Drivers face three-hour wait for Tk100 gas amid shortages",
   "topic": "dhaka gas shortage",
   "source": "Dhaka Tribune, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-13T18:06:33Z"
+  "status": "failed",
+  "at": "2026-08-13T18:06:33Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "70fd4f9be95606f4",
@@ -8348,8 +8363,13 @@
   "headline": "Power crisis deepens as load shedding reaches Dhaka",
   "topic": "bangladesh power crisis",
   "source": "Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-08-13T18:06:33Z"
+  "status": "failed",
+  "at": "2026-08-13T18:06:33Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "f91807c498cecc20",
@@ -8357,8 +8377,13 @@
   "headline": "Power crisis deepens as load shedding reaches Dhaka",
   "topic": "bangladesh power crisis",
   "source": "Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-08-13T18:06:33Z"
+  "status": "failed",
+  "at": "2026-08-13T18:06:33Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "d93474ce02d65e4d",
@@ -8366,7 +8391,12 @@
   "headline": "Power crisis deepens as load shedding reaches Dhaka",
   "topic": "bangladesh power crisis",
   "source": "Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-08-13T18:06:33Z"
+  "status": "failed",
+  "at": "2026-08-13T18:06:33Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
