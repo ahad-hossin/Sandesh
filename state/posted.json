@@ -1,61 +1,5 @@
 [
  {
-  "title_hash": "239a72ff06497b75",
-  "url": "https://www.dhakatribune.com/bangladesh/foreign-affairs/417117/khalilur-shama-mourn-16-bangladeshis-killed-in",
-  "headline": "16 Bangladeshis killed in Saudi sofa factory fire",
-  "topic": "saudi factory fire bangladeshi deaths",
-  "source": "Dhaka Tribune, The Daily Star, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-10T16:07:44Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "8de67612a8c8bd5d",
-  "url": "https://www.prothomalo.com/video/bangladesh/v3q2qdqpny",
-  "headline": "16 Bangladeshis killed in Saudi sofa factory fire",
-  "topic": "saudi factory fire bangladeshi deaths",
-  "source": "Dhaka Tribune, The Daily Star, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-10T16:07:44Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "0d1fc3ead2196a58",
-  "url": "https://www.dhakatribune.com/bangladesh/crime/417170/tk1.21c-robbed-from-uttara-fuel-pump-owned-by-to",
-  "headline": "Tk 1.21 crore robbed from Uttara fuel pump",
-  "topic": "uttara fuel pump robbery",
-  "source": "Dhaka Tribune, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-10T16:07:44Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "d59f643e1799a5ab",
-  "url": "https://www.prothomalo.com/bangladesh/crime/08ra2k6y2r",
-  "headline": "Tk 1.21 crore robbed from Uttara fuel pump",
-  "topic": "uttara fuel pump robbery",
-  "source": "Dhaka Tribune, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-10T16:07:44Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "353b42866d2ea97b",
   "url": "https://www.dhakatribune.com/bangladesh/crime/417170/tk1.21c-robbed-from-uttara-fuel-pump-owned-by-to",
   "headline": "Tk 1.21 crore robbed from Uttara fuel pump near Dhaka airport",
@@ -8398,5 +8342,41 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "074d00ca2a27341c",
+  "url": "https://www.thedailystar.net/news/world/news/putin-visits-disputed-island-near-japan-4247401",
+  "headline": "Japan fumes as Putin visits disputed island near Tokyo",
+  "topic": "putin visit disputed islands japan",
+  "source": "Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-08-13T23:07:12Z"
+ },
+ {
+  "title_hash": "5f01cd3e038ff868",
+  "url": "https://www.prothomalo.com/world/asia/f7pvpmflk2",
+  "headline": "Japan fumes as Putin visits disputed island near Tokyo",
+  "topic": "putin visit disputed islands japan",
+  "source": "Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-08-13T23:07:12Z"
+ },
+ {
+  "title_hash": "1f39dd60ddef85b2",
+  "url": "https://www.thedailystar.net/news/bangladesh/diplomacy/news/pms-india-visit-hinges-hasina-issue-say-diplomatic-sources-4247441",
+  "headline": "PM Tarique Rahman's visit to India hinges on Hasina issue",
+  "topic": "pm tarique rahman india visit",
+  "source": "Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-08-13T23:07:12Z"
+ },
+ {
+  "title_hash": "e2f91ad4a6f5fdc5",
+  "url": "https://www.prothomalo.com/bangladesh/mps34a8bob",
+  "headline": "PM Tarique Rahman's visit to India hinges on Hasina issue",
+  "topic": "pm tarique rahman india visit",
+  "source": "Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-08-13T23:07:12Z"
  }
 ]
