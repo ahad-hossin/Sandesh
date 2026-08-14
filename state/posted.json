@@ -8363,8 +8363,13 @@
   "headline": "Bangladeshi youth shot and injured in Rohingya camp over debt dispute",
   "topic": "rohingya camp shooting",
   "source": "Somoy News, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-14T23:06:39Z"
+  "status": "failed",
+  "at": "2026-08-14T23:06:39Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "7878197aac97df5c",
@@ -8372,8 +8377,13 @@
   "headline": "Bangladeshi youth shot and injured in Rohingya camp over debt dispute",
   "topic": "rohingya camp shooting",
   "source": "Somoy News, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-14T23:06:39Z"
+  "status": "failed",
+  "at": "2026-08-14T23:06:39Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "33952ff786dbf02a",
@@ -8381,7 +8391,12 @@
   "headline": "Water levels rise: 11 rivers flow above danger mark in Bangladesh",
   "topic": "river water levels warning",
   "source": "Somoy News",
-  "status": "queued",
-  "at": "2026-08-14T23:06:39Z"
+  "status": "failed",
+  "at": "2026-08-14T23:06:39Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
