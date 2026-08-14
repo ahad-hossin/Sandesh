@@ -1,33 +1,5 @@
 [
  {
-  "title_hash": "1f6dad6b1f427c04",
-  "url": "https://www.prothomalo.com/video/bangladesh/75o92622xm",
-  "headline": "Nearly 7 lakh fail as SSC pass rate hits 19-year low",
-  "topic": "ssc_results_19_year_low",
-  "source": "Dhaka Tribune, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-10T19:07:32Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "eaab8d1a8ce731b9",
-  "url": "https://www.prothomalo.com/video/bangladesh/qs0h13tjx1",
-  "headline": "Nearly 7 lakh fail as SSC pass rate hits 19-year low",
-  "topic": "ssc_results_19_year_low",
-  "source": "Dhaka Tribune, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-10T19:07:32Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "5ef89be06b170504",
   "url": "https://www.thedailystar.net/news/crime-justice/news/filling-station-official-hacked-tk-121cr-robbed-4244826",
   "headline": "Tk 1.21 crore robbed from Uttara fuel pump official",
@@ -8398,5 +8370,23 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "a62487a6ea8e3d4e",
+  "url": "https://www.prothomalo.com/video/bangladesh/rg8pl26dfl",
+  "headline": "BDT 1000 crore Padma river protection dam at risk due to erosion in Shariatpur",
+  "topic": "padma river erosion risk",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-14T03:08:25Z"
+ },
+ {
+  "title_hash": "f807273ed9e8a3a3",
+  "url": "https://www.somoynews.tv/news/2026-08-14/s3OyS8Bv",
+  "headline": "53 BCL-YCL-Mohila League activists detained from a house in Dhaka",
+  "topic": "dhaka political activists arrested",
+  "source": "Somoy News",
+  "status": "queued",
+  "at": "2026-08-14T03:08:25Z"
  }
 ]
