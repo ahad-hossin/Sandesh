@@ -8321,8 +8321,13 @@
   "headline": "Gas shortage forces closure of essential commodity factories across Bangladesh, impacting supply chains",
   "topic": "National gas and power crisis",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-14T04:09:15Z"
+  "status": "failed",
+  "at": "2026-08-14T04:09:15Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "a4fedf6ea0768d41",
@@ -8330,8 +8335,13 @@
   "headline": "Gas shortage forces closure of essential commodity factories across Bangladesh, impacting supply chains",
   "topic": "National gas and power crisis",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-14T04:09:15Z"
+  "status": "failed",
+  "at": "2026-08-14T04:09:15Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "c7b5007968bbd48e",
@@ -8339,8 +8349,13 @@
   "headline": "Gas shortage forces closure of essential commodity factories across Bangladesh, impacting supply chains",
   "topic": "National gas and power crisis",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-14T04:09:15Z"
+  "status": "failed",
+  "at": "2026-08-14T04:09:15Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "904445a8c19358c2",
@@ -8348,8 +8363,13 @@
   "headline": "53 Awami League activists arrested in Dhaka for 'banned' August 15 activities",
   "topic": "53 Awami League activists arrested Dhaka",
   "source": "Jamuna TV, Somoy News, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-14T04:09:15Z"
+  "status": "failed",
+  "at": "2026-08-14T04:09:15Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "f807273ed9e8a3a3",
@@ -8357,8 +8377,13 @@
   "headline": "53 Awami League activists arrested in Dhaka for 'banned' August 15 activities",
   "topic": "53 Awami League activists arrested Dhaka",
   "source": "Jamuna TV, Somoy News, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-14T04:09:15Z"
+  "status": "failed",
+  "at": "2026-08-14T04:09:15Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "fd32c3034887c7c9",
@@ -8366,7 +8391,12 @@
   "headline": "53 Awami League activists arrested in Dhaka for 'banned' August 15 activities",
   "topic": "53 Awami League activists arrested Dhaka",
   "source": "Jamuna TV, Somoy News, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-14T04:09:15Z"
+  "status": "failed",
+  "at": "2026-08-14T04:09:15Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
