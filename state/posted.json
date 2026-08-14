@@ -1,89 +1,5 @@
 [
  {
-  "title_hash": "f83b2b5d44cdf1ff",
-  "url": "https://www.jamuna.tv/national/662043",
-  "headline": "Dhaka residents suffer as severe gas crisis returns",
-  "topic": "bangladesh gas crisis",
-  "source": "Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-12T09:07:14Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "005ca3aaf4ab71d5",
-  "url": "https://www.prothomalo.com/bangladesh/district/z5z0pan9mi",
-  "headline": "Dhaka residents suffer as severe gas crisis returns",
-  "topic": "bangladesh gas crisis",
-  "source": "Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-12T09:07:14Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "6bee114f92f3a654",
-  "url": "https://www.thedailystar.net/news/news/prosecution-seeks-maximum-punishment-obaidul-quader-6-others-over-july-uprising-atrocities-4245991",
-  "headline": "Prosecution seeks maximum punishment for Obaidul Quader and 6 others",
-  "topic": "obaidul quader ict trial",
-  "source": "The Daily Star, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-12T10:07:05Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "34fe024b6ee2a846",
-  "url": "https://www.prothomalo.com/bangladesh/9yivf5x6r6",
-  "headline": "Prosecution seeks maximum punishment for Obaidul Quader and 6 others",
-  "topic": "obaidul quader ict trial",
-  "source": "The Daily Star, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-12T10:07:05Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "40c6d641426aa388",
-  "url": "https://www.dhakatribune.com/bangladesh/417274/savar-mosque-field-cordoned-off-over-suspected",
-  "headline": "Bomb scare in Savar: Police recover suspected bomb from mosque field",
-  "topic": "savar bomb scare",
-  "source": "Jamuna TV, Prothom Alo, Dhaka Tribune, The Daily Star",
-  "status": "failed",
-  "at": "2026-08-12T10:07:05Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "40d237c6426c2de4",
-  "url": "https://www.jamuna.tv/all-bangladesh/662044",
-  "headline": "Bomb scare in Savar: Police recover suspected bomb from mosque field",
-  "topic": "savar bomb scare",
-  "source": "Jamuna TV, Prothom Alo, Dhaka Tribune, The Daily Star",
-  "status": "failed",
-  "at": "2026-08-12T10:07:05Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "88c8d12967f2350c",
   "url": "https://www.prothomalo.com/video/bangladesh/pwelz83s39",
   "headline": "Bomb scare in Savar: Police recover suspected bomb from mosque field",
@@ -8398,5 +8314,59 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "20e3c9079fb5194f",
+  "url": "https://www.thedailystar.net/news/politics/news/shafiqur-calls-special-parliament-session-amid-energy-crisis-4247776",
+  "headline": "Opposition Leader calls for special parliament session over energy crisis",
+  "topic": "shafiqur calls special parliament session energy crisis",
+  "source": "The Daily Star, Dhaka Tribune, Jamuna TV",
+  "status": "queued",
+  "at": "2026-08-14T22:06:51Z"
+ },
+ {
+  "title_hash": "e20bd0dc17d2ccd3",
+  "url": "https://www.dhakatribune.com/bangladesh/power-energy/417480/shafiqur-urges-special-parliament-session-over",
+  "headline": "Opposition Leader calls for special parliament session over energy crisis",
+  "topic": "shafiqur calls special parliament session energy crisis",
+  "source": "The Daily Star, Dhaka Tribune, Jamuna TV",
+  "status": "queued",
+  "at": "2026-08-14T22:06:51Z"
+ },
+ {
+  "title_hash": "956c748bcb5561bb",
+  "url": "https://www.jamuna.tv/national/662184",
+  "headline": "Opposition Leader calls for special parliament session over energy crisis",
+  "topic": "shafiqur calls special parliament session energy crisis",
+  "source": "The Daily Star, Dhaka Tribune, Jamuna TV",
+  "status": "queued",
+  "at": "2026-08-14T22:06:51Z"
+ },
+ {
+  "title_hash": "11ebcf0a4dc8d5c2",
+  "url": "https://www.dhakatribune.com/bangladesh/417488/excelerate%E2%80%99s-lng-terminal-shuts-down-again",
+  "headline": "Gas crisis: Excelerate’s LNG terminal shuts down again",
+  "topic": "bangladesh gas and energy crisis",
+  "source": "Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-08-14T22:06:51Z"
+ },
+ {
+  "title_hash": "61def3e044e5ed07",
+  "url": "https://www.dhakatribune.com/bangladesh/417484/gas-crisis-stalls-industries-puts-bangladesh",
+  "headline": "Gas crisis: Excelerate’s LNG terminal shuts down again",
+  "topic": "bangladesh gas and energy crisis",
+  "source": "Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-08-14T22:06:51Z"
+ },
+ {
+  "title_hash": "439fac04feaa51c7",
+  "url": "https://www.dhakatribune.com/bangladesh/power-energy/417483/cng-crisis-drivers-queue-overnight-as-homes-go",
+  "headline": "Gas crisis: Excelerate’s LNG terminal shuts down again",
+  "topic": "bangladesh gas and energy crisis",
+  "source": "Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-08-14T22:06:51Z"
  }
 ]
