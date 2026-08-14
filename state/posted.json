@@ -8377,8 +8377,13 @@
   "headline": "12 of 16 vegetables cost Tk 80+ per kg in Dhaka markets, five types over Tk 100",
   "topic": "bangladesh vegetable prices",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-14T02:08:21Z"
+  "status": "failed",
+  "at": "2026-08-14T02:08:21Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "1c83a50da6dc483e",
@@ -8386,7 +8391,12 @@
   "headline": "Colombia earthquake death toll rises to 273 after 7.4 magnitude tremor",
   "topic": "colombia earthquake death toll",
   "source": "Jamuna TV",
-  "status": "queued",
-  "at": "2026-08-14T02:08:21Z"
+  "status": "failed",
+  "at": "2026-08-14T02:08:21Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
