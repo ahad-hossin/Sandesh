@@ -1,47 +1,5 @@
 [
  {
-  "title_hash": "88c8d12967f2350c",
-  "url": "https://www.prothomalo.com/video/bangladesh/pwelz83s39",
-  "headline": "Bomb scare in Savar: Police recover suspected bomb from mosque field",
-  "topic": "savar bomb scare",
-  "source": "Jamuna TV, Prothom Alo, Dhaka Tribune, The Daily Star",
-  "status": "failed",
-  "at": "2026-08-12T10:07:05Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "b09a4310b5e40086",
-  "url": "https://www.dhakatribune.com/bangladesh/417265/ssu-raids-savar-building-recovers-explosives",
-  "headline": "Bomb scare in Savar: Police recover suspected bomb from mosque field",
-  "topic": "savar bomb scare",
-  "source": "Jamuna TV, Prothom Alo, Dhaka Tribune, The Daily Star",
-  "status": "failed",
-  "at": "2026-08-12T10:07:05Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "4d1c5a3eb2a7701e",
-  "url": "https://www.thedailystar.net/news/bangladesh/news/pressure-cooker-wrapped-black-tape-sparks-bomb-scare-savar-4245921",
-  "headline": "Bomb scare in Savar: Police recover suspected bomb from mosque field",
-  "topic": "savar bomb scare",
-  "source": "Jamuna TV, Prothom Alo, Dhaka Tribune, The Daily Star",
-  "status": "failed",
-  "at": "2026-08-12T10:07:05Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "991d950ac70c5089",
   "url": "https://www.prothomalo.com/video/bangladesh/ymxcxsg75n",
   "headline": "Bomb scare in Savar: Police recover suspected bomb from mosque field",
@@ -8398,5 +8356,32 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "20d9306bea9e8c63",
+  "url": "https://www.somoynews.tv/news/2026-08-14/Q5EYYUX5",
+  "headline": "Bangladeshi youth shot and injured in Rohingya camp over debt dispute",
+  "topic": "rohingya camp shooting",
+  "source": "Somoy News, Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-14T23:06:39Z"
+ },
+ {
+  "title_hash": "7878197aac97df5c",
+  "url": "https://www.prothomalo.com/bangladesh/district/a8pyba9zfl",
+  "headline": "Bangladeshi youth shot and injured in Rohingya camp over debt dispute",
+  "topic": "rohingya camp shooting",
+  "source": "Somoy News, Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-14T23:06:39Z"
+ },
+ {
+  "title_hash": "33952ff786dbf02a",
+  "url": "https://www.somoynews.tv/news/2026-08-14/HzHKsR28",
+  "headline": "Water levels rise: 11 rivers flow above danger mark in Bangladesh",
+  "topic": "river water levels warning",
+  "source": "Somoy News",
+  "status": "queued",
+  "at": "2026-08-14T23:06:39Z"
  }
 ]
