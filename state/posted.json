@@ -1,33 +1,5 @@
 [
  {
-  "title_hash": "f0bf2cb0bc37854a",
-  "url": "https://www.dhakatribune.com/bangladesh/education/417184/educationists-see-system-failure-behind",
-  "headline": "Nearly 7 lakh fail as SSC pass rate hits 19-year low",
-  "topic": "ssc_results_19_year_low",
-  "source": "Dhaka Tribune, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-10T19:07:32Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "5cbe9fa049285da4",
-  "url": "https://www.dhakatribune.com/bangladesh/education/417179/why-are-boys-falling-behind-girls-lead-ssc",
-  "headline": "Nearly 7 lakh fail as SSC pass rate hits 19-year low",
-  "topic": "ssc_results_19_year_low",
-  "source": "Dhaka Tribune, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-10T19:07:32Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "1f6dad6b1f427c04",
   "url": "https://www.prothomalo.com/video/bangladesh/75o92622xm",
   "headline": "Nearly 7 lakh fail as SSC pass rate hits 19-year low",
@@ -8398,5 +8370,23 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "e1c516010b47b9ef",
+  "url": "https://www.prothomalo.com/business/808c3esfbb",
+  "headline": "12 of 16 vegetables cost Tk 80+ per kg in Dhaka markets, five types over Tk 100",
+  "topic": "bangladesh vegetable prices",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-14T02:08:21Z"
+ },
+ {
+  "title_hash": "1c83a50da6dc483e",
+  "url": "https://www.jamuna.tv/international/662139",
+  "headline": "Colombia earthquake death toll rises to 273 after 7.4 magnitude tremor",
+  "topic": "colombia earthquake death toll",
+  "source": "Jamuna TV",
+  "status": "queued",
+  "at": "2026-08-14T02:08:21Z"
  }
 ]
