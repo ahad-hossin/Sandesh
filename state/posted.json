@@ -8363,8 +8363,13 @@
   "headline": "Woman kills daughter, dies by suicide in Tangail after family dispute",
   "topic": "gas supply improves lng terminals restart",
   "source": "Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-15T05:07:25Z"
+  "status": "failed",
+  "at": "2026-08-15T05:07:25Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "201291d8c964d65e",
@@ -8372,8 +8377,13 @@
   "headline": "Woman kills daughter, dies by suicide in Tangail after family dispute",
   "topic": "gas supply improves lng terminals restart",
   "source": "Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-15T05:07:25Z"
+  "status": "failed",
+  "at": "2026-08-15T05:07:25Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "dfb05c4beafe64e3",
@@ -8381,7 +8391,12 @@
   "headline": "UN warns of extremist cells in Bangladesh; police unaware",
   "topic": "un warns of extremist cells bangladesh",
   "source": "Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-08-15T05:07:25Z"
+  "status": "failed",
+  "at": "2026-08-15T05:07:25Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
