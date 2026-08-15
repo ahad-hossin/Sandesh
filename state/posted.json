@@ -8377,8 +8377,13 @@
   "headline": "Myanmar to repatriate 300,000 Rohingya if security improves in Rakhine",
   "topic": "myanmar return rohingya",
   "source": "Somoy News",
-  "status": "queued",
-  "at": "2026-08-15T22:06:29Z"
+  "status": "failed",
+  "at": "2026-08-15T22:06:29Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "1636a4f859f0b858",
@@ -8386,7 +8391,12 @@
   "headline": "BDT 7.1 million found in donation box of Shahjalal Mazar",
   "topic": "shahjalal mazar donation",
   "source": "Somoy News",
-  "status": "queued",
-  "at": "2026-08-15T22:06:29Z"
+  "status": "failed",
+  "at": "2026-08-15T22:06:29Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
