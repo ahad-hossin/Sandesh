@@ -8349,8 +8349,13 @@
   "headline": "Over 900 children die from measles-like symptoms this year",
   "topic": "measles death toll rise",
   "source": "The Daily Star, Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-15T10:07:39Z"
+  "status": "failed",
+  "at": "2026-08-15T10:07:39Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "6195fd7d221fab64",
@@ -8358,8 +8363,13 @@
   "headline": "Over 900 children die from measles-like symptoms this year",
   "topic": "measles death toll rise",
   "source": "The Daily Star, Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-15T10:07:39Z"
+  "status": "failed",
+  "at": "2026-08-15T10:07:39Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "eb7048f6e0f1ff9f",
@@ -8367,8 +8377,13 @@
   "headline": "Over 900 children die from measles-like symptoms this year",
   "topic": "measles death toll rise",
   "source": "The Daily Star, Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-15T10:07:39Z"
+  "status": "failed",
+  "at": "2026-08-15T10:07:39Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "374e612c987bac92",
@@ -8376,7 +8391,12 @@
   "headline": "Myanmar disputes 1 million Rohingya figure, rejects refugees’ origin claims",
   "topic": "myanmar rohingya figure dispute",
   "source": "Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-08-15T10:07:39Z"
+  "status": "failed",
+  "at": "2026-08-15T10:07:39Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
