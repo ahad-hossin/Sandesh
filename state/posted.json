@@ -1,61 +1,5 @@
 [
  {
-  "title_hash": "6eb8ab0b37008f81",
-  "url": "https://www.prothomalo.com/sports/cricket/fzwnbi5ety",
-  "headline": "Hasan Mahmud takes 6 for 55 to bowl out Australia for 198 in Darwin",
-  "topic": "bangladesh cricket vs australia darwin test",
-  "source": "The Daily Star, Prothom Alo, Jamuna TV",
-  "status": "failed",
-  "at": "2026-08-13T09:07:30Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "73b059c52efb665a",
-  "url": "https://www.jamuna.tv/sports/662104",
-  "headline": "Hasan Mahmud takes 6 for 55 to bowl out Australia for 198 in Darwin",
-  "topic": "bangladesh cricket vs australia darwin test",
-  "source": "The Daily Star, Prothom Alo, Jamuna TV",
-  "status": "failed",
-  "at": "2026-08-13T09:07:30Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "cf7e8ef260c34c53",
-  "url": "https://www.prothomalo.com/video/sports/qs7ntlccjb",
-  "headline": "Hasan Mahmud takes 6 for 55 to bowl out Australia for 198 in Darwin",
-  "topic": "bangladesh cricket vs australia darwin test",
-  "source": "The Daily Star, Prothom Alo, Jamuna TV",
-  "status": "failed",
-  "at": "2026-08-13T09:07:30Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "7509f63f590cf6e7",
-  "url": "https://www.jamuna.tv/sports/662097",
-  "headline": "Hasan Mahmud takes 6 for 55 to bowl out Australia for 198 in Darwin",
-  "topic": "bangladesh cricket vs australia darwin test",
-  "source": "The Daily Star, Prothom Alo, Jamuna TV",
-  "status": "failed",
-  "at": "2026-08-13T09:07:30Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "504d3223205e76bc",
   "url": "https://www.prothomalo.com/video/sports/lvkmxlzbdx",
   "headline": "Hasan Mahmud takes 6 for 55 to bowl out Australia for 198 in Darwin",
@@ -8398,5 +8342,41 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "39e625fce917de7e",
+  "url": "https://www.dhakatribune.com/bangladesh/dhaka/417524/actress-ridhika-ridhi-found-dead-in-bashundhara",
+  "headline": "Tragedy in Bashundhara: Model Ridhika Ridhi found dead",
+  "topic": "actress found dead bashundhara",
+  "source": "Somoy News, Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-08-15T20:06:30Z"
+ },
+ {
+  "title_hash": "e5c6ce7faecb8dc4",
+  "url": "https://www.somoynews.tv/news/2026-08-15/AFuCYPQN",
+  "headline": "Tragedy in Bashundhara: Model Ridhika Ridhi found dead",
+  "topic": "actress found dead bashundhara",
+  "source": "Somoy News, Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-08-15T20:06:30Z"
+ },
+ {
+  "title_hash": "1636a4f859f0b858",
+  "url": "https://www.somoynews.tv/news/2026-08-15/YQWKWRKQ",
+  "headline": "7.1 million BDT found in donation box of Shahjalal Mazar",
+  "topic": "shahjalal mazar donation box find",
+  "source": "Somoy News, Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-15T20:06:30Z"
+ },
+ {
+  "title_hash": "ca7396b1772b4564",
+  "url": "https://www.prothomalo.com/bangladesh/district/7iag0875r8",
+  "headline": "7.1 million BDT found in donation box of Shahjalal Mazar",
+  "topic": "shahjalal mazar donation box find",
+  "source": "Somoy News, Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-15T20:06:30Z"
  }
 ]
