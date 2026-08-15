@@ -1,243 +1,5 @@
 [
  {
-  "title_hash": "b3f8c04e3fa5b894",
-  "url": "https://www.somoynews.tv/news/2026-08-12/w39OETWx",
-  "headline": "Savar: Pressure cooker bomb defused by police after blast shakes area",
-  "topic": "savar bomb scare",
-  "source": "Prothom Alo, Jamuna TV, Dhaka Tribune, The Daily Star, Somoy News",
-  "status": "failed",
-  "at": "2026-08-12T11:06:51Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "a6452e9b29b7004c",
-  "url": "https://www.thedailystar.net/health/disease/news/2-more-die-dengue-723-hospitalised-24-hours-4246096",
-  "headline": "723 hospitalised as 2 more die of dengue in 24 hours",
-  "topic": "dengue deaths update",
-  "source": "Jamuna TV, The Daily Star",
-  "status": "failed",
-  "at": "2026-08-12T12:07:19Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "48bcefc5d8aea41c",
-  "url": "https://www.jamuna.tv/national/662055",
-  "headline": "723 hospitalised as 2 more die of dengue in 24 hours",
-  "topic": "dengue deaths update",
-  "source": "Jamuna TV, The Daily Star",
-  "status": "failed",
-  "at": "2026-08-12T12:07:19Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "4ea4e4b215254154",
-  "url": "https://www.dhakatribune.com/bangladesh/power-energy/417299/gas-shortage-leaves-cng-private-car-drivers",
-  "headline": "Dhaka residents face severe gas crisis as supply drops",
-  "topic": "dhaka cng gas crisis",
-  "source": "Dhaka Tribune, Jamuna TV",
-  "status": "failed",
-  "at": "2026-08-12T12:07:19Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "f83b2b5d44cdf1ff",
-  "url": "https://www.jamuna.tv/national/662043",
-  "headline": "Dhaka residents face severe gas crisis as supply drops",
-  "topic": "dhaka cng gas crisis",
-  "source": "Dhaka Tribune, Jamuna TV",
-  "status": "failed",
-  "at": "2026-08-12T12:07:19Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "a6452e9b29b7004c",
-  "url": "https://www.thedailystar.net/health/disease/news/2-more-die-dengue-723-hospitalised-24-hours-4246096",
-  "headline": "723 hospitalised as 2 more die of dengue in 24 hours",
-  "topic": "dengue_deaths_hospitalised",
-  "source": "The Daily Star, Jamuna TV, Dhaka Tribune, Somoy News",
-  "status": "failed",
-  "at": "2026-08-12T13:07:03Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "48bcefc5d8aea41c",
-  "url": "https://www.jamuna.tv/national/662055",
-  "headline": "723 hospitalised as 2 more die of dengue in 24 hours",
-  "topic": "dengue_deaths_hospitalised",
-  "source": "The Daily Star, Jamuna TV, Dhaka Tribune, Somoy News",
-  "status": "failed",
-  "at": "2026-08-12T13:07:03Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "ce35da9eb338380e",
-  "url": "https://www.dhakatribune.com/bangladesh/health/417304/dengue-claims-two-lives-as-723-cases-recorded-in",
-  "headline": "723 hospitalised as 2 more die of dengue in 24 hours",
-  "topic": "dengue_deaths_hospitalised",
-  "source": "The Daily Star, Jamuna TV, Dhaka Tribune, Somoy News",
-  "status": "failed",
-  "at": "2026-08-12T13:07:03Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "bf714ee805bc5730",
-  "url": "https://www.somoynews.tv/news/2026-08-12/ZW0LCwWz",
-  "headline": "723 hospitalised as 2 more die of dengue in 24 hours",
-  "topic": "dengue_deaths_hospitalised",
-  "source": "The Daily Star, Jamuna TV, Dhaka Tribune, Somoy News",
-  "status": "failed",
-  "at": "2026-08-12T13:07:03Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "b13b8a01a83bf31b",
-  "url": "https://www.dhakatribune.com/bangladesh/nation/417305/bomb-wrapped-in-pressure-cooker-recovered-in",
-  "headline": "Powerful bomb in pressure cooker defused in Savar",
-  "topic": "savar_pressure_cooker_bomb",
-  "source": "Dhaka Tribune, The Daily Star, Somoy News, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-12T13:07:03Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "de0b00a5b68a7fc6",
-  "url": "https://www.thedailystar.net/news/crime-justice/news/powerful-bomb-pressure-cooker-defused-savar-blast-shakes-neighbourhood-4246056",
-  "headline": "Powerful bomb in pressure cooker defused in Savar",
-  "topic": "savar_pressure_cooker_bomb",
-  "source": "Dhaka Tribune, The Daily Star, Somoy News, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-12T13:07:03Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "b52279db46de42d7",
-  "url": "https://www.somoynews.tv/news/2026-08-12/t1DEMEUA",
-  "headline": "Powerful bomb in pressure cooker defused in Savar",
-  "topic": "savar_pressure_cooker_bomb",
-  "source": "Dhaka Tribune, The Daily Star, Somoy News, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-12T13:07:03Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "6b4eb7c124144aa5",
-  "url": "https://www.prothomalo.com/bangladesh/district/wlzmi2n5fk",
-  "headline": "Powerful bomb in pressure cooker defused in Savar",
-  "topic": "savar_pressure_cooker_bomb",
-  "source": "Dhaka Tribune, The Daily Star, Somoy News, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-12T13:07:03Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "23ede42b2d562ed2",
-  "url": "https://www.prothomalo.com/bangladesh/district/v40n4otit5",
-  "headline": "Father kills two children by drowning them in Sunamganj haor",
-  "topic": "father kills children haor",
-  "source": "Prothom Alo, Jamuna TV",
-  "status": "failed",
-  "at": "2026-08-12T14:07:03Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "0c80cf2d38e1b2fe",
-  "url": "https://www.jamuna.tv/all-bangladesh/662054",
-  "headline": "Father kills two children by drowning them in Sunamganj haor",
-  "topic": "father kills children haor",
-  "source": "Prothom Alo, Jamuna TV",
-  "status": "failed",
-  "at": "2026-08-12T14:07:03Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "b13b8a01a83bf31b",
-  "url": "https://www.dhakatribune.com/bangladesh/nation/417305/bomb-wrapped-in-pressure-cooker-recovered-in",
-  "headline": "Powerful bomb in pressure cooker defused in Savar",
-  "topic": "savar pressure cooker bomb",
-  "source": "Dhaka Tribune, The Daily Star, Prothom Alo, Jamuna TV",
-  "status": "failed",
-  "at": "2026-08-12T14:07:03Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "de0b00a5b68a7fc6",
-  "url": "https://www.thedailystar.net/news/crime-justice/news/powerful-bomb-pressure-cooker-defused-savar-blast-shakes-neighbourhood-4246056",
-  "headline": "Powerful bomb in pressure cooker defused in Savar",
-  "topic": "savar pressure cooker bomb",
-  "source": "Dhaka Tribune, The Daily Star, Prothom Alo, Jamuna TV",
-  "status": "failed",
-  "at": "2026-08-12T14:07:03Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "131c7095545e94a4",
   "url": "https://www.prothomalo.com/video/bangladesh/9x6e0zmqf6",
   "headline": "Powerful bomb in pressure cooker defused in Savar",
@@ -8398,5 +8160,158 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "20e3c9079fb5194f",
+  "url": "https://www.thedailystar.net/news/politics/news/shafiqur-calls-special-parliament-session-amid-energy-crisis-4247776",
+  "headline": "Shafiqur urges special parliament session over severe power and energy crisis",
+  "topic": "Bangladesh grapples with severe energy crisis, protests erupt",
+  "source": "The Daily Star, Dhaka Tribune, Jamuna TV, Somoy News",
+  "status": "queued",
+  "at": "2026-08-15T01:08:06Z"
+ },
+ {
+  "title_hash": "11ebcf0a4dc8d5c2",
+  "url": "https://www.dhakatribune.com/bangladesh/417488/excelerate%E2%80%99s-lng-terminal-shuts-down-again",
+  "headline": "Shafiqur urges special parliament session over severe power and energy crisis",
+  "topic": "Bangladesh grapples with severe energy crisis, protests erupt",
+  "source": "The Daily Star, Dhaka Tribune, Jamuna TV, Somoy News",
+  "status": "queued",
+  "at": "2026-08-15T01:08:06Z"
+ },
+ {
+  "title_hash": "e20bd0dc17d2ccd3",
+  "url": "https://www.dhakatribune.com/bangladesh/power-energy/417480/shafiqur-urges-special-parliament-session-over",
+  "headline": "Shafiqur urges special parliament session over severe power and energy crisis",
+  "topic": "Bangladesh grapples with severe energy crisis, protests erupt",
+  "source": "The Daily Star, Dhaka Tribune, Jamuna TV, Somoy News",
+  "status": "queued",
+  "at": "2026-08-15T01:08:06Z"
+ },
+ {
+  "title_hash": "61def3e044e5ed07",
+  "url": "https://www.dhakatribune.com/bangladesh/417484/gas-crisis-stalls-industries-puts-bangladesh",
+  "headline": "Shafiqur urges special parliament session over severe power and energy crisis",
+  "topic": "Bangladesh grapples with severe energy crisis, protests erupt",
+  "source": "The Daily Star, Dhaka Tribune, Jamuna TV, Somoy News",
+  "status": "queued",
+  "at": "2026-08-15T01:08:06Z"
+ },
+ {
+  "title_hash": "cf92f4f5bcd6c827",
+  "url": "https://www.thedailystar.net/news/politics/news/convene-special-js-session-power-energy-crises-4247901",
+  "headline": "Shafiqur urges special parliament session over severe power and energy crisis",
+  "topic": "Bangladesh grapples with severe energy crisis, protests erupt",
+  "source": "The Daily Star, Dhaka Tribune, Jamuna TV, Somoy News",
+  "status": "queued",
+  "at": "2026-08-15T01:08:06Z"
+ },
+ {
+  "title_hash": "439fac04feaa51c7",
+  "url": "https://www.dhakatribune.com/bangladesh/power-energy/417483/cng-crisis-drivers-queue-overnight-as-homes-go",
+  "headline": "Shafiqur urges special parliament session over severe power and energy crisis",
+  "topic": "Bangladesh grapples with severe energy crisis, protests erupt",
+  "source": "The Daily Star, Dhaka Tribune, Jamuna TV, Somoy News",
+  "status": "queued",
+  "at": "2026-08-15T01:08:06Z"
+ },
+ {
+  "title_hash": "956c748bcb5561bb",
+  "url": "https://www.jamuna.tv/national/662184",
+  "headline": "Shafiqur urges special parliament session over severe power and energy crisis",
+  "topic": "Bangladesh grapples with severe energy crisis, protests erupt",
+  "source": "The Daily Star, Dhaka Tribune, Jamuna TV, Somoy News",
+  "status": "queued",
+  "at": "2026-08-15T01:08:06Z"
+ },
+ {
+  "title_hash": "6852711176817523",
+  "url": "https://www.dhakatribune.com/bangladesh/power-energy/417477/summit-lng-supply-resumes-at-550-mmcfd-after-brief",
+  "headline": "Shafiqur urges special parliament session over severe power and energy crisis",
+  "topic": "Bangladesh grapples with severe energy crisis, protests erupt",
+  "source": "The Daily Star, Dhaka Tribune, Jamuna TV, Somoy News",
+  "status": "queued",
+  "at": "2026-08-15T01:08:06Z"
+ },
+ {
+  "title_hash": "8ae8a080a931744b",
+  "url": "https://www.somoynews.tv/news/2026-08-14/N14DxF13",
+  "headline": "Shafiqur urges special parliament session over severe power and energy crisis",
+  "topic": "Bangladesh grapples with severe energy crisis, protests erupt",
+  "source": "The Daily Star, Dhaka Tribune, Jamuna TV, Somoy News",
+  "status": "queued",
+  "at": "2026-08-15T01:08:06Z"
+ },
+ {
+  "title_hash": "b4d91aabde445061",
+  "url": "https://www.somoynews.tv/news/2026-08-14/FBM6SKYI",
+  "headline": "Shafiqur urges special parliament session over severe power and energy crisis",
+  "topic": "Bangladesh grapples with severe energy crisis, protests erupt",
+  "source": "The Daily Star, Dhaka Tribune, Jamuna TV, Somoy News",
+  "status": "queued",
+  "at": "2026-08-15T01:08:06Z"
+ },
+ {
+  "title_hash": "fa04e39d1d8ccd95",
+  "url": "https://www.jamuna.tv/national/662177",
+  "headline": "Shafiqur urges special parliament session over severe power and energy crisis",
+  "topic": "Bangladesh grapples with severe energy crisis, protests erupt",
+  "source": "The Daily Star, Dhaka Tribune, Jamuna TV, Somoy News",
+  "status": "queued",
+  "at": "2026-08-15T01:08:06Z"
+ },
+ {
+  "title_hash": "e952730dca9a094e",
+  "url": "https://www.dhakatribune.com/bangladesh/nation/417463/all-filling-stations-shut-down-in-brahmanbaria",
+  "headline": "Shafiqur urges special parliament session over severe power and energy crisis",
+  "topic": "Bangladesh grapples with severe energy crisis, protests erupt",
+  "source": "The Daily Star, Dhaka Tribune, Jamuna TV, Somoy News",
+  "status": "queued",
+  "at": "2026-08-15T01:08:06Z"
+ },
+ {
+  "title_hash": "c139be31ac564f5c",
+  "url": "https://www.dhakatribune.com/bangladesh/nation/417462/load-shedding-halves-production-at-gopalganj-bscic",
+  "headline": "Shafiqur urges special parliament session over severe power and energy crisis",
+  "topic": "Bangladesh grapples with severe energy crisis, protests erupt",
+  "source": "The Daily Star, Dhaka Tribune, Jamuna TV, Somoy News",
+  "status": "queued",
+  "at": "2026-08-15T01:08:06Z"
+ },
+ {
+  "title_hash": "fbe1719feae44a46",
+  "url": "https://www.thedailystar.net/news/bangladesh/news/summit-lng-back-online-excelerate-fsru-now-offline-4247861",
+  "headline": "Shafiqur urges special parliament session over severe power and energy crisis",
+  "topic": "Bangladesh grapples with severe energy crisis, protests erupt",
+  "source": "The Daily Star, Dhaka Tribune, Jamuna TV, Somoy News",
+  "status": "queued",
+  "at": "2026-08-15T01:08:06Z"
+ },
+ {
+  "title_hash": "14148f81917ee213",
+  "url": "https://www.dhakatribune.com/bangladesh/power-energy/417452/gas-crisis-in-chandpur-cng-drivers-block-road",
+  "headline": "Shafiqur urges special parliament session over severe power and energy crisis",
+  "topic": "Bangladesh grapples with severe energy crisis, protests erupt",
+  "source": "The Daily Star, Dhaka Tribune, Jamuna TV, Somoy News",
+  "status": "queued",
+  "at": "2026-08-15T01:08:06Z"
+ },
+ {
+  "title_hash": "10572744e8a0e8f3",
+  "url": "https://www.somoynews.tv/news/2026-08-14/5yHUMvA6",
+  "headline": "Shafiqur urges special parliament session over severe power and energy crisis",
+  "topic": "Bangladesh grapples with severe energy crisis, protests erupt",
+  "source": "The Daily Star, Dhaka Tribune, Jamuna TV, Somoy News",
+  "status": "queued",
+  "at": "2026-08-15T01:08:06Z"
+ },
+ {
+  "title_hash": "45e7bda5ef93e926",
+  "url": "https://www.somoynews.tv/news/2026-08-15/y71COw1K",
+  "headline": "60 km/h storm expected in 7 districts across Bangladesh within 3 hours",
+  "topic": "Storm warning for 7 districts",
+  "source": "Somoy News",
+  "status": "queued",
+  "at": "2026-08-15T01:08:06Z"
  }
 ]
