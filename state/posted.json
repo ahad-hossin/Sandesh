@@ -1,61 +1,5 @@
 [
  {
-  "title_hash": "7e45bb3275a0a7a3",
-  "url": "https://www.prothomalo.com/sports/cricket/c7soejf3cs",
-  "headline": "Hasan Mahmud takes 6 wickets as Bangladesh bowl Australia out for 198",
-  "topic": "bangladesh bowls out australia 198",
-  "source": "Jamuna TV, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-08-13T08:06:56Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "7f96009525c3d726",
-  "url": "https://www.dhakatribune.com/bangladesh/417345/fakhrul-resigns-from-bnp-post-after-presidential",
-  "headline": "BNP nominates Mirza Fakhrul as presidential candidate, he resigns from party posts",
-  "topic": "bnp nominates mirza fakhrul for president",
-  "source": "Jamuna TV, Dhaka Tribune, The Daily Star, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-13T09:07:30Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "5fa6675df2d71431",
-  "url": "https://www.jamuna.tv/politics/662110",
-  "headline": "BNP nominates Mirza Fakhrul as presidential candidate, he resigns from party posts",
-  "topic": "bnp nominates mirza fakhrul for president",
-  "source": "Jamuna TV, Dhaka Tribune, The Daily Star, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-13T09:07:30Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "e445fff99de03ef0",
-  "url": "https://www.thedailystar.net/news/governance/news/bnp-nominates-mirza-fakhrul-presidential-candidate-4246741",
-  "headline": "BNP nominates Mirza Fakhrul as presidential candidate, he resigns from party posts",
-  "topic": "bnp nominates mirza fakhrul for president",
-  "source": "Jamuna TV, Dhaka Tribune, The Daily Star, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-13T09:07:30Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "16f499b8d1772195",
   "url": "https://www.dhakatribune.com/bangladesh/417343/pm-announces-mirza-fakhrul-as-bnp%E2%80%99s-presidential",
   "headline": "BNP nominates Mirza Fakhrul as presidential candidate, he resigns from party posts",
@@ -8398,5 +8342,41 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "c556902a6ff7cdee",
+  "url": "https://www.prothomalo.com/sports/other-sports/dui-naarii-ayaathlett-puruss-prmaannit-pdk-baatil",
+  "headline": "2 female athletes banned for life and medals stripped after being proven male",
+  "topic": "female athletes proven male",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-15T18:08:31Z"
+ },
+ {
+  "title_hash": "bc0f23244f0d14a4",
+  "url": "https://www.prothomalo.com/sports/other-sports/863y021jyt",
+  "headline": "2 female athletes banned for life and medals stripped after being proven male",
+  "topic": "female athletes proven male",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-15T18:08:31Z"
+ },
+ {
+  "title_hash": "02cc302153d2ce1f",
+  "url": "https://www.dhakatribune.com/bangladesh/power-energy/417549/gas-crisis-brings-daily-life-to-a-standstill",
+  "headline": "Severe gas crisis brings daily life to a standstill in Bangladesh",
+  "topic": "gas crisis daily life",
+  "source": "Dhaka Tribune, Somoy News",
+  "status": "queued",
+  "at": "2026-08-15T18:08:31Z"
+ },
+ {
+  "title_hash": "5b1b841127aab304",
+  "url": "https://www.somoynews.tv/news/2026-08-15/LMYVVys7",
+  "headline": "Severe gas crisis brings daily life to a standstill in Bangladesh",
+  "topic": "gas crisis daily life",
+  "source": "Dhaka Tribune, Somoy News",
+  "status": "queued",
+  "at": "2026-08-15T18:08:31Z"
  }
 ]
