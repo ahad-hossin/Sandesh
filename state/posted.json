@@ -1,33 +1,5 @@
 [
  {
-  "title_hash": "7f96009525c3d726",
-  "url": "https://www.dhakatribune.com/bangladesh/417345/fakhrul-resigns-from-bnp-post-after-presidential",
-  "headline": "BNP nominates Mirza Fakhrul Islam Alamgir as presidential candidate",
-  "topic": "mirza fakhrul presidential nomination",
-  "source": "Dhaka Tribune, Somoy News, Jamuna TV, The Daily Star, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-13T10:08:04Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "16f499b8d1772195",
-  "url": "https://www.dhakatribune.com/bangladesh/417343/pm-announces-mirza-fakhrul-as-bnp%E2%80%99s-presidential",
-  "headline": "BNP nominates Mirza Fakhrul Islam Alamgir as presidential candidate",
-  "topic": "mirza fakhrul presidential nomination",
-  "source": "Dhaka Tribune, Somoy News, Jamuna TV, The Daily Star, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-13T10:08:04Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "8ced4e54abde9e34",
   "url": "https://www.somoynews.tv/news/2026-08-13/MTDWsADN",
   "headline": "BNP nominates Mirza Fakhrul Islam Alamgir as presidential candidate",
@@ -8398,5 +8370,23 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "3c31aa6a2544c945",
+  "url": "https://www.somoynews.tv/news/2026-08-15/I39B6HD1",
+  "headline": "Myanmar to repatriate 300,000 Rohingya if security improves in Rakhine",
+  "topic": "myanmar return rohingya",
+  "source": "Somoy News",
+  "status": "queued",
+  "at": "2026-08-15T22:06:29Z"
+ },
+ {
+  "title_hash": "1636a4f859f0b858",
+  "url": "https://www.somoynews.tv/news/2026-08-15/YQWKWRKQ",
+  "headline": "BDT 7.1 million found in donation box of Shahjalal Mazar",
+  "topic": "shahjalal mazar donation",
+  "source": "Somoy News",
+  "status": "queued",
+  "at": "2026-08-15T22:06:29Z"
  }
 ]
