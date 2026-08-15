@@ -1,33 +1,5 @@
 [
  {
-  "title_hash": "504d3223205e76bc",
-  "url": "https://www.prothomalo.com/video/sports/lvkmxlzbdx",
-  "headline": "Hasan Mahmud takes 6 for 55 to bowl out Australia for 198 in Darwin",
-  "topic": "bangladesh cricket vs australia darwin test",
-  "source": "The Daily Star, Prothom Alo, Jamuna TV",
-  "status": "failed",
-  "at": "2026-08-13T09:07:30Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "7e45bb3275a0a7a3",
-  "url": "https://www.prothomalo.com/sports/cricket/c7soejf3cs",
-  "headline": "Hasan Mahmud takes 6 for 55 to bowl out Australia for 198 in Darwin",
-  "topic": "bangladesh cricket vs australia darwin test",
-  "source": "The Daily Star, Prothom Alo, Jamuna TV",
-  "status": "failed",
-  "at": "2026-08-13T09:07:30Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "7f96009525c3d726",
   "url": "https://www.dhakatribune.com/bangladesh/417345/fakhrul-resigns-from-bnp-post-after-presidential",
   "headline": "BNP nominates Mirza Fakhrul Islam Alamgir as presidential candidate",
@@ -8398,5 +8370,23 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "923553ecaa2ab410",
+  "url": "https://www.somoynews.tv/news/2026-08-15/5BxHDZHB",
+  "headline": "Teesta Master Plan work to begin next year says Relief Minister",
+  "topic": "teesta master plan",
+  "source": "Somoy News",
+  "status": "queued",
+  "at": "2026-08-15T21:08:07Z"
+ },
+ {
+  "title_hash": "3c31aa6a2544c945",
+  "url": "https://www.somoynews.tv/news/2026-08-15/I39B6HD1",
+  "headline": "Myanmar to take back 300,000 Rohingya refugees if security improves",
+  "topic": "myanmar rohingya return",
+  "source": "Somoy News",
+  "status": "queued",
+  "at": "2026-08-15T21:08:07Z"
  }
 ]
