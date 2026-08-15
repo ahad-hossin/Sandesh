@@ -8349,8 +8349,13 @@
   "headline": "Tragedy in Bashundhara: Model Ridhika Ridhi found dead",
   "topic": "actress found dead bashundhara",
   "source": "Somoy News, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-08-15T20:06:30Z"
+  "status": "failed",
+  "at": "2026-08-15T20:06:30Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "e5c6ce7faecb8dc4",
@@ -8358,8 +8363,13 @@
   "headline": "Tragedy in Bashundhara: Model Ridhika Ridhi found dead",
   "topic": "actress found dead bashundhara",
   "source": "Somoy News, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-08-15T20:06:30Z"
+  "status": "failed",
+  "at": "2026-08-15T20:06:30Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "1636a4f859f0b858",
@@ -8367,8 +8377,13 @@
   "headline": "7.1 million BDT found in donation box of Shahjalal Mazar",
   "topic": "shahjalal mazar donation box find",
   "source": "Somoy News, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-15T20:06:30Z"
+  "status": "failed",
+  "at": "2026-08-15T20:06:30Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "ca7396b1772b4564",
@@ -8376,7 +8391,12 @@
   "headline": "7.1 million BDT found in donation box of Shahjalal Mazar",
   "topic": "shahjalal mazar donation box find",
   "source": "Somoy News, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-15T20:06:30Z"
+  "status": "failed",
+  "at": "2026-08-15T20:06:30Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
