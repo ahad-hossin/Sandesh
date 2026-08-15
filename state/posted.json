@@ -8321,8 +8321,13 @@
   "headline": "51 years since Bangabandhu Sheikh Mujibur Rahman's assassination on August 15, 1975",
   "topic": "bangabandhu death anniversary",
   "source": "Dhaka Tribune, The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-15T04:07:33Z"
+  "status": "failed",
+  "at": "2026-08-15T04:07:33Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "3a0c10b7aa39679e",
@@ -8330,8 +8335,13 @@
   "headline": "51 years since Bangabandhu Sheikh Mujibur Rahman's assassination on August 15, 1975",
   "topic": "bangabandhu death anniversary",
   "source": "Dhaka Tribune, The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-15T04:07:33Z"
+  "status": "failed",
+  "at": "2026-08-15T04:07:33Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "1c425a92610344be",
@@ -8339,8 +8349,13 @@
   "headline": "51 years since Bangabandhu Sheikh Mujibur Rahman's assassination on August 15, 1975",
   "topic": "bangabandhu death anniversary",
   "source": "Dhaka Tribune, The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-15T04:07:33Z"
+  "status": "failed",
+  "at": "2026-08-15T04:07:33Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "102a438a01de3ee9",
@@ -8348,8 +8363,13 @@
   "headline": "51 years since Bangabandhu Sheikh Mujibur Rahman's assassination on August 15, 1975",
   "topic": "bangabandhu death anniversary",
   "source": "Dhaka Tribune, The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-15T04:07:33Z"
+  "status": "failed",
+  "at": "2026-08-15T04:07:33Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "dfb05c4beafe64e3",
@@ -8357,8 +8377,13 @@
   "headline": "UN report warns of Al-Qaeda cells in Bangladesh; police unaware of specific information",
   "topic": "un warns of extremist cells bangladesh",
   "source": "Dhaka Tribune, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-15T04:07:33Z"
+  "status": "failed",
+  "at": "2026-08-15T04:07:33Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "b02d6b7cfe687e18",
@@ -8366,7 +8391,12 @@
   "headline": "UN report warns of Al-Qaeda cells in Bangladesh; police unaware of specific information",
   "topic": "un warns of extremist cells bangladesh",
   "source": "Dhaka Tribune, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-15T04:07:33Z"
+  "status": "failed",
+  "at": "2026-08-15T04:07:33Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
