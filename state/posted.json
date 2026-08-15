@@ -1,89 +1,5 @@
 [
  {
-  "title_hash": "090df7fdd822ce06",
-  "url": "https://www.thedailystar.net/sports/cricket/news/hasan-strikes-twice-remove-both-aussie-openers-4246596",
-  "headline": "Bangladesh pacers rock Australia with four wickets before lunch on Day 1",
-  "topic": "Bangladesh Australia Cricket Test",
-  "source": "Somoy News, Jamuna TV, The Daily Star, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-13T04:08:11Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "ab7746d683fec278",
-  "url": "https://www.somoynews.tv/news/2026-08-13/GwSZFIRA",
-  "headline": "Bangladesh pacers rock Australia with four wickets before lunch on Day 1",
-  "topic": "Bangladesh Australia Cricket Test",
-  "source": "Somoy News, Jamuna TV, The Daily Star, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-13T04:08:11Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "d8c7efceb599982f",
-  "url": "https://www.jamuna.tv/sports/662083",
-  "headline": "Bangladesh pacers rock Australia with four wickets before lunch on Day 1",
-  "topic": "Bangladesh Australia Cricket Test",
-  "source": "Somoy News, Jamuna TV, The Daily Star, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-13T04:08:11Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "1e7cf25a08342d18",
-  "url": "https://www.prothomalo.com/sports/cricket/4ytmmshws3",
-  "headline": "Bangladesh pacers rock Australia with four wickets before lunch on Day 1",
-  "topic": "Bangladesh Australia Cricket Test",
-  "source": "Somoy News, Jamuna TV, The Daily Star, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-13T04:08:11Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "cead7a94f19d0b81",
-  "url": "https://www.jamuna.tv/sports/662077",
-  "headline": "Bangladesh pacers rock Australia with four wickets before lunch on Day 1",
-  "topic": "Bangladesh Australia Cricket Test",
-  "source": "Somoy News, Jamuna TV, The Daily Star, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-13T04:08:11Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "80e147d23c3500f8",
-  "url": "https://www.prothomalo.com/sports/cricket/8fdqj2xuxp",
-  "headline": "Bangladesh pacers rock Australia with four wickets before lunch on Day 1",
-  "topic": "Bangladesh Australia Cricket Test",
-  "source": "Somoy News, Jamuna TV, The Daily Star, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-13T04:08:11Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "8fef37a3e43749c6",
   "url": "https://www.dhakatribune.com/bangladesh/power-energy/417337/gas-shortage-deepens-bangladesh-power-crisis",
   "headline": "Gas shortage deepens Bangladesh power crisis, load-shedding hits 3,592MW",
@@ -8398,5 +8314,59 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "691619acab3f3cce",
+  "url": "https://www.dhakatribune.com/bangladesh/health/417519/730-new-dengue-cases-two-deaths-reported-in-24hrs",
+  "headline": "730 new cases, two deaths reported as dengue spreads",
+  "topic": "dengue surge bangladesh",
+  "source": "Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-08-15T12:07:03Z"
+ },
+ {
+  "title_hash": "24e18481b1c2d2de",
+  "url": "https://www.dhakatribune.com/bangladesh/health/417518/dengue-claims-two-lives-as-730-cases-recorded-in",
+  "headline": "730 new cases, two deaths reported as dengue spreads",
+  "topic": "dengue surge bangladesh",
+  "source": "Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-08-15T12:07:03Z"
+ },
+ {
+  "title_hash": "71d00d19a403b488",
+  "url": "https://www.dhakatribune.com/bangladesh/health/417513/measles-outbreak-death-toll-reaches-902-as-8-more",
+  "headline": "902 children dead: Measles outbreak death toll crosses 900 in Bangladesh",
+  "topic": "measles outbreak bangladesh",
+  "source": "Dhaka Tribune, Jamuna TV, The Daily Star, Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-15T12:07:03Z"
+ },
+ {
+  "title_hash": "4a16890be4888f58",
+  "url": "https://www.jamuna.tv/health/662216",
+  "headline": "902 children dead: Measles outbreak death toll crosses 900 in Bangladesh",
+  "topic": "measles outbreak bangladesh",
+  "source": "Dhaka Tribune, Jamuna TV, The Daily Star, Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-15T12:07:03Z"
+ },
+ {
+  "title_hash": "efb083f8ba3554cb",
+  "url": "https://www.thedailystar.net/health/disease/news/death-toll-crosses-900-8-more-die-measles-symptoms-24hrs-4248131",
+  "headline": "902 children dead: Measles outbreak death toll crosses 900 in Bangladesh",
+  "topic": "measles outbreak bangladesh",
+  "source": "Dhaka Tribune, Jamuna TV, The Daily Star, Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-15T12:07:03Z"
+ },
+ {
+  "title_hash": "40955ed9b9066c43",
+  "url": "https://www.prothomalo.com/bangladesh/iwzze67k46",
+  "headline": "902 children dead: Measles outbreak death toll crosses 900 in Bangladesh",
+  "topic": "measles outbreak bangladesh",
+  "source": "Dhaka Tribune, Jamuna TV, The Daily Star, Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-15T12:07:03Z"
  }
 ]
