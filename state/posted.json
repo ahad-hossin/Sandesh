@@ -8321,8 +8321,13 @@
   "headline": "730 new cases, two deaths reported as dengue spreads",
   "topic": "dengue surge bangladesh",
   "source": "Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-08-15T12:07:03Z"
+  "status": "failed",
+  "at": "2026-08-15T12:07:03Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "24e18481b1c2d2de",
@@ -8330,8 +8335,13 @@
   "headline": "730 new cases, two deaths reported as dengue spreads",
   "topic": "dengue surge bangladesh",
   "source": "Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-08-15T12:07:03Z"
+  "status": "failed",
+  "at": "2026-08-15T12:07:03Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "71d00d19a403b488",
@@ -8339,8 +8349,13 @@
   "headline": "902 children dead: Measles outbreak death toll crosses 900 in Bangladesh",
   "topic": "measles outbreak bangladesh",
   "source": "Dhaka Tribune, Jamuna TV, The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-15T12:07:03Z"
+  "status": "failed",
+  "at": "2026-08-15T12:07:03Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "4a16890be4888f58",
@@ -8348,8 +8363,13 @@
   "headline": "902 children dead: Measles outbreak death toll crosses 900 in Bangladesh",
   "topic": "measles outbreak bangladesh",
   "source": "Dhaka Tribune, Jamuna TV, The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-15T12:07:03Z"
+  "status": "failed",
+  "at": "2026-08-15T12:07:03Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "efb083f8ba3554cb",
@@ -8357,8 +8377,13 @@
   "headline": "902 children dead: Measles outbreak death toll crosses 900 in Bangladesh",
   "topic": "measles outbreak bangladesh",
   "source": "Dhaka Tribune, Jamuna TV, The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-15T12:07:03Z"
+  "status": "failed",
+  "at": "2026-08-15T12:07:03Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "40955ed9b9066c43",
@@ -8366,7 +8391,12 @@
   "headline": "902 children dead: Measles outbreak death toll crosses 900 in Bangladesh",
   "topic": "measles outbreak bangladesh",
   "source": "Dhaka Tribune, Jamuna TV, The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-15T12:07:03Z"
+  "status": "failed",
+  "at": "2026-08-15T12:07:03Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
