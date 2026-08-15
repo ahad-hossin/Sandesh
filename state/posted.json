@@ -1,61 +1,5 @@
 [
  {
-  "title_hash": "6040aab087cebec5",
-  "url": "https://www.dhakatribune.com/bangladesh/417315/shopping-malls-markets-and-shops-to-close-by-8pm",
-  "headline": "Power cuts hit hard: Small businesses struggle with outages",
-  "topic": "dhaka power cuts shop closing hours",
-  "source": "Prothom Alo, Jamuna TV, The Daily Star, Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-08-12T21:07:57Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "e07be26e673e0ab0",
-  "url": "https://www.dhakatribune.com/bangladesh/court/417301/prosecution-concludes-arguments-against-obaidul",
-  "headline": "Chief Prosecutor calls Prof. জাফর Iqbal a 'stain on teachers'",
-  "topic": "obaidul quader death penalty sought",
-  "source": "Prothom Alo, Dhaka Tribune, The Daily Star",
-  "status": "failed",
-  "at": "2026-08-12T21:07:57Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "d43ed52cc1378f10",
-  "url": "https://www.prothomalo.com/bangladesh/1aj8bavr7p",
-  "headline": "Chief Prosecutor calls Prof. জাফর Iqbal a 'stain on teachers'",
-  "topic": "obaidul quader death penalty sought",
-  "source": "Prothom Alo, Dhaka Tribune, The Daily Star",
-  "status": "failed",
-  "at": "2026-08-12T21:07:57Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "a2ccf5454965e11b",
-  "url": "https://www.thedailystar.net/news/bangladesh/news/july-uprising-case-death-penalty-sought-quader-and-six-others-4246566",
-  "headline": "Chief Prosecutor calls Prof. জাফর Iqbal a 'stain on teachers'",
-  "topic": "obaidul quader death penalty sought",
-  "source": "Prothom Alo, Dhaka Tribune, The Daily Star",
-  "status": "failed",
-  "at": "2026-08-12T21:07:57Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "abe4c35444e8b13b",
   "url": "https://www.prothomalo.com/bangladesh/capital/qwha27qfi4",
   "headline": "3,382MW load shedding: Dhaka faces prolonged power cuts on Wednesday night",
@@ -8398,5 +8342,41 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "efb083f8ba3554cb",
+  "url": "https://www.thedailystar.net/health/disease/news/death-toll-crosses-900-8-more-die-measles-symptoms-24hrs-4248131",
+  "headline": "Over 900 children die from measles-like symptoms this year",
+  "topic": "measles death toll rise",
+  "source": "The Daily Star, Jamuna TV, Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-15T10:07:39Z"
+ },
+ {
+  "title_hash": "6195fd7d221fab64",
+  "url": "https://www.jamuna.tv/health/662216",
+  "headline": "Over 900 children die from measles-like symptoms this year",
+  "topic": "measles death toll rise",
+  "source": "The Daily Star, Jamuna TV, Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-15T10:07:39Z"
+ },
+ {
+  "title_hash": "eb7048f6e0f1ff9f",
+  "url": "https://www.prothomalo.com/bangladesh/17gjd2yc95",
+  "headline": "Over 900 children die from measles-like symptoms this year",
+  "topic": "measles death toll rise",
+  "source": "The Daily Star, Jamuna TV, Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-15T10:07:39Z"
+ },
+ {
+  "title_hash": "374e612c987bac92",
+  "url": "https://www.dhakatribune.com/bangladesh/417508/myanmar-clarifies-account-of-displaced-persons",
+  "headline": "Myanmar disputes 1 million Rohingya figure, rejects refugees’ origin claims",
+  "topic": "myanmar rohingya figure dispute",
+  "source": "Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-08-15T10:07:39Z"
  }
 ]
