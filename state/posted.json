@@ -8377,8 +8377,13 @@
   "headline": "Teesta Master Plan work to begin next year says Relief Minister",
   "topic": "teesta master plan",
   "source": "Somoy News",
-  "status": "queued",
-  "at": "2026-08-15T21:08:07Z"
+  "status": "failed",
+  "at": "2026-08-15T21:08:07Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "3c31aa6a2544c945",
@@ -8386,7 +8391,12 @@
   "headline": "Myanmar to take back 300,000 Rohingya refugees if security improves",
   "topic": "myanmar rohingya return",
   "source": "Somoy News",
-  "status": "queued",
-  "at": "2026-08-15T21:08:07Z"
+  "status": "failed",
+  "at": "2026-08-15T21:08:07Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
