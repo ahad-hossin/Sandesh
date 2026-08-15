@@ -1,61 +1,5 @@
 [
  {
-  "title_hash": "5d5463ff9be1860c",
-  "url": "https://www.jamuna.tv/national/662066",
-  "headline": "Govt orders shops and malls to close by 8pm nationwide",
-  "topic": "shops malls close 8pm",
-  "source": "Jamuna TV, Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-08-12T15:07:09Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "a86110cc9c5cc87a",
-  "url": "https://www.dhakatribune.com/bangladesh/government-affairs/417311/six-senior-police-officers-suspended-over-absence",
-  "headline": "6 senior police officers suspended for prolonged absence",
-  "topic": "senior police officers suspended",
-  "source": "Dhaka Tribune, The Daily Star, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-12T15:07:09Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "294f522810bea0ca",
-  "url": "https://www.thedailystar.net/news/governance/news/additional-dig-biplob-kumar-among-6-senior-police-officials-suspended-over-prolonged-absence-4246101",
-  "headline": "6 senior police officers suspended for prolonged absence",
-  "topic": "senior police officers suspended",
-  "source": "Dhaka Tribune, The Daily Star, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-12T15:07:09Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "32606ec75bd09c7a",
-  "url": "https://www.jamuna.tv/national/662052",
-  "headline": "6 senior police officers suspended for prolonged absence",
-  "topic": "senior police officers suspended",
-  "source": "Dhaka Tribune, The Daily Star, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-12T15:07:09Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "5f69de9f240de319",
   "url": "https://www.prothomalo.com/bangladesh/04maju9eym",
   "headline": "6 senior police officers suspended for prolonged absence",
@@ -8398,5 +8342,41 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "82478585b9b8d2c1",
+  "url": "https://www.dhakatribune.com/bangladesh/417485/bangabandhu%E2%80%99s-51st-death-anniversary-today",
+  "headline": "51st death anniversary of Bangabandhu Sheikh Mujibur Rahman today",
+  "topic": "bangabandhu assassination anniversary",
+  "source": "Dhaka Tribune, Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-08-15T03:08:05Z"
+ },
+ {
+  "title_hash": "102a438a01de3ee9",
+  "url": "https://www.prothomalo.com/politics/748kjcvzvp",
+  "headline": "51st death anniversary of Bangabandhu Sheikh Mujibur Rahman today",
+  "topic": "bangabandhu assassination anniversary",
+  "source": "Dhaka Tribune, Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-08-15T03:08:05Z"
+ },
+ {
+  "title_hash": "1c425a92610344be",
+  "url": "https://www.thedailystar.net/news/bangladesh/news/the-day-his-assassination-4247881",
+  "headline": "51st death anniversary of Bangabandhu Sheikh Mujibur Rahman today",
+  "topic": "bangabandhu assassination anniversary",
+  "source": "Dhaka Tribune, Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-08-15T03:08:05Z"
+ },
+ {
+  "title_hash": "5dda2712870c2b34",
+  "url": "https://www.prothomalo.com/bangladesh/district/chpzu7phwn",
+  "headline": "River erosion threatens Ashashuni homes and market in Satkhira, residents helpless",
+  "topic": "river erosion displaces families",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-15T03:08:05Z"
  }
 ]
