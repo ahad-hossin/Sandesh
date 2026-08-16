@@ -8321,8 +8321,13 @@
   "headline": "Two bomb-like objects recovered from Demra house, one detained",
   "topic": "demra bomb recovery",
   "source": "Jamuna TV, Prothom Alo, Dhaka Tribune, Somoy News",
-  "status": "queued",
-  "at": "2026-08-16T19:06:41Z"
+  "status": "failed",
+  "at": "2026-08-16T19:06:41Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "aa9c4d7a8ca30294",
@@ -8330,8 +8335,13 @@
   "headline": "Two bomb-like objects recovered from Demra house, one detained",
   "topic": "demra bomb recovery",
   "source": "Jamuna TV, Prothom Alo, Dhaka Tribune, Somoy News",
-  "status": "queued",
-  "at": "2026-08-16T19:06:41Z"
+  "status": "failed",
+  "at": "2026-08-16T19:06:41Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "8755d0fcaf30cf4d",
@@ -8339,8 +8349,13 @@
   "headline": "Two bomb-like objects recovered from Demra house, one detained",
   "topic": "demra bomb recovery",
   "source": "Jamuna TV, Prothom Alo, Dhaka Tribune, Somoy News",
-  "status": "queued",
-  "at": "2026-08-16T19:06:41Z"
+  "status": "failed",
+  "at": "2026-08-16T19:06:41Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "d6435b82d2803182",
@@ -8348,8 +8363,13 @@
   "headline": "Two bomb-like objects recovered from Demra house, one detained",
   "topic": "demra bomb recovery",
   "source": "Jamuna TV, Prothom Alo, Dhaka Tribune, Somoy News",
-  "status": "queued",
-  "at": "2026-08-16T19:06:41Z"
+  "status": "failed",
+  "at": "2026-08-16T19:06:41Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "2e66a5e63c301084",
@@ -8357,8 +8377,13 @@
   "headline": "DU student detained and intimidated by hall provost over Facebook post",
   "topic": "student harassment and official removal",
   "source": "Prothom Alo, Somoy News",
-  "status": "queued",
-  "at": "2026-08-16T19:06:41Z"
+  "status": "failed",
+  "at": "2026-08-16T19:06:41Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "3c43bbd4f0ca1949",
@@ -8366,7 +8391,12 @@
   "headline": "DU student detained and intimidated by hall provost over Facebook post",
   "topic": "student harassment and official removal",
   "source": "Prothom Alo, Somoy News",
-  "status": "queued",
-  "at": "2026-08-16T19:06:41Z"
+  "status": "failed",
+  "at": "2026-08-16T19:06:41Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
