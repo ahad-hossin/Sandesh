@@ -8349,8 +8349,13 @@
   "headline": "Bangladesh on cusp of historic Test victory against world No. 1 Australia in Darwin",
   "topic": "bangladesh cricket future impact",
   "source": "The Daily Star",
-  "status": "queued",
-  "at": "2026-08-16T00:07:18Z"
+  "status": "failed",
+  "at": "2026-08-16T00:07:18Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "7694e7345a85e24e",
@@ -8358,8 +8363,13 @@
   "headline": "PM Tarique Rahman apologises for power and gas crisis, promises improvement soon",
   "topic": "pm addresses national energy crisis",
   "source": "Dhaka Tribune, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-16T00:07:18Z"
+  "status": "failed",
+  "at": "2026-08-16T00:07:18Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "b589eaf81ce55189",
@@ -8367,8 +8377,13 @@
   "headline": "PM Tarique Rahman apologises for power and gas crisis, promises improvement soon",
   "topic": "pm addresses national energy crisis",
   "source": "Dhaka Tribune, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-16T00:07:18Z"
+  "status": "failed",
+  "at": "2026-08-16T00:07:18Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "724e99edd4c44348",
@@ -8376,7 +8391,12 @@
   "headline": "PM Tarique Rahman apologises for power and gas crisis, promises improvement soon",
   "topic": "pm addresses national energy crisis",
   "source": "Dhaka Tribune, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-16T00:07:18Z"
+  "status": "failed",
+  "at": "2026-08-16T00:07:18Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
