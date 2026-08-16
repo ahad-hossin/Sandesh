@@ -8377,8 +8377,13 @@
   "headline": "Youth killed in mob lynching on suspicion of theft in Jamalpur",
   "topic": "Mob Lynching Jamalpur",
   "source": "Somoy News",
-  "status": "queued",
-  "at": "2026-08-16T02:07:33Z"
+  "status": "failed",
+  "at": "2026-08-16T02:07:33Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "d52f7557703e232b",
@@ -8386,7 +8391,12 @@
   "headline": "Two Bangladeshi female athletes identified as male by federation, banned for high testosterone",
   "topic": "Female Athletes Gender Issue",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-16T02:07:33Z"
+  "status": "failed",
+  "at": "2026-08-16T02:07:33Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
