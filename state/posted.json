@@ -1,61 +1,5 @@
 [
  {
-  "title_hash": "7e45bb3275a0a7a3",
-  "url": "https://www.prothomalo.com/sports/cricket/c7soejf3cs",
-  "headline": "Hasan Mahmud's 6-wicket haul: Bangladesh bowls Australia out for 198 in Darwin",
-  "topic": "bangladesh vs australia darwin test",
-  "source": "The Daily Star, Jamuna TV, Prothom Alo, Somoy News",
-  "status": "failed",
-  "at": "2026-08-13T10:08:04Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "da7ea1edd2beebd6",
-  "url": "https://www.thedailystar.net/sports/cricket/news/technology-saved-me-today-smith-admits-nicking-ebadot-delivery-4246806",
-  "headline": "Hasan Mahmud's 6-for: Bangladesh bowl out Australia for 198 in Darwin",
-  "topic": "bangladesh historic test day australia",
-  "source": "The Daily Star, Jamuna TV, Prothom Alo, Somoy News",
-  "status": "failed",
-  "at": "2026-08-13T11:06:54Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "89d163ec5b1dfb50",
-  "url": "https://www.thedailystar.net/sports/cricket/news/hasan-credits-partnership-bowling-historic-six-4246776",
-  "headline": "Hasan Mahmud's 6-for: Bangladesh bowl out Australia for 198 in Darwin",
-  "topic": "bangladesh historic test day australia",
-  "source": "The Daily Star, Jamuna TV, Prothom Alo, Somoy News",
-  "status": "failed",
-  "at": "2026-08-13T11:06:54Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "eeb5f77315bfd402",
-  "url": "https://www.jamuna.tv/sports/662108",
-  "headline": "Hasan Mahmud's 6-for: Bangladesh bowl out Australia for 198 in Darwin",
-  "topic": "bangladesh historic test day australia",
-  "source": "The Daily Star, Jamuna TV, Prothom Alo, Somoy News",
-  "status": "failed",
-  "at": "2026-08-13T11:06:54Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "5a2939b5b4a1c1ee",
   "url": "https://www.thedailystar.net/sports/cricket/news/one-bangladeshs-finest-days-test-cricket-4246751",
   "headline": "Hasan Mahmud's 6-for: Bangladesh bowl out Australia for 198 in Darwin",
@@ -8398,5 +8342,41 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "b01ccf619ce39319",
+  "url": "https://www.jamuna.tv/national/662244",
+  "headline": "PM Tareque Rahman visits Kishoreganj for first time since oath, to launch projects & distribute aid",
+  "topic": "pm tarique rahman kishoreganj visit",
+  "source": "Jamuna TV, Somoy News",
+  "status": "queued",
+  "at": "2026-08-16T03:08:27Z"
+ },
+ {
+  "title_hash": "d032098671c96e87",
+  "url": "https://www.somoynews.tv/news/2026-08-16/uQB22TRQ",
+  "headline": "PM Tareque Rahman visits Kishoreganj for first time since oath, to launch projects & distribute aid",
+  "topic": "pm tarique rahman kishoreganj visit",
+  "source": "Jamuna TV, Somoy News",
+  "status": "queued",
+  "at": "2026-08-16T03:08:27Z"
+ },
+ {
+  "title_hash": "8b9fce0954a3deb0",
+  "url": "https://www.somoynews.tv/news/2026-08-15/AByTJF9u",
+  "headline": "PM Tareque Rahman visits Kishoreganj for first time since oath, to launch projects & distribute aid",
+  "topic": "pm tarique rahman kishoreganj visit",
+  "source": "Jamuna TV, Somoy News",
+  "status": "queued",
+  "at": "2026-08-16T03:08:27Z"
+ },
+ {
+  "title_hash": "d1efacf423f2aa13",
+  "url": "https://www.prothomalo.com/chakri/employment/6t16q8zvq2",
+  "headline": "BCS viva changing to competency-based interviews to assess practical skills, PSC Chairman announces",
+  "topic": "bcs viva exam changes",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-16T03:08:27Z"
  }
 ]
