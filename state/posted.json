@@ -1,33 +1,5 @@
 [
  {
-  "title_hash": "5a2939b5b4a1c1ee",
-  "url": "https://www.thedailystar.net/sports/cricket/news/one-bangladeshs-finest-days-test-cricket-4246751",
-  "headline": "Hasan Mahmud's 6-for: Bangladesh bowl out Australia for 198 in Darwin",
-  "topic": "bangladesh historic test day australia",
-  "source": "The Daily Star, Jamuna TV, Prothom Alo, Somoy News",
-  "status": "failed",
-  "at": "2026-08-13T11:06:54Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "50fbe05d6f432697",
-  "url": "https://www.thedailystar.net/sports/cricket/news/hasan-keeps-it-simple-tigers-earn-praise-consistency-4246746",
-  "headline": "Hasan Mahmud's 6-for: Bangladesh bowl out Australia for 198 in Darwin",
-  "topic": "bangladesh historic test day australia",
-  "source": "The Daily Star, Jamuna TV, Prothom Alo, Somoy News",
-  "status": "failed",
-  "at": "2026-08-13T11:06:54Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "53f9406e34405e01",
   "url": "https://www.prothomalo.com/sports/cricket/bi61unkecd",
   "headline": "Hasan Mahmud's 6-for: Bangladesh bowl out Australia for 198 in Darwin",
@@ -8398,5 +8370,23 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "f9f547a1a27d0e0f",
+  "url": "https://www.prothomalo.com/business/industry/2o0dlbajqa",
+  "headline": "Over 100 factories halt production across Bangladesh due to severe gas shortage",
+  "topic": "gas crisis halts factory production",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-16T04:13:08Z"
+ },
+ {
+  "title_hash": "4c41a071471cdb01",
+  "url": "https://www.prothomalo.com/bangladesh/xqdm7afuio",
+  "headline": "Over 3.4 lakh SSC students scored GPA 4 to below 5, highlighting a mid-tier performance trend",
+  "topic": "exam results GPA below 4-5",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-16T04:13:08Z"
  }
 ]
