@@ -8335,8 +8335,13 @@
   "headline": "Historic win: Bangladesh crush Australia by 9 wickets in Darwin",
   "topic": "bangladesh historic test win australia",
   "source": "The Daily Star, Jamuna TV",
-  "status": "queued",
-  "at": "2026-08-16T23:07:06Z"
+  "status": "failed",
+  "at": "2026-08-16T23:07:06Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "956deceea5f8f878",
@@ -8344,8 +8349,13 @@
   "headline": "Historic win: Bangladesh crush Australia by 9 wickets in Darwin",
   "topic": "bangladesh historic test win australia",
   "source": "The Daily Star, Jamuna TV",
-  "status": "queued",
-  "at": "2026-08-16T23:07:06Z"
+  "status": "failed",
+  "at": "2026-08-16T23:07:06Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "0221c931b654c3fc",
@@ -8353,8 +8363,13 @@
   "headline": "Historic win: Bangladesh crush Australia by 9 wickets in Darwin",
   "topic": "bangladesh historic test win australia",
   "source": "The Daily Star, Jamuna TV",
-  "status": "queued",
-  "at": "2026-08-16T23:07:06Z"
+  "status": "failed",
+  "at": "2026-08-16T23:07:06Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "c2fad323099eedcc",
@@ -8362,8 +8377,13 @@
   "headline": "Historic win: Bangladesh crush Australia by 9 wickets in Darwin",
   "topic": "bangladesh historic test win australia",
   "source": "The Daily Star, Jamuna TV",
-  "status": "queued",
-  "at": "2026-08-16T23:07:06Z"
+  "status": "failed",
+  "at": "2026-08-16T23:07:06Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "dcd8bd079f296623",
@@ -8371,7 +8391,12 @@
   "headline": "€75M deal: Barcelona reach deal to sign Rodri from Man City",
   "topic": "barcelona sign rodri",
   "source": "The Daily Star",
-  "status": "queued",
-  "at": "2026-08-16T23:07:06Z"
+  "status": "failed",
+  "at": "2026-08-16T23:07:06Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
