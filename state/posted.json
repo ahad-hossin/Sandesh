@@ -8377,8 +8377,13 @@
   "headline": "Over 100 factories halt production across Bangladesh due to severe gas shortage",
   "topic": "gas crisis halts factory production",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-16T04:13:08Z"
+  "status": "failed",
+  "at": "2026-08-16T04:13:08Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "4c41a071471cdb01",
@@ -8386,7 +8391,12 @@
   "headline": "Over 3.4 lakh SSC students scored GPA 4 to below 5, highlighting a mid-tier performance trend",
   "topic": "exam results GPA below 4-5",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-16T04:13:08Z"
+  "status": "failed",
+  "at": "2026-08-16T04:13:08Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
