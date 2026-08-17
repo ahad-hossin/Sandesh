@@ -8349,8 +8349,13 @@
   "headline": "10 dead as 29 Bangladeshis drift to Egypt after 10 days at sea",
   "topic": "bangladeshis drift to egypt",
   "source": "Dhaka Tribune, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-17T07:07:27Z"
+  "status": "failed",
+  "at": "2026-08-17T07:07:27Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "43519d8d52fb3f3d",
@@ -8358,8 +8363,13 @@
   "headline": "10 dead as 29 Bangladeshis drift to Egypt after 10 days at sea",
   "topic": "bangladeshis drift to egypt",
   "source": "Dhaka Tribune, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-17T07:07:27Z"
+  "status": "failed",
+  "at": "2026-08-17T07:07:27Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "43d3e57647f2684a",
@@ -8367,8 +8377,13 @@
   "headline": "2 hand grenades found: Neo-JMB associate arrested in Dhaka",
   "topic": "jihadist jewel arrested",
   "source": "Jamuna TV, Somoy News",
-  "status": "queued",
-  "at": "2026-08-17T07:07:27Z"
+  "status": "failed",
+  "at": "2026-08-17T07:07:27Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "63576a57e2b0351d",
@@ -8376,7 +8391,12 @@
   "headline": "2 hand grenades found: Neo-JMB associate arrested in Dhaka",
   "topic": "jihadist jewel arrested",
   "source": "Jamuna TV, Somoy News",
-  "status": "queued",
-  "at": "2026-08-17T07:07:27Z"
+  "status": "failed",
+  "at": "2026-08-17T07:07:27Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
