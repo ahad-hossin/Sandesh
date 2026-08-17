@@ -8349,8 +8349,13 @@
   "headline": "PSC official Kaushik Debnath sent to jail in BCS question leak case",
   "topic": "bcs question leak jail",
   "source": "Dhaka Tribune, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-17T14:07:02Z"
+  "status": "failed",
+  "at": "2026-08-17T14:07:02Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "d17a2a3221f392a7",
@@ -8358,8 +8363,13 @@
   "headline": "PSC official Kaushik Debnath sent to jail in BCS question leak case",
   "topic": "bcs question leak jail",
   "source": "Dhaka Tribune, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-17T14:07:02Z"
+  "status": "failed",
+  "at": "2026-08-17T14:07:02Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "9e2faf49501de15d",
@@ -8367,8 +8377,13 @@
   "headline": "Saudi Crown Prince invites PM Tarique Rahman to visit Saudi Arabia",
   "topic": "tarique rahman saudi visit",
   "source": "The Daily Star, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-08-17T14:07:02Z"
+  "status": "failed",
+  "at": "2026-08-17T14:07:02Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "750bb09fed96745e",
@@ -8376,7 +8391,12 @@
   "headline": "Saudi Crown Prince invites PM Tarique Rahman to visit Saudi Arabia",
   "topic": "tarique rahman saudi visit",
   "source": "The Daily Star, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-08-17T14:07:02Z"
+  "status": "failed",
+  "at": "2026-08-17T14:07:02Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
