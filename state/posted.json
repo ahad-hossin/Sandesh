@@ -1,61 +1,5 @@
 [
  {
-  "title_hash": "2dfc136cdd1bb41d",
-  "url": "https://www.thedailystar.net/sports/cricket/news/theyll-be-nervous-ponting-warns-australia-bangladesh-take-control-4247611",
-  "headline": "Tanzid Tamim's century as Bangladesh take 153-run lead against Australia",
-  "topic": "bangladesh dominance darwin test",
-  "source": "The Daily Star, Prothom Alo, Jamuna TV",
-  "status": "failed",
-  "at": "2026-08-14T16:02:32Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "d3c7c959bb8d20c5",
-  "url": "https://www.jamuna.tv/sports/662163",
-  "headline": "Tanzid Tamim's century as Bangladesh take 153-run lead against Australia",
-  "topic": "bangladesh dominance darwin test",
-  "source": "The Daily Star, Prothom Alo, Jamuna TV",
-  "status": "failed",
-  "at": "2026-08-14T16:02:32Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "92f58cbcc0a42fa2",
-  "url": "https://www.prothomalo.com/ampstories/sports/cricket/4pntmnn3qu",
-  "headline": "Tanzid Tamim's century as Bangladesh take 153-run lead against Australia",
-  "topic": "bangladesh dominance darwin test",
-  "source": "The Daily Star, Prothom Alo, Jamuna TV",
-  "status": "failed",
-  "at": "2026-08-14T16:02:32Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "ed78e58d9108b492",
-  "url": "https://www.prothomalo.com/video/sports/4pkdd0yzxt",
-  "headline": "Tanzid Tamim's century as Bangladesh take 153-run lead against Australia",
-  "topic": "bangladesh dominance darwin test",
-  "source": "The Daily Star, Prothom Alo, Jamuna TV",
-  "status": "failed",
-  "at": "2026-08-14T16:02:32Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "de2e64a3baeb8b4d",
   "url": "https://www.thedailystar.net/news/accidents-fires/news/another-20-seconds-and-i-would-have-died-4247671",
   "headline": "9 workers killed by toxic gas at Sitakunda shipbreaking yard",
@@ -8398,5 +8342,41 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "fc37846d503c034a",
+  "url": "https://www.thedailystar.net/sports/cricket/news/darwin-domination-the-numbers-behind-bangladeshs-historic-win-4249506",
+  "headline": "Bangladesh crushes Australia by nine wickets for historic first-ever Test win on Australian soil",
+  "topic": "Bangladesh historic cricket win Australia",
+  "source": "The Daily Star",
+  "status": "queued",
+  "at": "2026-08-17T02:07:31Z"
+ },
+ {
+  "title_hash": "956deceea5f8f878",
+  "url": "https://www.thedailystar.net/sports/cricket/news/dream-test-23-years-the-making-4249216",
+  "headline": "Bangladesh crushes Australia by nine wickets for historic first-ever Test win on Australian soil",
+  "topic": "Bangladesh historic cricket win Australia",
+  "source": "The Daily Star",
+  "status": "queued",
+  "at": "2026-08-17T02:07:31Z"
+ },
+ {
+  "title_hash": "0221c931b654c3fc",
+  "url": "https://www.thedailystar.net/sports/cricket/news/you-will-rarely-find-team-4249476",
+  "headline": "Bangladesh crushes Australia by nine wickets for historic first-ever Test win on Australian soil",
+  "topic": "Bangladesh historic cricket win Australia",
+  "source": "The Daily Star",
+  "status": "queued",
+  "at": "2026-08-17T02:07:31Z"
+ },
+ {
+  "title_hash": "3bb1bde88e8a68d5",
+  "url": "https://www.thedailystar.net/business/economy/news/minimum-two-years-needed-fix-power-gas-crisis-khosru-4249366",
+  "headline": "Minimum two years needed to fix power, gas crisis, says Finance Minister Khosru",
+  "topic": "Bangladesh power gas crisis fix timeline",
+  "source": "The Daily Star",
+  "status": "queued",
+  "at": "2026-08-17T02:07:31Z"
  }
 ]
