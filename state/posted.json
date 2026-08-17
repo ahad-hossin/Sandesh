@@ -8335,8 +8335,13 @@
   "headline": "Remains of 12 slaughtered horses found in Gazipur forest",
   "topic": "slaughtered horses found in gazipur",
   "source": "Jamuna TV, The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-17T09:06:46Z"
+  "status": "failed",
+  "at": "2026-08-17T09:06:46Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "c7b9033f2095767a",
@@ -8344,8 +8349,13 @@
   "headline": "Remains of 12 slaughtered horses found in Gazipur forest",
   "topic": "slaughtered horses found in gazipur",
   "source": "Jamuna TV, The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-17T09:06:46Z"
+  "status": "failed",
+  "at": "2026-08-17T09:06:46Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "aca6f278d2d20427",
@@ -8353,8 +8363,13 @@
   "headline": "Remains of 12 slaughtered horses found in Gazipur forest",
   "topic": "slaughtered horses found in gazipur",
   "source": "Jamuna TV, The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-17T09:06:46Z"
+  "status": "failed",
+  "at": "2026-08-17T09:06:46Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "e5347b4630fdf40d",
@@ -8362,8 +8377,13 @@
   "headline": "UN report on Al-Qaeda in Bangladesh is speculative, says Home Minister",
   "topic": "al-qaeda report and airtel rebranding",
   "source": "Jamuna TV",
-  "status": "queued",
-  "at": "2026-08-17T09:06:46Z"
+  "status": "failed",
+  "at": "2026-08-17T09:06:46Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "6ed2434450a925a6",
@@ -8371,7 +8391,12 @@
   "headline": "UN report on Al-Qaeda in Bangladesh is speculative, says Home Minister",
   "topic": "al-qaeda report and airtel rebranding",
   "source": "Jamuna TV",
-  "status": "queued",
-  "at": "2026-08-17T09:06:46Z"
+  "status": "failed",
+  "at": "2026-08-17T09:06:46Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
