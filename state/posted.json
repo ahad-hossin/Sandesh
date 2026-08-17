@@ -1,75 +1,5 @@
 [
  {
-  "title_hash": "49cac89fd532d9ef",
-  "url": "https://www.jamuna.tv/national/662183",
-  "headline": "550 MMCFD: Summit LNG supply resumes after brief disruption",
-  "topic": "summit lng supply resumes",
-  "source": "Somoy News, Dhaka Tribune, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-14T18:03:50Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "5e61468d6f59eff0",
-  "url": "https://www.prothomalo.com/bangladesh/wnclmu58fm",
-  "headline": "550 MMCFD: Summit LNG supply resumes after brief disruption",
-  "topic": "summit lng supply resumes",
-  "source": "Somoy News, Dhaka Tribune, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-14T18:03:50Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "b0ca6f68fb07f1e6",
-  "url": "https://www.prothomalo.com/sports/cricket/wjwtipiqj1",
-  "headline": "Tanzid Hasan scores century; Bangladesh hit 100s in all Test-playing nations",
-  "topic": "bangladesh dominance australia test",
-  "source": "Prothom Alo, Somoy News",
-  "status": "failed",
-  "at": "2026-08-14T19:06:39Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "8ca908900c284ed4",
-  "url": "https://www.prothomalo.com/sports/cricket/miraajer-byaatte-jbaab-sttaarker-baakybaann",
-  "headline": "Tanzid Hasan scores century; Bangladesh hit 100s in all Test-playing nations",
-  "topic": "bangladesh dominance australia test",
-  "source": "Prothom Alo, Somoy News",
-  "status": "failed",
-  "at": "2026-08-14T19:06:39Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "40f7511a115b5d00",
-  "url": "https://www.prothomalo.com/sports/cricket/mqq2lt182k",
-  "headline": "Tanzid Hasan scores century; Bangladesh hit 100s in all Test-playing nations",
-  "topic": "bangladesh dominance australia test",
-  "source": "Prothom Alo, Somoy News",
-  "status": "failed",
-  "at": "2026-08-14T19:06:39Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "c0550a0c353d8f5d",
   "url": "https://www.prothomalo.com/video/sports/iwb03y6k0w",
   "headline": "Tanzid Hasan scores century; Bangladesh hit 100s in all Test-playing nations",
@@ -8398,5 +8328,50 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "0a04670ae2e3631d",
+  "url": "https://www.dhakatribune.com/bangladesh/417638/10-bodies-dumped-at-sea-29-bangladeshis-drift-to",
+  "headline": "10 dead as 29 Bangladeshis drift to Egypt after 10 days at sea",
+  "topic": "bangladeshis drift to egypt",
+  "source": "Dhaka Tribune, Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-17T08:06:27Z"
+ },
+ {
+  "title_hash": "43519d8d52fb3f3d",
+  "url": "https://www.prothomalo.com/bangladesh/6suuafru01",
+  "headline": "10 dead as 29 Bangladeshis drift to Egypt after 10 days at sea",
+  "topic": "bangladeshis drift to egypt",
+  "source": "Dhaka Tribune, Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-17T08:06:27Z"
+ },
+ {
+  "title_hash": "7f3527a5e45f640a",
+  "url": "https://www.dhakatribune.com/bangladesh/foreign-affairs/417657/dinesh-trivedi-pm-tarique-s-visit-to-india-should",
+  "headline": "India's envoy says PM Tarique's visit to India should take place much sooner",
+  "topic": "tarique rahman india visit",
+  "source": "Dhaka Tribune, The Daily Star",
+  "status": "queued",
+  "at": "2026-08-17T08:06:27Z"
+ },
+ {
+  "title_hash": "4c2182bfed564037",
+  "url": "https://www.thedailystar.net/news/bangladesh/diplomacy/news/bangladesh-pms-visit-india-should-take-place-much-sooner-dinesh-trivedi-4249626",
+  "headline": "India's envoy says PM Tarique's visit to India should take place much sooner",
+  "topic": "tarique rahman india visit",
+  "source": "Dhaka Tribune, The Daily Star",
+  "status": "queued",
+  "at": "2026-08-17T08:06:27Z"
+ },
+ {
+  "title_hash": "abd058af9e2f7cfb",
+  "url": "https://www.thedailystar.net/news/bangladesh/diplomacy/news/conducive-climate-needed-tariques-india-visit-4248931",
+  "headline": "India's envoy says PM Tarique's visit to India should take place much sooner",
+  "topic": "tarique rahman india visit",
+  "source": "Dhaka Tribune, The Daily Star",
+  "status": "queued",
+  "at": "2026-08-17T08:06:27Z"
  }
 ]
