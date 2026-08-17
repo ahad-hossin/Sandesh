@@ -8307,8 +8307,13 @@
   "headline": "Draft approved to abolish RAB and form SRB",
   "topic": "rab abolished srb established",
   "source": "Dhaka Tribune, Somoy News, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-17T15:37:12Z"
+  "status": "failed",
+  "at": "2026-08-17T15:37:12Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "skipped: image URL not publicly reachable (HTTP 429 — is the repo private?)",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "aa294de571117717",
@@ -8316,8 +8321,13 @@
   "headline": "Draft approved to abolish RAB and form SRB",
   "topic": "rab abolished srb established",
   "source": "Dhaka Tribune, Somoy News, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-17T15:37:12Z"
+  "status": "failed",
+  "at": "2026-08-17T15:37:12Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "skipped: image URL not publicly reachable (HTTP 429 — is the repo private?)",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "d927e88addb0e500",
@@ -8325,8 +8335,13 @@
   "headline": "Draft approved to abolish RAB and form SRB",
   "topic": "rab abolished srb established",
   "source": "Dhaka Tribune, Somoy News, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-17T15:37:12Z"
+  "status": "failed",
+  "at": "2026-08-17T15:37:12Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "skipped: image URL not publicly reachable (HTTP 429 — is the repo private?)",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "9e2faf49501de15d",
@@ -8334,8 +8349,13 @@
   "headline": "Saudi Crown Prince invites PM Tarique Rahman to visit Saudi Arabia",
   "topic": "mbs invites tarique rahman to saudi",
   "source": "Jamuna TV, The Daily Star, Somoy News, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-08-17T15:37:12Z"
+  "status": "failed",
+  "at": "2026-08-17T15:37:12Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "skipped: image URL not publicly reachable (HTTP 429 — is the repo private?)",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "fa9019a785cc90e4",
@@ -8343,8 +8363,13 @@
   "headline": "Saudi Crown Prince invites PM Tarique Rahman to visit Saudi Arabia",
   "topic": "mbs invites tarique rahman to saudi",
   "source": "Jamuna TV, The Daily Star, Somoy News, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-08-17T15:37:12Z"
+  "status": "failed",
+  "at": "2026-08-17T15:37:12Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "skipped: image URL not publicly reachable (HTTP 429 — is the repo private?)",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "43a6f59f18a2dc8f",
@@ -8352,8 +8377,13 @@
   "headline": "Saudi Crown Prince invites PM Tarique Rahman to visit Saudi Arabia",
   "topic": "mbs invites tarique rahman to saudi",
   "source": "Jamuna TV, The Daily Star, Somoy News, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-08-17T15:37:12Z"
+  "status": "failed",
+  "at": "2026-08-17T15:37:12Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "skipped: image URL not publicly reachable (HTTP 429 — is the repo private?)",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "750bb09fed96745e",
@@ -8361,7 +8391,12 @@
   "headline": "Saudi Crown Prince invites PM Tarique Rahman to visit Saudi Arabia",
   "topic": "mbs invites tarique rahman to saudi",
   "source": "Jamuna TV, The Daily Star, Somoy News, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-08-17T15:37:12Z"
+  "status": "failed",
+  "at": "2026-08-17T15:37:12Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "skipped: image URL not publicly reachable (HTTP 429 — is the repo private?)",
+   "x": "dry-run"
+  }
  }
 ]
