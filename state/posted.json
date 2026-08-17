@@ -1,75 +1,5 @@
 [
  {
-  "title_hash": "b1c6da78f2f80383",
-  "url": "https://www.thedailystar.net/news/bangladesh/news/man-held-attempting-place-flowers-dhanmondi-32-ruins-4248091",
-  "headline": "Tight security at Dhanmondi 32 as two men are detained for paying respects",
-  "topic": "dhanmondi 32 security",
-  "source": "Dhaka Tribune, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-08-15T08:06:54Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "2a70c6fa35064316",
-  "url": "https://www.prothomalo.com/bangladesh/cfbbggiiep",
-  "headline": "Tight security at Dhanmondi 32 as two men are detained for paying respects",
-  "topic": "dhanmondi 32 security",
-  "source": "Dhaka Tribune, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-08-15T08:06:54Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "33de5e9aa6ea0ed1",
-  "url": "https://www.thedailystar.net/news/bangladesh/diplomacy/news/india-warming-tarique-it-abandoning-hasina-4248096",
-  "headline": "Tarique Rahman likely to visit India between August 20 and 25",
-  "topic": "tarique india visit",
-  "source": "The Daily Star, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-15T09:07:34Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "1d3ddbf85c8801f4",
-  "url": "https://www.prothomalo.com/bangladesh/taareker-bhaart-sphr-baadhaa-haasinaa-prtyrpnn",
-  "headline": "Tarique Rahman likely to visit India between August 20 and 25",
-  "topic": "tarique india visit",
-  "source": "The Daily Star, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-15T09:07:34Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "0c00d8eb2edd040f",
-  "url": "https://www.thedailystar.net/news/bangladesh/news/tarique-likely-visit-india-between-august-20-and-25-4247871",
-  "headline": "Tarique Rahman likely to visit India between August 20 and 25",
-  "topic": "tarique india visit",
-  "source": "The Daily Star, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-15T09:07:34Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "0af31c784019d136",
   "url": "https://www.dhakatribune.com/bangladesh/dhaka/417495/tight-security-around-dhanmondi-32-ahead-of-august",
   "headline": "Man detained for attempting to place flowers at Dhanmondi 32 ruins",
@@ -8398,5 +8328,50 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "1a10143125f41d55",
+  "url": "https://www.thedailystar.net/news/world/usa/news/trump-threatens-bomb-oman-4250401",
+  "headline": "Trump threatens to bomb Oman if it interferes with Iran deal",
+  "topic": "trump threatens to bomb oman",
+  "source": "Prothom Alo, Jamuna TV, The Daily Star",
+  "status": "queued",
+  "at": "2026-08-17T23:07:44Z"
+ },
+ {
+  "title_hash": "becc41980b656c0c",
+  "url": "https://www.prothomalo.com/world/middle-east/ic0rlpwuml",
+  "headline": "Trump threatens to bomb Oman if it interferes with Iran deal",
+  "topic": "trump threatens to bomb oman",
+  "source": "Prothom Alo, Jamuna TV, The Daily Star",
+  "status": "queued",
+  "at": "2026-08-17T23:07:44Z"
+ },
+ {
+  "title_hash": "687c49ee04f29f0c",
+  "url": "https://www.jamuna.tv/international/662365",
+  "headline": "Trump threatens to bomb Oman if it interferes with Iran deal",
+  "topic": "trump threatens to bomb oman",
+  "source": "Prothom Alo, Jamuna TV, The Daily Star",
+  "status": "queued",
+  "at": "2026-08-17T23:07:44Z"
+ },
+ {
+  "title_hash": "a70788eca4dbb895",
+  "url": "https://www.thedailystar.net/sports/football/news/bangladesh-one-the-best-caniggia-bangladeshs-argentina-obsession-4250341",
+  "headline": "Argentine legend Claudio Caniggia says Bangladesh is one of the best for its passion",
+  "topic": "caniggia on bangladesh football obsession",
+  "source": "The Daily Star, Jamuna TV",
+  "status": "queued",
+  "at": "2026-08-17T23:07:44Z"
+ },
+ {
+  "title_hash": "295166cfa98ddb1d",
+  "url": "https://www.jamuna.tv/sports/662352",
+  "headline": "Argentine legend Claudio Caniggia says Bangladesh is one of the best for its passion",
+  "topic": "caniggia on bangladesh football obsession",
+  "source": "The Daily Star, Jamuna TV",
+  "status": "queued",
+  "at": "2026-08-17T23:07:44Z"
  }
 ]
