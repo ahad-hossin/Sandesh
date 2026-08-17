@@ -8321,8 +8321,13 @@
   "headline": "Bangladesh crushes Australia by nine wickets for first-ever Test win on Australian soil",
   "topic": "Bangladesh historic cricket win Australia",
   "source": "The Daily Star",
-  "status": "queued",
-  "at": "2026-08-17T01:07:33Z"
+  "status": "failed",
+  "at": "2026-08-17T01:07:33Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "956deceea5f8f878",
@@ -8330,8 +8335,13 @@
   "headline": "Bangladesh crushes Australia by nine wickets for first-ever Test win on Australian soil",
   "topic": "Bangladesh historic cricket win Australia",
   "source": "The Daily Star",
-  "status": "queued",
-  "at": "2026-08-17T01:07:33Z"
+  "status": "failed",
+  "at": "2026-08-17T01:07:33Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "0221c931b654c3fc",
@@ -8339,8 +8349,13 @@
   "headline": "Bangladesh crushes Australia by nine wickets for first-ever Test win on Australian soil",
   "topic": "Bangladesh historic cricket win Australia",
   "source": "The Daily Star",
-  "status": "queued",
-  "at": "2026-08-17T01:07:33Z"
+  "status": "failed",
+  "at": "2026-08-17T01:07:33Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "b2389423e5550bde",
@@ -8348,8 +8363,13 @@
   "headline": "PM urges vigilance against 'confusion-makers', citing past actions and future intentions",
   "topic": "PM warns against misleaders",
   "source": "Jamuna TV, Dhaka Tribune, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-17T01:07:33Z"
+  "status": "failed",
+  "at": "2026-08-17T01:07:33Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "9046670b4c65dd76",
@@ -8357,8 +8377,13 @@
   "headline": "PM urges vigilance against 'confusion-makers', citing past actions and future intentions",
   "topic": "PM warns against misleaders",
   "source": "Jamuna TV, Dhaka Tribune, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-17T01:07:33Z"
+  "status": "failed",
+  "at": "2026-08-17T01:07:33Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "9ff98707a31f2336",
@@ -8366,7 +8391,12 @@
   "headline": "PM urges vigilance against 'confusion-makers', citing past actions and future intentions",
   "topic": "PM warns against misleaders",
   "source": "Jamuna TV, Dhaka Tribune, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-17T01:07:33Z"
+  "status": "failed",
+  "at": "2026-08-17T01:07:33Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
