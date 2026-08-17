@@ -8349,8 +8349,13 @@
   "headline": "Storm and thundershowers expected in Dhaka and 13 other regions, river ports warned",
   "topic": "Bangladesh storm warning",
   "source": "Jamuna TV, Somoy News",
-  "status": "queued",
-  "at": "2026-08-17T03:08:22Z"
+  "status": "failed",
+  "at": "2026-08-17T03:08:22Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "faee116283678125",
@@ -8358,8 +8363,13 @@
   "headline": "Storm and thundershowers expected in Dhaka and 13 other regions, river ports warned",
   "topic": "Bangladesh storm warning",
   "source": "Jamuna TV, Somoy News",
-  "status": "queued",
-  "at": "2026-08-17T03:08:22Z"
+  "status": "failed",
+  "at": "2026-08-17T03:08:22Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "8efdcbc1888fc46e",
@@ -8367,8 +8377,13 @@
   "headline": "Storm and thundershowers expected in Dhaka and 13 other regions, river ports warned",
   "topic": "Bangladesh storm warning",
   "source": "Jamuna TV, Somoy News",
-  "status": "queued",
-  "at": "2026-08-17T03:08:22Z"
+  "status": "failed",
+  "at": "2026-08-17T03:08:22Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "773e5c7a11105c9d",
@@ -8376,7 +8391,12 @@
   "headline": "Retired teachers and staff finally receive overdue retirement and welfare benefits after years of waiting",
   "topic": "Teachers receive retirement funds",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-17T03:08:22Z"
+  "status": "failed",
+  "at": "2026-08-17T03:08:22Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
