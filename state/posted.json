@@ -1,61 +1,5 @@
 [
  {
-  "title_hash": "ddfa15915377480b",
-  "url": "https://www.prothomalo.com/politics/6gzkalqc3n",
-  "headline": "Opposition leader urges special parliament session over energy crisis",
-  "topic": "bangladesh energy crisis",
-  "source": "Dhaka Tribune, Jamuna TV, Somoy News, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-14T18:03:50Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "14148f81917ee213",
-  "url": "https://www.dhakatribune.com/bangladesh/power-energy/417452/gas-crisis-in-chandpur-cng-drivers-block-road",
-  "headline": "Opposition leader urges special parliament session over energy crisis",
-  "topic": "bangladesh energy crisis",
-  "source": "Dhaka Tribune, Jamuna TV, Somoy News, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-14T18:03:50Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "6852711176817523",
-  "url": "https://www.dhakatribune.com/bangladesh/power-energy/417477/summit-lng-supply-resumes-at-550-mmcfd-after-brief",
-  "headline": "550 MMCFD: Summit LNG supply resumes after brief disruption",
-  "topic": "summit lng supply resumes",
-  "source": "Somoy News, Dhaka Tribune, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-14T18:03:50Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "8ae8a080a931744b",
-  "url": "https://www.somoynews.tv/news/2026-08-14/N14DxF13",
-  "headline": "550 MMCFD: Summit LNG supply resumes after brief disruption",
-  "topic": "summit lng supply resumes",
-  "source": "Somoy News, Dhaka Tribune, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-14T18:03:50Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "49cac89fd532d9ef",
   "url": "https://www.jamuna.tv/national/662183",
   "headline": "550 MMCFD: Summit LNG supply resumes after brief disruption",
@@ -8398,5 +8342,41 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "0a04670ae2e3631d",
+  "url": "https://www.dhakatribune.com/bangladesh/417638/10-bodies-dumped-at-sea-29-bangladeshis-drift-to",
+  "headline": "10 dead as 29 Bangladeshis drift to Egypt after 10 days at sea",
+  "topic": "bangladeshis drift to egypt",
+  "source": "Dhaka Tribune, Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-17T07:07:27Z"
+ },
+ {
+  "title_hash": "43519d8d52fb3f3d",
+  "url": "https://www.prothomalo.com/bangladesh/6suuafru01",
+  "headline": "10 dead as 29 Bangladeshis drift to Egypt after 10 days at sea",
+  "topic": "bangladeshis drift to egypt",
+  "source": "Dhaka Tribune, Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-17T07:07:27Z"
+ },
+ {
+  "title_hash": "43d3e57647f2684a",
+  "url": "https://www.jamuna.tv/national/662325",
+  "headline": "2 hand grenades found: Neo-JMB associate arrested in Dhaka",
+  "topic": "jihadist jewel arrested",
+  "source": "Jamuna TV, Somoy News",
+  "status": "queued",
+  "at": "2026-08-17T07:07:27Z"
+ },
+ {
+  "title_hash": "63576a57e2b0351d",
+  "url": "https://www.somoynews.tv/news/2026-08-17/6v95NzvP",
+  "headline": "2 hand grenades found: Neo-JMB associate arrested in Dhaka",
+  "topic": "jihadist jewel arrested",
+  "source": "Jamuna TV, Somoy News",
+  "status": "queued",
+  "at": "2026-08-17T07:07:27Z"
  }
 ]
