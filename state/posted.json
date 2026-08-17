@@ -8349,8 +8349,13 @@
   "headline": "Bangladesh crushes Australia by nine wickets for historic first-ever Test win on Australian soil",
   "topic": "Bangladesh historic cricket win Australia",
   "source": "The Daily Star",
-  "status": "queued",
-  "at": "2026-08-17T02:07:31Z"
+  "status": "failed",
+  "at": "2026-08-17T02:07:31Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "956deceea5f8f878",
@@ -8358,8 +8363,13 @@
   "headline": "Bangladesh crushes Australia by nine wickets for historic first-ever Test win on Australian soil",
   "topic": "Bangladesh historic cricket win Australia",
   "source": "The Daily Star",
-  "status": "queued",
-  "at": "2026-08-17T02:07:31Z"
+  "status": "failed",
+  "at": "2026-08-17T02:07:31Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "0221c931b654c3fc",
@@ -8367,8 +8377,13 @@
   "headline": "Bangladesh crushes Australia by nine wickets for historic first-ever Test win on Australian soil",
   "topic": "Bangladesh historic cricket win Australia",
   "source": "The Daily Star",
-  "status": "queued",
-  "at": "2026-08-17T02:07:31Z"
+  "status": "failed",
+  "at": "2026-08-17T02:07:31Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "3bb1bde88e8a68d5",
@@ -8376,7 +8391,12 @@
   "headline": "Minimum two years needed to fix power, gas crisis, says Finance Minister Khosru",
   "topic": "Bangladesh power gas crisis fix timeline",
   "source": "The Daily Star",
-  "status": "queued",
-  "at": "2026-08-17T02:07:31Z"
+  "status": "failed",
+  "at": "2026-08-17T02:07:31Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
