@@ -8335,8 +8335,13 @@
   "headline": "Trump threatens to bomb Oman if it interferes with Iran deal",
   "topic": "trump threatens to bomb oman",
   "source": "Prothom Alo, Jamuna TV, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-17T23:07:44Z"
+  "status": "failed",
+  "at": "2026-08-17T23:07:44Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "becc41980b656c0c",
@@ -8344,8 +8349,13 @@
   "headline": "Trump threatens to bomb Oman if it interferes with Iran deal",
   "topic": "trump threatens to bomb oman",
   "source": "Prothom Alo, Jamuna TV, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-17T23:07:44Z"
+  "status": "failed",
+  "at": "2026-08-17T23:07:44Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "687c49ee04f29f0c",
@@ -8353,8 +8363,13 @@
   "headline": "Trump threatens to bomb Oman if it interferes with Iran deal",
   "topic": "trump threatens to bomb oman",
   "source": "Prothom Alo, Jamuna TV, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-17T23:07:44Z"
+  "status": "failed",
+  "at": "2026-08-17T23:07:44Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "a70788eca4dbb895",
@@ -8362,8 +8377,13 @@
   "headline": "Argentine legend Claudio Caniggia says Bangladesh is one of the best for its passion",
   "topic": "caniggia on bangladesh football obsession",
   "source": "The Daily Star, Jamuna TV",
-  "status": "queued",
-  "at": "2026-08-17T23:07:44Z"
+  "status": "failed",
+  "at": "2026-08-17T23:07:44Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "295166cfa98ddb1d",
@@ -8371,7 +8391,12 @@
   "headline": "Argentine legend Claudio Caniggia says Bangladesh is one of the best for its passion",
   "topic": "caniggia on bangladesh football obsession",
   "source": "The Daily Star, Jamuna TV",
-  "status": "queued",
-  "at": "2026-08-17T23:07:44Z"
+  "status": "failed",
+  "at": "2026-08-17T23:07:44Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
