@@ -8335,8 +8335,13 @@
   "headline": "10 dead as 29 Bangladeshis drift to Egypt after 10 days at sea",
   "topic": "bangladeshis drift to egypt",
   "source": "Dhaka Tribune, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-17T08:06:27Z"
+  "status": "failed",
+  "at": "2026-08-17T08:06:27Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "43519d8d52fb3f3d",
@@ -8344,8 +8349,13 @@
   "headline": "10 dead as 29 Bangladeshis drift to Egypt after 10 days at sea",
   "topic": "bangladeshis drift to egypt",
   "source": "Dhaka Tribune, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-17T08:06:27Z"
+  "status": "failed",
+  "at": "2026-08-17T08:06:27Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "7f3527a5e45f640a",
@@ -8353,8 +8363,13 @@
   "headline": "India's envoy says PM Tarique's visit to India should take place much sooner",
   "topic": "tarique rahman india visit",
   "source": "Dhaka Tribune, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-17T08:06:27Z"
+  "status": "failed",
+  "at": "2026-08-17T08:06:27Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "4c2182bfed564037",
@@ -8362,8 +8377,13 @@
   "headline": "India's envoy says PM Tarique's visit to India should take place much sooner",
   "topic": "tarique rahman india visit",
   "source": "Dhaka Tribune, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-17T08:06:27Z"
+  "status": "failed",
+  "at": "2026-08-17T08:06:27Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "abd058af9e2f7cfb",
@@ -8371,7 +8391,12 @@
   "headline": "India's envoy says PM Tarique's visit to India should take place much sooner",
   "topic": "tarique rahman india visit",
   "source": "Dhaka Tribune, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-17T08:06:27Z"
+  "status": "failed",
+  "at": "2026-08-17T08:06:27Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
