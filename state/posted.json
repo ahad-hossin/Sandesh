@@ -1,61 +1,5 @@
 [
  {
-  "title_hash": "de2e64a3baeb8b4d",
-  "url": "https://www.thedailystar.net/news/accidents-fires/news/another-20-seconds-and-i-would-have-died-4247671",
-  "headline": "9 workers killed by toxic gas at Sitakunda shipbreaking yard",
-  "topic": "sitakunda shipbreaking gas poisoning",
-  "source": "The Daily Star, Prothom Alo, Jamuna TV, Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-08-14T16:02:32Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "2ea5a88817368d2e",
-  "url": "https://www.prothomalo.com/bangladesh/district/w7hy723ydn",
-  "headline": "9 workers killed by toxic gas at Sitakunda shipbreaking yard",
-  "topic": "sitakunda shipbreaking gas poisoning",
-  "source": "The Daily Star, Prothom Alo, Jamuna TV, Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-08-14T16:02:32Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "aa9e687520479636",
-  "url": "https://www.thedailystar.net/news/news/probe-body-be-formed-over-sitakunda-gas-poisoning-incident-finance-minister-4247616",
-  "headline": "9 workers killed by toxic gas at Sitakunda shipbreaking yard",
-  "topic": "sitakunda shipbreaking gas poisoning",
-  "source": "The Daily Star, Prothom Alo, Jamuna TV, Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-08-14T16:02:32Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "ab74bf60551e8f22",
-  "url": "https://www.jamuna.tv/all-bangladesh/662164",
-  "headline": "9 workers killed by toxic gas at Sitakunda shipbreaking yard",
-  "topic": "sitakunda shipbreaking gas poisoning",
-  "source": "The Daily Star, Prothom Alo, Jamuna TV, Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-08-14T16:02:32Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "49a51044c4d727e0",
   "url": "https://www.prothomalo.com/video/bangladesh/ctfdx55k61",
   "headline": "9 workers killed by toxic gas at Sitakunda shipbreaking yard",
@@ -8398,5 +8342,41 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "b7f31cbc21a7b91f",
+  "url": "https://www.jamuna.tv/national/662306",
+  "headline": "Storm and thundershowers expected in Dhaka and 13 other regions, river ports warned",
+  "topic": "Bangladesh storm warning",
+  "source": "Jamuna TV, Somoy News",
+  "status": "queued",
+  "at": "2026-08-17T03:08:22Z"
+ },
+ {
+  "title_hash": "faee116283678125",
+  "url": "https://www.somoynews.tv/news/2026-08-17/D814WKAz",
+  "headline": "Storm and thundershowers expected in Dhaka and 13 other regions, river ports warned",
+  "topic": "Bangladesh storm warning",
+  "source": "Jamuna TV, Somoy News",
+  "status": "queued",
+  "at": "2026-08-17T03:08:22Z"
+ },
+ {
+  "title_hash": "8efdcbc1888fc46e",
+  "url": "https://www.somoynews.tv/news/2026-08-16/ZEzTTA1K",
+  "headline": "Storm and thundershowers expected in Dhaka and 13 other regions, river ports warned",
+  "topic": "Bangladesh storm warning",
+  "source": "Jamuna TV, Somoy News",
+  "status": "queued",
+  "at": "2026-08-17T03:08:22Z"
+ },
+ {
+  "title_hash": "773e5c7a11105c9d",
+  "url": "https://www.prothomalo.com/education/9onabskd4u",
+  "headline": "Retired teachers and staff finally receive overdue retirement and welfare benefits after years of waiting",
+  "topic": "Teachers receive retirement funds",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-17T03:08:22Z"
  }
 ]
