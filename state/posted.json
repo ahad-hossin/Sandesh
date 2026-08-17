@@ -1,61 +1,5 @@
 [
  {
-  "title_hash": "11ebcf0a4dc8d5c2",
-  "url": "https://www.dhakatribune.com/bangladesh/417488/excelerate%E2%80%99s-lng-terminal-shuts-down-again",
-  "headline": "Shafiqur urges special parliament session over severe power and energy crisis",
-  "topic": "Bangladesh grapples with severe energy crisis, protests erupt",
-  "source": "The Daily Star, Dhaka Tribune, Jamuna TV, Somoy News",
-  "status": "failed",
-  "at": "2026-08-15T01:08:06Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "e20bd0dc17d2ccd3",
-  "url": "https://www.dhakatribune.com/bangladesh/power-energy/417480/shafiqur-urges-special-parliament-session-over",
-  "headline": "Shafiqur urges special parliament session over severe power and energy crisis",
-  "topic": "Bangladesh grapples with severe energy crisis, protests erupt",
-  "source": "The Daily Star, Dhaka Tribune, Jamuna TV, Somoy News",
-  "status": "failed",
-  "at": "2026-08-15T01:08:06Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "61def3e044e5ed07",
-  "url": "https://www.dhakatribune.com/bangladesh/417484/gas-crisis-stalls-industries-puts-bangladesh",
-  "headline": "Shafiqur urges special parliament session over severe power and energy crisis",
-  "topic": "Bangladesh grapples with severe energy crisis, protests erupt",
-  "source": "The Daily Star, Dhaka Tribune, Jamuna TV, Somoy News",
-  "status": "failed",
-  "at": "2026-08-15T01:08:06Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "cf92f4f5bcd6c827",
-  "url": "https://www.thedailystar.net/news/politics/news/convene-special-js-session-power-energy-crises-4247901",
-  "headline": "Shafiqur urges special parliament session over severe power and energy crisis",
-  "topic": "Bangladesh grapples with severe energy crisis, protests erupt",
-  "source": "The Daily Star, Dhaka Tribune, Jamuna TV, Somoy News",
-  "status": "failed",
-  "at": "2026-08-15T01:08:06Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "439fac04feaa51c7",
   "url": "https://www.dhakatribune.com/bangladesh/power-energy/417483/cng-crisis-drivers-queue-overnight-as-homes-go",
   "headline": "Shafiqur urges special parliament session over severe power and energy crisis",
@@ -8398,5 +8342,41 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "2109fa5e6460904b",
+  "url": "https://www.dhakatribune.com/bangladesh/court/417705/kaushik-debnath-sent-to-jail-in-bcs-question-leak",
+  "headline": "PSC official Kaushik Debnath sent to jail in BCS question leak case",
+  "topic": "bcs question leak jail",
+  "source": "Dhaka Tribune, Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-17T14:07:02Z"
+ },
+ {
+  "title_hash": "d17a2a3221f392a7",
+  "url": "https://www.prothomalo.com/bangladesh/jrv86ppjc9",
+  "headline": "PSC official Kaushik Debnath sent to jail in BCS question leak case",
+  "topic": "bcs question leak jail",
+  "source": "Dhaka Tribune, Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-17T14:07:02Z"
+ },
+ {
+  "title_hash": "9e2faf49501de15d",
+  "url": "https://www.thedailystar.net/news/bangladesh/diplomacy/news/mohammed-bin-salman-invites-tarique-rahman-saudi-arabia-talks-stronger-ties-4249936",
+  "headline": "Saudi Crown Prince invites PM Tarique Rahman to visit Saudi Arabia",
+  "topic": "tarique rahman saudi visit",
+  "source": "The Daily Star, Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-08-17T14:07:02Z"
+ },
+ {
+  "title_hash": "750bb09fed96745e",
+  "url": "https://www.dhakatribune.com/bangladesh/foreign-affairs/417692/saudi-crown-prince-invites-pm-tarique-to-visit",
+  "headline": "Saudi Crown Prince invites PM Tarique Rahman to visit Saudi Arabia",
+  "topic": "tarique rahman saudi visit",
+  "source": "The Daily Star, Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-08-17T14:07:02Z"
  }
 ]
