@@ -8335,8 +8335,13 @@
   "headline": "3 sentenced to death for killing AIUB student in Narayanganj",
   "topic": "aiub-student-killing-verdict",
   "source": "Dhaka Tribune, Somoy News",
-  "status": "queued",
-  "at": "2026-08-17T11:07:36Z"
+  "status": "failed",
+  "at": "2026-08-17T11:07:36Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "66c0e2218579e713",
@@ -8344,8 +8349,13 @@
   "headline": "3 sentenced to death for killing AIUB student in Narayanganj",
   "topic": "aiub-student-killing-verdict",
   "source": "Dhaka Tribune, Somoy News",
-  "status": "queued",
-  "at": "2026-08-17T11:07:36Z"
+  "status": "failed",
+  "at": "2026-08-17T11:07:36Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "6e4c2a8709660b61",
@@ -8353,8 +8363,13 @@
   "headline": "915 dead as 7 more die from measles symptoms in 24 hours",
   "topic": "measles-death-toll-915",
   "source": "Prothom Alo, Dhaka Tribune, Somoy News",
-  "status": "queued",
-  "at": "2026-08-17T11:07:36Z"
+  "status": "failed",
+  "at": "2026-08-17T11:07:36Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "8d95fe6f14a01c73",
@@ -8362,8 +8377,13 @@
   "headline": "915 dead as 7 more die from measles symptoms in 24 hours",
   "topic": "measles-death-toll-915",
   "source": "Prothom Alo, Dhaka Tribune, Somoy News",
-  "status": "queued",
-  "at": "2026-08-17T11:07:36Z"
+  "status": "failed",
+  "at": "2026-08-17T11:07:36Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "0e000722484f740e",
@@ -8371,7 +8391,12 @@
   "headline": "915 dead as 7 more die from measles symptoms in 24 hours",
   "topic": "measles-death-toll-915",
   "source": "Prothom Alo, Dhaka Tribune, Somoy News",
-  "status": "queued",
-  "at": "2026-08-17T11:07:36Z"
+  "status": "failed",
+  "at": "2026-08-17T11:07:36Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
