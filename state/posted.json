@@ -8307,8 +8307,13 @@
   "headline": "Australia's coach admits Bangladesh wins first Test in Australia",
   "topic": "bangladesh beats australia test",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-17T20:07:00Z"
+  "status": "failed",
+  "at": "2026-08-17T20:07:00Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "5102520540c7a040",
@@ -8316,8 +8321,13 @@
   "headline": "Australia's coach admits Bangladesh wins first Test in Australia",
   "topic": "bangladesh beats australia test",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-17T20:07:00Z"
+  "status": "failed",
+  "at": "2026-08-17T20:07:00Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "c397eb382584350b",
@@ -8325,8 +8335,13 @@
   "headline": "Australia's coach admits Bangladesh wins first Test in Australia",
   "topic": "bangladesh beats australia test",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-17T20:07:00Z"
+  "status": "failed",
+  "at": "2026-08-17T20:07:00Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "2cd86d47af7af43b",
@@ -8334,8 +8349,13 @@
   "headline": "Cabinet approves draft to abolish RAB and form SRB",
   "topic": "rab abolished srb formed",
   "source": "Jamuna TV, Dhaka Tribune, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-17T20:07:00Z"
+  "status": "failed",
+  "at": "2026-08-17T20:07:00Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "12743f77c6a4c52c",
@@ -8343,8 +8363,13 @@
   "headline": "Cabinet approves draft to abolish RAB and form SRB",
   "topic": "rab abolished srb formed",
   "source": "Jamuna TV, Dhaka Tribune, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-17T20:07:00Z"
+  "status": "failed",
+  "at": "2026-08-17T20:07:00Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "c4b7f80e867c667c",
@@ -8352,8 +8377,13 @@
   "headline": "Cabinet approves draft to abolish RAB and form SRB",
   "topic": "rab abolished srb formed",
   "source": "Jamuna TV, Dhaka Tribune, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-17T20:07:00Z"
+  "status": "failed",
+  "at": "2026-08-17T20:07:00Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "d927e88addb0e500",
@@ -8361,7 +8391,12 @@
   "headline": "Cabinet approves draft to abolish RAB and form SRB",
   "topic": "rab abolished srb formed",
   "source": "Jamuna TV, Dhaka Tribune, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-17T20:07:00Z"
+  "status": "failed",
+  "at": "2026-08-17T20:07:00Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
