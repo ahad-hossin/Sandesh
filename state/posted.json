@@ -1,75 +1,5 @@
 [
  {
-  "title_hash": "c0550a0c353d8f5d",
-  "url": "https://www.prothomalo.com/video/sports/iwb03y6k0w",
-  "headline": "Tanzid Hasan scores century; Bangladesh hit 100s in all Test-playing nations",
-  "topic": "bangladesh dominance australia test",
-  "source": "Prothom Alo, Somoy News",
-  "status": "failed",
-  "at": "2026-08-14T19:06:39Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "1d25218ccc341929",
-  "url": "https://www.prothomalo.com/sports/cricket/luwim5nstz",
-  "headline": "Tanzid Hasan scores century; Bangladesh hit 100s in all Test-playing nations",
-  "topic": "bangladesh dominance australia test",
-  "source": "Prothom Alo, Somoy News",
-  "status": "failed",
-  "at": "2026-08-14T19:06:39Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "a7542167cbf02406",
-  "url": "https://www.somoynews.tv/news/2026-08-14/R4TNI6PK",
-  "headline": "Tanzid Hasan scores century; Bangladesh hit 100s in all Test-playing nations",
-  "topic": "bangladesh dominance australia test",
-  "source": "Prothom Alo, Somoy News",
-  "status": "failed",
-  "at": "2026-08-14T19:06:39Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "e20bd0dc17d2ccd3",
-  "url": "https://www.dhakatribune.com/bangladesh/power-energy/417480/shafiqur-urges-special-parliament-session-over",
-  "headline": "Opposition leader urges special parliament session over energy crisis",
-  "topic": "special parliament session energy crisis",
-  "source": "Dhaka Tribune, Jamuna TV, The Daily Star, Somoy News, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-14T19:06:39Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "956c748bcb5561bb",
-  "url": "https://www.jamuna.tv/national/662184",
-  "headline": "Opposition leader urges special parliament session over energy crisis",
-  "topic": "special parliament session energy crisis",
-  "source": "Dhaka Tribune, Jamuna TV, The Daily Star, Somoy News, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-14T19:06:39Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "20e3c9079fb5194f",
   "url": "https://www.thedailystar.net/news/politics/news/shafiqur-calls-special-parliament-session-amid-energy-crisis-4247776",
   "headline": "Opposition leader urges special parliament session over energy crisis",
@@ -8398,5 +8328,50 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "004b7ef8a18ff37b",
+  "url": "https://www.thedailystar.net/news/crime-justice/news/remains-12-slaughtered-horses-found-gazipur-4249706",
+  "headline": "Remains of 12 slaughtered horses found in Gazipur forest",
+  "topic": "slaughtered horses found in gazipur",
+  "source": "Jamuna TV, The Daily Star, Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-17T09:06:46Z"
+ },
+ {
+  "title_hash": "c7b9033f2095767a",
+  "url": "https://www.jamuna.tv/all-bangladesh/662332",
+  "headline": "Remains of 12 slaughtered horses found in Gazipur forest",
+  "topic": "slaughtered horses found in gazipur",
+  "source": "Jamuna TV, The Daily Star, Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-17T09:06:46Z"
+ },
+ {
+  "title_hash": "aca6f278d2d20427",
+  "url": "https://www.prothomalo.com/bangladesh/district/2tgvgwpyi4",
+  "headline": "Remains of 12 slaughtered horses found in Gazipur forest",
+  "topic": "slaughtered horses found in gazipur",
+  "source": "Jamuna TV, The Daily Star, Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-17T09:06:46Z"
+ },
+ {
+  "title_hash": "e5347b4630fdf40d",
+  "url": "https://www.jamuna.tv/national/662333",
+  "headline": "UN report on Al-Qaeda in Bangladesh is speculative, says Home Minister",
+  "topic": "al-qaeda report and airtel rebranding",
+  "source": "Jamuna TV",
+  "status": "queued",
+  "at": "2026-08-17T09:06:46Z"
+ },
+ {
+  "title_hash": "6ed2434450a925a6",
+  "url": "https://www.jamuna.tv/technology/662329",
+  "headline": "UN report on Al-Qaeda in Bangladesh is speculative, says Home Minister",
+  "topic": "al-qaeda report and airtel rebranding",
+  "source": "Jamuna TV",
+  "status": "queued",
+  "at": "2026-08-17T09:06:46Z"
  }
 ]
