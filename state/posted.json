@@ -1,61 +1,5 @@
 [
  {
-  "title_hash": "4a8d82dbc459f49b",
-  "url": "https://www.jamuna.tv/national/662254",
-  "headline": "EC validates nominations of Mirza Fakhrul and Oli Ahmed for presidential poll",
-  "topic": "presidential election nomination scrutiny",
-  "source": "Jamuna TV, Dhaka Tribune, The Daily Star, Somoy News, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-16T07:07:16Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "f6ef3304ab2e255f",
-  "url": "https://www.somoynews.tv/news/2026-08-16/B8z6xv68",
-  "headline": "EC validates nominations of Mirza Fakhrul and Oli Ahmed for presidential poll",
-  "topic": "presidential election nomination scrutiny",
-  "source": "Jamuna TV, Dhaka Tribune, The Daily Star, Somoy News, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-16T07:07:16Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "12479027faa7ccef",
-  "url": "https://www.prothomalo.com/politics/wglkg5ee0r",
-  "headline": "EC validates nominations of Mirza Fakhrul and Oli Ahmed for presidential poll",
-  "topic": "presidential election nomination scrutiny",
-  "source": "Jamuna TV, Dhaka Tribune, The Daily Star, Somoy News, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-16T07:07:16Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "ba4f538b6a544f3c",
-  "url": "https://www.prothomalo.com/politics/prmzpdrfdv",
-  "headline": "EC validates nominations of Mirza Fakhrul and Oli Ahmed for presidential poll",
-  "topic": "presidential election nomination scrutiny",
-  "source": "Jamuna TV, Dhaka Tribune, The Daily Star, Somoy News, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-16T07:07:16Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "0c09b35ecd27c58d",
   "url": "https://www.thedailystar.net/news/bangladesh/elections/news/ec-validates-mirza-fakhrul-oli-ahmeds-nominations-presidential-election-4248916",
   "headline": "EC validates nominations of Mirza Fakhrul and Oli Ahmed for presidential poll",
@@ -8398,5 +8342,41 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "7de94b51b985f2eb",
+  "url": "https://www.somoynews.tv/news/2026-08-18/98zJUUQ8",
+  "headline": "Major shift in civil service: PSC Chairman resigns",
+  "topic": "psc chairman resigns",
+  "source": "Somoy News",
+  "status": "queued",
+  "at": "2026-08-18T22:06:25Z"
+ },
+ {
+  "title_hash": "8bbacb9b6118d224",
+  "url": "https://www.dhakatribune.com/bangladesh/dhaka/417805/dipu-moni%E2%80%99s-husband-toufiq-nawaz-dies",
+  "headline": "Senior lawyer Tawfique Nawaz dies at 79 in Dhaka",
+  "topic": "dipu moni husband dies",
+  "source": "Dhaka Tribune, The Daily Star, Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-18T22:06:25Z"
+ },
+ {
+  "title_hash": "ad49bef6ab9ce31b",
+  "url": "https://www.thedailystar.net/news/news/tawfique-nawaz-husband-dipu-moni-dies-dhaka-4251241",
+  "headline": "Senior lawyer Tawfique Nawaz dies at 79 in Dhaka",
+  "topic": "dipu moni husband dies",
+  "source": "Dhaka Tribune, The Daily Star, Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-18T22:06:25Z"
+ },
+ {
+  "title_hash": "9be71bfd20bb9559",
+  "url": "https://www.prothomalo.com/bangladesh/l4h8umn04h",
+  "headline": "Senior lawyer Tawfique Nawaz dies at 79 in Dhaka",
+  "topic": "dipu moni husband dies",
+  "source": "Dhaka Tribune, The Daily Star, Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-18T22:06:25Z"
  }
 ]
