@@ -1,61 +1,5 @@
 [
  {
-  "title_hash": "374e612c987bac92",
-  "url": "https://www.dhakatribune.com/bangladesh/417508/myanmar-clarifies-account-of-displaced-persons",
-  "headline": "Myanmar disputes 1 million Rohingya figure, rejects refugees’ origin claims",
-  "topic": "myanmar rohingya figure dispute",
-  "source": "Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-08-15T10:07:39Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "0a7c9a823bf3900d",
-  "url": "https://www.thedailystar.net/sports/cricket/news/shanto-focused-process-not-result-despite-being-top-4248151",
-  "headline": "Tigers in control: Bangladesh lead by 67 runs with 6 wickets left in Darwin Test",
-  "topic": "bangladesh vs australia darwin test",
-  "source": "Jamuna TV, The Daily Star, Prothom Alo, Somoy News",
-  "status": "failed",
-  "at": "2026-08-15T11:06:48Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "ff140f88bb741bd9",
-  "url": "https://www.jamuna.tv/sports/662223",
-  "headline": "Tigers in control: Bangladesh lead by 67 runs with 6 wickets left in Darwin Test",
-  "topic": "bangladesh vs australia darwin test",
-  "source": "Jamuna TV, The Daily Star, Prothom Alo, Somoy News",
-  "status": "failed",
-  "at": "2026-08-15T11:06:48Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "1f9e20b9296c6c98",
-  "url": "https://www.prothomalo.com/sports/cricket/oiemaqbkuu",
-  "headline": "Tigers in control: Bangladesh lead by 67 runs with 6 wickets left in Darwin Test",
-  "topic": "bangladesh vs australia darwin test",
-  "source": "Jamuna TV, The Daily Star, Prothom Alo, Somoy News",
-  "status": "failed",
-  "at": "2026-08-15T11:06:48Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "47fb22d73014c1d5",
   "url": "https://www.thedailystar.net/sports/cricket/news/hazlewood-sees-bangladesh-blueprint-australia-4248126",
   "headline": "Tigers in control: Bangladesh lead by 67 runs with 6 wickets left in Darwin Test",
@@ -8398,5 +8342,41 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "17fac645d17965e7",
+  "url": "https://www.thedailystar.net/news/bangladesh/news/9th-pay-scale-100-basic-pay-hike-proposed-4250386",
+  "headline": "Up to 100% basic pay hike proposed for govt employees under 9th Pay Scale",
+  "topic": "Govt Pay Hike Recommendation",
+  "source": "Jamuna TV, The Daily Star",
+  "status": "queued",
+  "at": "2026-08-18T03:06:11Z"
+ },
+ {
+  "title_hash": "524f37fff5001715",
+  "url": "https://www.jamuna.tv/national/662376",
+  "headline": "Up to 100% basic pay hike proposed for govt employees under 9th Pay Scale",
+  "topic": "Govt Pay Hike Recommendation",
+  "source": "Jamuna TV, The Daily Star",
+  "status": "queued",
+  "at": "2026-08-18T03:06:11Z"
+ },
+ {
+  "title_hash": "155f29f1bc4a471c",
+  "url": "https://www.thedailystar.net/news/bangladesh/news/gas-supply-improves-industries-still-struggle-4250406",
+  "headline": "Uncertainty looms over LNG cargo delivery as industries still struggle with gas shortages",
+  "topic": "LNG Gas Supply Crisis",
+  "source": "Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-08-18T03:06:11Z"
+ },
+ {
+  "title_hash": "99041508d746ac06",
+  "url": "https://www.prothomalo.com/bangladesh/i4jqvvd3bm",
+  "headline": "Uncertainty looms over LNG cargo delivery as industries still struggle with gas shortages",
+  "topic": "LNG Gas Supply Crisis",
+  "source": "Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-08-18T03:06:11Z"
  }
 ]
