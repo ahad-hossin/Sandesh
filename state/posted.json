@@ -8335,8 +8335,13 @@
   "headline": "India to give Prime Minister Tarique Rahman a memorable welcome on visit",
   "topic": "tarique rahman india visit reception",
   "source": "Prothom Alo, Dhaka Tribune, Somoy News",
-  "status": "queued",
-  "at": "2026-08-18T19:09:38Z"
+  "status": "failed",
+  "at": "2026-08-18T19:09:38Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "0649586a88cda783",
@@ -8344,8 +8349,13 @@
   "headline": "India to give Prime Minister Tarique Rahman a memorable welcome on visit",
   "topic": "tarique rahman india visit reception",
   "source": "Prothom Alo, Dhaka Tribune, Somoy News",
-  "status": "queued",
-  "at": "2026-08-18T19:09:38Z"
+  "status": "failed",
+  "at": "2026-08-18T19:09:38Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "8152f5c1f6aa2fe1",
@@ -8353,8 +8363,13 @@
   "headline": "India to give Prime Minister Tarique Rahman a memorable welcome on visit",
   "topic": "tarique rahman india visit reception",
   "source": "Prothom Alo, Dhaka Tribune, Somoy News",
-  "status": "queued",
-  "at": "2026-08-18T19:09:38Z"
+  "status": "failed",
+  "at": "2026-08-18T19:09:38Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "09818b5ffacb897d",
@@ -8362,8 +8377,13 @@
   "headline": "India to give Prime Minister Tarique Rahman a memorable welcome on visit",
   "topic": "tarique rahman india visit reception",
   "source": "Prothom Alo, Dhaka Tribune, Somoy News",
-  "status": "queued",
-  "at": "2026-08-18T19:09:38Z"
+  "status": "failed",
+  "at": "2026-08-18T19:09:38Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "27942d4015649769",
@@ -8371,7 +8391,12 @@
   "headline": "Interpol red notice sought for former army chief Aziz Ahmed",
   "topic": "interpol red notice for army chief aziz",
   "source": "The Daily Star",
-  "status": "queued",
-  "at": "2026-08-18T19:09:38Z"
+  "status": "failed",
+  "at": "2026-08-18T19:09:38Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
