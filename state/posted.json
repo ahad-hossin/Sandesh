@@ -8363,8 +8363,13 @@
   "headline": "Baba Ramdev claims Bangladesh, Pakistan, and Afghanistan will become part of India",
   "topic": "ramdev claims bangladesh pakistan india part",
   "source": "Somoy News",
-  "status": "queued",
-  "at": "2026-08-18T11:07:44Z"
+  "status": "failed",
+  "at": "2026-08-18T11:07:44Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "cc5695a8e2b059da",
@@ -8372,8 +8377,13 @@
   "headline": "Storm alert: 4 sea ports put on signal 3 as coastal winds rise",
   "topic": "storm warning signal 3 ports",
   "source": "Somoy News, Jamuna TV",
-  "status": "queued",
-  "at": "2026-08-18T11:07:44Z"
+  "status": "failed",
+  "at": "2026-08-18T11:07:44Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "8070320f48086163",
@@ -8381,7 +8391,12 @@
   "headline": "Storm alert: 4 sea ports put on signal 3 as coastal winds rise",
   "topic": "storm warning signal 3 ports",
   "source": "Somoy News, Jamuna TV",
-  "status": "queued",
-  "at": "2026-08-18T11:07:44Z"
+  "status": "failed",
+  "at": "2026-08-18T11:07:44Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
