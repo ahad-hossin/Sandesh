@@ -1,75 +1,5 @@
 [
  {
-  "title_hash": "7b1c0e20f06c7d97",
-  "url": "https://www.thedailystar.net/sports/cricket/news/pm-congratulates-tigers-historic-test-win-australia-4248881",
-  "headline": "Historic win: Bangladesh beat Australia in Test for the first time in Darwin",
-  "topic": "bangladesh historic test win australia",
-  "source": "Jamuna TV, Prothom Alo, The Daily Star, Somoy News",
-  "status": "failed",
-  "at": "2026-08-16T07:07:16Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "f122c16c3471b3f7",
-  "url": "https://www.dhakatribune.com/bangladesh/election/417560/presidential-election-oli-ahmed%E2%80%99s-nomination",
-  "headline": "EC validates nominations of Mirza Fakhrul and Oli Ahmed for presidential poll",
-  "topic": "presidential election nomination scrutiny",
-  "source": "Jamuna TV, Dhaka Tribune, The Daily Star, Somoy News, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-16T07:07:16Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "81ed9d795edd4d25",
-  "url": "https://www.jamuna.tv/national/662259",
-  "headline": "EC validates nominations of Mirza Fakhrul and Oli Ahmed for presidential poll",
-  "topic": "presidential election nomination scrutiny",
-  "source": "Jamuna TV, Dhaka Tribune, The Daily Star, Somoy News, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-16T07:07:16Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "21cb37dd936ff904",
-  "url": "https://www.thedailystar.net/news/bangladesh/elections/news/scrutiny-presidential-election-nominations-underway-4248861",
-  "headline": "EC validates nominations of Mirza Fakhrul and Oli Ahmed for presidential poll",
-  "topic": "presidential election nomination scrutiny",
-  "source": "Jamuna TV, Dhaka Tribune, The Daily Star, Somoy News, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-16T07:07:16Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "569b7c39f43149c1",
-  "url": "https://www.dhakatribune.com/bangladesh/417556/presidential-election-nominations-to-be",
-  "headline": "EC validates nominations of Mirza Fakhrul and Oli Ahmed for presidential poll",
-  "topic": "presidential election nomination scrutiny",
-  "source": "Jamuna TV, Dhaka Tribune, The Daily Star, Somoy News, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-16T07:07:16Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "4a8d82dbc459f49b",
   "url": "https://www.jamuna.tv/national/662254",
   "headline": "EC validates nominations of Mirza Fakhrul and Oli Ahmed for presidential poll",
@@ -8398,5 +8328,50 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "8bbacb9b6118d224",
+  "url": "https://www.dhakatribune.com/bangladesh/dhaka/417805/dipu-moni%E2%80%99s-husband-toufiq-nawaz-dies",
+  "headline": "Tawfique Nawaz, husband of Dipu Moni, dies at 79",
+  "topic": "dipu moni husband dies",
+  "source": "Dhaka Tribune, The Daily Star, Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-18T21:07:16Z"
+ },
+ {
+  "title_hash": "ad49bef6ab9ce31b",
+  "url": "https://www.thedailystar.net/news/news/tawfique-nawaz-husband-dipu-moni-dies-dhaka-4251241",
+  "headline": "Tawfique Nawaz, husband of Dipu Moni, dies at 79",
+  "topic": "dipu moni husband dies",
+  "source": "Dhaka Tribune, The Daily Star, Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-18T21:07:16Z"
+ },
+ {
+  "title_hash": "9be71bfd20bb9559",
+  "url": "https://www.prothomalo.com/bangladesh/l4h8umn04h",
+  "headline": "Tawfique Nawaz, husband of Dipu Moni, dies at 79",
+  "topic": "dipu moni husband dies",
+  "source": "Dhaka Tribune, The Daily Star, Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-18T21:07:16Z"
+ },
+ {
+  "title_hash": "38e90d14c5f0f06f",
+  "url": "https://www.dhakatribune.com/bangladesh/dhaka/417804/women-only-%E2%80%98pink-bus%E2%80%99-service-launched",
+  "headline": "BRTC launches women-only ‘Pink Bus’ service with female drivers",
+  "topic": "women only pink bus",
+  "source": "Dhaka Tribune, The Daily Star",
+  "status": "queued",
+  "at": "2026-08-18T21:07:16Z"
+ },
+ {
+  "title_hash": "89cffb850539c16f",
+  "url": "https://www.thedailystar.net/news/bangladesh/news/pink-bus-puts-women-the-driving-seat-4251046",
+  "headline": "BRTC launches women-only ‘Pink Bus’ service with female drivers",
+  "topic": "women only pink bus",
+  "source": "Dhaka Tribune, The Daily Star",
+  "status": "queued",
+  "at": "2026-08-18T21:07:16Z"
  }
 ]
