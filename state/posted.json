@@ -8349,8 +8349,13 @@
   "headline": "Up to 100% basic pay hike proposed for govt employees under 9th Pay Scale",
   "topic": "Govt Pay Hike Recommendation",
   "source": "Jamuna TV, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-18T03:06:11Z"
+  "status": "failed",
+  "at": "2026-08-18T03:06:11Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "524f37fff5001715",
@@ -8358,8 +8363,13 @@
   "headline": "Up to 100% basic pay hike proposed for govt employees under 9th Pay Scale",
   "topic": "Govt Pay Hike Recommendation",
   "source": "Jamuna TV, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-18T03:06:11Z"
+  "status": "failed",
+  "at": "2026-08-18T03:06:11Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "155f29f1bc4a471c",
@@ -8367,8 +8377,13 @@
   "headline": "Uncertainty looms over LNG cargo delivery as industries still struggle with gas shortages",
   "topic": "LNG Gas Supply Crisis",
   "source": "Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-18T03:06:11Z"
+  "status": "failed",
+  "at": "2026-08-18T03:06:11Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "99041508d746ac06",
@@ -8376,7 +8391,12 @@
   "headline": "Uncertainty looms over LNG cargo delivery as industries still struggle with gas shortages",
   "topic": "LNG Gas Supply Crisis",
   "source": "Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-18T03:06:11Z"
+  "status": "failed",
+  "at": "2026-08-18T03:06:11Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
