@@ -1,47 +1,5 @@
 [
  {
-  "title_hash": "bc0f23244f0d14a4",
-  "url": "https://www.prothomalo.com/sports/other-sports/863y021jyt",
-  "headline": "2 female athletes banned for life and medals stripped after being proven male",
-  "topic": "female athletes proven male",
-  "source": "Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-15T18:08:31Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "02cc302153d2ce1f",
-  "url": "https://www.dhakatribune.com/bangladesh/power-energy/417549/gas-crisis-brings-daily-life-to-a-standstill",
-  "headline": "Severe gas crisis brings daily life to a standstill in Bangladesh",
-  "topic": "gas crisis daily life",
-  "source": "Dhaka Tribune, Somoy News",
-  "status": "failed",
-  "at": "2026-08-15T18:08:31Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "5b1b841127aab304",
-  "url": "https://www.somoynews.tv/news/2026-08-15/LMYVVys7",
-  "headline": "Severe gas crisis brings daily life to a standstill in Bangladesh",
-  "topic": "gas crisis daily life",
-  "source": "Dhaka Tribune, Somoy News",
-  "status": "failed",
-  "at": "2026-08-15T18:08:31Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "dd631cdae0daa6ca",
   "url": "https://www.jamuna.tv/all-bangladesh/662242",
   "headline": "Kushtia: MP Amir Hamza's car vandalized during clash between supporters",
@@ -8398,5 +8356,32 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "d37b8e8ad5422ded",
+  "url": "https://www.somoynews.tv/news/2026-08-18/GIQLvB5w",
+  "headline": "Baba Ramdev claims Bangladesh, Pakistan, and Afghanistan will become part of India",
+  "topic": "ramdev claims bangladesh pakistan india part",
+  "source": "Somoy News",
+  "status": "queued",
+  "at": "2026-08-18T11:07:44Z"
+ },
+ {
+  "title_hash": "cc5695a8e2b059da",
+  "url": "https://www.somoynews.tv/news/2026-08-18/IUW1tF54",
+  "headline": "Storm alert: 4 sea ports put on signal 3 as coastal winds rise",
+  "topic": "storm warning signal 3 ports",
+  "source": "Somoy News, Jamuna TV",
+  "status": "queued",
+  "at": "2026-08-18T11:07:44Z"
+ },
+ {
+  "title_hash": "8070320f48086163",
+  "url": "https://www.jamuna.tv/weather/662395",
+  "headline": "Storm alert: 4 sea ports put on signal 3 as coastal winds rise",
+  "topic": "storm warning signal 3 ports",
+  "source": "Somoy News, Jamuna TV",
+  "status": "queued",
+  "at": "2026-08-18T11:07:44Z"
  }
 ]
