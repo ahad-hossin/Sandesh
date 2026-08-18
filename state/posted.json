@@ -8363,8 +8363,13 @@
   "headline": "4 cocktail-like objects found in bag on Dhaka's Elephant Road",
   "topic": "cocktail objects found Dhaka",
   "source": "Jamuna TV, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-18T01:08:25Z"
+  "status": "failed",
+  "at": "2026-08-18T01:08:25Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "4dfcf62e17b29f01",
@@ -8372,8 +8377,13 @@
   "headline": "4 cocktail-like objects found in bag on Dhaka's Elephant Road",
   "topic": "cocktail objects found Dhaka",
   "source": "Jamuna TV, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-18T01:08:25Z"
+  "status": "failed",
+  "at": "2026-08-18T01:08:25Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "3f0fd4089522b10b",
@@ -8381,7 +8391,12 @@
   "headline": "Meta sued by 30 US states over youth mental health and privacy, faces $1T+ claim",
   "topic": "lawsuit against Meta for platform changes",
   "source": "Jamuna TV",
-  "status": "queued",
-  "at": "2026-08-18T01:08:25Z"
+  "status": "failed",
+  "at": "2026-08-18T01:08:25Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
