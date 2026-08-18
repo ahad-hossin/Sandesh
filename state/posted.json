@@ -1,47 +1,5 @@
 [
  {
-  "title_hash": "efb083f8ba3554cb",
-  "url": "https://www.thedailystar.net/health/disease/news/death-toll-crosses-900-8-more-die-measles-symptoms-24hrs-4248131",
-  "headline": "Over 900 children die from measles-like symptoms this year",
-  "topic": "measles death toll rise",
-  "source": "The Daily Star, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-15T10:07:39Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "6195fd7d221fab64",
-  "url": "https://www.jamuna.tv/health/662216",
-  "headline": "Over 900 children die from measles-like symptoms this year",
-  "topic": "measles death toll rise",
-  "source": "The Daily Star, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-15T10:07:39Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "eb7048f6e0f1ff9f",
-  "url": "https://www.prothomalo.com/bangladesh/17gjd2yc95",
-  "headline": "Over 900 children die from measles-like symptoms this year",
-  "topic": "measles death toll rise",
-  "source": "The Daily Star, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-15T10:07:39Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "374e612c987bac92",
   "url": "https://www.dhakatribune.com/bangladesh/417508/myanmar-clarifies-account-of-displaced-persons",
   "headline": "Myanmar disputes 1 million Rohingya figure, rejects refugees’ origin claims",
@@ -8398,5 +8356,32 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "a70788eca4dbb895",
+  "url": "https://www.thedailystar.net/sports/football/news/bangladesh-one-the-best-caniggia-bangladeshs-argentina-obsession-4250341",
+  "headline": "Bangladesh can qualify for World Cup, says Argentine legend Caniggia, praising nation's 'best' passion",
+  "topic": "argentine caniggia on bangladesh football",
+  "source": "Jamuna TV, The Daily Star",
+  "status": "queued",
+  "at": "2026-08-18T02:08:06Z"
+ },
+ {
+  "title_hash": "19fcff0df912da5c",
+  "url": "https://www.jamuna.tv/sports/662375",
+  "headline": "Bangladesh can qualify for World Cup, says Argentine legend Caniggia, praising nation's 'best' passion",
+  "topic": "argentine caniggia on bangladesh football",
+  "source": "Jamuna TV, The Daily Star",
+  "status": "queued",
+  "at": "2026-08-18T02:08:06Z"
+ },
+ {
+  "title_hash": "5fd05d954dc49c0a",
+  "url": "https://www.prothomalo.com/bangladesh/district/cxqrxggpup",
+  "headline": "Rabiul succeeds in sheep farming, earns BDT 40 lakh annually in Nilphamari",
+  "topic": "successful dumba farming in bangladesh",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-18T02:08:06Z"
  }
 ]
