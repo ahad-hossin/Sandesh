@@ -8363,8 +8363,13 @@
   "headline": "Bangladesh can qualify for World Cup, says Argentine legend Caniggia, praising nation's 'best' passion",
   "topic": "argentine caniggia on bangladesh football",
   "source": "Jamuna TV, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-18T02:08:06Z"
+  "status": "failed",
+  "at": "2026-08-18T02:08:06Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "19fcff0df912da5c",
@@ -8372,8 +8377,13 @@
   "headline": "Bangladesh can qualify for World Cup, says Argentine legend Caniggia, praising nation's 'best' passion",
   "topic": "argentine caniggia on bangladesh football",
   "source": "Jamuna TV, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-18T02:08:06Z"
+  "status": "failed",
+  "at": "2026-08-18T02:08:06Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "5fd05d954dc49c0a",
@@ -8381,7 +8391,12 @@
   "headline": "Rabiul succeeds in sheep farming, earns BDT 40 lakh annually in Nilphamari",
   "topic": "successful dumba farming in bangladesh",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-18T02:08:06Z"
+  "status": "failed",
+  "at": "2026-08-18T02:08:06Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
