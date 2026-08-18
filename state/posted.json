@@ -8377,8 +8377,13 @@
   "headline": "Groom left without marrying after not getting goat meat at wedding event",
   "topic": "Groom leaves wedding over mutton",
   "source": "Somoy News",
-  "status": "queued",
-  "at": "2026-08-18T00:07:17Z"
+  "status": "failed",
+  "at": "2026-08-18T00:07:17Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "453141c2fadcf9fa",
@@ -8386,7 +8391,12 @@
   "headline": "Former freedom fighter commander alleges Awami League forcibly made innocent people Razakars",
   "topic": "Ex-FF alleges AL forced Razakars",
   "source": "Somoy News",
-  "status": "queued",
-  "at": "2026-08-18T00:07:17Z"
+  "status": "failed",
+  "at": "2026-08-18T00:07:17Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
