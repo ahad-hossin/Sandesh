@@ -1,47 +1,5 @@
 [
  {
-  "title_hash": "5fcb1e103e0ac240",
-  "url": "https://www.prothomalo.com/video/bangladesh/70d2wld39m",
-  "headline": "Man detained for attempting to place flowers at Dhanmondi 32 ruins",
-  "topic": "dhanmondi 32 security",
-  "source": "Dhaka Tribune, The Daily Star, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-15T09:07:34Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "d32454c26313126c",
-  "url": "https://www.prothomalo.com/bangladesh/capital/s1jjr7uawo",
-  "headline": "Man detained for attempting to place flowers at Dhanmondi 32 ruins",
-  "topic": "dhanmondi 32 security",
-  "source": "Dhaka Tribune, The Daily Star, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-15T09:07:34Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "2a70c6fa35064316",
-  "url": "https://www.prothomalo.com/bangladesh/cfbbggiiep",
-  "headline": "Man detained for attempting to place flowers at Dhanmondi 32 ruins",
-  "topic": "dhanmondi 32 security",
-  "source": "Dhaka Tribune, The Daily Star, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-15T09:07:34Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "efb083f8ba3554cb",
   "url": "https://www.thedailystar.net/health/disease/news/death-toll-crosses-900-8-more-die-measles-symptoms-24hrs-4248131",
   "headline": "Over 900 children die from measles-like symptoms this year",
@@ -8398,5 +8356,32 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "3412211a15ff3ee1",
+  "url": "https://www.thedailystar.net/news/crime-justice/news/4-cocktail-objects-found-bag-dhakas-elephant-road-4250331",
+  "headline": "4 cocktail-like objects found in bag on Dhaka's Elephant Road",
+  "topic": "cocktail objects found Dhaka",
+  "source": "Jamuna TV, The Daily Star",
+  "status": "queued",
+  "at": "2026-08-18T01:08:25Z"
+ },
+ {
+  "title_hash": "4dfcf62e17b29f01",
+  "url": "https://www.jamuna.tv/national/662372",
+  "headline": "4 cocktail-like objects found in bag on Dhaka's Elephant Road",
+  "topic": "cocktail objects found Dhaka",
+  "source": "Jamuna TV, The Daily Star",
+  "status": "queued",
+  "at": "2026-08-18T01:08:25Z"
+ },
+ {
+  "title_hash": "3f0fd4089522b10b",
+  "url": "https://www.jamuna.tv/international/662371",
+  "headline": "Meta sued by 30 US states over youth mental health and privacy, faces $1T+ claim",
+  "topic": "lawsuit against Meta for platform changes",
+  "source": "Jamuna TV",
+  "status": "queued",
+  "at": "2026-08-18T01:08:25Z"
  }
 ]
