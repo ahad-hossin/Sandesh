@@ -1,33 +1,5 @@
 [
  {
-  "title_hash": "0c09b35ecd27c58d",
-  "url": "https://www.thedailystar.net/news/bangladesh/elections/news/ec-validates-mirza-fakhrul-oli-ahmeds-nominations-presidential-election-4248916",
-  "headline": "EC validates nominations of Mirza Fakhrul and Oli Ahmed for presidential poll",
-  "topic": "presidential election nomination scrutiny",
-  "source": "Jamuna TV, Dhaka Tribune, The Daily Star, Somoy News, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-16T07:07:16Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "2fbd2b7cc7ef06f3",
-  "url": "https://www.prothomalo.com/fun/ihmw9i5n7s",
-  "headline": "EC validates nominations of Mirza Fakhrul and Oli Ahmed for presidential poll",
-  "topic": "presidential election nomination scrutiny",
-  "source": "Jamuna TV, Dhaka Tribune, The Daily Star, Somoy News, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-16T07:07:16Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "5efa88f657d43af7",
   "url": "https://www.thedailystar.net/sports/cricket/news/they-outplayed-us-all-facets-cummins-admits-after-darwin-defeat-4248911",
   "headline": "Historic win: Bangladesh beat Australia by 9 wickets in Darwin Test",
@@ -8398,5 +8370,23 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "7de94b51b985f2eb",
+  "url": "https://www.somoynews.tv/news/2026-08-18/98zJUUQ8",
+  "headline": "Major shift in civil service: PSC Chairman resigns",
+  "topic": "psc_chairman_resigns",
+  "source": "Somoy News",
+  "status": "queued",
+  "at": "2026-08-18T23:08:57Z"
+ },
+ {
+  "title_hash": "83bddb713e753988",
+  "url": "https://www.somoynews.tv/news/2026-08-18/su5FsPHJ",
+  "headline": "Khulna: Youth killed in mob beating over child-lifter suspicion",
+  "topic": "khulna_mob_lynching_youth",
+  "source": "Somoy News",
+  "status": "queued",
+  "at": "2026-08-18T23:08:57Z"
  }
 ]
