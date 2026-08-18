@@ -8377,8 +8377,13 @@
   "headline": "Major shift in civil service: PSC Chairman resigns",
   "topic": "psc_chairman_resigns",
   "source": "Somoy News",
-  "status": "queued",
-  "at": "2026-08-18T23:08:57Z"
+  "status": "failed",
+  "at": "2026-08-18T23:08:57Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "83bddb713e753988",
@@ -8386,7 +8391,12 @@
   "headline": "Khulna: Youth killed in mob beating over child-lifter suspicion",
   "topic": "khulna_mob_lynching_youth",
   "source": "Somoy News",
-  "status": "queued",
-  "at": "2026-08-18T23:08:57Z"
+  "status": "failed",
+  "at": "2026-08-18T23:08:57Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
