@@ -1,47 +1,5 @@
 [
  {
-  "title_hash": "691619acab3f3cce",
-  "url": "https://www.dhakatribune.com/bangladesh/health/417519/730-new-dengue-cases-two-deaths-reported-in-24hrs",
-  "headline": "730 new cases, two deaths reported as dengue spreads",
-  "topic": "dengue surge bangladesh",
-  "source": "Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-08-15T12:07:03Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "24e18481b1c2d2de",
-  "url": "https://www.dhakatribune.com/bangladesh/health/417518/dengue-claims-two-lives-as-730-cases-recorded-in",
-  "headline": "730 new cases, two deaths reported as dengue spreads",
-  "topic": "dengue surge bangladesh",
-  "source": "Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-08-15T12:07:03Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "71d00d19a403b488",
-  "url": "https://www.dhakatribune.com/bangladesh/health/417513/measles-outbreak-death-toll-reaches-902-as-8-more",
-  "headline": "902 children dead: Measles outbreak death toll crosses 900 in Bangladesh",
-  "topic": "measles outbreak bangladesh",
-  "source": "Dhaka Tribune, Jamuna TV, The Daily Star, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-15T12:07:03Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "4a16890be4888f58",
   "url": "https://www.jamuna.tv/health/662216",
   "headline": "902 children dead: Measles outbreak death toll crosses 900 in Bangladesh",
@@ -8398,5 +8356,32 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "5443fc2a247f92f2",
+  "url": "https://www.jamuna.tv/all-bangladesh/662381",
+  "headline": "Five injured by gunfire on way to wedding event in Noakhali",
+  "topic": "Noakhali Gaye Holud Shooting",
+  "source": "Jamuna TV, Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-18T05:08:01Z"
+ },
+ {
+  "title_hash": "1b81a194b950ebfa",
+  "url": "https://www.prothomalo.com/bangladesh/district/8qvjxpzh5w",
+  "headline": "Five injured by gunfire on way to wedding event in Noakhali",
+  "topic": "Noakhali Gaye Holud Shooting",
+  "source": "Jamuna TV, Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-18T05:08:01Z"
+ },
+ {
+  "title_hash": "86e7692874e186e8",
+  "url": "https://www.prothomalo.com/bangladesh/district/t6f8g0x9g9",
+  "headline": "Mother arrested for drowning 14-day-old child in Noakhali, police say",
+  "topic": "Mother Kills Infant Drowning",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-18T05:08:01Z"
  }
 ]
