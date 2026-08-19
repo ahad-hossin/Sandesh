@@ -1,33 +1,5 @@
 [
  {
-  "title_hash": "4130c801a6ddfeed",
-  "url": "https://www.prothomalo.com/video/bangladesh/ud8e04een6",
-  "headline": "Historic win: Bangladesh beat Australia by 9 wickets in Darwin Test",
-  "topic": "bangladesh historic test win australia",
-  "source": "The Daily Star, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-16T08:07:15Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "5462969aed702bf1",
-  "url": "https://www.prothomalo.com/sports/cricket/asttreliyyaar-maattite-itihaas-baanlaadesher",
-  "headline": "Historic win: Bangladesh beat Australia by 9 wickets in Darwin Test",
-  "topic": "bangladesh historic test win australia",
-  "source": "The Daily Star, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-16T08:07:15Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "7b1c0e20f06c7d97",
   "url": "https://www.thedailystar.net/sports/cricket/news/pm-congratulates-tigers-historic-test-win-australia-4248881",
   "headline": "Historic win: Bangladesh beat Australia by 9 wickets in Darwin Test",
@@ -8398,5 +8370,23 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "ef26db2c7fd16789",
+  "url": "https://www.somoynews.tv/news/2026-08-18/9RBt76MW",
+  "headline": "Woman beaten with shoes in Cumilla salish, chairman claims 'verdict executed'",
+  "topic": "Cumilla Salish Woman Beaten",
+  "source": "Somoy News",
+  "status": "queued",
+  "at": "2026-08-19T02:08:48Z"
+ },
+ {
+  "title_hash": "83bddb713e753988",
+  "url": "https://www.somoynews.tv/news/2026-08-18/su5FsPHJ",
+  "headline": "Young man killed in Khulna mob lynching over child abduction suspicion",
+  "topic": "Khulna Mob Lynching Child Abduction Suspicion",
+  "source": "Somoy News",
+  "status": "queued",
+  "at": "2026-08-19T02:08:48Z"
  }
 ]
