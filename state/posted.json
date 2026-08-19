@@ -1,61 +1,5 @@
 [
  {
-  "title_hash": "a96b21a765ae4272",
-  "url": "https://www.jamuna.tv/sports/662262",
-  "headline": "Historic win: Bangladesh beat Australia by 9 wickets in Darwin Test",
-  "topic": "bangladesh historic test win australia",
-  "source": "The Daily Star, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-16T08:07:15Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "33dd00ebd720a18c",
-  "url": "https://www.thedailystar.net/sports/cricket/news/tigers-conquer-australia-where-bangladesh-are-ahead-other-asian-teams-4248896",
-  "headline": "Historic win: Bangladesh beat Australia by 9 wickets in Darwin Test",
-  "topic": "bangladesh historic test win australia",
-  "source": "The Daily Star, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-16T08:07:15Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "17fbabc9ff129c69",
-  "url": "https://www.jamuna.tv/sports/662260",
-  "headline": "Historic win: Bangladesh beat Australia by 9 wickets in Darwin Test",
-  "topic": "bangladesh historic test win australia",
-  "source": "The Daily Star, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-16T08:07:15Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "271ac7064ceafe35",
-  "url": "https://www.prothomalo.com/sports/cricket/h2rcsrvnd3",
-  "headline": "Historic win: Bangladesh beat Australia by 9 wickets in Darwin Test",
-  "topic": "bangladesh historic test win australia",
-  "source": "The Daily Star, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-16T08:07:15Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "4130c801a6ddfeed",
   "url": "https://www.prothomalo.com/video/bangladesh/ud8e04een6",
   "headline": "Historic win: Bangladesh beat Australia by 9 wickets in Darwin Test",
@@ -8398,5 +8342,41 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "5f91490098bf245f",
+  "url": "https://www.thedailystar.net/news/bangladesh/news/struggling-measles-let-alone-much-else-4251261",
+  "headline": "Measles outbreak claims 918 lives in Bangladesh; 3 more children die with symptoms",
+  "topic": "Measles outbreak deaths",
+  "source": "Somoy News, The Daily Star",
+  "status": "queued",
+  "at": "2026-08-19T01:09:19Z"
+ },
+ {
+  "title_hash": "3e0889beeb289e40",
+  "url": "https://www.somoynews.tv/news/2026-08-18/NXJAzFKE",
+  "headline": "Measles outbreak claims 918 lives in Bangladesh; 3 more children die with symptoms",
+  "topic": "Measles outbreak deaths",
+  "source": "Somoy News, The Daily Star",
+  "status": "queued",
+  "at": "2026-08-19T01:09:19Z"
+ },
+ {
+  "title_hash": "daf7c7a82efb1474",
+  "url": "https://www.thedailystar.net/news/bangladesh/news/three-more-die-measles-symptoms-4250976",
+  "headline": "Measles outbreak claims 918 lives in Bangladesh; 3 more children die with symptoms",
+  "topic": "Measles outbreak deaths",
+  "source": "Somoy News, The Daily Star",
+  "status": "queued",
+  "at": "2026-08-19T01:09:19Z"
+ },
+ {
+  "title_hash": "83bddb713e753988",
+  "url": "https://www.somoynews.tv/news/2026-08-18/su5FsPHJ",
+  "headline": "Khulna: Youth killed in mob beating over child-lifter suspicion",
+  "topic": "Khulna mob lynching",
+  "source": "Somoy News",
+  "status": "queued",
+  "at": "2026-08-19T01:09:19Z"
  }
 ]
