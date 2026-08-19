@@ -1,33 +1,5 @@
 [
  {
-  "title_hash": "f2525dfbb8dcfbb0",
-  "url": "https://www.prothomalo.com/video/sports/qsv9amk03i",
-  "headline": "Historic win: Bangladesh beats Australia by 9 wickets in Darwin",
-  "topic": "bangladesh historic test win australia",
-  "source": "Prothom Alo, Jamuna TV, Somoy News, The Daily Star",
-  "status": "failed",
-  "at": "2026-08-16T16:07:17Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "c2fad323099eedcc",
-  "url": "https://www.jamuna.tv/sports/662294",
-  "headline": "Historic win: Bangladesh beats Australia by 9 wickets in Darwin",
-  "topic": "bangladesh historic test win australia",
-  "source": "Prothom Alo, Jamuna TV, Somoy News, The Daily Star",
-  "status": "failed",
-  "at": "2026-08-16T16:07:17Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "d69034e059cd888e",
   "url": "https://www.somoynews.tv/news/2026-08-16/IsD7u5zX",
   "headline": "Historic win: Bangladesh beats Australia by 9 wickets in Darwin",
@@ -8398,5 +8370,23 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "7027229f5ffe6c33",
+  "url": "https://www.prothomalo.com/bangladesh/hdie3mz140",
+  "headline": "2,530 MW gap: Load shedding increases as gas supply drops",
+  "topic": "loadshedding increase gas shortage",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-19T23:06:59Z"
+ },
+ {
+  "title_hash": "fae02548a5334260",
+  "url": "https://www.dhakatribune.com/bangladesh/417888/pm-tarique%E2%80%99s-approval-strong-but-government-faces",
+  "headline": "Strong approval for PM Tarique, but government faces public pressure",
+  "topic": "pm tarique approval survey",
+  "source": "Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-08-19T23:06:59Z"
  }
 ]
