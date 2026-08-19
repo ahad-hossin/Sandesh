@@ -1,47 +1,5 @@
 [
  {
-  "title_hash": "a96b21a765ae4272",
-  "url": "https://www.jamuna.tv/sports/662262",
-  "headline": "Historic win: Bangladesh beat Australia in Test for the first time on their soil",
-  "topic": "bangladesh historic test win australia",
-  "source": "Jamuna TV, Somoy News, The Daily Star, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-16T15:07:18Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "253ef366578168f5",
-  "url": "https://www.somoynews.tv/news/2026-08-16/6y7wIwy1",
-  "headline": "Historic win: Bangladesh beat Australia in Test for the first time on their soil",
-  "topic": "bangladesh historic test win australia",
-  "source": "Jamuna TV, Somoy News, The Daily Star, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-16T15:07:18Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "683974b0581ad87d",
-  "url": "https://www.thedailystar.net/sports/cricket/news/shanto-credits-whole-bangladesh-team-biggest-victory-4248951",
-  "headline": "Historic win: Bangladesh beat Australia in Test for the first time on their soil",
-  "topic": "bangladesh historic test win australia",
-  "source": "Jamuna TV, Somoy News, The Daily Star, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-16T15:07:18Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "c8036b10a747e3f8",
   "url": "https://www.prothomalo.com/world/middle-east/bs6hu4q77u",
   "headline": "Iran's army chief warns he will 'break the legs' of Donald Trump over Hormuz Strait",
@@ -8398,5 +8356,32 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "fae02548a5334260",
+  "url": "https://www.dhakatribune.com/bangladesh/417888/pm-tarique%E2%80%99s-approval-strong-but-government-faces",
+  "headline": "PM Tarique's approval remains strong but government faces public pressure",
+  "topic": "pm tarique approval and india visit",
+  "source": "Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-08-19T21:37:28Z"
+ },
+ {
+  "title_hash": "327c08f4d685a7a9",
+  "url": "https://www.dhakatribune.com/bangladesh/417883/pm-tarique%E2%80%99s-india-visit-remains-uncertain-amid",
+  "headline": "PM Tarique's approval remains strong but government faces public pressure",
+  "topic": "pm tarique approval and india visit",
+  "source": "Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-08-19T21:37:28Z"
+ },
+ {
+  "title_hash": "7027229f5ffe6c33",
+  "url": "https://www.prothomalo.com/bangladesh/hdie3mz140",
+  "headline": "Load shedding spikes as gas supply drops across Bangladesh",
+  "topic": "load shedding increase due to gas shortage",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-19T21:37:28Z"
  }
 ]
