@@ -8377,8 +8377,13 @@
   "headline": "2,530 MW gap: Load shedding increases as gas supply drops",
   "topic": "loadshedding increase gas shortage",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-19T23:06:59Z"
+  "status": "failed",
+  "at": "2026-08-19T23:06:59Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "fae02548a5334260",
@@ -8386,7 +8391,12 @@
   "headline": "Strong approval for PM Tarique, but government faces public pressure",
   "topic": "pm tarique approval survey",
   "source": "Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-08-19T23:06:59Z"
+  "status": "failed",
+  "at": "2026-08-19T23:06:59Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
