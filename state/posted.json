@@ -8335,8 +8335,13 @@
   "headline": "LNG shortage: Load shedding increases as gas supply drops",
   "topic": "bangladesh-power-crisis-loadshedding",
   "source": "Prothom Alo, Somoy News",
-  "status": "queued",
-  "at": "2026-08-19T20:41:37Z"
+  "status": "failed",
+  "at": "2026-08-19T20:41:37Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "ec044f11857ea18e",
@@ -8344,8 +8349,13 @@
   "headline": "LNG shortage: Load shedding increases as gas supply drops",
   "topic": "bangladesh-power-crisis-loadshedding",
   "source": "Prothom Alo, Somoy News",
-  "status": "queued",
-  "at": "2026-08-19T20:41:37Z"
+  "status": "failed",
+  "at": "2026-08-19T20:41:37Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "a87c124845ea6c09",
@@ -8353,8 +8363,13 @@
   "headline": "LNG shortage: Load shedding increases as gas supply drops",
   "topic": "bangladesh-power-crisis-loadshedding",
   "source": "Prothom Alo, Somoy News",
-  "status": "queued",
-  "at": "2026-08-19T20:41:37Z"
+  "status": "failed",
+  "at": "2026-08-19T20:41:37Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "d85775dce4ef9e03",
@@ -8362,8 +8377,13 @@
   "headline": "Tigers soar: Bangladesh players jump in ICC Test rankings after Australia win",
   "topic": "bangladesh-cricket-test-ranking-jump",
   "source": "Prothom Alo, Somoy News",
-  "status": "queued",
-  "at": "2026-08-19T20:41:37Z"
+  "status": "failed",
+  "at": "2026-08-19T20:41:37Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "b43e8bc631008f43",
@@ -8371,7 +8391,12 @@
   "headline": "Tigers soar: Bangladesh players jump in ICC Test rankings after Australia win",
   "topic": "bangladesh-cricket-test-ranking-jump",
   "source": "Prothom Alo, Somoy News",
-  "status": "queued",
-  "at": "2026-08-19T20:41:37Z"
+  "status": "failed",
+  "at": "2026-08-19T20:41:37Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
