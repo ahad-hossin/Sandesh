@@ -1,61 +1,5 @@
 [
  {
-  "title_hash": "5024e7e2af4ef576",
-  "url": "https://www.prothomalo.com/politics/32cqhgk9ji",
-  "headline": "Historic win: Bangladesh beats Australia by 9 wickets in Darwin Test",
-  "topic": "bangladesh historic test win australia",
-  "source": "The Daily Star, Prothom Alo, Jamuna TV, Somoy News",
-  "status": "failed",
-  "at": "2026-08-16T14:06:44Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "683974b0581ad87d",
-  "url": "https://www.thedailystar.net/sports/cricket/news/shanto-credits-whole-bangladesh-team-biggest-victory-4248951",
-  "headline": "Historic win: Bangladesh beats Australia by 9 wickets in Darwin Test",
-  "topic": "bangladesh historic test win australia",
-  "source": "The Daily Star, Prothom Alo, Jamuna TV, Somoy News",
-  "status": "failed",
-  "at": "2026-08-16T14:06:44Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "d27e88aebd94c2cc",
-  "url": "https://www.jamuna.tv/sports/662270",
-  "headline": "Historic win: Bangladesh beats Australia by 9 wickets in Darwin Test",
-  "topic": "bangladesh historic test win australia",
-  "source": "The Daily Star, Prothom Alo, Jamuna TV, Somoy News",
-  "status": "failed",
-  "at": "2026-08-16T14:06:44Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "962497220ab78304",
-  "url": "https://www.thedailystar.net/sports/cricket/news/we-were-outplayed-smith-gives-bangladesh-full-credit-4248946",
-  "headline": "Historic win: Bangladesh beats Australia by 9 wickets in Darwin Test",
-  "topic": "bangladesh historic test win australia",
-  "source": "The Daily Star, Prothom Alo, Jamuna TV, Somoy News",
-  "status": "failed",
-  "at": "2026-08-16T14:06:44Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "a7cb45a6727daea6",
   "url": "https://www.thedailystar.net/sports/cricket/news/i-will-never-forget-match-miraz-savours-historic-australia-win-4248926",
   "headline": "Historic win: Bangladesh beats Australia by 9 wickets in Darwin Test",
@@ -8398,5 +8342,41 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "13e0a62a8e0361b5",
+  "url": "https://www.dhakatribune.com/bangladesh/417886/van-driver-held-over-iub-student%E2%80%99s-death-in-city",
+  "headline": "Money dispute: Man arrested for killing co-worker in Ashulia",
+  "topic": "iub student death road crash arrest",
+  "source": "Dhaka Tribune, The Daily Star",
+  "status": "queued",
+  "at": "2026-08-19T17:16:56Z"
+ },
+ {
+  "title_hash": "d4ba4fccbca0b3d5",
+  "url": "https://www.thedailystar.net/news/crime-justice/news/man-arrested-over-co-workers-murder-ashulia-pbi-4251761",
+  "headline": "Money dispute: Man arrested for killing co-worker in Ashulia",
+  "topic": "iub student death road crash arrest",
+  "source": "Dhaka Tribune, The Daily Star",
+  "status": "queued",
+  "at": "2026-08-19T17:16:56Z"
+ },
+ {
+  "title_hash": "b5bc64bc9e80578c",
+  "url": "https://www.thedailystar.net/news/crime-justice/news/chairman-cumilla-admits-beating-woman-shoes-during-village-arbitration-4251796",
+  "headline": "Cumilla UP chairman admits beating woman with shoes during arbitration",
+  "topic": "up chairman admits beating woman with shoes",
+  "source": "The Daily Star, Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-08-19T17:16:56Z"
+ },
+ {
+  "title_hash": "23ea62b9fd90a467",
+  "url": "https://www.dhakatribune.com/bangladesh/417845/information-minister-media-enjoying-highest",
+  "headline": "Cumilla UP chairman admits beating woman with shoes during arbitration",
+  "topic": "up chairman admits beating woman with shoes",
+  "source": "The Daily Star, Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-08-19T17:16:56Z"
  }
 ]
