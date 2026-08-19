@@ -8377,8 +8377,13 @@
   "headline": "9 Bangladeshis killed in Kolkata hotel fire, 15 injured",
   "topic": "Kolkata hotel fire kills Bangladeshis",
   "source": "Jamuna TV",
-  "status": "queued",
-  "at": "2026-08-19T03:30:20Z"
+  "status": "failed",
+  "at": "2026-08-19T03:30:20Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "32772b59c936f62b",
@@ -8386,7 +8391,12 @@
   "headline": "BDT 15 crore Yaba consignment seized in Cumilla, 3 lakh pills found in Prado, 2 arrested",
   "topic": "Cumilla Yaba bust",
   "source": "Somoy News",
-  "status": "queued",
-  "at": "2026-08-19T03:30:20Z"
+  "status": "failed",
+  "at": "2026-08-19T03:30:20Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
