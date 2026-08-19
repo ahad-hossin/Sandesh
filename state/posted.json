@@ -8307,8 +8307,13 @@
   "headline": "66% of people approve of PM Tarique Rahman in new survey",
   "topic": "pm tarique approval survey",
   "source": "Dhaka Tribune, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-19T18:08:29Z"
+  "status": "failed",
+  "at": "2026-08-19T18:08:29Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "d66bb703b8c3eb44",
@@ -8316,8 +8321,13 @@
   "headline": "66% of people approve of PM Tarique Rahman in new survey",
   "topic": "pm tarique approval survey",
   "source": "Dhaka Tribune, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-19T18:08:29Z"
+  "status": "failed",
+  "at": "2026-08-19T18:08:29Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "989c97dfb1f6622e",
@@ -8325,8 +8335,13 @@
   "headline": "Bangladesh Presidential polls set for Thursday",
   "topic": "presidential election thursday",
   "source": "Dhaka Tribune, Somoy News",
-  "status": "queued",
-  "at": "2026-08-19T18:08:29Z"
+  "status": "failed",
+  "at": "2026-08-19T18:08:29Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "9d372152f4125499",
@@ -8334,8 +8349,13 @@
   "headline": "Bangladesh Presidential polls set for Thursday",
   "topic": "presidential election thursday",
   "source": "Dhaka Tribune, Somoy News",
-  "status": "queued",
-  "at": "2026-08-19T18:08:29Z"
+  "status": "failed",
+  "at": "2026-08-19T18:08:29Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "1531f3ca46f3422b",
@@ -8343,8 +8363,13 @@
   "headline": "Bangladesh Presidential polls set for Thursday",
   "topic": "presidential election thursday",
   "source": "Dhaka Tribune, Somoy News",
-  "status": "queued",
-  "at": "2026-08-19T18:08:29Z"
+  "status": "failed",
+  "at": "2026-08-19T18:08:29Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "c0706294ec5555f5",
@@ -8352,8 +8377,13 @@
   "headline": "Bangladesh Presidential polls set for Thursday",
   "topic": "presidential election thursday",
   "source": "Dhaka Tribune, Somoy News",
-  "status": "queued",
-  "at": "2026-08-19T18:08:29Z"
+  "status": "failed",
+  "at": "2026-08-19T18:08:29Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "e1748093ccdf2a4b",
@@ -8361,7 +8391,12 @@
   "headline": "Bangladesh Presidential polls set for Thursday",
   "topic": "presidential election thursday",
   "source": "Dhaka Tribune, Somoy News",
-  "status": "queued",
-  "at": "2026-08-19T18:08:29Z"
+  "status": "failed",
+  "at": "2026-08-19T18:08:29Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
