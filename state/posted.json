@@ -1,33 +1,5 @@
 [
  {
-  "title_hash": "7b1c0e20f06c7d97",
-  "url": "https://www.thedailystar.net/sports/cricket/news/pm-congratulates-tigers-historic-test-win-australia-4248881",
-  "headline": "Historic win: Bangladesh beat Australia by 9 wickets in Darwin Test",
-  "topic": "bangladesh historic test win australia",
-  "source": "The Daily Star, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-16T08:07:15Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "b2effd2e31b2a4d1",
-  "url": "https://www.jamuna.tv/national/662257",
-  "headline": "Historic win: Bangladesh beat Australia by 9 wickets in Darwin Test",
-  "topic": "bangladesh historic test win australia",
-  "source": "The Daily Star, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-16T08:07:15Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "1d23c19be0602c57",
   "url": "https://www.prothomalo.com/sports/cricket/bkg6hkgk0c",
   "headline": "Historic win: Bangladesh beat Australia by 9 wickets in Darwin Test",
@@ -8398,5 +8370,23 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "891bd902c99a6434",
+  "url": "https://www.jamuna.tv/international/662438",
+  "headline": "9 Bangladeshis killed in Kolkata hotel fire, 15 injured",
+  "topic": "Kolkata hotel fire kills Bangladeshis",
+  "source": "Jamuna TV",
+  "status": "queued",
+  "at": "2026-08-19T03:30:20Z"
+ },
+ {
+  "title_hash": "32772b59c936f62b",
+  "url": "https://www.somoynews.tv/news/2026-08-18/J5OM4TYN",
+  "headline": "BDT 15 crore Yaba consignment seized in Cumilla, 3 lakh pills found in Prado, 2 arrested",
+  "topic": "Cumilla Yaba bust",
+  "source": "Somoy News",
+  "status": "queued",
+  "at": "2026-08-19T03:30:20Z"
  }
 ]
