@@ -1,61 +1,5 @@
 [
  {
-  "title_hash": "c8036b10a747e3f8",
-  "url": "https://www.prothomalo.com/world/middle-east/bs6hu4q77u",
-  "headline": "Iran's army chief warns he will 'break the legs' of Donald Trump over Hormuz Strait",
-  "topic": "iran warns trump",
-  "source": "Prothom Alo, Jamuna TV",
-  "status": "failed",
-  "at": "2026-08-16T15:07:18Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "bcc09147458993de",
-  "url": "https://www.jamuna.tv/international/662298",
-  "headline": "Iran's army chief warns he will 'break the legs' of Donald Trump over Hormuz Strait",
-  "topic": "iran warns trump",
-  "source": "Prothom Alo, Jamuna TV",
-  "status": "failed",
-  "at": "2026-08-16T15:07:18Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "f8cb77e3cbddddea",
-  "url": "https://www.jamuna.tv/international/662279",
-  "headline": "Iran's army chief warns he will 'break the legs' of Donald Trump over Hormuz Strait",
-  "topic": "iran warns trump",
-  "source": "Prothom Alo, Jamuna TV",
-  "status": "failed",
-  "at": "2026-08-16T15:07:18Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "5ef22fa3e932ef34",
-  "url": "https://www.thedailystar.net/sports/cricket/news/credit-goes-1000-percent-the-team-bangladesh-celebrates-historic-test-win-australia-4249086",
-  "headline": "Historic win: Bangladesh beats Australia by 9 wickets in Darwin",
-  "topic": "bangladesh historic test win australia",
-  "source": "Prothom Alo, Jamuna TV, Somoy News, The Daily Star",
-  "status": "failed",
-  "at": "2026-08-16T16:07:17Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "f2525dfbb8dcfbb0",
   "url": "https://www.prothomalo.com/video/sports/qsv9amk03i",
   "headline": "Historic win: Bangladesh beats Australia by 9 wickets in Darwin",
@@ -8398,5 +8342,41 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "fae02548a5334260",
+  "url": "https://www.dhakatribune.com/bangladesh/417888/pm-tarique%E2%80%99s-approval-strong-but-government-faces",
+  "headline": "PM Tarique's approval remains strong despite public pressure",
+  "topic": "pm tarique approval and india visit",
+  "source": "Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-08-19T22:12:23Z"
+ },
+ {
+  "title_hash": "327c08f4d685a7a9",
+  "url": "https://www.dhakatribune.com/bangladesh/417883/pm-tarique%E2%80%99s-india-visit-remains-uncertain-amid",
+  "headline": "PM Tarique's approval remains strong despite public pressure",
+  "topic": "pm tarique approval and india visit",
+  "source": "Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-08-19T22:12:23Z"
+ },
+ {
+  "title_hash": "0e54f4a8949fdfd6",
+  "url": "https://www.thedailystar.net/sports/cricket/news/emerging-team-earn-hard-fought-draw-against-south-africa-4252091",
+  "headline": "Bangladesh emerging team earns hard-fought draw against South Africa in first four-day match",
+  "topic": "bangladesh emerging team draw south africa",
+  "source": "The Daily Star",
+  "status": "queued",
+  "at": "2026-08-19T22:12:23Z"
+ },
+ {
+  "title_hash": "634a2c53f83c115d",
+  "url": "https://www.thedailystar.net/sports/cricket/news/disillusionment-hand-mackay-4252056",
+  "headline": "Bangladesh emerging team earns hard-fought draw against South Africa in first four-day match",
+  "topic": "bangladesh emerging team draw south africa",
+  "source": "The Daily Star",
+  "status": "queued",
+  "at": "2026-08-19T22:12:23Z"
  }
 ]
