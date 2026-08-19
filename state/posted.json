@@ -8377,8 +8377,13 @@
   "headline": "Woman beaten with shoes in Cumilla salish, chairman claims 'verdict executed'",
   "topic": "Cumilla Salish Woman Beaten",
   "source": "Somoy News",
-  "status": "queued",
-  "at": "2026-08-19T02:08:48Z"
+  "status": "failed",
+  "at": "2026-08-19T02:08:48Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "83bddb713e753988",
@@ -8386,7 +8391,12 @@
   "headline": "Young man killed in Khulna mob lynching over child abduction suspicion",
   "topic": "Khulna Mob Lynching Child Abduction Suspicion",
   "source": "Somoy News",
-  "status": "queued",
-  "at": "2026-08-19T02:08:48Z"
+  "status": "failed",
+  "at": "2026-08-19T02:08:48Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
