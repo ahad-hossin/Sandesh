@@ -8349,8 +8349,13 @@
   "headline": "Money dispute: Man arrested for killing co-worker in Ashulia",
   "topic": "iub student death road crash arrest",
   "source": "Dhaka Tribune, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-19T17:16:56Z"
+  "status": "failed",
+  "at": "2026-08-19T17:16:56Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "d4ba4fccbca0b3d5",
@@ -8358,8 +8363,13 @@
   "headline": "Money dispute: Man arrested for killing co-worker in Ashulia",
   "topic": "iub student death road crash arrest",
   "source": "Dhaka Tribune, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-19T17:16:56Z"
+  "status": "failed",
+  "at": "2026-08-19T17:16:56Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "b5bc64bc9e80578c",
@@ -8367,8 +8377,13 @@
   "headline": "Cumilla UP chairman admits beating woman with shoes during arbitration",
   "topic": "up chairman admits beating woman with shoes",
   "source": "The Daily Star, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-08-19T17:16:56Z"
+  "status": "failed",
+  "at": "2026-08-19T17:16:56Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "23ea62b9fd90a467",
@@ -8376,7 +8391,12 @@
   "headline": "Cumilla UP chairman admits beating woman with shoes during arbitration",
   "topic": "up chairman admits beating woman with shoes",
   "source": "The Daily Star, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-08-19T17:16:56Z"
+  "status": "failed",
+  "at": "2026-08-19T17:16:56Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
