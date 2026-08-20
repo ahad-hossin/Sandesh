@@ -8307,8 +8307,13 @@
   "headline": "Presidential election vote today after 35 years, with two candidates contesting",
   "topic": "presidential election vote today",
   "source": "Prothom Alo, Dhaka Tribune, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-20T02:07:52Z"
+  "status": "failed",
+  "at": "2026-08-20T02:07:52Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "862bff679b6ad9c7",
@@ -8316,8 +8321,13 @@
   "headline": "Presidential election vote today after 35 years, with two candidates contesting",
   "topic": "presidential election vote today",
   "source": "Prothom Alo, Dhaka Tribune, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-20T02:07:52Z"
+  "status": "failed",
+  "at": "2026-08-20T02:07:52Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "25c14e3e8813a756",
@@ -8325,8 +8335,13 @@
   "headline": "Presidential election vote today after 35 years, with two candidates contesting",
   "topic": "presidential election vote today",
   "source": "Prothom Alo, Dhaka Tribune, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-20T02:07:52Z"
+  "status": "failed",
+  "at": "2026-08-20T02:07:52Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "5b80421d09b1a6e8",
@@ -8334,8 +8349,13 @@
   "headline": "Presidential election vote today after 35 years, with two candidates contesting",
   "topic": "presidential election vote today",
   "source": "Prothom Alo, Dhaka Tribune, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-20T02:07:52Z"
+  "status": "failed",
+  "at": "2026-08-20T02:07:52Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "343ef37d28cd3dae",
@@ -8343,8 +8363,13 @@
   "headline": "Nine killed, six Bangladeshis among victims in Kolkata hotel fire",
   "topic": "kolkata hotel fire bangladeshi victims",
   "source": "Jamuna TV, Dhaka Tribune, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-20T02:07:52Z"
+  "status": "failed",
+  "at": "2026-08-20T02:07:52Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "4443fc9315d7f59d",
@@ -8352,8 +8377,13 @@
   "headline": "Nine killed, six Bangladeshis among victims in Kolkata hotel fire",
   "topic": "kolkata hotel fire bangladeshi victims",
   "source": "Jamuna TV, Dhaka Tribune, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-20T02:07:52Z"
+  "status": "failed",
+  "at": "2026-08-20T02:07:52Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "9c5350eb6e553c62",
@@ -8361,7 +8391,12 @@
   "headline": "Nine killed, six Bangladeshis among victims in Kolkata hotel fire",
   "topic": "kolkata hotel fire bangladeshi victims",
   "source": "Jamuna TV, Dhaka Tribune, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-20T02:07:52Z"
+  "status": "failed",
+  "at": "2026-08-20T02:07:52Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
