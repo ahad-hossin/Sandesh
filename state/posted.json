@@ -8363,8 +8363,13 @@
   "headline": "11-hour power cut in parts of Bangladesh from Thursday morning",
   "topic": "national power outage",
   "source": "Somoy News",
-  "status": "queued",
-  "at": "2026-08-20T01:09:15Z"
+  "status": "failed",
+  "at": "2026-08-20T01:09:15Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "ec044f11857ea18e",
@@ -8372,8 +8377,13 @@
   "headline": "11-hour power cut in parts of Bangladesh from Thursday morning",
   "topic": "national power outage",
   "source": "Somoy News",
-  "status": "queued",
-  "at": "2026-08-20T01:09:15Z"
+  "status": "failed",
+  "at": "2026-08-20T01:09:15Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "0af5152ed2638ddb",
@@ -8381,7 +8391,12 @@
   "headline": "60 km/h storm expected in 6 districts by noon today",
   "topic": "6 districts storm warning",
   "source": "Somoy News",
-  "status": "queued",
-  "at": "2026-08-20T01:09:15Z"
+  "status": "failed",
+  "at": "2026-08-20T01:09:15Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
