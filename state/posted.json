@@ -1,33 +1,5 @@
 [
  {
-  "title_hash": "d69034e059cd888e",
-  "url": "https://www.somoynews.tv/news/2026-08-16/IsD7u5zX",
-  "headline": "Historic win: Bangladesh beats Australia by 9 wickets in Darwin",
-  "topic": "bangladesh historic test win australia",
-  "source": "Prothom Alo, Jamuna TV, Somoy News, The Daily Star",
-  "status": "failed",
-  "at": "2026-08-16T16:07:17Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "c9e866e9b19f014f",
-  "url": "https://www.somoynews.tv/news/2026-08-16/LDZ0OQH7",
-  "headline": "Historic win: Bangladesh beats Australia by 9 wickets in Darwin",
-  "topic": "bangladesh historic test win australia",
-  "source": "Prothom Alo, Jamuna TV, Somoy News, The Daily Star",
-  "status": "failed",
-  "at": "2026-08-16T16:07:17Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "81a7f1a995d781bd",
   "url": "https://www.prothomalo.com/video/sports/u8pac4wn67",
   "headline": "Historic win: Bangladesh beats Australia by 9 wickets in Darwin",
@@ -8398,5 +8370,23 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "37d7c4c23dd024aa",
+  "url": "https://www.dhakatribune.com/bangladesh/court/417884/case-over-physician-nafisa-tabassum-dhipra%E2%80%99s-death",
+  "headline": "Case withdrawn against husband, in-laws in Dhipra's death investigation",
+  "topic": "dhipra death case withdrawn",
+  "source": "Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-08-20T00:07:32Z"
+ },
+ {
+  "title_hash": "c0655e86875a0f87",
+  "url": "https://www.prothomalo.com/religion/islam/18qzmvo8om",
+  "headline": "7 Islamic morning practices to transform your day, bringing peace and blessings",
+  "topic": "7 morning islamic practices",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-20T00:07:32Z"
  }
 ]
