@@ -8377,8 +8377,13 @@
   "headline": "Case withdrawn against husband, in-laws in Dhipra's death investigation",
   "topic": "dhipra death case withdrawn",
   "source": "Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-08-20T00:07:32Z"
+  "status": "failed",
+  "at": "2026-08-20T00:07:32Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "c0655e86875a0f87",
@@ -8386,7 +8391,12 @@
   "headline": "7 Islamic morning practices to transform your day, bringing peace and blessings",
   "topic": "7 morning islamic practices",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-20T00:07:32Z"
+  "status": "failed",
+  "at": "2026-08-20T00:07:32Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
