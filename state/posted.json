@@ -8363,8 +8363,13 @@
   "headline": "Bangladesh holds presidential election today after 35 years; MPs to elect 23rd President",
   "topic": "Presidential Election Today",
   "source": "Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-20T03:07:08Z"
+  "status": "failed",
+  "at": "2026-08-20T03:07:08Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "862bff679b6ad9c7",
@@ -8372,8 +8377,13 @@
   "headline": "Bangladesh holds presidential election today after 35 years; MPs to elect 23rd President",
   "topic": "Presidential Election Today",
   "source": "Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-20T03:07:08Z"
+  "status": "failed",
+  "at": "2026-08-20T03:07:08Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "23f5e70c1ecd10a5",
@@ -8381,7 +8391,12 @@
   "headline": "Farmers face fertilizer shortage and higher prices in Bangladesh, impacting Aman paddy cultivation",
   "topic": "Fertilizer Shortage Farmers Struggle",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-20T03:07:08Z"
+  "status": "failed",
+  "at": "2026-08-20T03:07:08Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
