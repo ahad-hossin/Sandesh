@@ -1,47 +1,5 @@
 [
  {
-  "title_hash": "81a7f1a995d781bd",
-  "url": "https://www.prothomalo.com/video/sports/u8pac4wn67",
-  "headline": "Bangladesh secures first-ever Test win in Australia with 9-wicket victory",
-  "topic": "bangladesh historic test win australia",
-  "source": "Jamuna TV, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-08-16T17:07:09Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "3d9c2bc30551e38a",
-  "url": "https://www.jamuna.tv/politics/662265",
-  "headline": "Bangladesh secures first-ever Test win in Australia with 9-wicket victory",
-  "topic": "bangladesh historic test win australia",
-  "source": "Jamuna TV, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-08-16T17:07:09Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "a96b21a765ae4272",
-  "url": "https://www.jamuna.tv/sports/662262",
-  "headline": "Bangladesh secures first-ever Test win in Australia with 9-wicket victory",
-  "topic": "bangladesh historic test win australia",
-  "source": "Jamuna TV, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-08-16T17:07:09Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "2b3fd30c3e25f3ac",
   "url": "https://www.prothomalo.com/video/sports/7xfgha9b4t",
   "headline": "Bangladesh secures first-ever Test win in Australia with 9-wicket victory",
@@ -8398,5 +8356,32 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "1d0a51927c9228df",
+  "url": "https://www.jamuna.tv/national/662501",
+  "headline": "Bangladesh holds presidential election today after 35 years; MPs to elect 23rd President",
+  "topic": "Presidential Election Today",
+  "source": "Jamuna TV, Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-20T03:07:08Z"
+ },
+ {
+  "title_hash": "862bff679b6ad9c7",
+  "url": "https://www.prothomalo.com/politics/il2806vjuw",
+  "headline": "Bangladesh holds presidential election today after 35 years; MPs to elect 23rd President",
+  "topic": "Presidential Election Today",
+  "source": "Jamuna TV, Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-20T03:07:08Z"
+ },
+ {
+  "title_hash": "23f5e70c1ecd10a5",
+  "url": "https://www.prothomalo.com/bangladesh/district/8h02x2h0tc",
+  "headline": "Farmers face fertilizer shortage and higher prices in Bangladesh, impacting Aman paddy cultivation",
+  "topic": "Fertilizer Shortage Farmers Struggle",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-20T03:07:08Z"
  }
 ]
