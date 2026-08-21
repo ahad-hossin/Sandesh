@@ -8307,8 +8307,13 @@
   "headline": "Four new faces to join cabinet as they take oath Friday night",
   "topic": "new cabinet members appointment",
   "source": "Prothom Alo, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-08-21T09:06:48Z"
+  "status": "failed",
+  "at": "2026-08-21T09:06:48Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "80fa4aa7d43d8c61",
@@ -8316,8 +8321,13 @@
   "headline": "Four new faces to join cabinet as they take oath Friday night",
   "topic": "new cabinet members appointment",
   "source": "Prothom Alo, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-08-21T09:06:48Z"
+  "status": "failed",
+  "at": "2026-08-21T09:06:48Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "79bc99fa9d631a8d",
@@ -8325,8 +8335,13 @@
   "headline": "President-elect Mirza Fakhrul pays homage to Ziaur Rahman and Khaleda Zia",
   "topic": "president fakhrul homage to zia and khaleda",
   "source": "Dhaka Tribune, Jamuna TV, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-21T09:06:48Z"
+  "status": "failed",
+  "at": "2026-08-21T09:06:48Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "fbbc97231256fff7",
@@ -8334,8 +8349,13 @@
   "headline": "President-elect Mirza Fakhrul pays homage to Ziaur Rahman and Khaleda Zia",
   "topic": "president fakhrul homage to zia and khaleda",
   "source": "Dhaka Tribune, Jamuna TV, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-21T09:06:48Z"
+  "status": "failed",
+  "at": "2026-08-21T09:06:48Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "1d639e4cfeb87ffe",
@@ -8343,8 +8363,13 @@
   "headline": "President-elect Mirza Fakhrul pays homage to Ziaur Rahman and Khaleda Zia",
   "topic": "president fakhrul homage to zia and khaleda",
   "source": "Dhaka Tribune, Jamuna TV, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-21T09:06:48Z"
+  "status": "failed",
+  "at": "2026-08-21T09:06:48Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "93d31414dd5125de",
@@ -8352,8 +8377,13 @@
   "headline": "President-elect Mirza Fakhrul pays homage to Ziaur Rahman and Khaleda Zia",
   "topic": "president fakhrul homage to zia and khaleda",
   "source": "Dhaka Tribune, Jamuna TV, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-21T09:06:48Z"
+  "status": "failed",
+  "at": "2026-08-21T09:06:48Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "5d95d0667bfcbcfa",
@@ -8361,7 +8391,12 @@
   "headline": "President-elect Mirza Fakhrul pays homage to Ziaur Rahman and Khaleda Zia",
   "topic": "president fakhrul homage to zia and khaleda",
   "source": "Dhaka Tribune, Jamuna TV, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-21T09:06:48Z"
+  "status": "failed",
+  "at": "2026-08-21T09:06:48Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
