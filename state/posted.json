@@ -8377,8 +8377,13 @@
   "headline": "Tayammum: Islam's alternative purification method when water is scarce or harmful",
   "topic": "islamic purity no water",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-21T00:07:28Z"
+  "status": "failed",
+  "at": "2026-08-21T00:07:28Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "d4560c2985518569",
@@ -8386,7 +8391,12 @@
   "headline": "Coke Studio Bangla unveils 'Mulluk', a folk song celebrating tea garden artists' heritage",
   "topic": "coke studio bangla mulluk song",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-21T00:07:28Z"
+  "status": "failed",
+  "at": "2026-08-21T00:07:28Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
