@@ -1,61 +1,5 @@
 [
  {
-  "title_hash": "fa920b2ddc09d7f0",
-  "url": "https://www.prothomalo.com/world/india/hfge6rcnm8",
-  "headline": "9 Bangladeshis killed in Kolkata hotel fire",
-  "topic": "kolkata hotel fire bangladeshi deaths",
-  "source": "Dhaka Tribune, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-08-19T08:12:39Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "88633a83e15e7ed1",
-  "url": "https://www.prothomalo.com/world/india/5mmt3mspka",
-  "headline": "9 Bangladeshis killed in Kolkata hotel fire",
-  "topic": "kolkata hotel fire bangladeshi deaths",
-  "source": "Dhaka Tribune, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-08-19T08:12:39Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "1b935e45ac0f408f",
-  "url": "https://www.prothomalo.com/world/india/ucxmgqksnx",
-  "headline": "9 Bangladeshis killed in Kolkata hotel fire",
-  "topic": "kolkata hotel fire bangladeshi deaths",
-  "source": "Dhaka Tribune, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-08-19T08:12:39Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "6753c1bbcdcd9e69",
-  "url": "https://www.dhakatribune.com/bangladesh/417818/attorney-general-presidential-election-thursday",
-  "headline": "Legal challenge filed to stay presidential election scheduled for Thursday",
-  "topic": "presidential election legal hurdles",
-  "source": "Dhaka Tribune, The Daily Star, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-19T08:12:39Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "02b42d813f2c7b5c",
   "url": "https://www.thedailystar.net/news/bangladesh/news/hc-order-clearing-way-tomorrows-presidential-election-challenged-4251426",
   "headline": "Legal challenge filed to stay presidential election scheduled for Thursday",
@@ -8398,5 +8342,41 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "34aec17aef8f36ee",
+  "url": "https://www.jamuna.tv/national/662562",
+  "headline": "Mirza Fakhrul Islam Alamgir to be sworn in today as Bangladesh's 23rd President",
+  "topic": "mirza fakhrul sworn in as president",
+  "source": "Jamuna TV, Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-21T02:07:27Z"
+ },
+ {
+  "title_hash": "1fb32a5df7ed8bd4",
+  "url": "https://www.prothomalo.com/bangladesh/d2nthw7u8b",
+  "headline": "Mirza Fakhrul Islam Alamgir to be sworn in today as Bangladesh's 23rd President",
+  "topic": "mirza fakhrul sworn in as president",
+  "source": "Jamuna TV, Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-21T02:07:27Z"
+ },
+ {
+  "title_hash": "28d155e24882642e",
+  "url": "https://www.prothomalo.com/opinion/column/y47j2h1ols",
+  "headline": "Pakistan's Supreme Court orders Imran Khan to hospital for treatment amid political crisis",
+  "topic": "imran khan moved to hospital pakistan political crisis",
+  "source": "Prothom Alo, Jamuna TV",
+  "status": "queued",
+  "at": "2026-08-21T02:07:27Z"
+ },
+ {
+  "title_hash": "28173a94bfbd524c",
+  "url": "https://www.jamuna.tv/international/662561",
+  "headline": "Pakistan's Supreme Court orders Imran Khan to hospital for treatment amid political crisis",
+  "topic": "imran khan moved to hospital pakistan political crisis",
+  "source": "Prothom Alo, Jamuna TV",
+  "status": "queued",
+  "at": "2026-08-21T02:07:27Z"
  }
 ]
