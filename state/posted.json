@@ -1,61 +1,5 @@
 [
  {
-  "title_hash": "02b42d813f2c7b5c",
-  "url": "https://www.thedailystar.net/news/bangladesh/news/hc-order-clearing-way-tomorrows-presidential-election-challenged-4251426",
-  "headline": "Legal challenge filed to stay presidential election scheduled for Thursday",
-  "topic": "presidential election legal hurdles",
-  "source": "Dhaka Tribune, The Daily Star, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-19T08:12:39Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "597c2fd06382bd49",
-  "url": "https://www.prothomalo.com/bangladesh/sw51e4ccvk",
-  "headline": "Legal challenge filed to stay presidential election scheduled for Thursday",
-  "topic": "presidential election legal hurdles",
-  "source": "Dhaka Tribune, The Daily Star, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-19T08:12:39Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "ebbfd7c831dd1ec2",
-  "url": "https://www.thedailystar.net/news/politics/election/news/new-president-take-oath-friday-evening-4251451",
-  "headline": "Legal challenge filed to stay presidential election scheduled for Thursday",
-  "topic": "presidential election legal hurdles",
-  "source": "Dhaka Tribune, The Daily Star, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-19T08:12:39Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "f94ecfe36a9ac1b8",
-  "url": "https://www.thedailystar.net/news/bangladesh/news/hc-clears-way-aug-20-presidential-election-4250986",
-  "headline": "Legal challenge filed to stay presidential election scheduled for Thursday",
-  "topic": "presidential election legal hurdles",
-  "source": "Dhaka Tribune, The Daily Star, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-19T08:12:39Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "4df72d138cd8e367",
   "url": "https://www.dhakatribune.com/bangladesh/nation/417829/30-injured-as-madrasa-students-clash-with-police",
   "headline": "30 injured as madrasa students clash with police in Brahmanbaria",
@@ -8398,5 +8342,41 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "34aec17aef8f36ee",
+  "url": "https://www.jamuna.tv/national/662562",
+  "headline": "Mirza Fakhrul Islam Alamgir to be sworn in as 23rd President of Bangladesh today",
+  "topic": "mirza fakhrul president swearing in",
+  "source": "Jamuna TV, Somoy News",
+  "status": "queued",
+  "at": "2026-08-21T03:07:46Z"
+ },
+ {
+  "title_hash": "22fad0af705043c3",
+  "url": "https://www.somoynews.tv/news/2026-08-21/KRIDWVAE",
+  "headline": "Mirza Fakhrul Islam Alamgir to be sworn in as 23rd President of Bangladesh today",
+  "topic": "mirza fakhrul president swearing in",
+  "source": "Jamuna TV, Somoy News",
+  "status": "queued",
+  "at": "2026-08-21T03:07:46Z"
+ },
+ {
+  "title_hash": "28173a94bfbd524c",
+  "url": "https://www.jamuna.tv/international/662561",
+  "headline": "Imran Khan transferred to hospital from prison under strict security for health checks",
+  "topic": "imran khan hospitalised from jail",
+  "source": "Jamuna TV, Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-21T03:07:46Z"
+ },
+ {
+  "title_hash": "28d155e24882642e",
+  "url": "https://www.prothomalo.com/opinion/column/y47j2h1ols",
+  "headline": "Imran Khan transferred to hospital from prison under strict security for health checks",
+  "topic": "imran khan hospitalised from jail",
+  "source": "Jamuna TV, Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-21T03:07:46Z"
  }
 ]
