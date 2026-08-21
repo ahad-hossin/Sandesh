@@ -1,33 +1,5 @@
 [
  {
-  "title_hash": "1cabc4b915d1883a",
-  "url": "https://www.prothomalo.com/lifestyle/9xzpidti28",
-  "headline": "9 Bangladeshis killed in Kolkata hotel fire",
-  "topic": "kolkata hotel fire bangladeshi deaths",
-  "source": "Dhaka Tribune, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-08-19T08:12:39Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "bada2f109e8b7efb",
-  "url": "https://www.thedailystar.net/news/accidents-and-fires/news/9-bangladeshis-killed-kolkata-hotel-fire-4251361",
-  "headline": "9 Bangladeshis killed in Kolkata hotel fire",
-  "topic": "kolkata hotel fire bangladeshi deaths",
-  "source": "Dhaka Tribune, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-08-19T08:12:39Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "19b33a7d414fb841",
   "url": "https://www.prothomalo.com/video/bangladesh/8m03i90aix",
   "headline": "9 Bangladeshis killed in Kolkata hotel fire",
@@ -8398,5 +8370,23 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "5e089e728304f6d8",
+  "url": "https://www.prothomalo.com/religion/islam/gogxqajbnh",
+  "headline": "Tayammum: Islam's alternative purification method when water is scarce or harmful",
+  "topic": "islamic purity no water",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-21T00:07:28Z"
+ },
+ {
+  "title_hash": "d4560c2985518569",
+  "url": "https://www.prothomalo.com/entertainment/song/ciio6fmrhc",
+  "headline": "Coke Studio Bangla unveils 'Mulluk', a folk song celebrating tea garden artists' heritage",
+  "topic": "coke studio bangla mulluk song",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-21T00:07:28Z"
  }
 ]
