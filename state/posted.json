@@ -8377,8 +8377,13 @@
   "headline": "Headmistress stabbed 27 times to death for money, two students arrested in India",
   "topic": "Headmistress murder international",
   "source": "Jamuna TV",
-  "status": "queued",
-  "at": "2026-08-21T01:07:39Z"
+  "status": "failed",
+  "at": "2026-08-21T01:07:39Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "d4560c2985518569",
@@ -8386,7 +8391,12 @@
   "headline": "Coke Studio Bangla releases new song 'Mulluk' featuring tea garden artists' stories of identity",
   "topic": "Coke Studio Bangla new song",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-21T01:07:39Z"
+  "status": "failed",
+  "at": "2026-08-21T01:07:39Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
