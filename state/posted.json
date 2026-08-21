@@ -1,61 +1,5 @@
 [
  {
-  "title_hash": "4df72d138cd8e367",
-  "url": "https://www.dhakatribune.com/bangladesh/nation/417829/30-injured-as-madrasa-students-clash-with-police",
-  "headline": "30 injured as madrasa students clash with police in Brahmanbaria",
-  "topic": "madrasa students police clash brahmanbaria",
-  "source": "Dhaka Tribune, The Daily Star",
-  "status": "failed",
-  "at": "2026-08-19T09:45:02Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "7ad3971ade54373e",
-  "url": "https://www.thedailystar.net/news/bangladesh/news/30-injured-madrasa-students-police-personnel-clash-brahmanbaria-4251436",
-  "headline": "30 injured as madrasa students clash with police in Brahmanbaria",
-  "topic": "madrasa students police clash brahmanbaria",
-  "source": "Dhaka Tribune, The Daily Star",
-  "status": "failed",
-  "at": "2026-08-19T09:45:02Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "68253c82ca92c4b5",
-  "url": "https://www.dhakatribune.com/bangladesh/417807/9-bangladeshis-killed-in-kolkata-hotel-fire",
-  "headline": "9 dead in Kolkata hotel fire, 5 victims are Bangladeshis",
-  "topic": "kolkata hotel fire bangladeshis",
-  "source": "Somoy News, Prothom Alo, Dhaka Tribune, The Daily Star",
-  "status": "failed",
-  "at": "2026-08-19T09:45:02Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "1719b169ab224f6b",
-  "url": "https://www.somoynews.tv/news/2026-08-19/X4KTwyuw",
-  "headline": "9 dead in Kolkata hotel fire, 5 victims are Bangladeshis",
-  "topic": "kolkata hotel fire bangladeshis",
-  "source": "Somoy News, Prothom Alo, Dhaka Tribune, The Daily Star",
-  "status": "failed",
-  "at": "2026-08-19T09:45:02Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "173aeb3c39422c71",
   "url": "https://www.prothomalo.com/bangladesh/1vqb9hdswa",
   "headline": "9 dead in Kolkata hotel fire, 5 victims are Bangladeshis",
@@ -8398,5 +8342,41 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "5d95d0667bfcbcfa",
+  "url": "https://www.jamuna.tv/national/662562",
+  "headline": "Mirza Fakhrul Islam Alamgir to be sworn in as 23rd President of Bangladesh today",
+  "topic": "Mirza Fakhrul President Oath & Congrats",
+  "source": "Jamuna TV, Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-21T04:07:29Z"
+ },
+ {
+  "title_hash": "3a355393eacd46af",
+  "url": "https://www.prothomalo.com/bangladesh/6jq5zvxjr8",
+  "headline": "Mirza Fakhrul Islam Alamgir to be sworn in as 23rd President of Bangladesh today",
+  "topic": "Mirza Fakhrul President Oath & Congrats",
+  "source": "Jamuna TV, Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-21T04:07:29Z"
+ },
+ {
+  "title_hash": "1fb32a5df7ed8bd4",
+  "url": "https://www.prothomalo.com/bangladesh/d2nthw7u8b",
+  "headline": "Mirza Fakhrul Islam Alamgir to be sworn in as 23rd President of Bangladesh today",
+  "topic": "Mirza Fakhrul President Oath & Congrats",
+  "source": "Jamuna TV, Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-21T04:07:29Z"
+ },
+ {
+  "title_hash": "d51fef4b9c455b9a",
+  "url": "https://www.jamuna.tv/all-bangladesh/662564",
+  "headline": "Bangladeshi Hafez Noor wins top prize at int'l Quran competition in Saudi Arabia",
+  "topic": "Baoufal Hafez Noor Quran Win",
+  "source": "Jamuna TV",
+  "status": "queued",
+  "at": "2026-08-21T04:07:29Z"
  }
 ]
