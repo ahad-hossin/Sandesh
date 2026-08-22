@@ -8349,8 +8349,13 @@
   "headline": "Threats prompt tighter security at Chinese and Japanese embassies in Dhaka",
   "topic": "khilgaon royal aid hospital fire",
   "source": "Jamuna TV, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-22T21:06:53Z"
+  "status": "failed",
+  "at": "2026-08-22T21:06:53Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "a28e426f98609bb7",
@@ -8358,8 +8363,13 @@
   "headline": "Threats prompt tighter security at Chinese and Japanese embassies in Dhaka",
   "topic": "khilgaon royal aid hospital fire",
   "source": "Jamuna TV, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-22T21:06:53Z"
+  "status": "failed",
+  "at": "2026-08-22T21:06:53Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "0fc6bf4d28838065",
@@ -8367,8 +8377,13 @@
   "headline": "4 killed in Rangpur: Retired teacher and family murdered in suspected robbery",
   "topic": "rangpur teacher family murder",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-22T21:06:53Z"
+  "status": "failed",
+  "at": "2026-08-22T21:06:53Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "d6578567a6b5b5bf",
@@ -8376,7 +8391,12 @@
   "headline": "4 killed in Rangpur: Retired teacher and family murdered in suspected robbery",
   "topic": "rangpur teacher family murder",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-22T21:06:53Z"
+  "status": "failed",
+  "at": "2026-08-22T21:06:53Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
