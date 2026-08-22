@@ -8321,8 +8321,13 @@
   "headline": "28,090 cases: Dengue infections surpass last year's figure for same period",
   "topic": "dengue cases surge",
   "source": "The Daily Star, Jamuna TV, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-08-22T17:07:03Z"
+  "status": "failed",
+  "at": "2026-08-22T17:07:03Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "e29cc8b295b31a39",
@@ -8330,8 +8335,13 @@
   "headline": "28,090 cases: Dengue infections surpass last year's figure for same period",
   "topic": "dengue cases surge",
   "source": "The Daily Star, Jamuna TV, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-08-22T17:07:03Z"
+  "status": "failed",
+  "at": "2026-08-22T17:07:03Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "541c5c8764b4d7e4",
@@ -8339,8 +8349,13 @@
   "headline": "28,090 cases: Dengue infections surpass last year's figure for same period",
   "topic": "dengue cases surge",
   "source": "The Daily Star, Jamuna TV, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-08-22T17:07:03Z"
+  "status": "failed",
+  "at": "2026-08-22T17:07:03Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "d898df843245f4df",
@@ -8348,8 +8363,13 @@
   "headline": "DMP withdraws OCs of Tejgaon and Paltan stations citing administrative reasons",
   "topic": "tejgaon palton oc removal",
   "source": "Prothom Alo, Jamuna TV",
-  "status": "queued",
-  "at": "2026-08-22T17:07:03Z"
+  "status": "failed",
+  "at": "2026-08-22T17:07:03Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "b73dc7a8d257c4ad",
@@ -8357,8 +8377,13 @@
   "headline": "DMP withdraws OCs of Tejgaon and Paltan stations citing administrative reasons",
   "topic": "tejgaon palton oc removal",
   "source": "Prothom Alo, Jamuna TV",
-  "status": "queued",
-  "at": "2026-08-22T17:07:03Z"
+  "status": "failed",
+  "at": "2026-08-22T17:07:03Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "c6c19abf239a8265",
@@ -8366,7 +8391,12 @@
   "headline": "DMP withdraws OCs of Tejgaon and Paltan stations citing administrative reasons",
   "topic": "tejgaon palton oc removal",
   "source": "Prothom Alo, Jamuna TV",
-  "status": "queued",
-  "at": "2026-08-22T17:07:03Z"
+  "status": "failed",
+  "at": "2026-08-22T17:07:03Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
