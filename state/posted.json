@@ -1,47 +1,5 @@
 [
  {
-  "title_hash": "32be9984db1c766a",
-  "url": "https://www.jamuna.tv/national/662540",
-  "headline": "255 votes: Mirza Fakhrul Islam Alamgir elected as Bangladesh's 24th president",
-  "topic": "mirza fakhrul elected president",
-  "source": "Prothom Alo, Dhaka Tribune, Jamuna TV",
-  "status": "failed",
-  "at": "2026-08-20T21:07:01Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "9f9c6935d82b2936",
-  "url": "https://www.dhakatribune.com/bangladesh/politics/417950/pm-congratulates-new-president-with-red-roses",
-  "headline": "255 votes: Mirza Fakhrul Islam Alamgir elected as Bangladesh's 24th president",
-  "topic": "mirza fakhrul elected president",
-  "source": "Prothom Alo, Dhaka Tribune, Jamuna TV",
-  "status": "failed",
-  "at": "2026-08-20T21:07:01Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "cf006d060e4984fb",
-  "url": "https://www.dhakatribune.com/bangladesh/foreign-affairs/417947/china-uk-congratulate-mirza-fakhrul-on-election",
-  "headline": "255 votes: Mirza Fakhrul Islam Alamgir elected as Bangladesh's 24th president",
-  "topic": "mirza fakhrul elected president",
-  "source": "Prothom Alo, Dhaka Tribune, Jamuna TV",
-  "status": "failed",
-  "at": "2026-08-20T21:07:01Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "a875f99a0e946f1d",
   "url": "https://www.dhakatribune.com/bangladesh/417943/mirza-fakhrul%E2%80%99s-journey-from-classroom-to",
   "headline": "255 votes: Mirza Fakhrul Islam Alamgir elected as Bangladesh's 24th president",
@@ -8398,5 +8356,32 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "19f6d8ca71cf7645",
+  "url": "https://www.dhakatribune.com/bangladesh/418118/muggings-surge-across-dhaka-as-residents-live-in",
+  "headline": "Dhaka residents live in fear as muggings surge across the city",
+  "topic": "dhaka muggings surge",
+  "source": "Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-08-22T22:06:57Z"
+ },
+ {
+  "title_hash": "0fc6bf4d28838065",
+  "url": "https://www.prothomalo.com/bangladesh/district/rnpure-saabek-shiksskke-strii-chele-meyyesh-htyaa",
+  "headline": "4 killed in Rangpur: Retired teacher, wife, and children murdered",
+  "topic": "rangpur teacher family murder",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-22T22:06:57Z"
+ },
+ {
+  "title_hash": "d6578567a6b5b5bf",
+  "url": "https://www.prothomalo.com/bangladesh/district/gbcfyu6swt",
+  "headline": "4 killed in Rangpur: Retired teacher, wife, and children murdered",
+  "topic": "rangpur teacher family murder",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-22T22:06:57Z"
  }
 ]
