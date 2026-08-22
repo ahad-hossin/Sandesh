@@ -8335,8 +8335,13 @@
   "headline": "Island district Bhola to get road link: PM approves highway plan to connect it to mainland",
   "topic": "bhola highway plan",
   "source": "The Daily Star, Jamuna TV",
-  "status": "queued",
-  "at": "2026-08-22T11:07:36Z"
+  "status": "failed",
+  "at": "2026-08-22T11:07:36Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "6e2ca0ad8321b0b7",
@@ -8344,8 +8349,13 @@
   "headline": "Island district Bhola to get road link: PM approves highway plan to connect it to mainland",
   "topic": "bhola highway plan",
   "source": "The Daily Star, Jamuna TV",
-  "status": "queued",
-  "at": "2026-08-22T11:07:36Z"
+  "status": "failed",
+  "at": "2026-08-22T11:07:36Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "31639fbfa867aedb",
@@ -8353,8 +8363,13 @@
   "headline": "Gold prices surge: 22K gold jumps 5,482 taka per bhori",
   "topic": "gold price hike",
   "source": "Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-22T11:07:36Z"
+  "status": "failed",
+  "at": "2026-08-22T11:07:36Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "0e7a37c45aaf7f86",
@@ -8362,8 +8377,13 @@
   "headline": "Gold prices surge: 22K gold jumps 5,482 taka per bhori",
   "topic": "gold price hike",
   "source": "Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-22T11:07:36Z"
+  "status": "failed",
+  "at": "2026-08-22T11:07:36Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "6c4e4aafc4c67a10",
@@ -8371,7 +8391,12 @@
   "headline": "Gold prices surge: 22K gold jumps 5,482 taka per bhori",
   "topic": "gold price hike",
   "source": "Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-22T11:07:36Z"
+  "status": "failed",
+  "at": "2026-08-22T11:07:36Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
