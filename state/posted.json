@@ -1,61 +1,5 @@
 [
  {
-  "title_hash": "9dc9aca895aa0b82",
-  "url": "https://www.dhakatribune.com/bangladesh/election/417955/ec-issues-gazette-declaring-mirza-fakhrul",
-  "headline": "255 votes: Mirza Fakhrul Islam Alamgir elected as Bangladesh's 24th president",
-  "topic": "mirza fakhrul elected president",
-  "source": "Prothom Alo, Dhaka Tribune, Jamuna TV",
-  "status": "failed",
-  "at": "2026-08-20T21:07:01Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "b9208788164a63f2",
-  "url": "https://www.jamuna.tv/national/662544",
-  "headline": "255 votes: Mirza Fakhrul Islam Alamgir elected as Bangladesh's 24th president",
-  "topic": "mirza fakhrul elected president",
-  "source": "Prothom Alo, Dhaka Tribune, Jamuna TV",
-  "status": "failed",
-  "at": "2026-08-20T21:07:01Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "b51b48c43ecaac84",
-  "url": "https://www.dhakatribune.com/bangladesh/417952/prof-yunus-congratulates-mirza-fakhrul-islam",
-  "headline": "255 votes: Mirza Fakhrul Islam Alamgir elected as Bangladesh's 24th president",
-  "topic": "mirza fakhrul elected president",
-  "source": "Prothom Alo, Dhaka Tribune, Jamuna TV",
-  "status": "failed",
-  "at": "2026-08-20T21:07:01Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "58a3062df71a34a5",
-  "url": "https://www.dhakatribune.com/bangladesh/election/417948/oli-ahmed-congratulates-mirza-fakhrul-on-election",
-  "headline": "255 votes: Mirza Fakhrul Islam Alamgir elected as Bangladesh's 24th president",
-  "topic": "mirza fakhrul elected president",
-  "source": "Prothom Alo, Dhaka Tribune, Jamuna TV",
-  "status": "failed",
-  "at": "2026-08-20T21:07:01Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "32be9984db1c766a",
   "url": "https://www.jamuna.tv/national/662540",
   "headline": "255 votes: Mirza Fakhrul Islam Alamgir elected as Bangladesh's 24th president",
@@ -8398,5 +8342,41 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "816a3c80bc92358c",
+  "url": "https://www.thedailystar.net/news/crime-justice/news/threats-prompt-tighter-security-two-embassies-4254366",
+  "headline": "Threats prompt tighter security at Chinese and Japanese embassies in Dhaka",
+  "topic": "khilgaon royal aid hospital fire",
+  "source": "Jamuna TV, The Daily Star",
+  "status": "queued",
+  "at": "2026-08-22T21:06:53Z"
+ },
+ {
+  "title_hash": "a28e426f98609bb7",
+  "url": "https://www.jamuna.tv/national/662649",
+  "headline": "Threats prompt tighter security at Chinese and Japanese embassies in Dhaka",
+  "topic": "khilgaon royal aid hospital fire",
+  "source": "Jamuna TV, The Daily Star",
+  "status": "queued",
+  "at": "2026-08-22T21:06:53Z"
+ },
+ {
+  "title_hash": "0fc6bf4d28838065",
+  "url": "https://www.prothomalo.com/bangladesh/district/rnpure-saabek-shiksskke-strii-chele-meyyesh-htyaa",
+  "headline": "4 killed in Rangpur: Retired teacher and family murdered in suspected robbery",
+  "topic": "rangpur teacher family murder",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-22T21:06:53Z"
+ },
+ {
+  "title_hash": "d6578567a6b5b5bf",
+  "url": "https://www.prothomalo.com/bangladesh/district/gbcfyu6swt",
+  "headline": "4 killed in Rangpur: Retired teacher and family murdered in suspected robbery",
+  "topic": "rangpur teacher family murder",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-22T21:06:53Z"
  }
 ]
