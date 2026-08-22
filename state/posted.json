@@ -1,47 +1,5 @@
 [
  {
-  "title_hash": "bb50dae4296f6cfe",
-  "url": "https://www.prothomalo.com/politics/5du9bli9jk",
-  "headline": "Mirza Fakhrul Islam Alamgir elected as Bangladesh's 24th president",
-  "topic": "mirza fakhrul elected president",
-  "source": "Prothom Alo, Jamuna TV, Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-08-20T20:07:14Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "5c75298ba0e25de7",
-  "url": "https://www.dhakatribune.com/bangladesh/politics/417939/rizvi-appointed-bnp-acting-secretary-general",
-  "headline": "Ruhul Kabir Rizvi appointed BNP acting secretary general",
-  "topic": "ruhul kabir rizvi bnp acting secretary general",
-  "source": "Dhaka Tribune, The Daily Star, Jamuna TV",
-  "status": "failed",
-  "at": "2026-08-20T20:07:14Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "334942667bb37a65",
-  "url": "https://www.thedailystar.net/news/bangladesh/news/rizvi-takes-over-bnp-acting-secretary-general-4253091",
-  "headline": "Ruhul Kabir Rizvi appointed BNP acting secretary general",
-  "topic": "ruhul kabir rizvi bnp acting secretary general",
-  "source": "Dhaka Tribune, The Daily Star, Jamuna TV",
-  "status": "failed",
-  "at": "2026-08-20T20:07:14Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "e22f67ee3b7164be",
   "url": "https://www.jamuna.tv/politics/662545",
   "headline": "Ruhul Kabir Rizvi appointed BNP acting secretary general",
@@ -8398,5 +8356,32 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "19f6d8ca71cf7645",
+  "url": "https://www.dhakatribune.com/bangladesh/418118/muggings-surge-across-dhaka-as-residents-live-in",
+  "headline": "Dhaka residents in fear as muggings surge across the city",
+  "topic": "dhaka muggings surge",
+  "source": "Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-08-22T18:07:08Z"
+ },
+ {
+  "title_hash": "2dce658e848bd6f3",
+  "url": "https://www.dhakatribune.com/bangladesh/crime/418068/robbers-%E2%80%98tana-party%E2%80%99-gangs-keep-dhaka-residents",
+  "headline": "Dhaka residents in fear as muggings surge across the city",
+  "topic": "dhaka muggings surge",
+  "source": "Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-08-22T18:07:08Z"
+ },
+ {
+  "title_hash": "b5b36c674f515a97",
+  "url": "https://www.dhakatribune.com/bangladesh/418120/raid-videos-go-viral-raising-questions-over",
+  "headline": "Privacy concerns rise as raid videos go viral online",
+  "topic": "police raid videos privacy",
+  "source": "Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-08-22T18:07:08Z"
  }
 ]
