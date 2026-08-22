@@ -8363,8 +8363,13 @@
   "headline": "Dhaka residents live in fear as muggings surge across the city",
   "topic": "dhaka muggings surge",
   "source": "Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-08-22T22:06:57Z"
+  "status": "failed",
+  "at": "2026-08-22T22:06:57Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "0fc6bf4d28838065",
@@ -8372,8 +8377,13 @@
   "headline": "4 killed in Rangpur: Retired teacher, wife, and children murdered",
   "topic": "rangpur teacher family murder",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-22T22:06:57Z"
+  "status": "failed",
+  "at": "2026-08-22T22:06:57Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "d6578567a6b5b5bf",
@@ -8381,7 +8391,12 @@
   "headline": "4 killed in Rangpur: Retired teacher, wife, and children murdered",
   "topic": "rangpur teacher family murder",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-22T22:06:57Z"
+  "status": "failed",
+  "at": "2026-08-22T22:06:57Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
