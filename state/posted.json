@@ -8321,8 +8321,13 @@
   "headline": "FIFA confirms Bangladesh to play in ASEAN Cup as India withdraws",
   "topic": "bangladesh fifa asean cup",
   "source": "Jamuna TV, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-22T14:07:13Z"
+  "status": "failed",
+  "at": "2026-08-22T14:07:13Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "f2816f18a0b700bf",
@@ -8330,8 +8335,13 @@
   "headline": "FIFA confirms Bangladesh to play in ASEAN Cup as India withdraws",
   "topic": "bangladesh fifa asean cup",
   "source": "Jamuna TV, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-22T14:07:13Z"
+  "status": "failed",
+  "at": "2026-08-22T14:07:13Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "da86336686c7b0ba",
@@ -8339,8 +8349,13 @@
   "headline": "Cabinet reshuffle: Zahir Uddin Swapon appointed PM’s political adviser",
   "topic": "swapon pm political adviser",
   "source": "The Daily Star, Jamuna TV, Dhaka Tribune, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-22T14:07:13Z"
+  "status": "failed",
+  "at": "2026-08-22T14:07:13Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "caf1bb9cbc3c646a",
@@ -8348,8 +8363,13 @@
   "headline": "Cabinet reshuffle: Zahir Uddin Swapon appointed PM’s political adviser",
   "topic": "swapon pm political adviser",
   "source": "The Daily Star, Jamuna TV, Dhaka Tribune, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-22T14:07:13Z"
+  "status": "failed",
+  "at": "2026-08-22T14:07:13Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "a31cf9bb7eaac51e",
@@ -8357,8 +8377,13 @@
   "headline": "Cabinet reshuffle: Zahir Uddin Swapon appointed PM’s political adviser",
   "topic": "swapon pm political adviser",
   "source": "The Daily Star, Jamuna TV, Dhaka Tribune, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-22T14:07:13Z"
+  "status": "failed",
+  "at": "2026-08-22T14:07:13Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "3b8bf0027d455b0c",
@@ -8366,7 +8391,12 @@
   "headline": "Cabinet reshuffle: Zahir Uddin Swapon appointed PM’s political adviser",
   "topic": "swapon pm political adviser",
   "source": "The Daily Star, Jamuna TV, Dhaka Tribune, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-22T14:07:13Z"
+  "status": "failed",
+  "at": "2026-08-22T14:07:13Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
