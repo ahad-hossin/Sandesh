@@ -8377,8 +8377,13 @@
   "headline": "90th-minute winner: Real Madrid beat Espanyol 2-1 in Mourinho's return",
   "topic": "mourinho real madrid win",
   "source": "The Daily Star",
-  "status": "queued",
-  "at": "2026-08-22T23:06:56Z"
+  "status": "failed",
+  "at": "2026-08-22T23:06:56Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "fff422e197c28550",
@@ -8386,7 +8391,12 @@
   "headline": "Olise shines as Bayern Munich win German Supercup 2-1",
   "topic": "bayern munich supercup win",
   "source": "The Daily Star",
-  "status": "queued",
-  "at": "2026-08-22T23:06:56Z"
+  "status": "failed",
+  "at": "2026-08-22T23:06:56Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
