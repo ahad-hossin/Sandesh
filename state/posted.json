@@ -8363,8 +8363,13 @@
   "headline": "Dhaka residents in fear as muggings surge across the city",
   "topic": "dhaka muggings surge",
   "source": "Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-08-22T18:07:08Z"
+  "status": "failed",
+  "at": "2026-08-22T18:07:08Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "2dce658e848bd6f3",
@@ -8372,8 +8377,13 @@
   "headline": "Dhaka residents in fear as muggings surge across the city",
   "topic": "dhaka muggings surge",
   "source": "Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-08-22T18:07:08Z"
+  "status": "failed",
+  "at": "2026-08-22T18:07:08Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "b5b36c674f515a97",
@@ -8381,7 +8391,12 @@
   "headline": "Privacy concerns rise as raid videos go viral online",
   "topic": "police raid videos privacy",
   "source": "Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-08-22T18:07:08Z"
+  "status": "failed",
+  "at": "2026-08-22T18:07:08Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
