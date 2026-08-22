@@ -1,47 +1,5 @@
 [
  {
-  "title_hash": "e22f67ee3b7164be",
-  "url": "https://www.jamuna.tv/politics/662545",
-  "headline": "Ruhul Kabir Rizvi appointed BNP acting secretary general",
-  "topic": "ruhul kabir rizvi bnp acting secretary general",
-  "source": "Dhaka Tribune, The Daily Star, Jamuna TV",
-  "status": "failed",
-  "at": "2026-08-20T20:07:14Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "af1062bbf8a77fb4",
-  "url": "https://www.dhakatribune.com/bangladesh/election/417971/congratulations-pour-in-for-fakhrul",
-  "headline": "255 votes: Mirza Fakhrul Islam Alamgir elected as Bangladesh's 24th president",
-  "topic": "mirza fakhrul elected president",
-  "source": "Prothom Alo, Dhaka Tribune, Jamuna TV",
-  "status": "failed",
-  "at": "2026-08-20T21:07:01Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "6d8ba3341aea61a0",
-  "url": "https://www.prothomalo.com/politics/crpjzp8mfk",
-  "headline": "255 votes: Mirza Fakhrul Islam Alamgir elected as Bangladesh's 24th president",
-  "topic": "mirza fakhrul elected president",
-  "source": "Prothom Alo, Dhaka Tribune, Jamuna TV",
-  "status": "failed",
-  "at": "2026-08-20T21:07:01Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "487bc352dec90eb9",
   "url": "https://www.dhakatribune.com/bangladesh/417970/historic-ballot-sends-mirza-fakhrul-to-bangabhaban",
   "headline": "255 votes: Mirza Fakhrul Islam Alamgir elected as Bangladesh's 24th president",
@@ -8398,5 +8356,32 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "d6578567a6b5b5bf",
+  "url": "https://www.prothomalo.com/bangladesh/district/gbcfyu6swt",
+  "headline": "4 family members killed in Rangpur, bodies found in locked house",
+  "topic": "rangpur family death",
+  "source": "Prothom Alo, Jamuna TV",
+  "status": "queued",
+  "at": "2026-08-22T19:06:57Z"
+ },
+ {
+  "title_hash": "75ef4ac36fe89832",
+  "url": "https://www.jamuna.tv/all-bangladesh/662648",
+  "headline": "4 family members killed in Rangpur, bodies found in locked house",
+  "topic": "rangpur family death",
+  "source": "Prothom Alo, Jamuna TV",
+  "status": "queued",
+  "at": "2026-08-22T19:06:57Z"
+ },
+ {
+  "title_hash": "19f6d8ca71cf7645",
+  "url": "https://www.dhakatribune.com/bangladesh/418118/muggings-surge-across-dhaka-as-residents-live-in",
+  "headline": "Fear grips city as muggings surge across Dhaka",
+  "topic": "dhaka mugging surge",
+  "source": "Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-08-22T19:06:57Z"
  }
 ]
