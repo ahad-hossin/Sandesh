@@ -8330,8 +8330,13 @@
   "headline": "Government makes major cabinet reshuffle after six months",
   "topic": "cabinet reshuffle",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-23T14:06:51Z"
+  "status": "failed",
+  "at": "2026-08-23T14:06:51Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "63611ceae4bc9d33",
@@ -8339,8 +8344,13 @@
   "headline": "2 held after 4 family members killed in Rangpur over Yaba use",
   "topic": "rangpur family killing",
   "source": "Prothom Alo, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-08-23T14:06:51Z"
+  "status": "failed",
+  "at": "2026-08-23T14:06:51Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "85e449bc3994b90c",
@@ -8348,8 +8358,13 @@
   "headline": "2 held after 4 family members killed in Rangpur over Yaba use",
   "topic": "rangpur family killing",
   "source": "Prothom Alo, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-08-23T14:06:51Z"
+  "status": "failed",
+  "at": "2026-08-23T14:06:51Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "51feb9e096f4a566",
@@ -8357,8 +8372,13 @@
   "headline": "2 held after 4 family members killed in Rangpur over Yaba use",
   "topic": "rangpur family killing",
   "source": "Prothom Alo, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-08-23T14:06:51Z"
+  "status": "failed",
+  "at": "2026-08-23T14:06:51Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "89184141d61c74d3",
@@ -8366,7 +8386,12 @@
   "headline": "2 held after 4 family members killed in Rangpur over Yaba use",
   "topic": "rangpur family killing",
   "source": "Prothom Alo, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-08-23T14:06:51Z"
+  "status": "failed",
+  "at": "2026-08-23T14:06:51Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
