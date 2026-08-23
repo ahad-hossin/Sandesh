@@ -1,75 +1,5 @@
 [
  {
-  "title_hash": "1083780d2fa1d88d",
-  "url": "https://www.dhakatribune.com/bangladesh/government-affairs/417991/four-new-faces-to-join-cabinet-take-oath-friday",
-  "headline": "Four new faces to join cabinet tonight in major reshuffle",
-  "topic": "new cabinet members oath",
-  "source": "Dhaka Tribune, Jamuna TV, Somoy News, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-08-21T11:06:46Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "d0de2a4635e4a5cc",
-  "url": "https://www.jamuna.tv/national/662579",
-  "headline": "Four new faces to join cabinet tonight in major reshuffle",
-  "topic": "new cabinet members oath",
-  "source": "Dhaka Tribune, Jamuna TV, Somoy News, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-08-21T11:06:46Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "6eec730227a001d8",
-  "url": "https://www.somoynews.tv/news/2026-08-21/9HXXXXH2",
-  "headline": "Four new faces to join cabinet tonight in major reshuffle",
-  "topic": "new cabinet members oath",
-  "source": "Dhaka Tribune, Jamuna TV, Somoy News, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-08-21T11:06:46Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "b7336805846678ba",
-  "url": "https://www.prothomalo.com/bangladesh/mntrisbhaayy-yukt-hcchen-caarjn",
-  "headline": "Four new faces to join cabinet tonight in major reshuffle",
-  "topic": "new cabinet members oath",
-  "source": "Dhaka Tribune, Jamuna TV, Somoy News, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-08-21T11:06:46Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "80fa4aa7d43d8c61",
-  "url": "https://www.prothomalo.com/politics/hcd05lmzut",
-  "headline": "Four new faces to join cabinet tonight in major reshuffle",
-  "topic": "new cabinet members oath",
-  "source": "Dhaka Tribune, Jamuna TV, Somoy News, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-08-21T11:06:46Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "7a04f5935d247d0a",
   "url": "https://www.thedailystar.net/news/governance/news/moyeen-khan-andaleeve-partho-among-4-mps-likely-join-cabinet-today-4253351",
   "headline": "Four new faces to join cabinet tonight in major reshuffle",
@@ -8393,5 +8323,50 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "149127ace6e6d1e7",
+  "url": "https://www.thedailystar.net/news/politics/news/11-party-alliance-says-public-trust-govt-has-hit-rock-bottom-4255351",
+  "headline": "11-party alliance says public trust in govt has hit rock bottom",
+  "topic": "11-party alliance govt trust rock bottom",
+  "source": "The Daily Star",
+  "status": "queued",
+  "at": "2026-08-23T21:07:11Z"
+ },
+ {
+  "title_hash": "5325c072cbafcc69",
+  "url": "https://www.thedailystar.net/news/bangladesh/news/6-months-too-short-ease-public-woes-khosru-4255391",
+  "headline": "11-party alliance says public trust in govt has hit rock bottom",
+  "topic": "11-party alliance govt trust rock bottom",
+  "source": "The Daily Star",
+  "status": "queued",
+  "at": "2026-08-23T21:07:11Z"
+ },
+ {
+  "title_hash": "a42f9d601e938007",
+  "url": "https://www.thedailystar.net/news/crime-justice/news/rangpur-killings-faces-all-4-were-burnt-4255386",
+  "headline": "4 family members killed in Rangpur city",
+  "topic": "rangpur family of four killed",
+  "source": "Prothom Alo, The Daily Star, Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-08-23T21:07:11Z"
+ },
+ {
+  "title_hash": "261ff37b2959b348",
+  "url": "https://www.prothomalo.com/bangladesh/district/dafaiv62mr",
+  "headline": "4 family members killed in Rangpur city",
+  "topic": "rangpur family of four killed",
+  "source": "Prothom Alo, The Daily Star, Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-08-23T21:07:11Z"
+ },
+ {
+  "title_hash": "63611ceae4bc9d33",
+  "url": "https://www.dhakatribune.com/bangladesh/crime/418151/2-held-over-killings-of-four-family-members-in",
+  "headline": "4 family members killed in Rangpur city",
+  "topic": "rangpur family of four killed",
+  "source": "Prothom Alo, The Daily Star, Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-08-23T21:07:11Z"
  }
 ]
