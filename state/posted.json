@@ -1,47 +1,5 @@
 [
  {
-  "title_hash": "3545579f65d54e93",
-  "url": "https://www.jamuna.tv/national/662543",
-  "headline": "255 votes: Mirza Fakhrul elected as Bangladesh's 24th president",
-  "topic": "mirza fakhrul elected president",
-  "source": "Dhaka Tribune, Prothom Alo, Jamuna TV, The Daily Star",
-  "status": "failed",
-  "at": "2026-08-20T22:07:03Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "b51b48c43ecaac84",
-  "url": "https://www.dhakatribune.com/bangladesh/417952/prof-yunus-congratulates-mirza-fakhrul-islam",
-  "headline": "255 votes: Mirza Fakhrul elected as Bangladesh's 24th president",
-  "topic": "mirza fakhrul elected president",
-  "source": "Dhaka Tribune, Prothom Alo, Jamuna TV, The Daily Star",
-  "status": "failed",
-  "at": "2026-08-20T22:07:03Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "58a3062df71a34a5",
-  "url": "https://www.dhakatribune.com/bangladesh/election/417948/oli-ahmed-congratulates-mirza-fakhrul-on-election",
-  "headline": "255 votes: Mirza Fakhrul elected as Bangladesh's 24th president",
-  "topic": "mirza fakhrul elected president",
-  "source": "Dhaka Tribune, Prothom Alo, Jamuna TV, The Daily Star",
-  "status": "failed",
-  "at": "2026-08-20T22:07:03Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "32be9984db1c766a",
   "url": "https://www.jamuna.tv/national/662540",
   "headline": "255 votes: Mirza Fakhrul elected as Bangladesh's 24th president",
@@ -8393,5 +8351,32 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "2559c4da8e24d9a3",
+  "url": "https://www.dhakatribune.com/bangladesh/418124/bangladeshi-sailor-among-2-rescued-after-ship",
+  "headline": "Bangladeshi sailor among 2 rescued after cargo ship sinks off Odisha coast; 22 still missing",
+  "topic": "bangladeshi sailor ship sinks odisha",
+  "source": "Dhaka Tribune, Jamuna TV",
+  "status": "queued",
+  "at": "2026-08-23T04:07:28Z"
+ },
+ {
+  "title_hash": "a6b3c37f0d1b20da",
+  "url": "https://www.jamuna.tv/international/662656",
+  "headline": "Bangladeshi sailor among 2 rescued after cargo ship sinks off Odisha coast; 22 still missing",
+  "topic": "bangladeshi sailor ship sinks odisha",
+  "source": "Dhaka Tribune, Jamuna TV",
+  "status": "queued",
+  "at": "2026-08-23T04:07:28Z"
+ },
+ {
+  "title_hash": "a7aa6e33b3f372fc",
+  "url": "https://www.thedailystar.net/news/crime-justice/news/four-family-members-found-dead-locked-rangpur-home-4254571",
+  "headline": "4 family members found dead in locked Rangpur home; police investigate mysterious deaths",
+  "topic": "rangpur 4 family members found dead",
+  "source": "The Daily Star",
+  "status": "queued",
+  "at": "2026-08-23T04:07:28Z"
  }
 ]
