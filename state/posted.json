@@ -1,89 +1,5 @@
 [
  {
-  "title_hash": "3bee6101ad41e7a2",
-  "url": "https://www.thedailystar.net/opinion/views/the-third-view/news/expectations-bnps-next-secretary-general-4252976",
-  "headline": "Mirza Fakhrul to take oath as 23rd President Friday evening",
-  "topic": "mirza fakhrul president oath",
-  "source": "Dhaka Tribune, Jamuna TV, The Daily Star, Somoy News, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-21T06:07:52Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "e357271a9a3a966c",
-  "url": "https://www.thedailystar.net/news/world/south-asia/news/former-pakistan-pm-imran-khan-moved-hospital-after-court-order-his-party-says-4253231",
-  "headline": "Court order: Imran Khan moved to hospital for medical exam",
-  "topic": "imran khan hospital jail",
-  "source": "The Daily Star, Somoy News, Jamuna TV",
-  "status": "failed",
-  "at": "2026-08-21T06:07:52Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "526cd8a8b897bcda",
-  "url": "https://www.somoynews.tv/news/2026-08-21/I89uIT83",
-  "headline": "Court order: Imran Khan moved to hospital for medical exam",
-  "topic": "imran khan hospital jail",
-  "source": "The Daily Star, Somoy News, Jamuna TV",
-  "status": "failed",
-  "at": "2026-08-21T06:07:52Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "28173a94bfbd524c",
-  "url": "https://www.jamuna.tv/international/662561",
-  "headline": "Court order: Imran Khan moved to hospital for medical exam",
-  "topic": "imran khan hospital jail",
-  "source": "The Daily Star, Somoy News, Jamuna TV",
-  "status": "failed",
-  "at": "2026-08-21T06:07:52Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "b35c95e2df5fc921",
-  "url": "https://www.thedailystar.net/news/world/news/ex-pm-khan-wont-confront-pak-army-chief-if-freed-close-aide-4252956",
-  "headline": "Court order: Imran Khan moved to hospital for medical exam",
-  "topic": "imran khan hospital jail",
-  "source": "The Daily Star, Somoy News, Jamuna TV",
-  "status": "failed",
-  "at": "2026-08-21T06:07:52Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "2f61468132774c65",
-  "url": "https://www.dhakatribune.com/bangladesh/417982/mirza-fakhrul-to-take-oath-as-president-this",
-  "headline": "Mirza Fakhrul Islam Alamgir to be sworn in as 23rd President Friday evening",
-  "topic": "mirza fakhrul president swearing-in",
-  "source": "Dhaka Tribune, Jamuna TV, The Daily Star, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-21T07:03:18Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "e330a2779895ac6a",
   "url": "https://www.dhakatribune.com/bangladesh/417979/which-roads-to-avoid-during-president%E2%80%99s",
   "headline": "Mirza Fakhrul Islam Alamgir to be sworn in as 23rd President Friday evening",
@@ -8393,5 +8309,59 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "f3acfaa8ea330404",
+  "url": "https://www.dhakatribune.com/bangladesh/health/418157/dengue-five-more-die-as-839-cases-recorded-in-24",
+  "headline": "839 hospitalised in 24 hours as 5 more die of dengue",
+  "topic": "dengue deaths rise",
+  "source": "Dhaka Tribune, The Daily Star, Prothom Alo, Jamuna TV",
+  "status": "queued",
+  "at": "2026-08-23T13:07:09Z"
+ },
+ {
+  "title_hash": "1b5efe0b79be9a0c",
+  "url": "https://www.thedailystar.net/news/healthcare/disease/news/dengue-kills-5-more-839-hospitalised-24-hours-4254836",
+  "headline": "839 hospitalised in 24 hours as 5 more die of dengue",
+  "topic": "dengue deaths rise",
+  "source": "Dhaka Tribune, The Daily Star, Prothom Alo, Jamuna TV",
+  "status": "queued",
+  "at": "2026-08-23T13:07:09Z"
+ },
+ {
+  "title_hash": "85de53f5c9ba167f",
+  "url": "https://www.prothomalo.com/bangladesh/tsljcbfrmd",
+  "headline": "839 hospitalised in 24 hours as 5 more die of dengue",
+  "topic": "dengue deaths rise",
+  "source": "Dhaka Tribune, The Daily Star, Prothom Alo, Jamuna TV",
+  "status": "queued",
+  "at": "2026-08-23T13:07:09Z"
+ },
+ {
+  "title_hash": "e34139e23d4234e6",
+  "url": "https://www.jamuna.tv/national/662686",
+  "headline": "839 hospitalised in 24 hours as 5 more die of dengue",
+  "topic": "dengue deaths rise",
+  "source": "Dhaka Tribune, The Daily Star, Prothom Alo, Jamuna TV",
+  "status": "queued",
+  "at": "2026-08-23T13:07:09Z"
+ },
+ {
+  "title_hash": "b966b1add05163b7",
+  "url": "https://www.thedailystar.net/sports/football/news/cbf-inspects-national-stadium-could-open-door-brazil-bangladesh-match-4254751",
+  "headline": "Brazil football delegation inspects National Stadium for potential match",
+  "topic": "brazil football delegation visit",
+  "source": "Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-08-23T13:07:09Z"
+ },
+ {
+  "title_hash": "6fa4d0a24760f2ba",
+  "url": "https://www.prothomalo.com/sports/football/nuldjgsu8r",
+  "headline": "Brazil football delegation inspects National Stadium for potential match",
+  "topic": "brazil football delegation visit",
+  "source": "Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-08-23T13:07:09Z"
  }
 ]
