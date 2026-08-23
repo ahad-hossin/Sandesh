@@ -8372,8 +8372,13 @@
   "headline": "Mirza Fakhrul Islam Alamgir elected President of Bangladesh, as widely anticipated",
   "topic": "New President Mirza Fakhrul",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-23T03:07:11Z"
+  "status": "failed",
+  "at": "2026-08-23T03:07:11Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "8d6031aa7f03ed19",
@@ -8381,7 +8386,12 @@
   "headline": "PM picks up Ehsanul Huda in car during Kishoreganj visit, sparking new debate in Bajitpur BNP politics",
   "topic": "PM Stops Car for Ehsanul",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-23T03:07:11Z"
+  "status": "failed",
+  "at": "2026-08-23T03:07:11Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
