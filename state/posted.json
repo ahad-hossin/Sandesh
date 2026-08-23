@@ -1,33 +1,5 @@
 [
  {
-  "title_hash": "9dc9aca895aa0b82",
-  "url": "https://www.dhakatribune.com/bangladesh/election/417955/ec-issues-gazette-declaring-mirza-fakhrul",
-  "headline": "255 votes: Mirza Fakhrul elected as Bangladesh's 24th president",
-  "topic": "mirza fakhrul elected president",
-  "source": "Dhaka Tribune, Prothom Alo, Jamuna TV, The Daily Star",
-  "status": "failed",
-  "at": "2026-08-20T22:07:03Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "b9208788164a63f2",
-  "url": "https://www.jamuna.tv/national/662544",
-  "headline": "255 votes: Mirza Fakhrul elected as Bangladesh's 24th president",
-  "topic": "mirza fakhrul elected president",
-  "source": "Dhaka Tribune, Prothom Alo, Jamuna TV, The Daily Star",
-  "status": "failed",
-  "at": "2026-08-20T22:07:03Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "3545579f65d54e93",
   "url": "https://www.jamuna.tv/national/662543",
   "headline": "255 votes: Mirza Fakhrul elected as Bangladesh's 24th president",
@@ -8393,5 +8365,23 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "03e3c40e094720ac",
+  "url": "https://www.prothomalo.com/opinion/column/glbrx0wnjx",
+  "headline": "Mirza Fakhrul Islam Alamgir elected President of Bangladesh, as widely anticipated",
+  "topic": "New President Mirza Fakhrul",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-23T03:07:11Z"
+ },
+ {
+  "title_hash": "8d6031aa7f03ed19",
+  "url": "https://www.prothomalo.com/bangladesh/district/cdy62ysr95",
+  "headline": "PM picks up Ehsanul Huda in car during Kishoreganj visit, sparking new debate in Bajitpur BNP politics",
+  "topic": "PM Stops Car for Ehsanul",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-23T03:07:11Z"
  }
 ]
