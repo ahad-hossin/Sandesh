@@ -8316,8 +8316,13 @@
   "headline": "839 hospitalised in 24 hours as 5 more die of dengue",
   "topic": "dengue deaths rise",
   "source": "Dhaka Tribune, The Daily Star, Prothom Alo, Jamuna TV",
-  "status": "queued",
-  "at": "2026-08-23T13:07:09Z"
+  "status": "failed",
+  "at": "2026-08-23T13:07:09Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "1b5efe0b79be9a0c",
@@ -8325,8 +8330,13 @@
   "headline": "839 hospitalised in 24 hours as 5 more die of dengue",
   "topic": "dengue deaths rise",
   "source": "Dhaka Tribune, The Daily Star, Prothom Alo, Jamuna TV",
-  "status": "queued",
-  "at": "2026-08-23T13:07:09Z"
+  "status": "failed",
+  "at": "2026-08-23T13:07:09Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "85de53f5c9ba167f",
@@ -8334,8 +8344,13 @@
   "headline": "839 hospitalised in 24 hours as 5 more die of dengue",
   "topic": "dengue deaths rise",
   "source": "Dhaka Tribune, The Daily Star, Prothom Alo, Jamuna TV",
-  "status": "queued",
-  "at": "2026-08-23T13:07:09Z"
+  "status": "failed",
+  "at": "2026-08-23T13:07:09Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "e34139e23d4234e6",
@@ -8343,8 +8358,13 @@
   "headline": "839 hospitalised in 24 hours as 5 more die of dengue",
   "topic": "dengue deaths rise",
   "source": "Dhaka Tribune, The Daily Star, Prothom Alo, Jamuna TV",
-  "status": "queued",
-  "at": "2026-08-23T13:07:09Z"
+  "status": "failed",
+  "at": "2026-08-23T13:07:09Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "b966b1add05163b7",
@@ -8352,8 +8372,13 @@
   "headline": "Brazil football delegation inspects National Stadium for potential match",
   "topic": "brazil football delegation visit",
   "source": "Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-23T13:07:09Z"
+  "status": "failed",
+  "at": "2026-08-23T13:07:09Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "6fa4d0a24760f2ba",
@@ -8361,7 +8386,12 @@
   "headline": "Brazil football delegation inspects National Stadium for potential match",
   "topic": "brazil football delegation visit",
   "source": "Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-23T13:07:09Z"
+  "status": "failed",
+  "at": "2026-08-23T13:07:09Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
