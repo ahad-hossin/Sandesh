@@ -8330,8 +8330,13 @@
   "headline": "11-party alliance says public trust in govt has hit rock bottom",
   "topic": "11-party alliance govt trust rock bottom",
   "source": "The Daily Star",
-  "status": "queued",
-  "at": "2026-08-23T21:07:11Z"
+  "status": "failed",
+  "at": "2026-08-23T21:07:11Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "5325c072cbafcc69",
@@ -8339,8 +8344,13 @@
   "headline": "11-party alliance says public trust in govt has hit rock bottom",
   "topic": "11-party alliance govt trust rock bottom",
   "source": "The Daily Star",
-  "status": "queued",
-  "at": "2026-08-23T21:07:11Z"
+  "status": "failed",
+  "at": "2026-08-23T21:07:11Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "a42f9d601e938007",
@@ -8348,8 +8358,13 @@
   "headline": "4 family members killed in Rangpur city",
   "topic": "rangpur family of four killed",
   "source": "Prothom Alo, The Daily Star, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-08-23T21:07:11Z"
+  "status": "failed",
+  "at": "2026-08-23T21:07:11Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "261ff37b2959b348",
@@ -8357,8 +8372,13 @@
   "headline": "4 family members killed in Rangpur city",
   "topic": "rangpur family of four killed",
   "source": "Prothom Alo, The Daily Star, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-08-23T21:07:11Z"
+  "status": "failed",
+  "at": "2026-08-23T21:07:11Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "63611ceae4bc9d33",
@@ -8366,7 +8386,12 @@
   "headline": "4 family members killed in Rangpur city",
   "topic": "rangpur family of four killed",
   "source": "Prothom Alo, The Daily Star, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-08-23T21:07:11Z"
+  "status": "failed",
+  "at": "2026-08-23T21:07:11Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
