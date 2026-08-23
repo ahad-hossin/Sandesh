@@ -1,75 +1,5 @@
 [
  {
-  "title_hash": "1083780d2fa1d88d",
-  "url": "https://www.dhakatribune.com/bangladesh/government-affairs/417991/four-new-faces-to-join-cabinet-take-oath-friday",
-  "headline": "Four new faces to join the cabinet this Friday night",
-  "topic": "new cabinet members joining",
-  "source": "Jamuna TV, Dhaka Tribune, Prothom Alo, Somoy News",
-  "status": "failed",
-  "at": "2026-08-21T10:07:58Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "d0de2a4635e4a5cc",
-  "url": "https://www.jamuna.tv/national/662579",
-  "headline": "Four new faces to join the cabinet this Friday night",
-  "topic": "new cabinet members joining",
-  "source": "Jamuna TV, Dhaka Tribune, Prothom Alo, Somoy News",
-  "status": "failed",
-  "at": "2026-08-21T10:07:58Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "b7336805846678ba",
-  "url": "https://www.prothomalo.com/bangladesh/mntrisbhaayy-yukt-hcchen-caarjn",
-  "headline": "Four new faces to join the cabinet this Friday night",
-  "topic": "new cabinet members joining",
-  "source": "Jamuna TV, Dhaka Tribune, Prothom Alo, Somoy News",
-  "status": "failed",
-  "at": "2026-08-21T10:07:58Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "6eec730227a001d8",
-  "url": "https://www.somoynews.tv/news/2026-08-21/9HXXXXH2",
-  "headline": "Four new faces to join the cabinet this Friday night",
-  "topic": "new cabinet members joining",
-  "source": "Jamuna TV, Dhaka Tribune, Prothom Alo, Somoy News",
-  "status": "failed",
-  "at": "2026-08-21T10:07:58Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "80fa4aa7d43d8c61",
-  "url": "https://www.prothomalo.com/politics/hcd05lmzut",
-  "headline": "Four new faces to join the cabinet this Friday night",
-  "topic": "new cabinet members joining",
-  "source": "Jamuna TV, Dhaka Tribune, Prothom Alo, Somoy News",
-  "status": "failed",
-  "at": "2026-08-21T10:07:58Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "79bc99fa9d631a8d",
   "url": "https://www.dhakatribune.com/bangladesh/417993/president-elect-fakhrul-pays-homage-to-ziaur",
   "headline": "President-elect Mirza Fakhrul pays homage to Ziaur Rahman and Khaleda Zia before oath",
@@ -8393,5 +8323,50 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "5d8d627054b28fdb",
+  "url": "https://www.dhakatribune.com/bangladesh/health/418171/dengue-cases-surpass-last-year%E2%80%99s-level-for-same",
+  "headline": "839 cases in 24 hours: Five more die from dengue in Bangladesh",
+  "topic": "dengue cases surge deaths",
+  "source": "Dhaka Tribune, Somoy News",
+  "status": "queued",
+  "at": "2026-08-23T18:07:37Z"
+ },
+ {
+  "title_hash": "eb1c2a3928b3f114",
+  "url": "https://www.somoynews.tv/news/2026-08-23/THXF1wIB",
+  "headline": "839 cases in 24 hours: Five more die from dengue in Bangladesh",
+  "topic": "dengue cases surge deaths",
+  "source": "Dhaka Tribune, Somoy News",
+  "status": "queued",
+  "at": "2026-08-23T18:07:37Z"
+ },
+ {
+  "title_hash": "f3acfaa8ea330404",
+  "url": "https://www.dhakatribune.com/bangladesh/health/418157/dengue-five-more-die-as-839-cases-recorded-in-24",
+  "headline": "839 cases in 24 hours: Five more die from dengue in Bangladesh",
+  "topic": "dengue cases surge deaths",
+  "source": "Dhaka Tribune, Somoy News",
+  "status": "queued",
+  "at": "2026-08-23T18:07:37Z"
+ },
+ {
+  "title_hash": "073fc86403ff2fd9",
+  "url": "https://www.prothomalo.com/bangladesh/ddaarkoyyebe-60-laakh-baanlaadeshir-sibhi-bikrir-bijnyaapn",
+  "headline": "6 million Bangladeshi CVs offered for sale on dark web",
+  "topic": "dark web bd cvs leak",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-23T18:07:37Z"
+ },
+ {
+  "title_hash": "acedd95c65bc9bfc",
+  "url": "https://www.prothomalo.com/bangladesh/jskxakwojj",
+  "headline": "6 million Bangladeshi CVs offered for sale on dark web",
+  "topic": "dark web bd cvs leak",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-23T18:07:37Z"
  }
 ]
