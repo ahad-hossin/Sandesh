@@ -8330,8 +8330,13 @@
   "headline": "BNP Acting Chairman Tarek Rahman is visiting the US",
   "topic": "tarique rahman us visit",
   "source": "Somoy News",
-  "status": "queued",
-  "at": "2026-08-23T20:07:55Z"
+  "status": "failed",
+  "at": "2026-08-23T20:07:55Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "48710fb76e7963df",
@@ -8339,8 +8344,13 @@
   "headline": "839 hospitalised in 24 hours as 5 more die of dengue",
   "topic": "dengue deaths surge",
   "source": "Somoy News, The Daily Star, Jamuna TV, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-08-23T20:07:55Z"
+  "status": "failed",
+  "at": "2026-08-23T20:07:55Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "eb1c2a3928b3f114",
@@ -8348,8 +8358,13 @@
   "headline": "839 hospitalised in 24 hours as 5 more die of dengue",
   "topic": "dengue deaths surge",
   "source": "Somoy News, The Daily Star, Jamuna TV, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-08-23T20:07:55Z"
+  "status": "failed",
+  "at": "2026-08-23T20:07:55Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "e34139e23d4234e6",
@@ -8357,8 +8372,13 @@
   "headline": "839 hospitalised in 24 hours as 5 more die of dengue",
   "topic": "dengue deaths surge",
   "source": "Somoy News, The Daily Star, Jamuna TV, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-08-23T20:07:55Z"
+  "status": "failed",
+  "at": "2026-08-23T20:07:55Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "f3acfaa8ea330404",
@@ -8366,7 +8386,12 @@
   "headline": "839 hospitalised in 24 hours as 5 more die of dengue",
   "topic": "dengue deaths surge",
   "source": "Somoy News, The Daily Star, Jamuna TV, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-08-23T20:07:55Z"
+  "status": "failed",
+  "at": "2026-08-23T20:07:55Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
