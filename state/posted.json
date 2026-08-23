@@ -8330,8 +8330,13 @@
   "headline": "Gang threatens embassies in Dhaka to extort money",
   "topic": "embassy threat emails",
   "source": "The Daily Star, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-08-23T10:08:01Z"
+  "status": "failed",
+  "at": "2026-08-23T10:08:01Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "4d21d96b49f05630",
@@ -8339,8 +8344,13 @@
   "headline": "Gang threatens embassies in Dhaka to extort money",
   "topic": "embassy threat emails",
   "source": "The Daily Star, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-08-23T10:08:01Z"
+  "status": "failed",
+  "at": "2026-08-23T10:08:01Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "816a3c80bc92358c",
@@ -8348,8 +8358,13 @@
   "headline": "Gang threatens embassies in Dhaka to extort money",
   "topic": "embassy threat emails",
   "source": "The Daily Star, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-08-23T10:08:01Z"
+  "status": "failed",
+  "at": "2026-08-23T10:08:01Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "a9342e69be2d25ec",
@@ -8357,8 +8372,13 @@
   "headline": "Air Force officer sent to jail by ICT over Ilias Ali disappearance",
   "topic": "ilias ali disappearance case",
   "source": "Somoy News, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-23T10:08:01Z"
+  "status": "failed",
+  "at": "2026-08-23T10:08:01Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "b2532266aa4e5fcc",
@@ -8366,7 +8386,12 @@
   "headline": "Air Force officer sent to jail by ICT over Ilias Ali disappearance",
   "topic": "ilias ali disappearance case",
   "source": "Somoy News, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-23T10:08:01Z"
+  "status": "failed",
+  "at": "2026-08-23T10:08:01Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
