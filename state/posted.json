@@ -1,33 +1,5 @@
 [
  {
-  "title_hash": "a10256a6575f1620",
-  "url": "https://www.dhakatribune.com/bangladesh/417930/mirza-fakhrul-islam-alamgir-elected-bangladesh%E2%80%99s",
-  "headline": "255 votes: Mirza Fakhrul Islam Alamgir elected as Bangladesh's 24th president",
-  "topic": "mirza fakhrul elected president",
-  "source": "Prothom Alo, Dhaka Tribune, Jamuna TV",
-  "status": "failed",
-  "at": "2026-08-20T21:07:01Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "896c456a27ce46f4",
-  "url": "https://www.jamuna.tv/national/662558",
-  "headline": "Traffic alerts: DMP issues directives for President's swearing-in",
-  "topic": "president swearing-in traffic",
-  "source": "Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-20T21:07:01Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "f8981ae48b2049b1",
   "url": "https://www.prothomalo.com/bangladesh/capital/2852fti0kp",
   "headline": "Traffic alerts: DMP issues directives for President's swearing-in",
@@ -8398,5 +8370,23 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "26bad1c845ec6e9e",
+  "url": "https://www.prothomalo.com/bangladesh/7a7wll10vw",
+  "headline": "10th grader needs BDT 50 lakh for bone marrow transplant to fight blood cancer",
+  "topic": "blood cancer patient faratul needs funds",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-23T00:07:13Z"
+ },
+ {
+  "title_hash": "a28e426f98609bb7",
+  "url": "https://www.jamuna.tv/national/662649",
+  "headline": "Fire at Royal Aid Hospital in Khilgaon, Dhaka; no casualties reported",
+  "topic": "khilgaon royal aid hospital fire",
+  "source": "Jamuna TV",
+  "status": "queued",
+  "at": "2026-08-23T00:07:13Z"
  }
 ]
