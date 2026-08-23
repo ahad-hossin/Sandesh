@@ -8302,8 +8302,13 @@
   "headline": "6 million CVs of Bangladeshis for sale on Dark Web",
   "topic": "bangladeshi cvs sold on dark web",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-23T16:06:35Z"
+  "status": "failed",
+  "at": "2026-08-23T16:06:35Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "57195752f5abefd5",
@@ -8311,8 +8316,13 @@
   "headline": "10,000kg of fertilizer taken by angry farmers in Kurigram",
   "topic": "kurigram farmers fertilizer warehouse raid",
   "source": "Jamuna TV, Prothom Alo, Dhaka Tribune, Somoy News",
-  "status": "queued",
-  "at": "2026-08-23T16:06:35Z"
+  "status": "failed",
+  "at": "2026-08-23T16:06:35Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "27536ef52405c713",
@@ -8320,8 +8330,13 @@
   "headline": "10,000kg of fertilizer taken by angry farmers in Kurigram",
   "topic": "kurigram farmers fertilizer warehouse raid",
   "source": "Jamuna TV, Prothom Alo, Dhaka Tribune, Somoy News",
-  "status": "queued",
-  "at": "2026-08-23T16:06:35Z"
+  "status": "failed",
+  "at": "2026-08-23T16:06:35Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "6c48d84700bf4386",
@@ -8329,8 +8344,13 @@
   "headline": "10,000kg of fertilizer taken by angry farmers in Kurigram",
   "topic": "kurigram farmers fertilizer warehouse raid",
   "source": "Jamuna TV, Prothom Alo, Dhaka Tribune, Somoy News",
-  "status": "queued",
-  "at": "2026-08-23T16:06:35Z"
+  "status": "failed",
+  "at": "2026-08-23T16:06:35Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "22ae4f9a0ed05695",
@@ -8338,8 +8358,13 @@
   "headline": "10,000kg of fertilizer taken by angry farmers in Kurigram",
   "topic": "kurigram farmers fertilizer warehouse raid",
   "source": "Jamuna TV, Prothom Alo, Dhaka Tribune, Somoy News",
-  "status": "queued",
-  "at": "2026-08-23T16:06:35Z"
+  "status": "failed",
+  "at": "2026-08-23T16:06:35Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "b02e7faddd13d678",
@@ -8347,8 +8372,13 @@
   "headline": "10,000kg of fertilizer taken by angry farmers in Kurigram",
   "topic": "kurigram farmers fertilizer warehouse raid",
   "source": "Jamuna TV, Prothom Alo, Dhaka Tribune, Somoy News",
-  "status": "queued",
-  "at": "2026-08-23T16:06:35Z"
+  "status": "failed",
+  "at": "2026-08-23T16:06:35Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "6bc85c2aa65bf89a",
@@ -8356,7 +8386,12 @@
   "headline": "10,000kg of fertilizer taken by angry farmers in Kurigram",
   "topic": "kurigram farmers fertilizer warehouse raid",
   "source": "Jamuna TV, Prothom Alo, Dhaka Tribune, Somoy News",
-  "status": "queued",
-  "at": "2026-08-23T16:06:35Z"
+  "status": "failed",
+  "at": "2026-08-23T16:06:35Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
