@@ -8330,8 +8330,13 @@
   "headline": "839 cases in 24 hours: Five more die from dengue in Bangladesh",
   "topic": "dengue cases surge deaths",
   "source": "Dhaka Tribune, Somoy News",
-  "status": "queued",
-  "at": "2026-08-23T18:07:37Z"
+  "status": "failed",
+  "at": "2026-08-23T18:07:37Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "eb1c2a3928b3f114",
@@ -8339,8 +8344,13 @@
   "headline": "839 cases in 24 hours: Five more die from dengue in Bangladesh",
   "topic": "dengue cases surge deaths",
   "source": "Dhaka Tribune, Somoy News",
-  "status": "queued",
-  "at": "2026-08-23T18:07:37Z"
+  "status": "failed",
+  "at": "2026-08-23T18:07:37Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "f3acfaa8ea330404",
@@ -8348,8 +8358,13 @@
   "headline": "839 cases in 24 hours: Five more die from dengue in Bangladesh",
   "topic": "dengue cases surge deaths",
   "source": "Dhaka Tribune, Somoy News",
-  "status": "queued",
-  "at": "2026-08-23T18:07:37Z"
+  "status": "failed",
+  "at": "2026-08-23T18:07:37Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "073fc86403ff2fd9",
@@ -8357,8 +8372,13 @@
   "headline": "6 million Bangladeshi CVs offered for sale on dark web",
   "topic": "dark web bd cvs leak",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-23T18:07:37Z"
+  "status": "failed",
+  "at": "2026-08-23T18:07:37Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "acedd95c65bc9bfc",
@@ -8366,7 +8386,12 @@
   "headline": "6 million Bangladeshi CVs offered for sale on dark web",
   "topic": "dark web bd cvs leak",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-23T18:07:37Z"
+  "status": "failed",
+  "at": "2026-08-23T18:07:37Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
