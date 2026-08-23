@@ -8344,8 +8344,13 @@
   "headline": "839 hospitalised in 24 hours as dengue cases hit yearly high",
   "topic": "dengue hospitalisations yearly high",
   "source": "The Daily Star, Jamuna TV, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-08-23T22:07:02Z"
+  "status": "failed",
+  "at": "2026-08-23T22:07:02Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "e34139e23d4234e6",
@@ -8353,8 +8358,13 @@
   "headline": "839 hospitalised in 24 hours as dengue cases hit yearly high",
   "topic": "dengue hospitalisations yearly high",
   "source": "The Daily Star, Jamuna TV, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-08-23T22:07:02Z"
+  "status": "failed",
+  "at": "2026-08-23T22:07:02Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "f3acfaa8ea330404",
@@ -8362,8 +8372,13 @@
   "headline": "839 hospitalised in 24 hours as dengue cases hit yearly high",
   "topic": "dengue hospitalisations yearly high",
   "source": "The Daily Star, Jamuna TV, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-08-23T22:07:02Z"
+  "status": "failed",
+  "at": "2026-08-23T22:07:02Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "a991636d05c9e34f",
@@ -8371,7 +8386,12 @@
   "headline": "21 former cricket captains urge humane treatment for Imran Khan",
   "topic": "medical care for imran khan",
   "source": "The Daily Star",
-  "status": "queued",
-  "at": "2026-08-23T22:07:02Z"
+  "status": "failed",
+  "at": "2026-08-23T22:07:02Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
