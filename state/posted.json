@@ -1,33 +1,5 @@
 [
  {
-  "title_hash": "f8981ae48b2049b1",
-  "url": "https://www.prothomalo.com/bangladesh/capital/2852fti0kp",
-  "headline": "Traffic alerts: DMP issues directives for President's swearing-in",
-  "topic": "president swearing-in traffic",
-  "source": "Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-20T21:07:01Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "af1062bbf8a77fb4",
-  "url": "https://www.dhakatribune.com/bangladesh/election/417971/congratulations-pour-in-for-fakhrul",
-  "headline": "255 votes: Mirza Fakhrul elected as Bangladesh's 24th president",
-  "topic": "mirza fakhrul elected president",
-  "source": "Dhaka Tribune, Prothom Alo, Jamuna TV, The Daily Star",
-  "status": "failed",
-  "at": "2026-08-20T22:07:03Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "6d8ba3341aea61a0",
   "url": "https://www.prothomalo.com/politics/crpjzp8mfk",
   "headline": "255 votes: Mirza Fakhrul elected as Bangladesh's 24th president",
@@ -8398,5 +8370,23 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "feacc1a02645d5b1",
+  "url": "https://www.somoynews.tv/news/2026-08-22/SY2LVD9N",
+  "headline": "Messi received big punishment after on-field incident with Sullivan",
+  "topic": "Messi receives punishment",
+  "source": "Somoy News",
+  "status": "queued",
+  "at": "2026-08-23T01:08:16Z"
+ },
+ {
+  "title_hash": "93e37841c7a21d31",
+  "url": "https://www.somoynews.tv/news/2026-08-22/ME9B3O1P",
+  "headline": "Two brothers in tug-of-war over wife inside police station",
+  "topic": "Brothers fight over wife at police station",
+  "source": "Somoy News",
+  "status": "queued",
+  "at": "2026-08-23T01:08:16Z"
  }
 ]
