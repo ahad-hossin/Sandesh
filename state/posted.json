@@ -8358,8 +8358,13 @@
   "headline": "Bangladeshi sailor among 2 rescued after cargo ship sinks off Odisha coast; 22 still missing",
   "topic": "bangladeshi sailor ship sinks odisha",
   "source": "Dhaka Tribune, Jamuna TV",
-  "status": "queued",
-  "at": "2026-08-23T04:07:28Z"
+  "status": "failed",
+  "at": "2026-08-23T04:07:28Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "a6b3c37f0d1b20da",
@@ -8367,8 +8372,13 @@
   "headline": "Bangladeshi sailor among 2 rescued after cargo ship sinks off Odisha coast; 22 still missing",
   "topic": "bangladeshi sailor ship sinks odisha",
   "source": "Dhaka Tribune, Jamuna TV",
-  "status": "queued",
-  "at": "2026-08-23T04:07:28Z"
+  "status": "failed",
+  "at": "2026-08-23T04:07:28Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "a7aa6e33b3f372fc",
@@ -8376,7 +8386,12 @@
   "headline": "4 family members found dead in locked Rangpur home; police investigate mysterious deaths",
   "topic": "rangpur 4 family members found dead",
   "source": "The Daily Star",
-  "status": "queued",
-  "at": "2026-08-23T04:07:28Z"
+  "status": "failed",
+  "at": "2026-08-23T04:07:28Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
