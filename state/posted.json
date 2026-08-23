@@ -8316,8 +8316,13 @@
   "headline": "839 hospitalised as dengue kills 5 more in 24 hours",
   "topic": "dengue deaths rise",
   "source": "Jamuna TV, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-23T12:07:02Z"
+  "status": "failed",
+  "at": "2026-08-23T12:07:02Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "e34139e23d4234e6",
@@ -8325,8 +8330,13 @@
   "headline": "839 hospitalised as dengue kills 5 more in 24 hours",
   "topic": "dengue deaths rise",
   "source": "Jamuna TV, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-23T12:07:02Z"
+  "status": "failed",
+  "at": "2026-08-23T12:07:02Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "66d240074d5106db",
@@ -8334,8 +8344,13 @@
   "headline": "10 people shot in 16 days as gun violence grips Noakhali's Begumganj",
   "topic": "gun violence in noakhali and rangpur killings",
   "source": "The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-23T12:07:02Z"
+  "status": "failed",
+  "at": "2026-08-23T12:07:02Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "2e5884cd5ee8dec9",
@@ -8343,8 +8358,13 @@
   "headline": "10 people shot in 16 days as gun violence grips Noakhali's Begumganj",
   "topic": "gun violence in noakhali and rangpur killings",
   "source": "The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-23T12:07:02Z"
+  "status": "failed",
+  "at": "2026-08-23T12:07:02Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "42a0d8cfcece4085",
@@ -8352,8 +8372,13 @@
   "headline": "10 people shot in 16 days as gun violence grips Noakhali's Begumganj",
   "topic": "gun violence in noakhali and rangpur killings",
   "source": "The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-23T12:07:02Z"
+  "status": "failed",
+  "at": "2026-08-23T12:07:02Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "07eb697363dcab91",
@@ -8361,7 +8386,12 @@
   "headline": "10 people shot in 16 days as gun violence grips Noakhali's Begumganj",
   "topic": "gun violence in noakhali and rangpur killings",
   "source": "The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-23T12:07:02Z"
+  "status": "failed",
+  "at": "2026-08-23T12:07:02Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
