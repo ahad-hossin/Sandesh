@@ -1,61 +1,5 @@
 [
  {
-  "title_hash": "3a017cf295c7fe09",
-  "url": "https://www.prothomalo.com/video/bangladesh/z2rpae0v0h",
-  "headline": "Mirza Fakhrul Islam Alamgir sworn in as 23rd president of Bangladesh",
-  "topic": "mirza fakhrul takes oath as president",
-  "source": "Jamuna TV, Dhaka Tribune, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-08-21T14:07:11Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "ac0f89fdd2c89aa4",
-  "url": "https://www.prothomalo.com/video/bangladesh/aueg17e1dy",
-  "headline": "Mirza Fakhrul Islam Alamgir sworn in as 23rd president of Bangladesh",
-  "topic": "mirza fakhrul takes oath as president",
-  "source": "Jamuna TV, Dhaka Tribune, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-08-21T14:07:11Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "89544ca77da7b6cf",
-  "url": "https://www.thedailystar.net/news/politics/election/news/why-bangladeshs-president-takes-no-oath-secrecy-4253386",
-  "headline": "Mirza Fakhrul Islam Alamgir sworn in as 23rd president of Bangladesh",
-  "topic": "mirza fakhrul takes oath as president",
-  "source": "Jamuna TV, Dhaka Tribune, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-08-21T14:07:11Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "4008843c0d3d81d4",
-  "url": "https://www.thedailystar.net/opinion/editorial/news/fitting-honour-mirza-fakhrul-4253361",
-  "headline": "Mirza Fakhrul Islam Alamgir sworn in as 23rd president of Bangladesh",
-  "topic": "mirza fakhrul takes oath as president",
-  "source": "Jamuna TV, Dhaka Tribune, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-08-21T14:07:11Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "2f61468132774c65",
   "url": "https://www.dhakatribune.com/bangladesh/417982/mirza-fakhrul-to-take-oath-as-president-this",
   "headline": "Mirza Fakhrul Islam Alamgir sworn in as 23rd president of Bangladesh",
@@ -8393,5 +8337,41 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "641e13ca346b04a5",
+  "url": "https://www.prothomalo.com/sports/football/baanlaadesher-bipksse-khelte-caayy-braajil",
+  "headline": "Brazil wants to play against Bangladesh in October",
+  "topic": "brazil play bangladesh",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-24T05:06:55Z"
+ },
+ {
+  "title_hash": "d7face14a1303ded",
+  "url": "https://www.prothomalo.com/sports/football/7xf1p4zqo6",
+  "headline": "Brazil wants to play against Bangladesh in October",
+  "topic": "brazil play bangladesh",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-24T05:06:55Z"
+ },
+ {
+  "title_hash": "be203172f6f52dff",
+  "url": "https://www.jamuna.tv/national/662710",
+  "headline": "High Court to deliver verdict on Nusrat murder case today",
+  "topic": "nusrat murder case verdict",
+  "source": "Jamuna TV, Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-24T05:06:55Z"
+ },
+ {
+  "title_hash": "76a79851c7dd4aeb",
+  "url": "https://www.prothomalo.com/bangladesh/district/qddjchxzct",
+  "headline": "High Court to deliver verdict on Nusrat murder case today",
+  "topic": "nusrat murder case verdict",
+  "source": "Jamuna TV, Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-24T05:06:55Z"
  }
 ]
