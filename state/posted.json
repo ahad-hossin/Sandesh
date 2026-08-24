@@ -8358,8 +8358,13 @@
   "headline": "Concerts cancelled due to objections in Brahmanbaria and Kishoreganj spark artist concern",
   "topic": "concerts cancelled cultural freedom debate",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-24T00:07:49Z"
+  "status": "failed",
+  "at": "2026-08-24T00:07:49Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "149127ace6e6d1e7",
@@ -8367,8 +8372,13 @@
   "headline": "Public trust in govt has hit ‘rock bottom’ in six months, 11-party alliance claims",
   "topic": "11-party alliance criticizes govt mismanagement",
   "source": "The Daily Star",
-  "status": "queued",
-  "at": "2026-08-24T00:07:49Z"
+  "status": "failed",
+  "at": "2026-08-24T00:07:49Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "29c73d44683abb7a",
@@ -8376,7 +8386,12 @@
   "headline": "Public trust in govt has hit ‘rock bottom’ in six months, 11-party alliance claims",
   "topic": "11-party alliance criticizes govt mismanagement",
   "source": "The Daily Star",
-  "status": "queued",
-  "at": "2026-08-24T00:07:49Z"
+  "status": "failed",
+  "at": "2026-08-24T00:07:49Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
