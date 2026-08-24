@@ -8344,8 +8344,13 @@
   "headline": "Double blow: Gas crisis and load shedding hit Dhaka residents",
   "topic": "gas crisis electric stoves load shedding",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-24T20:07:13Z"
+  "status": "failed",
+  "at": "2026-08-24T20:07:13Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "1c921dafda668dcc",
@@ -8353,8 +8358,13 @@
   "headline": "Double blow: Gas crisis and load shedding hit Dhaka residents",
   "topic": "gas crisis electric stoves load shedding",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-24T20:07:13Z"
+  "status": "failed",
+  "at": "2026-08-24T20:07:13Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "64e9fddcdd433c36",
@@ -8362,8 +8372,13 @@
   "headline": "Supreme Court: Judicial Service members banned from coaching",
   "topic": "judicial service coaching ban",
   "source": "Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-24T20:07:13Z"
+  "status": "failed",
+  "at": "2026-08-24T20:07:13Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "a0c2c6fa47f3862c",
@@ -8371,7 +8386,12 @@
   "headline": "Supreme Court: Judicial Service members banned from coaching",
   "topic": "judicial service coaching ban",
   "source": "Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-24T20:07:13Z"
+  "status": "failed",
+  "at": "2026-08-24T20:07:13Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
