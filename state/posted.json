@@ -8344,8 +8344,13 @@
   "headline": "Dhaka residents face double crisis of gas shortage and load shedding",
   "topic": "gas crisis electric stoves load shedding",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-24T21:07:02Z"
+  "status": "failed",
+  "at": "2026-08-24T21:07:02Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "1c921dafda668dcc",
@@ -8353,8 +8358,13 @@
   "headline": "Dhaka residents face double crisis of gas shortage and load shedding",
   "topic": "gas crisis electric stoves load shedding",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-24T21:07:02Z"
+  "status": "failed",
+  "at": "2026-08-24T21:07:02Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "dd911e94d193aaa9",
@@ -8362,8 +8372,13 @@
   "headline": "US launches Operation Economic Outcast to isolate Iran globally",
   "topic": "us isolates iran sanctions",
   "source": "Prothom Alo, Jamuna TV",
-  "status": "queued",
-  "at": "2026-08-24T21:07:02Z"
+  "status": "failed",
+  "at": "2026-08-24T21:07:02Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "b1cee01a01b0cb9c",
@@ -8371,7 +8386,12 @@
   "headline": "US launches Operation Economic Outcast to isolate Iran globally",
   "topic": "us isolates iran sanctions",
   "source": "Prothom Alo, Jamuna TV",
-  "status": "queued",
-  "at": "2026-08-24T21:07:02Z"
+  "status": "failed",
+  "at": "2026-08-24T21:07:02Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
