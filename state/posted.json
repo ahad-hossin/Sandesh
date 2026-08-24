@@ -8344,8 +8344,13 @@
   "headline": "Man beaten to death by mob in Dhaka's Jatrabari over mugging suspicion",
   "topic": "jatrabari mob beating death",
   "source": "The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-24T15:09:55Z"
+  "status": "failed",
+  "at": "2026-08-24T15:09:55Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "fd9b9684f0b114ff",
@@ -8353,8 +8358,13 @@
   "headline": "Man beaten to death by mob in Dhaka's Jatrabari over mugging suspicion",
   "topic": "jatrabari mob beating death",
   "source": "The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-24T15:09:55Z"
+  "status": "failed",
+  "at": "2026-08-24T15:09:55Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "535eb1037a57138b",
@@ -8362,8 +8372,13 @@
   "headline": "Elephants Samrat and Niharkoli returned to Gazipur Safari Park after owner breach",
   "topic": "elephants return to safari park",
   "source": "Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-24T15:09:55Z"
+  "status": "failed",
+  "at": "2026-08-24T15:09:55Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "80002716daace081",
@@ -8371,7 +8386,12 @@
   "headline": "Elephants Samrat and Niharkoli returned to Gazipur Safari Park after owner breach",
   "topic": "elephants return to safari park",
   "source": "Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-24T15:09:55Z"
+  "status": "failed",
+  "at": "2026-08-24T15:09:55Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
