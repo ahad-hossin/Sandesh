@@ -1,47 +1,5 @@
 [
  {
-  "title_hash": "93d31414dd5125de",
-  "url": "https://www.thedailystar.net/news/news/fakhrul-visit-zia-khaledas-graves-oath-4253251",
-  "headline": "President-elect Mirza Fakhrul pays homage to Ziaur Rahman and Khaleda Zia",
-  "topic": "president fakhrul pays homage to zia and khaleda",
-  "source": "Dhaka Tribune, Jamuna TV, Somoy News, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-08-21T11:06:46Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "c8e1935686734255",
-  "url": "https://www.somoynews.tv/news/2026-08-21/18CN7uT3",
-  "headline": "President-elect Mirza Fakhrul pays homage to Ziaur Rahman and Khaleda Zia",
-  "topic": "president fakhrul pays homage to zia and khaleda",
-  "source": "Dhaka Tribune, Jamuna TV, Somoy News, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-08-21T11:06:46Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "7a04f5935d247d0a",
-  "url": "https://www.thedailystar.net/news/governance/news/moyeen-khan-andaleeve-partho-among-4-mps-likely-join-cabinet-today-4253351",
-  "headline": "4 MPs likely to join cabinet today",
-  "topic": "bangladesh cabinet reshuffle",
-  "source": "The Daily Star, Dhaka Tribune, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-21T12:08:18Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "1083780d2fa1d88d",
   "url": "https://www.dhakatribune.com/bangladesh/government-affairs/417991/four-new-faces-to-join-cabinet-take-oath-friday",
   "headline": "4 MPs likely to join cabinet today",
@@ -8393,5 +8351,32 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "314e4948da3ab358",
+  "url": "https://www.prothomalo.com/entertainment/song/5xd316ft7n",
+  "headline": "Concerts cancelled due to objections in Brahmanbaria and Kishoreganj spark artist concern",
+  "topic": "concerts cancelled cultural freedom debate",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-24T00:07:49Z"
+ },
+ {
+  "title_hash": "149127ace6e6d1e7",
+  "url": "https://www.thedailystar.net/news/politics/news/11-party-alliance-says-public-trust-govt-has-hit-rock-bottom-4255351",
+  "headline": "Public trust in govt has hit ‘rock bottom’ in six months, 11-party alliance claims",
+  "topic": "11-party alliance criticizes govt mismanagement",
+  "source": "The Daily Star",
+  "status": "queued",
+  "at": "2026-08-24T00:07:49Z"
+ },
+ {
+  "title_hash": "29c73d44683abb7a",
+  "url": "https://www.thedailystar.net/news/bangladesh/news/public-trust-govt-has-hit-rock-bottom-4255446",
+  "headline": "Public trust in govt has hit ‘rock bottom’ in six months, 11-party alliance claims",
+  "topic": "11-party alliance criticizes govt mismanagement",
+  "source": "The Daily Star",
+  "status": "queued",
+  "at": "2026-08-24T00:07:49Z"
  }
 ]
