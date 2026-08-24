@@ -8344,8 +8344,13 @@
   "headline": "March 14: 2027 SSC exams rescheduled to start",
   "topic": "2027 ssc exams rescheduled",
   "source": "Dhaka Tribune, Jamuna TV",
-  "status": "queued",
-  "at": "2026-08-24T11:07:10Z"
+  "status": "failed",
+  "at": "2026-08-24T11:07:10Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "d95686eca9ea56ba",
@@ -8353,8 +8358,13 @@
   "headline": "March 14: 2027 SSC exams rescheduled to start",
   "topic": "2027 ssc exams rescheduled",
   "source": "Dhaka Tribune, Jamuna TV",
-  "status": "queued",
-  "at": "2026-08-24T11:07:10Z"
+  "status": "failed",
+  "at": "2026-08-24T11:07:10Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "67cdcba41b9fb05f",
@@ -8362,8 +8372,13 @@
   "headline": "938 children dead as measles death toll rises in Bangladesh",
   "topic": "measles death toll rises",
   "source": "Dhaka Tribune, Jamuna TV",
-  "status": "queued",
-  "at": "2026-08-24T11:07:10Z"
+  "status": "failed",
+  "at": "2026-08-24T11:07:10Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "b83cf7735d777235",
@@ -8371,7 +8386,12 @@
   "headline": "938 children dead as measles death toll rises in Bangladesh",
   "topic": "measles death toll rises",
   "source": "Dhaka Tribune, Jamuna TV",
-  "status": "queued",
-  "at": "2026-08-24T11:07:10Z"
+  "status": "failed",
+  "at": "2026-08-24T11:07:10Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
