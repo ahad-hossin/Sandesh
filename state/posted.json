@@ -8316,8 +8316,13 @@
   "headline": "Journalists' group condemns State Minister Humayun Kabir over citizenship row",
   "topic": "humayun kobir citizenship controversy",
   "source": "Prothom Alo, Dhaka Tribune, Jamuna TV",
-  "status": "queued",
-  "at": "2026-08-24T18:07:16Z"
+  "status": "failed",
+  "at": "2026-08-24T18:07:16Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "9690121af4957293",
@@ -8325,8 +8330,13 @@
   "headline": "Journalists' group condemns State Minister Humayun Kabir over citizenship row",
   "topic": "humayun kobir citizenship controversy",
   "source": "Prothom Alo, Dhaka Tribune, Jamuna TV",
-  "status": "queued",
-  "at": "2026-08-24T18:07:16Z"
+  "status": "failed",
+  "at": "2026-08-24T18:07:16Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "0860e5dd42c82b93",
@@ -8334,8 +8344,13 @@
   "headline": "Journalists' group condemns State Minister Humayun Kabir over citizenship row",
   "topic": "humayun kobir citizenship controversy",
   "source": "Prothom Alo, Dhaka Tribune, Jamuna TV",
-  "status": "queued",
-  "at": "2026-08-24T18:07:16Z"
+  "status": "failed",
+  "at": "2026-08-24T18:07:16Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "a178bd58cc08ea64",
@@ -8343,8 +8358,13 @@
   "headline": "Journalists' group condemns State Minister Humayun Kabir over citizenship row",
   "topic": "humayun kobir citizenship controversy",
   "source": "Prothom Alo, Dhaka Tribune, Jamuna TV",
-  "status": "queued",
-  "at": "2026-08-24T18:07:16Z"
+  "status": "failed",
+  "at": "2026-08-24T18:07:16Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "8b229e29be562aeb",
@@ -8352,8 +8372,13 @@
   "headline": "Chittagong: Depositors protest as bank blocks savings withdrawals",
   "topic": "chittagong bank withdrawal protest",
   "source": "Dhaka Tribune, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-24T18:07:16Z"
+  "status": "failed",
+  "at": "2026-08-24T18:07:16Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "5c5379a953bcb1c7",
@@ -8361,7 +8386,12 @@
   "headline": "Chittagong: Depositors protest as bank blocks savings withdrawals",
   "topic": "chittagong bank withdrawal protest",
   "source": "Dhaka Tribune, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-24T18:07:16Z"
+  "status": "failed",
+  "at": "2026-08-24T18:07:16Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
