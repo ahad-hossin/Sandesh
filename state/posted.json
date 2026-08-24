@@ -1,75 +1,5 @@
 [
  {
-  "title_hash": "906144e7286a4888",
-  "url": "https://www.prothomalo.com/video/bangladesh/ttil0t8h13",
-  "headline": "4 MPs likely to join cabinet today",
-  "topic": "bangladesh cabinet reshuffle",
-  "source": "The Daily Star, Dhaka Tribune, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-21T12:08:18Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "b7336805846678ba",
-  "url": "https://www.prothomalo.com/bangladesh/mntrisbhaayy-yukt-hcchen-caarjn",
-  "headline": "4 MPs likely to join cabinet today",
-  "topic": "bangladesh cabinet reshuffle",
-  "source": "The Daily Star, Dhaka Tribune, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-21T12:08:18Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "80fa4aa7d43d8c61",
-  "url": "https://www.prothomalo.com/politics/hcd05lmzut",
-  "headline": "4 MPs likely to join cabinet today",
-  "topic": "bangladesh cabinet reshuffle",
-  "source": "The Daily Star, Dhaka Tribune, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-21T12:08:18Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "b3576cb245ec7780",
-  "url": "https://www.thedailystar.net/news/bangladesh/diplomacy/news/india-withdraws-notice-appeared-reveal-preparations-tarique-rahmans-visit-4253346",
-  "headline": "India withdraws notice on Tarique Rahman's visit preparations",
-  "topic": "india withdraws tarique rahman visit notice",
-  "source": "Jamuna TV, The Daily Star",
-  "status": "failed",
-  "at": "2026-08-21T12:08:18Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "9db251541e1ea318",
-  "url": "https://www.jamuna.tv/national/662585",
-  "headline": "India withdraws notice on Tarique Rahman's visit preparations",
-  "topic": "india withdraws tarique rahman visit notice",
-  "source": "Jamuna TV, The Daily Star",
-  "status": "failed",
-  "at": "2026-08-21T12:08:18Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "8db721620309e42a",
   "url": "https://www.dhakatribune.com/bangladesh/418012/fakhrul-reaches-bangabhaban-for-swearing-in",
   "headline": "Four new faces join cabinet as Mirza Fakhrul takes oath as President",
@@ -8393,5 +8323,50 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "a42f9d601e938007",
+  "url": "https://www.thedailystar.net/news/crime-justice/news/rangpur-killings-faces-all-4-were-burnt-4255386",
+  "headline": "Faces of 4 murdered Rangpur family members burnt with chemicals; 2 arrested",
+  "topic": "rangpur family murder burial",
+  "source": "Jamuna TV, The Daily Star",
+  "status": "queued",
+  "at": "2026-08-24T02:09:03Z"
+ },
+ {
+  "title_hash": "34af584c6456bf96",
+  "url": "https://www.jamuna.tv/all-bangladesh/662705",
+  "headline": "Faces of 4 murdered Rangpur family members burnt with chemicals; 2 arrested",
+  "topic": "rangpur family murder burial",
+  "source": "Jamuna TV, The Daily Star",
+  "status": "queued",
+  "at": "2026-08-24T02:09:03Z"
+ },
+ {
+  "title_hash": "96de9d4321fd9b1c",
+  "url": "https://www.dhakatribune.com/bangladesh/418185/gas-flows-again-crisis-has-years-to-run",
+  "headline": "Gas supply increases but crisis persists as soaring LNG prices strain Bangladesh's energy sector",
+  "topic": "bangladesh gas supply crisis",
+  "source": "Dhaka Tribune, Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-24T02:09:03Z"
+ },
+ {
+  "title_hash": "6231cf9ca177517f",
+  "url": "https://www.dhakatribune.com/bangladesh/418180/lng-supply-to-national-grid-rises-easing-gas",
+  "headline": "Gas supply increases but crisis persists as soaring LNG prices strain Bangladesh's energy sector",
+  "topic": "bangladesh gas supply crisis",
+  "source": "Dhaka Tribune, Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-24T02:09:03Z"
+ },
+ {
+  "title_hash": "a3b62651afc89279",
+  "url": "https://www.prothomalo.com/bangladesh/ttz83hl90r",
+  "headline": "Gas supply increases but crisis persists as soaring LNG prices strain Bangladesh's energy sector",
+  "topic": "bangladesh gas supply crisis",
+  "source": "Dhaka Tribune, Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-24T02:09:03Z"
  }
 ]
