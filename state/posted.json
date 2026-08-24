@@ -8330,8 +8330,13 @@
   "headline": "US launches 'economic D-Day' to sever every economic lifeline sustaining Iran",
   "topic": "us sanctions on iran",
   "source": "The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-24T22:07:17Z"
+  "status": "failed",
+  "at": "2026-08-24T22:07:17Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "dd911e94d193aaa9",
@@ -8339,8 +8344,13 @@
   "headline": "US launches 'economic D-Day' to sever every economic lifeline sustaining Iran",
   "topic": "us sanctions on iran",
   "source": "The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-24T22:07:17Z"
+  "status": "failed",
+  "at": "2026-08-24T22:07:17Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "d9f2769aa657fa1a",
@@ -8348,8 +8358,13 @@
   "headline": "US launches 'economic D-Day' to sever every economic lifeline sustaining Iran",
   "topic": "us sanctions on iran",
   "source": "The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-24T22:07:17Z"
+  "status": "failed",
+  "at": "2026-08-24T22:07:17Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "0bcdde1a162645cb",
@@ -8357,8 +8372,13 @@
   "headline": "Dhaka residents suffer as gas crisis and load shedding hit kitchens",
   "topic": "gas crisis and load shedding",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-24T22:07:17Z"
+  "status": "failed",
+  "at": "2026-08-24T22:07:17Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "1c921dafda668dcc",
@@ -8366,7 +8386,12 @@
   "headline": "Dhaka residents suffer as gas crisis and load shedding hit kitchens",
   "topic": "gas crisis and load shedding",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-24T22:07:17Z"
+  "status": "failed",
+  "at": "2026-08-24T22:07:17Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
