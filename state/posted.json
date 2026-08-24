@@ -1,61 +1,5 @@
 [
  {
-  "title_hash": "8db721620309e42a",
-  "url": "https://www.dhakatribune.com/bangladesh/418012/fakhrul-reaches-bangabhaban-for-swearing-in",
-  "headline": "Mirza Fakhrul sworn in as Bangladesh’s 23rd president",
-  "topic": "mirza fakhrul president oath",
-  "source": "Jamuna TV, Somoy News, The Daily Star, Dhaka Tribune, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-21T17:07:11Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "10f1a28b7e13684f",
-  "url": "https://www.somoynews.tv/news/2026-08-21/IVWD5B6J",
-  "headline": "Mirza Fakhrul sworn in as Bangladesh’s 23rd president",
-  "topic": "mirza fakhrul president oath",
-  "source": "Jamuna TV, Somoy News, The Daily Star, Dhaka Tribune, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-21T17:07:11Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "14d8c700fecc86a1",
-  "url": "https://www.prothomalo.com/video/bangladesh/p8d70345hu",
-  "headline": "Mirza Fakhrul sworn in as Bangladesh’s 23rd president",
-  "topic": "mirza fakhrul president oath",
-  "source": "Jamuna TV, Somoy News, The Daily Star, Dhaka Tribune, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-21T17:07:11Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "47f0c624655a6001",
-  "url": "https://www.dhakatribune.com/bangladesh/418028/four-ministers-two-state-ministers-take-oath",
-  "headline": "Mirza Fakhrul takes oath as 23rd president of Bangladesh",
-  "topic": "mirza fakhrul sworn in as president and cabinet reshuffle",
-  "source": "Dhaka Tribune, Jamuna TV, Prothom Alo, Somoy News",
-  "status": "failed",
-  "at": "2026-08-21T18:06:32Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "1e3cc4b14c9f4514",
   "url": "https://www.jamuna.tv/photos/662596",
   "headline": "Mirza Fakhrul takes oath as 23rd president of Bangladesh",
@@ -8393,5 +8337,41 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "48c2771fd356cb02",
+  "url": "https://www.thedailystar.net/news/news/man-dies-after-alleged-mob-beating-dhakas-jatrabari-4255821",
+  "headline": "Man beaten to death by mob in Dhaka's Jatrabari over mugging suspicion",
+  "topic": "jatrabari mob beating death",
+  "source": "The Daily Star, Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-24T15:09:55Z"
+ },
+ {
+  "title_hash": "fd9b9684f0b114ff",
+  "url": "https://www.prothomalo.com/bangladesh/crime/dj56oa7zpt",
+  "headline": "Man beaten to death by mob in Dhaka's Jatrabari over mugging suspicion",
+  "topic": "jatrabari mob beating death",
+  "source": "The Daily Star, Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-24T15:09:55Z"
+ },
+ {
+  "title_hash": "535eb1037a57138b",
+  "url": "https://www.thedailystar.net/news/environment/wildlife/news/elephants-samrat-niharkoli-headed-back-gazipur-safari-park-4255796",
+  "headline": "Elephants Samrat and Niharkoli returned to Gazipur Safari Park after owner breach",
+  "topic": "elephants return to safari park",
+  "source": "Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-08-24T15:09:55Z"
+ },
+ {
+  "title_hash": "80002716daace081",
+  "url": "https://www.prothomalo.com/bangladesh/district/1jvq360hz0",
+  "headline": "Elephants Samrat and Niharkoli returned to Gazipur Safari Park after owner breach",
+  "topic": "elephants return to safari park",
+  "source": "Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-08-24T15:09:55Z"
  }
 ]
