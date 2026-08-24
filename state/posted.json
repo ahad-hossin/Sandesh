@@ -1,61 +1,5 @@
 [
  {
-  "title_hash": "47f0c624655a6001",
-  "url": "https://www.dhakatribune.com/bangladesh/418028/four-ministers-two-state-ministers-take-oath",
-  "headline": "Mirza Fakhrul Islam Alamgir sworn in as 23rd president of Bangladesh",
-  "topic": "mirza fakhrul sworn in as president",
-  "source": "Prothom Alo, Dhaka Tribune, The Daily Star, Jamuna TV, Somoy News",
-  "status": "failed",
-  "at": "2026-08-21T19:07:06Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "d81d7ee292af132c",
-  "url": "https://www.prothomalo.com/video/bangladesh/dfdwksn58p",
-  "headline": "Mirza Fakhrul Islam Alamgir sworn in as 23rd president of Bangladesh",
-  "topic": "mirza fakhrul sworn in as president",
-  "source": "Prothom Alo, Dhaka Tribune, The Daily Star, Jamuna TV, Somoy News",
-  "status": "failed",
-  "at": "2026-08-21T19:07:06Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "9f724013f90ce2f6",
-  "url": "https://www.thedailystar.net/news/bangladesh/news/twenty-three-minutes-seven-oaths-and-new-president-bangabhaban-4253566",
-  "headline": "Mirza Fakhrul Islam Alamgir sworn in as 23rd president of Bangladesh",
-  "topic": "mirza fakhrul sworn in as president",
-  "source": "Prothom Alo, Dhaka Tribune, The Daily Star, Jamuna TV, Somoy News",
-  "status": "failed",
-  "at": "2026-08-21T19:07:06Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "94b75d6f2fb4d7ac",
-  "url": "https://www.dhakatribune.com/bangladesh/election/418039/mirza-fakhrul-sworn-in-as-23rd-president-cabinet",
-  "headline": "Mirza Fakhrul Islam Alamgir sworn in as 23rd president of Bangladesh",
-  "topic": "mirza fakhrul sworn in as president",
-  "source": "Prothom Alo, Dhaka Tribune, The Daily Star, Jamuna TV, Somoy News",
-  "status": "failed",
-  "at": "2026-08-21T19:07:06Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "3b35b2c655749da1",
   "url": "https://www.jamuna.tv/national/662592",
   "headline": "Mirza Fakhrul Islam Alamgir sworn in as 23rd president of Bangladesh",
@@ -8393,5 +8337,41 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "0bcdde1a162645cb",
+  "url": "https://www.prothomalo.com/bangladesh/capital/okhaw2oeop",
+  "headline": "Double blow: Gas crisis and load shedding hit Dhaka residents",
+  "topic": "gas crisis electric stoves load shedding",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-24T20:07:13Z"
+ },
+ {
+  "title_hash": "1c921dafda668dcc",
+  "url": "https://www.prothomalo.com/video/bangladesh/e4xpr8ydvy",
+  "headline": "Double blow: Gas crisis and load shedding hit Dhaka residents",
+  "topic": "gas crisis electric stoves load shedding",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-24T20:07:13Z"
+ },
+ {
+  "title_hash": "64e9fddcdd433c36",
+  "url": "https://www.jamuna.tv/national/662750",
+  "headline": "Supreme Court: Judicial Service members banned from coaching",
+  "topic": "judicial service coaching ban",
+  "source": "Jamuna TV, Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-24T20:07:13Z"
+ },
+ {
+  "title_hash": "a0c2c6fa47f3862c",
+  "url": "https://www.prothomalo.com/bangladesh/1m0dgas5lv",
+  "headline": "Supreme Court: Judicial Service members banned from coaching",
+  "topic": "judicial service coaching ban",
+  "source": "Jamuna TV, Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-24T20:07:13Z"
  }
 ]
