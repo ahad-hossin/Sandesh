@@ -1,75 +1,5 @@
 [
  {
-  "title_hash": "107b3bf6b23c0717",
-  "url": "https://www.prothomalo.com/video/bangladesh/uytwaxhw9y",
-  "headline": "Mirza Fakhrul Islam Alamgir sworn in as 23rd president of Bangladesh",
-  "topic": "mirza fakhrul sworn in as president",
-  "source": "Prothom Alo, Dhaka Tribune, The Daily Star, Jamuna TV, Somoy News",
-  "status": "failed",
-  "at": "2026-08-21T19:07:06Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "b92397883e8d8433",
-  "url": "https://www.dhakatribune.com/bangladesh/foreign-affairs/418026/india-president-congratulates-president-mirza",
-  "headline": "Mirza Fakhrul Islam Alamgir sworn in as 23rd president of Bangladesh",
-  "topic": "mirza fakhrul sworn in as president",
-  "source": "Prothom Alo, Dhaka Tribune, The Daily Star, Jamuna TV, Somoy News",
-  "status": "failed",
-  "at": "2026-08-21T19:07:06Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "627e57fe50de71f2",
-  "url": "https://www.prothomalo.com/video/bangladesh/ndjt9jn2tk",
-  "headline": "Mirza Fakhrul Islam Alamgir sworn in as 23rd president of Bangladesh",
-  "topic": "mirza fakhrul sworn in as president",
-  "source": "Prothom Alo, Dhaka Tribune, The Daily Star, Jamuna TV, Somoy News",
-  "status": "failed",
-  "at": "2026-08-21T19:07:06Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "334e9b19ad9ab409",
-  "url": "https://www.dhakatribune.com/bangladesh/418022/mirza-fakhrul-islam-alamgir-%C2%A0takes-oath-as-23rd",
-  "headline": "Mirza Fakhrul Islam Alamgir sworn in as 23rd president of Bangladesh",
-  "topic": "mirza fakhrul sworn in as president",
-  "source": "Prothom Alo, Dhaka Tribune, The Daily Star, Jamuna TV, Somoy News",
-  "status": "failed",
-  "at": "2026-08-21T19:07:06Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "8da8b6f5246ed917",
-  "url": "https://www.prothomalo.com/video/bangladesh/rqql4yi13l",
-  "headline": "Mirza Fakhrul Islam Alamgir sworn in as 23rd president of Bangladesh",
-  "topic": "mirza fakhrul sworn in as president",
-  "source": "Prothom Alo, Dhaka Tribune, The Daily Star, Jamuna TV, Somoy News",
-  "status": "failed",
-  "at": "2026-08-21T19:07:06Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "8db721620309e42a",
   "url": "https://www.dhakatribune.com/bangladesh/418012/fakhrul-reaches-bangabhaban-for-swearing-in",
   "headline": "Mirza Fakhrul Islam Alamgir sworn in as 23rd president of Bangladesh",
@@ -8393,5 +8323,50 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "1a46fafe5a83613b",
+  "url": "https://www.thedailystar.net/news/world/news/us-unveils-economic-d-day-sanctions-4256226",
+  "headline": "US launches 'economic D-Day' to sever every economic lifeline sustaining Iran",
+  "topic": "us sanctions on iran",
+  "source": "The Daily Star, Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-24T22:07:17Z"
+ },
+ {
+  "title_hash": "dd911e94d193aaa9",
+  "url": "https://www.prothomalo.com/world/usa/0iw16jmqqv",
+  "headline": "US launches 'economic D-Day' to sever every economic lifeline sustaining Iran",
+  "topic": "us sanctions on iran",
+  "source": "The Daily Star, Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-24T22:07:17Z"
+ },
+ {
+  "title_hash": "d9f2769aa657fa1a",
+  "url": "https://www.thedailystar.net/news/world/news/us-cancels-jt-marine-drill-over-iran-war-4256126",
+  "headline": "US launches 'economic D-Day' to sever every economic lifeline sustaining Iran",
+  "topic": "us sanctions on iran",
+  "source": "The Daily Star, Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-24T22:07:17Z"
+ },
+ {
+  "title_hash": "0bcdde1a162645cb",
+  "url": "https://www.prothomalo.com/bangladesh/capital/okhaw2oeop",
+  "headline": "Dhaka residents suffer as gas crisis and load shedding hit kitchens",
+  "topic": "gas crisis and load shedding",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-24T22:07:17Z"
+ },
+ {
+  "title_hash": "1c921dafda668dcc",
+  "url": "https://www.prothomalo.com/video/bangladesh/e4xpr8ydvy",
+  "headline": "Dhaka residents suffer as gas crisis and load shedding hit kitchens",
+  "topic": "gas crisis and load shedding",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-24T22:07:17Z"
  }
 ]
