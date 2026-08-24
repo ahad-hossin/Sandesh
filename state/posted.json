@@ -1,75 +1,5 @@
 [
  {
-  "title_hash": "3172c00d258db303",
-  "url": "https://www.jamuna.tv/national/662591",
-  "headline": "Mirza Fakhrul sworn in as Bangladesh’s 23rd president",
-  "topic": "mirza fakhrul president oath",
-  "source": "Jamuna TV, Somoy News, The Daily Star, Dhaka Tribune, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-21T17:07:11Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "12e0e204d3089f3a",
-  "url": "https://www.somoynews.tv/news/2026-08-21/9HX5z1M5",
-  "headline": "Mirza Fakhrul sworn in as Bangladesh’s 23rd president",
-  "topic": "mirza fakhrul president oath",
-  "source": "Jamuna TV, Somoy News, The Daily Star, Dhaka Tribune, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-21T17:07:11Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "d869c017cbd594d1",
-  "url": "https://www.jamuna.tv/national/662587",
-  "headline": "Mirza Fakhrul sworn in as Bangladesh’s 23rd president",
-  "topic": "mirza fakhrul president oath",
-  "source": "Jamuna TV, Somoy News, The Daily Star, Dhaka Tribune, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-21T17:07:11Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "334e9b19ad9ab409",
-  "url": "https://www.dhakatribune.com/bangladesh/418022/mirza-fakhrul-islam-alamgir-%C2%A0takes-oath-as-23rd",
-  "headline": "Mirza Fakhrul sworn in as Bangladesh’s 23rd president",
-  "topic": "mirza fakhrul president oath",
-  "source": "Jamuna TV, Somoy News, The Daily Star, Dhaka Tribune, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-21T17:07:11Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "cad2b09802c6f3a0",
-  "url": "https://www.prothomalo.com/video/bangladesh/ni1li97ab2",
-  "headline": "Mirza Fakhrul sworn in as Bangladesh’s 23rd president",
-  "topic": "mirza fakhrul president oath",
-  "source": "Jamuna TV, Somoy News, The Daily Star, Dhaka Tribune, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-21T17:07:11Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "8db721620309e42a",
   "url": "https://www.dhakatribune.com/bangladesh/418012/fakhrul-reaches-bangabhaban-for-swearing-in",
   "headline": "Mirza Fakhrul sworn in as Bangladesh’s 23rd president",
@@ -8393,5 +8323,50 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "8d4998f9a4a2bb01",
+  "url": "https://www.thedailystar.net/sports/football/news/brazil-bangladesh-friendly-dhaka-bff-president-says-all-options-discussed-4255516",
+  "headline": "BFF explores Brazil national team friendly in Dhaka this October",
+  "topic": "brazil football team dhaka friendly",
+  "source": "Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-08-24T14:07:14Z"
+ },
+ {
+  "title_hash": "bafca81faa6a3ee2",
+  "url": "https://www.prothomalo.com/video/sports/qxb5xnh149",
+  "headline": "BFF explores Brazil national team friendly in Dhaka this October",
+  "topic": "brazil football team dhaka friendly",
+  "source": "Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-08-24T14:07:14Z"
+ },
+ {
+  "title_hash": "f011df6b628e68d3",
+  "url": "https://www.thedailystar.net/news/education/news/ssc-2027-exam-routine-published-tests-begin-march-14-4255751",
+  "headline": "March 14: 2027 SSC exams to begin after schedule shift",
+  "topic": "ssc 2027 exam routine",
+  "source": "The Daily Star, Jamuna TV, Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-08-24T14:07:14Z"
+ },
+ {
+  "title_hash": "d95686eca9ea56ba",
+  "url": "https://www.jamuna.tv/campus/662734",
+  "headline": "March 14: 2027 SSC exams to begin after schedule shift",
+  "topic": "ssc 2027 exam routine",
+  "source": "The Daily Star, Jamuna TV, Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-08-24T14:07:14Z"
+ },
+ {
+  "title_hash": "cf290b7279b3034e",
+  "url": "https://www.dhakatribune.com/bangladesh/education/418217/2027-ssc-exams-rescheduled-to-start-march-14",
+  "headline": "March 14: 2027 SSC exams to begin after schedule shift",
+  "topic": "ssc 2027 exam routine",
+  "source": "The Daily Star, Jamuna TV, Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-08-24T14:07:14Z"
  }
 ]
