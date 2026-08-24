@@ -1,33 +1,5 @@
 [
  {
-  "title_hash": "8db721620309e42a",
-  "url": "https://www.dhakatribune.com/bangladesh/418012/fakhrul-reaches-bangabhaban-for-swearing-in",
-  "headline": "Mirza Fakhrul Islam Alamgir sworn in as 23rd president of Bangladesh",
-  "topic": "mirza fakhrul sworn in as president",
-  "source": "Prothom Alo, Dhaka Tribune, The Daily Star, Jamuna TV, Somoy News",
-  "status": "failed",
-  "at": "2026-08-21T19:07:06Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "958126bddd0e5d43",
-  "url": "https://www.dhakatribune.com/bangladesh/government-affairs/417991/four-new-faces-to-join-cabinet-take-oath-friday",
-  "headline": "Mirza Fakhrul Islam Alamgir sworn in as 23rd president of Bangladesh",
-  "topic": "mirza fakhrul sworn in as president",
-  "source": "Prothom Alo, Dhaka Tribune, The Daily Star, Jamuna TV, Somoy News",
-  "status": "failed",
-  "at": "2026-08-21T19:07:06Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "0c0cf1326db2665c",
   "url": "https://www.dhakatribune.com/bangladesh/foreign-affairs/418008/pakistan-president-congratulates-president-elect",
   "headline": "Mirza Fakhrul Islam Alamgir sworn in as 23rd president of Bangladesh",
@@ -8393,5 +8365,23 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "b16a5c0cfebf3eaa",
+  "url": "https://www.thedailystar.net/sports/football/news/alonso-makes-winning-start-chelsea-rogers-scores-debut-4256236",
+  "headline": "Xabi Alonso wins first game as Chelsea boss in 3-2 thriller vs Fulham",
+  "topic": "xabi alonso chelsea win",
+  "source": "The Daily Star",
+  "status": "queued",
+  "at": "2026-08-24T23:07:07Z"
+ },
+ {
+  "title_hash": "ced0682f2698de0d",
+  "url": "https://www.prothomalo.com/world/usa/hfmhwjw79p",
+  "headline": "US universities urge international students to return by Sept 15",
+  "topic": "us universities international students return",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-24T23:07:07Z"
  }
 ]
