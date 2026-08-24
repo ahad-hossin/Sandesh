@@ -8372,8 +8372,13 @@
   "headline": "Xabi Alonso wins first game as Chelsea boss in 3-2 thriller vs Fulham",
   "topic": "xabi alonso chelsea win",
   "source": "The Daily Star",
-  "status": "queued",
-  "at": "2026-08-24T23:07:07Z"
+  "status": "failed",
+  "at": "2026-08-24T23:07:07Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "ced0682f2698de0d",
@@ -8381,7 +8386,12 @@
   "headline": "US universities urge international students to return by Sept 15",
   "topic": "us universities international students return",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-24T23:07:07Z"
+  "status": "failed",
+  "at": "2026-08-24T23:07:07Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
