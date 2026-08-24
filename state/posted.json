@@ -8330,8 +8330,13 @@
   "headline": "Faces of 4 murdered Rangpur family members burnt with chemicals; 2 arrested",
   "topic": "rangpur family murder burial",
   "source": "Jamuna TV, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-24T02:09:03Z"
+  "status": "failed",
+  "at": "2026-08-24T02:09:03Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "34af584c6456bf96",
@@ -8339,8 +8344,13 @@
   "headline": "Faces of 4 murdered Rangpur family members burnt with chemicals; 2 arrested",
   "topic": "rangpur family murder burial",
   "source": "Jamuna TV, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-24T02:09:03Z"
+  "status": "failed",
+  "at": "2026-08-24T02:09:03Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "96de9d4321fd9b1c",
@@ -8348,8 +8358,13 @@
   "headline": "Gas supply increases but crisis persists as soaring LNG prices strain Bangladesh's energy sector",
   "topic": "bangladesh gas supply crisis",
   "source": "Dhaka Tribune, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-24T02:09:03Z"
+  "status": "failed",
+  "at": "2026-08-24T02:09:03Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "6231cf9ca177517f",
@@ -8357,8 +8372,13 @@
   "headline": "Gas supply increases but crisis persists as soaring LNG prices strain Bangladesh's energy sector",
   "topic": "bangladesh gas supply crisis",
   "source": "Dhaka Tribune, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-24T02:09:03Z"
+  "status": "failed",
+  "at": "2026-08-24T02:09:03Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "a3b62651afc89279",
@@ -8366,7 +8386,12 @@
   "headline": "Gas supply increases but crisis persists as soaring LNG prices strain Bangladesh's energy sector",
   "topic": "bangladesh gas supply crisis",
   "source": "Dhaka Tribune, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-24T02:09:03Z"
+  "status": "failed",
+  "at": "2026-08-24T02:09:03Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
