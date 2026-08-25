@@ -1,33 +1,5 @@
 [
  {
-  "title_hash": "d869c017cbd594d1",
-  "url": "https://www.jamuna.tv/national/662587",
-  "headline": "Mirza Fakhrul sworn in as 23rd president of Bangladesh",
-  "topic": "mirza fakhrul sworn in as president",
-  "source": "The Daily Star, Jamuna TV, Dhaka Tribune, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-21T20:06:57Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "107b3bf6b23c0717",
-  "url": "https://www.prothomalo.com/video/bangladesh/uytwaxhw9y",
-  "headline": "Mirza Fakhrul sworn in as 23rd president of Bangladesh",
-  "topic": "mirza fakhrul sworn in as president",
-  "source": "The Daily Star, Jamuna TV, Dhaka Tribune, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-21T20:06:57Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "185eb62bed6f202d",
   "url": "https://www.prothomalo.com/bangladesh/ntun-caar-mntrii-ye-mntrnnaalyy-pelen",
   "headline": "Mirza Fakhrul sworn in as 23rd president of Bangladesh",
@@ -8393,5 +8365,23 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "284535dc3ba69458",
+  "url": "https://www.prothomalo.com/bangladesh/017sg8a3fp",
+  "headline": "Govt extends deadline for vehicle paper renewal without fine to Oct 29",
+  "topic": "driving-license-renewal-extension",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-25T10:07:57Z"
+ },
+ {
+  "title_hash": "cfa25667d7437fe7",
+  "url": "https://www.dhakatribune.com/bangladesh/418289/hours-in-line-barely-enough-gas-for-one-trip",
+  "headline": "Fuel crisis: Hours in line, barely enough gas for one trip",
+  "topic": "cng-gas-crisis",
+  "source": "Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-08-25T10:07:57Z"
  }
 ]
