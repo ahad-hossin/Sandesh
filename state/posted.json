@@ -8372,8 +8372,13 @@
   "headline": "High Court sets verdict date today in child Achiya rape and murder case",
   "topic": "child asiya rape murder verdict",
   "source": "Jamuna TV",
-  "status": "queued",
-  "at": "2026-08-25T02:07:03Z"
+  "status": "failed",
+  "at": "2026-08-25T02:07:03Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "b575d6f5b8d74c4e",
@@ -8381,7 +8386,12 @@
   "headline": "7 lakh students fail in SSC & equivalent exams, lowest pass rate in two decades",
   "topic": "7 lakh students failed education system",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-25T02:07:03Z"
+  "status": "failed",
+  "at": "2026-08-25T02:07:03Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
