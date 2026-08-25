@@ -8316,8 +8316,13 @@
   "headline": "Family of 4 killed in Rangpur: Funeral rites completed as kin demand justice",
   "topic": "rangpur family killings",
   "source": "Dhaka Tribune, Jamuna TV",
-  "status": "queued",
-  "at": "2026-08-25T20:06:45Z"
+  "status": "failed",
+  "at": "2026-08-25T20:06:45Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "a98fb7bba687ecb6",
@@ -8325,8 +8330,13 @@
   "headline": "Family of 4 killed in Rangpur: Funeral rites completed as kin demand justice",
   "topic": "rangpur family killings",
   "source": "Dhaka Tribune, Jamuna TV",
-  "status": "queued",
-  "at": "2026-08-25T20:06:45Z"
+  "status": "failed",
+  "at": "2026-08-25T20:06:45Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "017ab8230252b3df",
@@ -8334,8 +8344,13 @@
   "headline": "Family of 4 killed in Rangpur: Funeral rites completed as kin demand justice",
   "topic": "rangpur family killings",
   "source": "Dhaka Tribune, Jamuna TV",
-  "status": "queued",
-  "at": "2026-08-25T20:06:45Z"
+  "status": "failed",
+  "at": "2026-08-25T20:06:45Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "454a1dc0199752e8",
@@ -8343,8 +8358,13 @@
   "headline": "Ex-president's former wife Bidisha Siddique arrested in fraud case",
   "topic": "bidisha siddique arrest",
   "source": "Dhaka Tribune, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-25T20:06:45Z"
+  "status": "failed",
+  "at": "2026-08-25T20:06:45Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "6809e997d9bcb905",
@@ -8352,8 +8372,13 @@
   "headline": "Ex-president's former wife Bidisha Siddique arrested in fraud case",
   "topic": "bidisha siddique arrest",
   "source": "Dhaka Tribune, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-25T20:06:45Z"
+  "status": "failed",
+  "at": "2026-08-25T20:06:45Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "222513df69ab82bc",
@@ -8361,7 +8386,12 @@
   "headline": "Ex-president's former wife Bidisha Siddique arrested in fraud case",
   "topic": "bidisha siddique arrest",
   "source": "Dhaka Tribune, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-25T20:06:45Z"
+  "status": "failed",
+  "at": "2026-08-25T20:06:45Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
