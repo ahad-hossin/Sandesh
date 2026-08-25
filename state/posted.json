@@ -8372,8 +8372,13 @@
   "headline": "Govt extends deadline for vehicle paper renewal without fine to Oct 29",
   "topic": "driving-license-renewal-extension",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-25T10:07:57Z"
+  "status": "failed",
+  "at": "2026-08-25T10:07:57Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "cfa25667d7437fe7",
@@ -8381,7 +8386,12 @@
   "headline": "Fuel crisis: Hours in line, barely enough gas for one trip",
   "topic": "cng-gas-crisis",
   "source": "Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-08-25T10:07:57Z"
+  "status": "failed",
+  "at": "2026-08-25T10:07:57Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
