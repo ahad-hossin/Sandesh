@@ -1,33 +1,5 @@
 [
  {
-  "title_hash": "9f166006bc42e1e2",
-  "url": "https://www.dhakatribune.com/bangladesh/418044/cabinet-reshuffle-who-is-getting-which-ministry",
-  "headline": "Six new ministers take oath in first cabinet reshuffle",
-  "topic": "cabinet reshuffle new ministers",
-  "source": "Dhaka Tribune, Somoy News, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-21T19:07:06Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "47f0c624655a6001",
-  "url": "https://www.dhakatribune.com/bangladesh/418028/four-ministers-two-state-ministers-take-oath",
-  "headline": "Six new ministers take oath in first cabinet reshuffle",
-  "topic": "cabinet reshuffle new ministers",
-  "source": "Dhaka Tribune, Somoy News, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-21T19:07:06Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "edefd98d7b6505d3",
   "url": "https://www.somoynews.tv/news/2026-08-21/IwFB32uw",
   "headline": "Six new ministers take oath in first cabinet reshuffle",
@@ -8393,5 +8365,23 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "80f0a21ab86bde20",
+  "url": "https://www.dhakatribune.com/bangladesh/dhaka/418276/dhaka-ranks-6th-globally-in-worst-air-quality",
+  "headline": "Dhaka ranks 6th globally in worst air quality",
+  "topic": "Dhaka air quality ranking",
+  "source": "Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-08-25T04:07:43Z"
+ },
+ {
+  "title_hash": "d94c73daad829b9e",
+  "url": "https://www.prothomalo.com/business/economics/wljkoliv43",
+  "headline": "Sugar prices surge by BDT 10/kg in a week amid gas crisis, mills halt credit sales",
+  "topic": "Sugar price hike gas crisis",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-25T04:07:43Z"
  }
 ]
