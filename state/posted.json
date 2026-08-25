@@ -1,47 +1,5 @@
 [
  {
-  "title_hash": "14d8c700fecc86a1",
-  "url": "https://www.prothomalo.com/video/bangladesh/p8d70345hu",
-  "headline": "Mirza Fakhrul Islam Alamgir sworn in as 23rd president of Bangladesh",
-  "topic": "mirza fakhrul sworn in as president",
-  "source": "Prothom Alo, Dhaka Tribune, The Daily Star, Jamuna TV, Somoy News",
-  "status": "failed",
-  "at": "2026-08-21T19:07:06Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "12e0e204d3089f3a",
-  "url": "https://www.prothomalo.com/politics/yybjrpwkvs",
-  "headline": "Mirza Fakhrul Islam Alamgir sworn in as 23rd president of Bangladesh",
-  "topic": "mirza fakhrul sworn in as president",
-  "source": "Prothom Alo, Dhaka Tribune, The Daily Star, Jamuna TV, Somoy News",
-  "status": "failed",
-  "at": "2026-08-21T19:07:06Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "3a017cf295c7fe09",
-  "url": "https://www.prothomalo.com/video/bangladesh/z2rpae0v0h",
-  "headline": "Mirza Fakhrul Islam Alamgir sworn in as 23rd president of Bangladesh",
-  "topic": "mirza fakhrul sworn in as president",
-  "source": "Prothom Alo, Dhaka Tribune, The Daily Star, Jamuna TV, Somoy News",
-  "status": "failed",
-  "at": "2026-08-21T19:07:06Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "9f166006bc42e1e2",
   "url": "https://www.dhakatribune.com/bangladesh/418044/cabinet-reshuffle-who-is-getting-which-ministry",
   "headline": "Six new ministers take oath in first cabinet reshuffle",
@@ -8393,5 +8351,32 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "d94c73daad829b9e",
+  "url": "https://www.prothomalo.com/business/economics/wljkoliv43",
+  "headline": "Sugar price jumps 7% in a week due to gas crisis, credit sales halted at mill gates",
+  "topic": "gas crisis impacts sugar and household costs",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-25T03:08:48Z"
+ },
+ {
+  "title_hash": "bf536eae8aee899d",
+  "url": "https://www.prothomalo.com/bangladesh/3eqzg7llai",
+  "headline": "Sugar price jumps 7% in a week due to gas crisis, credit sales halted at mill gates",
+  "topic": "gas crisis impacts sugar and household costs",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-25T03:08:48Z"
+ },
+ {
+  "title_hash": "b575d6f5b8d74c4e",
+  "url": "https://www.prothomalo.com/opinion/column/bb8v680wnc",
+  "headline": "Bangladesh's education system in crisis as 7 lakh students fail SSC exams",
+  "topic": "education system student failure",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-25T03:08:48Z"
  }
 ]
