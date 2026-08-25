@@ -8372,8 +8372,13 @@
   "headline": "HC verdict in Magura child rape-murder case Tuesday",
   "topic": "magura child rape murder verdict",
   "source": "Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-08-25T05:07:28Z"
+  "status": "failed",
+  "at": "2026-08-25T05:07:28Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "ddb22d71622d5d93",
@@ -8381,7 +8386,12 @@
   "headline": "Trawler sinks in Bay of Bengal, 8 rescued, 5 fishermen still missing",
   "topic": "trawler capsizes bay of bengal",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-25T05:07:28Z"
+  "status": "failed",
+  "at": "2026-08-25T05:07:28Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
