@@ -8372,8 +8372,13 @@
   "headline": "Dhaka ranks 6th globally in worst air quality",
   "topic": "Dhaka air quality ranking",
   "source": "Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-08-25T04:07:43Z"
+  "status": "failed",
+  "at": "2026-08-25T04:07:43Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "d94c73daad829b9e",
@@ -8381,7 +8386,12 @@
   "headline": "Sugar prices surge by BDT 10/kg in a week amid gas crisis, mills halt credit sales",
   "topic": "Sugar price hike gas crisis",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-25T04:07:43Z"
+  "status": "failed",
+  "at": "2026-08-25T04:07:43Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
