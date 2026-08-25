@@ -1,75 +1,5 @@
 [
  {
-  "title_hash": "dec65b591e8ad8cf",
-  "url": "https://www.dhakatribune.com/bangladesh/418024/four-new-ministers-take-oath",
-  "headline": "Six new ministers take oath in first cabinet reshuffle",
-  "topic": "cabinet reshuffle new ministers",
-  "source": "Dhaka Tribune, Somoy News, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-21T19:07:06Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "9b8f31b9e8859078",
-  "url": "https://www.prothomalo.com/politics/shpth-nilen-caar-mntrii-o-dujn-prtimntrii",
-  "headline": "Six new ministers take oath in first cabinet reshuffle",
-  "topic": "cabinet reshuffle new ministers",
-  "source": "Dhaka Tribune, Somoy News, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-21T19:07:06Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "6eec730227a001d8",
-  "url": "https://www.somoynews.tv/news/2026-08-21/9HXXXXH2",
-  "headline": "Six new ministers take oath in first cabinet reshuffle",
-  "topic": "cabinet reshuffle new ministers",
-  "source": "Dhaka Tribune, Somoy News, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-21T19:07:06Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "73ff53f722b378d8",
-  "url": "https://www.prothomalo.com/bangladesh/kpdnx0jweh",
-  "headline": "Six new ministers take oath in first cabinet reshuffle",
-  "topic": "cabinet reshuffle new ministers",
-  "source": "Dhaka Tribune, Somoy News, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-21T19:07:06Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "41e0be4214241eed",
-  "url": "https://www.prothomalo.com/politics/mntrisbhaayy-ntun-paancjn-ke-kon-mntrnnaalyy-paacchen",
-  "headline": "Six new ministers take oath in first cabinet reshuffle",
-  "topic": "cabinet reshuffle new ministers",
-  "source": "Dhaka Tribune, Somoy News, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-21T19:07:06Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "9b8f31b9e8859078",
   "url": "https://www.prothomalo.com/politics/ie2vx2pszl",
   "headline": "Six new ministers take oath in first cabinet reshuffle",
@@ -8393,5 +8323,50 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "fa69bf2ea4a536b5",
+  "url": "https://www.prothomalo.com/business/industry/676v1672qy",
+  "headline": "Gold prices rise by 1,633 BDT per bhori in Bangladesh",
+  "topic": "gold-price-increase",
+  "source": "Prothom Alo, Jamuna TV",
+  "status": "queued",
+  "at": "2026-08-25T07:03:43Z"
+ },
+ {
+  "title_hash": "725e8b463e8d9889",
+  "url": "https://www.jamuna.tv/economy/662762",
+  "headline": "Gold prices rise by 1,633 BDT per bhori in Bangladesh",
+  "topic": "gold-price-increase",
+  "source": "Prothom Alo, Jamuna TV",
+  "status": "queued",
+  "at": "2026-08-25T07:03:43Z"
+ },
+ {
+  "title_hash": "a4ee917ecb489bd0",
+  "url": "https://www.thedailystar.net/business/news/no-profit-haircut-sammilito-islami-bank-depositors-bb-governor-4256336",
+  "headline": "Sammilito Islami Bank: Depositors can withdraw money from Sept 1",
+  "topic": "sammilito-islami-bank-withdrawals",
+  "source": "Prothom Alo, Jamuna TV, The Daily Star",
+  "status": "queued",
+  "at": "2026-08-25T07:03:43Z"
+ },
+ {
+  "title_hash": "0266f3ea452a15bc",
+  "url": "https://www.prothomalo.com/business/bank/wq1m00y6oq",
+  "headline": "Sammilito Islami Bank: Depositors can withdraw money from Sept 1",
+  "topic": "sammilito-islami-bank-withdrawals",
+  "source": "Prothom Alo, Jamuna TV, The Daily Star",
+  "status": "queued",
+  "at": "2026-08-25T07:03:43Z"
+ },
+ {
+  "title_hash": "d86d45ebe52ebafe",
+  "url": "https://www.jamuna.tv/economy/662769",
+  "headline": "Sammilito Islami Bank: Depositors can withdraw money from Sept 1",
+  "topic": "sammilito-islami-bank-withdrawals",
+  "source": "Prothom Alo, Jamuna TV, The Daily Star",
+  "status": "queued",
+  "at": "2026-08-25T07:03:43Z"
  }
 ]
