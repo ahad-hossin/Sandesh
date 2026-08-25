@@ -1,33 +1,5 @@
 [
  {
-  "title_hash": "0091e57bd5e6ab97",
-  "url": "https://www.prothomalo.com/bangladesh/1hgu09g7ab",
-  "headline": "Mirza Fakhrul Islam Alamgir sworn in as 23rd president of Bangladesh",
-  "topic": "mirza fakhrul sworn in as president",
-  "source": "Prothom Alo, Dhaka Tribune, The Daily Star, Jamuna TV, Somoy News",
-  "status": "failed",
-  "at": "2026-08-21T19:07:06Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "e0f684bfd4991920",
-  "url": "https://www.prothomalo.com/bangladesh/yg4hl6qoc0",
-  "headline": "Mirza Fakhrul Islam Alamgir sworn in as 23rd president of Bangladesh",
-  "topic": "mirza fakhrul sworn in as president",
-  "source": "Prothom Alo, Dhaka Tribune, The Daily Star, Jamuna TV, Somoy News",
-  "status": "failed",
-  "at": "2026-08-21T19:07:06Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "14d8c700fecc86a1",
   "url": "https://www.prothomalo.com/video/bangladesh/p8d70345hu",
   "headline": "Mirza Fakhrul Islam Alamgir sworn in as 23rd president of Bangladesh",
@@ -8393,5 +8365,23 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "9d53bffe7def91d5",
+  "url": "https://www.jamuna.tv/national/662751",
+  "headline": "High Court sets verdict date today in child Achiya rape and murder case",
+  "topic": "child asiya rape murder verdict",
+  "source": "Jamuna TV",
+  "status": "queued",
+  "at": "2026-08-25T02:07:03Z"
+ },
+ {
+  "title_hash": "b575d6f5b8d74c4e",
+  "url": "https://www.prothomalo.com/opinion/column/bb8v680wnc",
+  "headline": "7 lakh students fail in SSC & equivalent exams, lowest pass rate in two decades",
+  "topic": "7 lakh students failed education system",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-25T02:07:03Z"
  }
 ]
