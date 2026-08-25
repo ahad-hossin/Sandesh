@@ -1,75 +1,5 @@
 [
  {
-  "title_hash": "47f0c624655a6001",
-  "url": "https://www.dhakatribune.com/bangladesh/418028/four-ministers-two-state-ministers-take-oath",
-  "headline": "6 new members join Tarique-led cabinet in reshuffle",
-  "topic": "cabinet reshuffle portfolios",
-  "source": "Dhaka Tribune, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-08-21T21:07:09Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "6217725cc5b2dafc",
-  "url": "https://www.dhakatribune.com/bangladesh/418041/two-ministers-set-for-new-portfolios-in-first",
-  "headline": "6 new members join Tarique-led cabinet in reshuffle",
-  "topic": "cabinet reshuffle portfolios",
-  "source": "Dhaka Tribune, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-08-21T21:07:09Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "6b0c194f41fa8816",
-  "url": "https://www.prothomalo.com/video/bangladesh/1pt4ils52g",
-  "headline": "6 new members join Tarique-led cabinet in reshuffle",
-  "topic": "cabinet reshuffle portfolios",
-  "source": "Dhaka Tribune, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-08-21T21:07:09Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "29b778fe281f5ad5",
-  "url": "https://www.prothomalo.com/bangladesh/6iyh5jihu5",
-  "headline": "6 new members join Tarique-led cabinet in reshuffle",
-  "topic": "cabinet reshuffle portfolios",
-  "source": "Dhaka Tribune, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-08-21T21:07:09Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "1b13a71c670d2650",
-  "url": "https://www.thedailystar.net/news/bangladesh/news/cabinet-division-gazette-assigns-portfolios-4-ministers-2-state-ministers-4253621",
-  "headline": "6 new members join Tarique-led cabinet in reshuffle",
-  "topic": "cabinet reshuffle portfolios",
-  "source": "Dhaka Tribune, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-08-21T21:07:09Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "dec65b591e8ad8cf",
   "url": "https://www.dhakatribune.com/bangladesh/418024/four-new-ministers-take-oath",
   "headline": "6 new members join Tarique-led cabinet in reshuffle",
@@ -8393,5 +8323,50 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "62b22050f3cdc6df",
+  "url": "https://www.dhakatribune.com/bangladesh/crime/418343/bidisha-siddique-arrested",
+  "headline": "Bidisha Siddique arrested from Gulshan restaurant",
+  "topic": "bidisha siddique arrested",
+  "source": "Dhaka Tribune, Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-25T16:07:12Z"
+ },
+ {
+  "title_hash": "222513df69ab82bc",
+  "url": "https://www.prothomalo.com/bangladesh/bidishaa-siddik-greptaar",
+  "headline": "Bidisha Siddique arrested from Gulshan restaurant",
+  "topic": "bidisha siddique arrested",
+  "source": "Dhaka Tribune, Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-25T16:07:12Z"
+ },
+ {
+  "title_hash": "222513df69ab82bc",
+  "url": "https://www.prothomalo.com/bangladesh/7ikvyuan5e",
+  "headline": "Bidisha Siddique arrested from Gulshan restaurant",
+  "topic": "bidisha siddique arrested",
+  "source": "Dhaka Tribune, Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-25T16:07:12Z"
+ },
+ {
+  "title_hash": "5456dd4e990dc4f8",
+  "url": "https://www.thedailystar.net/sports/football/news/brazil-match-will-not-transform-bangladesh-football-says-aminul-4256596",
+  "headline": "Govt not inclined to spend public money on Brazil friendly match in Bangladesh",
+  "topic": "brazil match in bangladesh",
+  "source": "Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-08-25T16:07:12Z"
+ },
+ {
+  "title_hash": "486469f94d0a1b02",
+  "url": "https://www.prothomalo.com/sports/football/u4vjz6f3t3",
+  "headline": "Govt not inclined to spend public money on Brazil friendly match in Bangladesh",
+  "topic": "brazil match in bangladesh",
+  "source": "Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-08-25T16:07:12Z"
  }
 ]
