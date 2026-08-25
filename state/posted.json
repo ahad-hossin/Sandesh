@@ -8372,8 +8372,13 @@
   "headline": "Alonso makes winning start with Chelsea as Rogers scores on debut in 3-2 victory over Fulham",
   "topic": "chelsea win under new boss alonso",
   "source": "The Daily Star",
-  "status": "queued",
-  "at": "2026-08-25T01:07:13Z"
+  "status": "failed",
+  "at": "2026-08-25T01:07:13Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "ced0682f2698de0d",
@@ -8381,7 +8386,12 @@
   "headline": "US universities urge international students to return before Sept 15 new immigration rules",
   "topic": "us universities urge international students return",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-25T01:07:13Z"
+  "status": "failed",
+  "at": "2026-08-25T01:07:13Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
