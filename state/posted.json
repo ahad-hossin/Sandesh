@@ -8344,8 +8344,13 @@
   "headline": "Measles outbreak: Death toll reaches 943 as 5 children die in 24 hours",
   "topic": "measles outbreak death toll",
   "source": "Dhaka Tribune, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-25T12:07:47Z"
+  "status": "failed",
+  "at": "2026-08-25T12:07:47Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "45cfbf081af45a00",
@@ -8353,8 +8358,13 @@
   "headline": "Measles outbreak: Death toll reaches 943 as 5 children die in 24 hours",
   "topic": "measles outbreak death toll",
   "source": "Dhaka Tribune, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-25T12:07:47Z"
+  "status": "failed",
+  "at": "2026-08-25T12:07:47Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "8425c0034176cd0f",
@@ -8362,8 +8372,13 @@
   "headline": "88 deaths so far as 3 die of dengue in 24 hours",
   "topic": "dengue death toll",
   "source": "Jamuna TV, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-08-25T12:07:47Z"
+  "status": "failed",
+  "at": "2026-08-25T12:07:47Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "b0721b28416b9273",
@@ -8371,7 +8386,12 @@
   "headline": "88 deaths so far as 3 die of dengue in 24 hours",
   "topic": "dengue death toll",
   "source": "Jamuna TV, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-08-25T12:07:47Z"
+  "status": "failed",
+  "at": "2026-08-25T12:07:47Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
