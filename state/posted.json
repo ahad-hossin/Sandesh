@@ -1,33 +1,5 @@
 [
  {
-  "title_hash": "6b0c194f41fa8816",
-  "url": "https://www.prothomalo.com/video/bangladesh/1pt4ils52g",
-  "headline": "Six new ministers take oath in first cabinet reshuffle",
-  "topic": "cabinet reshuffle new ministers",
-  "source": "Dhaka Tribune, Somoy News, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-21T19:07:06Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "185eb62bed6f202d",
-  "url": "https://www.prothomalo.com/bangladesh/ntun-caar-mntrii-ye-mntrnnaalyy-pelen",
-  "headline": "Six new ministers take oath in first cabinet reshuffle",
-  "topic": "cabinet reshuffle new ministers",
-  "source": "Dhaka Tribune, Somoy News, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-21T19:07:06Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "dec65b591e8ad8cf",
   "url": "https://www.dhakatribune.com/bangladesh/418024/four-new-ministers-take-oath",
   "headline": "Six new ministers take oath in first cabinet reshuffle",
@@ -8393,5 +8365,23 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "471dbbb5ec7a9d39",
+  "url": "https://www.prothomalo.com/education/admission/udrves57md",
+  "headline": "Maximum Tk 8,500 set for Class 11 admission; fees vary by institution type, location",
+  "topic": "college_admission_fees_2026",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-25T06:09:00Z"
+ },
+ {
+  "title_hash": "725e8b463e8d9889",
+  "url": "https://www.jamuna.tv/economy/662762",
+  "headline": "Gold prices rise again in Bangladesh, 22K gold hits 247,743 BDT",
+  "topic": "gold_price_increase",
+  "source": "Jamuna TV",
+  "status": "queued",
+  "at": "2026-08-25T06:09:00Z"
  }
 ]
