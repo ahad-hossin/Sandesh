@@ -1,33 +1,5 @@
 [
  {
-  "title_hash": "edefd98d7b6505d3",
-  "url": "https://www.somoynews.tv/news/2026-08-21/IwFB32uw",
-  "headline": "Six new ministers take oath in first cabinet reshuffle",
-  "topic": "cabinet reshuffle new ministers",
-  "source": "Dhaka Tribune, Somoy News, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-21T19:07:06Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "6217725cc5b2dafc",
-  "url": "https://www.dhakatribune.com/bangladesh/418041/two-ministers-set-for-new-portfolios-in-first",
-  "headline": "Six new ministers take oath in first cabinet reshuffle",
-  "topic": "cabinet reshuffle new ministers",
-  "source": "Dhaka Tribune, Somoy News, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-21T19:07:06Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "6b0c194f41fa8816",
   "url": "https://www.prothomalo.com/video/bangladesh/1pt4ils52g",
   "headline": "Six new ministers take oath in first cabinet reshuffle",
@@ -8393,5 +8365,23 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "e0368dfa424ea2f4",
+  "url": "https://www.dhakatribune.com/bangladesh/court/418278/hc-verdict-in-magura-child-rape-murder-case",
+  "headline": "HC verdict in Magura child rape-murder case Tuesday",
+  "topic": "magura child rape murder verdict",
+  "source": "Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-08-25T05:07:28Z"
+ },
+ {
+  "title_hash": "ddb22d71622d5d93",
+  "url": "https://www.prothomalo.com/bangladesh/district/ve8kwgtd4j",
+  "headline": "Trawler sinks in Bay of Bengal, 8 rescued, 5 fishermen still missing",
+  "topic": "trawler capsizes bay of bengal",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-25T05:07:28Z"
  }
 ]
