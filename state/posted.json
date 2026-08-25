@@ -8330,8 +8330,13 @@
   "headline": "Gold prices rise by 1,633 BDT per bhori in Bangladesh",
   "topic": "gold-price-increase",
   "source": "Prothom Alo, Jamuna TV",
-  "status": "queued",
-  "at": "2026-08-25T07:03:43Z"
+  "status": "failed",
+  "at": "2026-08-25T07:03:43Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "725e8b463e8d9889",
@@ -8339,8 +8344,13 @@
   "headline": "Gold prices rise by 1,633 BDT per bhori in Bangladesh",
   "topic": "gold-price-increase",
   "source": "Prothom Alo, Jamuna TV",
-  "status": "queued",
-  "at": "2026-08-25T07:03:43Z"
+  "status": "failed",
+  "at": "2026-08-25T07:03:43Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "a4ee917ecb489bd0",
@@ -8348,8 +8358,13 @@
   "headline": "Sammilito Islami Bank: Depositors can withdraw money from Sept 1",
   "topic": "sammilito-islami-bank-withdrawals",
   "source": "Prothom Alo, Jamuna TV, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-25T07:03:43Z"
+  "status": "failed",
+  "at": "2026-08-25T07:03:43Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "0266f3ea452a15bc",
@@ -8357,8 +8372,13 @@
   "headline": "Sammilito Islami Bank: Depositors can withdraw money from Sept 1",
   "topic": "sammilito-islami-bank-withdrawals",
   "source": "Prothom Alo, Jamuna TV, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-25T07:03:43Z"
+  "status": "failed",
+  "at": "2026-08-25T07:03:43Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "d86d45ebe52ebafe",
@@ -8366,7 +8386,12 @@
   "headline": "Sammilito Islami Bank: Depositors can withdraw money from Sept 1",
   "topic": "sammilito-islami-bank-withdrawals",
   "source": "Prothom Alo, Jamuna TV, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-25T07:03:43Z"
+  "status": "failed",
+  "at": "2026-08-25T07:03:43Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
