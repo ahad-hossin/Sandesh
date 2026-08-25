@@ -8358,8 +8358,13 @@
   "headline": "Sugar price jumps 7% in a week due to gas crisis, credit sales halted at mill gates",
   "topic": "gas crisis impacts sugar and household costs",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-25T03:08:48Z"
+  "status": "failed",
+  "at": "2026-08-25T03:08:48Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "bf536eae8aee899d",
@@ -8367,8 +8372,13 @@
   "headline": "Sugar price jumps 7% in a week due to gas crisis, credit sales halted at mill gates",
   "topic": "gas crisis impacts sugar and household costs",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-25T03:08:48Z"
+  "status": "failed",
+  "at": "2026-08-25T03:08:48Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "b575d6f5b8d74c4e",
@@ -8376,7 +8386,12 @@
   "headline": "Bangladesh's education system in crisis as 7 lakh students fail SSC exams",
   "topic": "education system student failure",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-25T03:08:48Z"
+  "status": "failed",
+  "at": "2026-08-25T03:08:48Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
