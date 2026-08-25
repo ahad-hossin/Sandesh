@@ -1,47 +1,5 @@
 [
  {
-  "title_hash": "185eb62bed6f202d",
-  "url": "https://www.prothomalo.com/bangladesh/ntun-caar-mntrii-ye-mntrnnaalyy-pelen",
-  "headline": "Mirza Fakhrul sworn in as 23rd president of Bangladesh",
-  "topic": "mirza fakhrul sworn in as president",
-  "source": "The Daily Star, Jamuna TV, Dhaka Tribune, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-21T20:06:57Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "627e57fe50de71f2",
-  "url": "https://www.prothomalo.com/video/bangladesh/ndjt9jn2tk",
-  "headline": "Mirza Fakhrul sworn in as 23rd president of Bangladesh",
-  "topic": "mirza fakhrul sworn in as president",
-  "source": "The Daily Star, Jamuna TV, Dhaka Tribune, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-21T20:06:57Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "dec65b591e8ad8cf",
-  "url": "https://www.dhakatribune.com/bangladesh/418024/four-new-ministers-take-oath",
-  "headline": "Mirza Fakhrul sworn in as 23rd president of Bangladesh",
-  "topic": "mirza fakhrul sworn in as president",
-  "source": "The Daily Star, Jamuna TV, Dhaka Tribune, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-21T20:06:57Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "9b8f31b9e8859078",
   "url": "https://www.prothomalo.com/politics/shpth-nilen-caar-mntrii-o-dujn-prtimntrii",
   "headline": "Mirza Fakhrul sworn in as 23rd president of Bangladesh",
@@ -8393,5 +8351,32 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "8794d76a74c600c0",
+  "url": "https://www.thedailystar.net/news/bangladesh/news/fertiliser-prices-soar-amid-artificial-crisis-4256151",
+  "headline": "Farmers struggle as fertiliser prices soar amid artificial crisis",
+  "topic": "poultry feed and fertiliser price hike protest",
+  "source": "Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-08-25T11:07:46Z"
+ },
+ {
+  "title_hash": "97bef6f0fe04d36d",
+  "url": "https://www.prothomalo.com/bangladesh/district/ef7upg97bt",
+  "headline": "Farmers struggle as fertiliser prices soar amid artificial crisis",
+  "topic": "poultry feed and fertiliser price hike protest",
+  "source": "Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-08-25T11:07:46Z"
+ },
+ {
+  "title_hash": "43c098be1034ac74",
+  "url": "https://www.jamuna.tv/national/662782",
+  "headline": "Bangladesh preparing to buy Chinese J-10CE fighter jets",
+  "topic": "bangladesh buying china j-10ce fighter jets",
+  "source": "Jamuna TV",
+  "status": "queued",
+  "at": "2026-08-25T11:07:46Z"
  }
 ]
