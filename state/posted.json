@@ -8330,8 +8330,13 @@
   "headline": "950 children dead as measles death toll rises in Bangladesh",
   "topic": "measles death toll 950",
   "source": "Jamuna TV, Dhaka Tribune, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-26T10:06:25Z"
+  "status": "failed",
+  "at": "2026-08-26T10:06:25Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "2cbf40dc1a38c3c7",
@@ -8339,8 +8344,13 @@
   "headline": "950 children dead as measles death toll rises in Bangladesh",
   "topic": "measles death toll 950",
   "source": "Jamuna TV, Dhaka Tribune, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-26T10:06:25Z"
+  "status": "failed",
+  "at": "2026-08-26T10:06:25Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "59bee08523af941c",
@@ -8348,8 +8358,13 @@
   "headline": "950 children dead as measles death toll rises in Bangladesh",
   "topic": "measles death toll 950",
   "source": "Jamuna TV, Dhaka Tribune, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-26T10:06:25Z"
+  "status": "failed",
+  "at": "2026-08-26T10:06:25Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "f49772c2bb09c488",
@@ -8357,8 +8372,13 @@
   "headline": "Online gambling 'super agent' arrested by RAB in Dhaka",
   "topic": "online gambling admin arrested",
   "source": "Dhaka Tribune, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-26T10:06:25Z"
+  "status": "failed",
+  "at": "2026-08-26T10:06:25Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "906bc3a8f0684333",
@@ -8366,7 +8386,12 @@
   "headline": "Online gambling 'super agent' arrested by RAB in Dhaka",
   "topic": "online gambling admin arrested",
   "source": "Dhaka Tribune, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-26T10:06:25Z"
+  "status": "failed",
+  "at": "2026-08-26T10:06:25Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
