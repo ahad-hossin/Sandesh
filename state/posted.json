@@ -1,61 +1,5 @@
 [
  {
-  "title_hash": "3955cf5d2151957f",
-  "url": "https://www.thedailystar.net/sports/cricket/news/australia-opt-bowl-first-mackay-tigers-eye-more-history-4253671",
-  "headline": "Bangladesh bundled out for 64 in Test, Starc claims six wickets in Mackay",
-  "topic": "Bangladesh cricket 64 all out",
-  "source": "Jamuna TV, The Daily Star, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-22T04:08:13Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "70025ab18dbbb602",
-  "url": "https://www.jamuna.tv/sports/662605",
-  "headline": "Bangladesh bundled out for 64 in Test, Starc claims six wickets in Mackay",
-  "topic": "Bangladesh cricket 64 all out",
-  "source": "Jamuna TV, The Daily Star, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-22T04:08:13Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "c7548adb065f73ae",
-  "url": "https://www.jamuna.tv/sports/662604",
-  "headline": "Bangladesh bundled out for 64 in Test, Starc claims six wickets in Mackay",
-  "topic": "Bangladesh cricket 64 all out",
-  "source": "Jamuna TV, The Daily Star, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-22T04:08:13Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "c4ef12b5b32edd48",
-  "url": "https://www.prothomalo.com/sports/cricket/03w5ow0kfk",
-  "headline": "Bangladesh bundled out for 64 in Test, Starc claims six wickets in Mackay",
-  "topic": "Bangladesh cricket 64 all out",
-  "source": "Jamuna TV, The Daily Star, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-22T04:08:13Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "feaa96bd70c00fac",
   "url": "https://www.prothomalo.com/sports/cricket/5bmghkamwc",
   "headline": "Bangladesh bundled out for 64 in Test, Starc claims six wickets in Mackay",
@@ -8393,5 +8337,41 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "481fdf03e4747670",
+  "url": "https://www.dhakatribune.com/bangladesh/health/418368/measles-death-toll-stands-at-950-as-7-more",
+  "headline": "950 children dead: Measles death toll stands at 950 in Bangladesh",
+  "topic": "measles death toll 950",
+  "source": "Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-08-26T09:06:23Z"
+ },
+ {
+  "title_hash": "f624a4bd5c089dcb",
+  "url": "https://www.thedailystar.net/news/world/news/trump-administration-issues-pause-visa-appointments-applicants-worldwide-4257241",
+  "headline": "Trump administration pauses US visa appointments worldwide",
+  "topic": "us pauses visa appointments",
+  "source": "Jamuna TV, The Daily Star, Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-26T09:06:23Z"
+ },
+ {
+  "title_hash": "6986264e4aab0afb",
+  "url": "https://www.jamuna.tv/international/662836",
+  "headline": "Trump administration pauses US visa appointments worldwide",
+  "topic": "us pauses visa appointments",
+  "source": "Jamuna TV, The Daily Star, Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-26T09:06:23Z"
+ },
+ {
+  "title_hash": "70a5bb343f42855c",
+  "url": "https://www.prothomalo.com/world/usa/mqz83dhj3p",
+  "headline": "Trump administration pauses US visa appointments worldwide",
+  "topic": "us pauses visa appointments",
+  "source": "Jamuna TV, The Daily Star, Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-26T09:06:23Z"
  }
 ]
