@@ -8344,8 +8344,13 @@
   "headline": "950 children dead: Measles death toll stands at 950 in Bangladesh",
   "topic": "measles death toll 950",
   "source": "Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-08-26T09:06:23Z"
+  "status": "failed",
+  "at": "2026-08-26T09:06:23Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "f624a4bd5c089dcb",
@@ -8353,8 +8358,13 @@
   "headline": "Trump administration pauses US visa appointments worldwide",
   "topic": "us pauses visa appointments",
   "source": "Jamuna TV, The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-26T09:06:23Z"
+  "status": "failed",
+  "at": "2026-08-26T09:06:23Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "6986264e4aab0afb",
@@ -8362,8 +8372,13 @@
   "headline": "Trump administration pauses US visa appointments worldwide",
   "topic": "us pauses visa appointments",
   "source": "Jamuna TV, The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-26T09:06:23Z"
+  "status": "failed",
+  "at": "2026-08-26T09:06:23Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "70a5bb343f42855c",
@@ -8371,7 +8386,12 @@
   "headline": "Trump administration pauses US visa appointments worldwide",
   "topic": "us pauses visa appointments",
   "source": "Jamuna TV, The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-26T09:06:23Z"
+  "status": "failed",
+  "at": "2026-08-26T09:06:23Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
