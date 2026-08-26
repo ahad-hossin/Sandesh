@@ -1,33 +1,5 @@
 [
  {
-  "title_hash": "84689db46d3a6a07",
-  "url": "https://www.prothomalo.com/video/sports/ycdgxhlr7m",
-  "headline": "Shoriful takes 6-35 as Bangladesh keep hopes alive in Australia",
-  "topic": "bangladesh-australia-test-shoriful",
-  "source": "Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-08-22T12:06:58Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "d52fefb56ebf01e5",
-  "url": "https://www.thedailystar.net/sports/cricket/news/shorifuls-plan-pays-stunning-comeback-4253896",
-  "headline": "Shoriful takes 6-35 as Bangladesh keep hopes alive in Australia",
-  "topic": "bangladesh-australia-test-shoriful",
-  "source": "Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-08-22T12:06:58Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "8c45bfa8febc3a48",
   "url": "https://www.prothomalo.com/sports/cricket/32wkil2sgp",
   "headline": "Shoriful takes 6-35 as Bangladesh keep hopes alive in Australia",
@@ -8393,5 +8365,23 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "7ce3847a2813018c",
+  "url": "https://www.jamuna.tv/national/662867",
+  "headline": "Rainy days ahead: Rain and thunderstorms to continue for 5 days across Bangladesh",
+  "topic": "5-day rain forecast",
+  "source": "Jamuna TV",
+  "status": "queued",
+  "at": "2026-08-26T23:22:53Z"
+ },
+ {
+  "title_hash": "921c07ee47bcfc45",
+  "url": "https://www.thedailystar.net/news/technology/news/apple-sets-september-9-date-next-iphone-launch-event-4257496",
+  "headline": "Apple sets September 9 date for next iPhone launch event",
+  "topic": "iphone launch date",
+  "source": "The Daily Star",
+  "status": "queued",
+  "at": "2026-08-26T23:22:53Z"
  }
 ]
