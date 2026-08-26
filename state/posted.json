@@ -8316,8 +8316,13 @@
   "headline": "Country music legend Dolly Parton dies at 80",
   "topic": "dolly parton death",
   "source": "Jamuna TV, The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-26T06:07:13Z"
+  "status": "failed",
+  "at": "2026-08-26T06:07:13Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "284735cb663ed9c4",
@@ -8325,8 +8330,13 @@
   "headline": "Country music legend Dolly Parton dies at 80",
   "topic": "dolly parton death",
   "source": "Jamuna TV, The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-26T06:07:13Z"
+  "status": "failed",
+  "at": "2026-08-26T06:07:13Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "e62ef14434b68ed9",
@@ -8334,8 +8344,13 @@
   "headline": "Country music legend Dolly Parton dies at 80",
   "topic": "dolly parton death",
   "source": "Jamuna TV, The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-26T06:07:13Z"
+  "status": "failed",
+  "at": "2026-08-26T06:07:13Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "f5d28a7581db337f",
@@ -8343,8 +8358,13 @@
   "headline": "Country music legend Dolly Parton dies at 80",
   "topic": "dolly parton death",
   "source": "Jamuna TV, The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-26T06:07:13Z"
+  "status": "failed",
+  "at": "2026-08-26T06:07:13Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "eff53e9fd35552ec",
@@ -8352,8 +8372,13 @@
   "headline": "14 children killed in hospital fire in Pakistan's capital",
   "topic": "pakistan hospital fire newborns",
   "source": "Jamuna TV, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-26T06:07:13Z"
+  "status": "failed",
+  "at": "2026-08-26T06:07:13Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "84f27b5edd6f02a7",
@@ -8361,7 +8386,12 @@
   "headline": "14 children killed in hospital fire in Pakistan's capital",
   "topic": "pakistan hospital fire newborns",
   "source": "Jamuna TV, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-26T06:07:13Z"
+  "status": "failed",
+  "at": "2026-08-26T06:07:13Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
