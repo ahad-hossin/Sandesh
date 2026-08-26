@@ -8330,8 +8330,13 @@
   "headline": "Milad-un-Nabi shaped Muslim cultural life in colonial Bengal, observed today",
   "topic": "eid e miladunnabi observed",
   "source": "Jamuna TV, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-26T02:08:22Z"
+  "status": "failed",
+  "at": "2026-08-26T02:08:22Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "836dbb7992d04d37",
@@ -8339,8 +8344,13 @@
   "headline": "Milad-un-Nabi shaped Muslim cultural life in colonial Bengal, observed today",
   "topic": "eid e miladunnabi observed",
   "source": "Jamuna TV, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-26T02:08:22Z"
+  "status": "failed",
+  "at": "2026-08-26T02:08:22Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "2b296dcb99eba90b",
@@ -8348,8 +8358,13 @@
   "headline": "Milad-un-Nabi shaped Muslim cultural life in colonial Bengal, observed today",
   "topic": "eid e miladunnabi observed",
   "source": "Jamuna TV, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-26T02:08:22Z"
+  "status": "failed",
+  "at": "2026-08-26T02:08:22Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "532d097fc49ad3d0",
@@ -8357,8 +8372,13 @@
   "headline": "Milad-un-Nabi shaped Muslim cultural life in colonial Bengal, observed today",
   "topic": "eid e miladunnabi observed",
   "source": "Jamuna TV, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-26T02:08:22Z"
+  "status": "failed",
+  "at": "2026-08-26T02:08:22Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "5c4e8899c93c0dca",
@@ -8366,7 +8386,12 @@
   "headline": "Asia Energy continues 'selling' Phulbari coal despite halted extraction since 2006",
   "topic": "fulbari coal mine activity continues",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-26T02:08:22Z"
+  "status": "failed",
+  "at": "2026-08-26T02:08:22Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
