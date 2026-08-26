@@ -1,75 +1,5 @@
 [
  {
-  "title_hash": "0c0cf1326db2665c",
-  "url": "https://www.dhakatribune.com/bangladesh/foreign-affairs/418008/pakistan-president-congratulates-president-elect",
-  "headline": "Mirza Fakhrul Islam Alamgir sworn in as 23rd President of Bangladesh; cabinet reshuffle follows",
-  "topic": "Mirza Fakhrul sworn in as president, cabinet reshuffle",
-  "source": "Dhaka Tribune, Jamuna TV, The Daily Star, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-22T00:07:13Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "5f354073077e37cc",
-  "url": "https://www.jamuna.tv/all-bangladesh/662599",
-  "headline": "2 arrested for online Hilsa fraud in Chandpur, police recover Tk 60,000",
-  "topic": "Online hilsa fish fraud arrests",
-  "source": "Jamuna TV",
-  "status": "failed",
-  "at": "2026-08-22T00:07:13Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "78a6c3363e196881",
-  "url": "https://www.thedailystar.net/sports/cricket/news/australia-opt-bowl-first-mackay-tigers-eye-more-history-4253671",
-  "headline": "Starc takes 5 wickets, sets two world records as Bangladesh reel at 12/5 on Day 1",
-  "topic": "Bangladesh vs Australia Test Cricket",
-  "source": "The Daily Star, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-22T01:07:04Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "70c0bb1994bdb6cf",
-  "url": "https://www.prothomalo.com/sports/cricket/5bmghkamwc",
-  "headline": "Starc takes 5 wickets, sets two world records as Bangladesh reel at 12/5 on Day 1",
-  "topic": "Bangladesh vs Australia Test Cricket",
-  "source": "The Daily Star, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-22T01:07:04Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "9f166006bc42e1e2",
-  "url": "https://www.dhakatribune.com/bangladesh/418044/cabinet-reshuffle-who-is-getting-which-ministry",
-  "headline": "Mirza Fakhrul sworn in as 23rd President, 4 ministers & 2 state ministers take oath",
-  "topic": "Cabinet Reshuffle and New President Oath",
-  "source": "Somoy News, Dhaka Tribune, Jamuna TV, The Daily Star",
-  "status": "failed",
-  "at": "2026-08-22T01:07:04Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "63d7da1a8b974141",
   "url": "https://www.somoynews.tv/news/2026-08-22/1UuCvzy0",
   "headline": "Mirza Fakhrul sworn in as 23rd President, 4 ministers & 2 state ministers take oath",
@@ -8393,5 +8323,50 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "7bd9e19575a45d57",
+  "url": "https://www.thedailystar.net/slow-reads/focus/news/how-milad-un-nabi-shaped-muslim-cultural-life-colonial-bengal-4256731",
+  "headline": "Milad-un-Nabi shaped Muslim cultural life in colonial Bengal, observed today",
+  "topic": "eid e miladunnabi observed",
+  "source": "Jamuna TV, The Daily Star",
+  "status": "queued",
+  "at": "2026-08-26T02:08:22Z"
+ },
+ {
+  "title_hash": "836dbb7992d04d37",
+  "url": "https://www.jamuna.tv/misc/662809",
+  "headline": "Milad-un-Nabi shaped Muslim cultural life in colonial Bengal, observed today",
+  "topic": "eid e miladunnabi observed",
+  "source": "Jamuna TV, The Daily Star",
+  "status": "queued",
+  "at": "2026-08-26T02:08:22Z"
+ },
+ {
+  "title_hash": "2b296dcb99eba90b",
+  "url": "https://www.jamuna.tv/national/662804",
+  "headline": "Milad-un-Nabi shaped Muslim cultural life in colonial Bengal, observed today",
+  "topic": "eid e miladunnabi observed",
+  "source": "Jamuna TV, The Daily Star",
+  "status": "queued",
+  "at": "2026-08-26T02:08:22Z"
+ },
+ {
+  "title_hash": "532d097fc49ad3d0",
+  "url": "https://www.thedailystar.net/news/bangladesh/news/eid-e-miladunnabi-be-observed-today-4257121",
+  "headline": "Milad-un-Nabi shaped Muslim cultural life in colonial Bengal, observed today",
+  "topic": "eid e miladunnabi observed",
+  "source": "Jamuna TV, The Daily Star",
+  "status": "queued",
+  "at": "2026-08-26T02:08:22Z"
+ },
+ {
+  "title_hash": "5c4e8899c93c0dca",
+  "url": "https://www.prothomalo.com/bangladesh/9evx0dmavc",
+  "headline": "Asia Energy continues 'selling' Phulbari coal despite halted extraction since 2006",
+  "topic": "fulbari coal mine activity continues",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-26T02:08:22Z"
  }
 ]
