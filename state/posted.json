@@ -1,75 +1,5 @@
 [
  {
-  "title_hash": "63d7da1a8b974141",
-  "url": "https://www.somoynews.tv/news/2026-08-22/1UuCvzy0",
-  "headline": "Mirza Fakhrul sworn in as 23rd President, 4 ministers & 2 state ministers take oath",
-  "topic": "Cabinet Reshuffle and New President Oath",
-  "source": "Somoy News, Dhaka Tribune, Jamuna TV, The Daily Star",
-  "status": "failed",
-  "at": "2026-08-22T01:07:04Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "47f0c624655a6001",
-  "url": "https://www.dhakatribune.com/bangladesh/418028/four-ministers-two-state-ministers-take-oath",
-  "headline": "Mirza Fakhrul sworn in as 23rd President, 4 ministers & 2 state ministers take oath",
-  "topic": "Cabinet Reshuffle and New President Oath",
-  "source": "Somoy News, Dhaka Tribune, Jamuna TV, The Daily Star",
-  "status": "failed",
-  "at": "2026-08-22T01:07:04Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "570e08be8d9dd77d",
-  "url": "https://www.jamuna.tv/national/662598",
-  "headline": "Mirza Fakhrul sworn in as 23rd President, 4 ministers & 2 state ministers take oath",
-  "topic": "Cabinet Reshuffle and New President Oath",
-  "source": "Somoy News, Dhaka Tribune, Jamuna TV, The Daily Star",
-  "status": "failed",
-  "at": "2026-08-22T01:07:04Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "1b13a71c670d2650",
-  "url": "https://www.thedailystar.net/news/bangladesh/news/cabinet-division-gazette-assigns-portfolios-4-ministers-2-state-ministers-4253621",
-  "headline": "Mirza Fakhrul sworn in as 23rd President, 4 ministers & 2 state ministers take oath",
-  "topic": "Cabinet Reshuffle and New President Oath",
-  "source": "Somoy News, Dhaka Tribune, Jamuna TV, The Daily Star",
-  "status": "failed",
-  "at": "2026-08-22T01:07:04Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "94b75d6f2fb4d7ac",
-  "url": "https://www.dhakatribune.com/bangladesh/election/418039/mirza-fakhrul-sworn-in-as-23rd-president-cabinet",
-  "headline": "Mirza Fakhrul sworn in as 23rd President, 4 ministers & 2 state ministers take oath",
-  "topic": "Cabinet Reshuffle and New President Oath",
-  "source": "Somoy News, Dhaka Tribune, Jamuna TV, The Daily Star",
-  "status": "failed",
-  "at": "2026-08-22T01:07:04Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "48a0cb1914b815f5",
   "url": "https://www.somoynews.tv/news/2026-08-21/v024JE1W",
   "headline": "Mirza Fakhrul sworn in as 23rd President, 4 ministers & 2 state ministers take oath",
@@ -8393,5 +8323,50 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "836dbb7992d04d37",
+  "url": "https://www.prothomalo.com/religion/83wcsocerf",
+  "headline": "Muslims worldwide celebrate Eid-e-Miladunnabi marking the Prophet's birth",
+  "topic": "Eid-e-Miladunnabi observed",
+  "source": "Prothom Alo, Jamuna TV",
+  "status": "queued",
+  "at": "2026-08-26T03:08:48Z"
+ },
+ {
+  "title_hash": "836dbb7992d04d37",
+  "url": "https://www.jamuna.tv/misc/662809",
+  "headline": "Muslims worldwide celebrate Eid-e-Miladunnabi marking the Prophet's birth",
+  "topic": "Eid-e-Miladunnabi observed",
+  "source": "Prothom Alo, Jamuna TV",
+  "status": "queued",
+  "at": "2026-08-26T03:08:48Z"
+ },
+ {
+  "title_hash": "eb37f00fbea4c87d",
+  "url": "https://www.prothomalo.com/onnoalo/treatise/w0ycqx5hic",
+  "headline": "Muslims worldwide celebrate Eid-e-Miladunnabi marking the Prophet's birth",
+  "topic": "Eid-e-Miladunnabi observed",
+  "source": "Prothom Alo, Jamuna TV",
+  "status": "queued",
+  "at": "2026-08-26T03:08:48Z"
+ },
+ {
+  "title_hash": "e7b0e8d43c9d976e",
+  "url": "https://www.prothomalo.com/religion/islam/yfhcna1egi",
+  "headline": "Muslims worldwide celebrate Eid-e-Miladunnabi marking the Prophet's birth",
+  "topic": "Eid-e-Miladunnabi observed",
+  "source": "Prothom Alo, Jamuna TV",
+  "status": "queued",
+  "at": "2026-08-26T03:08:48Z"
+ },
+ {
+  "title_hash": "4591b455721d7b69",
+  "url": "https://www.prothomalo.com/chakri/employment/hkdekl2rul",
+  "headline": "575 job positions available at Controller General of Accounts office; apply by August 27, 2026",
+  "topic": "Comptroller General office 575 jobs",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-26T03:08:48Z"
  }
 ]
