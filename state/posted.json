@@ -1,75 +1,5 @@
 [
  {
-  "title_hash": "2b405a7e624b5737",
-  "url": "https://www.jamuna.tv/sports/662605",
-  "headline": "Mitchell Starc's 6-wicket haul: Bangladesh bowled out for 64 in Test",
-  "topic": "bangladesh cricket collapse vs stark",
-  "source": "Jamuna TV, Somoy News",
-  "status": "failed",
-  "at": "2026-08-22T07:11:19Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "c12f01de5781b2d2",
-  "url": "https://www.somoynews.tv/news/2026-08-22/HWvN9sWK",
-  "headline": "Mitchell Starc's 6-wicket haul: Bangladesh bowled out for 64 in Test",
-  "topic": "bangladesh cricket collapse vs stark",
-  "source": "Jamuna TV, Somoy News",
-  "status": "failed",
-  "at": "2026-08-22T07:11:19Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "95d1978c54d0d40f",
-  "url": "https://www.somoynews.tv/news/2026-08-22/IwZY4FK4",
-  "headline": "Mitchell Starc's 6-wicket haul: Bangladesh bowled out for 64 in Test",
-  "topic": "bangladesh cricket collapse vs stark",
-  "source": "Jamuna TV, Somoy News",
-  "status": "failed",
-  "at": "2026-08-22T07:11:19Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "6592d52d31e1c975",
-  "url": "https://www.somoynews.tv/news/2026-08-22/xYAvx7ZX",
-  "headline": "Gold and silver prices surge: Gold price jumps by 5,482 BDT per bhori",
-  "topic": "gold and silver price hike",
-  "source": "Somoy News, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-22T07:11:19Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "dc74457dc142050f",
-  "url": "https://www.somoynews.tv/news/2026-08-22/4F6vJ5EF",
-  "headline": "Gold and silver prices surge: Gold price jumps by 5,482 BDT per bhori",
-  "topic": "gold and silver price hike",
-  "source": "Somoy News, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-22T07:11:19Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "5c87643ee4584b2e",
   "url": "https://www.somoynews.tv/news/2026-08-22/HFvv8xFD",
   "headline": "Gold and silver prices surge: Gold price jumps by 5,482 BDT per bhori",
@@ -8393,5 +8323,50 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "153f1c5f6e2b9209",
+  "url": "https://www.dhakatribune.com/bangladesh/health/418378/550-new-dengue-cases-reported-in-24hrs",
+  "headline": "550 new dengue cases reported in 24 hours",
+  "topic": "dengue cases surge",
+  "source": "Dhaka Tribune, Jamuna TV",
+  "status": "queued",
+  "at": "2026-08-26T11:06:21Z"
+ },
+ {
+  "title_hash": "4105ba095d678e32",
+  "url": "https://www.jamuna.tv/national/662844",
+  "headline": "550 new dengue cases reported in 24 hours",
+  "topic": "dengue cases surge",
+  "source": "Dhaka Tribune, Jamuna TV",
+  "status": "queued",
+  "at": "2026-08-26T11:06:21Z"
+ },
+ {
+  "title_hash": "59bee08523af941c",
+  "url": "https://www.thedailystar.net/news/healthcare/disease/news/7-children-die-measles-symptoms-death-toll-rises-950-4257311",
+  "headline": "7 children die in 24 hours as measles death toll rises to 950",
+  "topic": "measles death toll rises",
+  "source": "The Daily Star, Jamuna TV, Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-08-26T11:06:21Z"
+ },
+ {
+  "title_hash": "2cbf40dc1a38c3c7",
+  "url": "https://www.jamuna.tv/national/662843",
+  "headline": "7 children die in 24 hours as measles death toll rises to 950",
+  "topic": "measles death toll rises",
+  "source": "The Daily Star, Jamuna TV, Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-08-26T11:06:21Z"
+ },
+ {
+  "title_hash": "481fdf03e4747670",
+  "url": "https://www.dhakatribune.com/bangladesh/health/418368/measles-death-toll-stands-at-950-as-7-more",
+  "headline": "7 children die in 24 hours as measles death toll rises to 950",
+  "topic": "measles death toll rises",
+  "source": "The Daily Star, Jamuna TV, Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-08-26T11:06:21Z"
  }
 ]
