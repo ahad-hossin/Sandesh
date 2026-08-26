@@ -8344,8 +8344,13 @@
   "headline": "Eid-e-Miladunnabi observed today across Bangladesh with religious solemnity",
   "topic": "eid e miladunnabi observed",
   "source": "Jamuna TV, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-26T01:08:20Z"
+  "status": "failed",
+  "at": "2026-08-26T01:08:20Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "836dbb7992d04d37",
@@ -8353,8 +8358,13 @@
   "headline": "Eid-e-Miladunnabi observed today across Bangladesh with religious solemnity",
   "topic": "eid e miladunnabi observed",
   "source": "Jamuna TV, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-26T01:08:20Z"
+  "status": "failed",
+  "at": "2026-08-26T01:08:20Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "ec9d2793a810ddd8",
@@ -8362,8 +8372,13 @@
   "headline": "Canada imposes 15-50% counter-tariffs on US goods, escalating trade war",
   "topic": "canada us tariffs",
   "source": "Jamuna TV, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-26T01:08:20Z"
+  "status": "failed",
+  "at": "2026-08-26T01:08:20Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "47544a35009eeca7",
@@ -8371,7 +8386,12 @@
   "headline": "Canada imposes 15-50% counter-tariffs on US goods, escalating trade war",
   "topic": "canada us tariffs",
   "source": "Jamuna TV, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-26T01:08:20Z"
+  "status": "failed",
+  "at": "2026-08-26T01:08:20Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
