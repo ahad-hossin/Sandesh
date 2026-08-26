@@ -8372,8 +8372,13 @@
   "headline": "Rainy days ahead: Rain and thunderstorms to continue for 5 days across Bangladesh",
   "topic": "5-day rain forecast",
   "source": "Jamuna TV",
-  "status": "queued",
-  "at": "2026-08-26T23:22:53Z"
+  "status": "failed",
+  "at": "2026-08-26T23:22:53Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "921c07ee47bcfc45",
@@ -8381,7 +8386,12 @@
   "headline": "Apple sets September 9 date for next iPhone launch event",
   "topic": "iphone launch date",
   "source": "The Daily Star",
-  "status": "queued",
-  "at": "2026-08-26T23:22:53Z"
+  "status": "failed",
+  "at": "2026-08-26T23:22:53Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
