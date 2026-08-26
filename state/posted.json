@@ -8330,8 +8330,13 @@
   "headline": "Muslims worldwide celebrate Eid-e-Miladunnabi marking the Prophet's birth",
   "topic": "Eid-e-Miladunnabi observed",
   "source": "Prothom Alo, Jamuna TV",
-  "status": "queued",
-  "at": "2026-08-26T03:08:48Z"
+  "status": "failed",
+  "at": "2026-08-26T03:08:48Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "836dbb7992d04d37",
@@ -8339,8 +8344,13 @@
   "headline": "Muslims worldwide celebrate Eid-e-Miladunnabi marking the Prophet's birth",
   "topic": "Eid-e-Miladunnabi observed",
   "source": "Prothom Alo, Jamuna TV",
-  "status": "queued",
-  "at": "2026-08-26T03:08:48Z"
+  "status": "failed",
+  "at": "2026-08-26T03:08:48Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "eb37f00fbea4c87d",
@@ -8348,8 +8358,13 @@
   "headline": "Muslims worldwide celebrate Eid-e-Miladunnabi marking the Prophet's birth",
   "topic": "Eid-e-Miladunnabi observed",
   "source": "Prothom Alo, Jamuna TV",
-  "status": "queued",
-  "at": "2026-08-26T03:08:48Z"
+  "status": "failed",
+  "at": "2026-08-26T03:08:48Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "e7b0e8d43c9d976e",
@@ -8357,8 +8372,13 @@
   "headline": "Muslims worldwide celebrate Eid-e-Miladunnabi marking the Prophet's birth",
   "topic": "Eid-e-Miladunnabi observed",
   "source": "Prothom Alo, Jamuna TV",
-  "status": "queued",
-  "at": "2026-08-26T03:08:48Z"
+  "status": "failed",
+  "at": "2026-08-26T03:08:48Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "4591b455721d7b69",
@@ -8366,7 +8386,12 @@
   "headline": "575 job positions available at Controller General of Accounts office; apply by August 27, 2026",
   "topic": "Comptroller General office 575 jobs",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-26T03:08:48Z"
+  "status": "failed",
+  "at": "2026-08-26T03:08:48Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
