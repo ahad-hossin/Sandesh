@@ -8330,8 +8330,13 @@
   "headline": "Bangladesh observes Eid-e-Miladunnabi to mark birth and death of Prophet Muhammad (PBUH)",
   "topic": "Eid-e-Miladunnabi observed",
   "source": "Prothom Alo, Jamuna TV, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-26T04:07:14Z"
+  "status": "failed",
+  "at": "2026-08-26T04:07:14Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "836dbb7992d04d37",
@@ -8339,8 +8344,13 @@
   "headline": "Bangladesh observes Eid-e-Miladunnabi to mark birth and death of Prophet Muhammad (PBUH)",
   "topic": "Eid-e-Miladunnabi observed",
   "source": "Prothom Alo, Jamuna TV, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-26T04:07:14Z"
+  "status": "failed",
+  "at": "2026-08-26T04:07:14Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "836dbb7992d04d37",
@@ -8348,8 +8358,13 @@
   "headline": "Bangladesh observes Eid-e-Miladunnabi to mark birth and death of Prophet Muhammad (PBUH)",
   "topic": "Eid-e-Miladunnabi observed",
   "source": "Prothom Alo, Jamuna TV, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-26T04:07:14Z"
+  "status": "failed",
+  "at": "2026-08-26T04:07:14Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "17434942503faaa3",
@@ -8357,8 +8372,13 @@
   "headline": "UN watchdog rebukes India over discrimination against minorities",
   "topic": "UN concern over minorities in India",
   "source": "Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-26T04:07:14Z"
+  "status": "failed",
+  "at": "2026-08-26T04:07:14Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "3d3caa5d868f197f",
@@ -8366,7 +8386,12 @@
   "headline": "UN watchdog rebukes India over discrimination against minorities",
   "topic": "UN concern over minorities in India",
   "source": "Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-26T04:07:14Z"
+  "status": "failed",
+  "at": "2026-08-26T04:07:14Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
