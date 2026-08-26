@@ -1,61 +1,5 @@
 [
  {
-  "title_hash": "c72c3f56effeb83a",
-  "url": "https://www.dhakatribune.com/bangladesh/education/418025/ugc-chairman-quality-higher-education-skilled",
-  "headline": "Mirza Fakhrul Islam Alamgir sworn in as 23rd President of Bangladesh; cabinet reshuffle follows",
-  "topic": "Mirza Fakhrul sworn in as president, cabinet reshuffle",
-  "source": "Dhaka Tribune, Jamuna TV, The Daily Star, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-22T00:07:13Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "334e9b19ad9ab409",
-  "url": "https://www.dhakatribune.com/bangladesh/418022/mirza-fakhrul-islam-alamgir-%C2%A0takes-oath-as-23rd",
-  "headline": "Mirza Fakhrul Islam Alamgir sworn in as 23rd President of Bangladesh; cabinet reshuffle follows",
-  "topic": "Mirza Fakhrul sworn in as president, cabinet reshuffle",
-  "source": "Dhaka Tribune, Jamuna TV, The Daily Star, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-22T00:07:13Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "8db721620309e42a",
-  "url": "https://www.dhakatribune.com/bangladesh/418012/fakhrul-reaches-bangabhaban-for-swearing-in",
-  "headline": "Mirza Fakhrul Islam Alamgir sworn in as 23rd President of Bangladesh; cabinet reshuffle follows",
-  "topic": "Mirza Fakhrul sworn in as president, cabinet reshuffle",
-  "source": "Dhaka Tribune, Jamuna TV, The Daily Star, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-22T00:07:13Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "958126bddd0e5d43",
-  "url": "https://www.dhakatribune.com/bangladesh/government-affairs/417991/four-new-faces-to-join-cabinet-take-oath-friday",
-  "headline": "Mirza Fakhrul Islam Alamgir sworn in as 23rd President of Bangladesh; cabinet reshuffle follows",
-  "topic": "Mirza Fakhrul sworn in as president, cabinet reshuffle",
-  "source": "Dhaka Tribune, Jamuna TV, The Daily Star, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-22T00:07:13Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "0c0cf1326db2665c",
   "url": "https://www.dhakatribune.com/bangladesh/foreign-affairs/418008/pakistan-president-congratulates-president-elect",
   "headline": "Mirza Fakhrul Islam Alamgir sworn in as 23rd President of Bangladesh; cabinet reshuffle follows",
@@ -8393,5 +8337,41 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "532d097fc49ad3d0",
+  "url": "https://www.thedailystar.net/news/bangladesh/news/eid-e-miladunnabi-be-observed-today-4257121",
+  "headline": "Eid-e-Miladunnabi observed today across Bangladesh with religious solemnity",
+  "topic": "eid e miladunnabi observed",
+  "source": "Jamuna TV, The Daily Star",
+  "status": "queued",
+  "at": "2026-08-26T01:08:20Z"
+ },
+ {
+  "title_hash": "836dbb7992d04d37",
+  "url": "https://www.jamuna.tv/misc/662809",
+  "headline": "Eid-e-Miladunnabi observed today across Bangladesh with religious solemnity",
+  "topic": "eid e miladunnabi observed",
+  "source": "Jamuna TV, The Daily Star",
+  "status": "queued",
+  "at": "2026-08-26T01:08:20Z"
+ },
+ {
+  "title_hash": "ec9d2793a810ddd8",
+  "url": "https://www.thedailystar.net/news/world/news/canada-unveils-15-50-us-goods-4257031",
+  "headline": "Canada imposes 15-50% counter-tariffs on US goods, escalating trade war",
+  "topic": "canada us tariffs",
+  "source": "Jamuna TV, The Daily Star",
+  "status": "queued",
+  "at": "2026-08-26T01:08:20Z"
+ },
+ {
+  "title_hash": "47544a35009eeca7",
+  "url": "https://www.jamuna.tv/international/662810",
+  "headline": "Canada imposes 15-50% counter-tariffs on US goods, escalating trade war",
+  "topic": "canada us tariffs",
+  "source": "Jamuna TV, The Daily Star",
+  "status": "queued",
+  "at": "2026-08-26T01:08:20Z"
  }
 ]
