@@ -1,75 +1,5 @@
 [
  {
-  "title_hash": "feaa96bd70c00fac",
-  "url": "https://www.prothomalo.com/sports/cricket/5bmghkamwc",
-  "headline": "Bangladesh bundled out for 64 in Test, Starc claims six wickets in Mackay",
-  "topic": "Bangladesh cricket 64 all out",
-  "source": "Jamuna TV, The Daily Star, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-22T04:08:13Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "de2db0b606eb7685",
-  "url": "https://www.thedailystar.net/news/bangladesh/diplomacy/news/recalled-delhi-statement-fuels-speculation-over-tariques-visit-4253661",
-  "headline": "India recalls statement on Bangladesh PM Tarique's visit, sparking speculation",
-  "topic": "Tarique India visit uncertainty",
-  "source": "Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-08-22T04:08:13Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "0173297033bf27c2",
-  "url": "https://www.prothomalo.com/bangladesh/taareker-bhaart-sphr-rhsymyy-ghossnnaa-prtyaahaar",
-  "headline": "India recalls statement on Bangladesh PM Tarique's visit, sparking speculation",
-  "topic": "Tarique India visit uncertainty",
-  "source": "Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-08-22T04:08:13Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "de2db0b606eb7685",
-  "url": "https://www.thedailystar.net/news/bangladesh/diplomacy/news/recalled-delhi-statement-fuels-speculation-over-tariques-visit-4253771",
-  "headline": "India recalls statement on Bangladesh PM Tarique's visit, sparking speculation",
-  "topic": "Tarique India visit uncertainty",
-  "source": "Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-08-22T04:08:13Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "2013fcaa9d90b2cf",
-  "url": "https://www.thedailystar.net/news/bangladesh/news/pm-may-visit-india-ties-must-rest-equality-and-respect-says-shafiqur-4253696",
-  "headline": "India recalls statement on Bangladesh PM Tarique's visit, sparking speculation",
-  "topic": "Tarique India visit uncertainty",
-  "source": "Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-08-22T04:08:13Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "2b405a7e624b5737",
   "url": "https://www.jamuna.tv/sports/662605",
   "headline": "Mitchell Starc's 6-wicket haul: Bangladesh bowled out for 64 in Test",
@@ -8393,5 +8323,50 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "481fdf03e4747670",
+  "url": "https://www.dhakatribune.com/bangladesh/health/418368/measles-death-toll-stands-at-950-as-7-more",
+  "headline": "950 children dead as measles death toll rises in Bangladesh",
+  "topic": "measles death toll 950",
+  "source": "Jamuna TV, Dhaka Tribune, The Daily Star",
+  "status": "queued",
+  "at": "2026-08-26T10:06:25Z"
+ },
+ {
+  "title_hash": "2cbf40dc1a38c3c7",
+  "url": "https://www.jamuna.tv/national/662843",
+  "headline": "950 children dead as measles death toll rises in Bangladesh",
+  "topic": "measles death toll 950",
+  "source": "Jamuna TV, Dhaka Tribune, The Daily Star",
+  "status": "queued",
+  "at": "2026-08-26T10:06:25Z"
+ },
+ {
+  "title_hash": "59bee08523af941c",
+  "url": "https://www.thedailystar.net/news/healthcare/disease/news/7-children-die-measles-symptoms-death-toll-rises-950-4257311",
+  "headline": "950 children dead as measles death toll rises in Bangladesh",
+  "topic": "measles death toll 950",
+  "source": "Jamuna TV, Dhaka Tribune, The Daily Star",
+  "status": "queued",
+  "at": "2026-08-26T10:06:25Z"
+ },
+ {
+  "title_hash": "f49772c2bb09c488",
+  "url": "https://www.dhakatribune.com/bangladesh/crime/418369/online-gambling-site-admin-arrested",
+  "headline": "Online gambling 'super agent' arrested by RAB in Dhaka",
+  "topic": "online gambling admin arrested",
+  "source": "Dhaka Tribune, Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-26T10:06:25Z"
+ },
+ {
+  "title_hash": "906bc3a8f0684333",
+  "url": "https://www.prothomalo.com/bangladesh/crime/xi6bi4al10",
+  "headline": "Online gambling 'super agent' arrested by RAB in Dhaka",
+  "topic": "online gambling admin arrested",
+  "source": "Dhaka Tribune, Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-26T10:06:25Z"
  }
 ]
