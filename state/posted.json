@@ -2,48 +2,6 @@
  {
   "title_hash": "75ef4ac36fe89832",
   "url": "https://www.jamuna.tv/all-bangladesh/662648",
-  "headline": "4 family members killed in Rangpur, bodies found in locked house",
-  "topic": "rangpur family death",
-  "source": "Prothom Alo, Jamuna TV",
-  "status": "failed",
-  "at": "2026-08-22T19:06:57Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "19f6d8ca71cf7645",
-  "url": "https://www.dhakatribune.com/bangladesh/418118/muggings-surge-across-dhaka-as-residents-live-in",
-  "headline": "Fear grips city as muggings surge across Dhaka",
-  "topic": "dhaka mugging surge",
-  "source": "Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-08-22T19:06:57Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "0fc6bf4d28838065",
-  "url": "https://www.prothomalo.com/bangladesh/district/rnpure-saabek-shiksskke-strii-chele-meyyesh-htyaa",
-  "headline": "4 killed in Rangpur: Retired teacher and family of 4 killed in suspected robbery",
-  "topic": "rangpur family murder",
-  "source": "Prothom Alo, Jamuna TV",
-  "status": "failed",
-  "at": "2026-08-22T20:07:26Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "75ef4ac36fe89832",
-  "url": "https://www.jamuna.tv/all-bangladesh/662648",
   "headline": "4 killed in Rangpur: Retired teacher and family of 4 killed in suspected robbery",
   "topic": "rangpur family murder",
   "source": "Prothom Alo, Jamuna TV",
@@ -8393,5 +8351,32 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "e3cf4a823e5513df",
+  "url": "https://www.prothomalo.com/bangladesh/district/tzgnkca0yt",
+  "headline": "Mother dies from electrocution just hours before daughter's wedding",
+  "topic": "Mother dies before daughter's wedding",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-27T20:21:46Z"
+ },
+ {
+  "title_hash": "7ca7ec682e6788fd",
+  "url": "https://www.jamuna.tv/all-bangladesh/662935",
+  "headline": "1500 Yaba pills found in government ambulance in Manikganj, 3 arrested for smuggling",
+  "topic": "Yaba found in govt ambulance",
+  "source": "Jamuna TV, Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-27T20:21:46Z"
+ },
+ {
+  "title_hash": "21496ca1b2482261",
+  "url": "https://www.prothomalo.com/bangladesh/district/6yus5air7w",
+  "headline": "1500 Yaba pills found in government ambulance in Manikganj, 3 arrested for smuggling",
+  "topic": "Yaba found in govt ambulance",
+  "source": "Jamuna TV, Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-27T20:21:46Z"
  }
 ]
