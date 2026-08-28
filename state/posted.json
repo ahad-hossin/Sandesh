@@ -1,61 +1,5 @@
 [
  {
-  "title_hash": "a28e426f98609bb7",
-  "url": "https://www.jamuna.tv/national/662649",
-  "headline": "Threats prompt tighter security at Chinese and Japanese embassies in Dhaka",
-  "topic": "khilgaon royal aid hospital fire",
-  "source": "Jamuna TV, The Daily Star",
-  "status": "failed",
-  "at": "2026-08-22T21:06:53Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "0fc6bf4d28838065",
-  "url": "https://www.prothomalo.com/bangladesh/district/rnpure-saabek-shiksskke-strii-chele-meyyesh-htyaa",
-  "headline": "4 killed in Rangpur: Retired teacher and family murdered in suspected robbery",
-  "topic": "rangpur teacher family murder",
-  "source": "Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-22T21:06:53Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "d6578567a6b5b5bf",
-  "url": "https://www.prothomalo.com/bangladesh/district/gbcfyu6swt",
-  "headline": "4 killed in Rangpur: Retired teacher and family murdered in suspected robbery",
-  "topic": "rangpur teacher family murder",
-  "source": "Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-22T21:06:53Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "19f6d8ca71cf7645",
-  "url": "https://www.dhakatribune.com/bangladesh/418118/muggings-surge-across-dhaka-as-residents-live-in",
-  "headline": "Dhaka residents live in fear as muggings surge across the city",
-  "topic": "dhaka muggings surge",
-  "source": "Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-08-22T22:06:57Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "0fc6bf4d28838065",
   "url": "https://www.prothomalo.com/bangladesh/district/rnpure-saabek-shiksskke-strii-chele-meyyesh-htyaa",
   "headline": "4 killed in Rangpur: Retired teacher, wife, and children murdered",
@@ -8393,5 +8337,41 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "79633afb70b8f984",
+  "url": "https://www.dhakatribune.com/bangladesh/court/418560/sagar-runi-murder-clue-found-three-more-suspects",
+  "headline": "Sagar-Runi murder case gets new clue, three more suspects identified",
+  "topic": "sagar runi murder new suspects",
+  "source": "Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-08-28T18:35:48Z"
+ },
+ {
+  "title_hash": "4d80d1d08a74551e",
+  "url": "https://www.dhakatribune.com/bangladesh/418523/five-children-drown-in-chapainawabganj-river",
+  "headline": "Five children drown in Chapainawabganj river while bathing",
+  "topic": "chapainawabganj 5 children drown",
+  "source": "Jamuna TV, Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-08-28T18:35:48Z"
+ },
+ {
+  "title_hash": "36060857868846fe",
+  "url": "https://www.jamuna.tv/all-bangladesh/662981",
+  "headline": "Five children drown in Chapainawabganj river while bathing",
+  "topic": "chapainawabganj 5 children drown",
+  "source": "Jamuna TV, Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-08-28T18:35:48Z"
+ },
+ {
+  "title_hash": "c2576eab9472a5a9",
+  "url": "https://www.jamuna.tv/all-bangladesh/662962",
+  "headline": "Five children drown in Chapainawabganj river while bathing",
+  "topic": "chapainawabganj 5 children drown",
+  "source": "Jamuna TV, Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-08-28T18:35:48Z"
  }
 ]
