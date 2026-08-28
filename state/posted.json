@@ -8344,8 +8344,13 @@
   "headline": "Sagar-Runi murder case gets new clue, three more suspects identified",
   "topic": "sagar runi murder new suspects",
   "source": "Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-08-28T18:35:48Z"
+  "status": "failed",
+  "at": "2026-08-28T18:35:48Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "4d80d1d08a74551e",
@@ -8353,8 +8358,13 @@
   "headline": "Five children drown in Chapainawabganj river while bathing",
   "topic": "chapainawabganj 5 children drown",
   "source": "Jamuna TV, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-08-28T18:35:48Z"
+  "status": "failed",
+  "at": "2026-08-28T18:35:48Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "36060857868846fe",
@@ -8362,8 +8372,13 @@
   "headline": "Five children drown in Chapainawabganj river while bathing",
   "topic": "chapainawabganj 5 children drown",
   "source": "Jamuna TV, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-08-28T18:35:48Z"
+  "status": "failed",
+  "at": "2026-08-28T18:35:48Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "c2576eab9472a5a9",
@@ -8371,7 +8386,12 @@
   "headline": "Five children drown in Chapainawabganj river while bathing",
   "topic": "chapainawabganj 5 children drown",
   "source": "Jamuna TV, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-08-28T18:35:48Z"
+  "status": "failed",
+  "at": "2026-08-28T18:35:48Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
