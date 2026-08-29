@@ -8321,8 +8321,13 @@
   "headline": "61 days in a cell: Home Minister Salahuddin Ahmed recalls his enforced disappearance",
   "topic": "home minister on enforced disappearances",
   "source": "Prothom Alo, Dhaka Tribune, Jamuna TV",
-  "status": "queued",
-  "at": "2026-08-29T19:07:46Z"
+  "status": "failed",
+  "at": "2026-08-29T19:07:46Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "39ae95fae3112096",
@@ -8330,8 +8335,13 @@
   "headline": "61 days in a cell: Home Minister Salahuddin Ahmed recalls his enforced disappearance",
   "topic": "home minister on enforced disappearances",
   "source": "Prothom Alo, Dhaka Tribune, Jamuna TV",
-  "status": "queued",
-  "at": "2026-08-29T19:07:46Z"
+  "status": "failed",
+  "at": "2026-08-29T19:07:46Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "f3faeee46ab91335",
@@ -8339,8 +8349,13 @@
   "headline": "61 days in a cell: Home Minister Salahuddin Ahmed recalls his enforced disappearance",
   "topic": "home minister on enforced disappearances",
   "source": "Prothom Alo, Dhaka Tribune, Jamuna TV",
-  "status": "queued",
-  "at": "2026-08-29T19:07:46Z"
+  "status": "failed",
+  "at": "2026-08-29T19:07:46Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "a8fe6e185dc0dc38",
@@ -8348,8 +8363,13 @@
   "headline": "61 days in a cell: Home Minister Salahuddin Ahmed recalls his enforced disappearance",
   "topic": "home minister on enforced disappearances",
   "source": "Prothom Alo, Dhaka Tribune, Jamuna TV",
-  "status": "queued",
-  "at": "2026-08-29T19:07:46Z"
+  "status": "failed",
+  "at": "2026-08-29T19:07:46Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "24338b17d550a928",
@@ -8357,8 +8377,13 @@
   "headline": "61 days in a cell: Home Minister Salahuddin Ahmed recalls his enforced disappearance",
   "topic": "home minister on enforced disappearances",
   "source": "Prothom Alo, Dhaka Tribune, Jamuna TV",
-  "status": "queued",
-  "at": "2026-08-29T19:07:46Z"
+  "status": "failed",
+  "at": "2026-08-29T19:07:46Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "67d31d7f86376c20",
@@ -8366,7 +8391,12 @@
   "headline": "17 districts including Dhaka: Thunderstorms and gusty winds forecast",
   "topic": "rain forecast 17 districts",
   "source": "Jamuna TV",
-  "status": "queued",
-  "at": "2026-08-29T19:07:46Z"
+  "status": "failed",
+  "at": "2026-08-29T19:07:46Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
