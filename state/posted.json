@@ -8307,8 +8307,13 @@
   "headline": "No enforced disappearances or extrajudicial killings in last 6 months: Home Minister",
   "topic": "home minister on enforced disappearances",
   "source": "The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-29T22:06:29Z"
+  "status": "failed",
+  "at": "2026-08-29T22:06:29Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "fab60f5ba7820592",
@@ -8316,8 +8321,13 @@
   "headline": "No enforced disappearances or extrajudicial killings in last 6 months: Home Minister",
   "topic": "home minister on enforced disappearances",
   "source": "The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-29T22:06:29Z"
+  "status": "failed",
+  "at": "2026-08-29T22:06:29Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "39ae95fae3112096",
@@ -8325,8 +8335,13 @@
   "headline": "No enforced disappearances or extrajudicial killings in last 6 months: Home Minister",
   "topic": "home minister on enforced disappearances",
   "source": "The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-29T22:06:29Z"
+  "status": "failed",
+  "at": "2026-08-29T22:06:29Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "f3faeee46ab91335",
@@ -8334,8 +8349,13 @@
   "headline": "No enforced disappearances or extrajudicial killings in last 6 months: Home Minister",
   "topic": "home minister on enforced disappearances",
   "source": "The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-29T22:06:29Z"
+  "status": "failed",
+  "at": "2026-08-29T22:06:29Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "9c0df9b82ad53a0b",
@@ -8343,8 +8363,13 @@
   "headline": "Rain likely to continue for five days across Bangladesh",
   "topic": "rain forecast bangladesh",
   "source": "Jamuna TV, The Daily Star, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-08-29T22:06:29Z"
+  "status": "failed",
+  "at": "2026-08-29T22:06:29Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "67d31d7f86376c20",
@@ -8352,8 +8377,13 @@
   "headline": "Rain likely to continue for five days across Bangladesh",
   "topic": "rain forecast bangladesh",
   "source": "Jamuna TV, The Daily Star, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-08-29T22:06:29Z"
+  "status": "failed",
+  "at": "2026-08-29T22:06:29Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "661f0a5d76610265",
@@ -8361,7 +8391,12 @@
   "headline": "Rain likely to continue for five days across Bangladesh",
   "topic": "rain forecast bangladesh",
   "source": "Jamuna TV, The Daily Star, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-08-29T22:06:29Z"
+  "status": "failed",
+  "at": "2026-08-29T22:06:29Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
