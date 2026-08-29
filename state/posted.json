@@ -1,61 +1,5 @@
 [
  {
-  "title_hash": "75ef4ac36fe89832",
-  "url": "https://www.jamuna.tv/all-bangladesh/662648",
-  "headline": "Four bodies recovered from locked house in Rangpur; police launch murder investigation",
-  "topic": "4 bodies found rangpur locked house",
-  "source": "Jamuna TV, Somoy News",
-  "status": "failed",
-  "at": "2026-08-23T02:10:09Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "e3a704fdfe3a723f",
-  "url": "https://www.somoynews.tv/news/2026-08-23/v5FxQ927",
-  "headline": "Four bodies recovered from locked house in Rangpur; police launch murder investigation",
-  "topic": "4 bodies found rangpur locked house",
-  "source": "Jamuna TV, Somoy News",
-  "status": "failed",
-  "at": "2026-08-23T02:10:09Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "41520c2aeb080f1a",
-  "url": "https://www.somoynews.tv/news/2026-08-22/7KTuONGM",
-  "headline": "Four bodies recovered from locked house in Rangpur; police launch murder investigation",
-  "topic": "4 bodies found rangpur locked house",
-  "source": "Jamuna TV, Somoy News",
-  "status": "failed",
-  "at": "2026-08-23T02:10:09Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "03e3c40e094720ac",
-  "url": "https://www.prothomalo.com/opinion/column/glbrx0wnjx",
-  "headline": "Mirza Fakhrul Islam Alamgir elected President of Bangladesh, as widely anticipated",
-  "topic": "New President Mirza Fakhrul",
-  "source": "Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-23T03:07:11Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "8d6031aa7f03ed19",
   "url": "https://www.prothomalo.com/bangladesh/district/cdy62ysr95",
   "headline": "PM picks up Ehsanul Huda in car during Kishoreganj visit, sparking new debate in Bajitpur BNP politics",
@@ -8398,5 +8342,41 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "112748319aedcd2e",
+  "url": "https://www.thedailystar.net/news/world/news/nepal-flood-death-toll-rises-633-nearly-3000-missing-4259261",
+  "headline": "Nepal flood death toll rises to 633, nearly 3,000 missing as rescuers battle to find survivors",
+  "topic": "nepal flood death toll rises, apu biswas narrowly escapes",
+  "source": "The Daily Star",
+  "status": "queued",
+  "at": "2026-08-29T06:07:20Z"
+ },
+ {
+  "title_hash": "43dd8df1cf221f58",
+  "url": "https://www.thedailystar.net/culture/tv-film/news/we-narrowly-avoided-major-accident-apu-biswas-after-returning-nepal-4259256",
+  "headline": "Nepal flood death toll rises to 633, nearly 3,000 missing as rescuers battle to find survivors",
+  "topic": "nepal flood death toll rises, apu biswas narrowly escapes",
+  "source": "The Daily Star",
+  "status": "queued",
+  "at": "2026-08-29T06:07:20Z"
+ },
+ {
+  "title_hash": "5a0a88181d0f7f95",
+  "url": "https://www.thedailystar.net/news/news/road-repairs-trigger-long-tailback-dhaka-chattogram-highway-4259246",
+  "headline": "Road repairs trigger long tailback on Dhaka-Chattogram highway, stranding thousands",
+  "topic": "dhaka chattogram highway gridlock death",
+  "source": "The Daily Star, Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-29T06:07:20Z"
+ },
+ {
+  "title_hash": "cd0243670aec3035",
+  "url": "https://www.prothomalo.com/bangladesh/district/87p7ej12mu",
+  "headline": "Road repairs trigger long tailback on Dhaka-Chattogram highway, stranding thousands",
+  "topic": "dhaka chattogram highway gridlock death",
+  "source": "The Daily Star, Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-29T06:07:20Z"
  }
 ]
