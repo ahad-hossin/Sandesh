@@ -1,47 +1,5 @@
 [
  {
-  "title_hash": "da0abec0893edf39",
-  "url": "https://www.somoynews.tv/news/2026-08-23/XH93PLMT",
-  "headline": "Shoriful Islam sets new Bangladesh bowling record in away Test, takes 7 wickets against Australia",
-  "topic": "shoriful record bowling vs australia",
-  "source": "Somoy News, The Daily Star",
-  "status": "failed",
-  "at": "2026-08-23T02:10:09Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "77364ceb7e1cccd3",
-  "url": "https://www.somoynews.tv/news/2026-08-22/DB1X59t0",
-  "headline": "Shoriful Islam sets new Bangladesh bowling record in away Test, takes 7 wickets against Australia",
-  "topic": "shoriful record bowling vs australia",
-  "source": "Somoy News, The Daily Star",
-  "status": "failed",
-  "at": "2026-08-23T02:10:09Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "9909c07a8c3189c3",
-  "url": "https://www.somoynews.tv/news/2026-08-22/uEtUOUYx",
-  "headline": "Shoriful Islam sets new Bangladesh bowling record in away Test, takes 7 wickets against Australia",
-  "topic": "shoriful record bowling vs australia",
-  "source": "Somoy News, The Daily Star",
-  "status": "failed",
-  "at": "2026-08-23T02:10:09Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "75ef4ac36fe89832",
   "url": "https://www.jamuna.tv/all-bangladesh/662648",
   "headline": "Four bodies recovered from locked house in Rangpur; police launch murder investigation",
@@ -8398,5 +8356,32 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "5a0a88181d0f7f95",
+  "url": "https://www.thedailystar.net/news/news/road-repairs-trigger-long-tailback-dhaka-chattogram-highway-4259246",
+  "headline": "40km traffic jam strands thousands on Dhaka-Chattogram highway due to bridge repairs",
+  "topic": "Cumilla traffic jam patient death",
+  "source": "Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-08-29T05:07:41Z"
+ },
+ {
+  "title_hash": "364484bfe22f41e2",
+  "url": "https://www.prothomalo.com/bangladesh/district/87p7ej12mu",
+  "headline": "40km traffic jam strands thousands on Dhaka-Chattogram highway due to bridge repairs",
+  "topic": "Cumilla traffic jam patient death",
+  "source": "Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-08-29T05:07:41Z"
+ },
+ {
+  "title_hash": "2eddd3ac33fd745b",
+  "url": "https://www.kishoralo.com/feature/zxthoybfeb",
+  "headline": "Meta settles for $18 billion in US lawsuit, bringing major changes to Facebook & Instagram",
+  "topic": "Meta settlement Facebook Instagram changes",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-29T05:07:41Z"
  }
 ]
