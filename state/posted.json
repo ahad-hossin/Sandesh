@@ -8363,8 +8363,13 @@
   "headline": "Former Chhatra Dal leader detained for beating police officer in Magura",
   "topic": "viral assault videos",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-29T18:08:24Z"
+  "status": "failed",
+  "at": "2026-08-29T18:08:24Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "47ea34650a92524c",
@@ -8372,8 +8377,13 @@
   "headline": "Former Chhatra Dal leader detained for beating police officer in Magura",
   "topic": "viral assault videos",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-29T18:08:24Z"
+  "status": "failed",
+  "at": "2026-08-29T18:08:24Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "2c783d863e36bda5",
@@ -8381,7 +8391,12 @@
   "headline": "Mirpur: Jamaat and BNP supporters clash over funeral wash room construction",
   "topic": "clash at bihari camp",
   "source": "Jamuna TV",
-  "status": "queued",
-  "at": "2026-08-29T18:08:24Z"
+  "status": "failed",
+  "at": "2026-08-29T18:08:24Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
