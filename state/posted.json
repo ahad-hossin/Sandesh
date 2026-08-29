@@ -1,61 +1,5 @@
 [
  {
-  "title_hash": "cd8a84d1e46ee1a0",
-  "url": "https://www.jamuna.tv/all-bangladesh/662675",
-  "headline": "4 killed in Rangpur: Family of 4 murdered after stopping suspects from taking yaba",
-  "topic": "rangpur family of four killed",
-  "source": "Jamuna TV, Prothom Alo, The Daily Star, Somoy News",
-  "status": "failed",
-  "at": "2026-08-23T11:07:33Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "2e5884cd5ee8dec9",
-  "url": "https://www.prothomalo.com/bangladesh/district/ay3av8124w",
-  "headline": "4 killed in Rangpur: Family of 4 murdered after stopping suspects from taking yaba",
-  "topic": "rangpur family of four killed",
-  "source": "Jamuna TV, Prothom Alo, The Daily Star, Somoy News",
-  "status": "failed",
-  "at": "2026-08-23T11:07:33Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "42a0d8cfcece4085",
-  "url": "https://www.prothomalo.com/bangladesh/district/z7nh93d0l0",
-  "headline": "4 killed in Rangpur: Family of 4 murdered after stopping suspects from taking yaba",
-  "topic": "rangpur family of four killed",
-  "source": "Jamuna TV, Prothom Alo, The Daily Star, Somoy News",
-  "status": "failed",
-  "at": "2026-08-23T11:07:33Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "3b8567c8e3c9c3cd",
-  "url": "https://www.somoynews.tv/news/2026-08-23/JZY7OF16",
-  "headline": "4 killed in Rangpur: Family of 4 murdered after stopping suspects from taking yaba",
-  "topic": "rangpur family of four killed",
-  "source": "Jamuna TV, Prothom Alo, The Daily Star, Somoy News",
-  "status": "failed",
-  "at": "2026-08-23T11:07:33Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "07eb697363dcab91",
   "url": "https://www.prothomalo.com/video/bangladesh/vs0hui3p0p",
   "headline": "4 killed in Rangpur: Family of 4 murdered after stopping suspects from taking yaba",
@@ -8398,5 +8342,41 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "d2b7498fcc7e5d05",
+  "url": "https://www.thedailystar.net/news/bangladesh/news/pm-orders-relocation-karwan-bazar-kitchen-market-gabtoli-4259496",
+  "headline": "Dhaka traffic fix: Karwan Bazar kitchen market to be relocated to Gabtoli",
+  "topic": "karwan bazar market relocation",
+  "source": "The Daily Star, Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-08-29T15:06:56Z"
+ },
+ {
+  "title_hash": "0aa722c4334b70ba",
+  "url": "https://www.dhakatribune.com/bangladesh/dhaka/418613/pm-sets-4-month-deadline-for-etc-rollout-orders",
+  "headline": "Dhaka traffic fix: Karwan Bazar kitchen market to be relocated to Gabtoli",
+  "topic": "karwan bazar market relocation",
+  "source": "The Daily Star, Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-08-29T15:06:56Z"
+ },
+ {
+  "title_hash": "fb6fd1212a83cb0f",
+  "url": "https://www.dhakatribune.com/bangladesh/418618/pm-directs-action-against-unauthorised-sleeper",
+  "headline": "PM directs action against unauthorised sleeper buses to ease Dhaka traffic",
+  "topic": "sleeper bus crackdown",
+  "source": "Dhaka Tribune, Jamuna TV",
+  "status": "queued",
+  "at": "2026-08-29T15:06:56Z"
+ },
+ {
+  "title_hash": "8aeedf8f5b7b6143",
+  "url": "https://www.jamuna.tv/national/663043",
+  "headline": "PM directs action against unauthorised sleeper buses to ease Dhaka traffic",
+  "topic": "sleeper bus crackdown",
+  "source": "Dhaka Tribune, Jamuna TV",
+  "status": "queued",
+  "at": "2026-08-29T15:06:56Z"
  }
 ]
