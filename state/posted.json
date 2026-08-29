@@ -8321,8 +8321,13 @@
   "headline": "Mother reunited with 8-year-old who climbed trees to survive Nepal floods",
   "topic": "nepal floods death toll",
   "source": "The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-29T04:07:11Z"
+  "status": "failed",
+  "at": "2026-08-29T04:07:11Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "48a8d60cc678567f",
@@ -8330,8 +8335,13 @@
   "headline": "Mother reunited with 8-year-old who climbed trees to survive Nepal floods",
   "topic": "nepal floods death toll",
   "source": "The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-29T04:07:11Z"
+  "status": "failed",
+  "at": "2026-08-29T04:07:11Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "2392fd50e32b4e53",
@@ -8339,8 +8349,13 @@
   "headline": "Mother reunited with 8-year-old who climbed trees to survive Nepal floods",
   "topic": "nepal floods death toll",
   "source": "The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-29T04:07:11Z"
+  "status": "failed",
+  "at": "2026-08-29T04:07:11Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "f36e092bd42cd259",
@@ -8348,8 +8363,13 @@
   "headline": "Mother reunited with 8-year-old who climbed trees to survive Nepal floods",
   "topic": "nepal floods death toll",
   "source": "The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-29T04:07:11Z"
+  "status": "failed",
+  "at": "2026-08-29T04:07:11Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "3f490074609d2799",
@@ -8357,8 +8377,13 @@
   "headline": "Mother reunited with 8-year-old who climbed trees to survive Nepal floods",
   "topic": "nepal floods death toll",
   "source": "The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-29T04:07:11Z"
+  "status": "failed",
+  "at": "2026-08-29T04:07:11Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "b6ccca7c91ee261c",
@@ -8366,7 +8391,12 @@
   "headline": "Polao rice price doubles in Bangladesh, hitting record highs; farmers see no benefit",
   "topic": "polao rice price doubles",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-29T04:07:11Z"
+  "status": "failed",
+  "at": "2026-08-29T04:07:11Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
