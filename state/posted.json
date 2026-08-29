@@ -1,75 +1,5 @@
 [
  {
-  "title_hash": "0cd62ba6ce391992",
-  "url": "https://www.jamuna.tv/sports/662664",
-  "headline": "Historic collapse as Bangladesh suffer innings defeat in Mackay Test",
-  "topic": "bangladesh innings defeat australia",
-  "source": "Somoy News, Jamuna TV, The Daily Star",
-  "status": "failed",
-  "at": "2026-08-23T06:07:32Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "a4ffca5762d70ed3",
-  "url": "https://www.somoynews.tv/news/2026-08-23/CI9U2FIW",
-  "headline": "Historic collapse as Bangladesh suffer innings defeat in Mackay Test",
-  "topic": "bangladesh innings defeat australia",
-  "source": "Somoy News, Jamuna TV, The Daily Star",
-  "status": "failed",
-  "at": "2026-08-23T06:07:32Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "438caf37b73aa7cf",
-  "url": "https://www.jamuna.tv/sports/662653",
-  "headline": "Historic collapse as Bangladesh suffer innings defeat in Mackay Test",
-  "topic": "bangladesh innings defeat australia",
-  "source": "Somoy News, Jamuna TV, The Daily Star",
-  "status": "failed",
-  "at": "2026-08-23T06:07:32Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "7d0c056f79a381f2",
-  "url": "https://www.jamuna.tv/sports/662652",
-  "headline": "Historic collapse as Bangladesh suffer innings defeat in Mackay Test",
-  "topic": "bangladesh innings defeat australia",
-  "source": "Somoy News, Jamuna TV, The Daily Star",
-  "status": "failed",
-  "at": "2026-08-23T06:07:32Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "da0abec0893edf39",
-  "url": "https://www.somoynews.tv/news/2026-08-23/XH93PLMT",
-  "headline": "Historic collapse as Bangladesh suffer innings defeat in Mackay Test",
-  "topic": "bangladesh innings defeat australia",
-  "source": "Somoy News, Jamuna TV, The Daily Star",
-  "status": "failed",
-  "at": "2026-08-23T06:07:32Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "372e0ae65f697429",
   "url": "https://www.dhakatribune.com/bangladesh/nation/418125/four-family-members-found-dead-in-rangpur-home",
   "headline": "3 detained after 4 family members found dead in locked Rangpur home",
@@ -8398,5 +8328,50 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "ecdc3ef33d6797dd",
+  "url": "https://www.dhakatribune.com/bangladesh/crime/418581/teacher-dies-after-falling-from-rickshaw-during",
+  "headline": "Teacher dies after falling from rickshaw during snatching near parliament",
+  "topic": "teacher dies snatching parliament",
+  "source": "Dhaka Tribune, Jamuna TV",
+  "status": "queued",
+  "at": "2026-08-29T09:06:21Z"
+ },
+ {
+  "title_hash": "ab734eca4707da74",
+  "url": "https://www.jamuna.tv/national/663005",
+  "headline": "Teacher dies after falling from rickshaw during snatching near parliament",
+  "topic": "teacher dies snatching parliament",
+  "source": "Dhaka Tribune, Jamuna TV",
+  "status": "queued",
+  "at": "2026-08-29T09:06:21Z"
+ },
+ {
+  "title_hash": "bff77df69512ad77",
+  "url": "https://www.dhakatribune.com/bangladesh/418579/home-minister-announces-tk2-lakh-reward-for",
+  "headline": "Up to Tk2 lakh reward for information on looted, illegal arms",
+  "topic": "reward for looted arms",
+  "source": "Dhaka Tribune, Prothom Alo, Jamuna TV",
+  "status": "queued",
+  "at": "2026-08-29T09:06:21Z"
+ },
+ {
+  "title_hash": "af89e2767a0725af",
+  "url": "https://www.prothomalo.com/bangladesh/mr1ddkerc7",
+  "headline": "Up to Tk2 lakh reward for information on looted, illegal arms",
+  "topic": "reward for looted arms",
+  "source": "Dhaka Tribune, Prothom Alo, Jamuna TV",
+  "status": "queued",
+  "at": "2026-08-29T09:06:21Z"
+ },
+ {
+  "title_hash": "e0fbe7516852b80e",
+  "url": "https://www.jamuna.tv/national/663009",
+  "headline": "Up to Tk2 lakh reward for information on looted, illegal arms",
+  "topic": "reward for looted arms",
+  "source": "Dhaka Tribune, Prothom Alo, Jamuna TV",
+  "status": "queued",
+  "at": "2026-08-29T09:06:21Z"
  }
 ]
