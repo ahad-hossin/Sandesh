@@ -8349,8 +8349,13 @@
   "headline": "Dhaka traffic fix: Karwan Bazar kitchen market to be relocated to Gabtoli",
   "topic": "karwan bazar market relocation",
   "source": "The Daily Star, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-08-29T15:06:56Z"
+  "status": "failed",
+  "at": "2026-08-29T15:06:56Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "0aa722c4334b70ba",
@@ -8358,8 +8363,13 @@
   "headline": "Dhaka traffic fix: Karwan Bazar kitchen market to be relocated to Gabtoli",
   "topic": "karwan bazar market relocation",
   "source": "The Daily Star, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-08-29T15:06:56Z"
+  "status": "failed",
+  "at": "2026-08-29T15:06:56Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "fb6fd1212a83cb0f",
@@ -8367,8 +8377,13 @@
   "headline": "PM directs action against unauthorised sleeper buses to ease Dhaka traffic",
   "topic": "sleeper bus crackdown",
   "source": "Dhaka Tribune, Jamuna TV",
-  "status": "queued",
-  "at": "2026-08-29T15:06:56Z"
+  "status": "failed",
+  "at": "2026-08-29T15:06:56Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "8aeedf8f5b7b6143",
@@ -8376,7 +8391,12 @@
   "headline": "PM directs action against unauthorised sleeper buses to ease Dhaka traffic",
   "topic": "sleeper bus crackdown",
   "source": "Dhaka Tribune, Jamuna TV",
-  "status": "queued",
-  "at": "2026-08-29T15:06:56Z"
+  "status": "failed",
+  "at": "2026-08-29T15:06:56Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
