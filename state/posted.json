@@ -1,33 +1,5 @@
 [
  {
-  "title_hash": "5c22a1179709ca53",
-  "url": "https://www.somoynews.tv/news/2026-08-23/72RL16zv",
-  "headline": "Bangladesh rise to record sixth in ICC Test rankings",
-  "topic": "bangladesh record 6th test ranking",
-  "source": "Jamuna TV, The Daily Star, Somoy News",
-  "status": "failed",
-  "at": "2026-08-23T11:07:33Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "ac0974b93b418b6c",
-  "url": "https://www.thedailystar.net/news/crime-justice/news/four-killed-rangpur-after-suspects-were-caught-taking-yaba-rooftop-police-4254671",
-  "headline": "4 killed in Rangpur: Family of 4 murdered after stopping suspects from taking yaba",
-  "topic": "rangpur family of four killed",
-  "source": "Jamuna TV, Prothom Alo, The Daily Star, Somoy News",
-  "status": "failed",
-  "at": "2026-08-23T11:07:33Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "cd8a84d1e46ee1a0",
   "url": "https://www.jamuna.tv/all-bangladesh/662675",
   "headline": "4 killed in Rangpur: Family of 4 murdered after stopping suspects from taking yaba",
@@ -8398,5 +8370,23 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "0aa722c4334b70ba",
+  "url": "https://www.dhakatribune.com/bangladesh/dhaka/418613/pm-sets-4-month-deadline-for-etc-rollout-orders",
+  "headline": "Dhaka: PM instructs Karwan Bazar kitchen market relocation",
+  "topic": "karwan bazar market relocation",
+  "source": "Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-08-29T14:06:21Z"
+ },
+ {
+  "title_hash": "0e36ffed1fb2bc21",
+  "url": "https://www.dhakatribune.com/bangladesh/power-energy/418606/cng-shortage-worsens-drivers-endure-hours-long",
+  "headline": "Commuters struggle as CNG shortage worsens in Dhaka",
+  "topic": "dhaka cng shortage",
+  "source": "Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-08-29T14:06:21Z"
  }
 ]
