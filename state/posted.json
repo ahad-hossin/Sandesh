@@ -8372,8 +8372,13 @@
   "headline": "Pulao rice price doubles in 6 months, farmers miss out on profits as stock runs dry",
   "topic": "pulao rice price doubles",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-29T03:07:31Z"
+  "status": "failed",
+  "at": "2026-08-29T03:07:31Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "fe84fb9761f82c53",
@@ -8381,7 +8386,12 @@
   "headline": "Four of six Citizen Service Centers locked in Dhaka; project launched by interim government stalls",
   "topic": "yunus citizen service centers closed",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-29T03:07:31Z"
+  "status": "failed",
+  "at": "2026-08-29T03:07:31Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
