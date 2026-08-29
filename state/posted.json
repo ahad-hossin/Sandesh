@@ -1,47 +1,5 @@
 [
  {
-  "title_hash": "acedd95c65bc9bfc",
-  "url": "https://www.prothomalo.com/bangladesh/jskxakwojj",
-  "headline": "6 million CVs of Bangladeshis for sale on Dark Web",
-  "topic": "bdjobs data leak dark web",
-  "source": "Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-23T15:06:40Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "acedd95c65bc9bfc",
-  "url": "https://www.prothomalo.com/bangladesh/jskxakwojj",
-  "headline": "6 million CVs of Bangladeshis for sale on Dark Web",
-  "topic": "bangladeshi cvs sold on dark web",
-  "source": "Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-23T16:06:35Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "57195752f5abefd5",
-  "url": "https://www.dhakatribune.com/bangladesh/nation/418176/kurigram-farmers-break-into-dealer%E2%80%99s-warehouse",
-  "headline": "10,000kg of fertilizer taken by angry farmers in Kurigram",
-  "topic": "kurigram farmers fertilizer warehouse raid",
-  "source": "Jamuna TV, Prothom Alo, Dhaka Tribune, Somoy News",
-  "status": "failed",
-  "at": "2026-08-23T16:06:35Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "27536ef52405c713",
   "url": "https://www.jamuna.tv/all-bangladesh/662697",
   "headline": "10,000kg of fertilizer taken by angry farmers in Kurigram",
@@ -8398,5 +8356,32 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "3734f49b5dd448b2",
+  "url": "https://www.prothomalo.com/video/bangladesh/y9feyn7bbu",
+  "headline": "Former Chhatra Dal leader detained for beating police officer in Magura",
+  "topic": "viral assault videos",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-29T18:08:24Z"
+ },
+ {
+  "title_hash": "47ea34650a92524c",
+  "url": "https://www.prothomalo.com/bangladesh/district/y6ez66wrcx",
+  "headline": "Former Chhatra Dal leader detained for beating police officer in Magura",
+  "topic": "viral assault videos",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-29T18:08:24Z"
+ },
+ {
+  "title_hash": "2c783d863e36bda5",
+  "url": "https://www.jamuna.tv/national/663052",
+  "headline": "Mirpur: Jamaat and BNP supporters clash over funeral wash room construction",
+  "topic": "clash at bihari camp",
+  "source": "Jamuna TV",
+  "status": "queued",
+  "at": "2026-08-29T18:08:24Z"
  }
 ]
