@@ -1,61 +1,5 @@
 [
  {
-  "title_hash": "be203172f6f52dff",
-  "url": "https://www.jamuna.tv/national/662710",
-  "headline": "Nusrat murder: HC confirms 2 death sentences, 4 get life imprisonment",
-  "topic": "nusrat_murder_hc_verdict",
-  "source": "Dhaka Tribune, Jamuna TV, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-08-24T13:06:48Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "a070f00452acbd28",
-  "url": "https://www.thedailystar.net/news/crime-justice/news/nusrat-murder-hc-confirms-two-death-sentences-commutes-four-life-imprisonment-4255571",
-  "headline": "Nusrat murder: HC confirms 2 death sentences, 4 get life imprisonment",
-  "topic": "nusrat_murder_hc_verdict",
-  "source": "Dhaka Tribune, Jamuna TV, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-08-24T13:06:48Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "546231656346cc8c",
-  "url": "https://www.prothomalo.com/bangladesh/pheniir-nusraat-htyaa-dujner-mrtyudnndd-bhaal",
-  "headline": "Nusrat murder: HC confirms 2 death sentences, 4 get life imprisonment",
-  "topic": "nusrat_murder_hc_verdict",
-  "source": "Dhaka Tribune, Jamuna TV, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-08-24T13:06:48Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "8d4998f9a4a2bb01",
-  "url": "https://www.thedailystar.net/sports/football/news/brazil-bangladesh-friendly-dhaka-bff-president-says-all-options-discussed-4255516",
-  "headline": "BFF explores Brazil national team friendly in Dhaka this October",
-  "topic": "brazil football team dhaka friendly",
-  "source": "Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-08-24T14:07:14Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "bafca81faa6a3ee2",
   "url": "https://www.prothomalo.com/video/sports/qxb5xnh149",
   "headline": "BFF explores Brazil national team friendly in Dhaka this October",
@@ -8398,5 +8342,41 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "811a9370c52dd266",
+  "url": "https://www.prothomalo.com/bangladesh/d7wl4oexsy",
+  "headline": "ACC Former Army Chief summoned by ACC over illegal wealth claims",
+  "topic": "shafiuddin ahmed acc summons",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-30T12:06:35Z"
+ },
+ {
+  "title_hash": "840ba9611c770fc9",
+  "url": "https://www.thedailystar.net/news/news/malaysia-hire-200000-bangladeshi-workers-6-months-shahe-alam-4260136",
+  "headline": "Malaysia to hire 200,000 Bangladeshi workers in 6 months",
+  "topic": "malaysia bangladeshi workers recruitment",
+  "source": "The Daily Star, Prothom Alo, Jamuna TV",
+  "status": "queued",
+  "at": "2026-08-30T12:06:35Z"
+ },
+ {
+  "title_hash": "a393352b7197f181",
+  "url": "https://www.prothomalo.com/video/bangladesh/ioneskn7sn",
+  "headline": "Malaysia to hire 200,000 Bangladeshi workers in 6 months",
+  "topic": "malaysia bangladeshi workers recruitment",
+  "source": "The Daily Star, Prothom Alo, Jamuna TV",
+  "status": "queued",
+  "at": "2026-08-30T12:06:35Z"
+ },
+ {
+  "title_hash": "64ce87e5bbfab0ff",
+  "url": "https://www.jamuna.tv/national/663067",
+  "headline": "Malaysia to hire 200,000 Bangladeshi workers in 6 months",
+  "topic": "malaysia bangladeshi workers recruitment",
+  "source": "The Daily Star, Prothom Alo, Jamuna TV",
+  "status": "queued",
+  "at": "2026-08-30T12:06:35Z"
  }
 ]
