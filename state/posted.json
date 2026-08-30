@@ -1,61 +1,5 @@
 [
  {
-  "title_hash": "1f55c49cd74dbe8a",
-  "url": "https://www.dhakatribune.com/bangladesh/court/418213/nusrat-murder-case-hc-strips-judge-of-judicial",
-  "headline": "Nusrat murder: HC confirms 2 death sentences, 4 get life imprisonment",
-  "topic": "nusrat_murder_hc_verdict",
-  "source": "Dhaka Tribune, Jamuna TV, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-08-24T13:06:48Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "0732e33b6b45f128",
-  "url": "https://www.jamuna.tv/national/662723",
-  "headline": "Nusrat murder: HC confirms 2 death sentences, 4 get life imprisonment",
-  "topic": "nusrat_murder_hc_verdict",
-  "source": "Dhaka Tribune, Jamuna TV, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-08-24T13:06:48Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "0b55891d1d78e1f9",
-  "url": "https://www.jamuna.tv/national/662715",
-  "headline": "Nusrat murder: HC confirms 2 death sentences, 4 get life imprisonment",
-  "topic": "nusrat_murder_hc_verdict",
-  "source": "Dhaka Tribune, Jamuna TV, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-08-24T13:06:48Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "8e5748a7d877ad93",
-  "url": "https://www.prothomalo.com/bangladesh/district/5z0ov9x8x6",
-  "headline": "Nusrat murder: HC confirms 2 death sentences, 4 get life imprisonment",
-  "topic": "nusrat_murder_hc_verdict",
-  "source": "Dhaka Tribune, Jamuna TV, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-08-24T13:06:48Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "be203172f6f52dff",
   "url": "https://www.jamuna.tv/national/662710",
   "headline": "Nusrat murder: HC confirms 2 death sentences, 4 get life imprisonment",
@@ -8398,5 +8342,41 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "87e27472d327d1da",
+  "url": "https://www.dhakatribune.com/bangladesh/418667/president-enforced-disappearance-perpetrators",
+  "headline": "President: No more 'Aynaghar' or secret detention centres in Bangladesh",
+  "topic": "president vows justice for enforced disappearances",
+  "source": "Dhaka Tribune, The Daily Star",
+  "status": "queued",
+  "at": "2026-08-30T11:08:32Z"
+ },
+ {
+  "title_hash": "051b115e2f5b48fc",
+  "url": "https://www.thedailystar.net/news/politics/news/no-more-aynaghar-bangladesh-president-4260146",
+  "headline": "President: No more 'Aynaghar' or secret detention centres in Bangladesh",
+  "topic": "president vows justice for enforced disappearances",
+  "source": "Dhaka Tribune, The Daily Star",
+  "status": "queued",
+  "at": "2026-08-30T11:08:32Z"
+ },
+ {
+  "title_hash": "81183a2f150f9b0e",
+  "url": "https://www.dhakatribune.com/bangladesh/health/418665/measles-outbreak-death-toll-reaches-967-as-four",
+  "headline": "967 dead as measles outbreak kills 4 more in 24 hours",
+  "topic": "measles outbreak death toll",
+  "source": "Dhaka Tribune, Jamuna TV",
+  "status": "queued",
+  "at": "2026-08-30T11:08:32Z"
+ },
+ {
+  "title_hash": "ff2de20b42470e2f",
+  "url": "https://www.jamuna.tv/health/663090",
+  "headline": "967 dead as measles outbreak kills 4 more in 24 hours",
+  "topic": "measles outbreak death toll",
+  "source": "Dhaka Tribune, Jamuna TV",
+  "status": "queued",
+  "at": "2026-08-30T11:08:32Z"
  }
 ]
