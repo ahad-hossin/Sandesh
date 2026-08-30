@@ -1,75 +1,5 @@
 [
  {
-  "title_hash": "641e13ca346b04a5",
-  "url": "https://www.prothomalo.com/sports/football/baanlaadesher-bipksse-khelte-caayy-braajil",
-  "headline": "Brazil eyes friendly match against Bangladesh in Dhaka",
-  "topic": "brazil vs bangladesh friendly",
-  "source": "Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-08-24T06:07:03Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "d7face14a1303ded",
-  "url": "https://www.prothomalo.com/sports/football/7xf1p4zqo6",
-  "headline": "Brazil eyes friendly match against Bangladesh in Dhaka",
-  "topic": "brazil vs bangladesh friendly",
-  "source": "Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-08-24T06:07:03Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "0b55891d1d78e1f9",
-  "url": "https://www.jamuna.tv/national/662715",
-  "headline": "High Court delivers verdict in Nusrat murder case today",
-  "topic": "nusrat murder case verdict",
-  "source": "Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-24T06:07:03Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "be203172f6f52dff",
-  "url": "https://www.jamuna.tv/national/662710",
-  "headline": "High Court delivers verdict in Nusrat murder case today",
-  "topic": "nusrat murder case verdict",
-  "source": "Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-24T06:07:03Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "76a79851c7dd4aeb",
-  "url": "https://www.prothomalo.com/bangladesh/district/qddjchxzct",
-  "headline": "High Court delivers verdict in Nusrat murder case today",
-  "topic": "nusrat murder case verdict",
-  "source": "Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-24T06:07:03Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "8d4998f9a4a2bb01",
   "url": "https://www.thedailystar.net/sports/football/news/brazil-bangladesh-friendly-dhaka-bff-president-says-all-options-discussed-4255516",
   "headline": "BFF discusses Brazil friendly in Dhaka with CBF delegation",
@@ -8398,5 +8328,50 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "a37cade958f6a130",
+  "url": "https://www.dhakatribune.com/bangladesh/nation/418631/rangpur-killings-father-brother-of-prime-accused",
+  "headline": "Father and brother of prime accused in Rangpur 4-murder case released after DIB questioning",
+  "topic": "rangpur killings siddhartha family",
+  "source": "Jamuna TV, Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-08-30T01:09:57Z"
+ },
+ {
+  "title_hash": "b9eab9e5a33b2f55",
+  "url": "https://www.jamuna.tv/all-bangladesh/663057",
+  "headline": "Father and brother of prime accused in Rangpur 4-murder case released after DIB questioning",
+  "topic": "rangpur killings siddhartha family",
+  "source": "Jamuna TV, Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-08-30T01:09:57Z"
+ },
+ {
+  "title_hash": "630b840dcbc5a3ca",
+  "url": "https://www.thedailystar.net/news/bangladesh/news/unite-and-act-against-enforced-disappearance-4259841",
+  "headline": "PM Tarique Rahman calls for global unity against enforced disappearances, accountability",
+  "topic": "pm calls unity crimes against humanity",
+  "source": "Jamuna TV, The Daily Star, Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-08-30T01:09:57Z"
+ },
+ {
+  "title_hash": "d3834373d0328b61",
+  "url": "https://www.jamuna.tv/national/663056",
+  "headline": "PM Tarique Rahman calls for global unity against enforced disappearances, accountability",
+  "topic": "pm calls unity crimes against humanity",
+  "source": "Jamuna TV, The Daily Star, Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-08-30T01:09:57Z"
+ },
+ {
+  "title_hash": "581cfe9f9d8a2410",
+  "url": "https://www.dhakatribune.com/bangladesh/418614/pm-calls-for-global-unity-against-enforced",
+  "headline": "PM Tarique Rahman calls for global unity against enforced disappearances, accountability",
+  "topic": "pm calls unity crimes against humanity",
+  "source": "Jamuna TV, The Daily Star, Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-08-30T01:09:57Z"
  }
 ]
