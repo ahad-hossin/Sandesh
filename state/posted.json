@@ -8349,8 +8349,13 @@
   "headline": "ACC Former Army Chief summoned by ACC over illegal wealth claims",
   "topic": "shafiuddin ahmed acc summons",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-30T12:06:35Z"
+  "status": "failed",
+  "at": "2026-08-30T12:06:35Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "840ba9611c770fc9",
@@ -8358,8 +8363,13 @@
   "headline": "Malaysia to hire 200,000 Bangladeshi workers in 6 months",
   "topic": "malaysia bangladeshi workers recruitment",
   "source": "The Daily Star, Prothom Alo, Jamuna TV",
-  "status": "queued",
-  "at": "2026-08-30T12:06:35Z"
+  "status": "failed",
+  "at": "2026-08-30T12:06:35Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "a393352b7197f181",
@@ -8367,8 +8377,13 @@
   "headline": "Malaysia to hire 200,000 Bangladeshi workers in 6 months",
   "topic": "malaysia bangladeshi workers recruitment",
   "source": "The Daily Star, Prothom Alo, Jamuna TV",
-  "status": "queued",
-  "at": "2026-08-30T12:06:35Z"
+  "status": "failed",
+  "at": "2026-08-30T12:06:35Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "64ce87e5bbfab0ff",
@@ -8376,7 +8391,12 @@
   "headline": "Malaysia to hire 200,000 Bangladeshi workers in 6 months",
   "topic": "malaysia bangladeshi workers recruitment",
   "source": "The Daily Star, Prothom Alo, Jamuna TV",
-  "status": "queued",
-  "at": "2026-08-30T12:06:35Z"
+  "status": "failed",
+  "at": "2026-08-30T12:06:35Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
