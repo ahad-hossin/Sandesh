@@ -1,89 +1,5 @@
 [
  {
-  "title_hash": "d94c73daad829b9e",
-  "url": "https://www.prothomalo.com/business/economics/wljkoliv43",
-  "headline": "Sugar prices surge by BDT 10/kg in a week amid gas crisis, mills halt credit sales",
-  "topic": "Sugar price hike gas crisis",
-  "source": "Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-25T04:07:43Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "e0368dfa424ea2f4",
-  "url": "https://www.dhakatribune.com/bangladesh/court/418278/hc-verdict-in-magura-child-rape-murder-case",
-  "headline": "HC verdict in Magura child rape-murder case Tuesday",
-  "topic": "magura child rape murder verdict",
-  "source": "Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-08-25T05:07:28Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "ddb22d71622d5d93",
-  "url": "https://www.prothomalo.com/bangladesh/district/ve8kwgtd4j",
-  "headline": "Trawler sinks in Bay of Bengal, 8 rescued, 5 fishermen still missing",
-  "topic": "trawler capsizes bay of bengal",
-  "source": "Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-25T05:07:28Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "471dbbb5ec7a9d39",
-  "url": "https://www.prothomalo.com/education/admission/udrves57md",
-  "headline": "Maximum Tk 8,500 set for Class 11 admission; fees vary by institution type, location",
-  "topic": "college_admission_fees_2026",
-  "source": "Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-25T06:09:00Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "725e8b463e8d9889",
-  "url": "https://www.jamuna.tv/economy/662762",
-  "headline": "Gold prices rise again in Bangladesh, 22K gold hits 247,743 BDT",
-  "topic": "gold_price_increase",
-  "source": "Jamuna TV",
-  "status": "failed",
-  "at": "2026-08-25T06:09:00Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "fa69bf2ea4a536b5",
-  "url": "https://www.prothomalo.com/business/industry/676v1672qy",
-  "headline": "Gold prices rise by 1,633 BDT per bhori in Bangladesh",
-  "topic": "gold-price-increase",
-  "source": "Prothom Alo, Jamuna TV",
-  "status": "failed",
-  "at": "2026-08-25T07:03:43Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "725e8b463e8d9889",
   "url": "https://www.jamuna.tv/economy/662762",
   "headline": "Gold prices rise by 1,633 BDT per bhori in Bangladesh",
@@ -8398,5 +8314,59 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "9338a625f430ea53",
+  "url": "https://www.dhakatribune.com/bangladesh/crime/418714/three-including-woman-injured-in-gandaria",
+  "headline": "3 injured in Gandaria shooting during street clash",
+  "topic": "gandaria shooting",
+  "source": "Dhaka Tribune, The Daily Star, Jamuna TV, Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-30T21:06:28Z"
+ },
+ {
+  "title_hash": "bbd4755adc100fbd",
+  "url": "https://www.thedailystar.net/news/news/3-sustain-bullet-wounds-dhaka-4260791",
+  "headline": "3 injured in Gandaria shooting during street clash",
+  "topic": "gandaria shooting",
+  "source": "Dhaka Tribune, The Daily Star, Jamuna TV, Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-30T21:06:28Z"
+ },
+ {
+  "title_hash": "15db7bd20907d6ee",
+  "url": "https://www.jamuna.tv/national/663128",
+  "headline": "3 injured in Gandaria shooting during street clash",
+  "topic": "gandaria shooting",
+  "source": "Dhaka Tribune, The Daily Star, Jamuna TV, Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-30T21:06:28Z"
+ },
+ {
+  "title_hash": "9693a5496376c5fa",
+  "url": "https://www.prothomalo.com/bangladesh/crime/oebz43t0wy",
+  "headline": "3 injured in Gandaria shooting during street clash",
+  "topic": "gandaria shooting",
+  "source": "Dhaka Tribune, The Daily Star, Jamuna TV, Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-30T21:06:28Z"
+ },
+ {
+  "title_hash": "e0d2ee5b2a466e97",
+  "url": "https://www.prothomalo.com/bangladesh/crime/ue78or5b59",
+  "headline": "DU teacher files GD over leaked personal data and threats",
+  "topic": "du university teacher doxxing",
+  "source": "Prothom Alo, Jamuna TV",
+  "status": "queued",
+  "at": "2026-08-30T21:06:28Z"
+ },
+ {
+  "title_hash": "8e09f5216112ed34",
+  "url": "https://www.jamuna.tv/national/663122",
+  "headline": "DU teacher files GD over leaked personal data and threats",
+  "topic": "du university teacher doxxing",
+  "source": "Prothom Alo, Jamuna TV",
+  "status": "queued",
+  "at": "2026-08-30T21:06:28Z"
  }
 ]
