@@ -8321,8 +8321,13 @@
   "headline": "3 injured in Gandaria shooting during street clash",
   "topic": "gandaria shooting",
   "source": "Dhaka Tribune, The Daily Star, Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-30T21:06:28Z"
+  "status": "failed",
+  "at": "2026-08-30T21:06:28Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "bbd4755adc100fbd",
@@ -8330,8 +8335,13 @@
   "headline": "3 injured in Gandaria shooting during street clash",
   "topic": "gandaria shooting",
   "source": "Dhaka Tribune, The Daily Star, Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-30T21:06:28Z"
+  "status": "failed",
+  "at": "2026-08-30T21:06:28Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "15db7bd20907d6ee",
@@ -8339,8 +8349,13 @@
   "headline": "3 injured in Gandaria shooting during street clash",
   "topic": "gandaria shooting",
   "source": "Dhaka Tribune, The Daily Star, Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-30T21:06:28Z"
+  "status": "failed",
+  "at": "2026-08-30T21:06:28Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "9693a5496376c5fa",
@@ -8348,8 +8363,13 @@
   "headline": "3 injured in Gandaria shooting during street clash",
   "topic": "gandaria shooting",
   "source": "Dhaka Tribune, The Daily Star, Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-30T21:06:28Z"
+  "status": "failed",
+  "at": "2026-08-30T21:06:28Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "e0d2ee5b2a466e97",
@@ -8357,8 +8377,13 @@
   "headline": "DU teacher files GD over leaked personal data and threats",
   "topic": "du university teacher doxxing",
   "source": "Prothom Alo, Jamuna TV",
-  "status": "queued",
-  "at": "2026-08-30T21:06:28Z"
+  "status": "failed",
+  "at": "2026-08-30T21:06:28Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "8e09f5216112ed34",
@@ -8366,7 +8391,12 @@
   "headline": "DU teacher files GD over leaked personal data and threats",
   "topic": "du university teacher doxxing",
   "source": "Prothom Alo, Jamuna TV",
-  "status": "queued",
-  "at": "2026-08-30T21:06:28Z"
+  "status": "failed",
+  "at": "2026-08-30T21:06:28Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
