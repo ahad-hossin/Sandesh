@@ -8321,8 +8321,13 @@
   "headline": "2 arrested after teacher killed in snatching attempt near Parliament",
   "topic": "teacher death snatching investigation",
   "source": "Dhaka Tribune, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-30T17:06:18Z"
+  "status": "failed",
+  "at": "2026-08-30T17:06:18Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "4827b4d4fc5f90ea",
@@ -8330,8 +8335,13 @@
   "headline": "2 arrested after teacher killed in snatching attempt near Parliament",
   "topic": "teacher death snatching investigation",
   "source": "Dhaka Tribune, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-30T17:06:18Z"
+  "status": "failed",
+  "at": "2026-08-30T17:06:18Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "603f5dbc7f4a3472",
@@ -8339,8 +8349,13 @@
   "headline": "2 arrested after teacher killed in snatching attempt near Parliament",
   "topic": "teacher death snatching investigation",
   "source": "Dhaka Tribune, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-30T17:06:18Z"
+  "status": "failed",
+  "at": "2026-08-30T17:06:18Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "597b91844735ac59",
@@ -8348,8 +8363,13 @@
   "headline": "2 arrested after teacher killed in snatching attempt near Parliament",
   "topic": "teacher death snatching investigation",
   "source": "Dhaka Tribune, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-30T17:06:18Z"
+  "status": "failed",
+  "at": "2026-08-30T17:06:18Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "93e2d7938e84237b",
@@ -8357,8 +8377,13 @@
   "headline": "Patuakhali man ‘sells’ 18-month-old son to buy iPhone",
   "topic": "shocking crimes comilla patuakhali",
   "source": "Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-08-30T17:06:18Z"
+  "status": "failed",
+  "at": "2026-08-30T17:06:18Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "bb1c65fa4da72de8",
@@ -8366,7 +8391,12 @@
   "headline": "Patuakhali man ‘sells’ 18-month-old son to buy iPhone",
   "topic": "shocking crimes comilla patuakhali",
   "source": "Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-08-30T17:06:18Z"
+  "status": "failed",
+  "at": "2026-08-30T17:06:18Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
