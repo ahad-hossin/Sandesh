@@ -1,61 +1,5 @@
 [
  {
-  "title_hash": "bafca81faa6a3ee2",
-  "url": "https://www.prothomalo.com/video/sports/qxb5xnh149",
-  "headline": "BFF explores Brazil national team friendly in Dhaka this October",
-  "topic": "brazil football team dhaka friendly",
-  "source": "Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-08-24T14:07:14Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "f011df6b628e68d3",
-  "url": "https://www.thedailystar.net/news/education/news/ssc-2027-exam-routine-published-tests-begin-march-14-4255751",
-  "headline": "March 14: 2027 SSC exams to begin after schedule shift",
-  "topic": "ssc 2027 exam routine",
-  "source": "The Daily Star, Jamuna TV, Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-08-24T14:07:14Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "d95686eca9ea56ba",
-  "url": "https://www.jamuna.tv/campus/662734",
-  "headline": "March 14: 2027 SSC exams to begin after schedule shift",
-  "topic": "ssc 2027 exam routine",
-  "source": "The Daily Star, Jamuna TV, Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-08-24T14:07:14Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "cf290b7279b3034e",
-  "url": "https://www.dhakatribune.com/bangladesh/education/418217/2027-ssc-exams-rescheduled-to-start-march-14",
-  "headline": "March 14: 2027 SSC exams to begin after schedule shift",
-  "topic": "ssc 2027 exam routine",
-  "source": "The Daily Star, Jamuna TV, Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-08-24T14:07:14Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "48c2771fd356cb02",
   "url": "https://www.thedailystar.net/news/news/man-dies-after-alleged-mob-beating-dhakas-jatrabari-4255821",
   "headline": "Man beaten to death by mob in Dhaka's Jatrabari over mugging suspicion",
@@ -8398,5 +8342,41 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "03c9d8f603567a2c",
+  "url": "https://www.dhakatribune.com/bangladesh/crime/418654/%E2%80%98one-person%E2%80%99s-involvement-found-in-sagar-runi",
+  "headline": "New lead in Sagar-Runi case: Cultural figure linked to murders after 14 years",
+  "topic": "sagar-runi murder new lead",
+  "source": "Dhaka Tribune, Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-30T13:06:27Z"
+ },
+ {
+  "title_hash": "9f1118be71637627",
+  "url": "https://www.prothomalo.com/bangladesh/7gheomwazj",
+  "headline": "New lead in Sagar-Runi case: Cultural figure linked to murders after 14 years",
+  "topic": "sagar-runi murder new lead",
+  "source": "Dhaka Tribune, Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-30T13:06:27Z"
+ },
+ {
+  "title_hash": "3b88576f5bf4b74b",
+  "url": "https://www.dhakatribune.com/bangladesh/corruption/418685/acc-summons-ex-army-chief-shafiuddin-ahmed",
+  "headline": "ACC summons ex-army chief Shafiuddin Ahmed over corruption allegations",
+  "topic": "acc summons shafiuddin ahmed",
+  "source": "Dhaka Tribune, Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-30T13:06:27Z"
+ },
+ {
+  "title_hash": "811a9370c52dd266",
+  "url": "https://www.prothomalo.com/bangladesh/d7wl4oexsy",
+  "headline": "ACC summons ex-army chief Shafiuddin Ahmed over corruption allegations",
+  "topic": "acc summons shafiuddin ahmed",
+  "source": "Dhaka Tribune, Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-30T13:06:27Z"
  }
 ]
