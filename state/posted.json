@@ -1,61 +1,5 @@
 [
  {
-  "title_hash": "fe202ef929dd721f",
-  "url": "https://www.prothomalo.com/bangladesh/district/a371rpfl9o",
-  "headline": "Nusrat murder case: HC confirms 2 death sentences, acquits 10",
-  "topic": "nusrat murder case verdict",
-  "source": "Dhaka Tribune, The Daily Star, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-24T10:07:10Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "7a3c473012da3ef6",
-  "url": "https://www.prothomalo.com/bangladesh/tr2ae2d1h9",
-  "headline": "Nusrat murder case: HC confirms 2 death sentences, acquits 10",
-  "topic": "nusrat murder case verdict",
-  "source": "Dhaka Tribune, The Daily Star, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-24T10:07:10Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "3b1447158045f9f0",
-  "url": "https://www.thedailystar.net/news/politics/news/bnp-government-has-failed-first-180-days-ncp-4255586",
-  "headline": "NCP claims BNP government has completely failed in first 180 days",
-  "topic": "nahid islam bnp government failure",
-  "source": "Prothom Alo, The Daily Star, Jamuna TV",
-  "status": "failed",
-  "at": "2026-08-24T10:07:10Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "087ee21855e74945",
-  "url": "https://www.prothomalo.com/politics/l4g48g9ntx",
-  "headline": "NCP claims BNP government has completely failed in first 180 days",
-  "topic": "nahid islam bnp government failure",
-  "source": "Prothom Alo, The Daily Star, Jamuna TV",
-  "status": "failed",
-  "at": "2026-08-24T10:07:10Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "96f33dfcb01bba20",
   "url": "https://www.jamuna.tv/politics/662725",
   "headline": "NCP claims BNP government has completely failed in first 180 days",
@@ -8398,5 +8342,41 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "64ce87e5bbfab0ff",
+  "url": "https://www.jamuna.tv/national/663067",
+  "headline": "Malaysia to recruit 2 lakh Bangladeshi workers starting September",
+  "topic": "malaysia-labor-migration-200k",
+  "source": "Jamuna TV, Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-30T07:06:28Z"
+ },
+ {
+  "title_hash": "2dd7e47b31a54b57",
+  "url": "https://www.prothomalo.com/bangladesh/aeszx6glug",
+  "headline": "Malaysia to recruit 2 lakh Bangladeshi workers starting September",
+  "topic": "malaysia-labor-migration-200k",
+  "source": "Jamuna TV, Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-30T07:06:28Z"
+ },
+ {
+  "title_hash": "c2e0a33c9eaf12a6",
+  "url": "https://www.thedailystar.net/news/crime-justice/news/two-arrested-over-headteachers-death-mugging-incident-near-parliament-4260086",
+  "headline": "Two arrested after headteacher dies in mugging near Parliament",
+  "topic": "teacher-death-mugging-parliament",
+  "source": "Jamuna TV, The Daily Star",
+  "status": "queued",
+  "at": "2026-08-30T07:06:28Z"
+ },
+ {
+  "title_hash": "994a1b00b3ffa0cf",
+  "url": "https://www.jamuna.tv/national/663073",
+  "headline": "Two arrested after headteacher dies in mugging near Parliament",
+  "topic": "teacher-death-mugging-parliament",
+  "source": "Jamuna TV, The Daily Star",
+  "status": "queued",
+  "at": "2026-08-30T07:06:28Z"
  }
 ]
