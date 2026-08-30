@@ -8377,8 +8377,13 @@
   "headline": "Crore Taka computer, 30 lakh software for village road repair sparks controversy",
   "topic": "village road repair corruption",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-30T02:06:46Z"
+  "status": "failed",
+  "at": "2026-08-30T02:06:46Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "d3834373d0328b61",
@@ -8386,7 +8391,12 @@
   "headline": "PM calls for global unity to prosecute enforced disappearances, labels it a crime against humanity",
   "topic": "PM calls for war crimes justice unity",
   "source": "Jamuna TV",
-  "status": "queued",
-  "at": "2026-08-30T02:06:46Z"
+  "status": "failed",
+  "at": "2026-08-30T02:06:46Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
