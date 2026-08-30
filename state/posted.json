@@ -1,47 +1,5 @@
 [
  {
-  "title_hash": "0732e33b6b45f128",
-  "url": "https://www.jamuna.tv/national/662723",
-  "headline": "Nusrat murder case: HC confirms 2 death sentences, acquits 10",
-  "topic": "nusrat murder case verdict",
-  "source": "Dhaka Tribune, The Daily Star, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-24T10:07:10Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "0b55891d1d78e1f9",
-  "url": "https://www.jamuna.tv/national/662715",
-  "headline": "Nusrat murder case: HC confirms 2 death sentences, acquits 10",
-  "topic": "nusrat murder case verdict",
-  "source": "Dhaka Tribune, The Daily Star, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-24T10:07:10Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "be203172f6f52dff",
-  "url": "https://www.jamuna.tv/national/662710",
-  "headline": "Nusrat murder case: HC confirms 2 death sentences, acquits 10",
-  "topic": "nusrat murder case verdict",
-  "source": "Dhaka Tribune, The Daily Star, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-24T10:07:10Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "fe202ef929dd721f",
   "url": "https://www.prothomalo.com/bangladesh/district/a371rpfl9o",
   "headline": "Nusrat murder case: HC confirms 2 death sentences, acquits 10",
@@ -8398,5 +8356,32 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "64ce87e5bbfab0ff",
+  "url": "https://www.jamuna.tv/national/663067",
+  "headline": "Malaysia to recruit 200,000 Bangladeshi workers starting September",
+  "topic": "malaysia-recruits-bangladeshi-workers",
+  "source": "Jamuna TV",
+  "status": "queued",
+  "at": "2026-08-30T06:06:21Z"
+ },
+ {
+  "title_hash": "60ad0e093a5e8fde",
+  "url": "https://www.thedailystar.net/culture/entertainment/news/tasnuva-tisha-survives-road-accident-way-back-shoot-4260021",
+  "headline": "Actress Tasnuva Tisha survives road accident near Bhairab",
+  "topic": "actress-tisha-road-accident",
+  "source": "Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-08-30T06:06:21Z"
+ },
+ {
+  "title_hash": "24179feae089acad",
+  "url": "https://www.prothomalo.com/entertainment/tv/2jxwch65qj",
+  "headline": "Actress Tasnuva Tisha survives road accident near Bhairab",
+  "topic": "actress-tisha-road-accident",
+  "source": "Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-08-30T06:06:21Z"
  }
 ]
