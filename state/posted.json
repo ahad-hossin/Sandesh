@@ -1,89 +1,5 @@
 [
  {
-  "title_hash": "96f33dfcb01bba20",
-  "url": "https://www.jamuna.tv/politics/662725",
-  "headline": "NCP claims BNP government has completely failed in first 180 days",
-  "topic": "nahid islam bnp government failure",
-  "source": "Prothom Alo, The Daily Star, Jamuna TV",
-  "status": "failed",
-  "at": "2026-08-24T10:07:10Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "149127ace6e6d1e7",
-  "url": "https://www.thedailystar.net/news/politics/news/11-party-alliance-says-public-trust-govt-has-hit-rock-bottom-4255351",
-  "headline": "NCP claims BNP government has completely failed in first 180 days",
-  "topic": "nahid islam bnp government failure",
-  "source": "Prothom Alo, The Daily Star, Jamuna TV",
-  "status": "failed",
-  "at": "2026-08-24T10:07:10Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "cf290b7279b3034e",
-  "url": "https://www.dhakatribune.com/bangladesh/education/418217/2027-ssc-exams-rescheduled-to-start-march-14",
-  "headline": "March 14: 2027 SSC exams rescheduled to start",
-  "topic": "2027 ssc exams rescheduled",
-  "source": "Dhaka Tribune, Jamuna TV",
-  "status": "failed",
-  "at": "2026-08-24T11:07:10Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "d95686eca9ea56ba",
-  "url": "https://www.jamuna.tv/campus/662734",
-  "headline": "March 14: 2027 SSC exams rescheduled to start",
-  "topic": "2027 ssc exams rescheduled",
-  "source": "Dhaka Tribune, Jamuna TV",
-  "status": "failed",
-  "at": "2026-08-24T11:07:10Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "67cdcba41b9fb05f",
-  "url": "https://www.dhakatribune.com/bangladesh/health/418216/measles-death-toll-stands-at-938-as-5-more",
-  "headline": "938 children dead as measles death toll rises in Bangladesh",
-  "topic": "measles death toll rises",
-  "source": "Dhaka Tribune, Jamuna TV",
-  "status": "failed",
-  "at": "2026-08-24T11:07:10Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "b83cf7735d777235",
-  "url": "https://www.jamuna.tv/national/662732",
-  "headline": "938 children dead as measles death toll rises in Bangladesh",
-  "topic": "measles death toll rises",
-  "source": "Dhaka Tribune, Jamuna TV",
-  "status": "failed",
-  "at": "2026-08-24T11:07:10Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "42c9173319bd24e9",
   "url": "https://www.dhakatribune.com/bangladesh/politics/418235/nahid-islam-government-has-completely-failed-in",
   "headline": "NCP's Nahid Islam: Government has completely failed in first 180 days",
@@ -8398,5 +8314,59 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "59c96b0820d272da",
+  "url": "https://www.dhakatribune.com/bangladesh/court/418649/writ-challenges-district-based-allocation-of",
+  "headline": "11 Jamaat MPs challenge district-wise duties for ministers in High Court",
+  "topic": "writ challenges ministers district duties",
+  "source": "Dhaka Tribune, The Daily Star, Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-30T08:06:34Z"
+ },
+ {
+  "title_hash": "f6590e7da48859d2",
+  "url": "https://www.thedailystar.net/news/governance/news/11-jamaat-mps-challenge-district-wise-duties-ministers-4260091",
+  "headline": "11 Jamaat MPs challenge district-wise duties for ministers in High Court",
+  "topic": "writ challenges ministers district duties",
+  "source": "Dhaka Tribune, The Daily Star, Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-30T08:06:34Z"
+ },
+ {
+  "title_hash": "cf03d96d5610978e",
+  "url": "https://www.prothomalo.com/bangladesh/msdakmzv12",
+  "headline": "11 Jamaat MPs challenge district-wise duties for ministers in High Court",
+  "topic": "writ challenges ministers district duties",
+  "source": "Dhaka Tribune, The Daily Star, Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-30T08:06:34Z"
+ },
+ {
+  "title_hash": "c2e0a33c9eaf12a6",
+  "url": "https://www.thedailystar.net/news/crime-justice/news/two-arrested-over-headteachers-death-mugging-incident-near-parliament-4260086",
+  "headline": "Two arrested over headteacher’s death in mugging near parliament",
+  "topic": "headteacher death mugging",
+  "source": "The Daily Star, Jamuna TV",
+  "status": "queued",
+  "at": "2026-08-30T08:06:34Z"
+ },
+ {
+  "title_hash": "994a1b00b3ffa0cf",
+  "url": "https://www.jamuna.tv/national/663073",
+  "headline": "Two arrested over headteacher’s death in mugging near parliament",
+  "topic": "headteacher death mugging",
+  "source": "The Daily Star, Jamuna TV",
+  "status": "queued",
+  "at": "2026-08-30T08:06:34Z"
+ },
+ {
+  "title_hash": "7a84e7d0bf47335d",
+  "url": "https://www.thedailystar.net/news/crime-justice/news/woman-dies-after-muggers-snatch-her-bag-rickshaw-4259856",
+  "headline": "Two arrested over headteacher’s death in mugging near parliament",
+  "topic": "headteacher death mugging",
+  "source": "The Daily Star, Jamuna TV",
+  "status": "queued",
+  "at": "2026-08-30T08:06:34Z"
  }
 ]
