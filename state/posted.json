@@ -8335,8 +8335,13 @@
   "headline": "Father and brother of prime accused in Rangpur 4-murder case released after DIB questioning",
   "topic": "rangpur killings siddhartha family",
   "source": "Jamuna TV, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-08-30T01:09:57Z"
+  "status": "failed",
+  "at": "2026-08-30T01:09:57Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "b9eab9e5a33b2f55",
@@ -8344,8 +8349,13 @@
   "headline": "Father and brother of prime accused in Rangpur 4-murder case released after DIB questioning",
   "topic": "rangpur killings siddhartha family",
   "source": "Jamuna TV, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-08-30T01:09:57Z"
+  "status": "failed",
+  "at": "2026-08-30T01:09:57Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "630b840dcbc5a3ca",
@@ -8353,8 +8363,13 @@
   "headline": "PM Tarique Rahman calls for global unity against enforced disappearances, accountability",
   "topic": "pm calls unity crimes against humanity",
   "source": "Jamuna TV, The Daily Star, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-08-30T01:09:57Z"
+  "status": "failed",
+  "at": "2026-08-30T01:09:57Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "d3834373d0328b61",
@@ -8362,8 +8377,13 @@
   "headline": "PM Tarique Rahman calls for global unity against enforced disappearances, accountability",
   "topic": "pm calls unity crimes against humanity",
   "source": "Jamuna TV, The Daily Star, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-08-30T01:09:57Z"
+  "status": "failed",
+  "at": "2026-08-30T01:09:57Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "581cfe9f9d8a2410",
@@ -8371,7 +8391,12 @@
   "headline": "PM Tarique Rahman calls for global unity against enforced disappearances, accountability",
   "topic": "pm calls unity crimes against humanity",
   "source": "Jamuna TV, The Daily Star, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-08-30T01:09:57Z"
+  "status": "failed",
+  "at": "2026-08-30T01:09:57Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
