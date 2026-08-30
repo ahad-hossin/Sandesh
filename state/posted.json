@@ -8321,8 +8321,13 @@
   "headline": "Malaysia to hire 200,000 Bangladeshi workers in next six months",
   "topic": "malaysia hire 200k bangladeshi workers",
   "source": "The Daily Star, Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-30T10:06:43Z"
+  "status": "failed",
+  "at": "2026-08-30T10:06:43Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "64ce87e5bbfab0ff",
@@ -8330,8 +8335,13 @@
   "headline": "Malaysia to hire 200,000 Bangladeshi workers in next six months",
   "topic": "malaysia hire 200k bangladeshi workers",
   "source": "The Daily Star, Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-30T10:06:43Z"
+  "status": "failed",
+  "at": "2026-08-30T10:06:43Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "2dd7e47b31a54b57",
@@ -8339,8 +8349,13 @@
   "headline": "Malaysia to hire 200,000 Bangladeshi workers in next six months",
   "topic": "malaysia hire 200k bangladeshi workers",
   "source": "The Daily Star, Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-30T10:06:43Z"
+  "status": "failed",
+  "at": "2026-08-30T10:06:43Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "12352f06c8b8ce3c",
@@ -8348,8 +8363,13 @@
   "headline": "Dhaka to ban battery-powered rickshaws on main roads to curb traffic",
   "topic": "dhaka battery rickshaw ban",
   "source": "Dhaka Tribune, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-30T10:06:43Z"
+  "status": "failed",
+  "at": "2026-08-30T10:06:43Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "26f8038333d32735",
@@ -8357,8 +8377,13 @@
   "headline": "Dhaka to ban battery-powered rickshaws on main roads to curb traffic",
   "topic": "dhaka battery rickshaw ban",
   "source": "Dhaka Tribune, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-30T10:06:43Z"
+  "status": "failed",
+  "at": "2026-08-30T10:06:43Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "b4a7bbc00f6fa38b",
@@ -8366,7 +8391,12 @@
   "headline": "Dhaka to ban battery-powered rickshaws on main roads to curb traffic",
   "topic": "dhaka battery rickshaw ban",
   "source": "Dhaka Tribune, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-30T10:06:43Z"
+  "status": "failed",
+  "at": "2026-08-30T10:06:43Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
