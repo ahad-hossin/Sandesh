@@ -8349,8 +8349,13 @@
   "headline": "Malaysia to recruit 2 lakh Bangladeshi workers starting September",
   "topic": "malaysia-labor-migration-200k",
   "source": "Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-30T07:06:28Z"
+  "status": "failed",
+  "at": "2026-08-30T07:06:28Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "2dd7e47b31a54b57",
@@ -8358,8 +8363,13 @@
   "headline": "Malaysia to recruit 2 lakh Bangladeshi workers starting September",
   "topic": "malaysia-labor-migration-200k",
   "source": "Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-30T07:06:28Z"
+  "status": "failed",
+  "at": "2026-08-30T07:06:28Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "c2e0a33c9eaf12a6",
@@ -8367,8 +8377,13 @@
   "headline": "Two arrested after headteacher dies in mugging near Parliament",
   "topic": "teacher-death-mugging-parliament",
   "source": "Jamuna TV, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-30T07:06:28Z"
+  "status": "failed",
+  "at": "2026-08-30T07:06:28Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "994a1b00b3ffa0cf",
@@ -8376,7 +8391,12 @@
   "headline": "Two arrested after headteacher dies in mugging near Parliament",
   "topic": "teacher-death-mugging-parliament",
   "source": "Jamuna TV, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-30T07:06:28Z"
+  "status": "failed",
+  "at": "2026-08-30T07:06:28Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
