@@ -8349,8 +8349,13 @@
   "headline": "New lead in Sagar-Runi case: Cultural figure linked to murders after 14 years",
   "topic": "sagar-runi murder new lead",
   "source": "Dhaka Tribune, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-30T13:06:27Z"
+  "status": "failed",
+  "at": "2026-08-30T13:06:27Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "9f1118be71637627",
@@ -8358,8 +8363,13 @@
   "headline": "New lead in Sagar-Runi case: Cultural figure linked to murders after 14 years",
   "topic": "sagar-runi murder new lead",
   "source": "Dhaka Tribune, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-30T13:06:27Z"
+  "status": "failed",
+  "at": "2026-08-30T13:06:27Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "3b88576f5bf4b74b",
@@ -8367,8 +8377,13 @@
   "headline": "ACC summons ex-army chief Shafiuddin Ahmed over corruption allegations",
   "topic": "acc summons shafiuddin ahmed",
   "source": "Dhaka Tribune, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-30T13:06:27Z"
+  "status": "failed",
+  "at": "2026-08-30T13:06:27Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "811a9370c52dd266",
@@ -8376,7 +8391,12 @@
   "headline": "ACC summons ex-army chief Shafiuddin Ahmed over corruption allegations",
   "topic": "acc summons shafiuddin ahmed",
   "source": "Dhaka Tribune, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-30T13:06:27Z"
+  "status": "failed",
+  "at": "2026-08-30T13:06:27Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
