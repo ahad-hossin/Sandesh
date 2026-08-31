@@ -8335,8 +8335,13 @@
   "headline": "Iran claims missile attacks on US bases in Jordan in response to US strike on Larak Island",
   "topic": "US-Iran conflict escalates",
   "source": "Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-31T01:08:15Z"
+  "status": "failed",
+  "at": "2026-08-31T01:08:15Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "8bd22a9a90db2c7a",
@@ -8344,8 +8349,13 @@
   "headline": "Iran claims missile attacks on US bases in Jordan in response to US strike on Larak Island",
   "topic": "US-Iran conflict escalates",
   "source": "Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-31T01:08:15Z"
+  "status": "failed",
+  "at": "2026-08-31T01:08:15Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "ccf3dd0b02112609",
@@ -8353,8 +8363,13 @@
   "headline": "Iran claims missile attacks on US bases in Jordan in response to US strike on Larak Island",
   "topic": "US-Iran conflict escalates",
   "source": "Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-31T01:08:15Z"
+  "status": "failed",
+  "at": "2026-08-31T01:08:15Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "f67882f7c331c253",
@@ -8362,8 +8377,13 @@
   "headline": "Iran claims missile attacks on US bases in Jordan in response to US strike on Larak Island",
   "topic": "US-Iran conflict escalates",
   "source": "Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-31T01:08:15Z"
+  "status": "failed",
+  "at": "2026-08-31T01:08:15Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "bc6a91c57530d5d2",
@@ -8371,7 +8391,12 @@
   "headline": "US-Israel war on Iran backfires, cornering Trump and Netanyahu politically",
   "topic": "US-Iran-Israel war analysis",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-31T01:08:15Z"
+  "status": "failed",
+  "at": "2026-08-31T01:08:15Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
