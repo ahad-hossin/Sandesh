@@ -1,75 +1,5 @@
 [
  {
-  "title_hash": "43c098be1034ac74",
-  "url": "https://www.jamuna.tv/national/662782",
-  "headline": "Bangladesh preparing to buy Chinese J-10CE fighter jets",
-  "topic": "bangladesh buying china j-10ce fighter jets",
-  "source": "Jamuna TV",
-  "status": "failed",
-  "at": "2026-08-25T11:07:46Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "6702e595aec7a3ab",
-  "url": "https://www.dhakatribune.com/bangladesh/health/418314/five-more-die-of-suspected-measles",
-  "headline": "Measles outbreak: Death toll reaches 943 as 5 children die in 24 hours",
-  "topic": "measles outbreak death toll",
-  "source": "Dhaka Tribune, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-25T12:07:47Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "45cfbf081af45a00",
-  "url": "https://www.prothomalo.com/bangladesh/i0quupu5pd",
-  "headline": "Measles outbreak: Death toll reaches 943 as 5 children die in 24 hours",
-  "topic": "measles outbreak death toll",
-  "source": "Dhaka Tribune, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-25T12:07:47Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "8425c0034176cd0f",
-  "url": "https://www.dhakatribune.com/bangladesh/health/418316/dengue-3-more-die-as-907-cases-recorded-in-24",
-  "headline": "88 deaths so far as 3 die of dengue in 24 hours",
-  "topic": "dengue death toll",
-  "source": "Jamuna TV, Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-08-25T12:07:47Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "b0721b28416b9273",
-  "url": "https://www.jamuna.tv/national/662790",
-  "headline": "88 deaths so far as 3 die of dengue in 24 hours",
-  "topic": "dengue death toll",
-  "source": "Jamuna TV, Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-08-25T12:07:47Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "6b175c4890e9c8dd",
   "url": "https://www.prothomalo.com/bangladesh/tvh39epfda",
   "headline": "Govt buying Chinese J-10CE fighter jets for Air Force modernization",
@@ -8398,5 +8328,50 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "0b35365d885566b1",
+  "url": "https://www.jamuna.tv/international/663134",
+  "headline": "Iran claims missile attacks on US bases in Jordan in response to US strike on Larak Island",
+  "topic": "US-Iran conflict escalates",
+  "source": "Jamuna TV, Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-31T01:08:15Z"
+ },
+ {
+  "title_hash": "8bd22a9a90db2c7a",
+  "url": "https://www.jamuna.tv/international/663133",
+  "headline": "Iran claims missile attacks on US bases in Jordan in response to US strike on Larak Island",
+  "topic": "US-Iran conflict escalates",
+  "source": "Jamuna TV, Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-31T01:08:15Z"
+ },
+ {
+  "title_hash": "ccf3dd0b02112609",
+  "url": "https://www.prothomalo.com/world/middle-east/u919c3j866",
+  "headline": "Iran claims missile attacks on US bases in Jordan in response to US strike on Larak Island",
+  "topic": "US-Iran conflict escalates",
+  "source": "Jamuna TV, Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-31T01:08:15Z"
+ },
+ {
+  "title_hash": "f67882f7c331c253",
+  "url": "https://www.prothomalo.com/world/middle-east/ltfby4g3ag",
+  "headline": "Iran claims missile attacks on US bases in Jordan in response to US strike on Larak Island",
+  "topic": "US-Iran conflict escalates",
+  "source": "Jamuna TV, Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-31T01:08:15Z"
+ },
+ {
+  "title_hash": "bc6a91c57530d5d2",
+  "url": "https://www.prothomalo.com/world/middle-east/f4eccxjis8",
+  "headline": "US-Israel war on Iran backfires, cornering Trump and Netanyahu politically",
+  "topic": "US-Iran-Israel war analysis",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-31T01:08:15Z"
  }
 ]
