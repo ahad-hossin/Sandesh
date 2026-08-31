@@ -8321,8 +8321,13 @@
   "headline": "Nepal buries dead as thousands remain missing after deadly glacial flood",
   "topic": "Nepal flood disaster",
   "source": "The Daily Star, Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-31T04:06:57Z"
+  "status": "failed",
+  "at": "2026-08-31T04:06:57Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "125c29ce02dc8264",
@@ -8330,8 +8335,13 @@
   "headline": "Nepal buries dead as thousands remain missing after deadly glacial flood",
   "topic": "Nepal flood disaster",
   "source": "The Daily Star, Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-31T04:06:57Z"
+  "status": "failed",
+  "at": "2026-08-31T04:06:57Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "ac23d89bf2614d1f",
@@ -8339,8 +8349,13 @@
   "headline": "Nepal buries dead as thousands remain missing after deadly glacial flood",
   "topic": "Nepal flood disaster",
   "source": "The Daily Star, Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-31T04:06:57Z"
+  "status": "failed",
+  "at": "2026-08-31T04:06:57Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "7c6616f7da4e4d64",
@@ -8348,8 +8363,13 @@
   "headline": "Nepal buries dead as thousands remain missing after deadly glacial flood",
   "topic": "Nepal flood disaster",
   "source": "The Daily Star, Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-31T04:06:57Z"
+  "status": "failed",
+  "at": "2026-08-31T04:06:57Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "27c643e5d0d97128",
@@ -8357,8 +8377,13 @@
   "headline": "Three women died in Dhaka snatching incidents from moving vehicles in last six months",
   "topic": "Dhaka snatching incidents",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-31T04:06:57Z"
+  "status": "failed",
+  "at": "2026-08-31T04:06:57Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "b6396813fa5f7b1d",
@@ -8366,7 +8391,12 @@
   "headline": "Three women died in Dhaka snatching incidents from moving vehicles in last six months",
   "topic": "Dhaka snatching incidents",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-31T04:06:57Z"
+  "status": "failed",
+  "at": "2026-08-31T04:06:57Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
