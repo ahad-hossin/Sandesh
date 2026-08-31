@@ -1,47 +1,5 @@
 [
  {
-  "title_hash": "cfa25667d7437fe7",
-  "url": "https://www.dhakatribune.com/bangladesh/418289/hours-in-line-barely-enough-gas-for-one-trip",
-  "headline": "Fuel crisis: Hours in line, barely enough gas for one trip",
-  "topic": "cng-gas-crisis",
-  "source": "Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-08-25T10:07:57Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "8794d76a74c600c0",
-  "url": "https://www.thedailystar.net/news/bangladesh/news/fertiliser-prices-soar-amid-artificial-crisis-4256151",
-  "headline": "Farmers struggle as fertiliser prices soar amid artificial crisis",
-  "topic": "poultry feed and fertiliser price hike protest",
-  "source": "Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-08-25T11:07:46Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "97bef6f0fe04d36d",
-  "url": "https://www.prothomalo.com/bangladesh/district/ef7upg97bt",
-  "headline": "Farmers struggle as fertiliser prices soar amid artificial crisis",
-  "topic": "poultry feed and fertiliser price hike protest",
-  "source": "Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-08-25T11:07:46Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "43c098be1034ac74",
   "url": "https://www.jamuna.tv/national/662782",
   "headline": "Bangladesh preparing to buy Chinese J-10CE fighter jets",
@@ -8398,5 +8356,32 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "ccf3dd0b02112609",
+  "url": "https://www.prothomalo.com/world/middle-east/u919c3j866",
+  "headline": "Iran attacks US bases in Jordan after US strikes Larak Island; Jordan intercepts 8 missiles",
+  "topic": "iran us conflict",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-31T00:07:20Z"
+ },
+ {
+  "title_hash": "f67882f7c331c253",
+  "url": "https://www.prothomalo.com/world/middle-east/ltfby4g3ag",
+  "headline": "Iran attacks US bases in Jordan after US strikes Larak Island; Jordan intercepts 8 missiles",
+  "topic": "iran us conflict",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-31T00:07:20Z"
+ },
+ {
+  "title_hash": "fd4b50017e11add1",
+  "url": "https://www.prothomalo.com/bangladesh/bte6rqubp8",
+  "headline": "5-year-old Arif suffers from hydrocephalus with enlarged head, needs more surgery",
+  "topic": "child with macrocephaly",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-31T00:07:20Z"
  }
 ]
