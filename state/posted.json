@@ -8321,8 +8321,13 @@
   "headline": "2 million+ beneficiaries: New pay scale for govt employees to be implemented in 4 phases",
   "topic": "new pay scale cabinet",
   "source": "Jamuna TV",
-  "status": "queued",
-  "at": "2026-08-31T09:07:59Z"
+  "status": "failed",
+  "at": "2026-08-31T09:07:59Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "2f259f86b9c9a23a",
@@ -8330,8 +8335,13 @@
   "headline": "Friendship founder Runa Khan wins Ramon Magsaysay Award",
   "topic": "runa khan magsaysay award",
   "source": "Dhaka Tribune, Jamuna TV, The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-31T09:07:59Z"
+  "status": "failed",
+  "at": "2026-08-31T09:07:59Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "710ee814ab54c8ce",
@@ -8339,8 +8349,13 @@
   "headline": "Friendship founder Runa Khan wins Ramon Magsaysay Award",
   "topic": "runa khan magsaysay award",
   "source": "Dhaka Tribune, Jamuna TV, The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-31T09:07:59Z"
+  "status": "failed",
+  "at": "2026-08-31T09:07:59Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "0162916fb2e1cd00",
@@ -8348,8 +8363,13 @@
   "headline": "Friendship founder Runa Khan wins Ramon Magsaysay Award",
   "topic": "runa khan magsaysay award",
   "source": "Dhaka Tribune, Jamuna TV, The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-31T09:07:59Z"
+  "status": "failed",
+  "at": "2026-08-31T09:07:59Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "9dc0a714e4b8b112",
@@ -8357,8 +8377,13 @@
   "headline": "Friendship founder Runa Khan wins Ramon Magsaysay Award",
   "topic": "runa khan magsaysay award",
   "source": "Dhaka Tribune, Jamuna TV, The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-31T09:07:59Z"
+  "status": "failed",
+  "at": "2026-08-31T09:07:59Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "710ee814ab54c8ce",
@@ -8366,7 +8391,12 @@
   "headline": "Friendship founder Runa Khan wins Ramon Magsaysay Award",
   "topic": "runa khan magsaysay award",
   "source": "Dhaka Tribune, Jamuna TV, The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-31T09:07:59Z"
+  "status": "failed",
+  "at": "2026-08-31T09:07:59Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
