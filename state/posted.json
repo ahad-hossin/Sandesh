@@ -1,61 +1,5 @@
 [
  {
-  "title_hash": "6809e997d9bcb905",
-  "url": "https://www.prothomalo.com/video/bangladesh/5xh6lheop8",
-  "headline": "Ex-president's former wife Bidisha Siddique arrested in fraud case",
-  "topic": "bidisha siddique arrest",
-  "source": "Dhaka Tribune, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-25T20:06:45Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "222513df69ab82bc",
-  "url": "https://www.prothomalo.com/bangladesh/7ikvyuan5e",
-  "headline": "Ex-president's former wife Bidisha Siddique arrested in fraud case",
-  "topic": "bidisha siddique arrest",
-  "source": "Dhaka Tribune, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-25T20:06:45Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "3429ad7704288c81",
-  "url": "https://www.thedailystar.net/news/world/north-america/news/us-revoke-visas-200000-asylum-seekers-4257066",
-  "headline": "Up to 200,000 people: US to revoke visas of asylum seekers",
-  "topic": "us-canada-immigration-trade-crackdown",
-  "source": "The Daily Star",
-  "status": "failed",
-  "at": "2026-08-25T21:06:29Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "ec9d2793a810ddd8",
-  "url": "https://www.thedailystar.net/news/world/news/canada-unveils-15-50-us-goods-4257031",
-  "headline": "Up to 200,000 people: US to revoke visas of asylum seekers",
-  "topic": "us-canada-immigration-trade-crackdown",
-  "source": "The Daily Star",
-  "status": "failed",
-  "at": "2026-08-25T21:06:29Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "4e18f8d91b951071",
   "url": "https://www.dhakatribune.com/bangladesh/crime/418351/rangpur-killings-mortuary-attendant-claims-semen",
   "headline": "Rangpur: Four members of a teacher's family killed, funeral rites held",
@@ -8398,5 +8342,41 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "5732510083723071",
+  "url": "https://www.jamuna.tv/all-bangladesh/663179",
+  "headline": "Workers block Dhaka-Sylhet highway to demand Ashuganj Fertilizer Factory restart",
+  "topic": "ashuganj-fertilizer-factory-protest",
+  "source": "Jamuna TV",
+  "status": "queued",
+  "at": "2026-08-31T11:06:30Z"
+ },
+ {
+  "title_hash": "de3958197ba63970",
+  "url": "https://www.jamuna.tv/all-bangladesh/663149",
+  "headline": "Workers block Dhaka-Sylhet highway to demand Ashuganj Fertilizer Factory restart",
+  "topic": "ashuganj-fertilizer-factory-protest",
+  "source": "Jamuna TV",
+  "status": "queued",
+  "at": "2026-08-31T11:06:30Z"
+ },
+ {
+  "title_hash": "7a577a9e458ed4ea",
+  "url": "https://www.jamuna.tv/economy/663176",
+  "headline": "Fuel prices remain unchanged for September",
+  "topic": "fuel-gold-price-update",
+  "source": "Jamuna TV",
+  "status": "queued",
+  "at": "2026-08-31T11:06:30Z"
+ },
+ {
+  "title_hash": "fdc9f9993382b63c",
+  "url": "https://www.jamuna.tv/economy/663154",
+  "headline": "Fuel prices remain unchanged for September",
+  "topic": "fuel-gold-price-update",
+  "source": "Jamuna TV",
+  "status": "queued",
+  "at": "2026-08-31T11:06:30Z"
  }
 ]
