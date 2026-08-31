@@ -1,33 +1,5 @@
 [
  {
-  "title_hash": "6b175c4890e9c8dd",
-  "url": "https://www.prothomalo.com/bangladesh/tvh39epfda",
-  "headline": "Govt buying Chinese J-10CE fighter jets for Air Force modernization",
-  "topic": "bangladesh buys chinese j-10ce fighter jets",
-  "source": "Prothom Alo, Jamuna TV",
-  "status": "failed",
-  "at": "2026-08-25T13:06:20Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "43c098be1034ac74",
-  "url": "https://www.jamuna.tv/national/662782",
-  "headline": "Govt buying Chinese J-10CE fighter jets for Air Force modernization",
-  "topic": "bangladesh buys chinese j-10ce fighter jets",
-  "source": "Prothom Alo, Jamuna TV",
-  "status": "failed",
-  "at": "2026-08-25T13:06:20Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "a4fb30af795b6b5a",
   "url": "https://www.thedailystar.net/news/bangladesh/rights/news/state-ministers-response-citizenship-question-echoes-ousted-regimes-shoot-the-messenger-approach-tib-4256516",
   "headline": "TIB: State minister's response to citizenship query echoes ousted regime",
@@ -8398,5 +8370,23 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "e1cc78ee6e8c0b42",
+  "url": "https://www.thedailystar.net/news/bangladesh/news/malaysia-hire-200000-bangladeshi-workers-six-months-4260906",
+  "headline": "Malaysia to hire 200,000 Bangladeshi workers in six months, 10,000 free of cost",
+  "topic": "Malaysia to hire 200k Bangladeshi workers",
+  "source": "The Daily Star",
+  "status": "queued",
+  "at": "2026-08-31T02:07:28Z"
+ },
+ {
+  "title_hash": "d974415700ae185b",
+  "url": "https://www.jamuna.tv/national/663135",
+  "headline": "Bangladesh to buy billion-dollar Boeing aircraft, US envoy calls deal 'extraordinary'",
+  "topic": "Bangladesh to buy Boeing aircraft",
+  "source": "Jamuna TV",
+  "status": "queued",
+  "at": "2026-08-31T02:07:28Z"
  }
 ]
