@@ -8321,8 +8321,13 @@
   "headline": "HC upholds death sentence for rape and murder of 8-year-old",
   "topic": "magura-child-rape-murder-death-sentence",
   "source": "Dhaka Tribune, Prothom Alo, Jamuna TV, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-31T07:07:19Z"
+  "status": "failed",
+  "at": "2026-08-31T07:07:19Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "108bda522ac75ea7",
@@ -8330,8 +8335,13 @@
   "headline": "HC upholds death sentence for rape and murder of 8-year-old",
   "topic": "magura-child-rape-murder-death-sentence",
   "source": "Dhaka Tribune, Prothom Alo, Jamuna TV, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-31T07:07:19Z"
+  "status": "failed",
+  "at": "2026-08-31T07:07:19Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "6d1dfadbbbc2d1c8",
@@ -8339,8 +8349,13 @@
   "headline": "HC upholds death sentence for rape and murder of 8-year-old",
   "topic": "magura-child-rape-murder-death-sentence",
   "source": "Dhaka Tribune, Prothom Alo, Jamuna TV, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-31T07:07:19Z"
+  "status": "failed",
+  "at": "2026-08-31T07:07:19Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "9d53bffe7def91d5",
@@ -8348,8 +8363,13 @@
   "headline": "HC upholds death sentence for rape and murder of 8-year-old",
   "topic": "magura-child-rape-murder-death-sentence",
   "source": "Dhaka Tribune, Prothom Alo, Jamuna TV, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-31T07:07:19Z"
+  "status": "failed",
+  "at": "2026-08-31T07:07:19Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "125aae06d0eb54d7",
@@ -8357,8 +8377,13 @@
   "headline": "HC upholds death sentence for rape and murder of 8-year-old",
   "topic": "magura-child-rape-murder-death-sentence",
   "source": "Dhaka Tribune, Prothom Alo, Jamuna TV, The Daily Star",
-  "status": "queued",
-  "at": "2026-08-31T07:07:19Z"
+  "status": "failed",
+  "at": "2026-08-31T07:07:19Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "f64d759ce7581a95",
@@ -8366,7 +8391,12 @@
   "headline": "Gold prices drop by up to 4,474 taka per bhori in Bangladesh",
   "topic": "gold-price-drop",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-31T07:07:19Z"
+  "status": "failed",
+  "at": "2026-08-31T07:07:19Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
