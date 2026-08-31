@@ -1,33 +1,5 @@
 [
  {
-  "title_hash": "a4fb30af795b6b5a",
-  "url": "https://www.thedailystar.net/news/bangladesh/rights/news/state-ministers-response-citizenship-question-echoes-ousted-regimes-shoot-the-messenger-approach-tib-4256516",
-  "headline": "TIB: State minister's response to citizenship query echoes ousted regime",
-  "topic": "tib condemns state minister citizenship response",
-  "source": "The Daily Star, Jamuna TV, Dhaka Tribune, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-25T13:06:20Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "a3f45879a5993b34",
-  "url": "https://www.jamuna.tv/national/662788",
-  "headline": "TIB: State minister's response to citizenship query echoes ousted regime",
-  "topic": "tib condemns state minister citizenship response",
-  "source": "The Daily Star, Jamuna TV, Dhaka Tribune, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-25T13:06:20Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "1193185221fe1bd2",
   "url": "https://www.dhakatribune.com/bangladesh/418312/tib-condemns-state-minister%E2%80%99s-%E2%80%98shoot-the",
   "headline": "TIB: State minister's response to citizenship query echoes ousted regime",
@@ -8398,5 +8370,23 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "8a8a39158c15edca",
+  "url": "https://www.prothomalo.com/bangladesh/iru0ipvq61",
+  "headline": "Dhaka Metro Rail cost to more than double to BDT 2.13 lakh crore; Bangladesh Bank halts Bangabandhu notes",
+  "topic": "metro rail cost increase",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-08-31T03:07:05Z"
+ },
+ {
+  "title_hash": "9d53bffe7def91d5",
+  "url": "https://www.jamuna.tv/national/663138",
+  "headline": "High Court to deliver verdict today in Ashia rape and murder case",
+  "topic": "child rape murder verdict",
+  "source": "Jamuna TV",
+  "status": "queued",
+  "at": "2026-08-31T03:07:05Z"
  }
 ]
