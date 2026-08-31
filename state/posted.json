@@ -8377,8 +8377,13 @@
   "headline": "Malaysia to hire 200,000 Bangladeshi workers in six months, 10,000 free of cost",
   "topic": "Malaysia to hire 200k Bangladeshi workers",
   "source": "The Daily Star",
-  "status": "queued",
-  "at": "2026-08-31T02:07:28Z"
+  "status": "failed",
+  "at": "2026-08-31T02:07:28Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "d974415700ae185b",
@@ -8386,7 +8391,12 @@
   "headline": "Bangladesh to buy billion-dollar Boeing aircraft, US envoy calls deal 'extraordinary'",
   "topic": "Bangladesh to buy Boeing aircraft",
   "source": "Jamuna TV",
-  "status": "queued",
-  "at": "2026-08-31T02:07:28Z"
+  "status": "failed",
+  "at": "2026-08-31T02:07:28Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
