@@ -8377,8 +8377,13 @@
   "headline": "Dhaka Metro Rail cost to more than double to BDT 2.13 lakh crore; Bangladesh Bank halts Bangabandhu notes",
   "topic": "metro rail cost increase",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-08-31T03:07:05Z"
+  "status": "failed",
+  "at": "2026-08-31T03:07:05Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "9d53bffe7def91d5",
@@ -8386,7 +8391,12 @@
   "headline": "High Court to deliver verdict today in Ashia rape and murder case",
   "topic": "child rape murder verdict",
   "source": "Jamuna TV",
-  "status": "queued",
-  "at": "2026-08-31T03:07:05Z"
+  "status": "failed",
+  "at": "2026-08-31T03:07:05Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
