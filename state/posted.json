@@ -8349,8 +8349,13 @@
   "headline": "Workers block Dhaka-Sylhet highway to demand Ashuganj Fertilizer Factory restart",
   "topic": "ashuganj-fertilizer-factory-protest",
   "source": "Jamuna TV",
-  "status": "queued",
-  "at": "2026-08-31T11:06:30Z"
+  "status": "failed",
+  "at": "2026-08-31T11:06:30Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "de3958197ba63970",
@@ -8358,8 +8363,13 @@
   "headline": "Workers block Dhaka-Sylhet highway to demand Ashuganj Fertilizer Factory restart",
   "topic": "ashuganj-fertilizer-factory-protest",
   "source": "Jamuna TV",
-  "status": "queued",
-  "at": "2026-08-31T11:06:30Z"
+  "status": "failed",
+  "at": "2026-08-31T11:06:30Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "7a577a9e458ed4ea",
@@ -8367,8 +8377,13 @@
   "headline": "Fuel prices remain unchanged for September",
   "topic": "fuel-gold-price-update",
   "source": "Jamuna TV",
-  "status": "queued",
-  "at": "2026-08-31T11:06:30Z"
+  "status": "failed",
+  "at": "2026-08-31T11:06:30Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "fdc9f9993382b63c",
@@ -8376,7 +8391,12 @@
   "headline": "Fuel prices remain unchanged for September",
   "topic": "fuel-gold-price-update",
   "source": "Jamuna TV",
-  "status": "queued",
-  "at": "2026-08-31T11:06:30Z"
+  "status": "failed",
+  "at": "2026-08-31T11:06:30Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
