@@ -8363,8 +8363,13 @@
   "headline": "Iran claims missile strike on US military barracks in Jordan",
   "topic": "iran-us-missile-attack",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-01T22:06:28Z"
+  "status": "failed",
+  "at": "2026-09-01T22:06:28Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "31c8bff8510ef9cd",
@@ -8372,8 +8377,13 @@
   "headline": "Iran claims missile strike on US military barracks in Jordan",
   "topic": "iran-us-missile-attack",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-01T22:06:28Z"
+  "status": "failed",
+  "at": "2026-09-01T22:06:28Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "6053d412d87a22a9",
@@ -8381,7 +8391,12 @@
   "headline": "Tawhid Hridoy hits double century abroad against South Africa 'A'",
   "topic": "hridoy-double-ton",
   "source": "The Daily Star",
-  "status": "queued",
-  "at": "2026-09-01T22:06:28Z"
+  "status": "failed",
+  "at": "2026-09-01T22:06:28Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
