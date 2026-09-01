@@ -1,47 +1,5 @@
 [
  {
-  "title_hash": "39ae95fae3112096",
-  "url": "https://www.prothomalo.com/politics/f9f42rk49a",
-  "headline": "No enforced disappearances or extrajudicial killings in last 6 months: Home Minister",
-  "topic": "enforced disappearances law and debate",
-  "source": "The Daily Star, Prothom Alo, Dhaka Tribune, Jamuna TV",
-  "status": "failed",
-  "at": "2026-08-29T21:06:39Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "f3faeee46ab91335",
-  "url": "https://www.prothomalo.com/video/bangladesh/rvzu1at7hx",
-  "headline": "No enforced disappearances or extrajudicial killings in last 6 months: Home Minister",
-  "topic": "enforced disappearances law and debate",
-  "source": "The Daily Star, Prothom Alo, Dhaka Tribune, Jamuna TV",
-  "status": "failed",
-  "at": "2026-08-29T21:06:39Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "12c18e1640ea7ded",
-  "url": "https://www.dhakatribune.com/bangladesh/nation/418622/home-minister-enforced-disappearance-victims-have",
-  "headline": "No enforced disappearances or extrajudicial killings in last 6 months: Home Minister",
-  "topic": "enforced disappearances law and debate",
-  "source": "The Daily Star, Prothom Alo, Dhaka Tribune, Jamuna TV",
-  "status": "failed",
-  "at": "2026-08-29T21:06:39Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "a8fe6e185dc0dc38",
   "url": "https://www.jamuna.tv/national/663047",
   "headline": "No enforced disappearances or extrajudicial killings in last 6 months: Home Minister",
@@ -8398,5 +8356,32 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "a5d9d8b87b63f84b",
+  "url": "https://www.prothomalo.com/world/middle-east/fx8afccp2k",
+  "headline": "Iran claims missile strike on US base in Jordan after US attacks",
+  "topic": "iran us missile attack",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-01T23:06:17Z"
+ },
+ {
+  "title_hash": "31c8bff8510ef9cd",
+  "url": "https://www.prothomalo.com/world/middle-east/tu9n15y1dc",
+  "headline": "Iran claims missile strike on US base in Jordan after US attacks",
+  "topic": "iran us missile attack",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-01T23:06:17Z"
+ },
+ {
+  "title_hash": "6053d412d87a22a9",
+  "url": "https://www.thedailystar.net/sports/cricket/news/hridoy-joins-shakib-mushfiqs-elite-list-double-ton-4262436",
+  "headline": "Tawhid Hridoy hits double century abroad in match vs South Africa 'A'",
+  "topic": "hridoy first class double ton",
+  "source": "The Daily Star",
+  "status": "queued",
+  "at": "2026-09-01T23:06:17Z"
  }
 ]
