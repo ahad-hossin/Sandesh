@@ -8307,8 +8307,13 @@
   "headline": "Tk 500 and 17 mins: NID data being sold online in Bangladesh",
   "topic": "nid data sold online",
   "source": "The Daily Star, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-09-01T15:06:47Z"
+  "status": "failed",
+  "at": "2026-09-01T15:06:47Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "d9385b98cfa925ea",
@@ -8316,8 +8321,13 @@
   "headline": "Tk 500 and 17 mins: NID data being sold online in Bangladesh",
   "topic": "nid data sold online",
   "source": "The Daily Star, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-09-01T15:06:47Z"
+  "status": "failed",
+  "at": "2026-09-01T15:06:47Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "613e527fcffb3172",
@@ -8325,8 +8335,13 @@
   "headline": "Trump expresses hope of meeting PM Tarique Rahman soon",
   "topic": "trump writes to tarique rahman",
   "source": "Prothom Alo, Jamuna TV, The Daily Star, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-09-01T15:06:47Z"
+  "status": "failed",
+  "at": "2026-09-01T15:06:47Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "b5dbf29ddcce094f",
@@ -8334,8 +8349,13 @@
   "headline": "Trump expresses hope of meeting PM Tarique Rahman soon",
   "topic": "trump writes to tarique rahman",
   "source": "Prothom Alo, Jamuna TV, The Daily Star, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-09-01T15:06:47Z"
+  "status": "failed",
+  "at": "2026-09-01T15:06:47Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "0d7c5946f6ff8cb9",
@@ -8343,8 +8363,13 @@
   "headline": "Trump expresses hope of meeting PM Tarique Rahman soon",
   "topic": "trump writes to tarique rahman",
   "source": "Prothom Alo, Jamuna TV, The Daily Star, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-09-01T15:06:47Z"
+  "status": "failed",
+  "at": "2026-09-01T15:06:47Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "4f40b7254c020978",
@@ -8352,8 +8377,13 @@
   "headline": "Trump expresses hope of meeting PM Tarique Rahman soon",
   "topic": "trump writes to tarique rahman",
   "source": "Prothom Alo, Jamuna TV, The Daily Star, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-09-01T15:06:47Z"
+  "status": "failed",
+  "at": "2026-09-01T15:06:47Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "1ba62f52f72bf800",
@@ -8361,7 +8391,12 @@
   "headline": "Trump expresses hope of meeting PM Tarique Rahman soon",
   "topic": "trump writes to tarique rahman",
   "source": "Prothom Alo, Jamuna TV, The Daily Star, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-09-01T15:06:47Z"
+  "status": "failed",
+  "at": "2026-09-01T15:06:47Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
