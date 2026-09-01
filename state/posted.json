@@ -1,47 +1,5 @@
 [
  {
-  "title_hash": "0e1197b35a689f5b",
-  "url": "https://www.thedailystar.net/news/bangladesh/news/no-enforced-disappearances-or-extrajudicial-killings-last-6-months-home-minister-4259736",
-  "headline": "61 days in a 4ft room: Home Minister Salahuddin Ahmed recalls his enforced disappearance",
-  "topic": "home-minister-enforced-disappearances",
-  "source": "Prothom Alo, Dhaka Tribune, The Daily Star",
-  "status": "failed",
-  "at": "2026-08-29T20:06:25Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "a37cade958f6a130",
-  "url": "https://www.dhakatribune.com/bangladesh/nation/418631/rangpur-killings-father-brother-of-prime-accused",
-  "headline": "Minority group claims police trying to hide truth in Rangpur family killings",
-  "topic": "rangpur-killings-investigation",
-  "source": "Prothom Alo, Dhaka Tribune, Jamuna TV",
-  "status": "failed",
-  "at": "2026-08-29T20:06:25Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "8413078678b27fd4",
-  "url": "https://www.prothomalo.com/bangladesh/capital/et1lws71mk",
-  "headline": "Minority group claims police trying to hide truth in Rangpur family killings",
-  "topic": "rangpur-killings-investigation",
-  "source": "Prothom Alo, Dhaka Tribune, Jamuna TV",
-  "status": "failed",
-  "at": "2026-08-29T20:06:25Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "3f8c5b26919c6cfe",
   "url": "https://www.prothomalo.com/bangladesh/district/u7avd3e6uz",
   "headline": "Minority group claims police trying to hide truth in Rangpur family killings",
@@ -8398,5 +8356,32 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "6053d412d87a22a9",
+  "url": "https://www.thedailystar.net/sports/cricket/news/hridoy-joins-shakib-mushfiqs-elite-list-double-ton-4262436",
+  "headline": "Tawhid Hridoy hits double century against South Africa 'A'",
+  "topic": "towhid hridoy double century",
+  "source": "The Daily Star, Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-01T20:06:28Z"
+ },
+ {
+  "title_hash": "b46c556edea623b0",
+  "url": "https://www.prothomalo.com/sports/cricket/oxi3vakxny",
+  "headline": "Tawhid Hridoy hits double century against South Africa 'A'",
+  "topic": "towhid hridoy double century",
+  "source": "The Daily Star, Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-01T20:06:28Z"
+ },
+ {
+  "title_hash": "8cf9db74d1532a10",
+  "url": "https://www.prothomalo.com/bangladesh/pzpx6cmllv",
+  "headline": "Power and Energy Minister Iqbal Hasan Mahmud admitted to hospital",
+  "topic": "fuel minister hospitalised",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-01T20:06:28Z"
  }
 ]
