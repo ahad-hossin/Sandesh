@@ -1,75 +1,5 @@
 [
  {
-  "title_hash": "27db34bd9ac37476",
-  "url": "https://www.jamuna.tv/national/663019",
-  "headline": "MP Hummam Kader Chowdhury: Draft law on enforced disappearances prevents agency self-investigation",
-  "topic": "enforced disappearances draft law",
-  "source": "Dhaka Tribune, Jamuna TV",
-  "status": "failed",
-  "at": "2026-08-29T12:07:06Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "6609d62dd9498a03",
-  "url": "https://www.dhakatribune.com/bangladesh/crime/418608/citizen-committee-raises-19-questions-over-police",
-  "headline": "Citizen committee raises 19 questions over police probe into Rangpur family killings",
-  "topic": "rangpur family murders probe",
-  "source": "Dhaka Tribune, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-29T13:06:30Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "0a117db956acaf83",
-  "url": "https://www.dhakatribune.com/bangladesh/nation/418610/two-police-accounts-19-questions-over-rangpur",
-  "headline": "Citizen committee raises 19 questions over police probe into Rangpur family killings",
-  "topic": "rangpur family murders probe",
-  "source": "Dhaka Tribune, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-29T13:06:30Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "f39eb3ce2040bdf0",
-  "url": "https://www.jamuna.tv/all-bangladesh/663037",
-  "headline": "Citizen committee raises 19 questions over police probe into Rangpur family killings",
-  "topic": "rangpur family murders probe",
-  "source": "Dhaka Tribune, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-29T13:06:30Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "a99a5fdbe7a5caf9",
-  "url": "https://www.jamuna.tv/all-bangladesh/663023",
-  "headline": "Citizen committee raises 19 questions over police probe into Rangpur family killings",
-  "topic": "rangpur family murders probe",
-  "source": "Dhaka Tribune, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-29T13:06:30Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "4c2f9ab4604db0f6",
   "url": "https://www.prothomalo.com/bangladesh/district/6jhe3dcrjm",
   "headline": "Citizen committee raises 19 questions over police probe into Rangpur family killings",
@@ -8398,5 +8328,50 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "1ba62f52f72bf800",
+  "url": "https://www.dhakatribune.com/bangladesh/foreign-affairs/418861/trump-looking-forward-to-meeting-pm-tarique-soon",
+  "headline": "US President Donald Trump hopes to meet PM Tarique soon",
+  "topic": "trump looks forward to meeting pm tarique",
+  "source": "Dhaka Tribune, Prothom Alo, Jamuna TV",
+  "status": "queued",
+  "at": "2026-09-01T13:06:23Z"
+ },
+ {
+  "title_hash": "b190826b69ec08af",
+  "url": "https://www.prothomalo.com/bangladesh/yze5udx07c",
+  "headline": "US President Donald Trump hopes to meet PM Tarique soon",
+  "topic": "trump looks forward to meeting pm tarique",
+  "source": "Dhaka Tribune, Prothom Alo, Jamuna TV",
+  "status": "queued",
+  "at": "2026-09-01T13:06:23Z"
+ },
+ {
+  "title_hash": "0d7c5946f6ff8cb9",
+  "url": "https://www.jamuna.tv/national/663263",
+  "headline": "US President Donald Trump hopes to meet PM Tarique soon",
+  "topic": "trump looks forward to meeting pm tarique",
+  "source": "Dhaka Tribune, Prothom Alo, Jamuna TV",
+  "status": "queued",
+  "at": "2026-09-01T13:06:23Z"
+ },
+ {
+  "title_hash": "d9385b98cfa925ea",
+  "url": "https://www.dhakatribune.com/bangladesh/418858/nid-call-records-and-location-are-being-sold",
+  "headline": "Privacy Alert: NID, call records and location data being sold online",
+  "topic": "citizen data sold online",
+  "source": "Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-09-01T13:06:23Z"
+ },
+ {
+  "title_hash": "fdf56db325ee57a5",
+  "url": "https://www.dhakatribune.com/bangladesh/418857/zahed-supporting-hasina-is-not-a-crime-unless-the",
+  "headline": "Privacy Alert: NID, call records and location data being sold online",
+  "topic": "citizen data sold online",
+  "source": "Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-09-01T13:06:23Z"
  }
 ]
