@@ -8307,8 +8307,13 @@
   "headline": "Trump: Looking forward to meeting PM Tarique soon",
   "topic": "trump thanks tarique for boeing purchase",
   "source": "Dhaka Tribune, Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-01T16:08:01Z"
+  "status": "failed",
+  "at": "2026-09-01T16:08:01Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "b5dbf29ddcce094f",
@@ -8316,8 +8321,13 @@
   "headline": "Trump: Looking forward to meeting PM Tarique soon",
   "topic": "trump thanks tarique for boeing purchase",
   "source": "Dhaka Tribune, Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-01T16:08:01Z"
+  "status": "failed",
+  "at": "2026-09-01T16:08:01Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "613e527fcffb3172",
@@ -8325,8 +8335,13 @@
   "headline": "Trump: Looking forward to meeting PM Tarique soon",
   "topic": "trump thanks tarique for boeing purchase",
   "source": "Dhaka Tribune, Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-01T16:08:01Z"
+  "status": "failed",
+  "at": "2026-09-01T16:08:01Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "4f40b7254c020978",
@@ -8334,8 +8349,13 @@
   "headline": "Trump: Looking forward to meeting PM Tarique soon",
   "topic": "trump thanks tarique for boeing purchase",
   "source": "Dhaka Tribune, Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-01T16:08:01Z"
+  "status": "failed",
+  "at": "2026-09-01T16:08:01Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "b190826b69ec08af",
@@ -8343,8 +8363,13 @@
   "headline": "Trump: Looking forward to meeting PM Tarique soon",
   "topic": "trump thanks tarique for boeing purchase",
   "source": "Dhaka Tribune, Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-01T16:08:01Z"
+  "status": "failed",
+  "at": "2026-09-01T16:08:01Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "3e24e1a0dceb7e69",
@@ -8352,8 +8377,13 @@
   "headline": "Tk 500 and 17 minutes: NID data being sold online",
   "topic": "nid and call records sold online",
   "source": "The Daily Star, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-09-01T16:08:01Z"
+  "status": "failed",
+  "at": "2026-09-01T16:08:01Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "d9385b98cfa925ea",
@@ -8361,7 +8391,12 @@
   "headline": "Tk 500 and 17 minutes: NID data being sold online",
   "topic": "nid and call records sold online",
   "source": "The Daily Star, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-09-01T16:08:01Z"
+  "status": "failed",
+  "at": "2026-09-01T16:08:01Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
