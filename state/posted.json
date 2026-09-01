@@ -8363,8 +8363,13 @@
   "headline": "Stormy winds and rain forecast for 6 districts by noon on September 1st, warns Met Office",
   "topic": "bangladesh thunderstorm forecast",
   "source": "Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-01T02:07:00Z"
+  "status": "failed",
+  "at": "2026-09-01T02:07:00Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "07907e3245b5d2ee",
@@ -8372,8 +8377,13 @@
   "headline": "Bangladesh approves largest pay hike since independence, doubling top salaries",
   "topic": "national pay scale approved",
   "source": "Dhaka Tribune, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-01T02:07:00Z"
+  "status": "failed",
+  "at": "2026-09-01T02:07:00Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "0822f3e245cfa993",
@@ -8381,7 +8391,12 @@
   "headline": "Bangladesh approves largest pay hike since independence, doubling top salaries",
   "topic": "national pay scale approved",
   "source": "Dhaka Tribune, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-01T02:07:00Z"
+  "status": "failed",
+  "at": "2026-09-01T02:07:00Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
