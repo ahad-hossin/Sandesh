@@ -8335,8 +8335,13 @@
   "headline": "US President Donald Trump hopes to meet PM Tarique soon",
   "topic": "trump looks forward to meeting pm tarique",
   "source": "Dhaka Tribune, Prothom Alo, Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-01T13:06:23Z"
+  "status": "failed",
+  "at": "2026-09-01T13:06:23Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "b190826b69ec08af",
@@ -8344,8 +8349,13 @@
   "headline": "US President Donald Trump hopes to meet PM Tarique soon",
   "topic": "trump looks forward to meeting pm tarique",
   "source": "Dhaka Tribune, Prothom Alo, Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-01T13:06:23Z"
+  "status": "failed",
+  "at": "2026-09-01T13:06:23Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "0d7c5946f6ff8cb9",
@@ -8353,8 +8363,13 @@
   "headline": "US President Donald Trump hopes to meet PM Tarique soon",
   "topic": "trump looks forward to meeting pm tarique",
   "source": "Dhaka Tribune, Prothom Alo, Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-01T13:06:23Z"
+  "status": "failed",
+  "at": "2026-09-01T13:06:23Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "d9385b98cfa925ea",
@@ -8362,8 +8377,13 @@
   "headline": "Privacy Alert: NID, call records and location data being sold online",
   "topic": "citizen data sold online",
   "source": "Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-09-01T13:06:23Z"
+  "status": "failed",
+  "at": "2026-09-01T13:06:23Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "fdf56db325ee57a5",
@@ -8371,7 +8391,12 @@
   "headline": "Privacy Alert: NID, call records and location data being sold online",
   "topic": "citizen data sold online",
   "source": "Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-09-01T13:06:23Z"
+  "status": "failed",
+  "at": "2026-09-01T13:06:23Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
