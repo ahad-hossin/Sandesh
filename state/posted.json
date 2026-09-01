@@ -8363,8 +8363,13 @@
   "headline": "Tawhid Hridoy hits double century against South Africa 'A'",
   "topic": "towhid hridoy double century",
   "source": "The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-01T20:06:28Z"
+  "status": "failed",
+  "at": "2026-09-01T20:06:28Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "b46c556edea623b0",
@@ -8372,8 +8377,13 @@
   "headline": "Tawhid Hridoy hits double century against South Africa 'A'",
   "topic": "towhid hridoy double century",
   "source": "The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-01T20:06:28Z"
+  "status": "failed",
+  "at": "2026-09-01T20:06:28Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "8cf9db74d1532a10",
@@ -8381,7 +8391,12 @@
   "headline": "Power and Energy Minister Iqbal Hasan Mahmud admitted to hospital",
   "topic": "fuel minister hospitalised",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-01T20:06:28Z"
+  "status": "failed",
+  "at": "2026-09-01T20:06:28Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
