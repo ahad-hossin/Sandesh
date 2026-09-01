@@ -1,33 +1,5 @@
 [
  {
-  "title_hash": "f3faeee46ab91335",
-  "url": "https://www.prothomalo.com/video/bangladesh/rvzu1at7hx",
-  "headline": "61 days in a 4ft room: Home Minister Salahuddin Ahmed recalls his enforced disappearance",
-  "topic": "home-minister-enforced-disappearances",
-  "source": "Prothom Alo, Dhaka Tribune, The Daily Star",
-  "status": "failed",
-  "at": "2026-08-29T20:06:25Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "24338b17d550a928",
-  "url": "https://www.prothomalo.com/bangladesh/qcadbq4xz7",
-  "headline": "61 days in a 4ft room: Home Minister Salahuddin Ahmed recalls his enforced disappearance",
-  "topic": "home-minister-enforced-disappearances",
-  "source": "Prothom Alo, Dhaka Tribune, The Daily Star",
-  "status": "failed",
-  "at": "2026-08-29T20:06:25Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "0e1197b35a689f5b",
   "url": "https://www.thedailystar.net/news/bangladesh/news/no-enforced-disappearances-or-extrajudicial-killings-last-6-months-home-minister-4259736",
   "headline": "61 days in a 4ft room: Home Minister Salahuddin Ahmed recalls his enforced disappearance",
@@ -8398,5 +8370,23 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "474b3b65ac544a0d",
+  "url": "https://www.thedailystar.net/news/bangladesh/news/3-du-teachers-suspended-opposing-july-uprising-4262561",
+  "headline": "DU suspended 3 teachers for opposing July uprising",
+  "topic": "du teachers suspended july uprising",
+  "source": "The Daily Star",
+  "status": "queued",
+  "at": "2026-09-01T19:06:31Z"
+ },
+ {
+  "title_hash": "8cf9db74d1532a10",
+  "url": "https://www.prothomalo.com/bangladesh/pzpx6cmllv",
+  "headline": "Power and Energy Minister Iqbal Hasan Mahmud admitted to hospital",
+  "topic": "fuel minister hospitalized",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-01T19:06:31Z"
  }
 ]
