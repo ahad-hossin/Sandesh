@@ -8363,8 +8363,13 @@
   "headline": "Tawhid Hridoy hits double century abroad against South Africa 'A'",
   "topic": "hridoy double ton",
   "source": "The Daily Star",
-  "status": "queued",
-  "at": "2026-09-01T21:08:05Z"
+  "status": "failed",
+  "at": "2026-09-01T21:08:05Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "cad1fabcc21d78b7",
@@ -8372,8 +8377,13 @@
   "headline": "3 firearms recovered as two held for shooting at BNP leader's home",
   "topic": "tangail schoolgirl rescue",
   "source": "Dhaka Tribune, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-01T21:08:05Z"
+  "status": "failed",
+  "at": "2026-09-01T21:08:05Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "4011f90c17b0c9a9",
@@ -8381,7 +8391,12 @@
   "headline": "3 firearms recovered as two held for shooting at BNP leader's home",
   "topic": "tangail schoolgirl rescue",
   "source": "Dhaka Tribune, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-01T21:08:05Z"
+  "status": "failed",
+  "at": "2026-09-01T21:08:05Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
