@@ -1,47 +1,5 @@
 [
  {
-  "title_hash": "143340293f75ee39",
-  "url": "https://www.thedailystar.net/news/world/news/nepal-tibet-floods-the-devastation-pictures-4257616",
-  "headline": "Nearly 1,500 missing after Nepal-Tibet floods kill over 177, China reports 100 nationals missing",
-  "topic": "Nepal floods and landslides",
-  "source": "Jamuna TV, Prothom Alo, The Daily Star, Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-08-27T09:31:33Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "405f15b30f3aaca1",
-  "url": "https://www.prothomalo.com/video/bangladesh/t1kyex4puh",
-  "headline": "Nearly 1,500 missing after Nepal-Tibet floods kill over 177, China reports 100 nationals missing",
-  "topic": "Nepal floods and landslides",
-  "source": "Jamuna TV, Prothom Alo, The Daily Star, Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-08-27T09:31:33Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "286274aaf1a17703",
-  "url": "https://www.thedailystar.net/culture/tv-film/news/apu-biswas-stranded-nepal-amid-devastating-flood-4257606",
-  "headline": "Nearly 1,500 missing after Nepal-Tibet floods kill over 177, China reports 100 nationals missing",
-  "topic": "Nepal floods and landslides",
-  "source": "Jamuna TV, Prothom Alo, The Daily Star, Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-08-27T09:31:33Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "3a1c3daa01e19b30",
   "url": "https://www.jamuna.tv/international/662883",
   "headline": "Nearly 1,500 missing after Nepal-Tibet floods kill over 177, China reports 100 nationals missing",
@@ -8398,5 +8356,32 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "e5aa06381d4b3228",
+  "url": "https://www.prothomalo.com/chakri/chakri-news/1lp93iuq3q",
+  "headline": "600,000 jobs at risk in Bangladesh, World Bank warns amid economic crisis",
+  "topic": "bangladesh job loss forecast",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-01T03:07:05Z"
+ },
+ {
+  "title_hash": "699f91e6f0b882b5",
+  "url": "https://www.jamuna.tv/national/663208",
+  "headline": "BNP marks 48th founding anniversary, aims to strengthen democracy & good governance",
+  "topic": "bnp founding anniversary",
+  "source": "Jamuna TV, Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-01T03:07:05Z"
+ },
+ {
+  "title_hash": "8ef7e6180acc6c09",
+  "url": "https://www.prothomalo.com/politics/zt5vks7lks",
+  "headline": "BNP marks 48th founding anniversary, aims to strengthen democracy & good governance",
+  "topic": "bnp founding anniversary",
+  "source": "Jamuna TV, Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-01T03:07:05Z"
  }
 ]
