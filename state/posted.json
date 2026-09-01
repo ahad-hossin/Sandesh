@@ -8349,8 +8349,13 @@
   "headline": "Tawhid Hridoy scores double century in South Africa",
   "topic": "hridoy double century south africa",
   "source": "The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-01T18:06:54Z"
+  "status": "failed",
+  "at": "2026-09-01T18:06:54Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "b46c556edea623b0",
@@ -8358,8 +8363,13 @@
   "headline": "Tawhid Hridoy scores double century in South Africa",
   "topic": "hridoy double century south africa",
   "source": "The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-01T18:06:54Z"
+  "status": "failed",
+  "at": "2026-09-01T18:06:54Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "2ca1f2a201deb6e3",
@@ -8367,8 +8377,13 @@
   "headline": "Demra: Gunshots fired at BNP leader's house led by Chhatra Dal leader",
   "topic": "shooting at bnp leader home demra",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-01T18:06:54Z"
+  "status": "failed",
+  "at": "2026-09-01T18:06:54Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "8ad392a54e1a0d06",
@@ -8376,7 +8391,12 @@
   "headline": "Demra: Gunshots fired at BNP leader's house led by Chhatra Dal leader",
   "topic": "shooting at bnp leader home demra",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-01T18:06:54Z"
+  "status": "failed",
+  "at": "2026-09-01T18:06:54Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
