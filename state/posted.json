@@ -8377,8 +8377,13 @@
   "headline": "DU suspended 3 teachers for opposing July uprising",
   "topic": "du teachers suspended july uprising",
   "source": "The Daily Star",
-  "status": "queued",
-  "at": "2026-09-01T19:06:31Z"
+  "status": "failed",
+  "at": "2026-09-01T19:06:31Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "8cf9db74d1532a10",
@@ -8386,7 +8391,12 @@
   "headline": "Power and Energy Minister Iqbal Hasan Mahmud admitted to hospital",
   "topic": "fuel minister hospitalized",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-01T19:06:31Z"
+  "status": "failed",
+  "at": "2026-09-01T19:06:31Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
