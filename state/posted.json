@@ -1,47 +1,5 @@
 [
  {
-  "title_hash": "3f8c5b26919c6cfe",
-  "url": "https://www.prothomalo.com/bangladesh/district/u7avd3e6uz",
-  "headline": "Minority group claims police trying to hide truth in Rangpur family killings",
-  "topic": "rangpur-killings-investigation",
-  "source": "Prothom Alo, Dhaka Tribune, Jamuna TV",
-  "status": "failed",
-  "at": "2026-08-29T20:06:25Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "bca38da8a1f3d628",
-  "url": "https://www.dhakatribune.com/bangladesh/crime/418623/four-murders-multiple-theories-no-clear-motive",
-  "headline": "Minority group claims police trying to hide truth in Rangpur family killings",
-  "topic": "rangpur-killings-investigation",
-  "source": "Prothom Alo, Dhaka Tribune, Jamuna TV",
-  "status": "failed",
-  "at": "2026-08-29T20:06:25Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "0a117db956acaf83",
-  "url": "https://www.dhakatribune.com/bangladesh/nation/418610/two-police-accounts-19-questions-over-rangpur",
-  "headline": "Minority group claims police trying to hide truth in Rangpur family killings",
-  "topic": "rangpur-killings-investigation",
-  "source": "Prothom Alo, Dhaka Tribune, Jamuna TV",
-  "status": "failed",
-  "at": "2026-08-29T20:06:25Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "a99a5fdbe7a5caf9",
   "url": "https://www.jamuna.tv/all-bangladesh/663023",
   "headline": "Minority group claims police trying to hide truth in Rangpur family killings",
@@ -8398,5 +8356,32 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "6053d412d87a22a9",
+  "url": "https://www.thedailystar.net/sports/cricket/news/hridoy-joins-shakib-mushfiqs-elite-list-double-ton-4262436",
+  "headline": "Tawhid Hridoy hits double century abroad against South Africa 'A'",
+  "topic": "hridoy double ton",
+  "source": "The Daily Star",
+  "status": "queued",
+  "at": "2026-09-01T21:08:05Z"
+ },
+ {
+  "title_hash": "cad1fabcc21d78b7",
+  "url": "https://www.dhakatribune.com/bangladesh/crime/418886/tangail-schoolgirl-rescued-27-days-after",
+  "headline": "3 firearms recovered as two held for shooting at BNP leader's home",
+  "topic": "tangail schoolgirl rescue",
+  "source": "Dhaka Tribune, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-01T21:08:05Z"
+ },
+ {
+  "title_hash": "4011f90c17b0c9a9",
+  "url": "https://www.thedailystar.net/news/bangladesh/news/jcd-man-held-dhaka-over-shooting-bnp-leaders-home-4262541",
+  "headline": "3 firearms recovered as two held for shooting at BNP leader's home",
+  "topic": "tangail schoolgirl rescue",
+  "source": "Dhaka Tribune, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-01T21:08:05Z"
  }
 ]
