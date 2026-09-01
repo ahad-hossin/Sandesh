@@ -1,47 +1,5 @@
 [
  {
-  "title_hash": "4e66be4bea84b499",
-  "url": "https://www.thedailystar.net/news/world/news/what-scientists-say-about-the-cause-deadly-nepal-tibet-floods-4257641",
-  "headline": "Nearly 1,500 missing after Nepal-Tibet floods kill over 177, China reports 100 nationals missing",
-  "topic": "Nepal floods and landslides",
-  "source": "Jamuna TV, Prothom Alo, The Daily Star, Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-08-27T09:31:33Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "0177d5075c564446",
-  "url": "https://www.dhakatribune.com/bangladesh/418409/pm-tarique-mourns-deaths-in-nepal-flash-floods",
-  "headline": "Nearly 1,500 missing after Nepal-Tibet floods kill over 177, China reports 100 nationals missing",
-  "topic": "Nepal floods and landslides",
-  "source": "Jamuna TV, Prothom Alo, The Daily Star, Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-08-27T09:31:33Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "0bb2bb674c44b2c1",
-  "url": "https://www.jamuna.tv/international/662887",
-  "headline": "Nearly 1,500 missing after Nepal-Tibet floods kill over 177, China reports 100 nationals missing",
-  "topic": "Nepal floods and landslides",
-  "source": "Jamuna TV, Prothom Alo, The Daily Star, Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-08-27T09:31:33Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "143340293f75ee39",
   "url": "https://www.thedailystar.net/news/world/news/nepal-tibet-floods-the-devastation-pictures-4257616",
   "headline": "Nearly 1,500 missing after Nepal-Tibet floods kill over 177, China reports 100 nationals missing",
@@ -8398,5 +8356,32 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "fcf93492ec83f957",
+  "url": "https://www.jamuna.tv/weather/663207",
+  "headline": "Stormy winds and rain forecast for 6 districts by noon on September 1st, warns Met Office",
+  "topic": "bangladesh thunderstorm forecast",
+  "source": "Jamuna TV",
+  "status": "queued",
+  "at": "2026-09-01T02:07:00Z"
+ },
+ {
+  "title_hash": "07907e3245b5d2ee",
+  "url": "https://www.dhakatribune.com/bangladesh/418777/cabinet-approves-ninth-pay-scale-proposal",
+  "headline": "Bangladesh approves largest pay hike since independence, doubling top salaries",
+  "topic": "national pay scale approved",
+  "source": "Dhaka Tribune, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-01T02:07:00Z"
+ },
+ {
+  "title_hash": "0822f3e245cfa993",
+  "url": "https://www.thedailystar.net/news/bangladesh/news/national-pay-scale-hurrah-government-employees-4261766",
+  "headline": "Bangladesh approves largest pay hike since independence, doubling top salaries",
+  "topic": "national pay scale approved",
+  "source": "Dhaka Tribune, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-01T02:07:00Z"
  }
 ]
