@@ -8321,8 +8321,13 @@
   "headline": "Trump thanks PM Tarique Rahman for billions in Boeing aircraft purchase",
   "topic": "trump hopes to meet tarique rahman",
   "source": "The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-02T06:06:37Z"
+  "status": "failed",
+  "at": "2026-09-02T06:06:37Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "8a8a39158c15edca",
@@ -8330,8 +8335,13 @@
   "headline": "Trump thanks PM Tarique Rahman for billions in Boeing aircraft purchase",
   "topic": "trump hopes to meet tarique rahman",
   "source": "The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-02T06:06:37Z"
+  "status": "failed",
+  "at": "2026-09-02T06:06:37Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "67228dbd238c9c34",
@@ -8339,8 +8349,13 @@
   "headline": "5 killed, including child, as US military strikes Iran",
   "topic": "us iran exchange attacks",
   "source": "Jamuna TV, The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-02T06:06:37Z"
+  "status": "failed",
+  "at": "2026-09-02T06:06:37Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "e7b0d4e0720bc117",
@@ -8348,8 +8363,13 @@
   "headline": "5 killed, including child, as US military strikes Iran",
   "topic": "us iran exchange attacks",
   "source": "Jamuna TV, The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-02T06:06:37Z"
+  "status": "failed",
+  "at": "2026-09-02T06:06:37Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "174d4f916a43761c",
@@ -8357,8 +8377,13 @@
   "headline": "5 killed, including child, as US military strikes Iran",
   "topic": "us iran exchange attacks",
   "source": "Jamuna TV, The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-02T06:06:37Z"
+  "status": "failed",
+  "at": "2026-09-02T06:06:37Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "dd75bf7a8aa956b8",
@@ -8366,7 +8391,12 @@
   "headline": "5 killed, including child, as US military strikes Iran",
   "topic": "us iran exchange attacks",
   "source": "Jamuna TV, The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-02T06:06:37Z"
+  "status": "failed",
+  "at": "2026-09-02T06:06:37Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
