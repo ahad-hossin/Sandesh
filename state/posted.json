@@ -8335,8 +8335,13 @@
   "headline": "Tk 20 crore gold seized: 80 gold bars found under seats of FlyDubai plane",
   "topic": "flydubai gold bars seizure",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-02T20:06:55Z"
+  "status": "failed",
+  "at": "2026-09-02T20:06:55Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "69b44bb5af799ffe",
@@ -8344,8 +8349,13 @@
   "headline": "Asif Mahmud demands retraction of ACC allegations within 24 hours",
   "topic": "asif mahmud acc vs dcc",
   "source": "Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-02T20:06:55Z"
+  "status": "failed",
+  "at": "2026-09-02T20:06:55Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "f43b1b51748bde63",
@@ -8353,8 +8363,13 @@
   "headline": "Asif Mahmud demands retraction of ACC allegations within 24 hours",
   "topic": "asif mahmud acc vs dcc",
   "source": "Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-02T20:06:55Z"
+  "status": "failed",
+  "at": "2026-09-02T20:06:55Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "6415454f9fcd12a7",
@@ -8362,8 +8377,13 @@
   "headline": "Asif Mahmud demands retraction of ACC allegations within 24 hours",
   "topic": "asif mahmud acc vs dcc",
   "source": "Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-02T20:06:55Z"
+  "status": "failed",
+  "at": "2026-09-02T20:06:55Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "ccf3707b29e71c0f",
@@ -8371,7 +8391,12 @@
   "headline": "Asif Mahmud demands retraction of ACC allegations within 24 hours",
   "topic": "asif mahmud acc vs dcc",
   "source": "Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-02T20:06:55Z"
+  "status": "failed",
+  "at": "2026-09-02T20:06:55Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
