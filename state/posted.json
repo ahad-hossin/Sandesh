@@ -8335,8 +8335,13 @@
   "headline": "ACC finds primary evidence of corruption against Asif Mahmud",
   "topic": "acc investigation asif mahmud",
   "source": "Jamuna TV, Dhaka Tribune, Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-02T11:06:41Z"
+  "status": "failed",
+  "at": "2026-09-02T11:06:41Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "4bc655166c222552",
@@ -8344,8 +8349,13 @@
   "headline": "ACC finds primary evidence of corruption against Asif Mahmud",
   "topic": "acc investigation asif mahmud",
   "source": "Jamuna TV, Dhaka Tribune, Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-02T11:06:41Z"
+  "status": "failed",
+  "at": "2026-09-02T11:06:41Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "93d75b0bdae4b734",
@@ -8353,8 +8363,13 @@
   "headline": "ACC finds primary evidence of corruption against Asif Mahmud",
   "topic": "acc investigation asif mahmud",
   "source": "Jamuna TV, Dhaka Tribune, Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-02T11:06:41Z"
+  "status": "failed",
+  "at": "2026-09-02T11:06:41Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "71826c50a31d31f2",
@@ -8362,8 +8377,13 @@
   "headline": "ACC finds primary evidence of corruption against Asif Mahmud",
   "topic": "acc investigation asif mahmud",
   "source": "Jamuna TV, Dhaka Tribune, Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-02T11:06:41Z"
+  "status": "failed",
+  "at": "2026-09-02T11:06:41Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "3fe03d7ba793905e",
@@ -8371,7 +8391,12 @@
   "headline": "Bank defaulted loans exceed 6 lakh crore taka",
   "topic": "bangladesh defaulted loan 6 lakh crore",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-02T11:06:41Z"
+  "status": "failed",
+  "at": "2026-09-02T11:06:41Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
