@@ -8349,8 +8349,13 @@
   "headline": "136 lives lost in August as measles resurges in Bangladesh",
   "topic": "measles outbreak bangladesh",
   "source": "Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-02T10:06:36Z"
+  "status": "failed",
+  "at": "2026-09-02T10:06:36Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "25ce7afb923ec637",
@@ -8358,8 +8363,13 @@
   "headline": "136 lives lost in August as measles resurges in Bangladesh",
   "topic": "measles outbreak bangladesh",
   "source": "Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-02T10:06:36Z"
+  "status": "failed",
+  "at": "2026-09-02T10:06:36Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "05d27f90ee2e4c12",
@@ -8367,8 +8377,13 @@
   "headline": "18,000 customers seek 1,300 crore BDT refund from Sammilito Islami Bank",
   "topic": "islamic bank deposit withdrawals",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-02T10:06:36Z"
+  "status": "failed",
+  "at": "2026-09-02T10:06:36Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "c2d5539b1af71913",
@@ -8376,7 +8391,12 @@
   "headline": "18,000 customers seek 1,300 crore BDT refund from Sammilito Islami Bank",
   "topic": "islamic bank deposit withdrawals",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-02T10:06:36Z"
+  "status": "failed",
+  "at": "2026-09-02T10:06:36Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
