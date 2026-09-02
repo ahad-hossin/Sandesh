@@ -8321,8 +8321,13 @@
   "headline": "Dengue surge: 5 more die as 1,110 hospitalized in 24 hours",
   "topic": "dengue deaths surge",
   "source": "Dhaka Tribune, Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-02T14:06:55Z"
+  "status": "failed",
+  "at": "2026-09-02T14:06:55Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "e0b9f411f0996bb3",
@@ -8330,8 +8335,13 @@
   "headline": "Dengue surge: 5 more die as 1,110 hospitalized in 24 hours",
   "topic": "dengue deaths surge",
   "source": "Dhaka Tribune, Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-02T14:06:55Z"
+  "status": "failed",
+  "at": "2026-09-02T14:06:55Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "bf158da51c29365f",
@@ -8339,8 +8349,13 @@
   "headline": "Dengue surge: 5 more die as 1,110 hospitalized in 24 hours",
   "topic": "dengue deaths surge",
   "source": "Dhaka Tribune, Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-02T14:06:55Z"
+  "status": "failed",
+  "at": "2026-09-02T14:06:55Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "2543229a358de99c",
@@ -8348,8 +8363,13 @@
   "headline": "LPG price cut by Tk 13, 12kg cylinder now Tk 1,585",
   "topic": "lpg price cut",
   "source": "Jamuna TV, The Daily Star, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-09-02T14:06:55Z"
+  "status": "failed",
+  "at": "2026-09-02T14:06:55Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "4ecc2b261e5b0330",
@@ -8357,8 +8377,13 @@
   "headline": "LPG price cut by Tk 13, 12kg cylinder now Tk 1,585",
   "topic": "lpg price cut",
   "source": "Jamuna TV, The Daily Star, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-09-02T14:06:55Z"
+  "status": "failed",
+  "at": "2026-09-02T14:06:55Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "8e0fba3b6a00dd3f",
@@ -8366,7 +8391,12 @@
   "headline": "LPG price cut by Tk 13, 12kg cylinder now Tk 1,585",
   "topic": "lpg price cut",
   "source": "Jamuna TV, The Daily Star, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-09-02T14:06:55Z"
+  "status": "failed",
+  "at": "2026-09-02T14:06:55Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
