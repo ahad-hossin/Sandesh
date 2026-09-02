@@ -1,75 +1,5 @@
 [
  {
-  "title_hash": "ff2de20b42470e2f",
-  "url": "https://www.jamuna.tv/health/663090",
-  "headline": "967 dead as measles outbreak kills 4 more in 24 hours",
-  "topic": "measles outbreak death toll",
-  "source": "Dhaka Tribune, Jamuna TV",
-  "status": "failed",
-  "at": "2026-08-30T11:08:32Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "811a9370c52dd266",
-  "url": "https://www.prothomalo.com/bangladesh/d7wl4oexsy",
-  "headline": "ACC Former Army Chief summoned by ACC over illegal wealth claims",
-  "topic": "shafiuddin ahmed acc summons",
-  "source": "Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-30T12:06:35Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "840ba9611c770fc9",
-  "url": "https://www.thedailystar.net/news/news/malaysia-hire-200000-bangladeshi-workers-6-months-shahe-alam-4260136",
-  "headline": "Malaysia to hire 200,000 Bangladeshi workers in 6 months",
-  "topic": "malaysia bangladeshi workers recruitment",
-  "source": "The Daily Star, Prothom Alo, Jamuna TV",
-  "status": "failed",
-  "at": "2026-08-30T12:06:35Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "a393352b7197f181",
-  "url": "https://www.prothomalo.com/video/bangladesh/ioneskn7sn",
-  "headline": "Malaysia to hire 200,000 Bangladeshi workers in 6 months",
-  "topic": "malaysia bangladeshi workers recruitment",
-  "source": "The Daily Star, Prothom Alo, Jamuna TV",
-  "status": "failed",
-  "at": "2026-08-30T12:06:35Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "64ce87e5bbfab0ff",
-  "url": "https://www.jamuna.tv/national/663067",
-  "headline": "Malaysia to hire 200,000 Bangladeshi workers in 6 months",
-  "topic": "malaysia bangladeshi workers recruitment",
-  "source": "The Daily Star, Prothom Alo, Jamuna TV",
-  "status": "failed",
-  "at": "2026-08-30T12:06:35Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "03c9d8f603567a2c",
   "url": "https://www.dhakatribune.com/bangladesh/crime/418654/%E2%80%98one-person%E2%80%99s-involvement-found-in-sagar-runi",
   "headline": "New lead in Sagar-Runi case: Cultural figure linked to murders after 14 years",
@@ -8398,5 +8328,50 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "7d2368db742e2695",
+  "url": "https://www.prothomalo.com/business/bank/pro9yraold",
+  "headline": "Bank defaulted loans exceed 6 lakh crore taka again",
+  "topic": "bank loan defaults exceed 6 lakh crore",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-02T21:06:35Z"
+ },
+ {
+  "title_hash": "69b44bb5af799ffe",
+  "url": "https://www.jamuna.tv/national/663345",
+  "headline": "Asif Mahmud threatens defamation suit against ACC over corruption claims",
+  "topic": "asif mahmud vs acc",
+  "source": "Jamuna TV, Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-02T21:06:35Z"
+ },
+ {
+  "title_hash": "f43b1b51748bde63",
+  "url": "https://www.prothomalo.com/politics/os29gpteu8",
+  "headline": "Asif Mahmud threatens defamation suit against ACC over corruption claims",
+  "topic": "asif mahmud vs acc",
+  "source": "Jamuna TV, Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-02T21:06:35Z"
+ },
+ {
+  "title_hash": "6415454f9fcd12a7",
+  "url": "https://www.prothomalo.com/video/bangladesh/wqeie46yoa",
+  "headline": "Asif Mahmud threatens defamation suit against ACC over corruption claims",
+  "topic": "asif mahmud vs acc",
+  "source": "Jamuna TV, Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-02T21:06:35Z"
+ },
+ {
+  "title_hash": "377813d8d75d2c3e",
+  "url": "https://www.jamuna.tv/national/663325",
+  "headline": "Asif Mahmud threatens defamation suit against ACC over corruption claims",
+  "topic": "asif mahmud vs acc",
+  "source": "Jamuna TV, Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-02T21:06:35Z"
  }
 ]
