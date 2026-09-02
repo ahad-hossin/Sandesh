@@ -1,61 +1,5 @@
 [
  {
-  "title_hash": "9f1118be71637627",
-  "url": "https://www.prothomalo.com/bangladesh/7gheomwazj",
-  "headline": "Sagar-Runi murder: Evidence points to cultural personality's involvement",
-  "topic": "sagar-runi murder case lead",
-  "source": "The Daily Star, Dhaka Tribune, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-30T14:06:57Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "7eaeb430fb1f5ba0",
-  "url": "https://www.dhakatribune.com/bangladesh/parliament/418686/minister-govt-seeks-tk-902cr-to-operationalize",
-  "headline": "Tk 902cr needed to operationalize HSIA third terminal, says Minister",
-  "topic": "hsia third terminal funding",
-  "source": "Prothom Alo, Dhaka Tribune, The Daily Star, Jamuna TV",
-  "status": "failed",
-  "at": "2026-08-30T14:06:57Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "6e1708c6c62d4a30",
-  "url": "https://www.prothomalo.com/bangladesh/z01ip0o8dn",
-  "headline": "Tk 902cr needed to operationalize HSIA third terminal, says Minister",
-  "topic": "hsia third terminal funding",
-  "source": "Prothom Alo, Dhaka Tribune, The Daily Star, Jamuna TV",
-  "status": "failed",
-  "at": "2026-08-30T14:06:57Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "439553d1e858a038",
-  "url": "https://www.thedailystar.net/business/economy/aviation/news/building-was-inaugurated-the-name-completion-minister-dhaka-airports-third-terminal-4260296",
-  "headline": "Tk 902cr needed to operationalize HSIA third terminal, says Minister",
-  "topic": "hsia third terminal funding",
-  "source": "Prothom Alo, Dhaka Tribune, The Daily Star, Jamuna TV",
-  "status": "failed",
-  "at": "2026-08-30T14:06:57Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "dd5a5b48035cf7aa",
   "url": "https://www.jamuna.tv/national/663106",
   "headline": "Tk 902cr needed to operationalize HSIA third terminal, says Minister",
@@ -8398,5 +8342,41 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "73f96a93818ca55e",
+  "url": "https://www.thedailystar.net/news/bangladesh/news/homeopathic-practitioner-hacked-death-natore-4263546",
+  "headline": "Homeopathic practitioner hacked to death in Natore chamber",
+  "topic": "homeopathic-practitioner-killed-natore",
+  "source": "The Daily Star, Jamuna TV",
+  "status": "queued",
+  "at": "2026-09-02T23:08:30Z"
+ },
+ {
+  "title_hash": "ba97fc140b8e15ce",
+  "url": "https://www.jamuna.tv/all-bangladesh/663346",
+  "headline": "Homeopathic practitioner hacked to death in Natore chamber",
+  "topic": "homeopathic-practitioner-killed-natore",
+  "source": "The Daily Star, Jamuna TV",
+  "status": "queued",
+  "at": "2026-09-02T23:08:30Z"
+ },
+ {
+  "title_hash": "0331a77b97d343ff",
+  "url": "https://www.thedailystar.net/news/bangladesh/news/bad-loans-now-over-tk-6-lakh-crore-4263601",
+  "headline": "Tk 6 lakh crore: Bad loans in banking sector surpass Tk 6 lakh crore again",
+  "topic": "bank-bad-loans-6-lakh-crore",
+  "source": "Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-02T23:08:30Z"
+ },
+ {
+  "title_hash": "7d2368db742e2695",
+  "url": "https://www.prothomalo.com/business/bank/pro9yraold",
+  "headline": "Tk 6 lakh crore: Bad loans in banking sector surpass Tk 6 lakh crore again",
+  "topic": "bank-bad-loans-6-lakh-crore",
+  "source": "Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-02T23:08:30Z"
  }
 ]
