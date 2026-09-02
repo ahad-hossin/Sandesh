@@ -8321,8 +8321,13 @@
   "headline": "Tawhid Hridoy breaks Tamim Iqbal's record with triple century",
   "topic": "towhid hridoy triple century record",
   "source": "Prothom Alo, Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-02T16:06:37Z"
+  "status": "failed",
+  "at": "2026-09-02T16:06:37Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "c31a90219c092deb",
@@ -8330,8 +8335,13 @@
   "headline": "Tawhid Hridoy breaks Tamim Iqbal's record with triple century",
   "topic": "towhid hridoy triple century record",
   "source": "Prothom Alo, Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-02T16:06:37Z"
+  "status": "failed",
+  "at": "2026-09-02T16:06:37Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "ddfc269acea6be53",
@@ -8339,8 +8349,13 @@
   "headline": "Tawhid Hridoy breaks Tamim Iqbal's record with triple century",
   "topic": "towhid hridoy triple century record",
   "source": "Prothom Alo, Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-02T16:06:37Z"
+  "status": "failed",
+  "at": "2026-09-02T16:06:37Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "3f9d3f2c063c8456",
@@ -8348,8 +8363,13 @@
   "headline": "ACC starts investigation against Asif Mahmud and 3 others",
   "topic": "acc investigation asif mahmud",
   "source": "Prothom Alo, Dhaka Tribune, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-02T16:06:37Z"
+  "status": "failed",
+  "at": "2026-09-02T16:06:37Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "0da07d393028faca",
@@ -8357,8 +8377,13 @@
   "headline": "ACC starts investigation against Asif Mahmud and 3 others",
   "topic": "acc investigation asif mahmud",
   "source": "Prothom Alo, Dhaka Tribune, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-02T16:06:37Z"
+  "status": "failed",
+  "at": "2026-09-02T16:06:37Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "71826c50a31d31f2",
@@ -8366,7 +8391,12 @@
   "headline": "ACC starts investigation against Asif Mahmud and 3 others",
   "topic": "acc investigation asif mahmud",
   "source": "Prothom Alo, Dhaka Tribune, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-02T16:06:37Z"
+  "status": "failed",
+  "at": "2026-09-02T16:06:37Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
