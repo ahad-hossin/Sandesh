@@ -8349,8 +8349,13 @@
   "headline": "Homeopathic practitioner hacked to death in Natore chamber",
   "topic": "homeopathic-practitioner-killed-natore",
   "source": "The Daily Star, Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-02T23:08:30Z"
+  "status": "failed",
+  "at": "2026-09-02T23:08:30Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "ba97fc140b8e15ce",
@@ -8358,8 +8363,13 @@
   "headline": "Homeopathic practitioner hacked to death in Natore chamber",
   "topic": "homeopathic-practitioner-killed-natore",
   "source": "The Daily Star, Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-02T23:08:30Z"
+  "status": "failed",
+  "at": "2026-09-02T23:08:30Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "0331a77b97d343ff",
@@ -8367,8 +8377,13 @@
   "headline": "Tk 6 lakh crore: Bad loans in banking sector surpass Tk 6 lakh crore again",
   "topic": "bank-bad-loans-6-lakh-crore",
   "source": "Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-02T23:08:30Z"
+  "status": "failed",
+  "at": "2026-09-02T23:08:30Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "7d2368db742e2695",
@@ -8376,7 +8391,12 @@
   "headline": "Tk 6 lakh crore: Bad loans in banking sector surpass Tk 6 lakh crore again",
   "topic": "bank-bad-loans-6-lakh-crore",
   "source": "Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-02T23:08:30Z"
+  "status": "failed",
+  "at": "2026-09-02T23:08:30Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
