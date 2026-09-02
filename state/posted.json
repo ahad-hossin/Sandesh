@@ -8377,8 +8377,13 @@
   "headline": "Iran launches missile & drone attacks on US military sites in Jordan, Iraq, Kuwait, Bahrain",
   "topic": "iran retaliates us bases",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-02T02:06:49Z"
+  "status": "failed",
+  "at": "2026-09-02T02:06:49Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "af6fe3eca20cdad0",
@@ -8386,7 +8391,12 @@
   "headline": "New syndicate strategy for Malaysia jobs could hike costs to BDT 6-7 lakh",
   "topic": "malaysia migrant syndicate new tactics",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-02T02:06:49Z"
+  "status": "failed",
+  "at": "2026-09-02T02:06:49Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
