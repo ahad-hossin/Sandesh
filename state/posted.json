@@ -1,47 +1,5 @@
 [
  {
-  "title_hash": "a8fe6e185dc0dc38",
-  "url": "https://www.jamuna.tv/national/663047",
-  "headline": "No enforced disappearances or extrajudicial killings in last 6 months: Home Minister",
-  "topic": "enforced disappearances law and debate",
-  "source": "The Daily Star, Prothom Alo, Dhaka Tribune, Jamuna TV",
-  "status": "failed",
-  "at": "2026-08-29T21:06:39Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "ee0088d67b01667e",
-  "url": "https://www.dhakatribune.com/bangladesh/418625/nur-khan-independent-body-needed-to-investigate",
-  "headline": "No enforced disappearances or extrajudicial killings in last 6 months: Home Minister",
-  "topic": "enforced disappearances law and debate",
-  "source": "The Daily Star, Prothom Alo, Dhaka Tribune, Jamuna TV",
-  "status": "failed",
-  "at": "2026-08-29T21:06:39Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "c5311618addb35d8",
-  "url": "https://www.prothomalo.com/politics/u5ytb7urzt",
-  "headline": "No enforced disappearances or extrajudicial killings in last 6 months: Home Minister",
-  "topic": "enforced disappearances law and debate",
-  "source": "The Daily Star, Prothom Alo, Dhaka Tribune, Jamuna TV",
-  "status": "failed",
-  "at": "2026-08-29T21:06:39Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "581cfe9f9d8a2410",
   "url": "https://www.dhakatribune.com/bangladesh/418614/pm-calls-for-global-unity-against-enforced",
   "headline": "No enforced disappearances or extrajudicial killings in last 6 months: Home Minister",
@@ -8398,5 +8356,32 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "d5be59c554af9b17",
+  "url": "https://www.prothomalo.com/religion/islam/81fppubjhd",
+  "headline": "Understanding the ruling on Qada prayer: Doubts and solutions for missed prayers",
+  "topic": "missed prayer rules",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-02T00:06:58Z"
+ },
+ {
+  "title_hash": "1a61e06cabd804af",
+  "url": "https://www.thedailystar.net/business/economy/news/luxury-cars-imported-old-spare-parts-seized-4262501",
+  "headline": "Tk 12 crore luxury cars seized at Chattogram port, declared as spare parts",
+  "topic": "luxury cars imported as parts",
+  "source": "Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-02T00:06:58Z"
+ },
+ {
+  "title_hash": "91fb492f97783fe8",
+  "url": "https://www.prothomalo.com/photo/bangladesh/rp8ikgphw3",
+  "headline": "Tk 12 crore luxury cars seized at Chattogram port, declared as spare parts",
+  "topic": "luxury cars imported as parts",
+  "source": "Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-02T00:06:58Z"
  }
 ]
