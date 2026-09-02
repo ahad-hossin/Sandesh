@@ -1,61 +1,5 @@
 [
  {
-  "title_hash": "33f0a8f2c4c133ba",
-  "url": "https://www.dhakatribune.com/bangladesh/laws-rights/418601/hrss-calls-for-independent-probes-into-enforced",
-  "headline": "No enforced disappearances or extrajudicial killings in last 6 months: Home Minister Salahuddin Ahmed",
-  "topic": "home minister denies enforced disappearances",
-  "source": "The Daily Star, Dhaka Tribune, Jamuna TV",
-  "status": "failed",
-  "at": "2026-08-30T00:08:40Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "b263031a67a1a683",
-  "url": "https://www.thedailystar.net/news/bangladesh/news/years-lost-ordeal-still-not-over-4259831",
-  "headline": "No enforced disappearances or extrajudicial killings in last 6 months: Home Minister Salahuddin Ahmed",
-  "topic": "home minister denies enforced disappearances",
-  "source": "The Daily Star, Dhaka Tribune, Jamuna TV",
-  "status": "failed",
-  "at": "2026-08-30T00:08:40Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "630b840dcbc5a3ca",
-  "url": "https://www.thedailystar.net/news/bangladesh/news/unite-and-act-against-enforced-disappearance-4259841",
-  "headline": "No enforced disappearances or extrajudicial killings in last 6 months: Home Minister Salahuddin Ahmed",
-  "topic": "home minister denies enforced disappearances",
-  "source": "The Daily Star, Dhaka Tribune, Jamuna TV",
-  "status": "failed",
-  "at": "2026-08-30T00:08:40Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "0acd935b1bdfb571",
-  "url": "https://www.prothomalo.com/world/middle-east/sjys2ti4h4",
-  "headline": "Iran earns $7.5 billion from oil sales in four months despite US naval blockade",
-  "topic": "iran oil sales despite blockade",
-  "source": "Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-30T00:08:40Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "a37cade958f6a130",
   "url": "https://www.dhakatribune.com/bangladesh/nation/418631/rangpur-killings-father-brother-of-prime-accused",
   "headline": "Father and brother of prime accused in Rangpur 4-murder case released after DIB questioning",
@@ -8398,5 +8342,41 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "6e42e84fe47df4b9",
+  "url": "https://www.thedailystar.net/news/bangladesh/news/measles-resurges-august-4262696",
+  "headline": "136 lives lost in August as measles resurges in Bangladesh",
+  "topic": "measles outbreak bangladesh",
+  "source": "Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-02T10:06:36Z"
+ },
+ {
+  "title_hash": "25ce7afb923ec637",
+  "url": "https://www.prothomalo.com/bangladesh/d9ov0yig7n",
+  "headline": "136 lives lost in August as measles resurges in Bangladesh",
+  "topic": "measles outbreak bangladesh",
+  "source": "Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-02T10:06:36Z"
+ },
+ {
+  "title_hash": "05d27f90ee2e4c12",
+  "url": "https://www.prothomalo.com/business/bank/gu5jdcc50n",
+  "headline": "18,000 customers seek 1,300 crore BDT refund from Sammilito Islami Bank",
+  "topic": "islamic bank deposit withdrawals",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-02T10:06:36Z"
+ },
+ {
+  "title_hash": "c2d5539b1af71913",
+  "url": "https://www.prothomalo.com/bangladesh/ml1oh520aj",
+  "headline": "18,000 customers seek 1,300 crore BDT refund from Sammilito Islami Bank",
+  "topic": "islamic bank deposit withdrawals",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-02T10:06:36Z"
  }
 ]
