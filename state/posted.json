@@ -1,47 +1,5 @@
 [
  {
-  "title_hash": "da7f9a90d0d4d917",
-  "url": "https://www.dhakatribune.com/bangladesh/418588/international-day-of-victims-of-enforced",
-  "headline": "No enforced disappearances or extrajudicial killings in last 6 months: Home Minister",
-  "topic": "enforced disappearances law and debate",
-  "source": "The Daily Star, Prothom Alo, Dhaka Tribune, Jamuna TV",
-  "status": "failed",
-  "at": "2026-08-29T21:06:39Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "27db34bd9ac37476",
-  "url": "https://www.jamuna.tv/national/663019",
-  "headline": "No enforced disappearances or extrajudicial killings in last 6 months: Home Minister",
-  "topic": "enforced disappearances law and debate",
-  "source": "The Daily Star, Prothom Alo, Dhaka Tribune, Jamuna TV",
-  "status": "failed",
-  "at": "2026-08-29T21:06:39Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "7bda99f213e40a9d",
-  "url": "https://www.dhakatribune.com/bangladesh/418586/rizvi-no-one-above-law-in-enforced-disappearance",
-  "headline": "No enforced disappearances or extrajudicial killings in last 6 months: Home Minister",
-  "topic": "enforced disappearances law and debate",
-  "source": "The Daily Star, Prothom Alo, Dhaka Tribune, Jamuna TV",
-  "status": "failed",
-  "at": "2026-08-29T21:06:39Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "a37cade958f6a130",
   "url": "https://www.dhakatribune.com/bangladesh/nation/418631/rangpur-killings-father-brother-of-prime-accused",
   "headline": "Hindu Buddhist Christian Unity Council claims police cover-up in Rangpur killings",
@@ -8398,5 +8356,32 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "fe8d4b10dd5cee6d",
+  "url": "https://www.thedailystar.net/sports/football/news/hamza-makes-immediate-impact-sheffield-claim-first-league-win-4262786",
+  "headline": "Hamza Choudhury makes immediate impact as Sheffield United secure first league win",
+  "topic": "hamza-choudhury-sheffield-debut",
+  "source": "Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-02T04:11:58Z"
+ },
+ {
+  "title_hash": "61dfe31079dd92df",
+  "url": "https://www.prothomalo.com/sports/football/4bzxtwz4i5",
+  "headline": "Hamza Choudhury makes immediate impact as Sheffield United secure first league win",
+  "topic": "hamza-choudhury-sheffield-debut",
+  "source": "Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-02T04:11:58Z"
+ },
+ {
+  "title_hash": "5908dddabe970fee",
+  "url": "https://www.prothomalo.com/education/scholarship/y0599p8wru",
+  "headline": "New rates: Primary scholarship students to get 300 and 225 taka monthly",
+  "topic": "primary-school-stipend-rates-2025",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-02T04:11:58Z"
  }
 ]
