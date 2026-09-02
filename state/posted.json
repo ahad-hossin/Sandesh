@@ -1,75 +1,5 @@
 [
  {
-  "title_hash": "26f8038333d32735",
-  "url": "https://www.thedailystar.net/star-multimedia/news/accidents-traffic-jams-power-theft-why-are-battery-run-rickshaws-still-the-roads-4260011",
-  "headline": "Dhaka to ban battery-powered rickshaws on main roads to curb traffic",
-  "topic": "dhaka battery rickshaw ban",
-  "source": "Dhaka Tribune, The Daily Star",
-  "status": "failed",
-  "at": "2026-08-30T10:06:43Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "b4a7bbc00f6fa38b",
-  "url": "https://www.thedailystar.net/news/transport/news/govt-working-regulate-battery-run-auto-rickshaws-state-minister-4260171",
-  "headline": "Dhaka to ban battery-powered rickshaws on main roads to curb traffic",
-  "topic": "dhaka battery rickshaw ban",
-  "source": "Dhaka Tribune, The Daily Star",
-  "status": "failed",
-  "at": "2026-08-30T10:06:43Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "87e27472d327d1da",
-  "url": "https://www.dhakatribune.com/bangladesh/418667/president-enforced-disappearance-perpetrators",
-  "headline": "President: No more 'Aynaghar' or secret detention centres in Bangladesh",
-  "topic": "president vows justice for enforced disappearances",
-  "source": "Dhaka Tribune, The Daily Star",
-  "status": "failed",
-  "at": "2026-08-30T11:08:32Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "051b115e2f5b48fc",
-  "url": "https://www.thedailystar.net/news/politics/news/no-more-aynaghar-bangladesh-president-4260146",
-  "headline": "President: No more 'Aynaghar' or secret detention centres in Bangladesh",
-  "topic": "president vows justice for enforced disappearances",
-  "source": "Dhaka Tribune, The Daily Star",
-  "status": "failed",
-  "at": "2026-08-30T11:08:32Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "81183a2f150f9b0e",
-  "url": "https://www.dhakatribune.com/bangladesh/health/418665/measles-outbreak-death-toll-reaches-967-as-four",
-  "headline": "967 dead as measles outbreak kills 4 more in 24 hours",
-  "topic": "measles outbreak death toll",
-  "source": "Dhaka Tribune, Jamuna TV",
-  "status": "failed",
-  "at": "2026-08-30T11:08:32Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "ff2de20b42470e2f",
   "url": "https://www.jamuna.tv/health/663090",
   "headline": "967 dead as measles outbreak kills 4 more in 24 hours",
@@ -8398,5 +8328,50 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "5bf76347ec5fc506",
+  "url": "https://www.prothomalo.com/bangladesh/crime/oz2ag5wwqh",
+  "headline": "Tk 20 crore gold seized: 80 gold bars found under seats of FlyDubai plane",
+  "topic": "flydubai gold bars seizure",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-02T20:06:55Z"
+ },
+ {
+  "title_hash": "69b44bb5af799ffe",
+  "url": "https://www.jamuna.tv/national/663345",
+  "headline": "Asif Mahmud demands retraction of ACC allegations within 24 hours",
+  "topic": "asif mahmud acc vs dcc",
+  "source": "Jamuna TV, Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-02T20:06:55Z"
+ },
+ {
+  "title_hash": "f43b1b51748bde63",
+  "url": "https://www.prothomalo.com/politics/os29gpteu8",
+  "headline": "Asif Mahmud demands retraction of ACC allegations within 24 hours",
+  "topic": "asif mahmud acc vs dcc",
+  "source": "Jamuna TV, Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-02T20:06:55Z"
+ },
+ {
+  "title_hash": "6415454f9fcd12a7",
+  "url": "https://www.prothomalo.com/video/bangladesh/wqeie46yoa",
+  "headline": "Asif Mahmud demands retraction of ACC allegations within 24 hours",
+  "topic": "asif mahmud acc vs dcc",
+  "source": "Jamuna TV, Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-02T20:06:55Z"
+ },
+ {
+  "title_hash": "ccf3707b29e71c0f",
+  "url": "https://www.prothomalo.com/video/bangladesh/cr2mmgc2s5",
+  "headline": "Asif Mahmud demands retraction of ACC allegations within 24 hours",
+  "topic": "asif mahmud acc vs dcc",
+  "source": "Jamuna TV, Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-02T20:06:55Z"
  }
 ]
