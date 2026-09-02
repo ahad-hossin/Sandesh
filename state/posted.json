@@ -1,75 +1,5 @@
 [
  {
-  "title_hash": "a37cade958f6a130",
-  "url": "https://www.dhakatribune.com/bangladesh/nation/418631/rangpur-killings-father-brother-of-prime-accused",
-  "headline": "Father and brother of prime accused in Rangpur 4-murder case released after DIB questioning",
-  "topic": "rangpur killings siddhartha family",
-  "source": "Jamuna TV, Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-08-30T01:09:57Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "b9eab9e5a33b2f55",
-  "url": "https://www.jamuna.tv/all-bangladesh/663057",
-  "headline": "Father and brother of prime accused in Rangpur 4-murder case released after DIB questioning",
-  "topic": "rangpur killings siddhartha family",
-  "source": "Jamuna TV, Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-08-30T01:09:57Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "630b840dcbc5a3ca",
-  "url": "https://www.thedailystar.net/news/bangladesh/news/unite-and-act-against-enforced-disappearance-4259841",
-  "headline": "PM Tarique Rahman calls for global unity against enforced disappearances, accountability",
-  "topic": "pm calls unity crimes against humanity",
-  "source": "Jamuna TV, The Daily Star, Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-08-30T01:09:57Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "d3834373d0328b61",
-  "url": "https://www.jamuna.tv/national/663056",
-  "headline": "PM Tarique Rahman calls for global unity against enforced disappearances, accountability",
-  "topic": "pm calls unity crimes against humanity",
-  "source": "Jamuna TV, The Daily Star, Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-08-30T01:09:57Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "581cfe9f9d8a2410",
-  "url": "https://www.dhakatribune.com/bangladesh/418614/pm-calls-for-global-unity-against-enforced",
-  "headline": "PM Tarique Rahman calls for global unity against enforced disappearances, accountability",
-  "topic": "pm calls unity crimes against humanity",
-  "source": "Jamuna TV, The Daily Star, Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-08-30T01:09:57Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "a9c9dfa0adba3c41",
   "url": "https://www.prothomalo.com/fun/86mihuzrnz",
   "headline": "Crore Taka computer, 30 lakh software for village road repair sparks controversy",
@@ -8398,5 +8328,50 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "3f9d3f2c063c8456",
+  "url": "https://www.dhakatribune.com/bangladesh/corruption/418899/acc-starts-investigation-against-asif-mahmud",
+  "headline": "ACC finds primary evidence of corruption against Asif Mahmud",
+  "topic": "acc investigation asif mahmud",
+  "source": "Jamuna TV, Dhaka Tribune, Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-02T11:06:41Z"
+ },
+ {
+  "title_hash": "4bc655166c222552",
+  "url": "https://www.jamuna.tv/national/663325",
+  "headline": "ACC finds primary evidence of corruption against Asif Mahmud",
+  "topic": "acc investigation asif mahmud",
+  "source": "Jamuna TV, Dhaka Tribune, Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-02T11:06:41Z"
+ },
+ {
+  "title_hash": "93d75b0bdae4b734",
+  "url": "https://www.prothomalo.com/bangladesh/snuq0uxdo7",
+  "headline": "ACC finds primary evidence of corruption against Asif Mahmud",
+  "topic": "acc investigation asif mahmud",
+  "source": "Jamuna TV, Dhaka Tribune, Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-02T11:06:41Z"
+ },
+ {
+  "title_hash": "71826c50a31d31f2",
+  "url": "https://www.thedailystar.net/news/crime-justice/corruption/news/acc-decides-investigate-corruption-allegations-against-asif-mahmud-4262976",
+  "headline": "ACC finds primary evidence of corruption against Asif Mahmud",
+  "topic": "acc investigation asif mahmud",
+  "source": "Jamuna TV, Dhaka Tribune, Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-02T11:06:41Z"
+ },
+ {
+  "title_hash": "3fe03d7ba793905e",
+  "url": "https://www.prothomalo.com/business/bank/knjcyyzqr0",
+  "headline": "Bank defaulted loans exceed 6 lakh crore taka",
+  "topic": "bangladesh defaulted loan 6 lakh crore",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-02T11:06:41Z"
  }
 ]
