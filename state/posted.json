@@ -8363,8 +8363,13 @@
   "headline": "Hamza Choudhury makes immediate impact as Sheffield United secure first league win",
   "topic": "hamza-choudhury-sheffield-debut",
   "source": "Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-02T04:11:58Z"
+  "status": "failed",
+  "at": "2026-09-02T04:11:58Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "61dfe31079dd92df",
@@ -8372,8 +8377,13 @@
   "headline": "Hamza Choudhury makes immediate impact as Sheffield United secure first league win",
   "topic": "hamza-choudhury-sheffield-debut",
   "source": "Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-02T04:11:58Z"
+  "status": "failed",
+  "at": "2026-09-02T04:11:58Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "5908dddabe970fee",
@@ -8381,7 +8391,12 @@
   "headline": "New rates: Primary scholarship students to get 300 and 225 taka monthly",
   "topic": "primary-school-stipend-rates-2025",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-02T04:11:58Z"
+  "status": "failed",
+  "at": "2026-09-02T04:11:58Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
