@@ -8363,8 +8363,13 @@
   "headline": "Understanding the ruling on Qada prayer: Doubts and solutions for missed prayers",
   "topic": "missed prayer rules",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-02T00:06:58Z"
+  "status": "failed",
+  "at": "2026-09-02T00:06:58Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "1a61e06cabd804af",
@@ -8372,8 +8377,13 @@
   "headline": "Tk 12 crore luxury cars seized at Chattogram port, declared as spare parts",
   "topic": "luxury cars imported as parts",
   "source": "Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-02T00:06:58Z"
+  "status": "failed",
+  "at": "2026-09-02T00:06:58Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "91fb492f97783fe8",
@@ -8381,7 +8391,12 @@
   "headline": "Tk 12 crore luxury cars seized at Chattogram port, declared as spare parts",
   "topic": "luxury cars imported as parts",
   "source": "Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-02T00:06:58Z"
+  "status": "failed",
+  "at": "2026-09-02T00:06:58Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
