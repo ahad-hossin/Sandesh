@@ -8363,8 +8363,13 @@
   "headline": "Trump thanks PM Tarique Rahman for Boeing purchase, expresses confidence in Bangladesh's future",
   "topic": "Trump message to Tarique Rahman",
   "source": "Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-02T03:07:13Z"
+  "status": "failed",
+  "at": "2026-09-02T03:07:13Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "8a8a39158c15edca",
@@ -8372,8 +8377,13 @@
   "headline": "Trump thanks PM Tarique Rahman for Boeing purchase, expresses confidence in Bangladesh's future",
   "topic": "Trump message to Tarique Rahman",
   "source": "Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-02T03:07:13Z"
+  "status": "failed",
+  "at": "2026-09-02T03:07:13Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "460df7eda5180e48",
@@ -8381,7 +8391,12 @@
   "headline": "MP's wife accused of land grabbing for solar plant on agricultural land in Bhaluka",
   "topic": "MP wife land grab solar plant",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-02T03:07:13Z"
+  "status": "failed",
+  "at": "2026-09-02T03:07:13Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
