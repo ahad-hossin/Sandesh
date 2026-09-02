@@ -1,33 +1,5 @@
 [
  {
-  "title_hash": "581cfe9f9d8a2410",
-  "url": "https://www.dhakatribune.com/bangladesh/418614/pm-calls-for-global-unity-against-enforced",
-  "headline": "No enforced disappearances or extrajudicial killings in last 6 months: Home Minister",
-  "topic": "enforced disappearances law and debate",
-  "source": "The Daily Star, Prothom Alo, Dhaka Tribune, Jamuna TV",
-  "status": "failed",
-  "at": "2026-08-29T21:06:39Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "d050b5ac9d99f225",
-  "url": "https://www.thedailystar.net/news/bangladesh/rights/news/no-one-can-be-judge-their-own-case-4259786",
-  "headline": "No enforced disappearances or extrajudicial killings in last 6 months: Home Minister",
-  "topic": "enforced disappearances law and debate",
-  "source": "The Daily Star, Prothom Alo, Dhaka Tribune, Jamuna TV",
-  "status": "failed",
-  "at": "2026-08-29T21:06:39Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "04fbcf9336c387d2",
   "url": "https://www.dhakatribune.com/bangladesh/laws-rights/418600/ask-state-accountability-needed-to-end-enforced",
   "headline": "No enforced disappearances or extrajudicial killings in last 6 months: Home Minister",
@@ -8398,5 +8370,23 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "57e286ee06875a5e",
+  "url": "https://www.prothomalo.com/world/middle-east/l8fsuaf6c8",
+  "headline": "Iran launches missile & drone attacks on US military sites in Jordan, Iraq, Kuwait, Bahrain",
+  "topic": "iran retaliates us bases",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-02T02:06:49Z"
+ },
+ {
+  "title_hash": "af6fe3eca20cdad0",
+  "url": "https://www.prothomalo.com/bangladesh/84f4a18ddn",
+  "headline": "New syndicate strategy for Malaysia jobs could hike costs to BDT 6-7 lakh",
+  "topic": "malaysia migrant syndicate new tactics",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-02T02:06:49Z"
  }
 ]
