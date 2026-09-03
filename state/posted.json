@@ -8321,8 +8321,13 @@
   "headline": "Tk 6,000 fine: Minister's car booked for wrong-side driving in Dhaka",
   "topic": "minister range rover traffic case",
   "source": "Prothom Alo, Jamuna TV, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-03T11:06:47Z"
+  "status": "failed",
+  "at": "2026-09-03T11:06:47Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "3539832f5faee669",
@@ -8330,8 +8335,13 @@
   "headline": "Tk 6,000 fine: Minister's car booked for wrong-side driving in Dhaka",
   "topic": "minister range rover traffic case",
   "source": "Prothom Alo, Jamuna TV, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-03T11:06:47Z"
+  "status": "failed",
+  "at": "2026-09-03T11:06:47Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "6bc248d94d1bd091",
@@ -8339,8 +8349,13 @@
   "headline": "Tk 6,000 fine: Minister's car booked for wrong-side driving in Dhaka",
   "topic": "minister range rover traffic case",
   "source": "Prothom Alo, Jamuna TV, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-03T11:06:47Z"
+  "status": "failed",
+  "at": "2026-09-03T11:06:47Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "0f74d038872c0864",
@@ -8348,8 +8363,13 @@
   "headline": "Tk 6,000 fine: Minister's car booked for wrong-side driving in Dhaka",
   "topic": "minister range rover traffic case",
   "source": "Prothom Alo, Jamuna TV, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-03T11:06:47Z"
+  "status": "failed",
+  "at": "2026-09-03T11:06:47Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "68f8588320924b3f",
@@ -8357,8 +8377,13 @@
   "headline": "Global prices, gas crisis: Commerce Minister explains oil and sugar price hikes",
   "topic": "commodity price hike",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-03T11:06:47Z"
+  "status": "failed",
+  "at": "2026-09-03T11:06:47Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "bce16c79e197005a",
@@ -8366,7 +8391,12 @@
   "headline": "Global prices, gas crisis: Commerce Minister explains oil and sugar price hikes",
   "topic": "commodity price hike",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-03T11:06:47Z"
+  "status": "failed",
+  "at": "2026-09-03T11:06:47Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
