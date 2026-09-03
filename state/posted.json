@@ -1,47 +1,5 @@
 [
  {
-  "title_hash": "811a9370c52dd266",
-  "url": "https://www.prothomalo.com/bangladesh/d7wl4oexsy",
-  "headline": "ACC summons former army chief Shafiuddin Ahmed over corruption",
-  "topic": "acc summons ex-army chief shafiuddin",
-  "source": "The Daily Star, Dhaka Tribune, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-30T15:07:54Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "03c9d8f603567a2c",
-  "url": "https://www.dhakatribune.com/bangladesh/crime/418654/%E2%80%98one-person%E2%80%99s-involvement-found-in-sagar-runi",
-  "headline": "New lead in Sagar-Runi case: Cultural personality linked to murder",
-  "topic": "sagar-runi murder new lead",
-  "source": "Dhaka Tribune, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-08-30T15:07:54Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "6648c950095be6c2",
-  "url": "https://www.prothomalo.com/bangladesh/saagr-runi-htyaakaanndde-ekjn-saanskrtik-byktitber-smprkttaa",
-  "headline": "New lead in Sagar-Runi case: Cultural personality linked to murder",
-  "topic": "sagar-runi murder new lead",
-  "source": "Dhaka Tribune, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-08-30T15:07:54Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "c05360e9bea466f1",
   "url": "https://www.thedailystar.net/news/crime-justice/homicide/news/sagar-runi-murder-case-ict-chief-prosecutor-says-evidence-points-cultural-personality-4260316",
   "headline": "New lead in Sagar-Runi case: Cultural personality linked to murder",
@@ -8398,5 +8356,32 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "0b24a20e327dbd9c",
+  "url": "https://www.jamuna.tv/all-bangladesh/663349",
+  "headline": "Tawhid Hridoy smashes 350* to break Tamim Iqbal's first-class record in South Africa",
+  "topic": "towhid hridoy cricket record",
+  "source": "Jamuna TV",
+  "status": "queued",
+  "at": "2026-09-03T01:07:02Z"
+ },
+ {
+  "title_hash": "73f96a93818ca55e",
+  "url": "https://www.thedailystar.net/news/bangladesh/news/homeopathic-practitioner-hacked-death-natore-4263546",
+  "headline": "Homeopathic practitioner hacked to death in Natore; motive remains unclear",
+  "topic": "natore homeopathic practitioner murder",
+  "source": "The Daily Star, Jamuna TV",
+  "status": "queued",
+  "at": "2026-09-03T01:07:02Z"
+ },
+ {
+  "title_hash": "ba97fc140b8e15ce",
+  "url": "https://www.jamuna.tv/all-bangladesh/663346",
+  "headline": "Homeopathic practitioner hacked to death in Natore; motive remains unclear",
+  "topic": "natore homeopathic practitioner murder",
+  "source": "The Daily Star, Jamuna TV",
+  "status": "queued",
+  "at": "2026-09-03T01:07:02Z"
  }
 ]
