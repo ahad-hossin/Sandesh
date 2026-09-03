@@ -1,75 +1,5 @@
 [
  {
-  "title_hash": "0162916fb2e1cd00",
-  "url": "https://www.thedailystar.net/news/news/friendships-runa-khan-gets-ramon-magsaysay-award-4260981",
-  "headline": "Friendship founder Runa Khan wins Ramon Magsaysay Award",
-  "topic": "runa khan magsaysay award",
-  "source": "Prothom Alo, Dhaka Tribune, Jamuna TV, The Daily Star",
-  "status": "failed",
-  "at": "2026-08-31T06:06:24Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "710ee814ab54c8ce",
-  "url": "https://www.prothomalo.com/bangladesh/g789910306",
-  "headline": "Friendship founder Runa Khan wins Ramon Magsaysay Award",
-  "topic": "runa khan magsaysay award",
-  "source": "Prothom Alo, Dhaka Tribune, Jamuna TV, The Daily Star",
-  "status": "failed",
-  "at": "2026-08-31T06:06:24Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "88e00f1125646345",
-  "url": "https://www.thedailystar.net/news/world/news/nepal-flood-death-toll-rises-903-missing-4247-disaster-authority-4261011",
-  "headline": "903 dead, 4,247 missing as devastating floods hit Nepal",
-  "topic": "nepal flood death toll",
-  "source": "Jamuna TV, The Daily Star",
-  "status": "failed",
-  "at": "2026-08-31T06:06:24Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "0432aba0883909e9",
-  "url": "https://www.jamuna.tv/international/663148",
-  "headline": "903 dead, 4,247 missing as devastating floods hit Nepal",
-  "topic": "nepal flood death toll",
-  "source": "Jamuna TV, The Daily Star",
-  "status": "failed",
-  "at": "2026-08-31T06:06:24Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "80e7da4e784aa460",
-  "url": "https://www.dhakatribune.com/bangladesh/court/418733/high-court-gives-verdict-in-magura-child",
-  "headline": "HC upholds death sentence for rape and murder of 8-year-old",
-  "topic": "magura-child-rape-murder-death-sentence",
-  "source": "Dhaka Tribune, Prothom Alo, Jamuna TV, The Daily Star",
-  "status": "failed",
-  "at": "2026-08-31T07:07:19Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "108bda522ac75ea7",
   "url": "https://www.prothomalo.com/bangladesh/b4xj3hvolw",
   "headline": "HC upholds death sentence for rape and murder of 8-year-old",
@@ -8398,5 +8328,50 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "1dbd5d8227f4aa70",
+  "url": "https://www.dhakatribune.com/bangladesh/parliament/419050/srb-to-replace-rab-under-new-law",
+  "headline": "Bill placed in Parliament to abolish RAB and create SRB",
+  "topic": "rab replaced by srb",
+  "source": "Dhaka Tribune, Jamuna TV, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-03T17:06:35Z"
+ },
+ {
+  "title_hash": "76f5acda80cc8a19",
+  "url": "https://www.jamuna.tv/national/663414",
+  "headline": "Bill placed in Parliament to abolish RAB and create SRB",
+  "topic": "rab replaced by srb",
+  "source": "Dhaka Tribune, Jamuna TV, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-03T17:06:35Z"
+ },
+ {
+  "title_hash": "bdb8134721f342d6",
+  "url": "https://www.thedailystar.net/news/crime-justice/news/bill-abolish-rab-create-srb-placed-nahid-shafiqur-demand-broader-discussion-4264166",
+  "headline": "Bill placed in Parliament to abolish RAB and create SRB",
+  "topic": "rab replaced by srb",
+  "source": "Dhaka Tribune, Jamuna TV, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-03T17:06:35Z"
+ },
+ {
+  "title_hash": "5960790f01d1c596",
+  "url": "https://www.thedailystar.net/news/technology/news/chatgpt-hit-global-outage-4264171",
+  "headline": "Over 33,000 reports in US: ChatGPT hit by global outage",
+  "topic": "chatgpt global outage",
+  "source": "Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-03T17:06:35Z"
+ },
+ {
+  "title_hash": "b006c7e7e6e87afd",
+  "url": "https://www.prothomalo.com/technology/artificial-intelligence/vgyh290piv",
+  "headline": "Over 33,000 reports in US: ChatGPT hit by global outage",
+  "topic": "chatgpt global outage",
+  "source": "Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-03T17:06:35Z"
  }
 ]
