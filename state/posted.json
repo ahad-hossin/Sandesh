@@ -8363,8 +8363,13 @@
   "headline": "Thunderstorms and gusty winds forecast for 7 districts by 1 PM today",
   "topic": "7 Districts Thunderstorm Forecast",
   "source": "Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-03T03:07:10Z"
+  "status": "failed",
+  "at": "2026-09-03T03:07:10Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "e9caf377797f85cb",
@@ -8372,8 +8377,13 @@
   "headline": "Jamalpur-Dhaka bus service suspended indefinitely over worker safety demands",
   "topic": "Jamalpur Dhaka Bus Service Suspended",
   "source": "Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-03T03:07:10Z"
+  "status": "failed",
+  "at": "2026-09-03T03:07:10Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "762b4109d7263903",
@@ -8381,7 +8391,12 @@
   "headline": "Jamalpur-Dhaka bus service suspended indefinitely over worker safety demands",
   "topic": "Jamalpur Dhaka Bus Service Suspended",
   "source": "Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-03T03:07:10Z"
+  "status": "failed",
+  "at": "2026-09-03T03:07:10Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
