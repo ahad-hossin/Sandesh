@@ -1,47 +1,5 @@
 [
  {
-  "title_hash": "e0d2ee5b2a466e97",
-  "url": "https://www.prothomalo.com/bangladesh/crime/ue78or5b59",
-  "headline": "DU teacher files GD over leaked personal data and threats",
-  "topic": "du university teacher doxxing",
-  "source": "Prothom Alo, Jamuna TV",
-  "status": "failed",
-  "at": "2026-08-30T21:06:28Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "8e09f5216112ed34",
-  "url": "https://www.jamuna.tv/national/663122",
-  "headline": "DU teacher files GD over leaked personal data and threats",
-  "topic": "du university teacher doxxing",
-  "source": "Prothom Alo, Jamuna TV",
-  "status": "failed",
-  "at": "2026-08-30T21:06:28Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "f67882f7c331c253",
-  "url": "https://www.prothomalo.com/world/middle-east/ltfby4g3ag",
-  "headline": "US strikes Iran's Larak Island near Strait of Hormuz",
-  "topic": "us attack larak island",
-  "source": "Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-30T22:07:50Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "43777b57e3167e7f",
   "url": "https://www.thedailystar.net/business/global-economy/news/nepal-flood-damage-may-cost-tenth-economy-rebuild-4260561",
   "headline": "Nepal floods: $4-5 billion needed to rebuild after devastating torrents",
@@ -8398,5 +8356,32 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "ef2273fe5dc3373b",
+  "url": "https://www.dhakatribune.com/bangladesh/court/418989/actor-riaz-appears-in-court-denied-bail",
+  "headline": "Actor Riaz denied bail in two cases by High Court",
+  "topic": "actor riaz denied bail",
+  "source": "Dhaka Tribune, Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-03T10:06:57Z"
+ },
+ {
+  "title_hash": "7deaca89cbcbc989",
+  "url": "https://www.prothomalo.com/bangladesh/yivzmktq7p",
+  "headline": "Actor Riaz denied bail in two cases by High Court",
+  "topic": "actor riaz denied bail",
+  "source": "Dhaka Tribune, Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-03T10:06:57Z"
+ },
+ {
+  "title_hash": "0c449089ef87e613",
+  "url": "https://www.prothomalo.com/business/bank/79tk8sq7jd",
+  "headline": "32.78% of bank loans: Bangladesh now world's highest in default loans",
+  "topic": "bangladesh highest loan defaulter",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-03T10:06:57Z"
  }
 ]
