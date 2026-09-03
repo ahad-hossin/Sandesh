@@ -8335,8 +8335,13 @@
   "headline": "ICT 30 accused, including Sheikh Hasina, ordered to surrender",
   "topic": "hasina ordered to surrender",
   "source": "Dhaka Tribune, Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-03T08:07:50Z"
+  "status": "failed",
+  "at": "2026-09-03T08:07:50Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "ded487e29eaa7d14",
@@ -8344,8 +8349,13 @@
   "headline": "ICT 30 accused, including Sheikh Hasina, ordered to surrender",
   "topic": "hasina ordered to surrender",
   "source": "Dhaka Tribune, Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-03T08:07:50Z"
+  "status": "failed",
+  "at": "2026-09-03T08:07:50Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "ff75c2fbf0e23255",
@@ -8353,8 +8363,13 @@
   "headline": "ICT 30 accused, including Sheikh Hasina, ordered to surrender",
   "topic": "hasina ordered to surrender",
   "source": "Dhaka Tribune, Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-03T08:07:50Z"
+  "status": "failed",
+  "at": "2026-09-03T08:07:50Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "3015c20837b0b451",
@@ -8362,8 +8377,13 @@
   "headline": "ACC launches probe against Asif Mahmud and 3 officials over corruption",
   "topic": "acc probe asif mahmud",
   "source": "The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-03T08:07:50Z"
+  "status": "failed",
+  "at": "2026-09-03T08:07:50Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "eea0f41566c549a2",
@@ -8371,7 +8391,12 @@
   "headline": "ACC launches probe against Asif Mahmud and 3 officials over corruption",
   "topic": "acc probe asif mahmud",
   "source": "The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-03T08:07:50Z"
+  "status": "failed",
+  "at": "2026-09-03T08:07:50Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
