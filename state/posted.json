@@ -1,75 +1,5 @@
 [
  {
-  "title_hash": "80e7da4e784aa460",
-  "url": "https://www.dhakatribune.com/bangladesh/court/418733/high-court-gives-verdict-in-magura-child",
-  "headline": "HC confirms death sentence for rape and murder of 8-year-old Asiya",
-  "topic": "hc_confirms_death_sentence_asiya_murder",
-  "source": "The Daily Star, Dhaka Tribune, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-31T08:06:41Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "6d1dfadbbbc2d1c8",
-  "url": "https://www.jamuna.tv/national/663150",
-  "headline": "HC confirms death sentence for rape and murder of 8-year-old Asiya",
-  "topic": "hc_confirms_death_sentence_asiya_murder",
-  "source": "The Daily Star, Dhaka Tribune, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-31T08:06:41Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "108bda522ac75ea7",
-  "url": "https://www.prothomalo.com/bangladesh/b4xj3hvolw",
-  "headline": "HC confirms death sentence for rape and murder of 8-year-old Asiya",
-  "topic": "hc_confirms_death_sentence_asiya_murder",
-  "source": "The Daily Star, Dhaka Tribune, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-31T08:06:41Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "9d53bffe7def91d5",
-  "url": "https://www.jamuna.tv/national/663138",
-  "headline": "HC confirms death sentence for rape and murder of 8-year-old Asiya",
-  "topic": "hc_confirms_death_sentence_asiya_murder",
-  "source": "The Daily Star, Dhaka Tribune, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-31T08:06:41Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "53020712b6b5c7e5",
-  "url": "https://www.dhakatribune.com/bangladesh/foreign-affairs/418737/us-provides-2.4m-health-equipment-to-bangladesh",
-  "headline": "US provides $2.4m health equipment to Bangladesh",
-  "topic": "us_health_equipment_bangladesh",
-  "source": "Dhaka Tribune, Jamuna TV",
-  "status": "failed",
-  "at": "2026-08-31T08:06:41Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "cc7bb725fcf06780",
   "url": "https://www.jamuna.tv/national/663152",
   "headline": "US provides $2.4m health equipment to Bangladesh",
@@ -8398,5 +8328,50 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "dbb547ae768782de",
+  "url": "https://www.thedailystar.net/news/bangladesh/news/acc-approves-case-against-hasina-rehana-4264406",
+  "headline": "Tk 276.30 crore embezzlement: ACC approves case against Sheikh Hasina, Rehana",
+  "topic": "acc-case-hasina-rehana",
+  "source": "The Daily Star",
+  "status": "queued",
+  "at": "2026-09-03T19:06:36Z"
+ },
+ {
+  "title_hash": "1dbd5d8227f4aa70",
+  "url": "https://www.dhakatribune.com/bangladesh/parliament/419050/srb-to-replace-rab-under-new-law",
+  "headline": "Govt moves to replace RAB with Special Response Battalion under new law",
+  "topic": "rab-replaced-by-srb",
+  "source": "Dhaka Tribune, Jamuna TV, Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-03T19:06:36Z"
+ },
+ {
+  "title_hash": "76f5acda80cc8a19",
+  "url": "https://www.jamuna.tv/national/663414",
+  "headline": "Govt moves to replace RAB with Special Response Battalion under new law",
+  "topic": "rab-replaced-by-srb",
+  "source": "Dhaka Tribune, Jamuna TV, Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-03T19:06:36Z"
+ },
+ {
+  "title_hash": "f336a11786ec979d",
+  "url": "https://www.prothomalo.com/video/bangladesh/c58prk9tjh",
+  "headline": "Govt moves to replace RAB with Special Response Battalion under new law",
+  "topic": "rab-replaced-by-srb",
+  "source": "Dhaka Tribune, Jamuna TV, Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-03T19:06:36Z"
+ },
+ {
+  "title_hash": "f5d0a25339b7386a",
+  "url": "https://www.prothomalo.com/politics/68iolyunwm",
+  "headline": "Govt moves to replace RAB with Special Response Battalion under new law",
+  "topic": "rab-replaced-by-srb",
+  "source": "Dhaka Tribune, Jamuna TV, Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-03T19:06:36Z"
  }
 ]
