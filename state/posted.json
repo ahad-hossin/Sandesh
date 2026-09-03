@@ -8363,8 +8363,13 @@
   "headline": "10,880 runs: Smriti Mandhana becomes all-time leading run-scorer in women's cricket",
   "topic": "mandhana breaks records",
   "source": "The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-03T20:06:32Z"
+  "status": "failed",
+  "at": "2026-09-03T20:06:32Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "09f05efed53a3285",
@@ -8372,8 +8377,13 @@
   "headline": "10,880 runs: Smriti Mandhana becomes all-time leading run-scorer in women's cricket",
   "topic": "mandhana breaks records",
   "source": "The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-03T20:06:32Z"
+  "status": "failed",
+  "at": "2026-09-03T20:06:32Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "1f3abe0890374b4c",
@@ -8381,7 +8391,12 @@
   "headline": "Monthly limit for shopping with mobile balance increased to ৳5,000",
   "topic": "mobile balance shopping limit",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-03T20:06:32Z"
+  "status": "failed",
+  "at": "2026-09-03T20:06:32Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
