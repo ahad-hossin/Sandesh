@@ -1,33 +1,5 @@
 [
  {
-  "title_hash": "0554b089de8c99e9",
-  "url": "https://www.thedailystar.net/news/world/news/iran-retaliates-after-first-us-strikes-month-4260936",
-  "headline": "Oil prices jump 2% as US and Iran trade fire in Middle East",
-  "topic": "us-iran-military-exchange",
-  "source": "The Daily Star, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-31T10:07:22Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "4a6ce46e73a5512e",
-  "url": "https://www.prothomalo.com/world/middle-east/d0hzg7svgh",
-  "headline": "Oil prices jump 2% as US and Iran trade fire in Middle East",
-  "topic": "us-iran-military-exchange",
-  "source": "The Daily Star, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-31T10:07:22Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "7400c7fb92558582",
   "url": "https://www.prothomalo.com/world/usa/a11lwutpok",
   "headline": "Oil prices jump 2% as US and Iran trade fire in Middle East",
@@ -8398,5 +8370,23 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "418fdd0a56e412b8",
+  "url": "https://www.prothomalo.com/world/asia/xun0wyv3kl",
+  "headline": "1,700+ sickened by free school meals in Indonesia over 3 days",
+  "topic": "indonesia school food poisoning",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-03T23:06:38Z"
+ },
+ {
+  "title_hash": "1f3abe0890374b4c",
+  "url": "https://www.prothomalo.com/bangladesh/ks9sgjbwxr",
+  "headline": "Monthly limit for shopping with mobile balance raised to ৳5,000",
+  "topic": "bangladesh bank mobile balance shopping limit",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-03T23:06:38Z"
  }
 ]
