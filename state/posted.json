@@ -1,33 +1,5 @@
 [
  {
-  "title_hash": "c05360e9bea466f1",
-  "url": "https://www.thedailystar.net/news/crime-justice/homicide/news/sagar-runi-murder-case-ict-chief-prosecutor-says-evidence-points-cultural-personality-4260316",
-  "headline": "New lead in Sagar-Runi case: Cultural personality linked to murder",
-  "topic": "sagar-runi murder new lead",
-  "source": "Dhaka Tribune, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-08-30T15:07:54Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "9f1118be71637627",
-  "url": "https://www.prothomalo.com/bangladesh/7gheomwazj",
-  "headline": "New lead in Sagar-Runi case: Cultural personality linked to murder",
-  "topic": "sagar-runi murder new lead",
-  "source": "Dhaka Tribune, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-08-30T15:07:54Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "191df201b27065d2",
   "url": "https://www.dhakatribune.com/bangladesh/parliament/418695/national-parliament-committee-approves-enforced",
   "headline": "Victims demand justice: 11 parties submit memorandum to Parliament on disappearances",
@@ -8398,5 +8370,23 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "0b24a20e327dbd9c",
+  "url": "https://www.jamuna.tv/sports/663349",
+  "headline": "Tawhid Hridoy smashes record 350* runs in first-class cricket, surpassing Tamim Iqbal",
+  "topic": "tawhid hridoy breaks tamim cricket record",
+  "source": "Jamuna TV",
+  "status": "queued",
+  "at": "2026-09-03T02:07:25Z"
+ },
+ {
+  "title_hash": "42dc619973ff371d",
+  "url": "https://www.thedailystar.net/business/organisation-news/news/price-bottled-soybean-oil-rises-tk-5-litre-4263321",
+  "headline": "Bottled soybean oil price rises by Tk 5 per litre, now Tk 204",
+  "topic": "soybean oil price hike",
+  "source": "The Daily Star",
+  "status": "queued",
+  "at": "2026-09-03T02:07:25Z"
  }
 ]
