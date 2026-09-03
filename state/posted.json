@@ -1,89 +1,5 @@
 [
  {
-  "title_hash": "19bf965d5114f6b5",
-  "url": "https://www.thedailystar.net/news/world/news/nepals-high-tech-disaster-response-meets-low-tech-reality-4260781",
-  "headline": "Nepal floods: $4-5 billion needed to rebuild after devastating torrents",
-  "topic": "nepal china floods",
-  "source": "Prothom Alo, The Daily Star, Jamuna TV",
-  "status": "failed",
-  "at": "2026-08-30T22:07:50Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "048049d2f431eea1",
-  "url": "https://www.thedailystar.net/news/world/news/survivors-return-ruins-salvage-memories-4260796",
-  "headline": "Nepal floods: $4-5 billion needed to rebuild after devastating torrents",
-  "topic": "nepal china floods",
-  "source": "Prothom Alo, The Daily Star, Jamuna TV",
-  "status": "failed",
-  "at": "2026-08-30T22:07:50Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "f67882f7c331c253",
-  "url": "https://www.prothomalo.com/world/middle-east/ltfby4g3ag",
-  "headline": "US strikes Iranian island of Larak near Strait of Hormuz",
-  "topic": "us attack larak island",
-  "source": "Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-30T23:06:29Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "048049d2f431eea1",
-  "url": "https://www.thedailystar.net/news/world/news/survivors-return-ruins-salvage-memories-4260796",
-  "headline": "Over 3,000 missing as glacial collapse triggers deadly floods in Nepal",
-  "topic": "nepal china floods",
-  "source": "Prothom Alo, Jamuna TV, The Daily Star",
-  "status": "failed",
-  "at": "2026-08-30T23:06:29Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "8fef494eeb468560",
-  "url": "https://www.prothomalo.com/world/asia/qslqiy41uh",
-  "headline": "Over 3,000 missing as glacial collapse triggers deadly floods in Nepal",
-  "topic": "nepal china floods",
-  "source": "Prothom Alo, Jamuna TV, The Daily Star",
-  "status": "failed",
-  "at": "2026-08-30T23:06:29Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "ef1fb05b04f05e6b",
-  "url": "https://www.jamuna.tv/international/663116",
-  "headline": "Over 3,000 missing as glacial collapse triggers deadly floods in Nepal",
-  "topic": "nepal china floods",
-  "source": "Prothom Alo, Jamuna TV, The Daily Star",
-  "status": "failed",
-  "at": "2026-08-30T23:06:29Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "ad5c154aca067cb7",
   "url": "https://www.jamuna.tv/international/663115",
   "headline": "Over 3,000 missing as glacial collapse triggers deadly floods in Nepal",
@@ -8398,5 +8314,59 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "c2becbd405fb95ae",
+  "url": "https://www.dhakatribune.com/bangladesh/health/419003/dengue-four-more-die-as-1-252-cases-recorded-in",
+  "headline": "1,252 hospitalised in 24 hours as 4 more die from dengue",
+  "topic": "dengue deaths surge",
+  "source": "Jamuna TV, Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-09-03T12:06:42Z"
+ },
+ {
+  "title_hash": "a64b2ecb70f1502c",
+  "url": "https://www.jamuna.tv/national/663398",
+  "headline": "1,252 hospitalised in 24 hours as 4 more die from dengue",
+  "topic": "dengue deaths surge",
+  "source": "Jamuna TV, Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-09-03T12:06:42Z"
+ },
+ {
+  "title_hash": "fe0054471d33961c",
+  "url": "https://www.thedailystar.net/news/news/ministers-range-rover-stopped-wrong-side-dhaka-road-driver-fined-4263936",
+  "headline": "Tk 6,000 fine: Minister's car fined for wrong-side driving in Dhaka",
+  "topic": "minister car traffic fine",
+  "source": "The Daily Star, Jamuna TV, Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-03T12:06:42Z"
+ },
+ {
+  "title_hash": "6bc248d94d1bd091",
+  "url": "https://www.jamuna.tv/national/663385",
+  "headline": "Tk 6,000 fine: Minister's car fined for wrong-side driving in Dhaka",
+  "topic": "minister car traffic fine",
+  "source": "The Daily Star, Jamuna TV, Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-03T12:06:42Z"
+ },
+ {
+  "title_hash": "3539832f5faee669",
+  "url": "https://www.prothomalo.com/bangladesh/capital/ttraaphik-aaine-mntriir-gaarrir-biruddhe-maamlaa",
+  "headline": "Tk 6,000 fine: Minister's car fined for wrong-side driving in Dhaka",
+  "topic": "minister car traffic fine",
+  "source": "The Daily Star, Jamuna TV, Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-03T12:06:42Z"
+ },
+ {
+  "title_hash": "0f74d038872c0864",
+  "url": "https://www.prothomalo.com/bangladesh/crime/b32t91xoux",
+  "headline": "Tk 6,000 fine: Minister's car fined for wrong-side driving in Dhaka",
+  "topic": "minister car traffic fine",
+  "source": "The Daily Star, Jamuna TV, Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-03T12:06:42Z"
  }
 ]
