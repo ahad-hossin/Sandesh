@@ -1,75 +1,5 @@
 [
  {
-  "title_hash": "0c080a240b7eb680",
-  "url": "https://www.prothomalo.com/world/middle-east/gdp01l5qai",
-  "headline": "Oil prices jump 2% as US and Iran trade fire in Middle East",
-  "topic": "us-iran-military-exchange",
-  "source": "The Daily Star, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-31T10:07:22Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "e2ff9a738fc68278",
-  "url": "https://www.thedailystar.net/business/news/oil-jumps-more-2-after-us-attack-irans-larak-island-4260991",
-  "headline": "Oil prices jump 2% as US and Iran trade fire in Middle East",
-  "topic": "us-iran-military-exchange",
-  "source": "The Daily Star, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-31T10:07:22Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "0b35365d885566b1",
-  "url": "https://www.jamuna.tv/international/663134",
-  "headline": "Oil prices jump 2% as US and Iran trade fire in Middle East",
-  "topic": "us-iran-military-exchange",
-  "source": "The Daily Star, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-31T10:07:22Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "c8ba1bc72cbee3d2",
-  "url": "https://www.thedailystar.net/news/world/news/trump-says-irans-kharg-being-blown-smithereens-gives-no-details-4260951",
-  "headline": "Oil prices jump 2% as US and Iran trade fire in Middle East",
-  "topic": "us-iran-military-exchange",
-  "source": "The Daily Star, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-31T10:07:22Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "8bd22a9a90db2c7a",
-  "url": "https://www.jamuna.tv/international/663133",
-  "headline": "Oil prices jump 2% as US and Iran trade fire in Middle East",
-  "topic": "us-iran-military-exchange",
-  "source": "The Daily Star, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-31T10:07:22Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "0554b089de8c99e9",
   "url": "https://www.thedailystar.net/news/world/news/iran-retaliates-after-first-us-strikes-month-4260936",
   "headline": "Oil prices jump 2% as US and Iran trade fire in Middle East",
@@ -8398,5 +8328,50 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "c8b128e8ee15e029",
+  "url": "https://www.thedailystar.net/news/bangladesh/news/bill-placed-abolish-rab-form-its-replacement-4264516",
+  "headline": "Bill placed to abolish RAB and form SRB as replacement",
+  "topic": "abolish rab form new force",
+  "source": "The Daily Star, Dhaka Tribune, Jamuna TV",
+  "status": "queued",
+  "at": "2026-09-03T22:06:44Z"
+ },
+ {
+  "title_hash": "1dbd5d8227f4aa70",
+  "url": "https://www.dhakatribune.com/bangladesh/parliament/419050/srb-to-replace-rab-under-new-law",
+  "headline": "Bill placed to abolish RAB and form SRB as replacement",
+  "topic": "abolish rab form new force",
+  "source": "The Daily Star, Dhaka Tribune, Jamuna TV",
+  "status": "queued",
+  "at": "2026-09-03T22:06:44Z"
+ },
+ {
+  "title_hash": "76f5acda80cc8a19",
+  "url": "https://www.jamuna.tv/national/663414",
+  "headline": "Bill placed to abolish RAB and form SRB as replacement",
+  "topic": "abolish rab form new force",
+  "source": "The Daily Star, Dhaka Tribune, Jamuna TV",
+  "status": "queued",
+  "at": "2026-09-03T22:06:44Z"
+ },
+ {
+  "title_hash": "c436d37fa1599dc9",
+  "url": "https://www.thedailystar.net/news/bangladesh/news/15717-children-reported-missing-jan-july-2026-4264376",
+  "headline": "15,717 children reported missing in 7 months: 2,038 remain untraced",
+  "topic": "children missing bangladesh",
+  "source": "The Daily Star, Jamuna TV",
+  "status": "queued",
+  "at": "2026-09-03T22:06:44Z"
+ },
+ {
+  "title_hash": "fec6001e440c1647",
+  "url": "https://www.jamuna.tv/national/663410",
+  "headline": "15,717 children reported missing in 7 months: 2,038 remain untraced",
+  "topic": "children missing bangladesh",
+  "source": "The Daily Star, Jamuna TV",
+  "status": "queued",
+  "at": "2026-09-03T22:06:44Z"
  }
 ]
