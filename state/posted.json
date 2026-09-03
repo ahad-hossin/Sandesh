@@ -8321,8 +8321,13 @@
   "headline": "10,880 runs: Smriti Mandhana becomes all-time leading run-scorer in women's cricket",
   "topic": "smriti mandhana breaks records",
   "source": "The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-03T21:09:07Z"
+  "status": "failed",
+  "at": "2026-09-03T21:09:07Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "09f05efed53a3285",
@@ -8330,8 +8335,13 @@
   "headline": "10,880 runs: Smriti Mandhana becomes all-time leading run-scorer in women's cricket",
   "topic": "smriti mandhana breaks records",
   "source": "The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-03T21:09:07Z"
+  "status": "failed",
+  "at": "2026-09-03T21:09:07Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "1dbd5d8227f4aa70",
@@ -8339,8 +8349,13 @@
   "headline": "Bill placed in Parliament to replace RAB with SRB",
   "topic": "rab replaced by srb",
   "source": "Dhaka Tribune, Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-03T21:09:07Z"
+  "status": "failed",
+  "at": "2026-09-03T21:09:07Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "f336a11786ec979d",
@@ -8348,8 +8363,13 @@
   "headline": "Bill placed in Parliament to replace RAB with SRB",
   "topic": "rab replaced by srb",
   "source": "Dhaka Tribune, Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-03T21:09:07Z"
+  "status": "failed",
+  "at": "2026-09-03T21:09:07Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "f5d0a25339b7386a",
@@ -8357,8 +8377,13 @@
   "headline": "Bill placed in Parliament to replace RAB with SRB",
   "topic": "rab replaced by srb",
   "source": "Dhaka Tribune, Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-03T21:09:07Z"
+  "status": "failed",
+  "at": "2026-09-03T21:09:07Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "c8b128e8ee15e029",
@@ -8366,7 +8391,12 @@
   "headline": "Bill placed in Parliament to replace RAB with SRB",
   "topic": "rab replaced by srb",
   "source": "Dhaka Tribune, Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-03T21:09:07Z"
+  "status": "failed",
+  "at": "2026-09-03T21:09:07Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
