@@ -8363,8 +8363,13 @@
   "headline": "Bad loans again exceed Tk 6 lakh crore in Bangladesh's banking sector, reaching 32.78% of total disbursed loans",
   "topic": "Bad loans exceed 6 lakh crore",
   "source": "Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-03T00:06:33Z"
+  "status": "failed",
+  "at": "2026-09-03T00:06:33Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "7d2368db742e2695",
@@ -8372,8 +8377,13 @@
   "headline": "Bad loans again exceed Tk 6 lakh crore in Bangladesh's banking sector, reaching 32.78% of total disbursed loans",
   "topic": "Bad loans exceed 6 lakh crore",
   "source": "Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-03T00:06:33Z"
+  "status": "failed",
+  "at": "2026-09-03T00:06:33Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "5d10f5808935dd20",
@@ -8381,7 +8391,12 @@
   "headline": "Bus driver Majed needs urgent financial aid for abdominal cancer treatment",
   "topic": "Bus driver cancer treatment appeal",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-03T00:06:33Z"
+  "status": "failed",
+  "at": "2026-09-03T00:06:33Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
