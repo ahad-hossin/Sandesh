@@ -8335,8 +8335,13 @@
   "headline": "Bill placed in Parliament to abolish RAB and create SRB",
   "topic": "rab replaced by srb",
   "source": "Dhaka Tribune, Jamuna TV, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-03T17:06:35Z"
+  "status": "failed",
+  "at": "2026-09-03T17:06:35Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "76f5acda80cc8a19",
@@ -8344,8 +8349,13 @@
   "headline": "Bill placed in Parliament to abolish RAB and create SRB",
   "topic": "rab replaced by srb",
   "source": "Dhaka Tribune, Jamuna TV, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-03T17:06:35Z"
+  "status": "failed",
+  "at": "2026-09-03T17:06:35Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "bdb8134721f342d6",
@@ -8353,8 +8363,13 @@
   "headline": "Bill placed in Parliament to abolish RAB and create SRB",
   "topic": "rab replaced by srb",
   "source": "Dhaka Tribune, Jamuna TV, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-03T17:06:35Z"
+  "status": "failed",
+  "at": "2026-09-03T17:06:35Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "5960790f01d1c596",
@@ -8362,8 +8377,13 @@
   "headline": "Over 33,000 reports in US: ChatGPT hit by global outage",
   "topic": "chatgpt global outage",
   "source": "Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-03T17:06:35Z"
+  "status": "failed",
+  "at": "2026-09-03T17:06:35Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "b006c7e7e6e87afd",
@@ -8371,7 +8391,12 @@
   "headline": "Over 33,000 reports in US: ChatGPT hit by global outage",
   "topic": "chatgpt global outage",
   "source": "Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-03T17:06:35Z"
+  "status": "failed",
+  "at": "2026-09-03T17:06:35Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
