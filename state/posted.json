@@ -8321,8 +8321,13 @@
   "headline": "Govt introduces bill to replace RAB with Special Response Battalion",
   "topic": "rab replaced by srb",
   "source": "Dhaka Tribune, Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-03T18:07:34Z"
+  "status": "failed",
+  "at": "2026-09-03T18:07:34Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "76f5acda80cc8a19",
@@ -8330,8 +8335,13 @@
   "headline": "Govt introduces bill to replace RAB with Special Response Battalion",
   "topic": "rab replaced by srb",
   "source": "Dhaka Tribune, Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-03T18:07:34Z"
+  "status": "failed",
+  "at": "2026-09-03T18:07:34Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "f336a11786ec979d",
@@ -8339,8 +8349,13 @@
   "headline": "Govt introduces bill to replace RAB with Special Response Battalion",
   "topic": "rab replaced by srb",
   "source": "Dhaka Tribune, Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-03T18:07:34Z"
+  "status": "failed",
+  "at": "2026-09-03T18:07:34Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "f5d0a25339b7386a",
@@ -8348,8 +8363,13 @@
   "headline": "Govt introduces bill to replace RAB with Special Response Battalion",
   "topic": "rab replaced by srb",
   "source": "Dhaka Tribune, Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-03T18:07:34Z"
+  "status": "failed",
+  "at": "2026-09-03T18:07:34Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "d51a15ad67d5daa9",
@@ -8357,8 +8377,13 @@
   "headline": "ACC seeks records from Asif Mahmud over corruption allegations",
   "topic": "acc probe asif mahmud",
   "source": "Jamuna TV, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-09-03T18:07:34Z"
+  "status": "failed",
+  "at": "2026-09-03T18:07:34Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "741de5b6d95cc4bd",
@@ -8366,7 +8391,12 @@
   "headline": "ACC seeks records from Asif Mahmud over corruption allegations",
   "topic": "acc probe asif mahmud",
   "source": "Jamuna TV, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-09-03T18:07:34Z"
+  "status": "failed",
+  "at": "2026-09-03T18:07:34Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
