@@ -8363,8 +8363,13 @@
   "headline": "Tawhid Hridoy smashes 350* to break Tamim Iqbal's first-class record in South Africa",
   "topic": "towhid hridoy cricket record",
   "source": "Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-03T01:07:02Z"
+  "status": "failed",
+  "at": "2026-09-03T01:07:02Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "73f96a93818ca55e",
@@ -8372,8 +8377,13 @@
   "headline": "Homeopathic practitioner hacked to death in Natore; motive remains unclear",
   "topic": "natore homeopathic practitioner murder",
   "source": "The Daily Star, Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-03T01:07:02Z"
+  "status": "failed",
+  "at": "2026-09-03T01:07:02Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "ba97fc140b8e15ce",
@@ -8381,7 +8391,12 @@
   "headline": "Homeopathic practitioner hacked to death in Natore; motive remains unclear",
   "topic": "natore homeopathic practitioner murder",
   "source": "The Daily Star, Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-03T01:07:02Z"
+  "status": "failed",
+  "at": "2026-09-03T01:07:02Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
