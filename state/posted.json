@@ -8321,8 +8321,13 @@
   "headline": "ICT orders Sheikh Hasina and 29 others to surrender by Sept 16",
   "topic": "hasina ordered to surrender",
   "source": "Dhaka Tribune, The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-03T09:10:17Z"
+  "status": "failed",
+  "at": "2026-09-03T09:10:17Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "ff75c2fbf0e23255",
@@ -8330,8 +8335,13 @@
   "headline": "ICT orders Sheikh Hasina and 29 others to surrender by Sept 16",
   "topic": "hasina ordered to surrender",
   "source": "Dhaka Tribune, The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-03T09:10:17Z"
+  "status": "failed",
+  "at": "2026-09-03T09:10:17Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "ded487e29eaa7d14",
@@ -8339,8 +8349,13 @@
   "headline": "ICT orders Sheikh Hasina and 29 others to surrender by Sept 16",
   "topic": "hasina ordered to surrender",
   "source": "Dhaka Tribune, The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-03T09:10:17Z"
+  "status": "failed",
+  "at": "2026-09-03T09:10:17Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "4b568be10945b3d3",
@@ -8348,8 +8363,13 @@
   "headline": "Floods in Nepal: Power supply to Bangladesh completely stopped",
   "topic": "nepal electricity export stopped",
   "source": "Dhaka Tribune, Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-03T09:10:17Z"
+  "status": "failed",
+  "at": "2026-09-03T09:10:17Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "ac4c73e7293b4ca2",
@@ -8357,8 +8377,13 @@
   "headline": "Floods in Nepal: Power supply to Bangladesh completely stopped",
   "topic": "nepal electricity export stopped",
   "source": "Dhaka Tribune, Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-03T09:10:17Z"
+  "status": "failed",
+  "at": "2026-09-03T09:10:17Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "41883db9fdf04cfd",
@@ -8366,7 +8391,12 @@
   "headline": "Floods in Nepal: Power supply to Bangladesh completely stopped",
   "topic": "nepal electricity export stopped",
   "source": "Dhaka Tribune, Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-03T09:10:17Z"
+  "status": "failed",
+  "at": "2026-09-03T09:10:17Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
