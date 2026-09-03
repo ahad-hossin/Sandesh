@@ -1,47 +1,5 @@
 [
  {
-  "title_hash": "dd5a5b48035cf7aa",
-  "url": "https://www.jamuna.tv/national/663106",
-  "headline": "Tk 902cr needed to operationalize HSIA third terminal, says Minister",
-  "topic": "hsia third terminal funding",
-  "source": "Prothom Alo, Dhaka Tribune, The Daily Star, Jamuna TV",
-  "status": "failed",
-  "at": "2026-08-30T14:06:57Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "9494f4e258c7c7f7",
-  "url": "https://www.thedailystar.net/news/crime-justice/corruption/news/acc-summons-former-army-chief-shafiuddin-ahmed-4260341",
-  "headline": "ACC summons former army chief Shafiuddin Ahmed over corruption",
-  "topic": "acc summons ex-army chief shafiuddin",
-  "source": "The Daily Star, Dhaka Tribune, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-30T15:07:54Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "3b88576f5bf4b74b",
-  "url": "https://www.dhakatribune.com/bangladesh/corruption/418685/acc-summons-ex-army-chief-shafiuddin-ahmed",
-  "headline": "ACC summons former army chief Shafiuddin Ahmed over corruption",
-  "topic": "acc summons ex-army chief shafiuddin",
-  "source": "The Daily Star, Dhaka Tribune, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-30T15:07:54Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "811a9370c52dd266",
   "url": "https://www.prothomalo.com/bangladesh/d7wl4oexsy",
   "headline": "ACC summons former army chief Shafiuddin Ahmed over corruption",
@@ -8398,5 +8356,32 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "0331a77b97d343ff",
+  "url": "https://www.thedailystar.net/news/bangladesh/news/bad-loans-now-over-tk-6-lakh-crore-4263601",
+  "headline": "Bad loans again exceed Tk 6 lakh crore in Bangladesh's banking sector, reaching 32.78% of total disbursed loans",
+  "topic": "Bad loans exceed 6 lakh crore",
+  "source": "Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-03T00:06:33Z"
+ },
+ {
+  "title_hash": "7d2368db742e2695",
+  "url": "https://www.prothomalo.com/business/bank/pro9yraold",
+  "headline": "Bad loans again exceed Tk 6 lakh crore in Bangladesh's banking sector, reaching 32.78% of total disbursed loans",
+  "topic": "Bad loans exceed 6 lakh crore",
+  "source": "Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-03T00:06:33Z"
+ },
+ {
+  "title_hash": "5d10f5808935dd20",
+  "url": "https://www.prothomalo.com/bangladesh/rsv8oy7emt",
+  "headline": "Bus driver Majed needs urgent financial aid for abdominal cancer treatment",
+  "topic": "Bus driver cancer treatment appeal",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-03T00:06:33Z"
  }
 ]
