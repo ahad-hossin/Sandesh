@@ -1,47 +1,5 @@
 [
  {
-  "title_hash": "191df201b27065d2",
-  "url": "https://www.dhakatribune.com/bangladesh/parliament/418695/national-parliament-committee-approves-enforced",
-  "headline": "Victims demand justice: 11 parties submit memorandum to Parliament on disappearances",
-  "topic": "enforced disappearance prevention bill",
-  "source": "Dhaka Tribune, Jamuna TV, The Daily Star",
-  "status": "failed",
-  "at": "2026-08-30T16:06:39Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "0a50101bdd29e831",
-  "url": "https://www.dhakatribune.com/bangladesh/418688/committee-submits-memorandum-to-speaker-over",
-  "headline": "Victims demand justice: 11 parties submit memorandum to Parliament on disappearances",
-  "topic": "enforced disappearance prevention bill",
-  "source": "Dhaka Tribune, Jamuna TV, The Daily Star",
-  "status": "failed",
-  "at": "2026-08-30T16:06:39Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "1847de7bc797de64",
-  "url": "https://www.jamuna.tv/national/663107",
-  "headline": "Victims demand justice: 11 parties submit memorandum to Parliament on disappearances",
-  "topic": "enforced disappearance prevention bill",
-  "source": "Dhaka Tribune, Jamuna TV, The Daily Star",
-  "status": "failed",
-  "at": "2026-08-30T16:06:39Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "6207e43317ac5239",
   "url": "https://www.thedailystar.net/news/bangladesh/rights/news/enforced-disappearance-victims-march-towards-parliament-4260276",
   "headline": "Victims demand justice: 11 parties submit memorandum to Parliament on disappearances",
@@ -8398,5 +8356,32 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "646039bf69639c55",
+  "url": "https://www.jamuna.tv/weather/663355",
+  "headline": "Thunderstorms and gusty winds forecast for 7 districts by 1 PM today",
+  "topic": "7 Districts Thunderstorm Forecast",
+  "source": "Jamuna TV",
+  "status": "queued",
+  "at": "2026-09-03T03:07:10Z"
+ },
+ {
+  "title_hash": "e9caf377797f85cb",
+  "url": "https://www.jamuna.tv/all-bangladesh/663353",
+  "headline": "Jamalpur-Dhaka bus service suspended indefinitely over worker safety demands",
+  "topic": "Jamalpur Dhaka Bus Service Suspended",
+  "source": "Jamuna TV",
+  "status": "queued",
+  "at": "2026-09-03T03:07:10Z"
+ },
+ {
+  "title_hash": "762b4109d7263903",
+  "url": "https://www.jamuna.tv/all-bangladesh/663347",
+  "headline": "Jamalpur-Dhaka bus service suspended indefinitely over worker safety demands",
+  "topic": "Jamalpur Dhaka Bus Service Suspended",
+  "source": "Jamuna TV",
+  "status": "queued",
+  "at": "2026-09-03T03:07:10Z"
  }
 ]
