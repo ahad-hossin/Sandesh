@@ -8307,8 +8307,13 @@
   "headline": "ICT orders Sheikh Hasina and 29 others to appear on Sept 16",
   "topic": "sheikh hasina ordered to surrender",
   "source": "Dhaka Tribune, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-03T07:10:52Z"
+  "status": "failed",
+  "at": "2026-09-03T07:10:52Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "ff75c2fbf0e23255",
@@ -8316,8 +8321,13 @@
   "headline": "ICT orders Sheikh Hasina and 29 others to appear on Sept 16",
   "topic": "sheikh hasina ordered to surrender",
   "source": "Dhaka Tribune, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-03T07:10:52Z"
+  "status": "failed",
+  "at": "2026-09-03T07:10:52Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "a68ab6ce07a0c10a",
@@ -8325,8 +8335,13 @@
   "headline": "18 killed as US and Iran exchange biggest strikes since July",
   "topic": "us-iran conflict escalation",
   "source": "Jamuna TV, Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-03T07:10:52Z"
+  "status": "failed",
+  "at": "2026-09-03T07:10:52Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "6790c706c4c0f88a",
@@ -8334,8 +8349,13 @@
   "headline": "18 killed as US and Iran exchange biggest strikes since July",
   "topic": "us-iran conflict escalation",
   "source": "Jamuna TV, Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-03T07:10:52Z"
+  "status": "failed",
+  "at": "2026-09-03T07:10:52Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "167406138e7868ea",
@@ -8343,8 +8363,13 @@
   "headline": "18 killed as US and Iran exchange biggest strikes since July",
   "topic": "us-iran conflict escalation",
   "source": "Jamuna TV, Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-03T07:10:52Z"
+  "status": "failed",
+  "at": "2026-09-03T07:10:52Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "12c71ffa7d887d32",
@@ -8352,8 +8377,13 @@
   "headline": "18 killed as US and Iran exchange biggest strikes since July",
   "topic": "us-iran conflict escalation",
   "source": "Jamuna TV, Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-03T07:10:52Z"
+  "status": "failed",
+  "at": "2026-09-03T07:10:52Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "7d24c7661abe8276",
@@ -8361,7 +8391,12 @@
   "headline": "18 killed as US and Iran exchange biggest strikes since July",
   "topic": "us-iran conflict escalation",
   "source": "Jamuna TV, Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-03T07:10:52Z"
+  "status": "failed",
+  "at": "2026-09-03T07:10:52Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
