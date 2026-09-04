@@ -8363,8 +8363,13 @@
   "headline": "Tk 276 crore: ACC approves case against Hasina, Rehana",
   "topic": "acc case against hasina and rehana",
   "source": "The Daily Star",
-  "status": "queued",
-  "at": "2026-09-04T10:06:35Z"
+  "status": "failed",
+  "at": "2026-09-04T10:06:35Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "f6674afd8262a5c5",
@@ -8372,8 +8377,13 @@
   "headline": "Tk 276 crore: ACC approves case against Hasina, Rehana",
   "topic": "acc case against hasina and rehana",
   "source": "The Daily Star",
-  "status": "queued",
-  "at": "2026-09-04T10:06:35Z"
+  "status": "failed",
+  "at": "2026-09-04T10:06:35Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "c8b128e8ee15e029",
@@ -8381,7 +8391,12 @@
   "headline": "Bill placed to abolish RAB and form Special Response Battalion",
   "topic": "bill to abolish rab",
   "source": "The Daily Star",
-  "status": "queued",
-  "at": "2026-09-04T10:06:35Z"
+  "status": "failed",
+  "at": "2026-09-04T10:06:35Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
