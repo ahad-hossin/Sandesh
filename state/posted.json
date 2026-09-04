@@ -1,47 +1,5 @@
 [
  {
-  "title_hash": "7400c7fb92558582",
-  "url": "https://www.prothomalo.com/world/usa/a11lwutpok",
-  "headline": "Oil prices jump 2% as US and Iran trade fire in Middle East",
-  "topic": "us-iran-military-exchange",
-  "source": "The Daily Star, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-31T10:07:22Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "144789ce73ca811f",
-  "url": "https://www.dhakatribune.com/bangladesh/crime/418741/toddler-rescued-in-patuakhali-after-alleged-sale",
-  "headline": "Father allegedly sold toddler for Tk 1 lakh to buy iPhone",
-  "topic": "toddler-sold-for-iphone",
-  "source": "Dhaka Tribune, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-08-31T10:07:22Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "0f50c757ac5e6dd5",
-  "url": "https://www.prothomalo.com/bangladesh/district/9x55v3crrj",
-  "headline": "Father allegedly sold toddler for Tk 1 lakh to buy iPhone",
-  "topic": "toddler-sold-for-iphone",
-  "source": "Dhaka Tribune, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-08-31T10:07:22Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "d684dd8b91ed0a0b",
   "url": "https://www.thedailystar.net/news/crime-justice/news/toddler-rescued-after-father-allegedly-sells-him-tk-1-lakh-4261161",
   "headline": "Father allegedly sold toddler for Tk 1 lakh to buy iPhone",
@@ -8398,5 +8356,32 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "c436d37fa1599dc9",
+  "url": "https://www.thedailystar.net/news/bangladesh/news/15717-children-reported-missing-jan-july-2026-4264376",
+  "headline": "15,717 children reported missing across Bangladesh Jan-July 2026; 2,038 still untraced",
+  "topic": "children missing bangladesh",
+  "source": "Jamuna TV, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-04T00:08:19Z"
+ },
+ {
+  "title_hash": "fec6001e440c1647",
+  "url": "https://www.jamuna.tv/national/663410",
+  "headline": "15,717 children reported missing across Bangladesh Jan-July 2026; 2,038 still untraced",
+  "topic": "children missing bangladesh",
+  "source": "Jamuna TV, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-04T00:08:19Z"
+ },
+ {
+  "title_hash": "f6674afd8262a5c5",
+  "url": "https://www.thedailystar.net/news/bangladesh/news/73-bangladeshis-face-acc-scrutiny-over-dubai-assets-4264416",
+  "headline": "73 Bangladeshis face ACC scrutiny over alleged Dubai money laundering",
+  "topic": "bangladeshis dubai assets acc probe",
+  "source": "The Daily Star",
+  "status": "queued",
+  "at": "2026-09-04T00:08:19Z"
  }
 ]
