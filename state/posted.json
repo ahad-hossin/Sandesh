@@ -1,33 +1,5 @@
 [
  {
-  "title_hash": "f189ae6a65efaf75",
-  "url": "https://www.thedailystar.net/news/accidents-and-fires/news/3-air-force-men-killed-road-crash-dhaka-airports-3rd-terminal-4261691",
-  "headline": "3 Air Force personnel killed in Dhaka airport's Third Terminal crash",
-  "topic": "air force personnel die dhaka airport",
-  "source": "Dhaka Tribune, Jamuna TV, The Daily Star, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-31T21:06:38Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "b1860267287e6752",
-  "url": "https://www.prothomalo.com/bangladesh/capital/jjllod1l25",
-  "headline": "3 Air Force personnel killed in Dhaka airport's Third Terminal crash",
-  "topic": "air force personnel die dhaka airport",
-  "source": "Dhaka Tribune, Jamuna TV, The Daily Star, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-31T21:06:38Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "065b7e1f9a3993ae",
   "url": "https://www.thedailystar.net/sports/football/news/messis-farewell-message-three-pages-20-years-and-golden-symbol-time-4261681",
   "headline": "End of an era: Lionel Messi retires from Argentina national team",
@@ -8398,5 +8370,23 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "0ed1d737a209d584",
+  "url": "https://www.prothomalo.com/bangladesh/district/f6h4xsei7p",
+  "headline": "1,938 iPhones seized: 6 Chinese nationals arrested in Cox's Bazar",
+  "topic": "chinese nationals arrested iPhones",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-04T18:06:17Z"
+ },
+ {
+  "title_hash": "9bd9f0913d0cba18",
+  "url": "https://www.dhakatribune.com/bangladesh/crime/419112/one-killed-over-50-injured-in-brahmanbaria-clash",
+  "headline": "Over 50 injured, one killed in Brahmanbaria clash",
+  "topic": "brahmanbaria clash deaths",
+  "source": "Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-09-04T18:06:17Z"
  }
 ]
