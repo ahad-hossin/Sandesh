@@ -1,47 +1,5 @@
 [
  {
-  "title_hash": "93e596d5e41cd0ea",
-  "url": "https://www.prothomalo.com/bangladesh/1o74ofsilt",
-  "headline": "Tk 105,580 crore cost: Govt approves new pay scale for public servants",
-  "topic": "govt-new-pay-scale-2026",
-  "source": "Prothom Alo, Jamuna TV, The Daily Star, Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-08-31T16:08:26Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "91a5d58253737beb",
-  "url": "https://www.prothomalo.com/bangladesh/srkaari-betnkaatthaamo-anumodn",
-  "headline": "Tk 105,580 crore cost: Govt approves new pay scale for public servants",
-  "topic": "govt-new-pay-scale-2026",
-  "source": "Prothom Alo, Jamuna TV, The Daily Star, Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-08-31T16:08:26Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "d1d607b6b812f6bb",
-  "url": "https://www.prothomalo.com/bangladesh/n93e6751vn",
-  "headline": "Tk 105,580 crore cost: Govt approves new pay scale for public servants",
-  "topic": "govt-new-pay-scale-2026",
-  "source": "Prothom Alo, Jamuna TV, The Daily Star, Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-08-31T16:08:26Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "cd6707ba9c616f62",
   "url": "https://www.prothomalo.com/business/economics/pozebttwds",
   "headline": "Tk 105,580 crore cost: Govt approves new pay scale for public servants",
@@ -8398,5 +8356,32 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "dbb547ae768782de",
+  "url": "https://www.thedailystar.net/news/bangladesh/news/acc-approves-case-against-hasina-rehana-4264406",
+  "headline": "Tk 276 crore: ACC approves case against Hasina, Rehana",
+  "topic": "acc case against hasina and rehana",
+  "source": "The Daily Star",
+  "status": "queued",
+  "at": "2026-09-04T10:06:35Z"
+ },
+ {
+  "title_hash": "f6674afd8262a5c5",
+  "url": "https://www.thedailystar.net/news/bangladesh/news/73-bangladeshis-face-acc-scrutiny-over-dubai-assets-4264416",
+  "headline": "Tk 276 crore: ACC approves case against Hasina, Rehana",
+  "topic": "acc case against hasina and rehana",
+  "source": "The Daily Star",
+  "status": "queued",
+  "at": "2026-09-04T10:06:35Z"
+ },
+ {
+  "title_hash": "c8b128e8ee15e029",
+  "url": "https://www.thedailystar.net/news/bangladesh/news/bill-placed-abolish-rab-form-its-replacement-4264516",
+  "headline": "Bill placed to abolish RAB and form Special Response Battalion",
+  "topic": "bill to abolish rab",
+  "source": "The Daily Star",
+  "status": "queued",
+  "at": "2026-09-04T10:06:35Z"
  }
 ]
