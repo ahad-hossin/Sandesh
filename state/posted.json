@@ -1,33 +1,5 @@
 [
  {
-  "title_hash": "d684dd8b91ed0a0b",
-  "url": "https://www.thedailystar.net/news/crime-justice/news/toddler-rescued-after-father-allegedly-sells-him-tk-1-lakh-4261161",
-  "headline": "Father allegedly sold toddler for Tk 1 lakh to buy iPhone",
-  "topic": "toddler-sold-for-iphone",
-  "source": "Dhaka Tribune, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-08-31T10:07:22Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "5732510083723071",
-  "url": "https://www.jamuna.tv/all-bangladesh/663179",
-  "headline": "Workers block Dhaka-Sylhet highway to demand Ashuganj Fertilizer Factory restart",
-  "topic": "ashuganj-fertilizer-factory-protest",
-  "source": "Jamuna TV",
-  "status": "failed",
-  "at": "2026-08-31T11:06:30Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "de3958197ba63970",
   "url": "https://www.jamuna.tv/all-bangladesh/663149",
   "headline": "Workers block Dhaka-Sylhet highway to demand Ashuganj Fertilizer Factory restart",
@@ -8398,5 +8370,23 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "fdb58159cbcf08f1",
+  "url": "https://www.jamuna.tv/misc/663423",
+  "headline": "Shri Krishna's divine birth celebrated as Janmashtami today across Bangladesh, marking truth's triumph",
+  "topic": "janmashtami celebration",
+  "source": "Jamuna TV",
+  "status": "queued",
+  "at": "2026-09-04T01:07:23Z"
+ },
+ {
+  "title_hash": "ece79d6e80ad8628",
+  "url": "https://www.prothomalo.com/opinion/letter/8muduxfezo",
+  "headline": "Widespread harassment mars tourist experience in Sylhet's attractions",
+  "topic": "sylhet tourist harassment",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-04T01:07:23Z"
  }
 ]
