@@ -1,47 +1,5 @@
 [
  {
-  "title_hash": "884bf98d05e20fb4",
-  "url": "https://www.jamuna.tv/national/663178",
-  "headline": "1,163 hospitalised: 4 die of dengue in 24 hours",
-  "topic": "dengue_death_toll_rise",
-  "source": "The Daily Star, Dhaka Tribune, Jamuna TV",
-  "status": "failed",
-  "at": "2026-08-31T14:06:37Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "85476c54db52c9f3",
-  "url": "https://www.thedailystar.net/business/news/public-servants-new-pay-scale-rolls-out-four-phases-4261341",
-  "headline": "Tk 105,580cr cost: Govt approves new pay scale for public servants",
-  "topic": "govt approves ninth pay scale",
-  "source": "The Daily Star, Jamuna TV, Dhaka Tribune, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-31T15:08:03Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "0cc0651f4cd21e16",
-  "url": "https://www.jamuna.tv/national/663193",
-  "headline": "Tk 105,580cr cost: Govt approves new pay scale for public servants",
-  "topic": "govt approves ninth pay scale",
-  "source": "The Daily Star, Jamuna TV, Dhaka Tribune, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-31T15:08:03Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "07907e3245b5d2ee",
   "url": "https://www.dhakatribune.com/bangladesh/418777/cabinet-approves-ninth-pay-scale-proposal",
   "headline": "Tk 105,580cr cost: Govt approves new pay scale for public servants",
@@ -8398,5 +8356,32 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "d76e381334ea9a6e",
+  "url": "https://www.jamuna.tv/all-bangladesh/663439",
+  "headline": "State Minister Abdul Bari injured in road accident in Bogura",
+  "topic": "state minister accident bogura",
+  "source": "Jamuna TV, Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-04T07:07:39Z"
+ },
+ {
+  "title_hash": "15e16b99dff7f487",
+  "url": "https://www.prothomalo.com/bangladesh/district/p3t91iql68",
+  "headline": "State Minister Abdul Bari injured in road accident in Bogura",
+  "topic": "state minister accident bogura",
+  "source": "Jamuna TV, Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-04T07:07:39Z"
+ },
+ {
+  "title_hash": "dbb547ae768782de",
+  "url": "https://www.thedailystar.net/news/bangladesh/news/acc-approves-case-against-hasina-rehana-4264406",
+  "headline": "Tk 276.30 crore embezzlement: ACC approves case against Hasina, Rehana",
+  "topic": "acc case hasina rehana",
+  "source": "The Daily Star",
+  "status": "queued",
+  "at": "2026-09-04T07:07:39Z"
  }
 ]
