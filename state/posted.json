@@ -8363,8 +8363,13 @@
   "headline": "7-year-old kidnapped in Dhaka's Shewrapara, still missing after two days",
   "topic": "child kidnapped shewrapara",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-04T22:06:31Z"
+  "status": "failed",
+  "at": "2026-09-04T22:06:31Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "6bc454856bc8f907",
@@ -8372,8 +8377,13 @@
   "headline": "70-year-old woman dies after being hit by state minister’s car in Bogura",
   "topic": "woman killed state minister car",
   "source": "The Daily Star, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-09-04T22:06:31Z"
+  "status": "failed",
+  "at": "2026-09-04T22:06:31Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "ef30997dec0bbd7e",
@@ -8381,7 +8391,12 @@
   "headline": "70-year-old woman dies after being hit by state minister’s car in Bogura",
   "topic": "woman killed state minister car",
   "source": "The Daily Star, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-09-04T22:06:31Z"
+  "status": "failed",
+  "at": "2026-09-04T22:06:31Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
