@@ -8363,8 +8363,13 @@
   "headline": "State Minister Abdul Bari injured in road accident in Bogura",
   "topic": "state minister accident bogura",
   "source": "Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-04T07:07:39Z"
+  "status": "failed",
+  "at": "2026-09-04T07:07:39Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "15e16b99dff7f487",
@@ -8372,8 +8377,13 @@
   "headline": "State Minister Abdul Bari injured in road accident in Bogura",
   "topic": "state minister accident bogura",
   "source": "Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-04T07:07:39Z"
+  "status": "failed",
+  "at": "2026-09-04T07:07:39Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "dbb547ae768782de",
@@ -8381,7 +8391,12 @@
   "headline": "Tk 276.30 crore embezzlement: ACC approves case against Hasina, Rehana",
   "topic": "acc case hasina rehana",
   "source": "The Daily Star",
-  "status": "queued",
-  "at": "2026-09-04T07:07:39Z"
+  "status": "failed",
+  "at": "2026-09-04T07:07:39Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
