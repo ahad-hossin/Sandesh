@@ -8307,8 +8307,13 @@
   "headline": "One killed, over 50 injured in Brahmanbaria clash",
   "topic": "brahmanbaria clash deaths",
   "source": "Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-09-04T16:06:32Z"
+  "status": "failed",
+  "at": "2026-09-04T16:06:32Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "f41b3f69c9f7e9a3",
@@ -8316,8 +8321,13 @@
   "headline": "One killed, over 50 injured in Brahmanbaria clash",
   "topic": "brahmanbaria clash deaths",
   "source": "Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-09-04T16:06:32Z"
+  "status": "failed",
+  "at": "2026-09-04T16:06:32Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "c20d6b0d49d7c159",
@@ -8325,8 +8335,13 @@
   "headline": "BNP leader calls for withdrawal of opposition long march over fuel crisis",
   "topic": "opposition long march dhaka chittagong",
   "source": "Dhaka Tribune, Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-04T16:06:32Z"
+  "status": "failed",
+  "at": "2026-09-04T16:06:32Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "c74a671f0896ed7a",
@@ -8334,8 +8349,13 @@
   "headline": "BNP leader calls for withdrawal of opposition long march over fuel crisis",
   "topic": "opposition long march dhaka chittagong",
   "source": "Dhaka Tribune, Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-04T16:06:32Z"
+  "status": "failed",
+  "at": "2026-09-04T16:06:32Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "6aca0de3d8c45fb0",
@@ -8343,8 +8363,13 @@
   "headline": "BNP leader calls for withdrawal of opposition long march over fuel crisis",
   "topic": "opposition long march dhaka chittagong",
   "source": "Dhaka Tribune, Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-04T16:06:32Z"
+  "status": "failed",
+  "at": "2026-09-04T16:06:32Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "5dd16ae8208d85c6",
@@ -8352,8 +8377,13 @@
   "headline": "BNP leader calls for withdrawal of opposition long march over fuel crisis",
   "topic": "opposition long march dhaka chittagong",
   "source": "Dhaka Tribune, Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-04T16:06:32Z"
+  "status": "failed",
+  "at": "2026-09-04T16:06:32Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "b688e6e2ea0c955d",
@@ -8361,7 +8391,12 @@
   "headline": "BNP leader calls for withdrawal of opposition long march over fuel crisis",
   "topic": "opposition long march dhaka chittagong",
   "source": "Dhaka Tribune, Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-04T16:06:32Z"
+  "status": "failed",
+  "at": "2026-09-04T16:06:32Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
