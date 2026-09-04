@@ -8363,8 +8363,13 @@
   "headline": "Janmashtami, marking Lord Krishna's birth, is celebrated nationwide with religious fervor today",
   "topic": "janmashtami celebration",
   "source": "Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-04T02:06:57Z"
+  "status": "failed",
+  "at": "2026-09-04T02:06:57Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "47d6fba9c0b28073",
@@ -8372,8 +8377,13 @@
   "headline": "Janmashtami, marking Lord Krishna's birth, is celebrated nationwide with religious fervor today",
   "topic": "janmashtami celebration",
   "source": "Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-04T02:06:57Z"
+  "status": "failed",
+  "at": "2026-09-04T02:06:57Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "7e2d5023580f7097",
@@ -8381,7 +8391,12 @@
   "headline": "Bangladesh government faces rising expenditure in salaries, fuel, and debt, while revenue growth lags",
   "topic": "govt spending and budget increase",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-04T02:06:57Z"
+  "status": "failed",
+  "at": "2026-09-04T02:06:57Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
