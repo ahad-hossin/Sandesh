@@ -8321,8 +8321,13 @@
   "headline": "13 injured in clash over 45 taka tea bill in Natore, fight reignites at hospital",
   "topic": "Natore Tea Bill Clash",
   "source": "Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-04T04:07:19Z"
+  "status": "failed",
+  "at": "2026-09-04T04:07:19Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "6d78919ed722c127",
@@ -8330,8 +8335,13 @@
   "headline": "13 injured in clash over 45 taka tea bill in Natore, fight reignites at hospital",
   "topic": "Natore Tea Bill Clash",
   "source": "Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-04T04:07:19Z"
+  "status": "failed",
+  "at": "2026-09-04T04:07:19Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "891e8535ae650805",
@@ -8339,8 +8349,13 @@
   "headline": "Janmashtami celebrates Lord Krishna's birth, embodying justice and righteousness",
   "topic": "Janmashtami Celebration",
   "source": "Prothom Alo, Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-04T04:07:19Z"
+  "status": "failed",
+  "at": "2026-09-04T04:07:19Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "fdb58159cbcf08f1",
@@ -8348,8 +8363,13 @@
   "headline": "Janmashtami celebrates Lord Krishna's birth, embodying justice and righteousness",
   "topic": "Janmashtami Celebration",
   "source": "Prothom Alo, Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-04T04:07:19Z"
+  "status": "failed",
+  "at": "2026-09-04T04:07:19Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "f601ff24fe86d388",
@@ -8357,8 +8377,13 @@
   "headline": "Janmashtami celebrates Lord Krishna's birth, embodying justice and righteousness",
   "topic": "Janmashtami Celebration",
   "source": "Prothom Alo, Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-04T04:07:19Z"
+  "status": "failed",
+  "at": "2026-09-04T04:07:19Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "47d6fba9c0b28073",
@@ -8366,7 +8391,12 @@
   "headline": "Janmashtami celebrates Lord Krishna's birth, embodying justice and righteousness",
   "topic": "Janmashtami Celebration",
   "source": "Prothom Alo, Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-04T04:07:19Z"
+  "status": "failed",
+  "at": "2026-09-04T04:07:19Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
