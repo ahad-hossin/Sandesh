@@ -8377,8 +8377,13 @@
   "headline": "Gas crisis drives demand for alternative stoves, artisans busy producing cement-sand cookers",
   "topic": "Gas crisis alternative stoves",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-04T03:06:58Z"
+  "status": "failed",
+  "at": "2026-09-04T03:06:58Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "7e2d5023580f7097",
@@ -8386,7 +8391,12 @@
   "headline": "Bangladesh government faces rising expenses from new pay scale, fuel, and debt, while revenue growth is limited",
   "topic": "Govt expenses rising limited income",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-04T03:06:58Z"
+  "status": "failed",
+  "at": "2026-09-04T03:06:58Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
