@@ -1,47 +1,5 @@
 [
  {
-  "title_hash": "decab7f288cf0762",
-  "url": "https://www.prothomalo.com/sports/football/tt8flybiaz",
-  "headline": "End of an era: Lionel Messi retires from Argentina national team",
-  "topic": "messi retires international football",
-  "source": "Jamuna TV, The Daily Star, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-31T21:06:38Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "c581abacfc58bbb7",
-  "url": "https://www.prothomalo.com/video/sports/qmnfblyynt",
-  "headline": "End of an era: Lionel Messi retires from Argentina national team",
-  "topic": "messi retires international football",
-  "source": "Jamuna TV, The Daily Star, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-31T21:06:38Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "fbdf72e3bed98747",
-  "url": "https://www.dhakatribune.com/bangladesh/dhaka/418804/three-killed-in-air-force-pickup-crash-at-dhaka",
-  "headline": "3 Air Force personnel killed in crash at Dhaka airport's 3rd Terminal",
-  "topic": "dhaka airport flyover crash",
-  "source": "Dhaka Tribune, Jamuna TV, The Daily Star, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-31T22:06:57Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "0a1f2b6234052f20",
   "url": "https://www.jamuna.tv/national/663206",
   "headline": "3 Air Force personnel killed in crash at Dhaka airport's 3rd Terminal",
@@ -8398,5 +8356,32 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "442838433ee8617c",
+  "url": "https://www.prothomalo.com/bangladesh/capital/e41ogll8ll",
+  "headline": "7-year-old kidnapped in Dhaka's Shewrapara, still missing after two days",
+  "topic": "child kidnapped shewrapara",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-04T22:06:31Z"
+ },
+ {
+  "title_hash": "6bc454856bc8f907",
+  "url": "https://www.thedailystar.net/news/accidents-and-fires/news/woman-dies-after-being-hit-state-ministers-car-4265096",
+  "headline": "70-year-old woman dies after being hit by state minister’s car in Bogura",
+  "topic": "woman killed state minister car",
+  "source": "The Daily Star, Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-09-04T22:06:31Z"
+ },
+ {
+  "title_hash": "ef30997dec0bbd7e",
+  "url": "https://www.dhakatribune.com/bangladesh/accidents/419092/state-minister-abdul-bari-sent-to-dhaka-for",
+  "headline": "70-year-old woman dies after being hit by state minister’s car in Bogura",
+  "topic": "woman killed state minister car",
+  "source": "The Daily Star, Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-09-04T22:06:31Z"
  }
 ]
