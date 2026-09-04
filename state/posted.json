@@ -8377,8 +8377,13 @@
   "headline": "8 Bangladeshis among 16 migrant workers detained in Indonesia",
   "topic": "bangladeshis detained indonesia",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-04T23:06:20Z"
+  "status": "failed",
+  "at": "2026-09-04T23:06:20Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "442838433ee8617c",
@@ -8386,7 +8391,12 @@
   "headline": "7-year-old kidnapped in Dhaka's Shewrapara, CCTV shows woman taking child",
   "topic": "child kidnapped shewarapara",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-04T23:06:20Z"
+  "status": "failed",
+  "at": "2026-09-04T23:06:20Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
