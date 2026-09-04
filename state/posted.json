@@ -8349,8 +8349,13 @@
   "headline": "Student arrested in Gazipur for mocking Prime Minister and govt officials",
   "topic": "gazipur youth arrested for pm remarks",
   "source": "Prothom Alo, Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-04T05:08:35Z"
+  "status": "failed",
+  "at": "2026-09-04T05:08:35Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "eaee93e641710fce",
@@ -8358,8 +8363,13 @@
   "headline": "Student arrested in Gazipur for mocking Prime Minister and govt officials",
   "topic": "gazipur youth arrested for pm remarks",
   "source": "Prothom Alo, Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-04T05:08:35Z"
+  "status": "failed",
+  "at": "2026-09-04T05:08:35Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "946dff6fed4583f4",
@@ -8367,8 +8377,13 @@
   "headline": "13 injured as clash erupts over 45-taka tea bill in Natore",
   "topic": "natore tea bill clash 13 injured",
   "source": "Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-04T05:08:35Z"
+  "status": "failed",
+  "at": "2026-09-04T05:08:35Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "6d78919ed722c127",
@@ -8376,7 +8391,12 @@
   "headline": "13 injured as clash erupts over 45-taka tea bill in Natore",
   "topic": "natore tea bill clash 13 injured",
   "source": "Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-04T05:08:35Z"
+  "status": "failed",
+  "at": "2026-09-04T05:08:35Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
