@@ -1,33 +1,5 @@
 [
  {
-  "title_hash": "0a1f2b6234052f20",
-  "url": "https://www.jamuna.tv/national/663206",
-  "headline": "3 Air Force personnel killed in crash at Dhaka airport's 3rd Terminal",
-  "topic": "dhaka airport flyover crash",
-  "source": "Dhaka Tribune, Jamuna TV, The Daily Star, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-31T22:06:57Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "f189ae6a65efaf75",
-  "url": "https://www.thedailystar.net/news/accidents-and-fires/news/3-air-force-men-killed-road-crash-dhaka-airports-3rd-terminal-4261691",
-  "headline": "3 Air Force personnel killed in crash at Dhaka airport's 3rd Terminal",
-  "topic": "dhaka airport flyover crash",
-  "source": "Dhaka Tribune, Jamuna TV, The Daily Star, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-31T22:06:57Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "b1860267287e6752",
   "url": "https://www.prothomalo.com/bangladesh/capital/jjllod1l25",
   "headline": "3 Air Force personnel killed in crash at Dhaka airport's 3rd Terminal",
@@ -8398,5 +8370,23 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "8af1573c4f1f1ede",
+  "url": "https://www.prothomalo.com/world/asia/qj712ze17s",
+  "headline": "8 Bangladeshis among 16 migrant workers detained in Indonesia",
+  "topic": "bangladeshis detained indonesia",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-04T23:06:20Z"
+ },
+ {
+  "title_hash": "442838433ee8617c",
+  "url": "https://www.prothomalo.com/bangladesh/capital/e41ogll8ll",
+  "headline": "7-year-old kidnapped in Dhaka's Shewrapara, CCTV shows woman taking child",
+  "topic": "child kidnapped shewarapara",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-04T23:06:20Z"
  }
 ]
