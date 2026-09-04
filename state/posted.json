@@ -1,47 +1,5 @@
 [
  {
-  "title_hash": "de3958197ba63970",
-  "url": "https://www.jamuna.tv/all-bangladesh/663149",
-  "headline": "Workers block Dhaka-Sylhet highway to demand Ashuganj Fertilizer Factory restart",
-  "topic": "ashuganj-fertilizer-factory-protest",
-  "source": "Jamuna TV",
-  "status": "failed",
-  "at": "2026-08-31T11:06:30Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "7a577a9e458ed4ea",
-  "url": "https://www.jamuna.tv/economy/663176",
-  "headline": "Fuel prices remain unchanged for September",
-  "topic": "fuel-gold-price-update",
-  "source": "Jamuna TV",
-  "status": "failed",
-  "at": "2026-08-31T11:06:30Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "fdc9f9993382b63c",
-  "url": "https://www.jamuna.tv/economy/663154",
-  "headline": "Fuel prices remain unchanged for September",
-  "topic": "fuel-gold-price-update",
-  "source": "Jamuna TV",
-  "status": "failed",
-  "at": "2026-08-31T11:06:30Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "07907e3245b5d2ee",
   "url": "https://www.dhakatribune.com/bangladesh/418777/cabinet-approves-ninth-pay-scale-proposal",
   "headline": "Govt approves ninth pay scale for public servants",
@@ -8398,5 +8356,32 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "fdb58159cbcf08f1",
+  "url": "https://www.jamuna.tv/misc/663423",
+  "headline": "Janmashtami, marking Lord Krishna's birth, is celebrated nationwide with religious fervor today",
+  "topic": "janmashtami celebration",
+  "source": "Jamuna TV, Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-04T02:06:57Z"
+ },
+ {
+  "title_hash": "47d6fba9c0b28073",
+  "url": "https://www.prothomalo.com/opinion/mlq6z7w82y",
+  "headline": "Janmashtami, marking Lord Krishna's birth, is celebrated nationwide with religious fervor today",
+  "topic": "janmashtami celebration",
+  "source": "Jamuna TV, Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-04T02:06:57Z"
+ },
+ {
+  "title_hash": "7e2d5023580f7097",
+  "url": "https://www.prothomalo.com/business/0efm2xgeku",
+  "headline": "Bangladesh government faces rising expenditure in salaries, fuel, and debt, while revenue growth lags",
+  "topic": "govt spending and budget increase",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-04T02:06:57Z"
  }
 ]
