@@ -8377,8 +8377,13 @@
   "headline": "Child kidnapping caught on CCTV in Dhaka, still missing after two days",
   "topic": "child abduction dhaka cctv",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-05T00:07:09Z"
+  "status": "failed",
+  "at": "2026-09-05T00:07:09Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "8af1573c4f1f1ede",
@@ -8386,7 +8391,12 @@
   "headline": "16 migrants, including 8 Bangladeshis, arrested attempting illegal entry into Indonesia from Malaysia",
   "topic": "bangladeshi migrant workers arrested indonesia",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-05T00:07:09Z"
+  "status": "failed",
+  "at": "2026-09-05T00:07:09Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
