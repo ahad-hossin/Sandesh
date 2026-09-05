@@ -1,75 +1,5 @@
 [
  {
-  "title_hash": "e5aa06381d4b3228",
-  "url": "https://www.prothomalo.com/chakri/chakri-news/1lp93iuq3q",
-  "headline": "600,000 jobs at risk in Bangladesh, World Bank warns amid economic crisis",
-  "topic": "bangladesh job loss forecast",
-  "source": "Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-01T03:07:05Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "699f91e6f0b882b5",
-  "url": "https://www.jamuna.tv/national/663208",
-  "headline": "BNP marks 48th founding anniversary, aims to strengthen democracy & good governance",
-  "topic": "bnp founding anniversary",
-  "source": "Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-01T03:07:05Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "8ef7e6180acc6c09",
-  "url": "https://www.prothomalo.com/politics/zt5vks7lks",
-  "headline": "BNP marks 48th founding anniversary, aims to strengthen democracy & good governance",
-  "topic": "bnp founding anniversary",
-  "source": "Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-01T03:07:05Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "057938fc96a44c86",
-  "url": "https://www.thedailystar.net/sports/football/news/tributes-eternal-messi-argentina-retirement-4261846",
-  "headline": "Football world pays homage as Lionel Messi retires from Argentina national team",
-  "topic": "messi retirement",
-  "source": "The Daily Star, Jamuna TV",
-  "status": "failed",
-  "at": "2026-09-01T04:09:53Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "24d69dd1d52fbddb",
-  "url": "https://www.thedailystar.net/sports/football/news/there-will-be-no-one-leo-4261686",
-  "headline": "Football world pays homage as Lionel Messi retires from Argentina national team",
-  "topic": "messi retirement",
-  "source": "The Daily Star, Jamuna TV",
-  "status": "failed",
-  "at": "2026-09-01T04:09:53Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "065b7e1f9a3993ae",
   "url": "https://www.thedailystar.net/sports/football/news/messis-farewell-message-three-pages-20-years-and-golden-symbol-time-4261681",
   "headline": "Football world pays homage as Lionel Messi retires from Argentina national team",
@@ -8398,5 +8328,50 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "417ed0118e34fd51",
+  "url": "https://www.dhakatribune.com/bangladesh/nation/419122/bodies-of-man-woman-newborn-recovered-from",
+  "headline": "Bodies of couple and newborn recovered from locked flat in Ashulia",
+  "topic": "ashulia couple newborn dead",
+  "source": "Jamuna TV, Dhaka Tribune, Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-05T08:06:24Z"
+ },
+ {
+  "title_hash": "3cf7ba3c7f8f6f36",
+  "url": "https://www.jamuna.tv/all-bangladesh/663494",
+  "headline": "Bodies of couple and newborn recovered from locked flat in Ashulia",
+  "topic": "ashulia couple newborn dead",
+  "source": "Jamuna TV, Dhaka Tribune, Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-05T08:06:24Z"
+ },
+ {
+  "title_hash": "42eafe43dbca9ca5",
+  "url": "https://www.prothomalo.com/bangladesh/district/3zj8qpyalx",
+  "headline": "Bodies of couple and newborn recovered from locked flat in Ashulia",
+  "topic": "ashulia couple newborn dead",
+  "source": "Jamuna TV, Dhaka Tribune, Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-05T08:06:24Z"
+ },
+ {
+  "title_hash": "69f773e4929b959e",
+  "url": "https://www.thedailystar.net/news/crime-justice/news/decomposed-bodies-two-adults-newborn-recovered-locked-room-ashulia-4265221",
+  "headline": "Bodies of couple and newborn recovered from locked flat in Ashulia",
+  "topic": "ashulia couple newborn dead",
+  "source": "Jamuna TV, Dhaka Tribune, Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-05T08:06:24Z"
+ },
+ {
+  "title_hash": "77ee04389e2d052c",
+  "url": "https://www.jamuna.tv/international/663495",
+  "headline": "4 US missiles hit Iranian oil tanker near Kharg Island",
+  "topic": "us missile attack iranian tanker",
+  "source": "Jamuna TV",
+  "status": "queued",
+  "at": "2026-09-05T08:06:24Z"
  }
 ]
