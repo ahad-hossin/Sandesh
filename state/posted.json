@@ -8349,8 +8349,13 @@
   "headline": "Trump envoys meet Putin in Moscow to discuss ending Ukraine war",
   "topic": "trump son-in-law putin meeting",
   "source": "Prothom Alo, Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-05T23:06:22Z"
+  "status": "failed",
+  "at": "2026-09-05T23:06:22Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "11f6226997da0384",
@@ -8358,8 +8363,13 @@
   "headline": "Trump envoys meet Putin in Moscow to discuss ending Ukraine war",
   "topic": "trump son-in-law putin meeting",
   "source": "Prothom Alo, Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-05T23:06:22Z"
+  "status": "failed",
+  "at": "2026-09-05T23:06:22Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "474eaac07bf61145",
@@ -8367,8 +8377,13 @@
   "headline": "Businessman shot inside his shop in Dhaka, 1 detained",
   "topic": "businessman shot dhaka",
   "source": "Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-05T23:06:22Z"
+  "status": "failed",
+  "at": "2026-09-05T23:06:22Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "d4a1e87c0cbf4aec",
@@ -8376,7 +8391,12 @@
   "headline": "Businessman shot inside his shop in Dhaka, 1 detained",
   "topic": "businessman shot dhaka",
   "source": "Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-05T23:06:22Z"
+  "status": "failed",
+  "at": "2026-09-05T23:06:22Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
