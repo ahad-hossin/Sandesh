@@ -8363,8 +8363,13 @@
   "headline": "Eggs, fish, and meat prices rise in Dhaka kitchen markets; some vegetables stable",
   "topic": "Food price hike",
   "source": "Dhaka Tribune, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-05T01:07:01Z"
+  "status": "failed",
+  "at": "2026-09-05T01:07:01Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "1602f9697dfa00e5",
@@ -8372,8 +8377,13 @@
   "headline": "Eggs, fish, and meat prices rise in Dhaka kitchen markets; some vegetables stable",
   "topic": "Food price hike",
   "source": "Dhaka Tribune, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-05T01:07:01Z"
+  "status": "failed",
+  "at": "2026-09-05T01:07:01Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "6bc454856bc8f907",
@@ -8381,7 +8391,12 @@
   "headline": "70-year-old woman dies after being hit by state minister’s car in Bogura",
   "topic": "Woman killed by minister's car",
   "source": "The Daily Star",
-  "status": "queued",
-  "at": "2026-09-05T01:07:01Z"
+  "status": "failed",
+  "at": "2026-09-05T01:07:01Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
