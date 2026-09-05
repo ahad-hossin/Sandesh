@@ -1,33 +1,5 @@
 [
  {
-  "title_hash": "c1db6ae1bc50a766",
-  "url": "https://www.thedailystar.net/news/world/news/nepal-china-floods-death-toll-crosses-1000-4261901",
-  "headline": "Over 1,000 dead in Nepal-China floods",
-  "topic": "nepal china flood disaster",
-  "source": "Jamuna TV, The Daily Star, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-01T07:08:39Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "c440e60db57b8759",
-  "url": "https://www.jamuna.tv/international/663228",
-  "headline": "Over 1,000 dead in Nepal-China floods",
-  "topic": "nepal china flood disaster",
-  "source": "Jamuna TV, The Daily Star, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-01T07:08:39Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "296f275761512e8f",
   "url": "https://www.prothomalo.com/world/asia/cxerpt4emr",
   "headline": "Over 1,000 dead in Nepal-China floods",
@@ -8398,5 +8370,23 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "5e1dea4a70dddcc3",
+  "url": "https://www.dhakatribune.com/bangladesh/419181/drunken-misconduct-si-of-narayanganj-river-police",
+  "headline": "Narayanganj: SI withdrawn after intoxicated video goes viral",
+  "topic": "narayanganj si intoxicated video",
+  "source": "Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-09-05T17:15:19Z"
+ },
+ {
+  "title_hash": "fb66cc218d0aacc7",
+  "url": "https://www.prothomalo.com/bangladesh/crime/920gnivs9w",
+  "headline": "Police force women to reveal faces during hotel raid in Dhaka",
+  "topic": "police abuse video abdullahpur",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-05T17:15:19Z"
  }
 ]
