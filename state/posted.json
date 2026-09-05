@@ -8335,8 +8335,13 @@
   "headline": "991 children dead as measles outbreak worsens in Bangladesh",
   "topic": "measles outbreak deaths",
   "source": "Prothom Alo, Dhaka Tribune, Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-05T14:06:28Z"
+  "status": "failed",
+  "at": "2026-09-05T14:06:28Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "5744e64930566d90",
@@ -8344,8 +8349,13 @@
   "headline": "991 children dead as measles outbreak worsens in Bangladesh",
   "topic": "measles outbreak deaths",
   "source": "Prothom Alo, Dhaka Tribune, Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-05T14:06:28Z"
+  "status": "failed",
+  "at": "2026-09-05T14:06:28Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "49d7a6dc920e9f4a",
@@ -8353,8 +8363,13 @@
   "headline": "991 children dead as measles outbreak worsens in Bangladesh",
   "topic": "measles outbreak deaths",
   "source": "Prothom Alo, Dhaka Tribune, Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-05T14:06:28Z"
+  "status": "failed",
+  "at": "2026-09-05T14:06:28Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "88fb52b36951c58f",
@@ -8362,8 +8377,13 @@
   "headline": "Fuel crisis: Prime Minister Tarique Rahman expresses regret over shortages",
   "topic": "dhaka fuel shortage",
   "source": "Dhaka Tribune, Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-05T14:06:28Z"
+  "status": "failed",
+  "at": "2026-09-05T14:06:28Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "7b5b86acfbd6e4ba",
@@ -8371,7 +8391,12 @@
   "headline": "Fuel crisis: Prime Minister Tarique Rahman expresses regret over shortages",
   "topic": "dhaka fuel shortage",
   "source": "Dhaka Tribune, Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-05T14:06:28Z"
+  "status": "failed",
+  "at": "2026-09-05T14:06:28Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
