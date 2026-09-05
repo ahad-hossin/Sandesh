@@ -1,47 +1,5 @@
 [
  {
-  "title_hash": "42d6d0b524443d37",
-  "url": "https://www.jamuna.tv/sports/663205",
-  "headline": "End of an era: Lionel Messi announces retirement from international football",
-  "topic": "messi international retirement",
-  "source": "Jamuna TV, The Daily Star, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-31T22:06:57Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "79db01a368ef8aee",
-  "url": "https://www.jamuna.tv/sports/663202",
-  "headline": "End of an era: Lionel Messi announces retirement from international football",
-  "topic": "messi international retirement",
-  "source": "Jamuna TV, The Daily Star, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-31T22:06:57Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "ffa113247ec7d834",
-  "url": "https://www.prothomalo.com/sports/football/14ej5fqph3",
-  "headline": "End of an era: Lionel Messi announces retirement from international football",
-  "topic": "messi international retirement",
-  "source": "Jamuna TV, The Daily Star, Prothom Alo",
-  "status": "failed",
-  "at": "2026-08-31T22:06:57Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "cce6b2c81eeab8ea",
   "url": "https://www.jamuna.tv/sports/663200",
   "headline": "End of an era: Lionel Messi announces retirement from international football",
@@ -8398,5 +8356,32 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "f0ae1f8c21ec3a24",
+  "url": "https://www.dhakatribune.com/bangladesh/419099/egg-vegetables-and-fish-prices-rise-in-dhaka",
+  "headline": "Eggs, fish, and meat prices rise in Dhaka kitchen markets; some vegetables stable",
+  "topic": "Food price hike",
+  "source": "Dhaka Tribune, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-05T01:07:01Z"
+ },
+ {
+  "title_hash": "1602f9697dfa00e5",
+  "url": "https://www.thedailystar.net/news/bangladesh/news/eggs-fish-meat-get-costlier-veggie-prices-stay-steady-4265066",
+  "headline": "Eggs, fish, and meat prices rise in Dhaka kitchen markets; some vegetables stable",
+  "topic": "Food price hike",
+  "source": "Dhaka Tribune, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-05T01:07:01Z"
+ },
+ {
+  "title_hash": "6bc454856bc8f907",
+  "url": "https://www.thedailystar.net/news/accidents-and-fires/news/woman-dies-after-being-hit-state-ministers-car-4265096",
+  "headline": "70-year-old woman dies after being hit by state minister’s car in Bogura",
+  "topic": "Woman killed by minister's car",
+  "source": "The Daily Star",
+  "status": "queued",
+  "at": "2026-09-05T01:07:01Z"
  }
 ]
