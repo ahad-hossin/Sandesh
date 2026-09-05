@@ -8321,8 +8321,13 @@
   "headline": "One detained after businessman shot inside shop in Shonir Akhra",
   "topic": "businessman shot in dhaka",
   "source": "Prothom Alo, Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-05T20:06:28Z"
+  "status": "failed",
+  "at": "2026-09-05T20:06:28Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "474eaac07bf61145",
@@ -8330,8 +8335,13 @@
   "headline": "One detained after businessman shot inside shop in Shonir Akhra",
   "topic": "businessman shot in dhaka",
   "source": "Prothom Alo, Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-05T20:06:28Z"
+  "status": "failed",
+  "at": "2026-09-05T20:06:28Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "22696edb2cc046d1",
@@ -8339,8 +8349,13 @@
   "headline": "3 arrested after body dumped on Elevated Expressway",
   "topic": "body dumped on expressway",
   "source": "Dhaka Tribune, Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-05T20:06:28Z"
+  "status": "failed",
+  "at": "2026-09-05T20:06:28Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "cd69626ae9465010",
@@ -8348,8 +8363,13 @@
   "headline": "3 arrested after body dumped on Elevated Expressway",
   "topic": "body dumped on expressway",
   "source": "Dhaka Tribune, Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-05T20:06:28Z"
+  "status": "failed",
+  "at": "2026-09-05T20:06:28Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "7ac3bf8f814418fa",
@@ -8357,8 +8377,13 @@
   "headline": "3 arrested after body dumped on Elevated Expressway",
   "topic": "body dumped on expressway",
   "source": "Dhaka Tribune, Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-05T20:06:28Z"
+  "status": "failed",
+  "at": "2026-09-05T20:06:28Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "b4afe0e8fe8fbff1",
@@ -8366,7 +8391,12 @@
   "headline": "3 arrested after body dumped on Elevated Expressway",
   "topic": "body dumped on expressway",
   "source": "Dhaka Tribune, Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-05T20:06:28Z"
+  "status": "failed",
+  "at": "2026-09-05T20:06:28Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
