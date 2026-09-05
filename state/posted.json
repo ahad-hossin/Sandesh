@@ -1,89 +1,5 @@
 [
  {
-  "title_hash": "42d6d0b524443d37",
-  "url": "https://www.jamuna.tv/sports/663205",
-  "headline": "End of an era: Lionel Messi retires from Argentina national team",
-  "topic": "messi retirement",
-  "source": "Jamuna TV, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-01T05:06:36Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "24d69dd1d52fbddb",
-  "url": "https://www.thedailystar.net/sports/football/news/there-will-be-no-one-leo-4261686",
-  "headline": "End of an era: Lionel Messi retires from Argentina national team",
-  "topic": "messi retirement",
-  "source": "Jamuna TV, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-01T05:06:36Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "065b7e1f9a3993ae",
-  "url": "https://www.thedailystar.net/sports/football/news/messis-farewell-message-three-pages-20-years-and-golden-symbol-time-4261681",
-  "headline": "End of an era: Lionel Messi retires from Argentina national team",
-  "topic": "messi retirement",
-  "source": "Jamuna TV, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-01T05:06:36Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "dd4099c57447dd5b",
-  "url": "https://www.thedailystar.net/sports/cricket/news/nahida-stars-bangladesh-crush-indonesia-asia-cup-opener-4261696",
-  "headline": "71-run win: Bangladesh crush Indonesia in Asia Cup opener",
-  "topic": "bangladesh womens asia cup win",
-  "source": "Jamuna TV, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-01T05:06:36Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "40f9d76e9a2bc012",
-  "url": "https://www.jamuna.tv/sports/663217",
-  "headline": "71-run win: Bangladesh crush Indonesia in Asia Cup opener",
-  "topic": "bangladesh womens asia cup win",
-  "source": "Jamuna TV, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-01T05:06:36Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "32c490aeede078e8",
-  "url": "https://www.thedailystar.net/sports/cricket/news/captain-joty-demands-bangladesh-rectify-mistakes-ahead-sri-lanka-match-despite-indonesia-win-4261886",
-  "headline": "71-run win: Bangladesh crush Indonesia in Asia Cup opener",
-  "topic": "bangladesh womens asia cup win",
-  "source": "Jamuna TV, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-01T05:06:36Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "057938fc96a44c86",
   "url": "https://www.thedailystar.net/sports/football/news/tributes-eternal-messi-argentina-retirement-4261846",
   "headline": "End of an era: Lionel Messi retires from Argentina national team",
@@ -8398,5 +8314,59 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "0bb61acfbeb10c2e",
+  "url": "https://www.thedailystar.net/sports/more-sports/news/bangladesh-women-thrash-chinese-taipei-7-0-4265376",
+  "headline": "7-0 win: Bangladesh women thrash Chinese Taipei in Junior Asia Cup opener",
+  "topic": "bangladesh women junior asia cup win",
+  "source": "The Daily Star, Jamuna TV",
+  "status": "queued",
+  "at": "2026-09-05T12:09:48Z"
+ },
+ {
+  "title_hash": "b91a66dd5cd3d44d",
+  "url": "https://www.jamuna.tv/sports/663515",
+  "headline": "7-0 win: Bangladesh women thrash Chinese Taipei in Junior Asia Cup opener",
+  "topic": "bangladesh women junior asia cup win",
+  "source": "The Daily Star, Jamuna TV",
+  "status": "queued",
+  "at": "2026-09-05T12:09:48Z"
+ },
+ {
+  "title_hash": "5b811c6110d18e4f",
+  "url": "https://www.dhakatribune.com/bangladesh/foreign-affairs/419148/humaiun-no-possibility-of-pm%E2%80%99s-india-visit-before",
+  "headline": "No PM visit to India before UNGA session, says State Minister",
+  "topic": "pm india visit unga",
+  "source": "Dhaka Tribune, The Daily Star, Jamuna TV",
+  "status": "queued",
+  "at": "2026-09-05T12:09:48Z"
+ },
+ {
+  "title_hash": "b01850a8d6c3663f",
+  "url": "https://www.thedailystar.net/news/bangladesh/diplomacy/news/no-pm-visit-india-un-session-state-minister-4265366",
+  "headline": "No PM visit to India before UNGA session, says State Minister",
+  "topic": "pm india visit unga",
+  "source": "Dhaka Tribune, The Daily Star, Jamuna TV",
+  "status": "queued",
+  "at": "2026-09-05T12:09:48Z"
+ },
+ {
+  "title_hash": "81d0bdcb1c1062dd",
+  "url": "https://www.dhakatribune.com/bangladesh/foreign-affairs/419135/humaiun-pm-to-carry-new-bangladesh-message-to",
+  "headline": "No PM visit to India before UNGA session, says State Minister",
+  "topic": "pm india visit unga",
+  "source": "Dhaka Tribune, The Daily Star, Jamuna TV",
+  "status": "queued",
+  "at": "2026-09-05T12:09:48Z"
+ },
+ {
+  "title_hash": "459d3e10e05caa61",
+  "url": "https://www.jamuna.tv/national/663502",
+  "headline": "No PM visit to India before UNGA session, says State Minister",
+  "topic": "pm india visit unga",
+  "source": "Dhaka Tribune, The Daily Star, Jamuna TV",
+  "status": "queued",
+  "at": "2026-09-05T12:09:48Z"
  }
 ]
