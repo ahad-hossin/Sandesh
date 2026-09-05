@@ -8377,8 +8377,13 @@
   "headline": "HC freezes S Alam Group’s 81.92% shares in Islami Bank",
   "topic": "hc freezes s alam group islami bank shares",
   "source": "The Daily Star",
-  "status": "queued",
-  "at": "2026-09-05T10:06:23Z"
+  "status": "failed",
+  "at": "2026-09-05T10:06:23Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "b45e32767d62ecc3",
@@ -8386,7 +8391,12 @@
   "headline": "Uber lays off 3,300 corporate employees in largest cut since pandemic",
   "topic": "uber mass layoffs",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-05T10:06:23Z"
+  "status": "failed",
+  "at": "2026-09-05T10:06:23Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
