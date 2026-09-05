@@ -8377,8 +8377,13 @@
   "headline": "Bangladesh faces highest Dengue infection in 3 years, mixed serotypes heighten risk",
   "topic": "Bangladesh dengue highest infection in 3 years",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-05T02:07:22Z"
+  "status": "failed",
+  "at": "2026-09-05T02:07:22Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "613b555b5ffb9d29",
@@ -8386,7 +8391,12 @@
   "headline": "US may attack Iran's 'Pickaxe' mountain soon, Trump warns of 'minor conflict'",
   "topic": "Trump threatens Iran attack",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-05T02:07:22Z"
+  "status": "failed",
+  "at": "2026-09-05T02:07:22Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
