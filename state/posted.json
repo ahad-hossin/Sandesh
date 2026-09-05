@@ -1,47 +1,5 @@
 [
  {
-  "title_hash": "d5d9960b76f7740a",
-  "url": "https://www.jamuna.tv/national/663216",
-  "headline": "BNP marks 48th founding anniversary with tree planting and tributes",
-  "topic": "bnp founding anniversary",
-  "source": "The Daily Star, Dhaka Tribune, Prothom Alo, Jamuna TV",
-  "status": "failed",
-  "at": "2026-09-01T08:06:36Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "18db3f33cebbde06",
-  "url": "https://www.thedailystar.net/news/politics/news/tarique-pays-tribute-zia-khaleda-bnps-founding-anniversary-4261881",
-  "headline": "BNP marks 48th founding anniversary with tree planting and tributes",
-  "topic": "bnp founding anniversary",
-  "source": "The Daily Star, Dhaka Tribune, Prothom Alo, Jamuna TV",
-  "status": "failed",
-  "at": "2026-09-01T08:06:36Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "699f91e6f0b882b5",
-  "url": "https://www.jamuna.tv/national/663208",
-  "headline": "BNP marks 48th founding anniversary with tree planting and tributes",
-  "topic": "bnp founding anniversary",
-  "source": "The Daily Star, Dhaka Tribune, Prothom Alo, Jamuna TV",
-  "status": "failed",
-  "at": "2026-09-01T08:06:36Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "7bed0d918da85ba0",
   "url": "https://www.thedailystar.net/sports/football/news/your-magical-talent-and-humility-will-be-remembered-forever-infantino-hails-messis-extraordinary-4262001",
   "headline": "207 caps, 125 goals: Lionel Messi retires from international football",
@@ -8398,5 +8356,32 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "474eaac07bf61145",
+  "url": "https://www.jamuna.tv/national/663537",
+  "headline": "Businessman shot and injured in Dhaka shop, suspect detained",
+  "topic": "dhaka businessman shot",
+  "source": "Jamuna TV, Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-05T21:06:28Z"
+ },
+ {
+  "title_hash": "d4a1e87c0cbf4aec",
+  "url": "https://www.prothomalo.com/bangladesh/crime/5hjw56v30v",
+  "headline": "Businessman shot and injured in Dhaka shop, suspect detained",
+  "topic": "dhaka businessman shot",
+  "source": "Jamuna TV, Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-05T21:06:28Z"
+ },
+ {
+  "title_hash": "d31de1ef49feb54d",
+  "url": "https://www.prothomalo.com/bangladesh/crime/5txz5k8k29",
+  "headline": "BDT 25 Crore Gold Seized: Biman employee's belt hidden gold recovered at HSIA",
+  "topic": "gold smuggled in belt",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-05T21:06:28Z"
  }
 ]
