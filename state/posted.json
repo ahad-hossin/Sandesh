@@ -8363,8 +8363,13 @@
   "headline": "Trump's envoys meet Putin in Moscow to discuss ending Ukraine war",
   "topic": "putin meets trump envoy",
   "source": "Prothom Alo, Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-05T22:06:24Z"
+  "status": "failed",
+  "at": "2026-09-05T22:06:24Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "11f6226997da0384",
@@ -8372,8 +8377,13 @@
   "headline": "Trump's envoys meet Putin in Moscow to discuss ending Ukraine war",
   "topic": "putin meets trump envoy",
   "source": "Prothom Alo, Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-05T22:06:24Z"
+  "status": "failed",
+  "at": "2026-09-05T22:06:24Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "16910e62c2590a82",
@@ -8381,7 +8391,12 @@
   "headline": "Missing 7-year-old rescued from Shariatpur after being taken by stranger",
   "topic": "missing child rescued shariatpur",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-05T22:06:24Z"
+  "status": "failed",
+  "at": "2026-09-05T22:06:24Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
