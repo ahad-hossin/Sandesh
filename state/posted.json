@@ -8349,8 +8349,13 @@
   "headline": "11-party alliance begins long march from Dhaka to Chattogram today, pressuring govt on key demands",
   "topic": "opposition long march chattogram",
   "source": "Jamuna TV, Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-05T03:06:47Z"
+  "status": "failed",
+  "at": "2026-09-05T03:06:47Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "048ecd5764053054",
@@ -8358,8 +8363,13 @@
   "headline": "11-party alliance begins long march from Dhaka to Chattogram today, pressuring govt on key demands",
   "topic": "opposition long march chattogram",
   "source": "Jamuna TV, Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-05T03:06:47Z"
+  "status": "failed",
+  "at": "2026-09-05T03:06:47Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "03d2b6cc659cbde8",
@@ -8367,8 +8377,13 @@
   "headline": "11-party alliance begins long march from Dhaka to Chattogram today, pressuring govt on key demands",
   "topic": "opposition long march chattogram",
   "source": "Jamuna TV, Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-05T03:06:47Z"
+  "status": "failed",
+  "at": "2026-09-05T03:06:47Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "1c92d9bf99889846",
@@ -8376,7 +8391,12 @@
   "headline": "Bangladesh sees highest dengue infection in 3 years, mixed serotypes increase risk",
   "topic": "dengue highest infection",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-05T03:06:47Z"
+  "status": "failed",
+  "at": "2026-09-05T03:06:47Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
