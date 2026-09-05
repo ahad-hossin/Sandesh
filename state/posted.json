@@ -8363,8 +8363,13 @@
   "headline": "Businessman shot and injured in Dhaka shop, suspect detained",
   "topic": "dhaka businessman shot",
   "source": "Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-05T21:06:28Z"
+  "status": "failed",
+  "at": "2026-09-05T21:06:28Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "d4a1e87c0cbf4aec",
@@ -8372,8 +8377,13 @@
   "headline": "Businessman shot and injured in Dhaka shop, suspect detained",
   "topic": "dhaka businessman shot",
   "source": "Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-05T21:06:28Z"
+  "status": "failed",
+  "at": "2026-09-05T21:06:28Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "d31de1ef49feb54d",
@@ -8381,7 +8391,12 @@
   "headline": "BDT 25 Crore Gold Seized: Biman employee's belt hidden gold recovered at HSIA",
   "topic": "gold smuggled in belt",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-05T21:06:28Z"
+  "status": "failed",
+  "at": "2026-09-05T21:06:28Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
