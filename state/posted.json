@@ -1,33 +1,5 @@
 [
  {
-  "title_hash": "42d6d0b524443d37",
-  "url": "https://www.jamuna.tv/sports/663205",
-  "headline": "Football world pays homage as Lionel Messi retires from Argentina national team",
-  "topic": "messi retirement",
-  "source": "The Daily Star, Jamuna TV",
-  "status": "failed",
-  "at": "2026-09-01T04:09:53Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "79db01a368ef8aee",
-  "url": "https://www.jamuna.tv/sports/663202",
-  "headline": "Football world pays homage as Lionel Messi retires from Argentina national team",
-  "topic": "messi retirement",
-  "source": "The Daily Star, Jamuna TV",
-  "status": "failed",
-  "at": "2026-09-01T04:09:53Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "45c4f1f7a9457290",
   "url": "https://www.thedailystar.net/news/world/united-states/news/two-dead-after-stabbing-new-yorks-times-square-4261826",
   "headline": "Two dead in Times Square stabbing as police shoot knife-wielding woman",
@@ -8398,5 +8370,23 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "f9a54788d2834836",
+  "url": "https://www.thedailystar.net/news/crime-justice/news/hc-freezes-s-alam-groups-8192-islami-bank-shares-4265156",
+  "headline": "HC freezes S Alam Group’s 81.92% shares in Islami Bank",
+  "topic": "hc freezes s alam group islami bank shares",
+  "source": "The Daily Star",
+  "status": "queued",
+  "at": "2026-09-05T10:06:23Z"
+ },
+ {
+  "title_hash": "b45e32767d62ecc3",
+  "url": "https://www.prothomalo.com/chakri/employment/vax9k2szok",
+  "headline": "Uber lays off 3,300 corporate employees in largest cut since pandemic",
+  "topic": "uber mass layoffs",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-05T10:06:23Z"
  }
 ]
