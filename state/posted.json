@@ -8349,8 +8349,13 @@
   "headline": "Greek F-4 Phantom fighter jet crashes during air show",
   "topic": "fighter jet crash air show",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-05T16:06:29Z"
+  "status": "failed",
+  "at": "2026-09-05T16:06:29Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "0db67be47edf0c4e",
@@ -8358,8 +8363,13 @@
   "headline": "Man with Tk 5 lakh found dead on Dhaka Elevated Expressway",
   "topic": "elevated expressway body found",
   "source": "The Daily Star, Dhaka Tribune, Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-05T16:06:29Z"
+  "status": "failed",
+  "at": "2026-09-05T16:06:29Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "b4afe0e8fe8fbff1",
@@ -8367,8 +8377,13 @@
   "headline": "Man with Tk 5 lakh found dead on Dhaka Elevated Expressway",
   "topic": "elevated expressway body found",
   "source": "The Daily Star, Dhaka Tribune, Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-05T16:06:29Z"
+  "status": "failed",
+  "at": "2026-09-05T16:06:29Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "6763b669efc48dd3",
@@ -8376,7 +8391,12 @@
   "headline": "Man with Tk 5 lakh found dead on Dhaka Elevated Expressway",
   "topic": "elevated expressway body found",
   "source": "The Daily Star, Dhaka Tribune, Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-05T16:06:29Z"
+  "status": "failed",
+  "at": "2026-09-05T16:06:29Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
