@@ -8335,8 +8335,13 @@
   "headline": "991 deaths: Measles outbreak kills 4 children in 24 hours in Bangladesh",
   "topic": "measles outbreak death toll",
   "source": "Dhaka Tribune, Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-05T11:06:30Z"
+  "status": "failed",
+  "at": "2026-09-05T11:06:30Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "49d7a6dc920e9f4a",
@@ -8344,8 +8349,13 @@
   "headline": "991 deaths: Measles outbreak kills 4 children in 24 hours in Bangladesh",
   "topic": "measles outbreak death toll",
   "source": "Dhaka Tribune, Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-05T11:06:30Z"
+  "status": "failed",
+  "at": "2026-09-05T11:06:30Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "5aea7e4be028db17",
@@ -8353,8 +8363,13 @@
   "headline": "3 killed in head-on collision between auto-rickshaw and van in Gazipur",
   "topic": "gazipur covered van accident",
   "source": "Jamuna TV, The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-05T11:06:30Z"
+  "status": "failed",
+  "at": "2026-09-05T11:06:30Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "6285960e7751a02f",
@@ -8362,8 +8377,13 @@
   "headline": "3 killed in head-on collision between auto-rickshaw and van in Gazipur",
   "topic": "gazipur covered van accident",
   "source": "Jamuna TV, The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-05T11:06:30Z"
+  "status": "failed",
+  "at": "2026-09-05T11:06:30Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "de9186c752be1640",
@@ -8371,7 +8391,12 @@
   "headline": "3 killed in head-on collision between auto-rickshaw and van in Gazipur",
   "topic": "gazipur covered van accident",
   "source": "Jamuna TV, The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-05T11:06:30Z"
+  "status": "failed",
+  "at": "2026-09-05T11:06:30Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
