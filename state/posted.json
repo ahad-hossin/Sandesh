@@ -1,61 +1,5 @@
 [
  {
-  "title_hash": "af6fe3eca20cdad0",
-  "url": "https://www.prothomalo.com/bangladesh/84f4a18ddn",
-  "headline": "New syndicate strategy for Malaysia jobs could hike costs to BDT 6-7 lakh",
-  "topic": "malaysia migrant syndicate new tactics",
-  "source": "Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-02T02:06:49Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "382a91ca961a3cc2",
-  "url": "https://www.thedailystar.net/news/bangladesh/diplomacy/news/boeing-wont-let-you-down-i-wont-forget-4262721",
-  "headline": "Trump thanks PM Tarique Rahman for Boeing purchase, expresses confidence in Bangladesh's future",
-  "topic": "Trump message to Tarique Rahman",
-  "source": "Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-02T03:07:13Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "8a8a39158c15edca",
-  "url": "https://www.prothomalo.com/bangladesh/uo1r9p47y0",
-  "headline": "Trump thanks PM Tarique Rahman for Boeing purchase, expresses confidence in Bangladesh's future",
-  "topic": "Trump message to Tarique Rahman",
-  "source": "Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-02T03:07:13Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "460df7eda5180e48",
-  "url": "https://www.prothomalo.com/video/bangladesh/ipzwwlp1f0",
-  "headline": "MP's wife accused of land grabbing for solar plant on agricultural land in Bhaluka",
-  "topic": "MP wife land grab solar plant",
-  "source": "Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-02T03:07:13Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "fe8d4b10dd5cee6d",
   "url": "https://www.thedailystar.net/sports/football/news/hamza-makes-immediate-impact-sheffield-claim-first-league-win-4262786",
   "headline": "Hamza Choudhury makes immediate impact as Sheffield United secure first league win",
@@ -8398,5 +8342,41 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "3c04647c6f244707",
+  "url": "https://www.thedailystar.net/business/economy/news/economic-buffer-bangladeshs-gross-forex-reserves-reach-36-billion-4266666",
+  "headline": "$36.38 billion: Bangladesh’s gross forex reserves reach new level",
+  "topic": "bangladesh forex reserves 36 billion",
+  "source": "The Daily Star",
+  "status": "queued",
+  "at": "2026-09-06T23:06:39Z"
+ },
+ {
+  "title_hash": "c93e3423e736542d",
+  "url": "https://www.dhakatribune.com/bangladesh/nation/419244/police-arrest-suspect-over-killing-of-sb",
+  "headline": "4 arrested for killing Special Branch SI Altab Hossain in Savar",
+  "topic": "savar sb si killing arrests",
+  "source": "Dhaka Tribune, Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-06T23:06:39Z"
+ },
+ {
+  "title_hash": "ef4715c4b535844c",
+  "url": "https://www.prothomalo.com/bangladesh/crime/cl2f776b8h",
+  "headline": "4 arrested for killing Special Branch SI Altab Hossain in Savar",
+  "topic": "savar sb si killing arrests",
+  "source": "Dhaka Tribune, Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-06T23:06:39Z"
+ },
+ {
+  "title_hash": "53695d0f2cd5c780",
+  "url": "https://www.thedailystar.net/news/crime-justice/news/key-suspect-held-over-sb-si-killing-4266731",
+  "headline": "4 arrested for killing Special Branch SI Altab Hossain in Savar",
+  "topic": "savar sb si killing arrests",
+  "source": "Dhaka Tribune, Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-06T23:06:39Z"
  }
 ]
