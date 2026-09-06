@@ -8321,8 +8321,13 @@
   "headline": "Police SI beaten to death in Savar after intervening in assault",
   "topic": "police officer beaten to death aminbazar",
   "source": "Dhaka Tribune, Prothom Alo, The Daily Star, Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-06T07:06:32Z"
+  "status": "failed",
+  "at": "2026-09-06T07:06:32Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "3c2fb93a802362ea",
@@ -8330,8 +8335,13 @@
   "headline": "Police SI beaten to death in Savar after intervening in assault",
   "topic": "police officer beaten to death aminbazar",
   "source": "Dhaka Tribune, Prothom Alo, The Daily Star, Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-06T07:06:32Z"
+  "status": "failed",
+  "at": "2026-09-06T07:06:32Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "67b6f5e561c6e8dd",
@@ -8339,8 +8349,13 @@
   "headline": "Police SI beaten to death in Savar after intervening in assault",
   "topic": "police officer beaten to death aminbazar",
   "source": "Dhaka Tribune, Prothom Alo, The Daily Star, Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-06T07:06:32Z"
+  "status": "failed",
+  "at": "2026-09-06T07:06:32Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "27d9eb8fe67aed82",
@@ -8348,8 +8363,13 @@
   "headline": "Police SI beaten to death in Savar after intervening in assault",
   "topic": "police officer beaten to death aminbazar",
   "source": "Dhaka Tribune, Prothom Alo, The Daily Star, Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-06T07:06:32Z"
+  "status": "failed",
+  "at": "2026-09-06T07:06:32Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "3a7d685362fdaac9",
@@ -8357,8 +8377,13 @@
   "headline": "Police SI beaten to death in Savar after intervening in assault",
   "topic": "police officer beaten to death aminbazar",
   "source": "Dhaka Tribune, Prothom Alo, The Daily Star, Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-06T07:06:32Z"
+  "status": "failed",
+  "at": "2026-09-06T07:06:32Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "cd799d55a9ff62d6",
@@ -8366,7 +8391,12 @@
   "headline": "Gold prices drop by 2,216 taka per bhori in Bangladesh",
   "topic": "gold price decrease",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-06T07:06:32Z"
+  "status": "failed",
+  "at": "2026-09-06T07:06:32Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
