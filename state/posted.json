@@ -1,33 +1,5 @@
 [
  {
-  "title_hash": "b7b8c5d135a962c6",
-  "url": "https://www.jamuna.tv/sports/663220",
-  "headline": "207 caps, 125 goals: Lionel Messi retires from international football",
-  "topic": "messi retires from argentina",
-  "source": "The Daily Star, Prothom Alo, Jamuna TV",
-  "status": "failed",
-  "at": "2026-09-01T10:06:43Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "49fc0ae705004d7b",
-  "url": "https://www.prothomalo.com/sports/football/m7gui6xnwo",
-  "headline": "207 caps, 125 goals: Lionel Messi retires from international football",
-  "topic": "messi retires from argentina",
-  "source": "The Daily Star, Prothom Alo, Jamuna TV",
-  "status": "failed",
-  "at": "2026-09-01T10:06:43Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "065b7e1f9a3993ae",
   "url": "https://www.thedailystar.net/sports/football/news/messis-farewell-message-three-pages-20-years-and-golden-symbol-time-4261681",
   "headline": "207 caps, 125 goals: Lionel Messi retires from international football",
@@ -8398,5 +8370,23 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "347569a34b4053f8",
+  "url": "https://www.prothomalo.com/opinion/column/2a8k4rv1fl",
+  "headline": "Child protection in Qawmi Madrasas: Addressing accountability gaps and institutional vulnerabilities",
+  "topic": "qawmi madrasa child protection",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-06T02:06:57Z"
+ },
+ {
+  "title_hash": "3a7d685362fdaac9",
+  "url": "https://www.jamuna.tv/all-bangladesh/663538",
+  "headline": "Police SB member beaten to death in Savar's Aminbazar over parking dispute; son injured",
+  "topic": "savar police sb murder",
+  "source": "Jamuna TV",
+  "status": "queued",
+  "at": "2026-09-06T02:06:57Z"
  }
 ]
