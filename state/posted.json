@@ -8349,8 +8349,13 @@
   "headline": "SB member beaten to death in Savar's Aminbazar; son injured in parking dispute",
   "topic": "Savar police member killed",
   "source": "Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-06T01:06:59Z"
+  "status": "failed",
+  "at": "2026-09-06T01:06:59Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "945be22baf384c30",
@@ -8358,8 +8363,13 @@
   "headline": "Bangladesh factories cut output amid severe gas and power shortages, risking export deadlines",
   "topic": "Bangladesh energy crisis impacts businesses",
   "source": "The Daily Star",
-  "status": "queued",
-  "at": "2026-09-06T01:06:59Z"
+  "status": "failed",
+  "at": "2026-09-06T01:06:59Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "7841418ea414ef79",
@@ -8367,8 +8377,13 @@
   "headline": "Bangladesh factories cut output amid severe gas and power shortages, risking export deadlines",
   "topic": "Bangladesh energy crisis impacts businesses",
   "source": "The Daily Star",
-  "status": "queued",
-  "at": "2026-09-06T01:06:59Z"
+  "status": "failed",
+  "at": "2026-09-06T01:06:59Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "c3c213835f759815",
@@ -8376,7 +8391,12 @@
   "headline": "Bangladesh factories cut output amid severe gas and power shortages, risking export deadlines",
   "topic": "Bangladesh energy crisis impacts businesses",
   "source": "The Daily Star",
-  "status": "queued",
-  "at": "2026-09-06T01:06:59Z"
+  "status": "failed",
+  "at": "2026-09-06T01:06:59Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
