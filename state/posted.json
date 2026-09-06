@@ -1,61 +1,5 @@
 [
  {
-  "title_hash": "065b7e1f9a3993ae",
-  "url": "https://www.thedailystar.net/sports/football/news/messis-farewell-message-three-pages-20-years-and-golden-symbol-time-4261681",
-  "headline": "207 caps, 125 goals: Lionel Messi retires from international football",
-  "topic": "messi retires from argentina",
-  "source": "The Daily Star, Prothom Alo, Jamuna TV",
-  "status": "failed",
-  "at": "2026-09-01T10:06:43Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "3f7c8e86073d5181",
-  "url": "https://www.thedailystar.net/news/governance/news/dhaka-now-shares-load-shedding-burden-rural-areas-adviser-zahed-4262011",
-  "headline": "Dhaka to share load-shedding burden with rural areas to ease power crisis",
-  "topic": "dhaka load shedding rural relief",
-  "source": "The Daily Star, Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-09-01T10:06:43Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "71db6406aaf7700b",
-  "url": "https://www.dhakatribune.com/bangladesh/power-energy/418825/adviser-dhaka-loadshedding-to-ease-rural-power",
-  "headline": "Dhaka to share load-shedding burden with rural areas to ease power crisis",
-  "topic": "dhaka load shedding rural relief",
-  "source": "The Daily Star, Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-09-01T10:06:43Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "7bed0d918da85ba0",
-  "url": "https://www.thedailystar.net/sports/football/news/your-magical-talent-and-humility-will-be-remembered-forever-infantino-hails-messis-extraordinary-4262001",
-  "headline": "207 caps, 125 goals: Lionel Messi retires from international football",
-  "topic": "messi international retirement",
-  "source": "Prothom Alo, The Daily Star, Jamuna TV",
-  "status": "failed",
-  "at": "2026-09-01T11:06:53Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "9d84336724687446",
   "url": "https://www.prothomalo.com/sports/football/i6fv00l6jf",
   "headline": "207 caps, 125 goals: Lionel Messi retires from international football",
@@ -8398,5 +8342,41 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "d6c80333b6cc216e",
+  "url": "https://www.dhakatribune.com/bangladesh/dhaka/419183/police-sb-member-beaten-to-death-in-aminbazar",
+  "headline": "SB police officer beaten to death in Savar after protesting assault on auto-rickshaw driver",
+  "topic": "Police Officer Murder Aminbazar",
+  "source": "Dhaka Tribune, The Daily Star, Jamuna TV",
+  "status": "queued",
+  "at": "2026-09-06T04:09:24Z"
+ },
+ {
+  "title_hash": "67b6f5e561c6e8dd",
+  "url": "https://www.thedailystar.net/news/crime-justice/news/sb-police-officer-beaten-death-savar-4265866",
+  "headline": "SB police officer beaten to death in Savar after protesting assault on auto-rickshaw driver",
+  "topic": "Police Officer Murder Aminbazar",
+  "source": "Dhaka Tribune, The Daily Star, Jamuna TV",
+  "status": "queued",
+  "at": "2026-09-06T04:09:24Z"
+ },
+ {
+  "title_hash": "3a7d685362fdaac9",
+  "url": "https://www.jamuna.tv/all-bangladesh/663538",
+  "headline": "SB police officer beaten to death in Savar after protesting assault on auto-rickshaw driver",
+  "topic": "Police Officer Murder Aminbazar",
+  "source": "Dhaka Tribune, The Daily Star, Jamuna TV",
+  "status": "queued",
+  "at": "2026-09-06T04:09:24Z"
+ },
+ {
+  "title_hash": "d931ce8ae8b899dd",
+  "url": "https://www.prothomalo.com/opinion/editorial/vploys4oxs",
+  "headline": "Dengue infections highest in 3 years with 110 deaths; experts warn of uncontrolled spread",
+  "topic": "Dengue Preparedness Call",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-06T04:09:24Z"
  }
 ]
