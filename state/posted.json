@@ -8335,8 +8335,13 @@
   "headline": "Annual foreign travel quota raised to $18,000 from $12,000",
   "topic": "bangladesh foreign travel quota increase",
   "source": "Jamuna TV, The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-06T11:07:31Z"
+  "status": "failed",
+  "at": "2026-09-06T11:07:31Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "5bd67ba7c15dc409",
@@ -8344,8 +8349,13 @@
   "headline": "Annual foreign travel quota raised to $18,000 from $12,000",
   "topic": "bangladesh foreign travel quota increase",
   "source": "Jamuna TV, The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-06T11:07:31Z"
+  "status": "failed",
+  "at": "2026-09-06T11:07:31Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "96c6d7817259a77a",
@@ -8353,8 +8363,13 @@
   "headline": "Annual foreign travel quota raised to $18,000 from $12,000",
   "topic": "bangladesh foreign travel quota increase",
   "source": "Jamuna TV, The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-06T11:07:31Z"
+  "status": "failed",
+  "at": "2026-09-06T11:07:31Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "172eec0a7f43542a",
@@ -8362,8 +8377,13 @@
   "headline": "PM Tarique Rahman directs stronger dengue prevention drives nationwide",
   "topic": "pm directs dengue prevention",
   "source": "Jamuna TV, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-06T11:07:31Z"
+  "status": "failed",
+  "at": "2026-09-06T11:07:31Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "1970de7a51ffdff3",
@@ -8371,7 +8391,12 @@
   "headline": "PM Tarique Rahman directs stronger dengue prevention drives nationwide",
   "topic": "pm directs dengue prevention",
   "source": "Jamuna TV, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-06T11:07:31Z"
+  "status": "failed",
+  "at": "2026-09-06T11:07:31Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
