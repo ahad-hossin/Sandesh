@@ -1,61 +1,5 @@
 [
  {
-  "title_hash": "8cf9db74d1532a10",
-  "url": "https://www.prothomalo.com/bangladesh/pzpx6cmllv",
-  "headline": "Power and Energy Minister Iqbal Hasan Mahmud admitted to hospital",
-  "topic": "fuel minister hospitalised",
-  "source": "Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-01T20:06:28Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "6053d412d87a22a9",
-  "url": "https://www.thedailystar.net/sports/cricket/news/hridoy-joins-shakib-mushfiqs-elite-list-double-ton-4262436",
-  "headline": "Tawhid Hridoy hits double century abroad against South Africa 'A'",
-  "topic": "hridoy double ton",
-  "source": "The Daily Star",
-  "status": "failed",
-  "at": "2026-09-01T21:08:05Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "cad1fabcc21d78b7",
-  "url": "https://www.dhakatribune.com/bangladesh/crime/418886/tangail-schoolgirl-rescued-27-days-after",
-  "headline": "3 firearms recovered as two held for shooting at BNP leader's home",
-  "topic": "tangail schoolgirl rescue",
-  "source": "Dhaka Tribune, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-01T21:08:05Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "4011f90c17b0c9a9",
-  "url": "https://www.thedailystar.net/news/bangladesh/news/jcd-man-held-dhaka-over-shooting-bnp-leaders-home-4262541",
-  "headline": "3 firearms recovered as two held for shooting at BNP leader's home",
-  "topic": "tangail schoolgirl rescue",
-  "source": "Dhaka Tribune, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-01T21:08:05Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "a5d9d8b87b63f84b",
   "url": "https://www.prothomalo.com/world/middle-east/fx8afccp2k",
   "headline": "Iran claims missile strike on US military barracks in Jordan",
@@ -8398,5 +8342,41 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "c93e3423e736542d",
+  "url": "https://www.dhakatribune.com/bangladesh/nation/419244/police-arrest-suspect-over-killing-of-sb",
+  "headline": "5 arrested for SB SI killed in Savar after trying to stop fight",
+  "topic": "savar sb si murder arrests",
+  "source": "Dhaka Tribune, Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-06T20:06:39Z"
+ },
+ {
+  "title_hash": "ef4715c4b535844c",
+  "url": "https://www.prothomalo.com/bangladesh/crime/cl2f776b8h",
+  "headline": "5 arrested for SB SI killed in Savar after trying to stop fight",
+  "topic": "savar sb si murder arrests",
+  "source": "Dhaka Tribune, Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-06T20:06:39Z"
+ },
+ {
+  "title_hash": "369fcb10a4fc3b46",
+  "url": "https://www.thedailystar.net/news/crime-justice/news/man-killed-another-injured-jatrabari-shooting-4266676",
+  "headline": "Man killed, another injured in shooting at Dhaka’s Jatrabari",
+  "topic": "jatrabari shooting death",
+  "source": "Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-06T20:06:39Z"
+ },
+ {
+  "title_hash": "e4503852fa24f94c",
+  "url": "https://www.prothomalo.com/bangladesh/crime/cemkce35g6",
+  "headline": "Man killed, another injured in shooting at Dhaka’s Jatrabari",
+  "topic": "jatrabari shooting death",
+  "source": "Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-06T20:06:39Z"
  }
 ]
