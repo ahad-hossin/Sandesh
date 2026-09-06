@@ -8349,8 +8349,13 @@
   "headline": "5 arrested for SB SI killed in Savar after trying to stop fight",
   "topic": "savar sb si murder arrests",
   "source": "Dhaka Tribune, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-06T20:06:39Z"
+  "status": "failed",
+  "at": "2026-09-06T20:06:39Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "ef4715c4b535844c",
@@ -8358,8 +8363,13 @@
   "headline": "5 arrested for SB SI killed in Savar after trying to stop fight",
   "topic": "savar sb si murder arrests",
   "source": "Dhaka Tribune, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-06T20:06:39Z"
+  "status": "failed",
+  "at": "2026-09-06T20:06:39Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "369fcb10a4fc3b46",
@@ -8367,8 +8377,13 @@
   "headline": "Man killed, another injured in shooting at Dhaka’s Jatrabari",
   "topic": "jatrabari shooting death",
   "source": "Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-06T20:06:39Z"
+  "status": "failed",
+  "at": "2026-09-06T20:06:39Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "e4503852fa24f94c",
@@ -8376,7 +8391,12 @@
   "headline": "Man killed, another injured in shooting at Dhaka’s Jatrabari",
   "topic": "jatrabari shooting death",
   "source": "Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-06T20:06:39Z"
+  "status": "failed",
+  "at": "2026-09-06T20:06:39Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
