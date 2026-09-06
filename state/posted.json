@@ -1,89 +1,5 @@
 [
  {
-  "title_hash": "4f40b7254c020978",
-  "url": "https://www.prothomalo.com/bangladesh/boyyin-kenaayy-taarekke-ttraamper-dhnybaad",
-  "headline": "Trump expresses hope of meeting PM Tarique Rahman soon",
-  "topic": "trump writes to tarique rahman",
-  "source": "Prothom Alo, Jamuna TV, The Daily Star, Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-09-01T15:06:47Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "1ba62f52f72bf800",
-  "url": "https://www.dhakatribune.com/bangladesh/foreign-affairs/418861/trump-looking-forward-to-meeting-pm-tarique-soon",
-  "headline": "Trump expresses hope of meeting PM Tarique Rahman soon",
-  "topic": "trump writes to tarique rahman",
-  "source": "Prothom Alo, Jamuna TV, The Daily Star, Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-09-01T15:06:47Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "1ba62f52f72bf800",
-  "url": "https://www.dhakatribune.com/bangladesh/foreign-affairs/418861/trump-looking-forward-to-meeting-pm-tarique-soon",
-  "headline": "Trump: Looking forward to meeting PM Tarique soon",
-  "topic": "trump thanks tarique for boeing purchase",
-  "source": "Dhaka Tribune, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-01T16:08:01Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "b5dbf29ddcce094f",
-  "url": "https://www.prothomalo.com/video/bangladesh/su9wq3mtgq",
-  "headline": "Trump: Looking forward to meeting PM Tarique soon",
-  "topic": "trump thanks tarique for boeing purchase",
-  "source": "Dhaka Tribune, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-01T16:08:01Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "613e527fcffb3172",
-  "url": "https://www.thedailystar.net/news/bangladesh/diplomacy/news/boeing-will-not-let-you-down-and-i-will-not-forget-trump-writes-tarique-4262181",
-  "headline": "Trump: Looking forward to meeting PM Tarique soon",
-  "topic": "trump thanks tarique for boeing purchase",
-  "source": "Dhaka Tribune, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-01T16:08:01Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "4f40b7254c020978",
-  "url": "https://www.prothomalo.com/bangladesh/boyyin-kenaayy-taarekke-ttraamper-dhnybaad",
-  "headline": "Trump: Looking forward to meeting PM Tarique soon",
-  "topic": "trump thanks tarique for boeing purchase",
-  "source": "Dhaka Tribune, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-01T16:08:01Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "b190826b69ec08af",
   "url": "https://www.prothomalo.com/bangladesh/yze5udx07c",
   "headline": "Trump: Looking forward to meeting PM Tarique soon",
@@ -8398,5 +8314,59 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "d6c80333b6cc216e",
+  "url": "https://www.dhakatribune.com/bangladesh/dhaka/419183/police-sb-member-beaten-to-death-in-aminbazar",
+  "headline": "SB police officer beaten to death in Aminbazar",
+  "topic": "sb police officer killed aminbazar",
+  "source": "Prothom Alo, Dhaka Tribune, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-06T13:06:24Z"
+ },
+ {
+  "title_hash": "02862e623643be47",
+  "url": "https://www.prothomalo.com/video/bangladesh/zdgi56k3yx",
+  "headline": "SB police officer beaten to death in Aminbazar",
+  "topic": "sb police officer killed aminbazar",
+  "source": "Prothom Alo, Dhaka Tribune, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-06T13:06:24Z"
+ },
+ {
+  "title_hash": "8ffdd67594e25f40",
+  "url": "https://www.prothomalo.com/bangladesh/district/i9b88gor16",
+  "headline": "SB police officer beaten to death in Aminbazar",
+  "topic": "sb police officer killed aminbazar",
+  "source": "Prothom Alo, Dhaka Tribune, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-06T13:06:24Z"
+ },
+ {
+  "title_hash": "51e169ba39557740",
+  "url": "https://www.thedailystar.net/news/crime-justice/news/mastermind-arrested-over-killing-sb-police-officer-savar-4266026",
+  "headline": "SB police officer beaten to death in Aminbazar",
+  "topic": "sb police officer killed aminbazar",
+  "source": "Prothom Alo, Dhaka Tribune, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-06T13:06:24Z"
+ },
+ {
+  "title_hash": "21207b53f80608e1",
+  "url": "https://www.dhakatribune.com/bangladesh/court/419228/biman-staffer-remanded-over-gold-seizure-at-dhaka",
+  "headline": "Over 2,500kg of gold seized from smugglers between 2010 and 2024",
+  "topic": "gold seizure bangladesh",
+  "source": "Dhaka Tribune, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-06T13:06:24Z"
+ },
+ {
+  "title_hash": "16cf7ba8ccf9d93b",
+  "url": "https://www.thedailystar.net/news/governance/parliament/news/over-2500kg-gold-seized-smugglers-between-2010-and-2024-finance-minister-4266166",
+  "headline": "Over 2,500kg of gold seized from smugglers between 2010 and 2024",
+  "topic": "gold seizure bangladesh",
+  "source": "Dhaka Tribune, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-06T13:06:24Z"
  }
 ]
