@@ -8321,8 +8321,13 @@
   "headline": "Body of Bangladeshi killed in Israeli drone strike reaches Satkhira",
   "topic": "bangladeshi killed in lebanon drone strike",
   "source": "Dhaka Tribune, Prothom Alo, Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-06T15:07:15Z"
+  "status": "failed",
+  "at": "2026-09-06T15:07:15Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "5672b9c60edb12c8",
@@ -8330,8 +8335,13 @@
   "headline": "Body of Bangladeshi killed in Israeli drone strike reaches Satkhira",
   "topic": "bangladeshi killed in lebanon drone strike",
   "source": "Dhaka Tribune, Prothom Alo, Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-06T15:07:15Z"
+  "status": "failed",
+  "at": "2026-09-06T15:07:15Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "14ca12360dc544d4",
@@ -8339,8 +8349,13 @@
   "headline": "Body of Bangladeshi killed in Israeli drone strike reaches Satkhira",
   "topic": "bangladeshi killed in lebanon drone strike",
   "source": "Dhaka Tribune, Prothom Alo, Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-06T15:07:15Z"
+  "status": "failed",
+  "at": "2026-09-06T15:07:15Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "60b97e738d473139",
@@ -8348,8 +8363,13 @@
   "headline": "Body of Bangladeshi killed in Israeli drone strike reaches Satkhira",
   "topic": "bangladeshi killed in lebanon drone strike",
   "source": "Dhaka Tribune, Prothom Alo, Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-06T15:07:15Z"
+  "status": "failed",
+  "at": "2026-09-06T15:07:15Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "bcda2d6079199f0d",
@@ -8357,8 +8377,13 @@
   "headline": "Sheikh Hasina and 11 others charge-sheeted in Riazul murder case",
   "topic": "sheikh hasina charge-sheeted riazul murder",
   "source": "Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-09-06T15:07:15Z"
+  "status": "failed",
+  "at": "2026-09-06T15:07:15Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "2ab7453ddce282a3",
@@ -8366,7 +8391,12 @@
   "headline": "Sheikh Hasina and 11 others charge-sheeted in Riazul murder case",
   "topic": "sheikh hasina charge-sheeted riazul murder",
   "source": "Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-09-06T15:07:15Z"
+  "status": "failed",
+  "at": "2026-09-06T15:07:15Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
