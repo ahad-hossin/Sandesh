@@ -3,48 +3,6 @@
   "title_hash": "8cf9db74d1532a10",
   "url": "https://www.prothomalo.com/bangladesh/pzpx6cmllv",
   "headline": "Power and Energy Minister Iqbal Hasan Mahmud admitted to hospital",
-  "topic": "fuel minister hospitalized",
-  "source": "Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-01T19:06:31Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "6053d412d87a22a9",
-  "url": "https://www.thedailystar.net/sports/cricket/news/hridoy-joins-shakib-mushfiqs-elite-list-double-ton-4262436",
-  "headline": "Tawhid Hridoy hits double century against South Africa 'A'",
-  "topic": "towhid hridoy double century",
-  "source": "The Daily Star, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-01T20:06:28Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "b46c556edea623b0",
-  "url": "https://www.prothomalo.com/sports/cricket/oxi3vakxny",
-  "headline": "Tawhid Hridoy hits double century against South Africa 'A'",
-  "topic": "towhid hridoy double century",
-  "source": "The Daily Star, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-01T20:06:28Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "8cf9db74d1532a10",
-  "url": "https://www.prothomalo.com/bangladesh/pzpx6cmllv",
-  "headline": "Power and Energy Minister Iqbal Hasan Mahmud admitted to hospital",
   "topic": "fuel minister hospitalised",
   "source": "Prothom Alo",
   "status": "failed",
@@ -8398,5 +8356,32 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "965d25615474659b",
+  "url": "https://www.dhakatribune.com/bangladesh/crime/419250/criminals-run-amok-in-dhaka-shootings-and",
+  "headline": "Qatar-based youth killed in attack in Dhaka's Sabujbagh",
+  "topic": "dhaka violent crime spree",
+  "source": "Dhaka Tribune, Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-06T19:06:03Z"
+ },
+ {
+  "title_hash": "080c4b572ee9a16b",
+  "url": "https://www.prothomalo.com/bangladesh/crime/f8bp1pygpc",
+  "headline": "Qatar-based youth killed in attack in Dhaka's Sabujbagh",
+  "topic": "dhaka violent crime spree",
+  "source": "Dhaka Tribune, Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-06T19:06:03Z"
+ },
+ {
+  "title_hash": "c93e3423e736542d",
+  "url": "https://www.dhakatribune.com/bangladesh/nation/419244/police-arrest-suspect-over-killing-of-sb",
+  "headline": "5 arrested in death of SB SI in Savar",
+  "topic": "sb si death savar",
+  "source": "Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-09-06T19:06:03Z"
  }
 ]
