@@ -8363,8 +8363,13 @@
   "headline": "EC to announce UP election schedule this month",
   "topic": "up election schedule announcement",
   "source": "Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-06T10:06:25Z"
+  "status": "failed",
+  "at": "2026-09-06T10:06:25Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "99c8ed214b1d2e51",
@@ -8372,8 +8377,13 @@
   "headline": "251 people disappeared: ICT begins recording statements from families",
   "topic": "ict enforced disappearance testimony",
   "source": "The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-06T10:06:25Z"
+  "status": "failed",
+  "at": "2026-09-06T10:06:25Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "2d9331e6a43141cc",
@@ -8381,7 +8391,12 @@
   "headline": "251 people disappeared: ICT begins recording statements from families",
   "topic": "ict enforced disappearance testimony",
   "source": "The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-06T10:06:25Z"
+  "status": "failed",
+  "at": "2026-09-06T10:06:25Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
