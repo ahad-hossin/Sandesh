@@ -1,47 +1,5 @@
 [
  {
-  "title_hash": "f0e577b0c9669ae7",
-  "url": "https://www.jamuna.tv/sports/663271",
-  "headline": "End of an era: Lionel Messi retires from Argentina national team",
-  "topic": "messi argentina retirement",
-  "source": "Jamuna TV, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-01T14:06:55Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "22548352192a8a76",
-  "url": "https://www.prothomalo.com/sports/football/95urv3x0tz",
-  "headline": "End of an era: Lionel Messi retires from Argentina national team",
-  "topic": "messi argentina retirement",
-  "source": "Jamuna TV, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-01T14:06:55Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "1d9f9bef890938c9",
-  "url": "https://www.thedailystar.net/sports/football/news/messi-legacy-will-live-forever-david-beckham-4262101",
-  "headline": "End of an era: Lionel Messi retires from Argentina national team",
-  "topic": "messi argentina retirement",
-  "source": "Jamuna TV, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-01T14:06:55Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "0316ba7f7d663b0e",
   "url": "https://www.prothomalo.com/video/sports/pmhkou5hbn",
   "headline": "End of an era: Lionel Messi retires from Argentina national team",
@@ -8398,5 +8356,32 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "8c30271298dfcebc",
+  "url": "https://www.jamuna.tv/national/663572",
+  "headline": "EC to announce UP election schedule this month",
+  "topic": "up election schedule announcement",
+  "source": "Jamuna TV",
+  "status": "queued",
+  "at": "2026-09-06T10:06:25Z"
+ },
+ {
+  "title_hash": "99c8ed214b1d2e51",
+  "url": "https://www.thedailystar.net/news/crime-justice/news/families-55-enforced-disappearance-victims-begin-testifying-ict-4266021",
+  "headline": "251 people disappeared: ICT begins recording statements from families",
+  "topic": "ict enforced disappearance testimony",
+  "source": "The Daily Star, Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-06T10:06:25Z"
+ },
+ {
+  "title_hash": "2d9331e6a43141cc",
+  "url": "https://www.prothomalo.com/bangladesh/6j4az5jted",
+  "headline": "251 people disappeared: ICT begins recording statements from families",
+  "topic": "ict enforced disappearance testimony",
+  "source": "The Daily Star, Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-06T10:06:25Z"
  }
 ]
