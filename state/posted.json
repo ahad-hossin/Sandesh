@@ -8321,8 +8321,13 @@
   "headline": "Jatrabari shooting: Man killed, another injured in Dhaka",
   "topic": "jatrabari shooting death",
   "source": "The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-06T21:06:29Z"
+  "status": "failed",
+  "at": "2026-09-06T21:06:29Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "e4503852fa24f94c",
@@ -8330,8 +8335,13 @@
   "headline": "Jatrabari shooting: Man killed, another injured in Dhaka",
   "topic": "jatrabari shooting death",
   "source": "The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-06T21:06:29Z"
+  "status": "failed",
+  "at": "2026-09-06T21:06:29Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "5afb7b66058888bf",
@@ -8339,8 +8349,13 @@
   "headline": "Jatrabari shooting: Man killed, another injured in Dhaka",
   "topic": "jatrabari shooting death",
   "source": "The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-06T21:06:29Z"
+  "status": "failed",
+  "at": "2026-09-06T21:06:29Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "c93e3423e736542d",
@@ -8348,8 +8363,13 @@
   "headline": "4 suspects arrested for killing Special Branch SI in Savar",
   "topic": "sb si killing arrests",
   "source": "Dhaka Tribune, Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-06T21:06:29Z"
+  "status": "failed",
+  "at": "2026-09-06T21:06:29Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "ef4715c4b535844c",
@@ -8357,8 +8377,13 @@
   "headline": "4 suspects arrested for killing Special Branch SI in Savar",
   "topic": "sb si killing arrests",
   "source": "Dhaka Tribune, Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-06T21:06:29Z"
+  "status": "failed",
+  "at": "2026-09-06T21:06:29Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "53695d0f2cd5c780",
@@ -8366,7 +8391,12 @@
   "headline": "4 suspects arrested for killing Special Branch SI in Savar",
   "topic": "sb si killing arrests",
   "source": "Dhaka Tribune, Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-06T21:06:29Z"
+  "status": "failed",
+  "at": "2026-09-06T21:06:29Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
