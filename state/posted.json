@@ -1,61 +1,5 @@
 [
  {
-  "title_hash": "b190826b69ec08af",
-  "url": "https://www.prothomalo.com/bangladesh/yze5udx07c",
-  "headline": "Trump: Looking forward to meeting PM Tarique soon",
-  "topic": "trump thanks tarique for boeing purchase",
-  "source": "Dhaka Tribune, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-01T16:08:01Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "3e24e1a0dceb7e69",
-  "url": "https://www.thedailystar.net/news/crime-justice/cybercrime-and-scams/news/tk-500-and-17-minutes-how-easily-nid-data-was-bought-online-4262271",
-  "headline": "Tk 500 and 17 minutes: NID data being sold online",
-  "topic": "nid and call records sold online",
-  "source": "The Daily Star, Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-09-01T16:08:01Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "d9385b98cfa925ea",
-  "url": "https://www.dhakatribune.com/bangladesh/418858/nid-call-records-and-location-are-being-sold",
-  "headline": "Tk 500 and 17 minutes: NID data being sold online",
-  "topic": "nid and call records sold online",
-  "source": "The Daily Star, Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-09-01T16:08:01Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "1ba62f52f72bf800",
-  "url": "https://www.dhakatribune.com/bangladesh/foreign-affairs/418861/trump-looking-forward-to-meeting-pm-tarique-soon",
-  "headline": "Donald Trump looks forward to meeting PM Tarique Rahman",
-  "topic": "trump writes to pm tarique",
-  "source": "Prothom Alo, Dhaka Tribune, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-01T17:06:38Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "ee0709296f2844c6",
   "url": "https://www.prothomalo.com/video/bangladesh/u4mfbntiot",
   "headline": "Donald Trump looks forward to meeting PM Tarique Rahman",
@@ -8398,5 +8342,41 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "aa68f1e5591f6c99",
+  "url": "https://www.prothomalo.com/sports/football/5ebdwcfh4t",
+  "headline": "India 3, Bangladesh 0: Bangladesh U-20s crash out of Asian Cup qualifiers",
+  "topic": "bangladesh u20 asian cup failure",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-06T14:07:01Z"
+ },
+ {
+  "title_hash": "0c1e34891a637488",
+  "url": "https://www.thedailystar.net/business/economy/news/bangladeshs-capita-debt-now-tk-129-lakh-finance-minister-4266256",
+  "headline": "Tk 1.29 lakh: Bangladesh’s per capita debt reaches new high",
+  "topic": "bangladesh national debt and loan crisis",
+  "source": "The Daily Star, Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-06T14:07:01Z"
+ },
+ {
+  "title_hash": "d656f9f6817e4e51",
+  "url": "https://www.prothomalo.com/video/bangladesh/d4dq7tpiuk",
+  "headline": "Tk 1.29 lakh: Bangladesh’s per capita debt reaches new high",
+  "topic": "bangladesh national debt and loan crisis",
+  "source": "The Daily Star, Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-06T14:07:01Z"
+ },
+ {
+  "title_hash": "2baaf59dbfb78bec",
+  "url": "https://www.thedailystar.net/business/banking/news/janata-bank-holds-over-half-tk-147776cr-defaulted-loans-6-state-banks-finance-minister-4266181",
+  "headline": "Tk 1.29 lakh: Bangladesh’s per capita debt reaches new high",
+  "topic": "bangladesh national debt and loan crisis",
+  "source": "The Daily Star, Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-06T14:07:01Z"
  }
 ]
