@@ -8321,8 +8321,13 @@
   "headline": "SB police officer beaten to death in Aminbazar",
   "topic": "sb police officer killed aminbazar",
   "source": "Prothom Alo, Dhaka Tribune, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-06T13:06:24Z"
+  "status": "failed",
+  "at": "2026-09-06T13:06:24Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "02862e623643be47",
@@ -8330,8 +8335,13 @@
   "headline": "SB police officer beaten to death in Aminbazar",
   "topic": "sb police officer killed aminbazar",
   "source": "Prothom Alo, Dhaka Tribune, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-06T13:06:24Z"
+  "status": "failed",
+  "at": "2026-09-06T13:06:24Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "8ffdd67594e25f40",
@@ -8339,8 +8349,13 @@
   "headline": "SB police officer beaten to death in Aminbazar",
   "topic": "sb police officer killed aminbazar",
   "source": "Prothom Alo, Dhaka Tribune, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-06T13:06:24Z"
+  "status": "failed",
+  "at": "2026-09-06T13:06:24Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "51e169ba39557740",
@@ -8348,8 +8363,13 @@
   "headline": "SB police officer beaten to death in Aminbazar",
   "topic": "sb police officer killed aminbazar",
   "source": "Prothom Alo, Dhaka Tribune, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-06T13:06:24Z"
+  "status": "failed",
+  "at": "2026-09-06T13:06:24Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "21207b53f80608e1",
@@ -8357,8 +8377,13 @@
   "headline": "Over 2,500kg of gold seized from smugglers between 2010 and 2024",
   "topic": "gold seizure bangladesh",
   "source": "Dhaka Tribune, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-06T13:06:24Z"
+  "status": "failed",
+  "at": "2026-09-06T13:06:24Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "16cf7ba8ccf9d93b",
@@ -8366,7 +8391,12 @@
   "headline": "Over 2,500kg of gold seized from smugglers between 2010 and 2024",
   "topic": "gold seizure bangladesh",
   "source": "Dhaka Tribune, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-06T13:06:24Z"
+  "status": "failed",
+  "at": "2026-09-06T13:06:24Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
