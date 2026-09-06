@@ -1,47 +1,5 @@
 [
  {
-  "title_hash": "0308a9d4dde8886c",
-  "url": "https://www.prothomalo.com/sports/football/iwa2td80wi",
-  "headline": "207 caps, 125 goals: Lionel Messi retires from international football",
-  "topic": "messi international retirement",
-  "source": "The Daily Star, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-01T09:07:34Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "065b7e1f9a3993ae",
-  "url": "https://www.thedailystar.net/sports/football/news/messis-farewell-message-three-pages-20-years-and-golden-symbol-time-4261681",
-  "headline": "207 caps, 125 goals: Lionel Messi retires from international football",
-  "topic": "messi international retirement",
-  "source": "The Daily Star, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-01T09:07:34Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "970aaca2a3db8056",
-  "url": "https://www.dhakatribune.com/bangladesh/418827/rizvi-gas-supply-to-normalize-by-september-second",
-  "headline": "Gas supply to normalize by September second week, hopes BNP's Rizvi",
-  "topic": "gas supply normalization september",
-  "source": "Dhaka Tribune, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-01T09:07:34Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "faa7ddef63ba3f0b",
   "url": "https://www.thedailystar.net/news/governance/news/gas-supply-normalise-second-week-september-hopes-rizvi-4261896",
   "headline": "Gas supply to normalize by September second week, hopes BNP's Rizvi",
@@ -8398,5 +8356,32 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "f1473981aaac975d",
+  "url": "https://www.thedailystar.net/sports/cricket/news/batting-focus-tigresses-eye-semifinal-berth-4265516",
+  "headline": "Tigresses eye semi-final berth in crucial T20I clash against Sri Lanka today",
+  "topic": "bangladesh tigresses cricket semifinal",
+  "source": "The Daily Star",
+  "status": "queued",
+  "at": "2026-09-06T00:06:57Z"
+ },
+ {
+  "title_hash": "474eaac07bf61145",
+  "url": "https://www.jamuna.tv/national/663537",
+  "headline": "Businessman shot in Dhaka shop, attacker caught by locals",
+  "topic": "dhaka businessman shot",
+  "source": "Jamuna TV, Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-06T00:06:57Z"
+ },
+ {
+  "title_hash": "d4a1e87c0cbf4aec",
+  "url": "https://www.prothomalo.com/bangladesh/crime/5hjw56v30v",
+  "headline": "Businessman shot in Dhaka shop, attacker caught by locals",
+  "topic": "dhaka businessman shot",
+  "source": "Jamuna TV, Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-06T00:06:57Z"
  }
 ]
