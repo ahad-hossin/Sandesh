@@ -1,61 +1,5 @@
 [
  {
-  "title_hash": "faa7ddef63ba3f0b",
-  "url": "https://www.thedailystar.net/news/governance/news/gas-supply-normalise-second-week-september-hopes-rizvi-4261896",
-  "headline": "Gas supply to normalize by September second week, hopes BNP's Rizvi",
-  "topic": "gas supply normalization september",
-  "source": "Dhaka Tribune, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-01T09:07:34Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "7bed0d918da85ba0",
-  "url": "https://www.thedailystar.net/sports/football/news/your-magical-talent-and-humility-will-be-remembered-forever-infantino-hails-messis-extraordinary-4262001",
-  "headline": "207 caps, 125 goals: Lionel Messi retires from international football",
-  "topic": "messi retires from argentina",
-  "source": "The Daily Star, Prothom Alo, Jamuna TV",
-  "status": "failed",
-  "at": "2026-09-01T10:06:43Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "0cafe12c46bfa8d1",
-  "url": "https://www.prothomalo.com/sports/football/hcimvflbsv",
-  "headline": "207 caps, 125 goals: Lionel Messi retires from international football",
-  "topic": "messi retires from argentina",
-  "source": "The Daily Star, Prothom Alo, Jamuna TV",
-  "status": "failed",
-  "at": "2026-09-01T10:06:43Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "f5a4aa34dc3a9a6f",
-  "url": "https://www.jamuna.tv/sports/663225",
-  "headline": "207 caps, 125 goals: Lionel Messi retires from international football",
-  "topic": "messi retires from argentina",
-  "source": "The Daily Star, Prothom Alo, Jamuna TV",
-  "status": "failed",
-  "at": "2026-09-01T10:06:43Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "b7b8c5d135a962c6",
   "url": "https://www.jamuna.tv/sports/663220",
   "headline": "207 caps, 125 goals: Lionel Messi retires from international football",
@@ -8398,5 +8342,41 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "3a7d685362fdaac9",
+  "url": "https://www.jamuna.tv/all-bangladesh/663538",
+  "headline": "SB member beaten to death in Savar's Aminbazar; son injured in parking dispute",
+  "topic": "Savar police member killed",
+  "source": "Jamuna TV",
+  "status": "queued",
+  "at": "2026-09-06T01:06:59Z"
+ },
+ {
+  "title_hash": "945be22baf384c30",
+  "url": "https://www.thedailystar.net/business/economy/news/energy-crisis-forces-businesses-cut-output-seek-alternatives-4265701",
+  "headline": "Bangladesh factories cut output amid severe gas and power shortages, risking export deadlines",
+  "topic": "Bangladesh energy crisis impacts businesses",
+  "source": "The Daily Star",
+  "status": "queued",
+  "at": "2026-09-06T01:06:59Z"
+ },
+ {
+  "title_hash": "7841418ea414ef79",
+  "url": "https://www.thedailystar.net/supplements/omera-lpg/news/lpg-can-give-industry-the-energy-flexibility-it-needs-4265616",
+  "headline": "Bangladesh factories cut output amid severe gas and power shortages, risking export deadlines",
+  "topic": "Bangladesh energy crisis impacts businesses",
+  "source": "The Daily Star",
+  "status": "queued",
+  "at": "2026-09-06T01:06:59Z"
+ },
+ {
+  "title_hash": "c3c213835f759815",
+  "url": "https://www.thedailystar.net/supplements/omera-lpg/news/when-natural-gas-runs-short-factories-need-another-lifeline-4265626",
+  "headline": "Bangladesh factories cut output amid severe gas and power shortages, risking export deadlines",
+  "topic": "Bangladesh energy crisis impacts businesses",
+  "source": "The Daily Star",
+  "status": "queued",
+  "at": "2026-09-06T01:06:59Z"
  }
 ]
