@@ -1,33 +1,5 @@
 [
  {
-  "title_hash": "8ad392a54e1a0d06",
-  "url": "https://www.prothomalo.com/bangladesh/crime/m5521v81y2",
-  "headline": "Demra: Gunshots fired at BNP leader's house led by Chhatra Dal leader",
-  "topic": "shooting at bnp leader home demra",
-  "source": "Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-01T18:06:54Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "474b3b65ac544a0d",
-  "url": "https://www.thedailystar.net/news/bangladesh/news/3-du-teachers-suspended-opposing-july-uprising-4262561",
-  "headline": "DU suspended 3 teachers for opposing July uprising",
-  "topic": "du teachers suspended july uprising",
-  "source": "The Daily Star",
-  "status": "failed",
-  "at": "2026-09-01T19:06:31Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "8cf9db74d1532a10",
   "url": "https://www.prothomalo.com/bangladesh/pzpx6cmllv",
   "headline": "Power and Energy Minister Iqbal Hasan Mahmud admitted to hospital",
@@ -8398,5 +8370,23 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "965d25615474659b",
+  "url": "https://www.dhakatribune.com/bangladesh/crime/419250/criminals-run-amok-in-dhaka-shootings-and",
+  "headline": "Dhaka: Criminals run amok with shootings and killings over trivial incidents",
+  "topic": "dhaka crime wave",
+  "source": "Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-09-06T18:06:32Z"
+ },
+ {
+  "title_hash": "524d2eac23651400",
+  "url": "https://www.prothomalo.com/world/india/c92p3r5xsu",
+  "headline": "5 students killed as student hostel collapses in New Delhi",
+  "topic": "delhi hostel collapse",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-06T18:06:32Z"
  }
 ]
