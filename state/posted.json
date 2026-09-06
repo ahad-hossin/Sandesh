@@ -1,61 +1,5 @@
 [
  {
-  "title_hash": "d5be59c554af9b17",
-  "url": "https://www.prothomalo.com/religion/islam/81fppubjhd",
-  "headline": "Understanding the ruling on Qada prayer: Doubts and solutions for missed prayers",
-  "topic": "missed prayer rules",
-  "source": "Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-02T00:06:58Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "1a61e06cabd804af",
-  "url": "https://www.thedailystar.net/business/economy/news/luxury-cars-imported-old-spare-parts-seized-4262501",
-  "headline": "Tk 12 crore luxury cars seized at Chattogram port, declared as spare parts",
-  "topic": "luxury cars imported as parts",
-  "source": "Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-02T00:06:58Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "91fb492f97783fe8",
-  "url": "https://www.prothomalo.com/photo/bangladesh/rp8ikgphw3",
-  "headline": "Tk 12 crore luxury cars seized at Chattogram port, declared as spare parts",
-  "topic": "luxury cars imported as parts",
-  "source": "Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-02T00:06:58Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "57e286ee06875a5e",
-  "url": "https://www.prothomalo.com/world/middle-east/l8fsuaf6c8",
-  "headline": "Iran launches missile & drone attacks on US military sites in Jordan, Iraq, Kuwait, Bahrain",
-  "topic": "iran retaliates us bases",
-  "source": "Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-02T02:06:49Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "af6fe3eca20cdad0",
   "url": "https://www.prothomalo.com/bangladesh/84f4a18ddn",
   "headline": "New syndicate strategy for Malaysia jobs could hike costs to BDT 6-7 lakh",
@@ -8398,5 +8342,41 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "9a48c38d2ea1f17e",
+  "url": "https://www.thedailystar.net/news/world/middle-east/news/iran-guards-attack-us-naval-drone-4266691",
+  "headline": "Tensions rise as Iran attacks US naval drone in Strait of Hormuz",
+  "topic": "trump middle east plan iran",
+  "source": "Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-06T22:06:29Z"
+ },
+ {
+  "title_hash": "56368ddc98999497",
+  "url": "https://www.prothomalo.com/world/middle-east/qb6fd2smpb",
+  "headline": "Tensions rise as Iran attacks US naval drone in Strait of Hormuz",
+  "topic": "trump middle east plan iran",
+  "source": "Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-06T22:06:29Z"
+ },
+ {
+  "title_hash": "7cb6e7e627bbc2bf",
+  "url": "https://www.thedailystar.net/news/world/news/40-50-feared-trapped-delhi-hostel-4266641",
+  "headline": "Up to 50 students feared trapped as Delhi hostel building collapses",
+  "topic": "delhi hostel collapse",
+  "source": "Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-06T22:06:29Z"
+ },
+ {
+  "title_hash": "524d2eac23651400",
+  "url": "https://www.prothomalo.com/world/india/c92p3r5xsu",
+  "headline": "Up to 50 students feared trapped as Delhi hostel building collapses",
+  "topic": "delhi hostel collapse",
+  "source": "Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-06T22:06:29Z"
  }
 ]
