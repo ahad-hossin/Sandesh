@@ -8349,8 +8349,13 @@
   "headline": "India 3, Bangladesh 0: Bangladesh U-20s crash out of Asian Cup qualifiers",
   "topic": "bangladesh u20 asian cup failure",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-06T14:07:01Z"
+  "status": "failed",
+  "at": "2026-09-06T14:07:01Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "0c1e34891a637488",
@@ -8358,8 +8363,13 @@
   "headline": "Tk 1.29 lakh: Bangladesh’s per capita debt reaches new high",
   "topic": "bangladesh national debt and loan crisis",
   "source": "The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-06T14:07:01Z"
+  "status": "failed",
+  "at": "2026-09-06T14:07:01Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "d656f9f6817e4e51",
@@ -8367,8 +8377,13 @@
   "headline": "Tk 1.29 lakh: Bangladesh’s per capita debt reaches new high",
   "topic": "bangladesh national debt and loan crisis",
   "source": "The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-06T14:07:01Z"
+  "status": "failed",
+  "at": "2026-09-06T14:07:01Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "2baaf59dbfb78bec",
@@ -8376,7 +8391,12 @@
   "headline": "Tk 1.29 lakh: Bangladesh’s per capita debt reaches new high",
   "topic": "bangladesh national debt and loan crisis",
   "source": "The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-06T14:07:01Z"
+  "status": "failed",
+  "at": "2026-09-06T14:07:01Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
