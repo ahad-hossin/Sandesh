@@ -8349,8 +8349,13 @@
   "headline": "Tensions rise as Iran attacks US naval drone in Strait of Hormuz",
   "topic": "trump middle east plan iran",
   "source": "Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-06T22:06:29Z"
+  "status": "failed",
+  "at": "2026-09-06T22:06:29Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "56368ddc98999497",
@@ -8358,8 +8363,13 @@
   "headline": "Tensions rise as Iran attacks US naval drone in Strait of Hormuz",
   "topic": "trump middle east plan iran",
   "source": "Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-06T22:06:29Z"
+  "status": "failed",
+  "at": "2026-09-06T22:06:29Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "7cb6e7e627bbc2bf",
@@ -8367,8 +8377,13 @@
   "headline": "Up to 50 students feared trapped as Delhi hostel building collapses",
   "topic": "delhi hostel collapse",
   "source": "Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-06T22:06:29Z"
+  "status": "failed",
+  "at": "2026-09-06T22:06:29Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "524d2eac23651400",
@@ -8376,7 +8391,12 @@
   "headline": "Up to 50 students feared trapped as Delhi hostel building collapses",
   "topic": "delhi hostel collapse",
   "source": "Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-06T22:06:29Z"
+  "status": "failed",
+  "at": "2026-09-06T22:06:29Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
