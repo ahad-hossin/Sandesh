@@ -8363,8 +8363,13 @@
   "headline": "Qatar-based youth killed in attack in Dhaka's Sabujbagh",
   "topic": "dhaka violent crime spree",
   "source": "Dhaka Tribune, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-06T19:06:03Z"
+  "status": "failed",
+  "at": "2026-09-06T19:06:03Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "080c4b572ee9a16b",
@@ -8372,8 +8377,13 @@
   "headline": "Qatar-based youth killed in attack in Dhaka's Sabujbagh",
   "topic": "dhaka violent crime spree",
   "source": "Dhaka Tribune, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-06T19:06:03Z"
+  "status": "failed",
+  "at": "2026-09-06T19:06:03Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "c93e3423e736542d",
@@ -8381,7 +8391,12 @@
   "headline": "5 arrested in death of SB SI in Savar",
   "topic": "sb si death savar",
   "source": "Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-09-06T19:06:03Z"
+  "status": "failed",
+  "at": "2026-09-06T19:06:03Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
