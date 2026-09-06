@@ -8349,8 +8349,13 @@
   "headline": "President Mirza Fakhrul to visit Thakurgaon for first time since taking office",
   "topic": "mirza fakhrul first visit as president",
   "source": "Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-06T05:06:51Z"
+  "status": "failed",
+  "at": "2026-09-06T05:06:51Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "d6c80333b6cc216e",
@@ -8358,8 +8363,13 @@
   "headline": "SB police officer beaten to death in Savar after protesting assault on auto-rickshaw driver",
   "topic": "police sb member beaten to death",
   "source": "Dhaka Tribune, The Daily Star, Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-06T05:06:51Z"
+  "status": "failed",
+  "at": "2026-09-06T05:06:51Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "67b6f5e561c6e8dd",
@@ -8367,8 +8377,13 @@
   "headline": "SB police officer beaten to death in Savar after protesting assault on auto-rickshaw driver",
   "topic": "police sb member beaten to death",
   "source": "Dhaka Tribune, The Daily Star, Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-06T05:06:51Z"
+  "status": "failed",
+  "at": "2026-09-06T05:06:51Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "3a7d685362fdaac9",
@@ -8376,7 +8391,12 @@
   "headline": "SB police officer beaten to death in Savar after protesting assault on auto-rickshaw driver",
   "topic": "police sb member beaten to death",
   "source": "Dhaka Tribune, The Daily Star, Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-06T05:06:51Z"
+  "status": "failed",
+  "at": "2026-09-06T05:06:51Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
