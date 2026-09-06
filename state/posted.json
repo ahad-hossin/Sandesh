@@ -1,89 +1,5 @@
 [
  {
-  "title_hash": "a5d9d8b87b63f84b",
-  "url": "https://www.prothomalo.com/world/middle-east/fx8afccp2k",
-  "headline": "Iran claims missile strike on US military barracks in Jordan",
-  "topic": "iran-us-missile-attack",
-  "source": "Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-01T22:06:28Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "31c8bff8510ef9cd",
-  "url": "https://www.prothomalo.com/world/middle-east/tu9n15y1dc",
-  "headline": "Iran claims missile strike on US military barracks in Jordan",
-  "topic": "iran-us-missile-attack",
-  "source": "Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-01T22:06:28Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "6053d412d87a22a9",
-  "url": "https://www.thedailystar.net/sports/cricket/news/hridoy-joins-shakib-mushfiqs-elite-list-double-ton-4262436",
-  "headline": "Tawhid Hridoy hits double century abroad against South Africa 'A'",
-  "topic": "hridoy-double-ton",
-  "source": "The Daily Star",
-  "status": "failed",
-  "at": "2026-09-01T22:06:28Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "a5d9d8b87b63f84b",
-  "url": "https://www.prothomalo.com/world/middle-east/fx8afccp2k",
-  "headline": "Iran claims missile strike on US base in Jordan after US attacks",
-  "topic": "iran us missile attack",
-  "source": "Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-01T23:06:17Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "31c8bff8510ef9cd",
-  "url": "https://www.prothomalo.com/world/middle-east/tu9n15y1dc",
-  "headline": "Iran claims missile strike on US base in Jordan after US attacks",
-  "topic": "iran us missile attack",
-  "source": "Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-01T23:06:17Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "6053d412d87a22a9",
-  "url": "https://www.thedailystar.net/sports/cricket/news/hridoy-joins-shakib-mushfiqs-elite-list-double-ton-4262436",
-  "headline": "Tawhid Hridoy hits double century abroad in match vs South Africa 'A'",
-  "topic": "hridoy first class double ton",
-  "source": "The Daily Star",
-  "status": "failed",
-  "at": "2026-09-01T23:06:17Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "d5be59c554af9b17",
   "url": "https://www.prothomalo.com/religion/islam/81fppubjhd",
   "headline": "Understanding the ruling on Qada prayer: Doubts and solutions for missed prayers",
@@ -8398,5 +8314,59 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "369fcb10a4fc3b46",
+  "url": "https://www.thedailystar.net/news/crime-justice/news/man-killed-another-injured-jatrabari-shooting-4266676",
+  "headline": "Jatrabari shooting: Man killed, another injured in Dhaka",
+  "topic": "jatrabari shooting death",
+  "source": "The Daily Star, Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-06T21:06:29Z"
+ },
+ {
+  "title_hash": "e4503852fa24f94c",
+  "url": "https://www.prothomalo.com/bangladesh/crime/cemkce35g6",
+  "headline": "Jatrabari shooting: Man killed, another injured in Dhaka",
+  "topic": "jatrabari shooting death",
+  "source": "The Daily Star, Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-06T21:06:29Z"
+ },
+ {
+  "title_hash": "5afb7b66058888bf",
+  "url": "https://www.thedailystar.net/news/crime-justice/news/1-shot-dead-another-hacked-death-city-4266746",
+  "headline": "Jatrabari shooting: Man killed, another injured in Dhaka",
+  "topic": "jatrabari shooting death",
+  "source": "The Daily Star, Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-06T21:06:29Z"
+ },
+ {
+  "title_hash": "c93e3423e736542d",
+  "url": "https://www.dhakatribune.com/bangladesh/nation/419244/police-arrest-suspect-over-killing-of-sb",
+  "headline": "4 suspects arrested for killing Special Branch SI in Savar",
+  "topic": "sb si killing arrests",
+  "source": "Dhaka Tribune, Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-06T21:06:29Z"
+ },
+ {
+  "title_hash": "ef4715c4b535844c",
+  "url": "https://www.prothomalo.com/bangladesh/crime/cl2f776b8h",
+  "headline": "4 suspects arrested for killing Special Branch SI in Savar",
+  "topic": "sb si killing arrests",
+  "source": "Dhaka Tribune, Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-06T21:06:29Z"
+ },
+ {
+  "title_hash": "53695d0f2cd5c780",
+  "url": "https://www.thedailystar.net/news/crime-justice/news/key-suspect-held-over-sb-si-killing-4266731",
+  "headline": "4 suspects arrested for killing Special Branch SI in Savar",
+  "topic": "sb si killing arrests",
+  "source": "Dhaka Tribune, Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-06T21:06:29Z"
  }
 ]
