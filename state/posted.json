@@ -2,76 +2,6 @@
  {
   "title_hash": "71826c50a31d31f2",
   "url": "https://www.thedailystar.net/news/crime-justice/corruption/news/acc-decides-investigate-corruption-allegations-against-asif-mahmud-4262976",
-  "headline": "ACC finds primary evidence of corruption against Asif Mahmud",
-  "topic": "acc investigation asif mahmud",
-  "source": "Jamuna TV, Dhaka Tribune, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-02T11:06:41Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "3fe03d7ba793905e",
-  "url": "https://www.prothomalo.com/business/bank/knjcyyzqr0",
-  "headline": "Bank defaulted loans exceed 6 lakh crore taka",
-  "topic": "bangladesh defaulted loan 6 lakh crore",
-  "source": "Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-02T11:06:41Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "aa6b051d214fc244",
-  "url": "https://www.dhakatribune.com/bangladesh/health/418929/measles-outbreak-death-toll-reaches-983-as-four",
-  "headline": "983 children dead as measles outbreak kills 4 more in 24 hours",
-  "topic": "measles outbreak death toll",
-  "source": "Dhaka Tribune, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-02T12:06:31Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "b65e8b758ebe7744",
-  "url": "https://www.jamuna.tv/national/663320",
-  "headline": "983 children dead as measles outbreak kills 4 more in 24 hours",
-  "topic": "measles outbreak death toll",
-  "source": "Dhaka Tribune, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-02T12:06:31Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "25ce7afb923ec637",
-  "url": "https://www.prothomalo.com/bangladesh/d9ov0yig7n",
-  "headline": "983 children dead as measles outbreak kills 4 more in 24 hours",
-  "topic": "measles outbreak death toll",
-  "source": "Dhaka Tribune, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-02T12:06:31Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "71826c50a31d31f2",
-  "url": "https://www.thedailystar.net/news/crime-justice/corruption/news/acc-decides-investigate-corruption-allegations-against-asif-mahmud-4262976",
   "headline": "ACC investigates corruption allegations against Asif Mahmud",
   "topic": "acc investigation asif mahmud",
   "source": "The Daily Star, Jamuna TV, Dhaka Tribune, Prothom Alo",
@@ -8398,5 +8328,50 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "2b592d292caa9554",
+  "url": "https://www.dhakatribune.com/bangladesh/health/419289/dengue-four-more-die-as-1-314-cases-recorded-in",
+  "headline": "1,314 hospitalised as 4 more die of dengue in 24 hours",
+  "topic": "dengue death toll rise",
+  "source": "Dhaka Tribune, The Daily Star, Jamuna TV",
+  "status": "queued",
+  "at": "2026-09-07T13:07:24Z"
+ },
+ {
+  "title_hash": "8806f03e5709c438",
+  "url": "https://www.thedailystar.net/news/healthcare/disease/news/4-die-dengue-1314-hospitalised-24-hours-4267106",
+  "headline": "1,314 hospitalised as 4 more die of dengue in 24 hours",
+  "topic": "dengue death toll rise",
+  "source": "Dhaka Tribune, The Daily Star, Jamuna TV",
+  "status": "queued",
+  "at": "2026-09-07T13:07:24Z"
+ },
+ {
+  "title_hash": "8afcdbe62fef361e",
+  "url": "https://www.jamuna.tv/national/663654",
+  "headline": "1,314 hospitalised as 4 more die of dengue in 24 hours",
+  "topic": "dengue death toll rise",
+  "source": "Dhaka Tribune, The Daily Star, Jamuna TV",
+  "status": "queued",
+  "at": "2026-09-07T13:07:24Z"
+ },
+ {
+  "title_hash": "9a1e39a0bee51182",
+  "url": "https://www.thedailystar.net/business/news/august-inflation-eases-826-4267046",
+  "headline": "August inflation eases to 8.26%, down from July",
+  "topic": "august inflation decrease",
+  "source": "Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-07T13:07:24Z"
+ },
+ {
+  "title_hash": "6dcc814261dcb9c5",
+  "url": "https://www.prothomalo.com/business/economics/5ssuyg75dk",
+  "headline": "August inflation eases to 8.26%, down from July",
+  "topic": "august inflation decrease",
+  "source": "Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-07T13:07:24Z"
  }
 ]
