@@ -8363,8 +8363,13 @@
   "headline": "Dhaka small traders squeezed by extortion from criminal groups",
   "topic": "dhaka extortion small traders",
   "source": "Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-09-07T21:08:19Z"
+  "status": "failed",
+  "at": "2026-09-07T21:08:19Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "a453180a09dfbf32",
@@ -8372,8 +8377,13 @@
   "headline": "Dhaka small traders squeezed by extortion from criminal groups",
   "topic": "dhaka extortion small traders",
   "source": "Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-09-07T21:08:19Z"
+  "status": "failed",
+  "at": "2026-09-07T21:08:19Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "9a94e21627dabc85",
@@ -8381,7 +8391,12 @@
   "headline": "Asia Cup: Tigresses face do-or-die UAE clash for semifinal berth",
   "topic": "tigresses uae clash",
   "source": "The Daily Star",
-  "status": "queued",
-  "at": "2026-09-07T21:08:19Z"
+  "status": "failed",
+  "at": "2026-09-07T21:08:19Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
