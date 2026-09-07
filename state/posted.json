@@ -8335,8 +8335,13 @@
   "headline": "Widow of July martyr claims daughter raped and died by suicide after she testified",
   "topic": "july uprising victim daughter raped",
   "source": "Jamuna TV, Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-07T18:08:32Z"
+  "status": "failed",
+  "at": "2026-09-07T18:08:32Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "e64d9a3d1cb0cee4",
@@ -8344,8 +8349,13 @@
   "headline": "Widow of July martyr claims daughter raped and died by suicide after she testified",
   "topic": "july uprising victim daughter raped",
   "source": "Jamuna TV, Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-07T18:08:32Z"
+  "status": "failed",
+  "at": "2026-09-07T18:08:32Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "766d59b14fb8b523",
@@ -8353,8 +8363,13 @@
   "headline": "Widow of July martyr claims daughter raped and died by suicide after she testified",
   "topic": "july uprising victim daughter raped",
   "source": "Jamuna TV, Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-07T18:08:32Z"
+  "status": "failed",
+  "at": "2026-09-07T18:08:32Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "e30f797b9ec86a8b",
@@ -8362,8 +8377,13 @@
   "headline": "Dhaka small traders squeezed by extortion from criminal groups",
   "topic": "dhaka extortion small traders",
   "source": "Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-09-07T18:08:32Z"
+  "status": "failed",
+  "at": "2026-09-07T18:08:32Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "a453180a09dfbf32",
@@ -8371,7 +8391,12 @@
   "headline": "Dhaka small traders squeezed by extortion from criminal groups",
   "topic": "dhaka extortion small traders",
   "source": "Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-09-07T18:08:32Z"
+  "status": "failed",
+  "at": "2026-09-07T18:08:32Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
