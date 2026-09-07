@@ -1,47 +1,5 @@
 [
  {
-  "title_hash": "2543229a358de99c",
-  "url": "https://www.thedailystar.net/news/power-and-energy/news/lpg-price-cut-tk-13-12kg-cylinder-now-tk-1585-4263006",
-  "headline": "LPG price cut by Tk 13, 12kg cylinder now Tk 1,585",
-  "topic": "lpg price cut",
-  "source": "Jamuna TV, The Daily Star, Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-09-02T14:06:55Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "4ecc2b261e5b0330",
-  "url": "https://www.jamuna.tv/national/663327",
-  "headline": "LPG price cut by Tk 13, 12kg cylinder now Tk 1,585",
-  "topic": "lpg price cut",
-  "source": "Jamuna TV, The Daily Star, Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-09-02T14:06:55Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "8e0fba3b6a00dd3f",
-  "url": "https://www.dhakatribune.com/bangladesh/power-energy/418920/12kg-lpg-cylinder-price-drops-to-tk1-585",
-  "headline": "LPG price cut by Tk 13, 12kg cylinder now Tk 1,585",
-  "topic": "lpg price cut",
-  "source": "Jamuna TV, The Daily Star, Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-09-02T14:06:55Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "3f9d3f2c063c8456",
   "url": "https://www.dhakatribune.com/bangladesh/corruption/418899/acc-starts-investigation-against-asif-mahmud",
   "headline": "ACC starts investigation against Asif Mahmud and 3 others over corruption",
@@ -8398,5 +8356,32 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "9a94e21627dabc85",
+  "url": "https://www.thedailystar.net/sports/cricket/news/we-should-win-tigresses-face-do-or-die-uae-clash-india-semifinal-4267531",
+  "headline": "Asia Cup: Tigresses face do-or-die UAE clash for semifinal spot",
+  "topic": "tigresses face do-or-die UAE clash for Asia Cup semifinal",
+  "source": "The Daily Star",
+  "status": "queued",
+  "at": "2026-09-07T20:08:20Z"
+ },
+ {
+  "title_hash": "d7051eac795e189f",
+  "url": "https://www.dhakatribune.com/bangladesh/crime/419311/dmch-doctor-assault-two-accused-placed-on-3-day",
+  "headline": "Two more accused placed on 3-day remand in DMCH doctor assault case",
+  "topic": "DMCH doctor assault: two accused placed on 3-day remand",
+  "source": "Prothom Alo, Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-09-07T20:08:20Z"
+ },
+ {
+  "title_hash": "4f61ab724e99c2e3",
+  "url": "https://www.prothomalo.com/bangladesh/kjs0663rpb",
+  "headline": "Two more accused placed on 3-day remand in DMCH doctor assault case",
+  "topic": "DMCH doctor assault: two accused placed on 3-day remand",
+  "source": "Prothom Alo, Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-09-07T20:08:20Z"
  }
 ]
