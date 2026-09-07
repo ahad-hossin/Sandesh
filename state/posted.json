@@ -8363,8 +8363,13 @@
   "headline": "75,000 depositors seek to withdraw nearly Tk 4,000cr from Sammilito Islami Bank",
   "topic": "bank depositors seek withdrawals",
   "source": "The Daily Star",
-  "status": "queued",
-  "at": "2026-09-07T05:07:09Z"
+  "status": "failed",
+  "at": "2026-09-07T05:07:09Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "8255b0313104e4b8",
@@ -8372,8 +8377,13 @@
   "headline": "Bangladesh's foreign exchange reserves rise to $36 billion, enough for four months of imports",
   "topic": "bangladesh forex reserves increase",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-07T05:07:09Z"
+  "status": "failed",
+  "at": "2026-09-07T05:07:09Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "f81498b2886dddb7",
@@ -8381,7 +8391,12 @@
   "headline": "Bangladesh's foreign exchange reserves rise to $36 billion, enough for four months of imports",
   "topic": "bangladesh forex reserves increase",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-07T05:07:09Z"
+  "status": "failed",
+  "at": "2026-09-07T05:07:09Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
