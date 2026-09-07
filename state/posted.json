@@ -1,89 +1,5 @@
 [
  {
-  "title_hash": "25ce7afb923ec637",
-  "url": "https://www.prothomalo.com/bangladesh/d9ov0yig7n",
-  "headline": "136 lives lost in August as measles resurges in Bangladesh",
-  "topic": "measles outbreak bangladesh",
-  "source": "Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-02T10:06:36Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "05d27f90ee2e4c12",
-  "url": "https://www.prothomalo.com/business/bank/gu5jdcc50n",
-  "headline": "18,000 customers seek 1,300 crore BDT refund from Sammilito Islami Bank",
-  "topic": "islamic bank deposit withdrawals",
-  "source": "Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-02T10:06:36Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "c2d5539b1af71913",
-  "url": "https://www.prothomalo.com/bangladesh/ml1oh520aj",
-  "headline": "18,000 customers seek 1,300 crore BDT refund from Sammilito Islami Bank",
-  "topic": "islamic bank deposit withdrawals",
-  "source": "Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-02T10:06:36Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "3f9d3f2c063c8456",
-  "url": "https://www.dhakatribune.com/bangladesh/corruption/418899/acc-starts-investigation-against-asif-mahmud",
-  "headline": "ACC finds primary evidence of corruption against Asif Mahmud",
-  "topic": "acc investigation asif mahmud",
-  "source": "Jamuna TV, Dhaka Tribune, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-02T11:06:41Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "4bc655166c222552",
-  "url": "https://www.jamuna.tv/national/663325",
-  "headline": "ACC finds primary evidence of corruption against Asif Mahmud",
-  "topic": "acc investigation asif mahmud",
-  "source": "Jamuna TV, Dhaka Tribune, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-02T11:06:41Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "93d75b0bdae4b734",
-  "url": "https://www.prothomalo.com/bangladesh/snuq0uxdo7",
-  "headline": "ACC finds primary evidence of corruption against Asif Mahmud",
-  "topic": "acc investigation asif mahmud",
-  "source": "Jamuna TV, Dhaka Tribune, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-02T11:06:41Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "71826c50a31d31f2",
   "url": "https://www.thedailystar.net/news/crime-justice/corruption/news/acc-decides-investigate-corruption-allegations-against-asif-mahmud-4262976",
   "headline": "ACC finds primary evidence of corruption against Asif Mahmud",
@@ -8398,5 +8314,59 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "00eb41f7118ae1ed",
+  "url": "https://www.dhakatribune.com/bangladesh/court/419269/chief-prosecutor-detention-beyond-24hrs-to-be",
+  "headline": "Detention beyond 24 hours to be considered disappearance",
+  "topic": "detention beyond 24hrs disappearance",
+  "source": "Jamuna TV, Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-09-07T12:07:23Z"
+ },
+ {
+  "title_hash": "7a9306d8476b7406",
+  "url": "https://www.jamuna.tv/national/663656",
+  "headline": "Detention beyond 24 hours to be considered disappearance",
+  "topic": "detention beyond 24hrs disappearance",
+  "source": "Jamuna TV, Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-09-07T12:07:23Z"
+ },
+ {
+  "title_hash": "1faa20142f5636e2",
+  "url": "https://www.dhakatribune.com/bangladesh/419279/savar-police-officer-killing-prime-accused-placed",
+  "headline": "9 arrested in Savar police officer killing, RAB says",
+  "topic": "savar police officer killing",
+  "source": "Dhaka Tribune, Jamuna TV, Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-07T12:07:23Z"
+ },
+ {
+  "title_hash": "88d669561f79e673",
+  "url": "https://www.dhakatribune.com/bangladesh/crime/419270/rab-savar-si-murder-accused-involved-in-juvenile",
+  "headline": "9 arrested in Savar police officer killing, RAB says",
+  "topic": "savar police officer killing",
+  "source": "Dhaka Tribune, Jamuna TV, Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-07T12:07:23Z"
+ },
+ {
+  "title_hash": "09aafd249142e419",
+  "url": "https://www.jamuna.tv/all-bangladesh/663632",
+  "headline": "9 arrested in Savar police officer killing, RAB says",
+  "topic": "savar police officer killing",
+  "source": "Dhaka Tribune, Jamuna TV, Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-07T12:07:23Z"
+ },
+ {
+  "title_hash": "c3f68c7dee456d4a",
+  "url": "https://www.prothomalo.com/bangladesh/crime/8rord5vm8m",
+  "headline": "9 arrested in Savar police officer killing, RAB says",
+  "topic": "savar police officer killing",
+  "source": "Dhaka Tribune, Jamuna TV, Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-07T12:07:23Z"
  }
 ]
