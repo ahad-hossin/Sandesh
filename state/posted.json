@@ -1,47 +1,5 @@
 [
  {
-  "title_hash": "fe8d4b10dd5cee6d",
-  "url": "https://www.thedailystar.net/sports/football/news/hamza-makes-immediate-impact-sheffield-claim-first-league-win-4262786",
-  "headline": "Hamza Choudhury makes immediate impact as Sheffield United secure first league win",
-  "topic": "hamza-choudhury-sheffield-debut",
-  "source": "Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-02T04:11:58Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "61dfe31079dd92df",
-  "url": "https://www.prothomalo.com/sports/football/4bzxtwz4i5",
-  "headline": "Hamza Choudhury makes immediate impact as Sheffield United secure first league win",
-  "topic": "hamza-choudhury-sheffield-debut",
-  "source": "Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-02T04:11:58Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "5908dddabe970fee",
-  "url": "https://www.prothomalo.com/education/scholarship/y0599p8wru",
-  "headline": "New rates: Primary scholarship students to get 300 and 225 taka monthly",
-  "topic": "primary-school-stipend-rates-2025",
-  "source": "Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-02T04:11:58Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "382a91ca961a3cc2",
   "url": "https://www.thedailystar.net/news/bangladesh/diplomacy/news/boeing-wont-let-you-down-i-wont-forget-4262721",
   "headline": "Trump thanks PM Tarique Rahman for billions in Boeing aircraft purchase",
@@ -8398,5 +8356,32 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "a781b372a69bc6ba",
+  "url": "https://www.thedailystar.net/news/world/europe/news/ukraine-talks-us-envoys-useful-kremlin-4266681",
+  "headline": "US envoys meet Putin, Zelensky for Ukraine peace talks, no breakthrough reported",
+  "topic": "Ukraine war winter outlook",
+  "source": "Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-07T00:06:52Z"
+ },
+ {
+  "title_hash": "e1656b6d78c84953",
+  "url": "https://www.prothomalo.com/world/europe/wn08x2pp4r",
+  "headline": "US envoys meet Putin, Zelensky for Ukraine peace talks, no breakthrough reported",
+  "topic": "Ukraine war winter outlook",
+  "source": "Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-07T00:06:52Z"
+ },
+ {
+  "title_hash": "699b122fda005bb3",
+  "url": "https://www.prothomalo.com/world/usa/np0y9fzy5y",
+  "headline": "Amazon cargo plane skids off runway onto road in Miami, 5 killed",
+  "topic": "Amazon cargo plane crash Miami",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-07T00:06:52Z"
  }
 ]
