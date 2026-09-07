@@ -8307,8 +8307,13 @@
   "headline": "481 killed in August road crashes: Road crash deaths rose in August",
   "topic": "august road accident deaths",
   "source": "The Daily Star, Dhaka Tribune, Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-07T09:07:20Z"
+  "status": "failed",
+  "at": "2026-09-07T09:07:20Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "7ab072a838386bab",
@@ -8316,8 +8321,13 @@
   "headline": "481 killed in August road crashes: Road crash deaths rose in August",
   "topic": "august road accident deaths",
   "source": "The Daily Star, Dhaka Tribune, Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-07T09:07:20Z"
+  "status": "failed",
+  "at": "2026-09-07T09:07:20Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "a7a5f4ab0999ab69",
@@ -8325,8 +8335,13 @@
   "headline": "481 killed in August road crashes: Road crash deaths rose in August",
   "topic": "august road accident deaths",
   "source": "The Daily Star, Dhaka Tribune, Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-07T09:07:20Z"
+  "status": "failed",
+  "at": "2026-09-07T09:07:20Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "3562db9ab972fc65",
@@ -8334,8 +8349,13 @@
   "headline": "481 killed in August road crashes: Road crash deaths rose in August",
   "topic": "august road accident deaths",
   "source": "The Daily Star, Dhaka Tribune, Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-07T09:07:20Z"
+  "status": "failed",
+  "at": "2026-09-07T09:07:20Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "88d669561f79e673",
@@ -8343,8 +8363,13 @@
   "headline": "8 more arrested for murder of Savar SI",
   "topic": "savar police officer murder arrests",
   "source": "Dhaka Tribune, Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-07T09:07:20Z"
+  "status": "failed",
+  "at": "2026-09-07T09:07:20Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "09aafd249142e419",
@@ -8352,8 +8377,13 @@
   "headline": "8 more arrested for murder of Savar SI",
   "topic": "savar police officer murder arrests",
   "source": "Dhaka Tribune, Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-07T09:07:20Z"
+  "status": "failed",
+  "at": "2026-09-07T09:07:20Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "c3f68c7dee456d4a",
@@ -8361,7 +8391,12 @@
   "headline": "8 more arrested for murder of Savar SI",
   "topic": "savar police officer murder arrests",
   "source": "Dhaka Tribune, Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-07T09:07:20Z"
+  "status": "failed",
+  "at": "2026-09-07T09:07:20Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
