@@ -1,47 +1,5 @@
 [
  {
-  "title_hash": "71826c50a31d31f2",
-  "url": "https://www.thedailystar.net/news/crime-justice/corruption/news/acc-decides-investigate-corruption-allegations-against-asif-mahmud-4262976",
-  "headline": "ACC starts investigation against Asif Mahmud and 3 others over corruption",
-  "topic": "acc investigation asif mahmud",
-  "source": "Prothom Alo, Jamuna TV, Dhaka Tribune, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-02T15:06:28Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "e92a6eb1693ac5c5",
-  "url": "https://www.thedailystar.net/news/power-and-energy/news/bangladesh-power-situation-improve-within-15-days-says-state-minister-4263131",
-  "headline": "Power crisis to improve within 15 days, says State Minister",
-  "topic": "power situation improvement 15 days",
-  "source": "The Daily Star, Dhaka Tribune, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-02T15:06:28Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "9a695c70c865eb12",
-  "url": "https://www.dhakatribune.com/bangladesh/power-energy/418944/amit-power-situation-to-improve-within-15-days-%C2%A0",
-  "headline": "Power crisis to improve within 15 days, says State Minister",
-  "topic": "power situation improvement 15 days",
-  "source": "The Daily Star, Dhaka Tribune, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-02T15:06:28Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "23b5dfb4f68950e9",
   "url": "https://www.prothomalo.com/video/bangladesh/w28v3zd3rh",
   "headline": "Power crisis to improve within 15 days, says State Minister",
@@ -8398,5 +8356,32 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "afda8e9c44170acb",
+  "url": "https://www.prothomalo.com/bangladesh/capital/07wfj8ioj7",
+  "headline": "Two women drown in pond at Jagannath University's second campus",
+  "topic": "jn university students drown",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-07T22:08:13Z"
+ },
+ {
+  "title_hash": "e30f797b9ec86a8b",
+  "url": "https://www.dhakatribune.com/bangladesh/crime/419323/extortion-squeezes-dhaka%E2%80%99s-small-traders",
+  "headline": "Dhaka's small traders squeezed by extortion from criminal groups",
+  "topic": "dhaka extortion small traders",
+  "source": "Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-09-07T22:08:13Z"
+ },
+ {
+  "title_hash": "a453180a09dfbf32",
+  "url": "https://www.dhakatribune.com/bangladesh/dhaka/419322/mirpur-businesses-squeezed-by-multiple-criminal",
+  "headline": "Dhaka's small traders squeezed by extortion from criminal groups",
+  "topic": "dhaka extortion small traders",
+  "source": "Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-09-07T22:08:13Z"
  }
 ]
