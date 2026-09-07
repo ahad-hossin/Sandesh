@@ -8349,8 +8349,13 @@
   "headline": "75,000 depositors seek to withdraw nearly Tk 4,000cr from Sammilito Islami Bank",
   "topic": "sammilito bank withdrawal crisis",
   "source": "The Daily Star, Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-07T04:06:51Z"
+  "status": "failed",
+  "at": "2026-09-07T04:06:51Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "f0b1bbe442f7671e",
@@ -8358,8 +8363,13 @@
   "headline": "75,000 depositors seek to withdraw nearly Tk 4,000cr from Sammilito Islami Bank",
   "topic": "sammilito bank withdrawal crisis",
   "source": "The Daily Star, Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-07T04:06:51Z"
+  "status": "failed",
+  "at": "2026-09-07T04:06:51Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "72c54b33452081d3",
@@ -8367,8 +8377,13 @@
   "headline": "Five dead after Amazon cargo plane overshoots Miami runway, crashes into vehicles and catches fire",
   "topic": "miami amazon plane crash",
   "source": "Jamuna TV, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-07T04:06:51Z"
+  "status": "failed",
+  "at": "2026-09-07T04:06:51Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "bb5bab4d3f930f72",
@@ -8376,7 +8391,12 @@
   "headline": "Five dead after Amazon cargo plane overshoots Miami runway, crashes into vehicles and catches fire",
   "topic": "miami amazon plane crash",
   "source": "Jamuna TV, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-07T04:06:51Z"
+  "status": "failed",
+  "at": "2026-09-07T04:06:51Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
