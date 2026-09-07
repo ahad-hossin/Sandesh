@@ -1,19 +1,5 @@
 [
  {
-  "title_hash": "71826c50a31d31f2",
-  "url": "https://www.thedailystar.net/news/crime-justice/corruption/news/acc-decides-investigate-corruption-allegations-against-asif-mahmud-4262976",
-  "headline": "ACC investigates corruption allegations against Asif Mahmud",
-  "topic": "acc investigation asif mahmud",
-  "source": "Jamuna TV, The Daily Star, Dhaka Tribune, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-02T13:07:14Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "54e0077c405244e5",
   "url": "https://www.jamuna.tv/national/663333",
   "headline": "ACC investigates corruption allegations against Asif Mahmud",
@@ -8398,5 +8384,14 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "e0f60eb140a88f06",
+  "url": "https://www.prothomalo.com/video/bangladesh/blxd1c7j6n",
+  "headline": "9 arrested for killing police SI in Savar",
+  "topic": "savar police officer killing",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-07T16:21:35Z"
  }
 ]
