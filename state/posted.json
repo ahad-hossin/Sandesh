@@ -1,61 +1,5 @@
 [
  {
-  "title_hash": "54e0077c405244e5",
-  "url": "https://www.jamuna.tv/national/663333",
-  "headline": "ACC investigates corruption allegations against Asif Mahmud",
-  "topic": "acc investigation asif mahmud",
-  "source": "Jamuna TV, The Daily Star, Dhaka Tribune, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-02T13:07:14Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "4bc655166c222552",
-  "url": "https://www.jamuna.tv/national/663325",
-  "headline": "ACC investigates corruption allegations against Asif Mahmud",
-  "topic": "acc investigation asif mahmud",
-  "source": "Jamuna TV, The Daily Star, Dhaka Tribune, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-02T13:07:14Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "3f9d3f2c063c8456",
-  "url": "https://www.dhakatribune.com/bangladesh/corruption/418899/acc-starts-investigation-against-asif-mahmud",
-  "headline": "ACC investigates corruption allegations against Asif Mahmud",
-  "topic": "acc investigation asif mahmud",
-  "source": "Jamuna TV, The Daily Star, Dhaka Tribune, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-02T13:07:14Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "78f321e452fb9582",
-  "url": "https://www.prothomalo.com/bangladesh/aasiphsh-caarjner-biruddhe-anusndhaane-dudk",
-  "headline": "ACC investigates corruption allegations against Asif Mahmud",
-  "topic": "acc investigation asif mahmud",
-  "source": "Jamuna TV, The Daily Star, Dhaka Tribune, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-02T13:07:14Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "4f934726cacc9ac8",
   "url": "https://www.dhakatribune.com/bangladesh/health/418936/dengue-five-more-die-as-1-110-hospitalized-in-24",
   "headline": "Dengue crisis: Five more die as 1,110 hospitalized in 24 hours",
@@ -8398,5 +8342,41 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "e64d9a3d1cb0cee4",
+  "url": "https://www.jamuna.tv/national/663671",
+  "headline": "Woman testifies: Daughter raped by AL leaders after she gave statement on husband's death",
+  "topic": "awami league leaders rape woman after husband's death in july movement",
+  "source": "Jamuna TV",
+  "status": "queued",
+  "at": "2026-09-07T17:09:03Z"
+ },
+ {
+  "title_hash": "bc68c82860c3b13c",
+  "url": "https://www.dhakatribune.com/bangladesh/court/419319/writ-seeks-suspension-of-awami-league-activities",
+  "headline": "Court writ Writ seeks suspension of Awami League activities ban in High Court",
+  "topic": "debate in parliament over including Gazi Nazrul in standing committee",
+  "source": "Dhaka Tribune, Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-07T17:09:03Z"
+ },
+ {
+  "title_hash": "409bf14775033a8e",
+  "url": "https://www.prothomalo.com/video/bangladesh/w5qnj8epmo",
+  "headline": "Court writ Writ seeks suspension of Awami League activities ban in High Court",
+  "topic": "debate in parliament over including Gazi Nazrul in standing committee",
+  "source": "Dhaka Tribune, Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-07T17:09:03Z"
+ },
+ {
+  "title_hash": "63e8fd1424ad6399",
+  "url": "https://www.thedailystar.net/news/governance/parliament/news/4-more-standing-committees-formed-opposition-again-gets-no-chairmanships-4267216",
+  "headline": "Court writ Writ seeks suspension of Awami League activities ban in High Court",
+  "topic": "debate in parliament over including Gazi Nazrul in standing committee",
+  "source": "Dhaka Tribune, Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-07T17:09:03Z"
  }
 ]
