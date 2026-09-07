@@ -1,61 +1,5 @@
 [
  {
-  "title_hash": "dd75bf7a8aa956b8",
-  "url": "https://www.prothomalo.com/world/usa/ge38nq0fnj",
-  "headline": "5 killed, including child, as US military strikes Iran",
-  "topic": "us iran exchange attacks",
-  "source": "Jamuna TV, The Daily Star, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-02T06:06:37Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "67228dbd238c9c34",
-  "url": "https://www.thedailystar.net/news/world/news/us-military-says-it-completed-latest-wave-strikes-iran-4262756",
-  "headline": "5 killed, 68 injured as US military strikes IRGC targets in Iran",
-  "topic": "us-iran-drone-strikes",
-  "source": "Jamuna TV, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-02T07:06:55Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "7ddbf0687708b7e6",
-  "url": "https://www.jamuna.tv/international/663303",
-  "headline": "5 killed, 68 injured as US military strikes IRGC targets in Iran",
-  "topic": "us-iran-drone-strikes",
-  "source": "Jamuna TV, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-02T07:06:55Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "c280b9ee0f24cf07",
-  "url": "https://www.prothomalo.com/video/international/tbsqqag2bl",
-  "headline": "5 killed, 68 injured as US military strikes IRGC targets in Iran",
-  "topic": "us-iran-drone-strikes",
-  "source": "Jamuna TV, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-02T07:06:55Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "e7b0d4e0720bc117",
   "url": "https://www.jamuna.tv/international/663280",
   "headline": "5 killed, 68 injured as US military strikes IRGC targets in Iran",
@@ -8398,5 +8342,41 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "f494ce6af8f3249a",
+  "url": "https://www.thedailystar.net/business/news/75000-depositors-seek-withdraw-nearly-tk-4000cr-sammilito-islami-bank-4266801",
+  "headline": "75,000 depositors seek to withdraw nearly Tk 4,000cr from Sammilito Islami Bank",
+  "topic": "sammilito bank withdrawal crisis",
+  "source": "The Daily Star, Jamuna TV",
+  "status": "queued",
+  "at": "2026-09-07T04:06:51Z"
+ },
+ {
+  "title_hash": "f0b1bbe442f7671e",
+  "url": "https://www.jamuna.tv/national/663600",
+  "headline": "75,000 depositors seek to withdraw nearly Tk 4,000cr from Sammilito Islami Bank",
+  "topic": "sammilito bank withdrawal crisis",
+  "source": "The Daily Star, Jamuna TV",
+  "status": "queued",
+  "at": "2026-09-07T04:06:51Z"
+ },
+ {
+  "title_hash": "72c54b33452081d3",
+  "url": "https://www.thedailystar.net/news/world/news/five-dead-five-injured-after-amazon-cargo-plane-overshoots-miami-runway-4266766",
+  "headline": "Five dead after Amazon cargo plane overshoots Miami runway, crashes into vehicles and catches fire",
+  "topic": "miami amazon plane crash",
+  "source": "Jamuna TV, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-07T04:06:51Z"
+ },
+ {
+  "title_hash": "bb5bab4d3f930f72",
+  "url": "https://www.jamuna.tv/international/663614",
+  "headline": "Five dead after Amazon cargo plane overshoots Miami runway, crashes into vehicles and catches fire",
+  "topic": "miami amazon plane crash",
+  "source": "Jamuna TV, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-07T04:06:51Z"
  }
 ]
