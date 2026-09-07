@@ -8335,8 +8335,13 @@
   "headline": "1,314 hospitalised as 4 more die of dengue in 24 hours",
   "topic": "dengue death toll rise",
   "source": "Dhaka Tribune, The Daily Star, Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-07T13:07:24Z"
+  "status": "failed",
+  "at": "2026-09-07T13:07:24Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "8806f03e5709c438",
@@ -8344,8 +8349,13 @@
   "headline": "1,314 hospitalised as 4 more die of dengue in 24 hours",
   "topic": "dengue death toll rise",
   "source": "Dhaka Tribune, The Daily Star, Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-07T13:07:24Z"
+  "status": "failed",
+  "at": "2026-09-07T13:07:24Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "8afcdbe62fef361e",
@@ -8353,8 +8363,13 @@
   "headline": "1,314 hospitalised as 4 more die of dengue in 24 hours",
   "topic": "dengue death toll rise",
   "source": "Dhaka Tribune, The Daily Star, Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-07T13:07:24Z"
+  "status": "failed",
+  "at": "2026-09-07T13:07:24Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "9a1e39a0bee51182",
@@ -8362,8 +8377,13 @@
   "headline": "August inflation eases to 8.26%, down from July",
   "topic": "august inflation decrease",
   "source": "Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-07T13:07:24Z"
+  "status": "failed",
+  "at": "2026-09-07T13:07:24Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "6dcc814261dcb9c5",
@@ -8371,7 +8391,12 @@
   "headline": "August inflation eases to 8.26%, down from July",
   "topic": "august inflation decrease",
   "source": "Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-07T13:07:24Z"
+  "status": "failed",
+  "at": "2026-09-07T13:07:24Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
