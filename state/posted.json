@@ -8349,8 +8349,13 @@
   "headline": "Woman testifies: Daughter raped by AL leaders after she gave statement on husband's death",
   "topic": "awami league leaders rape woman after husband's death in july movement",
   "source": "Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-07T17:09:03Z"
+  "status": "failed",
+  "at": "2026-09-07T17:09:03Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "bc68c82860c3b13c",
@@ -8358,8 +8363,13 @@
   "headline": "Court writ Writ seeks suspension of Awami League activities ban in High Court",
   "topic": "debate in parliament over including Gazi Nazrul in standing committee",
   "source": "Dhaka Tribune, Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-07T17:09:03Z"
+  "status": "failed",
+  "at": "2026-09-07T17:09:03Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "409bf14775033a8e",
@@ -8367,8 +8377,13 @@
   "headline": "Court writ Writ seeks suspension of Awami League activities ban in High Court",
   "topic": "debate in parliament over including Gazi Nazrul in standing committee",
   "source": "Dhaka Tribune, Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-07T17:09:03Z"
+  "status": "failed",
+  "at": "2026-09-07T17:09:03Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "63e8fd1424ad6399",
@@ -8376,7 +8391,12 @@
   "headline": "Court writ Writ seeks suspension of Awami League activities ban in High Court",
   "topic": "debate in parliament over including Gazi Nazrul in standing committee",
   "source": "Dhaka Tribune, Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-07T17:09:03Z"
+  "status": "failed",
+  "at": "2026-09-07T17:09:03Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
