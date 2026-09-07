@@ -1,47 +1,5 @@
 [
  {
-  "title_hash": "67228dbd238c9c34",
-  "url": "https://www.thedailystar.net/news/world/news/us-military-says-it-completed-latest-wave-strikes-iran-4262756",
-  "headline": "5 killed, including child, as US military strikes Iran",
-  "topic": "us iran exchange attacks",
-  "source": "Jamuna TV, The Daily Star, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-02T06:06:37Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "e7b0d4e0720bc117",
-  "url": "https://www.jamuna.tv/international/663280",
-  "headline": "5 killed, including child, as US military strikes Iran",
-  "topic": "us iran exchange attacks",
-  "source": "Jamuna TV, The Daily Star, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-02T06:06:37Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "174d4f916a43761c",
-  "url": "https://www.prothomalo.com/business/world-business/2wwz0frjog",
-  "headline": "5 killed, including child, as US military strikes Iran",
-  "topic": "us iran exchange attacks",
-  "source": "Jamuna TV, The Daily Star, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-02T06:06:37Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "dd75bf7a8aa956b8",
   "url": "https://www.prothomalo.com/world/usa/ge38nq0fnj",
   "headline": "5 killed, including child, as US military strikes Iran",
@@ -8398,5 +8356,32 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "f556437b4454072d",
+  "url": "https://www.prothomalo.com/fun/ito62pfl2b",
+  "headline": "Gas crisis sparks huge demand for parotas at eateries, creating long queues for breakfast",
+  "topic": "bangladesh gas shortage",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-07T02:06:46Z"
+ },
+ {
+  "title_hash": "9a48c38d2ea1f17e",
+  "url": "https://www.thedailystar.net/news/world/middle-east/news/iran-guards-attack-us-naval-drone-4266691",
+  "headline": "Iran's Revolutionary Guards attacked a US naval drone attempting to enter Strait of Hormuz",
+  "topic": "iran declares controlled zone near hormuz",
+  "source": "Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-07T02:06:46Z"
+ },
+ {
+  "title_hash": "ee9ee1ea808e9092",
+  "url": "https://www.prothomalo.com/world/middle-east/5jkilb0ynn",
+  "headline": "Iran's Revolutionary Guards attacked a US naval drone attempting to enter Strait of Hormuz",
+  "topic": "iran declares controlled zone near hormuz",
+  "source": "Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-07T02:06:46Z"
  }
 ]
