@@ -1,47 +1,5 @@
 [
  {
-  "title_hash": "eee368936d2bce00",
-  "url": "https://www.thedailystar.net/news/bangladesh/news/9th-pay-scale-may-cause-slight-rise-inflation-4262686",
-  "headline": "New pay scale for public servants: Rise in inflation possible, says Adviser",
-  "topic": "new-government-pay-scale",
-  "source": "Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-02T07:06:55Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "da5b1496ac60abe5",
-  "url": "https://www.prothomalo.com/chakri/chakri-news/nl0y545c4k",
-  "headline": "New pay scale for public servants: Rise in inflation possible, says Adviser",
-  "topic": "new-government-pay-scale",
-  "source": "Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-02T07:06:55Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "bd4a821bc2021681",
-  "url": "https://www.prothomalo.com/education/ufxe640eft",
-  "headline": "New pay scale for public servants: Rise in inflation possible, says Adviser",
-  "topic": "new-government-pay-scale",
-  "source": "Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-02T07:06:55Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "2742208d3f4e354e",
   "url": "https://www.prothomalo.com/bangladesh/srkaari-caakri-ntunder-betn-brddhir-subidhaa-beshi",
   "headline": "New pay scale for public servants: Rise in inflation possible, says Adviser",
@@ -8398,5 +8356,32 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "96f36e1187582b39",
+  "url": "https://www.jamuna.tv/national/663626",
+  "headline": "12,000 Bangladeshis can go to Italy via legal channels annually",
+  "topic": "Italy Legal Migration Opportunity",
+  "source": "Jamuna TV",
+  "status": "queued",
+  "at": "2026-09-07T07:08:16Z"
+ },
+ {
+  "title_hash": "f494ce6af8f3249a",
+  "url": "https://www.thedailystar.net/business/news/75000-depositors-seek-withdraw-nearly-tk-4000cr-sammilito-islami-bank-4266801",
+  "headline": "75,000 depositors seek Tk 3,925 crore from Sammilito Islami Bank",
+  "topic": "Sammilito Islami Bank Withdrawals",
+  "source": "Jamuna TV, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-07T07:08:16Z"
+ },
+ {
+  "title_hash": "6efc9cc558e3a2c1",
+  "url": "https://www.jamuna.tv/economy/663622",
+  "headline": "75,000 depositors seek Tk 3,925 crore from Sammilito Islami Bank",
+  "topic": "Sammilito Islami Bank Withdrawals",
+  "source": "Jamuna TV, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-07T07:08:16Z"
  }
 ]
