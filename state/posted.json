@@ -8321,8 +8321,13 @@
   "headline": "481 people killed in August road accidents, RSF report",
   "topic": "august road accident deaths",
   "source": "Dhaka Tribune, The Daily Star, Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-07T10:09:02Z"
+  "status": "failed",
+  "at": "2026-09-07T10:09:02Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "23e6975f93a22cae",
@@ -8330,8 +8335,13 @@
   "headline": "481 people killed in August road accidents, RSF report",
   "topic": "august road accident deaths",
   "source": "Dhaka Tribune, The Daily Star, Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-07T10:09:02Z"
+  "status": "failed",
+  "at": "2026-09-07T10:09:02Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "a7a5f4ab0999ab69",
@@ -8339,8 +8349,13 @@
   "headline": "481 people killed in August road accidents, RSF report",
   "topic": "august road accident deaths",
   "source": "Dhaka Tribune, The Daily Star, Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-07T10:09:02Z"
+  "status": "failed",
+  "at": "2026-09-07T10:09:02Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "6e21d66953846e5e",
@@ -8348,8 +8363,13 @@
   "headline": "Gazipur court rejects bail for Sifat in anti-terrorism case",
   "topic": "sifat abdullah bail rejected",
   "source": "Prothom Alo, Jamuna TV, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-07T10:09:02Z"
+  "status": "failed",
+  "at": "2026-09-07T10:09:02Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "97900527a44e7860",
@@ -8357,8 +8377,13 @@
   "headline": "Gazipur court rejects bail for Sifat in anti-terrorism case",
   "topic": "sifat abdullah bail rejected",
   "source": "Prothom Alo, Jamuna TV, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-07T10:09:02Z"
+  "status": "failed",
+  "at": "2026-09-07T10:09:02Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "e21079625a5066e5",
@@ -8366,7 +8391,12 @@
   "headline": "Gazipur court rejects bail for Sifat in anti-terrorism case",
   "topic": "sifat abdullah bail rejected",
   "source": "Prothom Alo, Jamuna TV, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-07T10:09:02Z"
+  "status": "failed",
+  "at": "2026-09-07T10:09:02Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
