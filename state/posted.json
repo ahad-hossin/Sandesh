@@ -8363,8 +8363,13 @@
   "headline": "Gas crisis sparks huge demand for parotas at eateries, creating long queues for breakfast",
   "topic": "bangladesh gas shortage",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-07T02:06:46Z"
+  "status": "failed",
+  "at": "2026-09-07T02:06:46Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "9a48c38d2ea1f17e",
@@ -8372,8 +8377,13 @@
   "headline": "Iran's Revolutionary Guards attacked a US naval drone attempting to enter Strait of Hormuz",
   "topic": "iran declares controlled zone near hormuz",
   "source": "Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-07T02:06:46Z"
+  "status": "failed",
+  "at": "2026-09-07T02:06:46Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "ee9ee1ea808e9092",
@@ -8381,7 +8391,12 @@
   "headline": "Iran's Revolutionary Guards attacked a US naval drone attempting to enter Strait of Hormuz",
   "topic": "iran declares controlled zone near hormuz",
   "source": "Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-07T02:06:46Z"
+  "status": "failed",
+  "at": "2026-09-07T02:06:46Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
