@@ -8349,8 +8349,13 @@
   "headline": "1,314 hospitalised in 24 hours: 4 die of dengue in record surge",
   "topic": "dengue record cases deaths",
   "source": "Dhaka Tribune, Prothom Alo, The Daily Star, Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-07T14:20:56Z"
+  "status": "failed",
+  "at": "2026-09-07T14:20:56Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "4404e9d9ebcd4aa2",
@@ -8358,8 +8363,13 @@
   "headline": "1,314 hospitalised in 24 hours: 4 die of dengue in record surge",
   "topic": "dengue record cases deaths",
   "source": "Dhaka Tribune, Prothom Alo, The Daily Star, Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-07T14:20:56Z"
+  "status": "failed",
+  "at": "2026-09-07T14:20:56Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "8806f03e5709c438",
@@ -8367,8 +8377,13 @@
   "headline": "1,314 hospitalised in 24 hours: 4 die of dengue in record surge",
   "topic": "dengue record cases deaths",
   "source": "Dhaka Tribune, Prothom Alo, The Daily Star, Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-07T14:20:56Z"
+  "status": "failed",
+  "at": "2026-09-07T14:20:56Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "8afcdbe62fef361e",
@@ -8376,7 +8391,12 @@
   "headline": "1,314 hospitalised in 24 hours: 4 die of dengue in record surge",
   "topic": "dengue record cases deaths",
   "source": "Dhaka Tribune, Prothom Alo, The Daily Star, Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-07T14:20:56Z"
+  "status": "failed",
+  "at": "2026-09-07T14:20:56Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
