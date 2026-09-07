@@ -8363,8 +8363,13 @@
   "headline": "Asia Cup: Tigresses face do-or-die UAE clash for semifinal spot",
   "topic": "tigresses face do-or-die UAE clash for Asia Cup semifinal",
   "source": "The Daily Star",
-  "status": "queued",
-  "at": "2026-09-07T20:08:20Z"
+  "status": "failed",
+  "at": "2026-09-07T20:08:20Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "d7051eac795e189f",
@@ -8372,8 +8377,13 @@
   "headline": "Two more accused placed on 3-day remand in DMCH doctor assault case",
   "topic": "DMCH doctor assault: two accused placed on 3-day remand",
   "source": "Prothom Alo, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-09-07T20:08:20Z"
+  "status": "failed",
+  "at": "2026-09-07T20:08:20Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "4f61ab724e99c2e3",
@@ -8381,7 +8391,12 @@
   "headline": "Two more accused placed on 3-day remand in DMCH doctor assault case",
   "topic": "DMCH doctor assault: two accused placed on 3-day remand",
   "source": "Prothom Alo, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-09-07T20:08:20Z"
+  "status": "failed",
+  "at": "2026-09-07T20:08:20Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
