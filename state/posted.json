@@ -8307,8 +8307,13 @@
   "headline": "1 dead, 10 injured as bus overturns in Feni",
   "topic": "customs officer killed bus accident feni",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-07T08:08:07Z"
+  "status": "failed",
+  "at": "2026-09-07T08:08:07Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "102b55312d46a8ab",
@@ -8316,8 +8321,13 @@
   "headline": "1 dead, 10 injured as bus overturns in Feni",
   "topic": "customs officer killed bus accident feni",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-07T08:08:07Z"
+  "status": "failed",
+  "at": "2026-09-07T08:08:07Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "f7d464f18e1b1747",
@@ -8325,8 +8335,13 @@
   "headline": "1 dead, 10 injured as bus overturns in Feni",
   "topic": "customs officer killed bus accident feni",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-07T08:08:07Z"
+  "status": "failed",
+  "at": "2026-09-07T08:08:07Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "7ab072a838386bab",
@@ -8334,8 +8349,13 @@
   "headline": "481 lives lost in August road crashes in Bangladesh",
   "topic": "august road accident deaths",
   "source": "Dhaka Tribune, Jamuna TV, Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-07T08:08:07Z"
+  "status": "failed",
+  "at": "2026-09-07T08:08:07Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "a7a5f4ab0999ab69",
@@ -8343,8 +8363,13 @@
   "headline": "481 lives lost in August road crashes in Bangladesh",
   "topic": "august road accident deaths",
   "source": "Dhaka Tribune, Jamuna TV, Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-07T08:08:07Z"
+  "status": "failed",
+  "at": "2026-09-07T08:08:07Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "3562db9ab972fc65",
@@ -8352,8 +8377,13 @@
   "headline": "481 lives lost in August road crashes in Bangladesh",
   "topic": "august road accident deaths",
   "source": "Dhaka Tribune, Jamuna TV, Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-07T08:08:07Z"
+  "status": "failed",
+  "at": "2026-09-07T08:08:07Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "23e6975f93a22cae",
@@ -8361,7 +8391,12 @@
   "headline": "481 lives lost in August road crashes in Bangladesh",
   "topic": "august road accident deaths",
   "source": "Dhaka Tribune, Jamuna TV, Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-07T08:08:07Z"
+  "status": "failed",
+  "at": "2026-09-07T08:08:07Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
