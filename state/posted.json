@@ -1,47 +1,5 @@
 [
  {
-  "title_hash": "e7b0d4e0720bc117",
-  "url": "https://www.jamuna.tv/international/663280",
-  "headline": "5 killed, 68 injured as US military strikes IRGC targets in Iran",
-  "topic": "us-iran-drone-strikes",
-  "source": "Jamuna TV, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-02T07:06:55Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "174d4f916a43761c",
-  "url": "https://www.prothomalo.com/business/world-business/2wwz0frjog",
-  "headline": "5 killed, 68 injured as US military strikes IRGC targets in Iran",
-  "topic": "us-iran-drone-strikes",
-  "source": "Jamuna TV, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-02T07:06:55Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "dd75bf7a8aa956b8",
-  "url": "https://www.prothomalo.com/world/usa/ge38nq0fnj",
-  "headline": "5 killed, 68 injured as US military strikes IRGC targets in Iran",
-  "topic": "us-iran-drone-strikes",
-  "source": "Jamuna TV, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-02T07:06:55Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "eee368936d2bce00",
   "url": "https://www.thedailystar.net/news/bangladesh/news/9th-pay-scale-may-cause-slight-rise-inflation-4262686",
   "headline": "New pay scale for public servants: Rise in inflation possible, says Adviser",
@@ -8398,5 +8356,32 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "f494ce6af8f3249a",
+  "url": "https://www.thedailystar.net/business/news/75000-depositors-seek-withdraw-nearly-tk-4000cr-sammilito-islami-bank-4266801",
+  "headline": "75,000 depositors seek to withdraw nearly Tk 4,000cr from Sammilito Islami Bank",
+  "topic": "bank depositors seek withdrawals",
+  "source": "The Daily Star",
+  "status": "queued",
+  "at": "2026-09-07T05:07:09Z"
+ },
+ {
+  "title_hash": "8255b0313104e4b8",
+  "url": "https://www.prothomalo.com/business/economics/baideshik-mudraar-rijaarbh-berre-36-biliyyn-ddlaar",
+  "headline": "Bangladesh's foreign exchange reserves rise to $36 billion, enough for four months of imports",
+  "topic": "bangladesh forex reserves increase",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-07T05:07:09Z"
+ },
+ {
+  "title_hash": "f81498b2886dddb7",
+  "url": "https://www.prothomalo.com/business/economics/3xuyrp5h8d",
+  "headline": "Bangladesh's foreign exchange reserves rise to $36 billion, enough for four months of imports",
+  "topic": "bangladesh forex reserves increase",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-07T05:07:09Z"
  }
 ]
