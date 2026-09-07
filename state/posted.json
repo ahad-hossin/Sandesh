@@ -1,75 +1,5 @@
 [
  {
-  "title_hash": "4f934726cacc9ac8",
-  "url": "https://www.dhakatribune.com/bangladesh/health/418936/dengue-five-more-die-as-1-110-hospitalized-in-24",
-  "headline": "Dengue crisis: Five more die as 1,110 hospitalized in 24 hours",
-  "topic": "dengue death toll rise",
-  "source": "Dhaka Tribune, Jamuna TV",
-  "status": "failed",
-  "at": "2026-09-02T13:07:14Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "e0b9f411f0996bb3",
-  "url": "https://www.jamuna.tv/health/663331",
-  "headline": "Dengue crisis: Five more die as 1,110 hospitalized in 24 hours",
-  "topic": "dengue death toll rise",
-  "source": "Dhaka Tribune, Jamuna TV",
-  "status": "failed",
-  "at": "2026-09-02T13:07:14Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "4f934726cacc9ac8",
-  "url": "https://www.dhakatribune.com/bangladesh/health/418936/dengue-five-more-die-as-1-110-hospitalized-in-24",
-  "headline": "Dengue surge: 5 more die as 1,110 hospitalized in 24 hours",
-  "topic": "dengue deaths surge",
-  "source": "Dhaka Tribune, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-02T14:06:55Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "e0b9f411f0996bb3",
-  "url": "https://www.jamuna.tv/health/663331",
-  "headline": "Dengue surge: 5 more die as 1,110 hospitalized in 24 hours",
-  "topic": "dengue deaths surge",
-  "source": "Dhaka Tribune, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-02T14:06:55Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "bf158da51c29365f",
-  "url": "https://www.prothomalo.com/bangladesh/nuj71pbwox",
-  "headline": "Dengue surge: 5 more die as 1,110 hospitalized in 24 hours",
-  "topic": "dengue deaths surge",
-  "source": "Dhaka Tribune, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-02T14:06:55Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "2543229a358de99c",
   "url": "https://www.thedailystar.net/news/power-and-energy/news/lpg-price-cut-tk-13-12kg-cylinder-now-tk-1585-4263006",
   "headline": "LPG price cut by Tk 13, 12kg cylinder now Tk 1,585",
@@ -8398,5 +8328,50 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "422a38e6a1cd7357",
+  "url": "https://www.thedailystar.net/news/bangladesh/news/they-raped-my-daughter-because-i-came-testify-4267461",
+  "headline": "Widow of July martyr claims daughter raped and died by suicide after she testified",
+  "topic": "july uprising victim daughter raped",
+  "source": "Jamuna TV, Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-07T18:08:32Z"
+ },
+ {
+  "title_hash": "e64d9a3d1cb0cee4",
+  "url": "https://www.jamuna.tv/national/663671",
+  "headline": "Widow of July martyr claims daughter raped and died by suicide after she testified",
+  "topic": "july uprising victim daughter raped",
+  "source": "Jamuna TV, Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-07T18:08:32Z"
+ },
+ {
+  "title_hash": "766d59b14fb8b523",
+  "url": "https://www.prothomalo.com/bangladesh/fd3jy3n57b",
+  "headline": "Widow of July martyr claims daughter raped and died by suicide after she testified",
+  "topic": "july uprising victim daughter raped",
+  "source": "Jamuna TV, Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-07T18:08:32Z"
+ },
+ {
+  "title_hash": "e30f797b9ec86a8b",
+  "url": "https://www.dhakatribune.com/bangladesh/crime/419323/extortion-squeezes-dhaka%E2%80%99s-small-traders",
+  "headline": "Dhaka small traders squeezed by extortion from criminal groups",
+  "topic": "dhaka extortion small traders",
+  "source": "Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-09-07T18:08:32Z"
+ },
+ {
+  "title_hash": "a453180a09dfbf32",
+  "url": "https://www.dhakatribune.com/bangladesh/dhaka/419322/mirpur-businesses-squeezed-by-multiple-criminal",
+  "headline": "Dhaka small traders squeezed by extortion from criminal groups",
+  "topic": "dhaka extortion small traders",
+  "source": "Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-09-07T18:08:32Z"
  }
 ]
