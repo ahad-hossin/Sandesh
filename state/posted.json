@@ -8377,8 +8377,13 @@
   "headline": "UK to ban trade with illegal Israeli settlements",
   "topic": "uk ban israeli settlements trade",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-07T23:18:04Z"
+  "status": "failed",
+  "at": "2026-09-07T23:18:04Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "ac4562927373b977",
@@ -8386,7 +8391,12 @@
   "headline": "Tk 601.79 crore Khulna City Corporation announces budget for current fiscal year",
   "topic": "khulna city budget",
   "source": "Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-07T23:18:04Z"
+  "status": "failed",
+  "at": "2026-09-07T23:18:04Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
