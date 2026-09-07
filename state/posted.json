@@ -4,62 +4,6 @@
   "url": "https://www.thedailystar.net/news/crime-justice/corruption/news/acc-decides-investigate-corruption-allegations-against-asif-mahmud-4262976",
   "headline": "ACC investigates corruption allegations against Asif Mahmud",
   "topic": "acc investigation asif mahmud",
-  "source": "The Daily Star, Jamuna TV, Dhaka Tribune, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-02T12:06:31Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "4bc655166c222552",
-  "url": "https://www.jamuna.tv/national/663325",
-  "headline": "ACC investigates corruption allegations against Asif Mahmud",
-  "topic": "acc investigation asif mahmud",
-  "source": "The Daily Star, Jamuna TV, Dhaka Tribune, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-02T12:06:31Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "3f9d3f2c063c8456",
-  "url": "https://www.dhakatribune.com/bangladesh/corruption/418899/acc-starts-investigation-against-asif-mahmud",
-  "headline": "ACC investigates corruption allegations against Asif Mahmud",
-  "topic": "acc investigation asif mahmud",
-  "source": "The Daily Star, Jamuna TV, Dhaka Tribune, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-02T12:06:31Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "78f321e452fb9582",
-  "url": "https://www.prothomalo.com/bangladesh/aasiphsh-caarjner-biruddhe-anusndhaane-dudk",
-  "headline": "ACC investigates corruption allegations against Asif Mahmud",
-  "topic": "acc investigation asif mahmud",
-  "source": "The Daily Star, Jamuna TV, Dhaka Tribune, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-02T12:06:31Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "71826c50a31d31f2",
-  "url": "https://www.thedailystar.net/news/crime-justice/corruption/news/acc-decides-investigate-corruption-allegations-against-asif-mahmud-4262976",
-  "headline": "ACC investigates corruption allegations against Asif Mahmud",
-  "topic": "acc investigation asif mahmud",
   "source": "Jamuna TV, The Daily Star, Dhaka Tribune, Prothom Alo",
   "status": "failed",
   "at": "2026-09-02T13:07:14Z",
@@ -8398,5 +8342,41 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "6b8efbb45f7d259d",
+  "url": "https://www.dhakatribune.com/bangladesh/health/419289/dengue-four-more-die-as-1-314-cases-recorded-in",
+  "headline": "1,314 hospitalised in 24 hours: 4 die of dengue in record surge",
+  "topic": "dengue record cases deaths",
+  "source": "Dhaka Tribune, Prothom Alo, The Daily Star, Jamuna TV",
+  "status": "queued",
+  "at": "2026-09-07T14:20:56Z"
+ },
+ {
+  "title_hash": "4404e9d9ebcd4aa2",
+  "url": "https://www.prothomalo.com/bangladesh/capital/bhncpnbzhq",
+  "headline": "1,314 hospitalised in 24 hours: 4 die of dengue in record surge",
+  "topic": "dengue record cases deaths",
+  "source": "Dhaka Tribune, Prothom Alo, The Daily Star, Jamuna TV",
+  "status": "queued",
+  "at": "2026-09-07T14:20:56Z"
+ },
+ {
+  "title_hash": "8806f03e5709c438",
+  "url": "https://www.thedailystar.net/news/healthcare/disease/news/4-die-dengue-1314-hospitalised-24-hours-4267106",
+  "headline": "1,314 hospitalised in 24 hours: 4 die of dengue in record surge",
+  "topic": "dengue record cases deaths",
+  "source": "Dhaka Tribune, Prothom Alo, The Daily Star, Jamuna TV",
+  "status": "queued",
+  "at": "2026-09-07T14:20:56Z"
+ },
+ {
+  "title_hash": "8afcdbe62fef361e",
+  "url": "https://www.jamuna.tv/national/663654",
+  "headline": "1,314 hospitalised in 24 hours: 4 die of dengue in record surge",
+  "topic": "dengue record cases deaths",
+  "source": "Dhaka Tribune, Prothom Alo, The Daily Star, Jamuna TV",
+  "status": "queued",
+  "at": "2026-09-07T14:20:56Z"
  }
 ]
