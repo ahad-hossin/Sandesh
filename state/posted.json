@@ -8363,8 +8363,13 @@
   "headline": "12,000 Bangladeshis can go to Italy via legal channels annually",
   "topic": "Italy Legal Migration Opportunity",
   "source": "Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-07T07:08:16Z"
+  "status": "failed",
+  "at": "2026-09-07T07:08:16Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "f494ce6af8f3249a",
@@ -8372,8 +8377,13 @@
   "headline": "75,000 depositors seek Tk 3,925 crore from Sammilito Islami Bank",
   "topic": "Sammilito Islami Bank Withdrawals",
   "source": "Jamuna TV, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-07T07:08:16Z"
+  "status": "failed",
+  "at": "2026-09-07T07:08:16Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "6efc9cc558e3a2c1",
@@ -8381,7 +8391,12 @@
   "headline": "75,000 depositors seek Tk 3,925 crore from Sammilito Islami Bank",
   "topic": "Sammilito Islami Bank Withdrawals",
   "source": "Jamuna TV, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-07T07:08:16Z"
+  "status": "failed",
+  "at": "2026-09-07T07:08:16Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
