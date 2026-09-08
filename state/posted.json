@@ -8349,8 +8349,13 @@
   "headline": "Daughter of July uprising victim raped, died by suicide after mother testified at tribunal",
   "topic": "July uprising victim's daughter rape allegation",
   "source": "Jamuna TV, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-08T01:07:26Z"
+  "status": "failed",
+  "at": "2026-09-08T01:07:26Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "e64d9a3d1cb0cee4",
@@ -8358,8 +8363,13 @@
   "headline": "Daughter of July uprising victim raped, died by suicide after mother testified at tribunal",
   "topic": "July uprising victim's daughter rape allegation",
   "source": "Jamuna TV, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-08T01:07:26Z"
+  "status": "failed",
+  "at": "2026-09-08T01:07:26Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "e30f797b9ec86a8b",
@@ -8367,8 +8377,13 @@
   "headline": "Extortion by multiple criminal groups squeezes small traders in Dhaka's Mirpur",
   "topic": "Dhaka small trader extortion",
   "source": "Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-09-08T01:07:26Z"
+  "status": "failed",
+  "at": "2026-09-08T01:07:26Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "a453180a09dfbf32",
@@ -8376,7 +8391,12 @@
   "headline": "Extortion by multiple criminal groups squeezes small traders in Dhaka's Mirpur",
   "topic": "Dhaka small trader extortion",
   "source": "Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-09-08T01:07:26Z"
+  "status": "failed",
+  "at": "2026-09-08T01:07:26Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
