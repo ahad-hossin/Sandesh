@@ -1,47 +1,5 @@
 [
  {
-  "title_hash": "25a90683deeb9240",
-  "url": "https://www.prothomalo.com/sports/cricket/taamimer-334-raaner-rekrddo-bhenge-dilen-hrdyy",
-  "headline": "Tawhid Hridoy breaks Tamim Iqbal's record with triple century",
-  "topic": "towhid hridoy triple century record",
-  "source": "Prothom Alo, Jamuna TV",
-  "status": "failed",
-  "at": "2026-09-02T16:06:37Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "c31a90219c092deb",
-  "url": "https://www.prothomalo.com/sports/cricket/oc82trgwyr",
-  "headline": "Tawhid Hridoy breaks Tamim Iqbal's record with triple century",
-  "topic": "towhid hridoy triple century record",
-  "source": "Prothom Alo, Jamuna TV",
-  "status": "failed",
-  "at": "2026-09-02T16:06:37Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "ddfc269acea6be53",
-  "url": "https://www.jamuna.tv/sports/663334",
-  "headline": "Tawhid Hridoy breaks Tamim Iqbal's record with triple century",
-  "topic": "towhid hridoy triple century record",
-  "source": "Prothom Alo, Jamuna TV",
-  "status": "failed",
-  "at": "2026-09-02T16:06:37Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "3f9d3f2c063c8456",
   "url": "https://www.dhakatribune.com/bangladesh/corruption/418899/acc-starts-investigation-against-asif-mahmud",
   "headline": "ACC starts investigation against Asif Mahmud and 3 others",
@@ -8398,5 +8356,32 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "afda8e9c44170acb",
+  "url": "https://www.prothomalo.com/bangladesh/capital/07wfj8ioj7",
+  "headline": "Two drown in pond at Jagannath University's second campus in Keraniganj",
+  "topic": "Jagannath University Drowning",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-08T00:07:32Z"
+ },
+ {
+  "title_hash": "c2322ceec2a42af9",
+  "url": "https://www.dhakatribune.com/bangladesh/nation/419316/kcc-announces-tk-601.79cr-budget-for-fy-2026-27",
+  "headline": "KCC announces Tk 601.79cr budget for FY 2026-27",
+  "topic": "Khulna City Budget Announcement",
+  "source": "Jamuna TV, Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-09-08T00:07:32Z"
+ },
+ {
+  "title_hash": "ac4562927373b977",
+  "url": "https://www.jamuna.tv/all-bangladesh/663676",
+  "headline": "KCC announces Tk 601.79cr budget for FY 2026-27",
+  "topic": "Khulna City Budget Announcement",
+  "source": "Jamuna TV, Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-09-08T00:07:32Z"
  }
 ]
