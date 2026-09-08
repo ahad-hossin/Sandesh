@@ -1,61 +1,5 @@
 [
  {
-  "title_hash": "3f9d3f2c063c8456",
-  "url": "https://www.dhakatribune.com/bangladesh/corruption/418899/acc-starts-investigation-against-asif-mahmud",
-  "headline": "ACC starts investigation against Asif Mahmud and 3 others",
-  "topic": "acc investigation asif mahmud",
-  "source": "Prothom Alo, Dhaka Tribune, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-02T16:06:37Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "0da07d393028faca",
-  "url": "https://www.prothomalo.com/video/bangladesh/ojdviphf19",
-  "headline": "ACC starts investigation against Asif Mahmud and 3 others",
-  "topic": "acc investigation asif mahmud",
-  "source": "Prothom Alo, Dhaka Tribune, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-02T16:06:37Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "71826c50a31d31f2",
-  "url": "https://www.thedailystar.net/news/crime-justice/corruption/news/acc-decides-investigate-corruption-allegations-against-asif-mahmud-4262976",
-  "headline": "ACC starts investigation against Asif Mahmud and 3 others",
-  "topic": "acc investigation asif mahmud",
-  "source": "Prothom Alo, Dhaka Tribune, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-02T16:06:37Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "42dc619973ff371d",
-  "url": "https://www.thedailystar.net/business/news/price-bottled-soybean-oil-rises-tk-5-litre-4263246",
-  "headline": "Bottled soybean oil price raised by Tk 5 per litre",
-  "topic": "soybean oil price hike",
-  "source": "The Daily Star, Prothom Alo, Dhaka Tribune, Jamuna TV",
-  "status": "failed",
-  "at": "2026-09-02T17:09:21Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "ccf3707b29e71c0f",
   "url": "https://www.prothomalo.com/video/bangladesh/cr2mmgc2s5",
   "headline": "Bottled soybean oil price raised by Tk 5 per litre",
@@ -8398,5 +8342,41 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "422a38e6a1cd7357",
+  "url": "https://www.thedailystar.net/news/bangladesh/news/they-raped-my-daughter-because-i-came-testify-4267461",
+  "headline": "Daughter of July uprising victim raped, died by suicide after mother testified at tribunal",
+  "topic": "July uprising victim's daughter rape allegation",
+  "source": "Jamuna TV, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-08T01:07:26Z"
+ },
+ {
+  "title_hash": "e64d9a3d1cb0cee4",
+  "url": "https://www.jamuna.tv/national/663671",
+  "headline": "Daughter of July uprising victim raped, died by suicide after mother testified at tribunal",
+  "topic": "July uprising victim's daughter rape allegation",
+  "source": "Jamuna TV, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-08T01:07:26Z"
+ },
+ {
+  "title_hash": "e30f797b9ec86a8b",
+  "url": "https://www.dhakatribune.com/bangladesh/crime/419323/extortion-squeezes-dhaka%E2%80%99s-small-traders",
+  "headline": "Extortion by multiple criminal groups squeezes small traders in Dhaka's Mirpur",
+  "topic": "Dhaka small trader extortion",
+  "source": "Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-09-08T01:07:26Z"
+ },
+ {
+  "title_hash": "a453180a09dfbf32",
+  "url": "https://www.dhakatribune.com/bangladesh/dhaka/419322/mirpur-businesses-squeezed-by-multiple-criminal",
+  "headline": "Extortion by multiple criminal groups squeezes small traders in Dhaka's Mirpur",
+  "topic": "Dhaka small trader extortion",
+  "source": "Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-09-08T01:07:26Z"
  }
 ]
