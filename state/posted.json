@@ -1,89 +1,5 @@
 [
  {
-  "title_hash": "287cb50d0360371d",
-  "url": "https://www.jamuna.tv/national/663317",
-  "headline": "Bottled soybean oil price raised by Tk 5 per litre",
-  "topic": "soybean oil price hike",
-  "source": "The Daily Star, Dhaka Tribune, Prothom Alo, Jamuna TV",
-  "status": "failed",
-  "at": "2026-09-02T19:07:50Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "5bf76347ec5fc506",
-  "url": "https://www.prothomalo.com/bangladesh/crime/oz2ag5wwqh",
-  "headline": "Tk 20 crore gold seized: 80 gold bars found under seats of FlyDubai plane",
-  "topic": "flydubai gold bars seizure",
-  "source": "Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-02T20:06:55Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "69b44bb5af799ffe",
-  "url": "https://www.jamuna.tv/national/663345",
-  "headline": "Asif Mahmud demands retraction of ACC allegations within 24 hours",
-  "topic": "asif mahmud acc vs dcc",
-  "source": "Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-02T20:06:55Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "f43b1b51748bde63",
-  "url": "https://www.prothomalo.com/politics/os29gpteu8",
-  "headline": "Asif Mahmud demands retraction of ACC allegations within 24 hours",
-  "topic": "asif mahmud acc vs dcc",
-  "source": "Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-02T20:06:55Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "6415454f9fcd12a7",
-  "url": "https://www.prothomalo.com/video/bangladesh/wqeie46yoa",
-  "headline": "Asif Mahmud demands retraction of ACC allegations within 24 hours",
-  "topic": "asif mahmud acc vs dcc",
-  "source": "Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-02T20:06:55Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "ccf3707b29e71c0f",
-  "url": "https://www.prothomalo.com/video/bangladesh/cr2mmgc2s5",
-  "headline": "Asif Mahmud demands retraction of ACC allegations within 24 hours",
-  "topic": "asif mahmud acc vs dcc",
-  "source": "Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-02T20:06:55Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "7d2368db742e2695",
   "url": "https://www.prothomalo.com/business/bank/pro9yraold",
   "headline": "Bank defaulted loans exceed 6 lakh crore taka again",
@@ -8398,5 +8314,59 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "70a7635f384b9ecf",
+  "url": "https://www.dhakatribune.com/bangladesh/nation/419330/20-medical-students-injured-as-bus-falls-into",
+  "headline": "24 medical students injured as bus falls into ditch in Comilla",
+  "topic": "medical students bus accident comilla",
+  "source": "Dhaka Tribune, Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-08T08:10:33Z"
+ },
+ {
+  "title_hash": "1fdbd2f1f67a215b",
+  "url": "https://www.prothomalo.com/bangladesh/district/mnxl0ceg2i",
+  "headline": "24 medical students injured as bus falls into ditch in Comilla",
+  "topic": "medical students bus accident comilla",
+  "source": "Dhaka Tribune, Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-08T08:10:33Z"
+ },
+ {
+  "title_hash": "2f284dcf8a9ebb7f",
+  "url": "https://www.prothomalo.com/bangladesh/m7v975styi",
+  "headline": "Govt says attack on actress Ajmeri Haq Badhon in Italy is proof she was on right path",
+  "topic": "attack on badhan and political reactions",
+  "source": "Prothom Alo, Jamuna TV",
+  "status": "queued",
+  "at": "2026-09-08T08:10:33Z"
+ },
+ {
+  "title_hash": "aebccad3cf3b3a71",
+  "url": "https://www.jamuna.tv/national/663695",
+  "headline": "Govt says attack on actress Ajmeri Haq Badhon in Italy is proof she was on right path",
+  "topic": "attack on badhan and political reactions",
+  "source": "Prothom Alo, Jamuna TV",
+  "status": "queued",
+  "at": "2026-09-08T08:10:33Z"
+ },
+ {
+  "title_hash": "94494695ca72ca8d",
+  "url": "https://www.jamuna.tv/national/663693",
+  "headline": "Govt says attack on actress Ajmeri Haq Badhon in Italy is proof she was on right path",
+  "topic": "attack on badhan and political reactions",
+  "source": "Prothom Alo, Jamuna TV",
+  "status": "queued",
+  "at": "2026-09-08T08:10:33Z"
+ },
+ {
+  "title_hash": "8e3bca26058b21b5",
+  "url": "https://www.jamuna.tv/national/663687",
+  "headline": "Govt says attack on actress Ajmeri Haq Badhon in Italy is proof she was on right path",
+  "topic": "attack on badhan and political reactions",
+  "source": "Prothom Alo, Jamuna TV",
+  "status": "queued",
+  "at": "2026-09-08T08:10:33Z"
  }
 ]
