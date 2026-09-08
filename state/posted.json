@@ -8321,8 +8321,13 @@
   "headline": "24 medical students injured as bus falls into ditch in Comilla",
   "topic": "medical students bus accident comilla",
   "source": "Dhaka Tribune, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-08T08:10:33Z"
+  "status": "failed",
+  "at": "2026-09-08T08:10:33Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "1fdbd2f1f67a215b",
@@ -8330,8 +8335,13 @@
   "headline": "24 medical students injured as bus falls into ditch in Comilla",
   "topic": "medical students bus accident comilla",
   "source": "Dhaka Tribune, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-08T08:10:33Z"
+  "status": "failed",
+  "at": "2026-09-08T08:10:33Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "2f284dcf8a9ebb7f",
@@ -8339,8 +8349,13 @@
   "headline": "Govt says attack on actress Ajmeri Haq Badhon in Italy is proof she was on right path",
   "topic": "attack on badhan and political reactions",
   "source": "Prothom Alo, Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-08T08:10:33Z"
+  "status": "failed",
+  "at": "2026-09-08T08:10:33Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "aebccad3cf3b3a71",
@@ -8348,8 +8363,13 @@
   "headline": "Govt says attack on actress Ajmeri Haq Badhon in Italy is proof she was on right path",
   "topic": "attack on badhan and political reactions",
   "source": "Prothom Alo, Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-08T08:10:33Z"
+  "status": "failed",
+  "at": "2026-09-08T08:10:33Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "94494695ca72ca8d",
@@ -8357,8 +8377,13 @@
   "headline": "Govt says attack on actress Ajmeri Haq Badhon in Italy is proof she was on right path",
   "topic": "attack on badhan and political reactions",
   "source": "Prothom Alo, Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-08T08:10:33Z"
+  "status": "failed",
+  "at": "2026-09-08T08:10:33Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "8e3bca26058b21b5",
@@ -8366,7 +8391,12 @@
   "headline": "Govt says attack on actress Ajmeri Haq Badhon in Italy is proof she was on right path",
   "topic": "attack on badhan and political reactions",
   "source": "Prothom Alo, Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-08T08:10:33Z"
+  "status": "failed",
+  "at": "2026-09-08T08:10:33Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
