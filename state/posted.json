@@ -1,19 +1,5 @@
 [
  {
-  "title_hash": "7d2368db742e2695",
-  "url": "https://www.prothomalo.com/business/bank/pro9yraold",
-  "headline": "Tk 6 lakh crore: Bad loans in banking sector surpass Tk 6 lakh crore again",
-  "topic": "bank-bad-loans-6-lakh-crore",
-  "source": "Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-02T23:08:30Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "0331a77b97d343ff",
   "url": "https://www.thedailystar.net/news/bangladesh/news/bad-loans-now-over-tk-6-lakh-crore-4263601",
   "headline": "Bad loans again exceed Tk 6 lakh crore in Bangladesh's banking sector, reaching 32.78% of total disbursed loans",
@@ -8398,5 +8384,14 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "dc91d7f7d5f94770",
+  "url": "https://www.dhakatribune.com/bangladesh/419333/govt-cuts-aromatic-rice-export-quota-by-50%25",
+  "headline": "Export quota for aromatic rice cut by 50% by government",
+  "topic": "aromatic rice export quota cut",
+  "source": "Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-09-08T10:20:05Z"
  }
 ]
