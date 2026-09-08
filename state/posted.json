@@ -1,75 +1,5 @@
 [
  {
-  "title_hash": "54e0077c405244e5",
-  "url": "https://www.jamuna.tv/national/663333",
-  "headline": "ACC starts investigation against Asif Mahmud and 3 others over corruption",
-  "topic": "acc investigation asif mahmud",
-  "source": "Prothom Alo, Dhaka Tribune, Jamuna TV",
-  "status": "failed",
-  "at": "2026-09-02T17:09:21Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "ab475ba4191077c6",
-  "url": "https://www.dhakatribune.com/bangladesh/crime/418948/guns-on-the-loose-killings-on-the-rise",
-  "headline": "Alarming trend: Guns on the loose, killings on the rise in Bangladesh",
-  "topic": "looted-police-weapons-killings",
-  "source": "Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-09-02T18:06:32Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "42dc619973ff371d",
-  "url": "https://www.thedailystar.net/business/organisation-news/news/price-bottled-soybean-oil-rises-tk-5-litre-4263321",
-  "headline": "Bottled soybean oil price raised by Tk 5 per litre",
-  "topic": "soybean-oil-price-hike",
-  "source": "The Daily Star, Prothom Alo, Dhaka Tribune, Jamuna TV",
-  "status": "failed",
-  "at": "2026-09-02T18:06:32Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "ccf3707b29e71c0f",
-  "url": "https://www.prothomalo.com/video/bangladesh/cr2mmgc2s5",
-  "headline": "Bottled soybean oil price raised by Tk 5 per litre",
-  "topic": "soybean-oil-price-hike",
-  "source": "The Daily Star, Prothom Alo, Dhaka Tribune, Jamuna TV",
-  "status": "failed",
-  "at": "2026-09-02T18:06:32Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "9a6e37edde7559dd",
-  "url": "https://www.dhakatribune.com/bangladesh/power-energy/418923/bottled-soybean-oil-price-raised-by-tk5-per-litre",
-  "headline": "Bottled soybean oil price raised by Tk 5 per litre",
-  "topic": "soybean-oil-price-hike",
-  "source": "The Daily Star, Prothom Alo, Dhaka Tribune, Jamuna TV",
-  "status": "failed",
-  "at": "2026-09-02T18:06:32Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "287cb50d0360371d",
   "url": "https://www.jamuna.tv/national/663317",
   "headline": "Bottled soybean oil price raised by Tk 5 per litre",
@@ -8398,5 +8328,50 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "a646cb4a698f0d82",
+  "url": "https://www.thedailystar.net/culture/tv-film/news/azmeri-haque-badhan-assaulted-harassed-italy-4267656",
+  "headline": "Actress Azmeri Haque Badhan assaulted and harassed in Italy, files police complaint",
+  "topic": "Actress Badhon harassed in Italy",
+  "source": "Prothom Alo, Jamuna TV, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-08T05:08:51Z"
+ },
+ {
+  "title_hash": "d80fda68c911be6e",
+  "url": "https://www.prothomalo.com/entertainment/itaalite-haamlaa-henstaar-shikaar-abhinetrii-baandhn",
+  "headline": "Actress Azmeri Haque Badhan assaulted and harassed in Italy, files police complaint",
+  "topic": "Actress Badhon harassed in Italy",
+  "source": "Prothom Alo, Jamuna TV, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-08T05:08:51Z"
+ },
+ {
+  "title_hash": "648df56375dc6479",
+  "url": "https://www.jamuna.tv/international/663677",
+  "headline": "Actress Azmeri Haque Badhan assaulted and harassed in Italy, files police complaint",
+  "topic": "Actress Badhon harassed in Italy",
+  "source": "Prothom Alo, Jamuna TV, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-08T05:08:51Z"
+ },
+ {
+  "title_hash": "cfa6a9faa5a2be95",
+  "url": "https://www.prothomalo.com/entertainment/j0myl5p6l7",
+  "headline": "Actress Azmeri Haque Badhan assaulted and harassed in Italy, files police complaint",
+  "topic": "Actress Badhon harassed in Italy",
+  "source": "Prothom Alo, Jamuna TV, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-08T05:08:51Z"
+ },
+ {
+  "title_hash": "fca8d8eb7bbcddb8",
+  "url": "https://www.jamuna.tv/international/663679",
+  "headline": "UN Chief independent body to monitor law enforcement in Bangladesh",
+  "topic": "UN Human Rights Chief on Bangladesh law enforcement",
+  "source": "Jamuna TV",
+  "status": "queued",
+  "at": "2026-09-08T05:08:51Z"
  }
 ]
