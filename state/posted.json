@@ -8377,8 +8377,13 @@
   "headline": "Lightning strike causes fire at Power Minister Tuku's home in Sirajganj",
   "topic": "lightning strikes minister's house",
   "source": "Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-09T12:10:58Z"
+  "status": "failed",
+  "at": "2026-09-09T12:10:58Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "792c843984e7dbdd",
@@ -8386,7 +8391,12 @@
   "headline": "River erosion in Patuakhali: Residents relocate graves of loved ones as Tetulia River surges",
   "topic": "river erosion threatens homes in Dashmina",
   "source": "Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-09T12:10:58Z"
+  "status": "failed",
+  "at": "2026-09-09T12:10:58Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
