@@ -8335,8 +8335,13 @@
   "headline": "1,463 hospitalized in 24 hours as three more die of dengue",
   "topic": "dengue death toll rises",
   "source": "Dhaka Tribune, Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-09T13:07:35Z"
+  "status": "failed",
+  "at": "2026-09-09T13:07:35Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "8dcf844ace6414f0",
@@ -8344,8 +8349,13 @@
   "headline": "1,463 hospitalized in 24 hours as three more die of dengue",
   "topic": "dengue death toll rises",
   "source": "Dhaka Tribune, Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-09T13:07:35Z"
+  "status": "failed",
+  "at": "2026-09-09T13:07:35Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "28e59a45960dd7e8",
@@ -8353,8 +8363,13 @@
   "headline": "1,463 hospitalized in 24 hours as three more die of dengue",
   "topic": "dengue death toll rises",
   "source": "Dhaka Tribune, Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-09T13:07:35Z"
+  "status": "failed",
+  "at": "2026-09-09T13:07:35Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "2a9e01d0ca9ebeff",
@@ -8362,8 +8377,13 @@
   "headline": "1,463 hospitalized in 24 hours as three more die of dengue",
   "topic": "dengue death toll rises",
   "source": "Dhaka Tribune, Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-09T13:07:35Z"
+  "status": "failed",
+  "at": "2026-09-09T13:07:35Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "d03c9d13af51b70e",
@@ -8371,7 +8391,12 @@
   "headline": "Noakhali: Madrasa teacher arrested for allegedly raping 10-year-old student",
   "topic": "teacher arrested madrasa rape",
   "source": "The Daily Star",
-  "status": "queued",
-  "at": "2026-09-09T13:07:35Z"
+  "status": "failed",
+  "at": "2026-09-09T13:07:35Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
