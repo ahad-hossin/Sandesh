@@ -1,75 +1,5 @@
 [
  {
-  "title_hash": "25969e4f50b13cca",
-  "url": "https://www.jamuna.tv/national/663475",
-  "headline": "Jamaat-led alliance begins long march to Chattogram for people's rights",
-  "topic": "jamaat led alliance long march",
-  "source": "Jamuna TV, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-05T04:06:51Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "e8dd9556fa15813b",
-  "url": "https://www.jamuna.tv/national/663473",
-  "headline": "Jamaat-led alliance begins long march to Chattogram for people's rights",
-  "topic": "jamaat led alliance long march",
-  "source": "Jamuna TV, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-05T04:06:51Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "048ecd5764053054",
-  "url": "https://www.jamuna.tv/national/663471",
-  "headline": "Jamaat-led alliance begins long march to Chattogram for people's rights",
-  "topic": "jamaat led alliance long march",
-  "source": "Jamuna TV, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-05T04:06:51Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "ea65ecb82c4828d3",
-  "url": "https://www.prothomalo.com/politics/5hmetwr1xz",
-  "headline": "Jamaat-led alliance begins long march to Chattogram for people's rights",
-  "topic": "jamaat led alliance long march",
-  "source": "Jamuna TV, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-05T04:06:51Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "1a80c952926abc57",
-  "url": "https://www.thedailystar.net/news/world/asia/news/nepal-flood-disaster-puts-climate-justice-under-spotlight-4265191",
-  "headline": "Nepal floods kill over 1,250, spark climate justice debate after $2.6B damage",
-  "topic": "nepal tibet border disaster death toll",
-  "source": "Jamuna TV, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-05T04:06:51Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "8bd2cdbe56978abf",
   "url": "https://www.jamuna.tv/international/663477",
   "headline": "Nepal floods kill over 1,250, spark climate justice debate after $2.6B damage",
@@ -8398,5 +8328,50 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "0a670869c2f9a5ae",
+  "url": "https://www.thedailystar.net/news/healthcare/disease/news/dengue-claims-3-more-lives-1463-hospitalised-24-hours-4268741",
+  "headline": "1,463 hospitalised in 24 hours as dengue claims 3 more lives",
+  "topic": "dengue death toll 133",
+  "source": "The Daily Star, Jamuna TV, Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-09-09T14:09:02Z"
+ },
+ {
+  "title_hash": "8dcf844ace6414f0",
+  "url": "https://www.jamuna.tv/national/663788",
+  "headline": "1,463 hospitalised in 24 hours as dengue claims 3 more lives",
+  "topic": "dengue death toll 133",
+  "source": "The Daily Star, Jamuna TV, Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-09-09T14:09:02Z"
+ },
+ {
+  "title_hash": "797722e0404d9679",
+  "url": "https://www.dhakatribune.com/bangladesh/health/419457/dengue-three-more-die-as-1-463-hospitalized-in-24",
+  "headline": "1,463 hospitalised in 24 hours as dengue claims 3 more lives",
+  "topic": "dengue death toll 133",
+  "source": "The Daily Star, Jamuna TV, Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-09-09T14:09:02Z"
+ },
+ {
+  "title_hash": "e9146bf6595c08fb",
+  "url": "https://www.dhakatribune.com/bangladesh/court/419462/savar-si-killing-three-accused-get-remand",
+  "headline": "Savar SI killing: Three more accused placed on five-day remand",
+  "topic": "savar si killing remand",
+  "source": "Dhaka Tribune, Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-09T14:09:02Z"
+ },
+ {
+  "title_hash": "5f88c5657def60c0",
+  "url": "https://www.prothomalo.com/bangladesh/crime/wmawt07qml",
+  "headline": "Savar SI killing: Three more accused placed on five-day remand",
+  "topic": "savar si killing remand",
+  "source": "Dhaka Tribune, Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-09T14:09:02Z"
  }
 ]
