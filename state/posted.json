@@ -8335,8 +8335,13 @@
   "headline": "6 fire engines deployed as fire breaks out at Centrepoint mall in Uttara",
   "topic": "uttara centrepoint mall fire",
   "source": "Dhaka Tribune, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-09T09:09:20Z"
+  "status": "failed",
+  "at": "2026-09-09T09:09:20Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "4c3b3f8ea7a5c6ca",
@@ -8344,8 +8349,13 @@
   "headline": "6 fire engines deployed as fire breaks out at Centrepoint mall in Uttara",
   "topic": "uttara centrepoint mall fire",
   "source": "Dhaka Tribune, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-09T09:09:20Z"
+  "status": "failed",
+  "at": "2026-09-09T09:09:20Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "9d79b82f8a8cc67b",
@@ -8353,8 +8363,13 @@
   "headline": "Two soldiers killed in Bangladesh army tank firing accident in Hathazari",
   "topic": "hathazari army firing accident",
   "source": "Jamuna TV, Dhaka Tribune, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-09T09:09:20Z"
+  "status": "failed",
+  "at": "2026-09-09T09:09:20Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "a55399c656f3d8ea",
@@ -8362,8 +8377,13 @@
   "headline": "Two soldiers killed in Bangladesh army tank firing accident in Hathazari",
   "topic": "hathazari army firing accident",
   "source": "Jamuna TV, Dhaka Tribune, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-09T09:09:20Z"
+  "status": "failed",
+  "at": "2026-09-09T09:09:20Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "eb4ef0e46ea066d3",
@@ -8371,7 +8391,12 @@
   "headline": "Two soldiers killed in Bangladesh army tank firing accident in Hathazari",
   "topic": "hathazari army firing accident",
   "source": "Jamuna TV, Dhaka Tribune, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-09T09:09:20Z"
+  "status": "failed",
+  "at": "2026-09-09T09:09:20Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
