@@ -8377,8 +8377,13 @@
   "headline": "Saima Wazed resigns from WHO post amid irregularity allegations",
   "topic": "saima wazed resigns from WHO post amid allegations",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-09T23:10:42Z"
+  "status": "failed",
+  "at": "2026-09-09T23:10:42Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "ac482d14cc2724e4",
@@ -8386,7 +8391,12 @@
   "headline": "Saima Wazed Putul resigns as WHO regional head amid fraud allegations",
   "topic": "saima wazed resigns as WHO regional head after fraud allegations",
   "source": "The Daily Star",
-  "status": "queued",
-  "at": "2026-09-09T23:10:42Z"
+  "status": "failed",
+  "at": "2026-09-09T23:10:42Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
