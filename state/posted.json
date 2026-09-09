@@ -1,75 +1,5 @@
 [
  {
-  "title_hash": "399581ab173aa296",
-  "url": "https://www.prothomalo.com/video/bangladesh/he2jh4zvk9",
-  "headline": "Woman killed, State Minister Abdul Bari injured in Bogura road accident",
-  "topic": "state minister car accident death",
-  "source": "Prothom Alo, Dhaka Tribune, Jamuna TV",
-  "status": "failed",
-  "at": "2026-09-04T12:06:37Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "bde86a7467c5d056",
-  "url": "https://www.prothomalo.com/bangladesh/district/f89b83r382",
-  "headline": "Woman killed, State Minister Abdul Bari injured in Bogura road accident",
-  "topic": "state minister car accident death",
-  "source": "Prothom Alo, Dhaka Tribune, Jamuna TV",
-  "status": "failed",
-  "at": "2026-09-04T12:06:37Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "b3432ffe691d264a",
-  "url": "https://www.dhakatribune.com/bangladesh/health/419084/measles-outbreak-death-toll-reaches-987-as-one",
-  "headline": "Measles outbreak: Death toll reaches 987 as one more dies in 24 hours",
-  "topic": "measles outbreak bangladesh",
-  "source": "Dhaka Tribune, Jamuna TV",
-  "status": "failed",
-  "at": "2026-09-04T12:06:37Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "a4dcf7fa79a68c80",
-  "url": "https://www.jamuna.tv/national/663452",
-  "headline": "Measles outbreak: Death toll reaches 987 as one more dies in 24 hours",
-  "topic": "measles outbreak bangladesh",
-  "source": "Dhaka Tribune, Jamuna TV",
-  "status": "failed",
-  "at": "2026-09-04T12:06:37Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "07525583ca431311",
-  "url": "https://www.dhakatribune.com/bangladesh/health/419075/health-minister-measles-vaccination-campaign-to",
-  "headline": "Measles outbreak: Death toll reaches 987 as one more dies in 24 hours",
-  "topic": "measles outbreak bangladesh",
-  "source": "Dhaka Tribune, Jamuna TV",
-  "status": "failed",
-  "at": "2026-09-04T12:06:37Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "c8b128e8ee15e029",
   "url": "https://www.thedailystar.net/news/bangladesh/news/bill-placed-abolish-rab-form-its-replacement-4264516",
   "headline": "Bill placed to abolish RAB and form its replacement, the SRB",
@@ -8398,5 +8328,50 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "34c66eb315e22be4",
+  "url": "https://www.thedailystar.net/sports/football/news/mourinhos-real-madrid-make-winning-start-against-inter-milan-4268361",
+  "headline": "Mbappe, Valverde goals secure 2-1 Champions League win for Real Madrid against Inter",
+  "topic": "real madrid champions league win",
+  "source": "Jamuna TV, The Daily Star, Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-09T01:07:04Z"
+ },
+ {
+  "title_hash": "1fea73858f52136b",
+  "url": "https://www.jamuna.tv/sports/663737",
+  "headline": "Mbappe, Valverde goals secure 2-1 Champions League win for Real Madrid against Inter",
+  "topic": "real madrid champions league win",
+  "source": "Jamuna TV, The Daily Star, Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-09T01:07:04Z"
+ },
+ {
+  "title_hash": "81af730ef0bc0857",
+  "url": "https://www.prothomalo.com/sports/football/olg4l1fjyz",
+  "headline": "Mbappe, Valverde goals secure 2-1 Champions League win for Real Madrid against Inter",
+  "topic": "real madrid champions league win",
+  "source": "Jamuna TV, The Daily Star, Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-09T01:07:04Z"
+ },
+ {
+  "title_hash": "eb09d20ddcaf128e",
+  "url": "https://www.thedailystar.net/sports/football/news/haaland-double-powers-man-city-victory-over-porto-4268371",
+  "headline": "Haaland double powers Man City to victory over Porto in Champions League opener",
+  "topic": "man city champions league win",
+  "source": "The Daily Star, Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-09T01:07:04Z"
+ },
+ {
+  "title_hash": "0fbd9a63f14d2360",
+  "url": "https://www.prothomalo.com/sports/football/p5z3faj9hw",
+  "headline": "Haaland double powers Man City to victory over Porto in Champions League opener",
+  "topic": "man city champions league win",
+  "source": "The Daily Star, Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-09T01:07:04Z"
  }
 ]
