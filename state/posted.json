@@ -8349,8 +8349,13 @@
   "headline": "Iran attacks US military base in Jordan after US strikes on oil tankers, global oil prices near $100",
   "topic": "Iran attacks US base in Jordan",
   "source": "Jamuna TV, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-09T03:06:36Z"
+  "status": "failed",
+  "at": "2026-09-09T03:06:36Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "ca3cc8a067de70a0",
@@ -8358,8 +8363,13 @@
   "headline": "Iran attacks US military base in Jordan after US strikes on oil tankers, global oil prices near $100",
   "topic": "Iran attacks US base in Jordan",
   "source": "Jamuna TV, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-09T03:06:36Z"
+  "status": "failed",
+  "at": "2026-09-09T03:06:36Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "27e3bb3700009e97",
@@ -8367,8 +8377,13 @@
   "headline": "Iran attacks US military base in Jordan after US strikes on oil tankers, global oil prices near $100",
   "topic": "Iran attacks US base in Jordan",
   "source": "Jamuna TV, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-09T03:06:36Z"
+  "status": "failed",
+  "at": "2026-09-09T03:06:36Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "59a57df7ea40df92",
@@ -8376,7 +8391,12 @@
   "headline": "Bangladesh plans to recruit 100,000 health workers in 3 phases to tackle severe shortage",
   "topic": "Bangladesh plans to recruit 1 lakh health workers",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-09T03:06:36Z"
+  "status": "failed",
+  "at": "2026-09-09T03:06:36Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
