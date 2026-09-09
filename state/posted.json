@@ -8335,8 +8335,13 @@
   "headline": "Haaland double powers Man City to victory over Porto in Champions League opener",
   "topic": "man city haaland ucl win",
   "source": "Jamuna TV, The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-09T02:07:19Z"
+  "status": "failed",
+  "at": "2026-09-09T02:07:19Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "f1a76610560b811a",
@@ -8344,8 +8349,13 @@
   "headline": "Haaland double powers Man City to victory over Porto in Champions League opener",
   "topic": "man city haaland ucl win",
   "source": "Jamuna TV, The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-09T02:07:19Z"
+  "status": "failed",
+  "at": "2026-09-09T02:07:19Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "0fbd9a63f14d2360",
@@ -8353,8 +8363,13 @@
   "headline": "Haaland double powers Man City to victory over Porto in Champions League opener",
   "topic": "man city haaland ucl win",
   "source": "Jamuna TV, The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-09T02:07:19Z"
+  "status": "failed",
+  "at": "2026-09-09T02:07:19Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "34c66eb315e22be4",
@@ -8362,8 +8377,13 @@
   "headline": "Real Madrid beat Inter Milan 2-1 in Champions League opener with Mbappe, Valverde goals",
   "topic": "real madrid mbappe ucl win",
   "source": "Jamuna TV, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-09T02:07:19Z"
+  "status": "failed",
+  "at": "2026-09-09T02:07:19Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "1fea73858f52136b",
@@ -8371,7 +8391,12 @@
   "headline": "Real Madrid beat Inter Milan 2-1 in Champions League opener with Mbappe, Valverde goals",
   "topic": "real madrid mbappe ucl win",
   "source": "Jamuna TV, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-09T02:07:19Z"
+  "status": "failed",
+  "at": "2026-09-09T02:07:19Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
