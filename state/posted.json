@@ -8377,8 +8377,13 @@
   "headline": "Saima Wazed Putul resigns as WHO regional head amid fraud allegations",
   "topic": "who regional head resigns amid fraud allegations",
   "source": "The Daily Star",
-  "status": "queued",
-  "at": "2026-09-09T20:08:30Z"
+  "status": "failed",
+  "at": "2026-09-09T20:08:30Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "0207a97d15593dd6",
@@ -8386,7 +8391,12 @@
   "headline": "Bhola: Two missing after geo-bags collapse on Meghna riverbank",
   "topic": "geo-bags collapse on Meghna riverbank, two missing",
   "source": "The Daily Star",
-  "status": "queued",
-  "at": "2026-09-09T20:08:30Z"
+  "status": "failed",
+  "at": "2026-09-09T20:08:30Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
