@@ -1,61 +1,5 @@
 [
  {
-  "title_hash": "9bd9f0913d0cba18",
-  "url": "https://www.dhakatribune.com/bangladesh/crime/419112/one-killed-over-50-injured-in-brahmanbaria-clash",
-  "headline": "One killed, over 50 injured in Brahmanbaria clash",
-  "topic": "brahmanbaria clash deaths",
-  "source": "Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-09-04T16:06:32Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "f41b3f69c9f7e9a3",
-  "url": "https://www.dhakatribune.com/bangladesh/nation/419091/three-killed-in-separate-accidents-in-jessore-bus",
-  "headline": "One killed, over 50 injured in Brahmanbaria clash",
-  "topic": "brahmanbaria clash deaths",
-  "source": "Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-09-04T16:06:32Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "c20d6b0d49d7c159",
-  "url": "https://www.dhakatribune.com/bangladesh/politics/419096/jamaat-secretary-seeks-government-cooperation-to",
-  "headline": "BNP leader calls for withdrawal of opposition long march over fuel crisis",
-  "topic": "opposition long march dhaka chittagong",
-  "source": "Dhaka Tribune, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-04T16:06:32Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "c74a671f0896ed7a",
-  "url": "https://www.dhakatribune.com/bangladesh/politics/419106/anee-questions-opposition-long-march-says-six",
-  "headline": "BNP leader calls for withdrawal of opposition long march over fuel crisis",
-  "topic": "opposition long march dhaka chittagong",
-  "source": "Dhaka Tribune, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-04T16:06:32Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "6aca0de3d8c45fb0",
   "url": "https://www.prothomalo.com/politics/in116eh9hw",
   "headline": "BNP leader calls for withdrawal of opposition long march over fuel crisis",
@@ -8398,5 +8342,41 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "ae57e22c98972073",
+  "url": "https://www.dhakatribune.com/bangladesh/nation/419412/dismissed-ansar-member-hacked-to-death-in-tangail",
+  "headline": "Dismissed Ansar member hacked to death in Tangail, 2 arrested",
+  "topic": "ansar member killed tangail",
+  "source": "Jamuna TV, Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-09-09T06:08:21Z"
+ },
+ {
+  "title_hash": "a552cd523a068f4e",
+  "url": "https://www.jamuna.tv/all-bangladesh/663757",
+  "headline": "Dismissed Ansar member hacked to death in Tangail, 2 arrested",
+  "topic": "ansar member killed tangail",
+  "source": "Jamuna TV, Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-09-09T06:08:21Z"
+ },
+ {
+  "title_hash": "27c9f34570ee5ead",
+  "url": "https://www.thedailystar.net/news/healthcare/news/dengue-deaths-cases-hit-yearly-high-4268426",
+  "headline": "9 deaths, 1,571 cases: Dengue hits yearly high in single day",
+  "topic": "dengue cases hit yearly high",
+  "source": "The Daily Star, Jamuna TV",
+  "status": "queued",
+  "at": "2026-09-09T06:08:21Z"
+ },
+ {
+  "title_hash": "e9df5f025cfe6330",
+  "url": "https://www.jamuna.tv/national/663754",
+  "headline": "9 deaths, 1,571 cases: Dengue hits yearly high in single day",
+  "topic": "dengue cases hit yearly high",
+  "source": "The Daily Star, Jamuna TV",
+  "status": "queued",
+  "at": "2026-09-09T06:08:21Z"
  }
 ]
