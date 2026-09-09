@@ -8349,8 +8349,13 @@
   "headline": "Brazil names squad for Joao Pedro and Estevao recalled for friendlies",
   "topic": "brazil squad for india match",
   "source": "The Daily Star",
-  "status": "queued",
-  "at": "2026-09-09T22:07:52Z"
+  "status": "failed",
+  "at": "2026-09-09T22:07:52Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "bbdb1a6fdcca19b7",
@@ -8358,8 +8363,13 @@
   "headline": "Brazil names squad for Joao Pedro and Estevao recalled for friendlies",
   "topic": "brazil squad for india match",
   "source": "The Daily Star",
-  "status": "queued",
-  "at": "2026-09-09T22:07:52Z"
+  "status": "failed",
+  "at": "2026-09-09T22:07:52Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "c9416fcb019bd8d6",
@@ -8367,8 +8377,13 @@
   "headline": "Pabna: Couple killed in road accident 2 days before son’s wedding",
   "topic": "pabna couple road accident",
   "source": "The Daily Star, Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-09T22:07:52Z"
+  "status": "failed",
+  "at": "2026-09-09T22:07:52Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "0a17934e2050a5ed",
@@ -8376,7 +8391,12 @@
   "headline": "Pabna: Couple killed in road accident 2 days before son’s wedding",
   "topic": "pabna couple road accident",
   "source": "The Daily Star, Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-09T22:07:52Z"
+  "status": "failed",
+  "at": "2026-09-09T22:07:52Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
