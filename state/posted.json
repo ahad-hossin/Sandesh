@@ -1,75 +1,5 @@
 [
  {
-  "title_hash": "0ed1d737a209d584",
-  "url": "https://www.prothomalo.com/bangladesh/district/f6h4xsei7p",
-  "headline": "1,938 iPhones seized: 6 Chinese nationals arrested in Cox's Bazar",
-  "topic": "chinese nationals arrested iPhones",
-  "source": "Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-04T18:06:17Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "9bd9f0913d0cba18",
-  "url": "https://www.dhakatribune.com/bangladesh/crime/419112/one-killed-over-50-injured-in-brahmanbaria-clash",
-  "headline": "Over 50 injured, one killed in Brahmanbaria clash",
-  "topic": "brahmanbaria clash deaths",
-  "source": "Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-09-04T18:06:17Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "0ed1d737a209d584",
-  "url": "https://www.prothomalo.com/bangladesh/district/f6h4xsei7p",
-  "headline": "1,938 iPhones seized: 6 Chinese nationals arrested in Cox's Bazar",
-  "topic": "chinese-nationals-arrested-iphones",
-  "source": "Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-04T19:06:22Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "5ff6d64e46964577",
-  "url": "https://www.prothomalo.com/video/bangladesh/fku96f0xgy",
-  "headline": "Man posts video of firing pistol after Jubodal worker killed in Raozan",
-  "topic": "jubodal-worker-murder-video",
-  "source": "Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-04T19:06:22Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "921bc498aad4371c",
-  "url": "https://www.prothomalo.com/bangladesh/district/4hse10hb8k",
-  "headline": "Man posts video of firing pistol after Jubodal worker killed in Raozan",
-  "topic": "jubodal-worker-murder-video",
-  "source": "Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-04T19:06:22Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "48d2510ff4e649bd",
   "url": "https://www.thedailystar.net/news/crime-justice/news/man-found-dead-dhaka-elevated-expressway-4264976",
   "headline": "Man found dead with mouth taped on Dhaka Elevated Expressway",
@@ -8398,5 +8328,50 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "4a4bdba5816b7f3a",
+  "url": "https://www.dhakatribune.com/bangladesh/419423/fire-breaks-out-at-uttara-centrepoint-mall",
+  "headline": "6 fire engines deployed as fire breaks out at Centrepoint mall in Uttara",
+  "topic": "uttara centrepoint mall fire",
+  "source": "Dhaka Tribune, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-09T09:09:20Z"
+ },
+ {
+  "title_hash": "4c3b3f8ea7a5c6ca",
+  "url": "https://www.thedailystar.net/news/accidents-and-fires/news/fire-centrepoint-shopping-mall-under-control-4268571",
+  "headline": "6 fire engines deployed as fire breaks out at Centrepoint mall in Uttara",
+  "topic": "uttara centrepoint mall fire",
+  "source": "Dhaka Tribune, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-09T09:09:20Z"
+ },
+ {
+  "title_hash": "9d79b82f8a8cc67b",
+  "url": "https://www.dhakatribune.com/bangladesh/nation/419420/2-soldiers-killed-officer-injured-in-hathazari",
+  "headline": "Two soldiers killed in Bangladesh army tank firing accident in Hathazari",
+  "topic": "hathazari army firing accident",
+  "source": "Jamuna TV, Dhaka Tribune, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-09T09:09:20Z"
+ },
+ {
+  "title_hash": "a55399c656f3d8ea",
+  "url": "https://www.jamuna.tv/national/663771",
+  "headline": "Two soldiers killed in Bangladesh army tank firing accident in Hathazari",
+  "topic": "hathazari army firing accident",
+  "source": "Jamuna TV, Dhaka Tribune, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-09T09:09:20Z"
+ },
+ {
+  "title_hash": "eb4ef0e46ea066d3",
+  "url": "https://www.thedailystar.net/news/news/two-army-soldiers-killed-officer-injured-hathazari-tank-firing-accident-4268566",
+  "headline": "Two soldiers killed in Bangladesh army tank firing accident in Hathazari",
+  "topic": "hathazari army firing accident",
+  "source": "Jamuna TV, Dhaka Tribune, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-09T09:09:20Z"
  }
 ]
