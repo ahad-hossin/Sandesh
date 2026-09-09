@@ -1,89 +1,5 @@
 [
  {
-  "title_hash": "87c196a6b4651c1e",
-  "url": "https://www.jamuna.tv/national/663483",
-  "headline": "IGP: Police officers conspiring against government identified, less than 1% are 'bad'",
-  "topic": "igp on crime and police corruption",
-  "source": "Dhaka Tribune, Jamuna TV",
-  "status": "failed",
-  "at": "2026-09-05T07:06:27Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "417ed0118e34fd51",
-  "url": "https://www.dhakatribune.com/bangladesh/nation/419122/bodies-of-man-woman-newborn-recovered-from",
-  "headline": "Bodies of couple and newborn recovered from locked flat in Ashulia",
-  "topic": "ashulia couple newborn dead",
-  "source": "Jamuna TV, Dhaka Tribune, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-05T08:06:24Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "3cf7ba3c7f8f6f36",
-  "url": "https://www.jamuna.tv/all-bangladesh/663494",
-  "headline": "Bodies of couple and newborn recovered from locked flat in Ashulia",
-  "topic": "ashulia couple newborn dead",
-  "source": "Jamuna TV, Dhaka Tribune, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-05T08:06:24Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "42eafe43dbca9ca5",
-  "url": "https://www.prothomalo.com/bangladesh/district/3zj8qpyalx",
-  "headline": "Bodies of couple and newborn recovered from locked flat in Ashulia",
-  "topic": "ashulia couple newborn dead",
-  "source": "Jamuna TV, Dhaka Tribune, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-05T08:06:24Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "69f773e4929b959e",
-  "url": "https://www.thedailystar.net/news/crime-justice/news/decomposed-bodies-two-adults-newborn-recovered-locked-room-ashulia-4265221",
-  "headline": "Bodies of couple and newborn recovered from locked flat in Ashulia",
-  "topic": "ashulia couple newborn dead",
-  "source": "Jamuna TV, Dhaka Tribune, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-05T08:06:24Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "77ee04389e2d052c",
-  "url": "https://www.jamuna.tv/international/663495",
-  "headline": "4 US missiles hit Iranian oil tanker near Kharg Island",
-  "topic": "us missile attack iranian tanker",
-  "source": "Jamuna TV",
-  "status": "failed",
-  "at": "2026-09-05T08:06:24Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "f9a54788d2834836",
   "url": "https://www.thedailystar.net/news/crime-justice/news/hc-freezes-s-alam-groups-8192-islami-bank-shares-4265156",
   "headline": "HC freezes S Alam Group’s 81.92% shares in Islami Bank",
@@ -8398,5 +8314,59 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "7be30d7290e6d783",
+  "url": "https://www.thedailystar.net/news/bangladesh/news/224-students-died-suicide-last-8-months-4269106",
+  "headline": "224 students died by suicide in last 8 months, Aachol reports",
+  "topic": "student suicide crisis",
+  "source": "The Daily Star, Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-09T19:08:44Z"
+ },
+ {
+  "title_hash": "588ee5a207bee7ac",
+  "url": "https://www.prothomalo.com/bangladesh/akeq4otjr5",
+  "headline": "224 students died by suicide in last 8 months, Aachol reports",
+  "topic": "student suicide crisis",
+  "source": "The Daily Star, Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-09T19:08:44Z"
+ },
+ {
+  "title_hash": "dffac77c896adc82",
+  "url": "https://www.thedailystar.net/news/bangladesh/news/no-more-honorifics-president-pm-ministers-titles-4269056",
+  "headline": "Govt bars honorifics for president, PM and ministers",
+  "topic": "ban on government honorifics",
+  "source": "The Daily Star, Prothom Alo, Dhaka Tribune, Jamuna TV",
+  "status": "queued",
+  "at": "2026-09-09T19:08:44Z"
+ },
+ {
+  "title_hash": "c673dfdff38d896e",
+  "url": "https://www.prothomalo.com/video/bangladesh/rqyf2pyvsq",
+  "headline": "Govt bars honorifics for president, PM and ministers",
+  "topic": "ban on government honorifics",
+  "source": "The Daily Star, Prothom Alo, Dhaka Tribune, Jamuna TV",
+  "status": "queued",
+  "at": "2026-09-09T19:08:44Z"
+ },
+ {
+  "title_hash": "70ce02427db425b9",
+  "url": "https://www.dhakatribune.com/bangladesh/government-affairs/419472/govt-drops-%E2%80%98honorable%E2%80%99-titles-from-official",
+  "headline": "Govt bars honorifics for president, PM and ministers",
+  "topic": "ban on government honorifics",
+  "source": "The Daily Star, Prothom Alo, Dhaka Tribune, Jamuna TV",
+  "status": "queued",
+  "at": "2026-09-09T19:08:44Z"
+ },
+ {
+  "title_hash": "54f76c567869f6de",
+  "url": "https://www.jamuna.tv/national/663774",
+  "headline": "Govt bars honorifics for president, PM and ministers",
+  "topic": "ban on government honorifics",
+  "source": "The Daily Star, Prothom Alo, Dhaka Tribune, Jamuna TV",
+  "status": "queued",
+  "at": "2026-09-09T19:08:44Z"
  }
 ]
