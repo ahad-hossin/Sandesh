@@ -8335,8 +8335,13 @@
   "headline": "NPA leader Meghmallar Basu put on life support at DMCH",
   "topic": "meghmallar basu life support",
   "source": "Jamuna TV, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-09-09T18:09:45Z"
+  "status": "failed",
+  "at": "2026-09-09T18:09:45Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "5dc5897f7d9ed258",
@@ -8344,8 +8349,13 @@
   "headline": "NPA leader Meghmallar Basu put on life support at DMCH",
   "topic": "meghmallar basu life support",
   "source": "Jamuna TV, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-09-09T18:09:45Z"
+  "status": "failed",
+  "at": "2026-09-09T18:09:45Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "39ea57f9df0ecbfb",
@@ -8353,8 +8363,13 @@
   "headline": "50 injured, including ASP, in clash between two villages in Brahmanbaria",
   "topic": "brahmanbaria torchlight clash",
   "source": "Prothom Alo, Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-09T18:09:45Z"
+  "status": "failed",
+  "at": "2026-09-09T18:09:45Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "44d08d92327cdf8b",
@@ -8362,8 +8377,13 @@
   "headline": "50 injured, including ASP, in clash between two villages in Brahmanbaria",
   "topic": "brahmanbaria torchlight clash",
   "source": "Prothom Alo, Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-09T18:09:45Z"
+  "status": "failed",
+  "at": "2026-09-09T18:09:45Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "42ab0329d00c4fa8",
@@ -8371,7 +8391,12 @@
   "headline": "50 injured, including ASP, in clash between two villages in Brahmanbaria",
   "topic": "brahmanbaria torchlight clash",
   "source": "Prothom Alo, Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-09T18:09:45Z"
+  "status": "failed",
+  "at": "2026-09-09T18:09:45Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
