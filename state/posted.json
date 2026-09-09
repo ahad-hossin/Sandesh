@@ -1,75 +1,5 @@
 [
  {
-  "title_hash": "c8b128e8ee15e029",
-  "url": "https://www.thedailystar.net/news/bangladesh/news/bill-placed-abolish-rab-form-its-replacement-4264516",
-  "headline": "Bill placed to abolish RAB and form its replacement, the SRB",
-  "topic": "bill to abolish rab",
-  "source": "The Daily Star",
-  "status": "failed",
-  "at": "2026-09-04T13:06:28Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "ef30997dec0bbd7e",
-  "url": "https://www.dhakatribune.com/bangladesh/accidents/419092/state-minister-abdul-bari-sent-to-dhaka-for",
-  "headline": "Woman killed by state minister's car in Bogura",
-  "topic": "state minister car accident death",
-  "source": "Dhaka Tribune, Prothom Alo, Jamuna TV, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-04T13:06:28Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "ffd6e531f9c2b5c7",
-  "url": "https://www.prothomalo.com/video/bangladesh/bidha5410p",
-  "headline": "Woman killed by state minister's car in Bogura",
-  "topic": "state minister car accident death",
-  "source": "Dhaka Tribune, Prothom Alo, Jamuna TV, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-04T13:06:28Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "bde86a7467c5d056",
-  "url": "https://www.jamuna.tv/national/663443",
-  "headline": "Woman killed by state minister's car in Bogura",
-  "topic": "state minister car accident death",
-  "source": "Dhaka Tribune, Prothom Alo, Jamuna TV, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-04T13:06:28Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "d3dd22ce9864964a",
-  "url": "https://www.prothomalo.com/bangladesh/district/957uv3wksq",
-  "headline": "Woman killed by state minister's car in Bogura",
-  "topic": "state minister car accident death",
-  "source": "Dhaka Tribune, Prothom Alo, Jamuna TV, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-04T13:06:28Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "8db4fbdbd51c2aad",
   "url": "https://www.prothomalo.com/bangladesh/district/py2rsqt41p",
   "headline": "Woman killed by state minister's car in Bogura",
@@ -8398,5 +8328,50 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "eb09d20ddcaf128e",
+  "url": "https://www.thedailystar.net/sports/football/news/haaland-double-powers-man-city-victory-over-porto-4268371",
+  "headline": "Haaland double powers Man City to victory over Porto in Champions League opener",
+  "topic": "man city haaland ucl win",
+  "source": "Jamuna TV, The Daily Star, Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-09T02:07:19Z"
+ },
+ {
+  "title_hash": "f1a76610560b811a",
+  "url": "https://www.jamuna.tv/sports/663738",
+  "headline": "Haaland double powers Man City to victory over Porto in Champions League opener",
+  "topic": "man city haaland ucl win",
+  "source": "Jamuna TV, The Daily Star, Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-09T02:07:19Z"
+ },
+ {
+  "title_hash": "0fbd9a63f14d2360",
+  "url": "https://www.prothomalo.com/sports/football/p5z3faj9hw",
+  "headline": "Haaland double powers Man City to victory over Porto in Champions League opener",
+  "topic": "man city haaland ucl win",
+  "source": "Jamuna TV, The Daily Star, Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-09T02:07:19Z"
+ },
+ {
+  "title_hash": "34c66eb315e22be4",
+  "url": "https://www.thedailystar.net/sports/football/news/mourinhos-real-madrid-make-winning-start-against-inter-milan-4268361",
+  "headline": "Real Madrid beat Inter Milan 2-1 in Champions League opener with Mbappe, Valverde goals",
+  "topic": "real madrid mbappe ucl win",
+  "source": "Jamuna TV, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-09T02:07:19Z"
+ },
+ {
+  "title_hash": "1fea73858f52136b",
+  "url": "https://www.jamuna.tv/sports/663737",
+  "headline": "Real Madrid beat Inter Milan 2-1 in Champions League opener with Mbappe, Valverde goals",
+  "topic": "real madrid mbappe ucl win",
+  "source": "Jamuna TV, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-09T02:07:19Z"
  }
 ]
