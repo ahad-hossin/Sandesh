@@ -8321,8 +8321,13 @@
   "headline": "224 students died by suicide in last 8 months, Aachol reports",
   "topic": "student suicide crisis",
   "source": "The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-09T19:08:44Z"
+  "status": "failed",
+  "at": "2026-09-09T19:08:44Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "588ee5a207bee7ac",
@@ -8330,8 +8335,13 @@
   "headline": "224 students died by suicide in last 8 months, Aachol reports",
   "topic": "student suicide crisis",
   "source": "The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-09T19:08:44Z"
+  "status": "failed",
+  "at": "2026-09-09T19:08:44Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "dffac77c896adc82",
@@ -8339,8 +8349,13 @@
   "headline": "Govt bars honorifics for president, PM and ministers",
   "topic": "ban on government honorifics",
   "source": "The Daily Star, Prothom Alo, Dhaka Tribune, Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-09T19:08:44Z"
+  "status": "failed",
+  "at": "2026-09-09T19:08:44Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "c673dfdff38d896e",
@@ -8348,8 +8363,13 @@
   "headline": "Govt bars honorifics for president, PM and ministers",
   "topic": "ban on government honorifics",
   "source": "The Daily Star, Prothom Alo, Dhaka Tribune, Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-09T19:08:44Z"
+  "status": "failed",
+  "at": "2026-09-09T19:08:44Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "70ce02427db425b9",
@@ -8357,8 +8377,13 @@
   "headline": "Govt bars honorifics for president, PM and ministers",
   "topic": "ban on government honorifics",
   "source": "The Daily Star, Prothom Alo, Dhaka Tribune, Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-09T19:08:44Z"
+  "status": "failed",
+  "at": "2026-09-09T19:08:44Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "54f76c567869f6de",
@@ -8366,7 +8391,12 @@
   "headline": "Govt bars honorifics for president, PM and ministers",
   "topic": "ban on government honorifics",
   "source": "The Daily Star, Prothom Alo, Dhaka Tribune, Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-09T19:08:44Z"
+  "status": "failed",
+  "at": "2026-09-09T19:08:44Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
