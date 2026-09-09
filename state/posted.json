@@ -1,89 +1,5 @@
 [
  {
-  "title_hash": "048ecd5764053054",
-  "url": "https://www.jamuna.tv/national/663471",
-  "headline": "Jamaat-led alliance starts Dhaka-Chattogram long march for people's rights",
-  "topic": "jamaat-led alliance long march",
-  "source": "The Daily Star, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-05T05:07:35Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "ea65ecb82c4828d3",
-  "url": "https://www.prothomalo.com/politics/5hmetwr1xz",
-  "headline": "Jamaat-led alliance starts Dhaka-Chattogram long march for people's rights",
-  "topic": "jamaat-led alliance long march",
-  "source": "The Daily Star, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-05T05:07:35Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "ddcf59d7015593e4",
-  "url": "https://www.thedailystar.net/news/bangladesh/news/oppositions-dhaka-ctg-long-march-today-4265101",
-  "headline": "Jamaat-led alliance starts Dhaka-Chattogram long march for people's rights",
-  "topic": "jamaat-led alliance long march",
-  "source": "The Daily Star, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-05T05:07:35Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "eff1ff8ad7741564",
-  "url": "https://www.thedailystar.net/news/politics/news/bnp-govt-deceiving-betraying-people-shafiqur-rahman-4265211",
-  "headline": "Jamaat-led alliance starts Dhaka-Chattogram long march for people's rights",
-  "topic": "jamaat-led alliance long march",
-  "source": "The Daily Star, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-05T05:07:35Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "417ed0118e34fd51",
-  "url": "https://www.dhakatribune.com/bangladesh/nation/419122/bodies-of-man-woman-newborn-recovered-from",
-  "headline": "3 decomposed bodies, including a newborn, recovered from locked flat in Ashulia",
-  "topic": "ashulia locked flat deaths",
-  "source": "Dhaka Tribune, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-05T05:07:35Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "69f773e4929b959e",
-  "url": "https://www.thedailystar.net/news/crime-justice/news/decomposed-bodies-two-adults-newborn-recovered-locked-room-ashulia-4265221",
-  "headline": "3 decomposed bodies, including a newborn, recovered from locked flat in Ashulia",
-  "topic": "ashulia locked flat deaths",
-  "source": "Dhaka Tribune, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-05T05:07:35Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "dab04067c623f5bf",
   "url": "https://www.jamuna.tv/all-bangladesh/663484",
   "headline": "Passengers stranded as bus services from Rajshahi suspended on all routes",
@@ -8398,5 +8314,59 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "c027221acc3ba163",
+  "url": "https://www.dhakatribune.com/bangladesh/parliament/419468/27-metro-rail-bearing-pads-classified-as-critical",
+  "headline": "27 metro rail bearing pads classified as critical, cracks found in 46 piers",
+  "topic": "dhaka metro rail cracks",
+  "source": "Dhaka Tribune, The Daily Star, Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-09T16:09:35Z"
+ },
+ {
+  "title_hash": "2212cfba78c5d633",
+  "url": "https://www.thedailystar.net/news/transport/news/27-defective-dhaka-metro-rail-bearing-pads-identified-critical-transport-minister-4268786",
+  "headline": "27 metro rail bearing pads classified as critical, cracks found in 46 piers",
+  "topic": "dhaka metro rail cracks",
+  "source": "Dhaka Tribune, The Daily Star, Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-09T16:09:35Z"
+ },
+ {
+  "title_hash": "d90b6a83ed2b6731",
+  "url": "https://www.prothomalo.com/politics/g3pk1fedct",
+  "headline": "27 metro rail bearing pads classified as critical, cracks found in 46 piers",
+  "topic": "dhaka metro rail cracks",
+  "source": "Dhaka Tribune, The Daily Star, Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-09T16:09:35Z"
+ },
+ {
+  "title_hash": "7d19ea74e063ba5e",
+  "url": "https://www.thedailystar.net/business/news/brent-crude-rises-above-100-barrel-middle-east-conflict-intensifies-4268591",
+  "headline": "Oil prices surge: Brent crude rises above $100 a barrel amid Middle East conflict",
+  "topic": "oil price hits 100 dollars",
+  "source": "Prothom Alo, Jamuna TV, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-09T16:09:35Z"
+ },
+ {
+  "title_hash": "2ccf81382c1d15d1",
+  "url": "https://www.prothomalo.com/video/international/jxcl1tb7ac",
+  "headline": "Oil prices surge: Brent crude rises above $100 a barrel amid Middle East conflict",
+  "topic": "oil price hits 100 dollars",
+  "source": "Prothom Alo, Jamuna TV, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-09T16:09:35Z"
+ },
+ {
+  "title_hash": "ad29ce1621962487",
+  "url": "https://www.jamuna.tv/international/663793",
+  "headline": "Oil prices surge: Brent crude rises above $100 a barrel amid Middle East conflict",
+  "topic": "oil price hits 100 dollars",
+  "source": "Prothom Alo, Jamuna TV, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-09T16:09:35Z"
  }
 ]
