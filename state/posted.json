@@ -8349,8 +8349,13 @@
   "headline": "Energy security: Bangladesh to buy 18 LNG cargoes from France's TotalEnergies",
   "topic": "bangladesh imports LNG",
   "source": "Prothom Alo, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-09-09T15:09:43Z"
+  "status": "failed",
+  "at": "2026-09-09T15:09:43Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "ef4a375c753bbf14",
@@ -8358,8 +8363,13 @@
   "headline": "Energy security: Bangladesh to buy 18 LNG cargoes from France's TotalEnergies",
   "topic": "bangladesh imports LNG",
   "source": "Prothom Alo, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-09-09T15:09:43Z"
+  "status": "failed",
+  "at": "2026-09-09T15:09:43Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "c027221acc3ba163",
@@ -8367,8 +8377,13 @@
   "headline": "27 metro rail bearing pads classified as critical, cracks in 46 piers",
   "topic": "dhaka metro rail structural defects",
   "source": "Dhaka Tribune, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-09T15:09:43Z"
+  "status": "failed",
+  "at": "2026-09-09T15:09:43Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "2212cfba78c5d633",
@@ -8376,7 +8391,12 @@
   "headline": "27 metro rail bearing pads classified as critical, cracks in 46 piers",
   "topic": "dhaka metro rail structural defects",
   "source": "Dhaka Tribune, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-09T15:09:43Z"
+  "status": "failed",
+  "at": "2026-09-09T15:09:43Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
