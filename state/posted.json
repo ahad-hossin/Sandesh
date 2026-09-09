@@ -1,33 +1,5 @@
 [
  {
-  "title_hash": "b01850a8d6c3663f",
-  "url": "https://www.thedailystar.net/news/bangladesh/diplomacy/news/no-pm-visit-india-un-session-state-minister-4265366",
-  "headline": "No PM visit to India before UNGA session, says State Minister",
-  "topic": "pm india visit unga",
-  "source": "Dhaka Tribune, The Daily Star, Jamuna TV",
-  "status": "failed",
-  "at": "2026-09-05T12:09:48Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "81d0bdcb1c1062dd",
-  "url": "https://www.dhakatribune.com/bangladesh/foreign-affairs/419135/humaiun-pm-to-carry-new-bangladesh-message-to",
-  "headline": "No PM visit to India before UNGA session, says State Minister",
-  "topic": "pm india visit unga",
-  "source": "Dhaka Tribune, The Daily Star, Jamuna TV",
-  "status": "failed",
-  "at": "2026-09-05T12:09:48Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "459d3e10e05caa61",
   "url": "https://www.jamuna.tv/national/663502",
   "headline": "No PM visit to India before UNGA session, says State Minister",
@@ -8398,5 +8370,23 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "aa125a4e44bed3a0",
+  "url": "https://www.prothomalo.com/bangladesh/c2efz7nsi5",
+  "headline": "Saima Wazed resigns from WHO post amid irregularity allegations",
+  "topic": "saima wazed resigns from WHO post amid allegations",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-09T23:10:42Z"
+ },
+ {
+  "title_hash": "ac482d14cc2724e4",
+  "url": "https://www.thedailystar.net/health/news/saima-wazed-putul-resigns-who-regional-head-after-fraud-allegations-4269171",
+  "headline": "Saima Wazed Putul resigns as WHO regional head amid fraud allegations",
+  "topic": "saima wazed resigns as WHO regional head after fraud allegations",
+  "source": "The Daily Star",
+  "status": "queued",
+  "at": "2026-09-09T23:10:42Z"
  }
 ]
