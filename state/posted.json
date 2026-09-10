@@ -1,75 +1,5 @@
 [
  {
-  "title_hash": "7e796221f9d0efd8",
-  "url": "https://www.prothomalo.com/entertainment/dhallywood/7mt6urpy9p",
-  "headline": "Cinema and Cricket: Taskin Ahmed and Shabnur meet at Sydney BBQ",
-  "topic": "shabnur taskin bbq",
-  "source": "Prothom Alo, Jamuna TV",
-  "status": "failed",
-  "at": "2026-09-05T15:07:37Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "95d7b0e1de18cfc4",
-  "url": "https://www.jamuna.tv/sports/663524",
-  "headline": "Cinema and Cricket: Taskin Ahmed and Shabnur meet at Sydney BBQ",
-  "topic": "shabnur taskin bbq",
-  "source": "Prothom Alo, Jamuna TV",
-  "status": "failed",
-  "at": "2026-09-05T15:07:37Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "3fb8faf2d1184c6d",
-  "url": "https://www.prothomalo.com/world/europe/4n04t9itmt",
-  "headline": "Greek F-4 Phantom fighter jet crashes during air show",
-  "topic": "fighter jet crash air show",
-  "source": "Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-05T16:06:29Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "0db67be47edf0c4e",
-  "url": "https://www.thedailystar.net/news/crime-justice/news/man-found-dead-dhaka-elevated-expressway-was-carrying-tk-5-lakh-family-says-4265501",
-  "headline": "Man with Tk 5 lakh found dead on Dhaka Elevated Expressway",
-  "topic": "elevated expressway body found",
-  "source": "The Daily Star, Dhaka Tribune, Jamuna TV",
-  "status": "failed",
-  "at": "2026-09-05T16:06:29Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "b4afe0e8fe8fbff1",
-  "url": "https://www.dhakatribune.com/bangladesh/dhaka/419156/expressway-body-identified-as-missing-gazipur-man",
-  "headline": "Man with Tk 5 lakh found dead on Dhaka Elevated Expressway",
-  "topic": "elevated expressway body found",
-  "source": "The Daily Star, Dhaka Tribune, Jamuna TV",
-  "status": "failed",
-  "at": "2026-09-05T16:06:29Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "6763b669efc48dd3",
   "url": "https://www.jamuna.tv/national/663518",
   "headline": "Man with Tk 5 lakh found dead on Dhaka Elevated Expressway",
@@ -8398,5 +8328,50 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "fbd14015a5f4ad96",
+  "url": "https://www.dhakatribune.com/bangladesh/419482/saima-wazed-resigns-from-who-amid-fraud-probes",
+  "headline": "Saima Wazed resigns from WHO amid fraud probes",
+  "topic": "saima wazed resigns who",
+  "source": "Prothom Alo, Dhaka Tribune, Jamuna TV",
+  "status": "queued",
+  "at": "2026-09-10T05:07:10Z"
+ },
+ {
+  "title_hash": "2767436621235d22",
+  "url": "https://www.prothomalo.com/video/bangladesh/nos3maactl",
+  "headline": "Saima Wazed resigns from WHO amid fraud probes",
+  "topic": "saima wazed resigns who",
+  "source": "Prothom Alo, Dhaka Tribune, Jamuna TV",
+  "status": "queued",
+  "at": "2026-09-10T05:07:10Z"
+ },
+ {
+  "title_hash": "959fc33c5f1cbbfc",
+  "url": "https://www.jamuna.tv/national/663806",
+  "headline": "Saima Wazed resigns from WHO amid fraud probes",
+  "topic": "saima wazed resigns who",
+  "source": "Prothom Alo, Dhaka Tribune, Jamuna TV",
+  "status": "queued",
+  "at": "2026-09-10T05:07:10Z"
+ },
+ {
+  "title_hash": "3031736b2681139b",
+  "url": "https://www.prothomalo.com/bangladesh/ddbliueico-theke-saayymaa-oyyaajeder-pdtyaag",
+  "headline": "Saima Wazed resigns from WHO amid fraud probes",
+  "topic": "saima wazed resigns who",
+  "source": "Prothom Alo, Dhaka Tribune, Jamuna TV",
+  "status": "queued",
+  "at": "2026-09-10T05:07:10Z"
+ },
+ {
+  "title_hash": "c8afdcba89127cd4",
+  "url": "https://www.prothomalo.com/bangladesh/dvlp2c276r",
+  "headline": "Secret mobile phone data available for money, minister's private call details obtained",
+  "topic": "secret phone data sold",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-10T05:07:10Z"
  }
 ]
