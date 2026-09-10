@@ -8307,8 +8307,13 @@
   "headline": "Parliament passes law to replace RAB with SRB",
   "topic": "rab replaced by srb",
   "source": "Prothom Alo, Jamuna TV, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-09-10T18:07:40Z"
+  "status": "failed",
+  "at": "2026-09-10T18:07:40Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "5918ac8ec3fe67bf",
@@ -8316,8 +8321,13 @@
   "headline": "Parliament passes law to replace RAB with SRB",
   "topic": "rab replaced by srb",
   "source": "Prothom Alo, Jamuna TV, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-09-10T18:07:40Z"
+  "status": "failed",
+  "at": "2026-09-10T18:07:40Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "375c19db0484b6c8",
@@ -8325,8 +8335,13 @@
   "headline": "Parliament passes law to replace RAB with SRB",
   "topic": "rab replaced by srb",
   "source": "Prothom Alo, Jamuna TV, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-09-10T18:07:40Z"
+  "status": "failed",
+  "at": "2026-09-10T18:07:40Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "2e3bc8687971c537",
@@ -8334,8 +8349,13 @@
   "headline": "Parliament passes law to replace RAB with SRB",
   "topic": "rab replaced by srb",
   "source": "Prothom Alo, Jamuna TV, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-09-10T18:07:40Z"
+  "status": "failed",
+  "at": "2026-09-10T18:07:40Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "e2e4b7ac20a87d55",
@@ -8343,8 +8363,13 @@
   "headline": "Parliament passes law to replace RAB with SRB",
   "topic": "rab replaced by srb",
   "source": "Prothom Alo, Jamuna TV, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-09-10T18:07:40Z"
+  "status": "failed",
+  "at": "2026-09-10T18:07:40Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "1dab26aa98bb9fb0",
@@ -8352,8 +8377,13 @@
   "headline": "Parliament passes law to replace RAB with SRB",
   "topic": "rab replaced by srb",
   "source": "Prothom Alo, Jamuna TV, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-09-10T18:07:40Z"
+  "status": "failed",
+  "at": "2026-09-10T18:07:40Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "f800258f063b510b",
@@ -8361,7 +8391,12 @@
   "headline": "70 foreigners detained in illegal casino raid in Chattogram",
   "topic": "illegal casino raid chittagong",
   "source": "Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-10T18:07:40Z"
+  "status": "failed",
+  "at": "2026-09-10T18:07:40Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
