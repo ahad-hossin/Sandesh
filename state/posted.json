@@ -8363,8 +8363,13 @@
   "headline": "Parliament passes bill to dissolve RAB and form SRB",
   "topic": "rab abolished srb formed",
   "source": "Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-10T12:09:25Z"
+  "status": "failed",
+  "at": "2026-09-10T12:09:25Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "21c7b87d2f343ccf",
@@ -8372,8 +8377,13 @@
   "headline": "Tk 666 crore: Grameen Kalyan must pay tax, HC orders",
   "topic": "grameen kalyan tax order",
   "source": "Jamuna TV, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-09-10T12:09:25Z"
+  "status": "failed",
+  "at": "2026-09-10T12:09:25Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "a80308ff6939e32a",
@@ -8381,7 +8391,12 @@
   "headline": "Tk 666 crore: Grameen Kalyan must pay tax, HC orders",
   "topic": "grameen kalyan tax order",
   "source": "Jamuna TV, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-09-10T12:09:25Z"
+  "status": "failed",
+  "at": "2026-09-10T12:09:25Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
