@@ -8321,8 +8321,13 @@
   "headline": "Starting at $1,999, Apple unveils iPhone Duo foldable",
   "topic": "apple foldable iphone duo",
   "source": "Jamuna TV, Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-10T10:07:54Z"
+  "status": "failed",
+  "at": "2026-09-10T10:07:54Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "bab9efbc5aa402e0",
@@ -8330,8 +8335,13 @@
   "headline": "Starting at $1,999, Apple unveils iPhone Duo foldable",
   "topic": "apple foldable iphone duo",
   "source": "Jamuna TV, Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-10T10:07:54Z"
+  "status": "failed",
+  "at": "2026-09-10T10:07:54Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "1ac7dc8ba00aea28",
@@ -8339,8 +8349,13 @@
   "headline": "Starting at $1,999, Apple unveils iPhone Duo foldable",
   "topic": "apple foldable iphone duo",
   "source": "Jamuna TV, Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-10T10:07:54Z"
+  "status": "failed",
+  "at": "2026-09-10T10:07:54Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "416aefd0ecefbe4d",
@@ -8348,8 +8363,13 @@
   "headline": "Starting at $1,999, Apple unveils iPhone Duo foldable",
   "topic": "apple foldable iphone duo",
   "source": "Jamuna TV, Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-10T10:07:54Z"
+  "status": "failed",
+  "at": "2026-09-10T10:07:54Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "285c4ac51a73e5dd",
@@ -8357,8 +8377,13 @@
   "headline": "Chinmoy Krishna Das granted 5-hour parole to attend mother's cremation",
   "topic": "chinmoy krishna das parole",
   "source": "Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-10T10:07:54Z"
+  "status": "failed",
+  "at": "2026-09-10T10:07:54Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "f6caf1e0f333f429",
@@ -8366,7 +8391,12 @@
   "headline": "Chinmoy Krishna Das granted 5-hour parole to attend mother's cremation",
   "topic": "chinmoy krishna das parole",
   "source": "Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-10T10:07:54Z"
+  "status": "failed",
+  "at": "2026-09-10T10:07:54Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
