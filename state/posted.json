@@ -8363,8 +8363,13 @@
   "headline": "State Minister Humaiun Kobir: Bangladesh not invited to BRICS Summit",
   "topic": "bangladesh not invited to BRICS summit",
   "source": "Dhaka Tribune, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-10T09:09:44Z"
+  "status": "failed",
+  "at": "2026-09-10T09:09:44Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "c3c5efe49272abd9",
@@ -8372,8 +8377,13 @@
   "headline": "State Minister Humaiun Kobir: Bangladesh not invited to BRICS Summit",
   "topic": "bangladesh not invited to BRICS summit",
   "source": "Dhaka Tribune, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-10T09:09:44Z"
+  "status": "failed",
+  "at": "2026-09-10T09:09:44Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "55effbeee79d6f06",
@@ -8381,7 +8391,12 @@
   "headline": "Chattogram sees 585 dengue cases in first nine days of September",
   "topic": "dengue cases surge in Chittagong",
   "source": "The Daily Star",
-  "status": "queued",
-  "at": "2026-09-10T09:09:44Z"
+  "status": "failed",
+  "at": "2026-09-10T09:09:44Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
