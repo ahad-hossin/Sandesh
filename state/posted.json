@@ -2,48 +2,6 @@
  {
   "title_hash": "11f6226997da0384",
   "url": "https://www.jamuna.tv/international/663523",
-  "headline": "Trump's envoys meet Putin in Moscow to discuss ending Ukraine war",
-  "topic": "putin meets trump envoy",
-  "source": "Prothom Alo, Jamuna TV",
-  "status": "failed",
-  "at": "2026-09-05T22:06:24Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "16910e62c2590a82",
-  "url": "https://www.prothomalo.com/bangladesh/uq33vgs9dl",
-  "headline": "Missing 7-year-old rescued from Shariatpur after being taken by stranger",
-  "topic": "missing child rescued shariatpur",
-  "source": "Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-05T22:06:24Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "0cd76a072c44a879",
-  "url": "https://www.prothomalo.com/world/usa/yq6z7cutrz",
-  "headline": "Trump envoys meet Putin in Moscow to discuss ending Ukraine war",
-  "topic": "trump son-in-law putin meeting",
-  "source": "Prothom Alo, Jamuna TV",
-  "status": "failed",
-  "at": "2026-09-05T23:06:22Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "11f6226997da0384",
-  "url": "https://www.jamuna.tv/international/663523",
   "headline": "Trump envoys meet Putin in Moscow to discuss ending Ukraine war",
   "topic": "trump son-in-law putin meeting",
   "source": "Prothom Alo, Jamuna TV",
@@ -8398,5 +8356,32 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "d9c2f92483cfe5bc",
+  "url": "https://www.dhakatribune.com/bangladesh/419503/humaiun-no-scope-for-bangladesh-to-join-brics",
+  "headline": "State Minister Humaiun Kobir: Bangladesh not invited to BRICS Summit",
+  "topic": "bangladesh not invited to BRICS summit",
+  "source": "Dhaka Tribune, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-10T09:09:44Z"
+ },
+ {
+  "title_hash": "c3c5efe49272abd9",
+  "url": "https://www.thedailystar.net/news/bangladesh/diplomacy/news/no-scope-bangladesh-join-brics-summit-pm-wasnt-invited-humaiun-kobir-4269451",
+  "headline": "State Minister Humaiun Kobir: Bangladesh not invited to BRICS Summit",
+  "topic": "bangladesh not invited to BRICS summit",
+  "source": "Dhaka Tribune, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-10T09:09:44Z"
+ },
+ {
+  "title_hash": "55effbeee79d6f06",
+  "url": "https://www.thedailystar.net/news/healthcare/disease/news/ctg-sees-585-dengue-cases-first-nine-days-september-4269416",
+  "headline": "Chattogram sees 585 dengue cases in first nine days of September",
+  "topic": "dengue cases surge in Chittagong",
+  "source": "The Daily Star",
+  "status": "queued",
+  "at": "2026-09-10T09:09:44Z"
  }
 ]
