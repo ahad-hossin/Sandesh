@@ -8335,8 +8335,13 @@
   "headline": "Saima Wazed resigns from WHO amid fraud probes",
   "topic": "saima wazed resigns who",
   "source": "Prothom Alo, Dhaka Tribune, Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-10T05:07:10Z"
+  "status": "failed",
+  "at": "2026-09-10T05:07:10Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "2767436621235d22",
@@ -8344,8 +8349,13 @@
   "headline": "Saima Wazed resigns from WHO amid fraud probes",
   "topic": "saima wazed resigns who",
   "source": "Prothom Alo, Dhaka Tribune, Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-10T05:07:10Z"
+  "status": "failed",
+  "at": "2026-09-10T05:07:10Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "959fc33c5f1cbbfc",
@@ -8353,8 +8363,13 @@
   "headline": "Saima Wazed resigns from WHO amid fraud probes",
   "topic": "saima wazed resigns who",
   "source": "Prothom Alo, Dhaka Tribune, Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-10T05:07:10Z"
+  "status": "failed",
+  "at": "2026-09-10T05:07:10Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "3031736b2681139b",
@@ -8362,8 +8377,13 @@
   "headline": "Saima Wazed resigns from WHO amid fraud probes",
   "topic": "saima wazed resigns who",
   "source": "Prothom Alo, Dhaka Tribune, Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-10T05:07:10Z"
+  "status": "failed",
+  "at": "2026-09-10T05:07:10Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "c8afdcba89127cd4",
@@ -8371,7 +8391,12 @@
   "headline": "Secret mobile phone data available for money, minister's private call details obtained",
   "topic": "secret phone data sold",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-10T05:07:10Z"
+  "status": "failed",
+  "at": "2026-09-10T05:07:10Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
