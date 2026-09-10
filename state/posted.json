@@ -8321,8 +8321,13 @@
   "headline": "Bangladesh eliminated from Women's Asia Cup after 40-run loss to India in semi-final",
   "topic": "bangladesh loses to india semi-final",
   "source": "Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-10T19:07:26Z"
+  "status": "failed",
+  "at": "2026-09-10T19:07:26Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "d0b7c1432096f796",
@@ -8330,8 +8335,13 @@
   "headline": "Bangladesh eliminated from Women's Asia Cup after 40-run loss to India in semi-final",
   "topic": "bangladesh loses to india semi-final",
   "source": "Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-10T19:07:26Z"
+  "status": "failed",
+  "at": "2026-09-10T19:07:26Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "deb54dd3a5886555",
@@ -8339,8 +8349,13 @@
   "headline": "Apple unveils first foldable iPhone Duo starting at $1,999",
   "topic": "apple foldable iphone duo",
   "source": "The Daily Star, Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-10T19:07:26Z"
+  "status": "failed",
+  "at": "2026-09-10T19:07:26Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "bab9efbc5aa402e0",
@@ -8348,8 +8363,13 @@
   "headline": "Apple unveils first foldable iPhone Duo starting at $1,999",
   "topic": "apple foldable iphone duo",
   "source": "The Daily Star, Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-10T19:07:26Z"
+  "status": "failed",
+  "at": "2026-09-10T19:07:26Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "1ac7dc8ba00aea28",
@@ -8357,8 +8377,13 @@
   "headline": "Apple unveils first foldable iPhone Duo starting at $1,999",
   "topic": "apple foldable iphone duo",
   "source": "The Daily Star, Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-10T19:07:26Z"
+  "status": "failed",
+  "at": "2026-09-10T19:07:26Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "c610402e1465df29",
@@ -8366,7 +8391,12 @@
   "headline": "Apple unveils first foldable iPhone Duo starting at $1,999",
   "topic": "apple foldable iphone duo",
   "source": "The Daily Star, Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-10T19:07:26Z"
+  "status": "failed",
+  "at": "2026-09-10T19:07:26Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
