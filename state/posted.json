@@ -8363,8 +8363,13 @@
   "headline": "40-run loss: Bangladesh bow out of Women's Asia Cup after India defeat",
   "topic": "bangladesh loses to india",
   "source": "Jamuna TV, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-10T23:07:42Z"
+  "status": "failed",
+  "at": "2026-09-10T23:07:42Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "f972823e7d7a3d93",
@@ -8372,8 +8377,13 @@
   "headline": "40-run loss: Bangladesh bow out of Women's Asia Cup after India defeat",
   "topic": "bangladesh loses to india",
   "source": "Jamuna TV, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-10T23:07:42Z"
+  "status": "failed",
+  "at": "2026-09-10T23:07:42Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "8b730db63dece308",
@@ -8381,7 +8391,12 @@
   "headline": "Mymensingh man killed in Ukrainian drone strike in Russia",
   "topic": "mymensingh man killed in ukraine drone strike",
   "source": "The Daily Star",
-  "status": "queued",
-  "at": "2026-09-10T23:07:42Z"
+  "status": "failed",
+  "at": "2026-09-10T23:07:42Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
