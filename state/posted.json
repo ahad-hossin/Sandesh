@@ -1,47 +1,5 @@
 [
  {
-  "title_hash": "16cf7ba8ccf9d93b",
-  "url": "https://www.thedailystar.net/news/governance/parliament/news/over-2500kg-gold-seized-smugglers-between-2010-and-2024-finance-minister-4266166",
-  "headline": "Over 2,500kg of gold seized from smugglers between 2010 and 2024",
-  "topic": "gold seizure bangladesh",
-  "source": "Dhaka Tribune, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-06T13:06:24Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "aa68f1e5591f6c99",
-  "url": "https://www.prothomalo.com/sports/football/5ebdwcfh4t",
-  "headline": "India 3, Bangladesh 0: Bangladesh U-20s crash out of Asian Cup qualifiers",
-  "topic": "bangladesh u20 asian cup failure",
-  "source": "Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-06T14:07:01Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "0c1e34891a637488",
-  "url": "https://www.thedailystar.net/business/economy/news/bangladeshs-capita-debt-now-tk-129-lakh-finance-minister-4266256",
-  "headline": "Tk 1.29 lakh: Bangladesh’s per capita debt reaches new high",
-  "topic": "bangladesh national debt and loan crisis",
-  "source": "The Daily Star, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-06T14:07:01Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "d656f9f6817e4e51",
   "url": "https://www.prothomalo.com/video/bangladesh/d4dq7tpiuk",
   "headline": "Tk 1.29 lakh: Bangladesh’s per capita debt reaches new high",
@@ -8398,5 +8356,32 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "32c840a1c923134a",
+  "url": "https://www.thedailystar.net/sports/cricket/news/bangladesh-bow-out-after-another-india-defeat-4270026",
+  "headline": "40-run loss: Bangladesh bow out of Women's Asia Cup after India defeat",
+  "topic": "bangladesh loses to india",
+  "source": "Jamuna TV, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-10T23:07:42Z"
+ },
+ {
+  "title_hash": "f972823e7d7a3d93",
+  "url": "https://www.jamuna.tv/sports/663864",
+  "headline": "40-run loss: Bangladesh bow out of Women's Asia Cup after India defeat",
+  "topic": "bangladesh loses to india",
+  "source": "Jamuna TV, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-10T23:07:42Z"
+ },
+ {
+  "title_hash": "8b730db63dece308",
+  "url": "https://www.thedailystar.net/news/work-and-migration/news/mymensingh-man-killed-ukrainian-drone-strike-russia-family-says-4269871",
+  "headline": "Mymensingh man killed in Ukrainian drone strike in Russia",
+  "topic": "mymensingh man killed in ukraine drone strike",
+  "source": "The Daily Star",
+  "status": "queued",
+  "at": "2026-09-10T23:07:42Z"
  }
 ]
