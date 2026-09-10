@@ -8321,8 +8321,13 @@
   "headline": "Parliament passes law to replace RAB with SRB",
   "topic": "rab replaced by srb",
   "source": "Dhaka Tribune, Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-10T13:08:20Z"
+  "status": "failed",
+  "at": "2026-09-10T13:08:20Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "2e3bc8687971c537",
@@ -8330,8 +8335,13 @@
   "headline": "Parliament passes law to replace RAB with SRB",
   "topic": "rab replaced by srb",
   "source": "Dhaka Tribune, Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-10T13:08:20Z"
+  "status": "failed",
+  "at": "2026-09-10T13:08:20Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "2ebb4c882d9c31a9",
@@ -8339,8 +8349,13 @@
   "headline": "Tk 666 crore tax: Grameen Kalyan loses HC petitions over reassessment",
   "topic": "grameen kalyan tax verdict",
   "source": "The Daily Star, Jamuna TV, Dhaka Tribune, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-10T13:08:20Z"
+  "status": "failed",
+  "at": "2026-09-10T13:08:20Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "a80308ff6939e32a",
@@ -8348,8 +8363,13 @@
   "headline": "Tk 666 crore tax: Grameen Kalyan loses HC petitions over reassessment",
   "topic": "grameen kalyan tax verdict",
   "source": "The Daily Star, Jamuna TV, Dhaka Tribune, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-10T13:08:20Z"
+  "status": "failed",
+  "at": "2026-09-10T13:08:20Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "21c7b87d2f343ccf",
@@ -8357,8 +8377,13 @@
   "headline": "Tk 666 crore tax: Grameen Kalyan loses HC petitions over reassessment",
   "topic": "grameen kalyan tax verdict",
   "source": "The Daily Star, Jamuna TV, Dhaka Tribune, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-10T13:08:20Z"
+  "status": "failed",
+  "at": "2026-09-10T13:08:20Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "13dc6fb29dea6025",
@@ -8366,7 +8391,12 @@
   "headline": "Tk 666 crore tax: Grameen Kalyan loses HC petitions over reassessment",
   "topic": "grameen kalyan tax verdict",
   "source": "The Daily Star, Jamuna TV, Dhaka Tribune, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-10T13:08:20Z"
+  "status": "failed",
+  "at": "2026-09-10T13:08:20Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
