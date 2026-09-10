@@ -1,103 +1,5 @@
 [
  {
-  "title_hash": "cd69626ae9465010",
-  "url": "https://www.jamuna.tv/national/663534",
-  "headline": "3 arrested after body dumped on Elevated Expressway",
-  "topic": "body dumped on expressway",
-  "source": "Dhaka Tribune, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-05T20:06:28Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "7ac3bf8f814418fa",
-  "url": "https://www.prothomalo.com/bangladesh/crime/jj4tdj0nwm",
-  "headline": "3 arrested after body dumped on Elevated Expressway",
-  "topic": "body dumped on expressway",
-  "source": "Dhaka Tribune, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-05T20:06:28Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "b4afe0e8fe8fbff1",
-  "url": "https://www.dhakatribune.com/bangladesh/dhaka/419156/expressway-body-identified-as-missing-gazipur-man",
-  "headline": "3 arrested after body dumped on Elevated Expressway",
-  "topic": "body dumped on expressway",
-  "source": "Dhaka Tribune, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-05T20:06:28Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "474eaac07bf61145",
-  "url": "https://www.jamuna.tv/national/663537",
-  "headline": "Businessman shot and injured in Dhaka shop, suspect detained",
-  "topic": "dhaka businessman shot",
-  "source": "Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-05T21:06:28Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "d4a1e87c0cbf4aec",
-  "url": "https://www.prothomalo.com/bangladesh/crime/5hjw56v30v",
-  "headline": "Businessman shot and injured in Dhaka shop, suspect detained",
-  "topic": "dhaka businessman shot",
-  "source": "Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-05T21:06:28Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "d31de1ef49feb54d",
-  "url": "https://www.prothomalo.com/bangladesh/crime/5txz5k8k29",
-  "headline": "BDT 25 Crore Gold Seized: Biman employee's belt hidden gold recovered at HSIA",
-  "topic": "gold smuggled in belt",
-  "source": "Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-05T21:06:28Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "0cd76a072c44a879",
-  "url": "https://www.prothomalo.com/world/usa/yq6z7cutrz",
-  "headline": "Trump's envoys meet Putin in Moscow to discuss ending Ukraine war",
-  "topic": "putin meets trump envoy",
-  "source": "Prothom Alo, Jamuna TV",
-  "status": "failed",
-  "at": "2026-09-05T22:06:24Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "11f6226997da0384",
   "url": "https://www.jamuna.tv/international/663523",
   "headline": "Trump's envoys meet Putin in Moscow to discuss ending Ukraine war",
@@ -8398,5 +8300,68 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "fbd14015a5f4ad96",
+  "url": "https://www.dhakatribune.com/bangladesh/419482/saima-wazed-resigns-from-who-amid-fraud-probes",
+  "headline": "Saima Wazed resigns from WHO amid fraud probes",
+  "topic": "saima wazed resigns who",
+  "source": "Dhaka Tribune, Jamuna TV, Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-10T08:10:55Z"
+ },
+ {
+  "title_hash": "959fc33c5f1cbbfc",
+  "url": "https://www.jamuna.tv/national/663806",
+  "headline": "Saima Wazed resigns from WHO amid fraud probes",
+  "topic": "saima wazed resigns who",
+  "source": "Dhaka Tribune, Jamuna TV, Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-10T08:10:55Z"
+ },
+ {
+  "title_hash": "2767436621235d22",
+  "url": "https://www.prothomalo.com/video/bangladesh/nos3maactl",
+  "headline": "Saima Wazed resigns from WHO amid fraud probes",
+  "topic": "saima wazed resigns who",
+  "source": "Dhaka Tribune, Jamuna TV, Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-10T08:10:55Z"
+ },
+ {
+  "title_hash": "ac482d14cc2724e4",
+  "url": "https://www.thedailystar.net/health/news/saima-wazed-putul-resigns-who-regional-head-after-fraud-allegations-4269171",
+  "headline": "Saima Wazed resigns from WHO amid fraud probes",
+  "topic": "saima wazed resigns who",
+  "source": "Dhaka Tribune, Jamuna TV, Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-10T08:10:55Z"
+ },
+ {
+  "title_hash": "20ba9ac7c85d19ce",
+  "url": "https://www.thedailystar.net/news/bangladesh/news/saima-wazed-quits-who-job-after-fraud-allegations-4269266",
+  "headline": "Saima Wazed resigns from WHO amid fraud probes",
+  "topic": "saima wazed resigns who",
+  "source": "Dhaka Tribune, Jamuna TV, Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-10T08:10:55Z"
+ },
+ {
+  "title_hash": "a7795669df1054af",
+  "url": "https://www.thedailystar.net/news/technology/news/the-foldable-iphone-here-meet-iphone-duo-4269066",
+  "headline": "Starting at $1,999, Apple unveils iPhone Duo, its first foldable smartphone",
+  "topic": "apple foldable iphone duo",
+  "source": "Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-10T08:10:55Z"
+ },
+ {
+  "title_hash": "416aefd0ecefbe4d",
+  "url": "https://www.prothomalo.com/technology/gadget/yzxvu0hcw2",
+  "headline": "Starting at $1,999, Apple unveils iPhone Duo, its first foldable smartphone",
+  "topic": "apple foldable iphone duo",
+  "source": "Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-10T08:10:55Z"
  }
 ]
