@@ -8349,8 +8349,13 @@
   "headline": "Saima Wazed resigns as WHO regional head following fraud and forgery allegations",
   "topic": "Saima Wazed WHO resignation",
   "source": "The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-10T01:07:13Z"
+  "status": "failed",
+  "at": "2026-09-10T01:07:13Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "aa125a4e44bed3a0",
@@ -8358,8 +8363,13 @@
   "headline": "Saima Wazed resigns as WHO regional head following fraud and forgery allegations",
   "topic": "Saima Wazed WHO resignation",
   "source": "The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-10T01:07:13Z"
+  "status": "failed",
+  "at": "2026-09-10T01:07:13Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "20ba9ac7c85d19ce",
@@ -8367,8 +8377,13 @@
   "headline": "Saima Wazed resigns as WHO regional head following fraud and forgery allegations",
   "topic": "Saima Wazed WHO resignation",
   "source": "The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-10T01:07:13Z"
+  "status": "failed",
+  "at": "2026-09-10T01:07:13Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "8343375bcadf23a3",
@@ -8376,7 +8391,12 @@
   "headline": "Actor Arsh Khan: We've forgotten humanity amidst political divisions, 'July fighter' term corrupted",
   "topic": "July Uprising fighter quote",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-10T01:07:13Z"
+  "status": "failed",
+  "at": "2026-09-10T01:07:13Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
