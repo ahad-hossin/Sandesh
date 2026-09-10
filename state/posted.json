@@ -8335,8 +8335,13 @@
   "headline": "Bangladesh lose to India by 40 runs, bow out of Women's Asia Cup",
   "topic": "bangladesh womens cricket loss to india",
   "source": "Jamuna TV, The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-10T22:07:33Z"
+  "status": "failed",
+  "at": "2026-09-10T22:07:33Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "f972823e7d7a3d93",
@@ -8344,8 +8349,13 @@
   "headline": "Bangladesh lose to India by 40 runs, bow out of Women's Asia Cup",
   "topic": "bangladesh womens cricket loss to india",
   "source": "Jamuna TV, The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-10T22:07:33Z"
+  "status": "failed",
+  "at": "2026-09-10T22:07:33Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "d0b7c1432096f796",
@@ -8353,8 +8363,13 @@
   "headline": "Bangladesh lose to India by 40 runs, bow out of Women's Asia Cup",
   "topic": "bangladesh womens cricket loss to india",
   "source": "Jamuna TV, The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-10T22:07:33Z"
+  "status": "failed",
+  "at": "2026-09-10T22:07:33Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "f800258f063b510b",
@@ -8362,8 +8377,13 @@
   "headline": "70 foreign nationals detained in Chittagong for illegal casino",
   "topic": "foreigners arrested illegal casino chittagong",
   "source": "Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-10T22:07:33Z"
+  "status": "failed",
+  "at": "2026-09-10T22:07:33Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "4266a6340ce6363a",
@@ -8371,7 +8391,12 @@
   "headline": "70 foreign nationals detained in Chittagong for illegal casino",
   "topic": "foreigners arrested illegal casino chittagong",
   "source": "Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-10T22:07:33Z"
+  "status": "failed",
+  "at": "2026-09-10T22:07:33Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
