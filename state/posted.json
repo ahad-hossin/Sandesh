@@ -1,33 +1,5 @@
 [
  {
-  "title_hash": "8c30271298dfcebc",
-  "url": "https://www.jamuna.tv/national/663572",
-  "headline": "EC to announce UP election schedule this month, says Commissioner",
-  "topic": "dhaka bus terminals relocation and up polls",
-  "source": "Dhaka Tribune, Jamuna TV, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-06T12:06:28Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "736f272b83c51148",
-  "url": "https://www.thedailystar.net/news/politics/election/news/ec-eyes-november-start-polls-plans-drones-and-body-cameras-4266121",
-  "headline": "EC to announce UP election schedule this month, says Commissioner",
-  "topic": "dhaka bus terminals relocation and up polls",
-  "source": "Dhaka Tribune, Jamuna TV, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-06T12:06:28Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "d6c80333b6cc216e",
   "url": "https://www.dhakatribune.com/bangladesh/dhaka/419183/police-sb-member-beaten-to-death-in-aminbazar",
   "headline": "SB police officer beaten to death in Aminbazar",
@@ -8398,5 +8370,23 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "f972823e7d7a3d93",
+  "url": "https://www.jamuna.tv/sports/663864",
+  "headline": "India win by 40 runs, Bangladesh women's team out of Asia Cup",
+  "topic": "bangladesh loses to india in cricket semi-final",
+  "source": "Jamuna TV",
+  "status": "queued",
+  "at": "2026-09-10T20:09:18Z"
+ },
+ {
+  "title_hash": "4b33633fff986094",
+  "url": "https://www.jamuna.tv/national/663865",
+  "headline": "PM Tareq Rahman urges students to care for animals and nature",
+  "topic": "pm urges students to show love for animals",
+  "source": "Jamuna TV",
+  "status": "queued",
+  "at": "2026-09-10T20:09:18Z"
  }
 ]
