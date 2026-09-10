@@ -8377,8 +8377,13 @@
   "headline": "India win by 40 runs, Bangladesh women's team out of Asia Cup",
   "topic": "bangladesh loses to india in cricket semi-final",
   "source": "Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-10T20:09:18Z"
+  "status": "failed",
+  "at": "2026-09-10T20:09:18Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "4b33633fff986094",
@@ -8386,7 +8391,12 @@
   "headline": "PM Tareq Rahman urges students to care for animals and nature",
   "topic": "pm urges students to show love for animals",
   "source": "Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-10T20:09:18Z"
+  "status": "failed",
+  "at": "2026-09-10T20:09:18Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
