@@ -8321,8 +8321,13 @@
   "headline": "Anti-drug campaigner man set on fire dies in Mymensingh",
   "topic": "man set on fire in mymensingh dies",
   "source": "Dhaka Tribune, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-10T15:10:08Z"
+  "status": "failed",
+  "at": "2026-09-10T15:10:08Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "341c2ddc84a55c7e",
@@ -8330,8 +8335,13 @@
   "headline": "Anti-drug campaigner man set on fire dies in Mymensingh",
   "topic": "man set on fire in mymensingh dies",
   "source": "Dhaka Tribune, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-10T15:10:08Z"
+  "status": "failed",
+  "at": "2026-09-10T15:10:08Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "63e68060f3da427b",
@@ -8339,8 +8349,13 @@
   "headline": "Law and order visibly improved in Bangladesh, says Home Minister",
   "topic": "home minister claims visible progress in law and order",
   "source": "Prothom Alo, Dhaka Tribune, The Daily Star, Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-10T15:10:08Z"
+  "status": "failed",
+  "at": "2026-09-10T15:10:08Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "c9f17251eb462864",
@@ -8348,8 +8363,13 @@
   "headline": "Law and order visibly improved in Bangladesh, says Home Minister",
   "topic": "home minister claims visible progress in law and order",
   "source": "Prothom Alo, Dhaka Tribune, The Daily Star, Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-10T15:10:08Z"
+  "status": "failed",
+  "at": "2026-09-10T15:10:08Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "0081796bd4b80140",
@@ -8357,8 +8377,13 @@
   "headline": "Law and order visibly improved in Bangladesh, says Home Minister",
   "topic": "home minister claims visible progress in law and order",
   "source": "Prothom Alo, Dhaka Tribune, The Daily Star, Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-10T15:10:08Z"
+  "status": "failed",
+  "at": "2026-09-10T15:10:08Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "643874b9f6a4e986",
@@ -8366,7 +8391,12 @@
   "headline": "Law and order visibly improved in Bangladesh, says Home Minister",
   "topic": "home minister claims visible progress in law and order",
   "source": "Prothom Alo, Dhaka Tribune, The Daily Star, Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-10T15:10:08Z"
+  "status": "failed",
+  "at": "2026-09-10T15:10:08Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
