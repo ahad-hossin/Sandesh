@@ -8349,8 +8349,13 @@
   "headline": "Saima Wazed resigns from WHO amid fraud probes and financial irregularities allegations",
   "topic": "saima wazed resigns who fraud",
   "source": "Dhaka Tribune, Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-10T04:07:57Z"
+  "status": "failed",
+  "at": "2026-09-10T04:07:57Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "959fc33c5f1cbbfc",
@@ -8358,8 +8363,13 @@
   "headline": "Saima Wazed resigns from WHO amid fraud probes and financial irregularities allegations",
   "topic": "saima wazed resigns who fraud",
   "source": "Dhaka Tribune, Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-10T04:07:57Z"
+  "status": "failed",
+  "at": "2026-09-10T04:07:57Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "3031736b2681139b",
@@ -8367,8 +8377,13 @@
   "headline": "Saima Wazed resigns from WHO amid fraud probes and financial irregularities allegations",
   "topic": "saima wazed resigns who fraud",
   "source": "Dhaka Tribune, Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-10T04:07:57Z"
+  "status": "failed",
+  "at": "2026-09-10T04:07:57Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "c8afdcba89127cd4",
@@ -8376,7 +8391,12 @@
   "headline": "Secret mobile phone data sold online; even ministers' info compromised for a fee",
   "topic": "secret phone data leaks minister",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-10T04:07:57Z"
+  "status": "failed",
+  "at": "2026-09-10T04:07:57Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
