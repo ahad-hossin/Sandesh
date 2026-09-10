@@ -1,61 +1,5 @@
 [
  {
-  "title_hash": "88fb52b36951c58f",
-  "url": "https://www.dhakatribune.com/bangladesh/power-energy/419153/fuel-shortage-triggers-gridlock-at-dhaka-cng",
-  "headline": "Fuel crisis: Prime Minister Tarique Rahman expresses regret over shortages",
-  "topic": "dhaka fuel shortage",
-  "source": "Dhaka Tribune, Jamuna TV",
-  "status": "failed",
-  "at": "2026-09-05T14:06:28Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "7b5b86acfbd6e4ba",
-  "url": "https://www.jamuna.tv/national/663519",
-  "headline": "Fuel crisis: Prime Minister Tarique Rahman expresses regret over shortages",
-  "topic": "dhaka fuel shortage",
-  "source": "Dhaka Tribune, Jamuna TV",
-  "status": "failed",
-  "at": "2026-09-05T14:06:28Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "946dea9f6a801fb4",
-  "url": "https://www.thedailystar.net/sports/football/news/tevezs-farewell-match-bring-together-messi-and-ronaldo-4265431",
-  "headline": "Carlos Tevez farewell match could bring Messi and Ronaldo together",
-  "topic": "messi ronaldo same team",
-  "source": "Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-05T15:07:37Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "95d0682038b86866",
-  "url": "https://www.prothomalo.com/sports/football/hlyu3d4s29",
-  "headline": "Carlos Tevez farewell match could bring Messi and Ronaldo together",
-  "topic": "messi ronaldo same team",
-  "source": "Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-05T15:07:37Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "7e796221f9d0efd8",
   "url": "https://www.prothomalo.com/entertainment/dhallywood/7mt6urpy9p",
   "headline": "Cinema and Cricket: Taskin Ahmed and Shabnur meet at Sydney BBQ",
@@ -8398,5 +8342,41 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "fbd14015a5f4ad96",
+  "url": "https://www.dhakatribune.com/bangladesh/419482/saima-wazed-resigns-from-who-amid-fraud-probes",
+  "headline": "Saima Wazed resigns from WHO amid fraud probes and financial irregularities allegations",
+  "topic": "saima wazed resigns who fraud",
+  "source": "Dhaka Tribune, Jamuna TV, Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-10T04:07:57Z"
+ },
+ {
+  "title_hash": "959fc33c5f1cbbfc",
+  "url": "https://www.jamuna.tv/national/663806",
+  "headline": "Saima Wazed resigns from WHO amid fraud probes and financial irregularities allegations",
+  "topic": "saima wazed resigns who fraud",
+  "source": "Dhaka Tribune, Jamuna TV, Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-10T04:07:57Z"
+ },
+ {
+  "title_hash": "3031736b2681139b",
+  "url": "https://www.prothomalo.com/bangladesh/ddbliueico-theke-saayymaa-oyyaajeder-pdtyaag",
+  "headline": "Saima Wazed resigns from WHO amid fraud probes and financial irregularities allegations",
+  "topic": "saima wazed resigns who fraud",
+  "source": "Dhaka Tribune, Jamuna TV, Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-10T04:07:57Z"
+ },
+ {
+  "title_hash": "c8afdcba89127cd4",
+  "url": "https://www.prothomalo.com/bangladesh/dvlp2c276r",
+  "headline": "Secret mobile phone data sold online; even ministers' info compromised for a fee",
+  "topic": "secret phone data leaks minister",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-10T04:07:57Z"
  }
 ]
