@@ -1,47 +1,5 @@
 [
  {
-  "title_hash": "8afcdbe62fef361e",
-  "url": "https://www.jamuna.tv/national/663654",
-  "headline": "1,314 hospitalised in 24 hours: 4 die of dengue in record surge",
-  "topic": "dengue record cases deaths",
-  "source": "Dhaka Tribune, Prothom Alo, The Daily Star, Jamuna TV",
-  "status": "failed",
-  "at": "2026-09-07T14:20:56Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "e0f60eb140a88f06",
-  "url": "https://www.prothomalo.com/video/bangladesh/blxd1c7j6n",
-  "headline": "9 arrested for killing police SI in Savar",
-  "topic": "savar police officer killing",
-  "source": "Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-07T16:21:35Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "e64d9a3d1cb0cee4",
-  "url": "https://www.jamuna.tv/national/663671",
-  "headline": "Woman testifies: Daughter raped by AL leaders after she gave statement on husband's death",
-  "topic": "awami league leaders rape woman after husband's death in july movement",
-  "source": "Jamuna TV",
-  "status": "failed",
-  "at": "2026-09-07T17:09:03Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "bc68c82860c3b13c",
   "url": "https://www.dhakatribune.com/bangladesh/court/419319/writ-seeks-suspension-of-awami-league-activities",
   "headline": "Court writ Writ seeks suspension of Awami League activities ban in High Court",
@@ -8398,5 +8356,32 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "bfa6bac2ab6a81ad",
+  "url": "https://www.prothomalo.com/entertainment/dhallywood/i29j9d1hd2",
+  "headline": "Rubaiyat Hossain's film wins award at Venice Film Festival",
+  "topic": "bangladeshi-film-venice-award",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-11T22:09:44Z"
+ },
+ {
+  "title_hash": "0fdbd9ee19b02b0f",
+  "url": "https://www.thedailystar.net/news/power-and-energy/news/gas-supply-improve-within-5-7-days-says-pm-tarique-4270466",
+  "headline": "Gas supply to improve within 5-7 days, says PM Tarique",
+  "topic": "gas-supply-improvement-pm",
+  "source": "The Daily Star",
+  "status": "queued",
+  "at": "2026-09-11T22:09:44Z"
+ },
+ {
+  "title_hash": "b640705e6f816e54",
+  "url": "https://www.thedailystar.net/news/bangladesh/news/gas-situation-improve-further-week-pm-4270576",
+  "headline": "Gas supply to improve within 5-7 days, says PM Tarique",
+  "topic": "gas-supply-improvement-pm",
+  "source": "The Daily Star",
+  "status": "queued",
+  "at": "2026-09-11T22:09:44Z"
  }
 ]
