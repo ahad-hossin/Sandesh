@@ -8363,8 +8363,13 @@
   "headline": "Children's author Amirul Islam dies at 62",
   "topic": "childrens author amirul islam dies",
   "source": "Dhaka Tribune, Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-11T05:08:21Z"
+  "status": "failed",
+  "at": "2026-09-11T05:08:21Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "6a45c91abbae3bb4",
@@ -8372,8 +8377,13 @@
   "headline": "Children's author Amirul Islam dies at 62",
   "topic": "childrens author amirul islam dies",
   "source": "Dhaka Tribune, Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-11T05:08:21Z"
+  "status": "failed",
+  "at": "2026-09-11T05:08:21Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "2ce19ee0a2acedce",
@@ -8381,7 +8391,12 @@
   "headline": "47 Bangladeshis return through Benapole after 2 years in Indian prison",
   "topic": "bangladeshis return from indian prison",
   "source": "Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-09-11T05:08:21Z"
+  "status": "failed",
+  "at": "2026-09-11T05:08:21Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
