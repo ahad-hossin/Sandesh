@@ -1,75 +1,5 @@
 [
  {
-  "title_hash": "d656f9f6817e4e51",
-  "url": "https://www.prothomalo.com/video/bangladesh/d4dq7tpiuk",
-  "headline": "Tk 1.29 lakh: Bangladesh’s per capita debt reaches new high",
-  "topic": "bangladesh national debt and loan crisis",
-  "source": "The Daily Star, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-06T14:07:01Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "2baaf59dbfb78bec",
-  "url": "https://www.thedailystar.net/business/banking/news/janata-bank-holds-over-half-tk-147776cr-defaulted-loans-6-state-banks-finance-minister-4266181",
-  "headline": "Tk 1.29 lakh: Bangladesh’s per capita debt reaches new high",
-  "topic": "bangladesh national debt and loan crisis",
-  "source": "The Daily Star, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-06T14:07:01Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "6da35ca8b992d04f",
-  "url": "https://www.dhakatribune.com/bangladesh/foreign-affairs/419243/body-of-bangladeshi-killed-in-israeli-drone-strike",
-  "headline": "Body of Bangladeshi killed in Israeli drone strike reaches Satkhira",
-  "topic": "bangladeshi killed in lebanon drone strike",
-  "source": "Dhaka Tribune, Prothom Alo, Jamuna TV",
-  "status": "failed",
-  "at": "2026-09-06T15:07:15Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "5672b9c60edb12c8",
-  "url": "https://www.prothomalo.com/bangladesh/district/q49tcs5nsr",
-  "headline": "Body of Bangladeshi killed in Israeli drone strike reaches Satkhira",
-  "topic": "bangladeshi killed in lebanon drone strike",
-  "source": "Dhaka Tribune, Prothom Alo, Jamuna TV",
-  "status": "failed",
-  "at": "2026-09-06T15:07:15Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "14ca12360dc544d4",
-  "url": "https://www.jamuna.tv/all-bangladesh/663566",
-  "headline": "Body of Bangladeshi killed in Israeli drone strike reaches Satkhira",
-  "topic": "bangladeshi killed in lebanon drone strike",
-  "source": "Dhaka Tribune, Prothom Alo, Jamuna TV",
-  "status": "failed",
-  "at": "2026-09-06T15:07:15Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "60b97e738d473139",
   "url": "https://www.dhakatribune.com/bangladesh/nation/419192/body-of-bangladeshi-killed-in-lebanon-drone-strike",
   "headline": "Body of Bangladeshi killed in Israeli drone strike reaches Satkhira",
@@ -8398,5 +8328,50 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "32c840a1c923134a",
+  "url": "https://www.thedailystar.net/sports/cricket/news/bangladesh-bow-out-after-another-india-defeat-4270026",
+  "headline": "Bangladesh bows out of Women's Asia Cup T20 after 40-run semi-final defeat to India",
+  "topic": "Bangladesh Cricket Loss to India",
+  "source": "Jamuna TV, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-11T00:08:53Z"
+ },
+ {
+  "title_hash": "f972823e7d7a3d93",
+  "url": "https://www.jamuna.tv/sports/663864",
+  "headline": "Bangladesh bows out of Women's Asia Cup T20 after 40-run semi-final defeat to India",
+  "topic": "Bangladesh Cricket Loss to India",
+  "source": "Jamuna TV, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-11T00:08:53Z"
+ },
+ {
+  "title_hash": "2c411d0783e2e6e2",
+  "url": "https://www.dhakatribune.com/bangladesh/health/419536/dengue-six-deaths-mark-second-highest-daily-toll",
+  "headline": "Dengue claims six lives in 24 hours, 1,492 new hospitalizations reported",
+  "topic": "Dengue Toll 6 Deaths 1492 Hospitalized",
+  "source": "Jamuna TV, Dhaka Tribune, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-11T00:08:53Z"
+ },
+ {
+  "title_hash": "314888a8277b2881",
+  "url": "https://www.jamuna.tv/health/663847",
+  "headline": "Dengue claims six lives in 24 hours, 1,492 new hospitalizations reported",
+  "topic": "Dengue Toll 6 Deaths 1492 Hospitalized",
+  "source": "Jamuna TV, Dhaka Tribune, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-11T00:08:53Z"
+ },
+ {
+  "title_hash": "65c9cd717932ca50",
+  "url": "https://www.thedailystar.net/news/bangladesh/news/dengue-claims-six-more-lives-4269926",
+  "headline": "Dengue claims six lives in 24 hours, 1,492 new hospitalizations reported",
+  "topic": "Dengue Toll 6 Deaths 1492 Hospitalized",
+  "source": "Jamuna TV, Dhaka Tribune, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-11T00:08:53Z"
  }
 ]
