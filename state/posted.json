@@ -1,61 +1,5 @@
 [
  {
-  "title_hash": "7cb6e7e627bbc2bf",
-  "url": "https://www.thedailystar.net/news/world/news/40-50-feared-trapped-delhi-hostel-4266641",
-  "headline": "Up to 50 students feared trapped as Delhi hostel building collapses",
-  "topic": "delhi hostel collapse",
-  "source": "Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-06T22:06:29Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "524d2eac23651400",
-  "url": "https://www.prothomalo.com/world/india/c92p3r5xsu",
-  "headline": "Up to 50 students feared trapped as Delhi hostel building collapses",
-  "topic": "delhi hostel collapse",
-  "source": "Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-06T22:06:29Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "3c04647c6f244707",
-  "url": "https://www.thedailystar.net/business/economy/news/economic-buffer-bangladeshs-gross-forex-reserves-reach-36-billion-4266666",
-  "headline": "$36.38 billion: Bangladesh’s gross forex reserves reach new level",
-  "topic": "bangladesh forex reserves 36 billion",
-  "source": "The Daily Star",
-  "status": "failed",
-  "at": "2026-09-06T23:06:39Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "c93e3423e736542d",
-  "url": "https://www.dhakatribune.com/bangladesh/nation/419244/police-arrest-suspect-over-killing-of-sb",
-  "headline": "4 arrested for killing Special Branch SI Altab Hossain in Savar",
-  "topic": "savar sb si killing arrests",
-  "source": "Dhaka Tribune, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-06T23:06:39Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "ef4715c4b535844c",
   "url": "https://www.prothomalo.com/bangladesh/crime/cl2f776b8h",
   "headline": "4 arrested for killing Special Branch SI Altab Hossain in Savar",
@@ -8398,5 +8342,41 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "57f025cb2207465f",
+  "url": "https://www.thedailystar.net/news/news/pm-visits-injured-army-officer-cmh-4270311",
+  "headline": "2 army personnel killed, 1 injured in tank-firing accident during field exercise",
+  "topic": "pm visits injured army officer",
+  "source": "Jamuna TV, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-11T11:08:47Z"
+ },
+ {
+  "title_hash": "be95d1324b408b11",
+  "url": "https://www.jamuna.tv/national/663898",
+  "headline": "2 army personnel killed, 1 injured in tank-firing accident during field exercise",
+  "topic": "pm visits injured army officer",
+  "source": "Jamuna TV, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-11T11:08:47Z"
+ },
+ {
+  "title_hash": "affe882509ed49e3",
+  "url": "https://www.dhakatribune.com/bangladesh/419588/legal-notice-seeks-withdrawal-of-acc-official%E2%80%99s",
+  "headline": "Asif Mahmud sends legal notice to ACC official over graft remarks",
+  "topic": "asif mahmud legal notice acc",
+  "source": "Jamuna TV, Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-09-11T11:08:47Z"
+ },
+ {
+  "title_hash": "5c9f38d411c96aaa",
+  "url": "https://www.jamuna.tv/politics/663896",
+  "headline": "Asif Mahmud sends legal notice to ACC official over graft remarks",
+  "topic": "asif mahmud legal notice acc",
+  "source": "Jamuna TV, Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-09-11T11:08:47Z"
  }
 ]
