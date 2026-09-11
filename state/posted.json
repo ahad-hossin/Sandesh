@@ -2,62 +2,6 @@
  {
   "title_hash": "ee9ee1ea808e9092",
   "url": "https://www.prothomalo.com/world/middle-east/5jkilb0ynn",
-  "headline": "Iran to declare new 'controlled zone' outside Strait of Hormuz, warns of sanctions for entry",
-  "topic": "Iran controlled zone Hormuz",
-  "source": "Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-07T01:06:38Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "e1656b6d78c84953",
-  "url": "https://www.prothomalo.com/world/europe/wn08x2pp4r",
-  "headline": "Ukraine war could last until winter, Zelenskyy tells Trump's envoys in Kyiv",
-  "topic": "Zelensky Ukraine war duration",
-  "source": "Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-07T01:06:38Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "f556437b4454072d",
-  "url": "https://www.prothomalo.com/fun/ito62pfl2b",
-  "headline": "Gas crisis sparks huge demand for parotas at eateries, creating long queues for breakfast",
-  "topic": "bangladesh gas shortage",
-  "source": "Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-07T02:06:46Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "9a48c38d2ea1f17e",
-  "url": "https://www.thedailystar.net/news/world/middle-east/news/iran-guards-attack-us-naval-drone-4266691",
-  "headline": "Iran's Revolutionary Guards attacked a US naval drone attempting to enter Strait of Hormuz",
-  "topic": "iran declares controlled zone near hormuz",
-  "source": "Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-07T02:06:46Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "ee9ee1ea808e9092",
-  "url": "https://www.prothomalo.com/world/middle-east/5jkilb0ynn",
   "headline": "Iran's Revolutionary Guards attacked a US naval drone attempting to enter Strait of Hormuz",
   "topic": "iran declares controlled zone near hormuz",
   "source": "Prothom Alo, The Daily Star",
@@ -8398,5 +8342,41 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "e2a6730a4c8db9de",
+  "url": "https://www.dhakatribune.com/bangladesh/health/419600/dengue-two-more-die-as-790-hospitalized-in-24",
+  "headline": "790 hospitalised in 24 hours as dengue claims 2 more lives",
+  "topic": "dengue deaths and hospitalizations rise",
+  "source": "Dhaka Tribune, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-11T13:08:58Z"
+ },
+ {
+  "title_hash": "2b30ae94a2b2af95",
+  "url": "https://www.thedailystar.net/news/healthcare/disease/news/dengue-claims-2-more-lives-790-hospitalised-24-hours-4270331",
+  "headline": "790 hospitalised in 24 hours as dengue claims 2 more lives",
+  "topic": "dengue deaths and hospitalizations rise",
+  "source": "Dhaka Tribune, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-11T13:08:58Z"
+ },
+ {
+  "title_hash": "8b257c1bdefab0b1",
+  "url": "https://www.prothomalo.com/bangladesh/district/h0oxlyszuz",
+  "headline": "63 foreigners detained in Chattogram for online fraud",
+  "topic": "63 foreigners arrested for alleged illegal activities",
+  "source": "Prothom Alo, Jamuna TV",
+  "status": "queued",
+  "at": "2026-09-11T13:08:58Z"
+ },
+ {
+  "title_hash": "727c68734b8ba210",
+  "url": "https://www.jamuna.tv/all-bangladesh/663882",
+  "headline": "63 foreigners detained in Chattogram for online fraud",
+  "topic": "63 foreigners arrested for alleged illegal activities",
+  "source": "Prothom Alo, Jamuna TV",
+  "status": "queued",
+  "at": "2026-09-11T13:08:58Z"
  }
 ]
