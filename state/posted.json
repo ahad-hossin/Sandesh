@@ -1,61 +1,5 @@
 [
  {
-  "title_hash": "bc68c82860c3b13c",
-  "url": "https://www.dhakatribune.com/bangladesh/court/419319/writ-seeks-suspension-of-awami-league-activities",
-  "headline": "Court writ Writ seeks suspension of Awami League activities ban in High Court",
-  "topic": "debate in parliament over including Gazi Nazrul in standing committee",
-  "source": "Dhaka Tribune, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-07T17:09:03Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "409bf14775033a8e",
-  "url": "https://www.prothomalo.com/video/bangladesh/w5qnj8epmo",
-  "headline": "Court writ Writ seeks suspension of Awami League activities ban in High Court",
-  "topic": "debate in parliament over including Gazi Nazrul in standing committee",
-  "source": "Dhaka Tribune, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-07T17:09:03Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "63e8fd1424ad6399",
-  "url": "https://www.thedailystar.net/news/governance/parliament/news/4-more-standing-committees-formed-opposition-again-gets-no-chairmanships-4267216",
-  "headline": "Court writ Writ seeks suspension of Awami League activities ban in High Court",
-  "topic": "debate in parliament over including Gazi Nazrul in standing committee",
-  "source": "Dhaka Tribune, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-07T17:09:03Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "422a38e6a1cd7357",
-  "url": "https://www.thedailystar.net/news/bangladesh/news/they-raped-my-daughter-because-i-came-testify-4267461",
-  "headline": "Widow of July martyr claims daughter raped and died by suicide after she testified",
-  "topic": "july uprising victim daughter raped",
-  "source": "Jamuna TV, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-07T18:08:32Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "e64d9a3d1cb0cee4",
   "url": "https://www.jamuna.tv/national/663671",
   "headline": "Widow of July martyr claims daughter raped and died by suicide after she testified",
@@ -8398,5 +8342,41 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "0fdbd9ee19b02b0f",
+  "url": "https://www.thedailystar.net/news/power-and-energy/news/gas-supply-improve-within-5-7-days-says-pm-tarique-4270466",
+  "headline": "Bangladesh gas supply to improve within 5-7 days, says PM Tarique",
+  "topic": "gas supply improvement",
+  "source": "The Daily Star",
+  "status": "queued",
+  "at": "2026-09-11T23:09:05Z"
+ },
+ {
+  "title_hash": "b640705e6f816e54",
+  "url": "https://www.thedailystar.net/news/bangladesh/news/gas-situation-improve-further-week-pm-4270576",
+  "headline": "Bangladesh gas supply to improve within 5-7 days, says PM Tarique",
+  "topic": "gas supply improvement",
+  "source": "The Daily Star",
+  "status": "queued",
+  "at": "2026-09-11T23:09:05Z"
+ },
+ {
+  "title_hash": "0ad65e5992e58527",
+  "url": "https://www.dhakatribune.com/bangladesh/dhaka/419621/pallabi-showroom-closed-after-customer-seller",
+  "headline": "Chaos in Pallabi as 'free shopping' offer sparks row at outlet",
+  "topic": "pallabi free shopping chaos",
+  "source": "Prothom Alo, Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-09-11T23:09:05Z"
+ },
+ {
+  "title_hash": "0fa225e99b23ec68",
+  "url": "https://www.prothomalo.com/bangladesh/capital/778ap5jk63",
+  "headline": "Chaos in Pallabi as 'free shopping' offer sparks row at outlet",
+  "topic": "pallabi free shopping chaos",
+  "source": "Prothom Alo, Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-09-11T23:09:05Z"
  }
 ]
