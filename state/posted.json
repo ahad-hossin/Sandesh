@@ -8377,8 +8377,13 @@
   "headline": "Egg and chicken prices remain high, fish also costly; a dozen eggs at BDT 150",
   "topic": "Egg chicken fish prices high",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-11T02:07:20Z"
+  "status": "failed",
+  "at": "2026-09-11T02:07:20Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "59c823ac30c4a305",
@@ -8386,7 +8391,12 @@
   "headline": "Adulteration fears cloud Bangladesh's sweet traditions, raising health concerns",
   "topic": "Adulteration in sweets concern",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-11T02:07:20Z"
+  "status": "failed",
+  "at": "2026-09-11T02:07:20Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
