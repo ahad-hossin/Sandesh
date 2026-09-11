@@ -8363,8 +8363,13 @@
   "headline": "Loadshedding rises as Adani power plant unit shuts down due to technical fault",
   "topic": "adani-power-plant-outage-loadshedding",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-11T07:08:48Z"
+  "status": "failed",
+  "at": "2026-09-11T07:08:48Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "727c68734b8ba210",
@@ -8372,8 +8377,13 @@
   "headline": "63 foreigners detained in Chittagong for allegedly running a casino",
   "topic": "foreign-nationals-casino-ai-robots",
   "source": "Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-11T07:08:48Z"
+  "status": "failed",
+  "at": "2026-09-11T07:08:48Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "f4033af6446071cc",
@@ -8381,7 +8391,12 @@
   "headline": "63 foreigners detained in Chittagong for allegedly running a casino",
   "topic": "foreign-nationals-casino-ai-robots",
   "source": "Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-11T07:08:48Z"
+  "status": "failed",
+  "at": "2026-09-11T07:08:48Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
