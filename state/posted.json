@@ -8377,8 +8377,13 @@
   "headline": "Apple unveils first foldable iPhone 'iPhone Duo' at 'Surprise & Shine' event",
   "topic": "apple unveils first foldable iphone",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-11T01:07:32Z"
+  "status": "failed",
+  "at": "2026-09-11T01:07:32Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "59c823ac30c4a305",
@@ -8386,7 +8391,12 @@
   "headline": "Adulteration fears rise over Bangladesh's beloved traditional sweets",
   "topic": "adulteration fears in bangladeshi sweets",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-11T01:07:32Z"
+  "status": "failed",
+  "at": "2026-09-11T01:07:32Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
