@@ -1,47 +1,5 @@
 [
  {
-  "title_hash": "c93e3423e736542d",
-  "url": "https://www.dhakatribune.com/bangladesh/nation/419244/police-arrest-suspect-over-killing-of-sb",
-  "headline": "5 arrested in death of SB SI in Savar",
-  "topic": "sb si death savar",
-  "source": "Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-09-06T19:06:03Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "c93e3423e736542d",
-  "url": "https://www.dhakatribune.com/bangladesh/nation/419244/police-arrest-suspect-over-killing-of-sb",
-  "headline": "5 arrested for SB SI killed in Savar after trying to stop fight",
-  "topic": "savar sb si murder arrests",
-  "source": "Dhaka Tribune, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-06T20:06:39Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "ef4715c4b535844c",
-  "url": "https://www.prothomalo.com/bangladesh/crime/cl2f776b8h",
-  "headline": "5 arrested for SB SI killed in Savar after trying to stop fight",
-  "topic": "savar sb si murder arrests",
-  "source": "Dhaka Tribune, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-06T20:06:39Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "369fcb10a4fc3b46",
   "url": "https://www.thedailystar.net/news/crime-justice/news/man-killed-another-injured-jatrabari-shooting-4266676",
   "headline": "Man killed, another injured in shooting at Dhaka’s Jatrabari",
@@ -8398,5 +8356,32 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "f09b3bf33f2b3749",
+  "url": "https://www.prothomalo.com/bangladesh/45z4lc7map",
+  "headline": "Loadshedding rises as Adani power plant unit shuts down due to technical fault",
+  "topic": "adani-power-plant-outage-loadshedding",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-11T07:08:48Z"
+ },
+ {
+  "title_hash": "727c68734b8ba210",
+  "url": "https://www.jamuna.tv/all-bangladesh/663882",
+  "headline": "63 foreigners detained in Chittagong for allegedly running a casino",
+  "topic": "foreign-nationals-casino-ai-robots",
+  "source": "Jamuna TV",
+  "status": "queued",
+  "at": "2026-09-11T07:08:48Z"
+ },
+ {
+  "title_hash": "f4033af6446071cc",
+  "url": "https://www.jamuna.tv/videos/663880",
+  "headline": "63 foreigners detained in Chittagong for allegedly running a casino",
+  "topic": "foreign-nationals-casino-ai-robots",
+  "source": "Jamuna TV",
+  "status": "queued",
+  "at": "2026-09-11T07:08:48Z"
  }
 ]
