@@ -1,33 +1,5 @@
 [
  {
-  "title_hash": "60b97e738d473139",
-  "url": "https://www.dhakatribune.com/bangladesh/nation/419192/body-of-bangladeshi-killed-in-lebanon-drone-strike",
-  "headline": "Body of Bangladeshi killed in Israeli drone strike reaches Satkhira",
-  "topic": "bangladeshi killed in lebanon drone strike",
-  "source": "Dhaka Tribune, Prothom Alo, Jamuna TV",
-  "status": "failed",
-  "at": "2026-09-06T15:07:15Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "bcda2d6079199f0d",
-  "url": "https://www.dhakatribune.com/bangladesh/419239/sheikh-hasina-11-others-charge-sheeted-in-riazul",
-  "headline": "Sheikh Hasina and 11 others charge-sheeted in Riazul murder case",
-  "topic": "sheikh hasina charge-sheeted riazul murder",
-  "source": "Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-09-06T15:07:15Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "2ab7453ddce282a3",
   "url": "https://www.dhakatribune.com/bangladesh/court/419222/chief-prosecutor-warns-of-sabotage-risk-in",
   "headline": "Sheikh Hasina and 11 others charge-sheeted in Riazul murder case",
@@ -8398,5 +8370,23 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "d8bce39fd45686ab",
+  "url": "https://www.kishoralo.com/feature/vn6esk4rln",
+  "headline": "Apple unveils first foldable iPhone 'iPhone Duo' at 'Surprise & Shine' event",
+  "topic": "apple unveils first foldable iphone",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-11T01:07:32Z"
+ },
+ {
+  "title_hash": "59c823ac30c4a305",
+  "url": "https://www.haal.fashion/lifestyle/well-being/7nqv2lpy2s",
+  "headline": "Adulteration fears rise over Bangladesh's beloved traditional sweets",
+  "topic": "adulteration fears in bangladeshi sweets",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-11T01:07:32Z"
  }
 ]
