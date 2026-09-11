@@ -8363,8 +8363,13 @@
   "headline": "Putin arrives in India for BRICS summit dominated by wars and economic challenges",
   "topic": "BRICS Summit India",
   "source": "Jamuna TV, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-11T03:07:04Z"
+  "status": "failed",
+  "at": "2026-09-11T03:07:04Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "196321836f416d74",
@@ -8372,8 +8377,13 @@
   "headline": "Putin arrives in India for BRICS summit dominated by wars and economic challenges",
   "topic": "BRICS Summit India",
   "source": "Jamuna TV, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-11T03:07:04Z"
+  "status": "failed",
+  "at": "2026-09-11T03:07:04Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "191863abd2ad3128",
@@ -8381,7 +8391,12 @@
   "headline": "Padma River water rises due to upstream flow, low-lying areas of Kushtia flooded",
   "topic": "Padma River Flooding Kushtia",
   "source": "Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-11T03:07:04Z"
+  "status": "failed",
+  "at": "2026-09-11T03:07:04Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
