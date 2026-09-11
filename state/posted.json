@@ -1,75 +1,5 @@
 [
  {
-  "title_hash": "88d669561f79e673",
-  "url": "https://www.dhakatribune.com/bangladesh/crime/419270/rab-savar-si-murder-accused-involved-in-juvenile",
-  "headline": "9 arrested in Savar police officer killing, RAB says",
-  "topic": "savar police officer killing",
-  "source": "Dhaka Tribune, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-07T12:07:23Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "09aafd249142e419",
-  "url": "https://www.jamuna.tv/all-bangladesh/663632",
-  "headline": "9 arrested in Savar police officer killing, RAB says",
-  "topic": "savar police officer killing",
-  "source": "Dhaka Tribune, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-07T12:07:23Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "c3f68c7dee456d4a",
-  "url": "https://www.prothomalo.com/bangladesh/crime/8rord5vm8m",
-  "headline": "9 arrested in Savar police officer killing, RAB says",
-  "topic": "savar police officer killing",
-  "source": "Dhaka Tribune, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-07T12:07:23Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "2b592d292caa9554",
-  "url": "https://www.dhakatribune.com/bangladesh/health/419289/dengue-four-more-die-as-1-314-cases-recorded-in",
-  "headline": "1,314 hospitalised as 4 more die of dengue in 24 hours",
-  "topic": "dengue death toll rise",
-  "source": "Dhaka Tribune, The Daily Star, Jamuna TV",
-  "status": "failed",
-  "at": "2026-09-07T13:07:24Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "8806f03e5709c438",
-  "url": "https://www.thedailystar.net/news/healthcare/disease/news/4-die-dengue-1314-hospitalised-24-hours-4267106",
-  "headline": "1,314 hospitalised as 4 more die of dengue in 24 hours",
-  "topic": "dengue death toll rise",
-  "source": "Dhaka Tribune, The Daily Star, Jamuna TV",
-  "status": "failed",
-  "at": "2026-09-07T13:07:24Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "8afcdbe62fef361e",
   "url": "https://www.jamuna.tv/national/663654",
   "headline": "1,314 hospitalised as 4 more die of dengue in 24 hours",
@@ -8398,5 +8328,50 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "6c9a4a8ab4fa4784",
+  "url": "https://www.dhakatribune.com/bangladesh/crime/419582/police-recover-missing-man%E2%80%99s-body-from-beneath",
+  "headline": "Friend confesses to killing businessman over 3 lakh taka debt in Lalbagh",
+  "topic": "lalbagh_businessman_murder",
+  "source": "Prothom Alo, Jamuna TV, Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-09-11T20:08:51Z"
+ },
+ {
+  "title_hash": "72be376a995c8427",
+  "url": "https://www.prothomalo.com/bangladesh/crime/bne1kud7cw",
+  "headline": "Friend confesses to killing businessman over 3 lakh taka debt in Lalbagh",
+  "topic": "lalbagh_businessman_murder",
+  "source": "Prothom Alo, Jamuna TV, Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-09-11T20:08:51Z"
+ },
+ {
+  "title_hash": "45638a139555e6b2",
+  "url": "https://www.jamuna.tv/national/663889",
+  "headline": "Friend confesses to killing businessman over 3 lakh taka debt in Lalbagh",
+  "topic": "lalbagh_businessman_murder",
+  "source": "Prothom Alo, Jamuna TV, Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-09-11T20:08:51Z"
+ },
+ {
+  "title_hash": "69198820730d899c",
+  "url": "https://www.thedailystar.net/news/news/forgive-me-journalists-final-message-daughter-among-five-notes-4270491",
+  "headline": "Journalist found dead at Samakal Barishal office, five notes recovered",
+  "topic": "journalist_pulak_chatterjee_death",
+  "source": "The Daily Star, Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-09-11T20:08:51Z"
+ },
+ {
+  "title_hash": "538ce793950f7e85",
+  "url": "https://www.dhakatribune.com/bangladesh/nation/419633/journalist-pulak-chatterjee%E2%80%99s-body-recovered-from",
+  "headline": "Journalist found dead at Samakal Barishal office, five notes recovered",
+  "topic": "journalist_pulak_chatterjee_death",
+  "source": "The Daily Star, Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-09-11T20:08:51Z"
  }
 ]
