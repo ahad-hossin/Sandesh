@@ -1,47 +1,5 @@
 [
  {
-  "title_hash": "524d2eac23651400",
-  "url": "https://www.prothomalo.com/world/india/c92p3r5xsu",
-  "headline": "5 students killed as student hostel collapses in New Delhi",
-  "topic": "delhi hostel collapse",
-  "source": "Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-06T18:06:32Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "965d25615474659b",
-  "url": "https://www.dhakatribune.com/bangladesh/crime/419250/criminals-run-amok-in-dhaka-shootings-and",
-  "headline": "Qatar-based youth killed in attack in Dhaka's Sabujbagh",
-  "topic": "dhaka violent crime spree",
-  "source": "Dhaka Tribune, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-06T19:06:03Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "080c4b572ee9a16b",
-  "url": "https://www.prothomalo.com/bangladesh/crime/f8bp1pygpc",
-  "headline": "Qatar-based youth killed in attack in Dhaka's Sabujbagh",
-  "topic": "dhaka violent crime spree",
-  "source": "Dhaka Tribune, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-06T19:06:03Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "c93e3423e736542d",
   "url": "https://www.dhakatribune.com/bangladesh/nation/419244/police-arrest-suspect-over-killing-of-sb",
   "headline": "5 arrested in death of SB SI in Savar",
@@ -8398,5 +8356,32 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "727c68734b8ba210",
+  "url": "https://www.jamuna.tv/all-bangladesh/663882",
+  "headline": "63 foreigners detained in Chittagong for running casino",
+  "topic": "foreigners-detained-chattogram-casino",
+  "source": "Jamuna TV",
+  "status": "queued",
+  "at": "2026-09-11T06:09:27Z"
+ },
+ {
+  "title_hash": "d84b6497e80c597e",
+  "url": "https://www.prothomalo.com/business/k2t9wzllxa",
+  "headline": "Gold prices drop by 2,158 taka per bhori in Bangladesh",
+  "topic": "gold-price-drop-bangladesh",
+  "source": "Prothom Alo, Jamuna TV",
+  "status": "queued",
+  "at": "2026-09-11T06:09:27Z"
+ },
+ {
+  "title_hash": "aaee58a833110dcf",
+  "url": "https://www.jamuna.tv/economy/663876",
+  "headline": "Gold prices drop by 2,158 taka per bhori in Bangladesh",
+  "topic": "gold-price-drop-bangladesh",
+  "source": "Prothom Alo, Jamuna TV",
+  "status": "queued",
+  "at": "2026-09-11T06:09:27Z"
  }
 ]
