@@ -1,33 +1,5 @@
 [
  {
-  "title_hash": "c3ebd45fe4451114",
-  "url": "https://www.thedailystar.net/news/bangladesh/rights/news/changing-rabs-name-alone-wont-bring-institutional-reform-tib-4266356",
-  "headline": "TIB warns new SRB force could become another Rab, citing lack of reform",
-  "topic": "tib rab srb reform warning",
-  "source": "Jamuna TV, The Daily Star, Dhaka Tribune, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-06T17:06:33Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "36891073a0fa3d39",
-  "url": "https://www.jamuna.tv/national/663596",
-  "headline": "TIB warns new SRB force could become another Rab, citing lack of reform",
-  "topic": "tib rab srb reform warning",
-  "source": "Jamuna TV, The Daily Star, Dhaka Tribune, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-06T17:06:33Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "b438aee8f6da83c8",
   "url": "https://www.dhakatribune.com/bangladesh/419233/tib-srb-risks-becoming-rab-under-new-name",
   "headline": "TIB warns new SRB force could become another Rab, citing lack of reform",
@@ -8398,5 +8370,23 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "5d23b4a281b899d4",
+  "url": "https://www.thedailystar.net/opinion/views/news/i-survived-enforced-disappearance-parliament-has-now-weakened-the-safeguards-4269831",
+  "headline": "Parliament weakened safeguards against enforced disappearance in new laws",
+  "topic": "Enforced disappearance safeguards weakened",
+  "source": "The Daily Star",
+  "status": "queued",
+  "at": "2026-09-11T04:07:50Z"
+ },
+ {
+  "title_hash": "b3ed89be799597ad",
+  "url": "https://www.prothomalo.com/business/economics/sop0y1q95b",
+  "headline": "NBR plans fixed monthly VAT for small traders, starting from ৳500",
+  "topic": "VAT on small businesses proposed",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-11T04:07:50Z"
  }
 ]
