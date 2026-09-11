@@ -1,33 +1,5 @@
 [
  {
-  "title_hash": "2ab7453ddce282a3",
-  "url": "https://www.dhakatribune.com/bangladesh/court/419222/chief-prosecutor-warns-of-sabotage-risk-in",
-  "headline": "Sheikh Hasina and 11 others charge-sheeted in Riazul murder case",
-  "topic": "sheikh hasina charge-sheeted riazul murder",
-  "source": "Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-09-06T15:07:15Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "83c9d488e049a542",
-  "url": "https://www.thedailystar.net/news/governance/parliament/news/enforced-disappearance-nhrc-bills-passed-amid-opposition-walkout-4266381",
-  "headline": "Opposition walkout as bills on enforced disappearance and NHRC passed",
-  "topic": "parliament opposition walkout disappearance bills",
-  "source": "The Daily Star, Dhaka Tribune, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-06T17:06:33Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "1533835b11e92c97",
   "url": "https://www.dhakatribune.com/bangladesh/parliament/419249/opposition-walks-out-over-%E2%80%98weakened%E2%80%99-rights",
   "headline": "Opposition walkout as bills on enforced disappearance and NHRC passed",
@@ -8398,5 +8370,23 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "b4abb168217ea0e2",
+  "url": "https://www.prothomalo.com/business/0swgd82e3j",
+  "headline": "Egg and chicken prices remain high, fish also costly; a dozen eggs at BDT 150",
+  "topic": "Egg chicken fish prices high",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-11T02:07:20Z"
+ },
+ {
+  "title_hash": "59c823ac30c4a305",
+  "url": "https://www.haal.fashion/lifestyle/well-being/7nqv2lpy2s",
+  "headline": "Adulteration fears cloud Bangladesh's sweet traditions, raising health concerns",
+  "topic": "Adulteration in sweets concern",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-11T02:07:20Z"
  }
 ]
