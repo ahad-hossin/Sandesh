@@ -8335,8 +8335,13 @@
   "headline": "Bangladesh bows out of Women's Asia Cup T20 after 40-run semi-final defeat to India",
   "topic": "Bangladesh Cricket Loss to India",
   "source": "Jamuna TV, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-11T00:08:53Z"
+  "status": "failed",
+  "at": "2026-09-11T00:08:53Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "f972823e7d7a3d93",
@@ -8344,8 +8349,13 @@
   "headline": "Bangladesh bows out of Women's Asia Cup T20 after 40-run semi-final defeat to India",
   "topic": "Bangladesh Cricket Loss to India",
   "source": "Jamuna TV, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-11T00:08:53Z"
+  "status": "failed",
+  "at": "2026-09-11T00:08:53Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "2c411d0783e2e6e2",
@@ -8353,8 +8363,13 @@
   "headline": "Dengue claims six lives in 24 hours, 1,492 new hospitalizations reported",
   "topic": "Dengue Toll 6 Deaths 1492 Hospitalized",
   "source": "Jamuna TV, Dhaka Tribune, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-11T00:08:53Z"
+  "status": "failed",
+  "at": "2026-09-11T00:08:53Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "314888a8277b2881",
@@ -8362,8 +8377,13 @@
   "headline": "Dengue claims six lives in 24 hours, 1,492 new hospitalizations reported",
   "topic": "Dengue Toll 6 Deaths 1492 Hospitalized",
   "source": "Jamuna TV, Dhaka Tribune, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-11T00:08:53Z"
+  "status": "failed",
+  "at": "2026-09-11T00:08:53Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "65c9cd717932ca50",
@@ -8371,7 +8391,12 @@
   "headline": "Dengue claims six lives in 24 hours, 1,492 new hospitalizations reported",
   "topic": "Dengue Toll 6 Deaths 1492 Hospitalized",
   "source": "Jamuna TV, Dhaka Tribune, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-11T00:08:53Z"
+  "status": "failed",
+  "at": "2026-09-11T00:08:53Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
