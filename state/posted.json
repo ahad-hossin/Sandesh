@@ -8363,8 +8363,13 @@
   "headline": "63 foreigners detained in Chittagong for running casino",
   "topic": "foreigners-detained-chattogram-casino",
   "source": "Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-11T06:09:27Z"
+  "status": "failed",
+  "at": "2026-09-11T06:09:27Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "d84b6497e80c597e",
@@ -8372,8 +8377,13 @@
   "headline": "Gold prices drop by 2,158 taka per bhori in Bangladesh",
   "topic": "gold-price-drop-bangladesh",
   "source": "Prothom Alo, Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-11T06:09:27Z"
+  "status": "failed",
+  "at": "2026-09-11T06:09:27Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "aaee58a833110dcf",
@@ -8381,7 +8391,12 @@
   "headline": "Gold prices drop by 2,158 taka per bhori in Bangladesh",
   "topic": "gold-price-drop-bangladesh",
   "source": "Prothom Alo, Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-11T06:09:27Z"
+  "status": "failed",
+  "at": "2026-09-11T06:09:27Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
