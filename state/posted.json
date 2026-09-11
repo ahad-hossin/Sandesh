@@ -1,75 +1,5 @@
 [
  {
-  "title_hash": "09aafd249142e419",
-  "url": "https://www.jamuna.tv/all-bangladesh/663632",
-  "headline": "8 more arrested for murder of Savar SI",
-  "topic": "savar police officer murder arrests",
-  "source": "Dhaka Tribune, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-07T09:07:20Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "c3f68c7dee456d4a",
-  "url": "https://www.prothomalo.com/bangladesh/crime/8rord5vm8m",
-  "headline": "8 more arrested for murder of Savar SI",
-  "topic": "savar police officer murder arrests",
-  "source": "Dhaka Tribune, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-07T09:07:20Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "7ab072a838386bab",
-  "url": "https://www.dhakatribune.com/bangladesh/419267/report-road-crashes-claim-481-lives-in-august",
-  "headline": "481 people killed in August road accidents, RSF report",
-  "topic": "august road accident deaths",
-  "source": "Dhaka Tribune, The Daily Star, Jamuna TV",
-  "status": "failed",
-  "at": "2026-09-07T10:09:02Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "23e6975f93a22cae",
-  "url": "https://www.thedailystar.net/news/accidents-and-fires/news/481-killed-august-road-accidents-rsf-4266936",
-  "headline": "481 people killed in August road accidents, RSF report",
-  "topic": "august road accident deaths",
-  "source": "Dhaka Tribune, The Daily Star, Jamuna TV",
-  "status": "failed",
-  "at": "2026-09-07T10:09:02Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "a7a5f4ab0999ab69",
-  "url": "https://www.jamuna.tv/national/663629",
-  "headline": "481 people killed in August road accidents, RSF report",
-  "topic": "august road accident deaths",
-  "source": "Dhaka Tribune, The Daily Star, Jamuna TV",
-  "status": "failed",
-  "at": "2026-09-07T10:09:02Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "6e21d66953846e5e",
   "url": "https://www.thedailystar.net/news/crime-justice/news/gazipur-court-rejects-bail-sifat-anti-terrorism-case-4266981",
   "headline": "Gazipur court rejects bail for Sifat in anti-terrorism case",
@@ -8398,5 +8328,50 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "b396887a416266be",
+  "url": "https://www.dhakatribune.com/bangladesh/crime/419630/woman%E2%80%99s-body-found-in-luggage-under-gazipur",
+  "headline": "Woman's dismembered body found in suitcase under Gazipur culvert",
+  "topic": "woman body found in suitcase",
+  "source": "Prothom Alo, Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-09-11T18:08:00Z"
+ },
+ {
+  "title_hash": "a9d865fa82f39e63",
+  "url": "https://www.prothomalo.com/bangladesh/district/i6fexns04g",
+  "headline": "Woman's dismembered body found in suitcase under Gazipur culvert",
+  "topic": "woman body found in suitcase",
+  "source": "Prothom Alo, Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-09-11T18:08:00Z"
+ },
+ {
+  "title_hash": "e172ba1766b8564c",
+  "url": "https://www.prothomalo.com/video/bangladesh/wqqa0tazb4",
+  "headline": "Woman's dismembered body found in suitcase under Gazipur culvert",
+  "topic": "woman body found in suitcase",
+  "source": "Prothom Alo, Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-09-11T18:08:00Z"
+ },
+ {
+  "title_hash": "538ce793950f7e85",
+  "url": "https://www.dhakatribune.com/bangladesh/nation/419633/journalist-pulak-chatterjee%E2%80%99s-body-recovered-from",
+  "headline": "Former Samakal bureau chief journalist found dead in Barisal office",
+  "topic": "journalist pulak chatterjee dead",
+  "source": "Dhaka Tribune, Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-11T18:08:00Z"
+ },
+ {
+  "title_hash": "cf883bc0b1dcce88",
+  "url": "https://www.prothomalo.com/bangladesh/district/dxxudug3sl",
+  "headline": "Former Samakal bureau chief journalist found dead in Barisal office",
+  "topic": "journalist pulak chatterjee dead",
+  "source": "Dhaka Tribune, Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-11T18:08:00Z"
  }
 ]
