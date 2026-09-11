@@ -8335,8 +8335,13 @@
   "headline": "Friend confesses to killing businessman over 3 lakh taka debt in Lalbagh",
   "topic": "lalbagh_businessman_murder",
   "source": "Prothom Alo, Jamuna TV, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-09-11T20:08:51Z"
+  "status": "failed",
+  "at": "2026-09-11T20:08:51Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "72be376a995c8427",
@@ -8344,8 +8349,13 @@
   "headline": "Friend confesses to killing businessman over 3 lakh taka debt in Lalbagh",
   "topic": "lalbagh_businessman_murder",
   "source": "Prothom Alo, Jamuna TV, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-09-11T20:08:51Z"
+  "status": "failed",
+  "at": "2026-09-11T20:08:51Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "45638a139555e6b2",
@@ -8353,8 +8363,13 @@
   "headline": "Friend confesses to killing businessman over 3 lakh taka debt in Lalbagh",
   "topic": "lalbagh_businessman_murder",
   "source": "Prothom Alo, Jamuna TV, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-09-11T20:08:51Z"
+  "status": "failed",
+  "at": "2026-09-11T20:08:51Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "69198820730d899c",
@@ -8362,8 +8377,13 @@
   "headline": "Journalist found dead at Samakal Barishal office, five notes recovered",
   "topic": "journalist_pulak_chatterjee_death",
   "source": "The Daily Star, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-09-11T20:08:51Z"
+  "status": "failed",
+  "at": "2026-09-11T20:08:51Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "538ce793950f7e85",
@@ -8371,7 +8391,12 @@
   "headline": "Journalist found dead at Samakal Barishal office, five notes recovered",
   "topic": "journalist_pulak_chatterjee_death",
   "source": "The Daily Star, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-09-11T20:08:51Z"
+  "status": "failed",
+  "at": "2026-09-11T20:08:51Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
