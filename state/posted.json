@@ -8335,8 +8335,13 @@
   "headline": "Tk 3 lakh debt: Businessman found buried beneath house in Lalbagh",
   "topic": "businessman buried under friend house lalbagh",
   "source": "Jamuna TV, Dhaka Tribune, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-11T10:08:59Z"
+  "status": "failed",
+  "at": "2026-09-11T10:08:59Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "45638a139555e6b2",
@@ -8344,8 +8349,13 @@
   "headline": "Tk 3 lakh debt: Businessman found buried beneath house in Lalbagh",
   "topic": "businessman buried under friend house lalbagh",
   "source": "Jamuna TV, Dhaka Tribune, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-11T10:08:59Z"
+  "status": "failed",
+  "at": "2026-09-11T10:08:59Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "35aabf5a2c3789b5",
@@ -8353,8 +8363,13 @@
   "headline": "Tk 3 lakh debt: Businessman found buried beneath house in Lalbagh",
   "topic": "businessman buried under friend house lalbagh",
   "source": "Jamuna TV, Dhaka Tribune, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-11T10:08:59Z"
+  "status": "failed",
+  "at": "2026-09-11T10:08:59Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "cc1b5c67c98a2849",
@@ -8362,8 +8377,13 @@
   "headline": "Green chilies hit 160 BDT/kg as essential food prices spike in Dhaka",
   "topic": "dhaka food price spike",
   "source": "Dhaka Tribune, Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-11T10:08:59Z"
+  "status": "failed",
+  "at": "2026-09-11T10:08:59Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "795d7e28464eabc7",
@@ -8371,7 +8391,12 @@
   "headline": "Green chilies hit 160 BDT/kg as essential food prices spike in Dhaka",
   "topic": "dhaka food price spike",
   "source": "Dhaka Tribune, Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-11T10:08:59Z"
+  "status": "failed",
+  "at": "2026-09-11T10:08:59Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
