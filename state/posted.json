@@ -1,47 +1,5 @@
 [
  {
-  "title_hash": "1533835b11e92c97",
-  "url": "https://www.dhakatribune.com/bangladesh/parliament/419249/opposition-walks-out-over-%E2%80%98weakened%E2%80%99-rights",
-  "headline": "Opposition walkout as bills on enforced disappearance and NHRC passed",
-  "topic": "parliament opposition walkout disappearance bills",
-  "source": "The Daily Star, Dhaka Tribune, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-06T17:06:33Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "53df83d84221fb6d",
-  "url": "https://www.thedailystar.net/news/governance/parliament/news/opposition-walks-out-over-nhrc-bill-alleges-unequal-rules-rights-violations-4266351",
-  "headline": "Opposition walkout as bills on enforced disappearance and NHRC passed",
-  "topic": "parliament opposition walkout disappearance bills",
-  "source": "The Daily Star, Dhaka Tribune, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-06T17:06:33Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "9bc85d1127057535",
-  "url": "https://www.prothomalo.com/politics/n7693dj5ef",
-  "headline": "Opposition walkout as bills on enforced disappearance and NHRC passed",
-  "topic": "parliament opposition walkout disappearance bills",
-  "source": "The Daily Star, Dhaka Tribune, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-06T17:06:33Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "c3ebd45fe4451114",
   "url": "https://www.thedailystar.net/news/bangladesh/rights/news/changing-rabs-name-alone-wont-bring-institutional-reform-tib-4266356",
   "headline": "TIB warns new SRB force could become another Rab, citing lack of reform",
@@ -8398,5 +8356,32 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "b35f2b1d1ae94ad7",
+  "url": "https://www.thedailystar.net/news/world/news/putin-reaches-india-brics-summit-coloured-wars-4270151",
+  "headline": "Putin arrives in India for BRICS summit dominated by wars and economic challenges",
+  "topic": "BRICS Summit India",
+  "source": "Jamuna TV, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-11T03:07:04Z"
+ },
+ {
+  "title_hash": "196321836f416d74",
+  "url": "https://www.jamuna.tv/international/663869",
+  "headline": "Putin arrives in India for BRICS summit dominated by wars and economic challenges",
+  "topic": "BRICS Summit India",
+  "source": "Jamuna TV, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-11T03:07:04Z"
+ },
+ {
+  "title_hash": "191863abd2ad3128",
+  "url": "https://www.jamuna.tv/all-bangladesh/663871",
+  "headline": "Padma River water rises due to upstream flow, low-lying areas of Kushtia flooded",
+  "topic": "Padma River Flooding Kushtia",
+  "source": "Jamuna TV",
+  "status": "queued",
+  "at": "2026-09-11T03:07:04Z"
  }
 ]
