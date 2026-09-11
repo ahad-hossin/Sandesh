@@ -8335,8 +8335,13 @@
   "headline": "2 killed, 1 injured in tank-firing accident; PM Tarique Rahman visits injured officer",
   "topic": "pm visits injured army officer",
   "source": "Dhaka Tribune, The Daily Star, Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-11T12:08:48Z"
+  "status": "failed",
+  "at": "2026-09-11T12:08:48Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "57f025cb2207465f",
@@ -8344,8 +8349,13 @@
   "headline": "2 killed, 1 injured in tank-firing accident; PM Tarique Rahman visits injured officer",
   "topic": "pm visits injured army officer",
   "source": "Dhaka Tribune, The Daily Star, Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-11T12:08:48Z"
+  "status": "failed",
+  "at": "2026-09-11T12:08:48Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "be95d1324b408b11",
@@ -8353,8 +8363,13 @@
   "headline": "2 killed, 1 injured in tank-firing accident; PM Tarique Rahman visits injured officer",
   "topic": "pm visits injured army officer",
   "source": "Dhaka Tribune, The Daily Star, Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-11T12:08:48Z"
+  "status": "failed",
+  "at": "2026-09-11T12:08:48Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "6ec6ad55ac05ddec",
@@ -8362,8 +8377,13 @@
   "headline": "2 held as crude bombs explode during AL procession in Gulshan",
   "topic": "al procession gulshan clash",
   "source": "Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-11T12:08:48Z"
+  "status": "failed",
+  "at": "2026-09-11T12:08:48Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "82b9e8c0e346eb51",
@@ -8371,7 +8391,12 @@
   "headline": "2 held as crude bombs explode during AL procession in Gulshan",
   "topic": "al procession gulshan clash",
   "source": "Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-11T12:08:48Z"
+  "status": "failed",
+  "at": "2026-09-11T12:08:48Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
