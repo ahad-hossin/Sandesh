@@ -8335,8 +8335,13 @@
   "headline": "New documentary \"NAZA\" on Gaza killings receives 25-minute standing ovation at Venice Film Festival",
   "topic": "gaza killings documentary venice",
   "source": "Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-11T08:08:59Z"
+  "status": "failed",
+  "at": "2026-09-11T08:08:59Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "0f3506c0685d044f",
@@ -8344,8 +8349,13 @@
   "headline": "New documentary \"NAZA\" on Gaza killings receives 25-minute standing ovation at Venice Film Festival",
   "topic": "gaza killings documentary venice",
   "source": "Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-11T08:08:59Z"
+  "status": "failed",
+  "at": "2026-09-11T08:08:59Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "5c1ab77a53bff75c",
@@ -8353,8 +8363,13 @@
   "headline": "New documentary \"NAZA\" on Gaza killings receives 25-minute standing ovation at Venice Film Festival",
   "topic": "gaza killings documentary venice",
   "source": "Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-11T08:08:59Z"
+  "status": "failed",
+  "at": "2026-09-11T08:08:59Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "1dfc9caef3ff4bee",
@@ -8362,8 +8377,13 @@
   "headline": "Technical fault: Adani Godda unit shut down, adding pressure to BD grid",
   "topic": "adani power plant fault load shedding",
   "source": "The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-11T08:08:59Z"
+  "status": "failed",
+  "at": "2026-09-11T08:08:59Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "f09b3bf33f2b3749",
@@ -8371,7 +8391,12 @@
   "headline": "Technical fault: Adani Godda unit shut down, adding pressure to BD grid",
   "topic": "adani power plant fault load shedding",
   "source": "The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-11T08:08:59Z"
+  "status": "failed",
+  "at": "2026-09-11T08:08:59Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
