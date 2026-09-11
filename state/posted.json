@@ -8377,8 +8377,13 @@
   "headline": "Parliament weakened safeguards against enforced disappearance in new laws",
   "topic": "Enforced disappearance safeguards weakened",
   "source": "The Daily Star",
-  "status": "queued",
-  "at": "2026-09-11T04:07:50Z"
+  "status": "failed",
+  "at": "2026-09-11T04:07:50Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "b3ed89be799597ad",
@@ -8386,7 +8391,12 @@
   "headline": "NBR plans fixed monthly VAT for small traders, starting from ৳500",
   "topic": "VAT on small businesses proposed",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-11T04:07:50Z"
+  "status": "failed",
+  "at": "2026-09-11T04:07:50Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
