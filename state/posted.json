@@ -1,47 +1,5 @@
 [
  {
-  "title_hash": "b438aee8f6da83c8",
-  "url": "https://www.dhakatribune.com/bangladesh/419233/tib-srb-risks-becoming-rab-under-new-name",
-  "headline": "TIB warns new SRB force could become another Rab, citing lack of reform",
-  "topic": "tib rab srb reform warning",
-  "source": "Jamuna TV, The Daily Star, Dhaka Tribune, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-06T17:06:33Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "836679efb866979d",
-  "url": "https://www.prothomalo.com/bangladesh/sn3sb0ji4m",
-  "headline": "TIB warns new SRB force could become another Rab, citing lack of reform",
-  "topic": "tib rab srb reform warning",
-  "source": "Jamuna TV, The Daily Star, Dhaka Tribune, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-06T17:06:33Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "965d25615474659b",
-  "url": "https://www.dhakatribune.com/bangladesh/crime/419250/criminals-run-amok-in-dhaka-shootings-and",
-  "headline": "Dhaka: Criminals run amok with shootings and killings over trivial incidents",
-  "topic": "dhaka crime wave",
-  "source": "Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-09-06T18:06:32Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "524d2eac23651400",
   "url": "https://www.prothomalo.com/world/india/c92p3r5xsu",
   "headline": "5 students killed as student hostel collapses in New Delhi",
@@ -8398,5 +8356,32 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "9eb7ed8001bac199",
+  "url": "https://www.dhakatribune.com/bangladesh/people/419574/children%E2%80%99s-author-amirul-islam-dies-at-62",
+  "headline": "Children's author Amirul Islam dies at 62",
+  "topic": "childrens author amirul islam dies",
+  "source": "Dhaka Tribune, Jamuna TV",
+  "status": "queued",
+  "at": "2026-09-11T05:08:21Z"
+ },
+ {
+  "title_hash": "6a45c91abbae3bb4",
+  "url": "https://www.jamuna.tv/art-and-literature/663872",
+  "headline": "Children's author Amirul Islam dies at 62",
+  "topic": "childrens author amirul islam dies",
+  "source": "Dhaka Tribune, Jamuna TV",
+  "status": "queued",
+  "at": "2026-09-11T05:08:21Z"
+ },
+ {
+  "title_hash": "2ce19ee0a2acedce",
+  "url": "https://www.dhakatribune.com/bangladesh/419572/47-bangladeshis-return-through-benapole-after-2",
+  "headline": "47 Bangladeshis return through Benapole after 2 years in Indian prison",
+  "topic": "bangladeshis return from indian prison",
+  "source": "Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-09-11T05:08:21Z"
  }
 ]
