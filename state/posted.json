@@ -8349,8 +8349,13 @@
   "headline": "2 army personnel killed, 1 injured in tank-firing accident during field exercise",
   "topic": "pm visits injured army officer",
   "source": "Jamuna TV, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-11T11:08:47Z"
+  "status": "failed",
+  "at": "2026-09-11T11:08:47Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "be95d1324b408b11",
@@ -8358,8 +8363,13 @@
   "headline": "2 army personnel killed, 1 injured in tank-firing accident during field exercise",
   "topic": "pm visits injured army officer",
   "source": "Jamuna TV, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-11T11:08:47Z"
+  "status": "failed",
+  "at": "2026-09-11T11:08:47Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "affe882509ed49e3",
@@ -8367,8 +8377,13 @@
   "headline": "Asif Mahmud sends legal notice to ACC official over graft remarks",
   "topic": "asif mahmud legal notice acc",
   "source": "Jamuna TV, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-09-11T11:08:47Z"
+  "status": "failed",
+  "at": "2026-09-11T11:08:47Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "5c9f38d411c96aaa",
@@ -8376,7 +8391,12 @@
   "headline": "Asif Mahmud sends legal notice to ACC official over graft remarks",
   "topic": "asif mahmud legal notice acc",
   "source": "Jamuna TV, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-09-11T11:08:47Z"
+  "status": "failed",
+  "at": "2026-09-11T11:08:47Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
