@@ -8335,8 +8335,13 @@
   "headline": "Looted police pistol and ammunition found in Narayanganj mosque",
   "topic": "looted police weapons found in narayanganj mosque",
   "source": "Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-12T15:09:13Z"
+  "status": "failed",
+  "at": "2026-09-12T15:09:13Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "7f784dc9da9a8edf",
@@ -8344,8 +8349,13 @@
   "headline": "Looted police pistol and ammunition found in Narayanganj mosque",
   "topic": "looted police weapons found in narayanganj mosque",
   "source": "Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-12T15:09:13Z"
+  "status": "failed",
+  "at": "2026-09-12T15:09:13Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "86455b9c5c2dedf5",
@@ -8353,8 +8363,13 @@
   "headline": "3 bodies recovered after 4 swept away in Shitalakshya River in Narsingdi",
   "topic": "bodies recovered from shitalakshya river",
   "source": "Jamuna TV, Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-12T15:09:13Z"
+  "status": "failed",
+  "at": "2026-09-12T15:09:13Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "63003570e26c7f47",
@@ -8362,8 +8377,13 @@
   "headline": "3 bodies recovered after 4 swept away in Shitalakshya River in Narsingdi",
   "topic": "bodies recovered from shitalakshya river",
   "source": "Jamuna TV, Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-12T15:09:13Z"
+  "status": "failed",
+  "at": "2026-09-12T15:09:13Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "5f18180690591683",
@@ -8371,7 +8391,12 @@
   "headline": "3 bodies recovered after 4 swept away in Shitalakshya River in Narsingdi",
   "topic": "bodies recovered from shitalakshya river",
   "source": "Jamuna TV, Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-12T15:09:13Z"
+  "status": "failed",
+  "at": "2026-09-12T15:09:13Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
