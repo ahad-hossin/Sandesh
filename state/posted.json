@@ -8321,8 +8321,13 @@
   "headline": "32 arrested over Awami League procession in Gulshan",
   "topic": "al-procession-gulshan-arrests",
   "source": "The Daily Star, Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-12T09:07:45Z"
+  "status": "failed",
+  "at": "2026-09-12T09:07:45Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "fdf24dcbf868eac5",
@@ -8330,8 +8335,13 @@
   "headline": "32 arrested over Awami League procession in Gulshan",
   "topic": "al-procession-gulshan-arrests",
   "source": "The Daily Star, Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-12T09:07:45Z"
+  "status": "failed",
+  "at": "2026-09-12T09:07:45Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "a40b8b22446e0ed6",
@@ -8339,8 +8349,13 @@
   "headline": "32 arrested over Awami League procession in Gulshan",
   "topic": "al-procession-gulshan-arrests",
   "source": "The Daily Star, Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-12T09:07:45Z"
+  "status": "failed",
+  "at": "2026-09-12T09:07:45Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "d89b5003c25af958",
@@ -8348,8 +8363,13 @@
   "headline": "32 arrested over Awami League procession in Gulshan",
   "topic": "al-procession-gulshan-arrests",
   "source": "The Daily Star, Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-12T09:07:45Z"
+  "status": "failed",
+  "at": "2026-09-12T09:07:45Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "9fd700eed77dd566",
@@ -8357,8 +8377,13 @@
   "headline": "Govt to align Bangla and English-medium curricula for common standards",
   "topic": "english-medium-curriculum-alignment",
   "source": "The Daily Star, Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-12T09:07:45Z"
+  "status": "failed",
+  "at": "2026-09-12T09:07:45Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "b2ba7ab1b4a450d4",
@@ -8366,7 +8391,12 @@
   "headline": "Govt to align Bangla and English-medium curricula for common standards",
   "topic": "english-medium-curriculum-alignment",
   "source": "The Daily Star, Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-12T09:07:45Z"
+  "status": "failed",
+  "at": "2026-09-12T09:07:45Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
