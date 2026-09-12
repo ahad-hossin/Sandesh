@@ -1,47 +1,5 @@
 [
  {
-  "title_hash": "9a94e21627dabc85",
-  "url": "https://www.thedailystar.net/sports/cricket/news/we-should-win-tigresses-face-do-or-die-uae-clash-india-semifinal-4267531",
-  "headline": "Asia Cup: Tigresses face do-or-die UAE clash for semifinal spot",
-  "topic": "tigresses face do-or-die UAE clash for Asia Cup semifinal",
-  "source": "The Daily Star",
-  "status": "failed",
-  "at": "2026-09-07T20:08:20Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "d7051eac795e189f",
-  "url": "https://www.dhakatribune.com/bangladesh/crime/419311/dmch-doctor-assault-two-accused-placed-on-3-day",
-  "headline": "Two more accused placed on 3-day remand in DMCH doctor assault case",
-  "topic": "DMCH doctor assault: two accused placed on 3-day remand",
-  "source": "Prothom Alo, Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-09-07T20:08:20Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "4f61ab724e99c2e3",
-  "url": "https://www.prothomalo.com/bangladesh/kjs0663rpb",
-  "headline": "Two more accused placed on 3-day remand in DMCH doctor assault case",
-  "topic": "DMCH doctor assault: two accused placed on 3-day remand",
-  "source": "Prothom Alo, Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-09-07T20:08:20Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "e30f797b9ec86a8b",
   "url": "https://www.dhakatribune.com/bangladesh/crime/419323/extortion-squeezes-dhaka%E2%80%99s-small-traders",
   "headline": "Dhaka small traders squeezed by extortion from criminal groups",
@@ -8398,5 +8356,32 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "0fdbd9ee19b02b0f",
+  "url": "https://www.thedailystar.net/news/power-and-energy/news/gas-supply-improve-within-5-7-days-says-pm-tarique-4270466",
+  "headline": "Gas supply to improve within 5-7 days, says PM Tarique Rahman",
+  "topic": "PM Tarique gas supply",
+  "source": "The Daily Star",
+  "status": "queued",
+  "at": "2026-09-12T01:06:10Z"
+ },
+ {
+  "title_hash": "b640705e6f816e54",
+  "url": "https://www.thedailystar.net/news/bangladesh/news/gas-situation-improve-further-week-pm-4270576",
+  "headline": "Gas supply to improve within 5-7 days, says PM Tarique Rahman",
+  "topic": "PM Tarique gas supply",
+  "source": "The Daily Star",
+  "status": "queued",
+  "at": "2026-09-12T01:06:10Z"
+ },
+ {
+  "title_hash": "75e583a2d1a8cfaf",
+  "url": "https://www.thedailystar.net/news/crime-justice/news/tangail-madrasa-teacher-sent-jail-case-over-alleged-sexual-assault-child-4270536",
+  "headline": "Tangail madrasa teacher sent to jail over alleged sexual assault of 10-year-old student",
+  "topic": "Tangail madrasa teacher assault",
+  "source": "The Daily Star",
+  "status": "queued",
+  "at": "2026-09-12T01:06:10Z"
  }
 ]
