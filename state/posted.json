@@ -1,33 +1,5 @@
 [
  {
-  "title_hash": "927fcafdaee35d8f",
-  "url": "https://www.prothomalo.com/video/bangladesh/1px81qnwwi",
-  "headline": "Actor Azmeri Haque Badhon assaulted and harassed in Italy by Bengali youths",
-  "topic": "azmeri haque badhon attack venice",
-  "source": "Dhaka Tribune, Jamuna TV, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-08T12:08:24Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "648df56375dc6479",
-  "url": "https://www.jamuna.tv/national/663677",
-  "headline": "Actor Azmeri Haque Badhon assaulted and harassed in Italy by Bengali youths",
-  "topic": "azmeri haque badhon attack venice",
-  "source": "Dhaka Tribune, Jamuna TV, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-08T12:08:24Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "b7183f7183b92a35",
   "url": "https://www.thedailystar.net/culture/tv-film/news/azmeri-haque-badhon-assaulted-harassed-italy-4267656",
   "headline": "Actor Azmeri Haque Badhon assaulted and harassed in Italy by Bengali youths",
@@ -8398,5 +8370,23 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "7ecb663f6b7df403",
+  "url": "https://www.thedailystar.net/news/healthcare/disease/news/7-more-die-measles-symptoms-24-hours-4271076",
+  "headline": "7 more die as measles-related deaths hit 1,019 this year",
+  "topic": "measles outbreak death toll rises",
+  "source": "The Daily Star",
+  "status": "queued",
+  "at": "2026-09-12T17:07:35Z"
+ },
+ {
+  "title_hash": "b3f70545ddd11eb4",
+  "url": "https://www.thedailystar.net/news/healthcare/disease/news/dengue-cases-cross-50000-mark-4271051",
+  "headline": "50,000+ cases: Dengue infections surge past 50,000 in Bangladesh",
+  "topic": "dengue cases cross 50000 mark",
+  "source": "The Daily Star",
+  "status": "queued",
+  "at": "2026-09-12T17:07:35Z"
  }
 ]
