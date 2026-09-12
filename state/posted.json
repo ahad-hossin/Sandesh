@@ -1,75 +1,5 @@
 [
  {
-  "title_hash": "201455a3afc94097",
-  "url": "https://www.jamuna.tv/national/663708",
-  "headline": "Govt to launch 3-month special campaign to prevent dengue starting Saturday",
-  "topic": "three-month nationwide dengue prevention campaign",
-  "source": "Jamuna TV, Dhaka Tribune, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-08T11:09:10Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "de548351f3bf4a18",
-  "url": "https://www.thedailystar.net/news/healthcare/disease/news/three-month-special-dengue-prevention-drive-begin-sept-12-4267771",
-  "headline": "Govt to launch 3-month special campaign to prevent dengue starting Saturday",
-  "topic": "three-month nationwide dengue prevention campaign",
-  "source": "Jamuna TV, Dhaka Tribune, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-08T11:09:10Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "9fa3fff8e951c50c",
-  "url": "https://www.dhakatribune.com/bangladesh/419345/ncp-strongly-condemns-attack-on-badhon-in-venice",
-  "headline": "Actor Azmeri Haque Badhon assaulted and harassed in Italy by Bengali youths",
-  "topic": "azmeri haque badhon attack venice",
-  "source": "Dhaka Tribune, Jamuna TV, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-08T12:08:24Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "67bdc9c15a6e5305",
-  "url": "https://www.dhakatribune.com/bangladesh/419334/zahed-legal-action-to-be-taken-over-attack-on",
-  "headline": "Actor Azmeri Haque Badhon assaulted and harassed in Italy by Bengali youths",
-  "topic": "azmeri haque badhon attack venice",
-  "source": "Dhaka Tribune, Jamuna TV, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-08T12:08:24Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "51b79e19ad799980",
-  "url": "https://www.jamuna.tv/national/663700",
-  "headline": "Actor Azmeri Haque Badhon assaulted and harassed in Italy by Bengali youths",
-  "topic": "azmeri haque badhon attack venice",
-  "source": "Dhaka Tribune, Jamuna TV, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-08T12:08:24Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "d2f213abcbfc8b2c",
   "url": "https://www.prothomalo.com/video/bangladesh/u6kckue1zz",
   "headline": "Actor Azmeri Haque Badhon assaulted and harassed in Italy by Bengali youths",
@@ -8398,5 +8328,50 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "4f2f1896d2157ac1",
+  "url": "https://www.thedailystar.net/news/crime-justice/news/july-uprising-looted-police-pistol-bullets-found-narayanganj-mosque-4271031",
+  "headline": "Looted police pistol and ammunition found in Narayanganj mosque",
+  "topic": "looted police weapons found in narayanganj mosque",
+  "source": "Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-12T15:09:13Z"
+ },
+ {
+  "title_hash": "7f784dc9da9a8edf",
+  "url": "https://www.prothomalo.com/bangladesh/district/txusk5ih86",
+  "headline": "Looted police pistol and ammunition found in Narayanganj mosque",
+  "topic": "looted police weapons found in narayanganj mosque",
+  "source": "Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-12T15:09:13Z"
+ },
+ {
+  "title_hash": "86455b9c5c2dedf5",
+  "url": "https://www.thedailystar.net/news/accidents-and-fires/news/three-bodies-recovered-after-four-swept-away-shitalakshya-4270926",
+  "headline": "3 bodies recovered after 4 swept away in Shitalakshya River in Narsingdi",
+  "topic": "bodies recovered from shitalakshya river",
+  "source": "Jamuna TV, Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-12T15:09:13Z"
+ },
+ {
+  "title_hash": "63003570e26c7f47",
+  "url": "https://www.jamuna.tv/all-bangladesh/663981",
+  "headline": "3 bodies recovered after 4 swept away in Shitalakshya River in Narsingdi",
+  "topic": "bodies recovered from shitalakshya river",
+  "source": "Jamuna TV, Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-12T15:09:13Z"
+ },
+ {
+  "title_hash": "5f18180690591683",
+  "url": "https://www.prothomalo.com/video/bangladesh/l94xjcd4bw",
+  "headline": "3 bodies recovered after 4 swept away in Shitalakshya River in Narsingdi",
+  "topic": "bodies recovered from shitalakshya river",
+  "source": "Jamuna TV, Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-12T15:09:13Z"
  }
 ]
