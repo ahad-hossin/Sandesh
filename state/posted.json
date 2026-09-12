@@ -8363,8 +8363,13 @@
   "headline": "8 Juba League leaders arrested in Dhaka's Uttara Khan during secret meeting",
   "topic": "al-leaders-arrested-dhaka",
   "source": "Jamuna TV, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-09-12T20:07:20Z"
+  "status": "failed",
+  "at": "2026-09-12T20:07:20Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "05df3f94f60afc88",
@@ -8372,8 +8377,13 @@
   "headline": "8 Juba League leaders arrested in Dhaka's Uttara Khan during secret meeting",
   "topic": "al-leaders-arrested-dhaka",
   "source": "Jamuna TV, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-09-12T20:07:20Z"
+  "status": "failed",
+  "at": "2026-09-12T20:07:20Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "212ae929f53f5de7",
@@ -8381,7 +8391,12 @@
   "headline": "BSF shoots Bangladeshi killed, 2 detained at Thakurgaon border",
   "topic": "bsf-shooting-bangladeshi-killed",
   "source": "Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-12T20:07:20Z"
+  "status": "failed",
+  "at": "2026-09-12T20:07:20Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
