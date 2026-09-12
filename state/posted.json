@@ -8349,8 +8349,13 @@
   "headline": "Madrasa teacher jailed in Tangail for alleged sexual assault of 10-year-old student",
   "topic": "Tangail madrasa teacher child assault",
   "source": "The Daily Star",
-  "status": "queued",
-  "at": "2026-09-12T00:07:24Z"
+  "status": "failed",
+  "at": "2026-09-12T00:07:24Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "f32706e125894282",
@@ -8358,8 +8363,13 @@
   "headline": "Yemen's Houthis seize Bab al-Mandab Strait and Red Sea islands, impacting global trade",
   "topic": "Houthi control Bab el-Mandeb",
   "source": "Jamuna TV, Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-12T00:07:24Z"
+  "status": "failed",
+  "at": "2026-09-12T00:07:24Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "cbf65fee6dc68d8f",
@@ -8367,8 +8377,13 @@
   "headline": "Yemen's Houthis seize Bab al-Mandab Strait and Red Sea islands, impacting global trade",
   "topic": "Houthi control Bab el-Mandeb",
   "source": "Jamuna TV, Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-12T00:07:24Z"
+  "status": "failed",
+  "at": "2026-09-12T00:07:24Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "9b9852b79282628c",
@@ -8376,7 +8391,12 @@
   "headline": "Yemen's Houthis seize Bab al-Mandab Strait and Red Sea islands, impacting global trade",
   "topic": "Houthi control Bab el-Mandeb",
   "source": "Jamuna TV, Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-12T00:07:24Z"
+  "status": "failed",
+  "at": "2026-09-12T00:07:24Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
