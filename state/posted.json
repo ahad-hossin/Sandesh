@@ -1,47 +1,5 @@
 [
  {
-  "title_hash": "33c3a0cf9ff5af0f",
-  "url": "https://www.prothomalo.com/world/europe/q4ec11vbtz",
-  "headline": "UK to ban trade with illegal Israeli settlements",
-  "topic": "uk ban israeli settlements trade",
-  "source": "Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-07T23:18:04Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "ac4562927373b977",
-  "url": "https://www.jamuna.tv/all-bangladesh/663676",
-  "headline": "Tk 601.79 crore Khulna City Corporation announces budget for current fiscal year",
-  "topic": "khulna city budget",
-  "source": "Jamuna TV",
-  "status": "failed",
-  "at": "2026-09-07T23:18:04Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "afda8e9c44170acb",
-  "url": "https://www.prothomalo.com/bangladesh/capital/07wfj8ioj7",
-  "headline": "Two drown in pond at Jagannath University's second campus in Keraniganj",
-  "topic": "Jagannath University Drowning",
-  "source": "Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-08T00:07:32Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "c2322ceec2a42af9",
   "url": "https://www.dhakatribune.com/bangladesh/nation/419316/kcc-announces-tk-601.79cr-budget-for-fy-2026-27",
   "headline": "KCC announces Tk 601.79cr budget for FY 2026-27",
@@ -8398,5 +8356,32 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "3077469aec4edbcc",
+  "url": "https://www.jamuna.tv/national/663919",
+  "headline": "PM seeks nationwide cooperation to combat Dengue; 15 districts at high risk",
+  "topic": "PM urges cooperation on dengue",
+  "source": "Jamuna TV, Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-12T04:06:41Z"
+ },
+ {
+  "title_hash": "a41570a1331a6931",
+  "url": "https://www.prothomalo.com/bangladesh/vh5rvjg3f8",
+  "headline": "PM seeks nationwide cooperation to combat Dengue; 15 districts at high risk",
+  "topic": "PM urges cooperation on dengue",
+  "source": "Jamuna TV, Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-12T04:06:41Z"
+ },
+ {
+  "title_hash": "eada1690219f1f44",
+  "url": "https://www.dhakatribune.com/bangladesh/dhaka/419639/dhaka-3rd-most-polluted-city-in-the-world-saturday",
+  "headline": "Dhaka 3rd most polluted city in the world Saturday morning",
+  "topic": "Dhaka 3rd most polluted city",
+  "source": "Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-09-12T04:06:41Z"
  }
 ]
