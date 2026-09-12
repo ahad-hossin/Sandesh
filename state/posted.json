@@ -8349,8 +8349,13 @@
   "headline": "Crude bombs explode during AL procession in Gulshan, 2 arrested",
   "topic": "Gulshan political rallies and bombs",
   "source": "Jamuna TV, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-12T02:07:04Z"
+  "status": "failed",
+  "at": "2026-09-12T02:07:04Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "f6ba63c84ce3bb29",
@@ -8358,8 +8363,13 @@
   "headline": "Crude bombs explode during AL procession in Gulshan, 2 arrested",
   "topic": "Gulshan political rallies and bombs",
   "source": "Jamuna TV, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-12T02:07:04Z"
+  "status": "failed",
+  "at": "2026-09-12T02:07:04Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "2e0a9d7f61766652",
@@ -8367,8 +8377,13 @@
   "headline": "Dengue spreads amid weak mosquito control nationwide, 15 districts at high risk",
   "topic": "Dengue risk in 15 districts",
   "source": "Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-12T02:07:04Z"
+  "status": "failed",
+  "at": "2026-09-12T02:07:04Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "a41570a1331a6931",
@@ -8376,7 +8391,12 @@
   "headline": "Dengue spreads amid weak mosquito control nationwide, 15 districts at high risk",
   "topic": "Dengue risk in 15 districts",
   "source": "Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-12T02:07:04Z"
+  "status": "failed",
+  "at": "2026-09-12T02:07:04Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
