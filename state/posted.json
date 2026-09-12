@@ -1,61 +1,5 @@
 [
  {
-  "title_hash": "e64d9a3d1cb0cee4",
-  "url": "https://www.jamuna.tv/national/663671",
-  "headline": "Widow of July martyr claims daughter raped and died by suicide after she testified",
-  "topic": "july uprising victim daughter raped",
-  "source": "Jamuna TV, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-07T18:08:32Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "766d59b14fb8b523",
-  "url": "https://www.prothomalo.com/bangladesh/fd3jy3n57b",
-  "headline": "Widow of July martyr claims daughter raped and died by suicide after she testified",
-  "topic": "july uprising victim daughter raped",
-  "source": "Jamuna TV, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-07T18:08:32Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "e30f797b9ec86a8b",
-  "url": "https://www.dhakatribune.com/bangladesh/crime/419323/extortion-squeezes-dhaka%E2%80%99s-small-traders",
-  "headline": "Dhaka small traders squeezed by extortion from criminal groups",
-  "topic": "dhaka extortion small traders",
-  "source": "Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-09-07T18:08:32Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "a453180a09dfbf32",
-  "url": "https://www.dhakatribune.com/bangladesh/dhaka/419322/mirpur-businesses-squeezed-by-multiple-criminal",
-  "headline": "Dhaka small traders squeezed by extortion from criminal groups",
-  "topic": "dhaka extortion small traders",
-  "source": "Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-09-07T18:08:32Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "9a94e21627dabc85",
   "url": "https://www.thedailystar.net/sports/cricket/news/we-should-win-tigresses-face-do-or-die-uae-clash-india-semifinal-4267531",
   "headline": "Asia Cup: Tigresses face do-or-die UAE clash for semifinal spot",
@@ -8398,5 +8342,41 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "75e583a2d1a8cfaf",
+  "url": "https://www.thedailystar.net/news/crime-justice/news/tangail-madrasa-teacher-sent-jail-case-over-alleged-sexual-assault-child-4270536",
+  "headline": "Madrasa teacher jailed in Tangail for alleged sexual assault of 10-year-old student",
+  "topic": "Tangail madrasa teacher child assault",
+  "source": "The Daily Star",
+  "status": "queued",
+  "at": "2026-09-12T00:07:24Z"
+ },
+ {
+  "title_hash": "f32706e125894282",
+  "url": "https://www.thedailystar.net/news/world/news/all-can-pass-except-saudis-4270631",
+  "headline": "Yemen's Houthis seize Bab al-Mandab Strait and Red Sea islands, impacting global trade",
+  "topic": "Houthi control Bab el-Mandeb",
+  "source": "Jamuna TV, Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-12T00:07:24Z"
+ },
+ {
+  "title_hash": "cbf65fee6dc68d8f",
+  "url": "https://www.jamuna.tv/international/663911",
+  "headline": "Yemen's Houthis seize Bab al-Mandab Strait and Red Sea islands, impacting global trade",
+  "topic": "Houthi control Bab el-Mandeb",
+  "source": "Jamuna TV, Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-12T00:07:24Z"
+ },
+ {
+  "title_hash": "9b9852b79282628c",
+  "url": "https://www.prothomalo.com/world/middle-east/6wn7mzu7xm",
+  "headline": "Yemen's Houthis seize Bab al-Mandab Strait and Red Sea islands, impacting global trade",
+  "topic": "Houthi control Bab el-Mandeb",
+  "source": "Jamuna TV, Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-12T00:07:24Z"
  }
 ]
