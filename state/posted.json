@@ -1,61 +1,5 @@
 [
  {
-  "title_hash": "c2322ceec2a42af9",
-  "url": "https://www.dhakatribune.com/bangladesh/nation/419316/kcc-announces-tk-601.79cr-budget-for-fy-2026-27",
-  "headline": "KCC announces Tk 601.79cr budget for FY 2026-27",
-  "topic": "Khulna City Budget Announcement",
-  "source": "Jamuna TV, Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-09-08T00:07:32Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "ac4562927373b977",
-  "url": "https://www.jamuna.tv/all-bangladesh/663676",
-  "headline": "KCC announces Tk 601.79cr budget for FY 2026-27",
-  "topic": "Khulna City Budget Announcement",
-  "source": "Jamuna TV, Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-09-08T00:07:32Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "422a38e6a1cd7357",
-  "url": "https://www.thedailystar.net/news/bangladesh/news/they-raped-my-daughter-because-i-came-testify-4267461",
-  "headline": "Daughter of July uprising victim raped, died by suicide after mother testified at tribunal",
-  "topic": "July uprising victim's daughter rape allegation",
-  "source": "Jamuna TV, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-08T01:07:26Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "e64d9a3d1cb0cee4",
-  "url": "https://www.jamuna.tv/national/663671",
-  "headline": "Daughter of July uprising victim raped, died by suicide after mother testified at tribunal",
-  "topic": "July uprising victim's daughter rape allegation",
-  "source": "Jamuna TV, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-08T01:07:26Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "e30f797b9ec86a8b",
   "url": "https://www.dhakatribune.com/bangladesh/crime/419323/extortion-squeezes-dhaka%E2%80%99s-small-traders",
   "headline": "Extortion by multiple criminal groups squeezes small traders in Dhaka's Mirpur",
@@ -8398,5 +8342,41 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "b4b22e6cdb61c02b",
+  "url": "https://www.dhakatribune.com/bangladesh/419641/pm-opens-3-month-nationwide-dengue-prevention",
+  "headline": "PM launches 3-month nationwide dengue prevention and cleanliness campaign",
+  "topic": "PM launches nationwide dengue prevention campaign",
+  "source": "Dhaka Tribune, Jamuna TV",
+  "status": "queued",
+  "at": "2026-09-12T05:07:40Z"
+ },
+ {
+  "title_hash": "3077469aec4edbcc",
+  "url": "https://www.jamuna.tv/national/663919",
+  "headline": "PM launches 3-month nationwide dengue prevention and cleanliness campaign",
+  "topic": "PM launches nationwide dengue prevention campaign",
+  "source": "Dhaka Tribune, Jamuna TV",
+  "status": "queued",
+  "at": "2026-09-12T05:07:40Z"
+ },
+ {
+  "title_hash": "094c1efe8dc30344",
+  "url": "https://www.dhakatribune.com/bangladesh/nation/419640/chhatra-dal-leader-missing-after-falling-into",
+  "headline": "Bulkhead collision: Chhatra Dal leader missing after falling into Padma River",
+  "topic": "Chhatra Dal leader missing in Padma River",
+  "source": "Dhaka Tribune, Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-12T05:07:40Z"
+ },
+ {
+  "title_hash": "4b4beff576bb4398",
+  "url": "https://www.prothomalo.com/bangladesh/district/f6f5ibf9cv",
+  "headline": "Bulkhead collision: Chhatra Dal leader missing after falling into Padma River",
+  "topic": "Chhatra Dal leader missing in Padma River",
+  "source": "Dhaka Tribune, Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-12T05:07:40Z"
  }
 ]
