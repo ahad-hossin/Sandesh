@@ -8363,8 +8363,13 @@
   "headline": "PM seeks nationwide cooperation to combat Dengue; 15 districts at high risk",
   "topic": "PM urges cooperation on dengue",
   "source": "Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-12T04:06:41Z"
+  "status": "failed",
+  "at": "2026-09-12T04:06:41Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "a41570a1331a6931",
@@ -8372,8 +8377,13 @@
   "headline": "PM seeks nationwide cooperation to combat Dengue; 15 districts at high risk",
   "topic": "PM urges cooperation on dengue",
   "source": "Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-12T04:06:41Z"
+  "status": "failed",
+  "at": "2026-09-12T04:06:41Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "eada1690219f1f44",
@@ -8381,7 +8391,12 @@
   "headline": "Dhaka 3rd most polluted city in the world Saturday morning",
   "topic": "Dhaka 3rd most polluted city",
   "source": "Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-09-12T04:06:41Z"
+  "status": "failed",
+  "at": "2026-09-12T04:06:41Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
