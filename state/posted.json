@@ -8307,8 +8307,13 @@
   "headline": "2 crude bombs detonated during AL procession in Gulshan",
   "topic": "al procession gulshan arrests",
   "source": "Jamuna TV, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-12T06:09:28Z"
+  "status": "failed",
+  "at": "2026-09-12T06:09:28Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "fdf24dcbf868eac5",
@@ -8316,8 +8321,13 @@
   "headline": "2 crude bombs detonated during AL procession in Gulshan",
   "topic": "al procession gulshan arrests",
   "source": "Jamuna TV, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-12T06:09:28Z"
+  "status": "failed",
+  "at": "2026-09-12T06:09:28Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "f6ba63c84ce3bb29",
@@ -8325,8 +8335,13 @@
   "headline": "2 crude bombs detonated during AL procession in Gulshan",
   "topic": "al procession gulshan arrests",
   "source": "Jamuna TV, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-12T06:09:28Z"
+  "status": "failed",
+  "at": "2026-09-12T06:09:28Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "b4b22e6cdb61c02b",
@@ -8334,8 +8349,13 @@
   "headline": "PM launches 3-month nationwide dengue prevention and cleanliness campaign",
   "topic": "pm launches dengue campaign",
   "source": "Dhaka Tribune, Jamuna TV, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-12T06:09:28Z"
+  "status": "failed",
+  "at": "2026-09-12T06:09:28Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "3077469aec4edbcc",
@@ -8343,8 +8363,13 @@
   "headline": "PM launches 3-month nationwide dengue prevention and cleanliness campaign",
   "topic": "pm launches dengue campaign",
   "source": "Dhaka Tribune, Jamuna TV, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-12T06:09:28Z"
+  "status": "failed",
+  "at": "2026-09-12T06:09:28Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "0434495bc67fe8cd",
@@ -8352,8 +8377,13 @@
   "headline": "PM launches 3-month nationwide dengue prevention and cleanliness campaign",
   "topic": "pm launches dengue campaign",
   "source": "Dhaka Tribune, Jamuna TV, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-12T06:09:28Z"
+  "status": "failed",
+  "at": "2026-09-12T06:09:28Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "2e0a9d7f61766652",
@@ -8361,7 +8391,12 @@
   "headline": "PM launches 3-month nationwide dengue prevention and cleanliness campaign",
   "topic": "pm launches dengue campaign",
   "source": "Dhaka Tribune, Jamuna TV, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-12T06:09:28Z"
+  "status": "failed",
+  "at": "2026-09-12T06:09:28Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
