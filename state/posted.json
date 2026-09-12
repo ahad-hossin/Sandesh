@@ -8349,8 +8349,13 @@
   "headline": "PM launches 3-month nationwide dengue prevention and cleanliness campaign",
   "topic": "PM launches nationwide dengue prevention campaign",
   "source": "Dhaka Tribune, Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-12T05:07:40Z"
+  "status": "failed",
+  "at": "2026-09-12T05:07:40Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "3077469aec4edbcc",
@@ -8358,8 +8363,13 @@
   "headline": "PM launches 3-month nationwide dengue prevention and cleanliness campaign",
   "topic": "PM launches nationwide dengue prevention campaign",
   "source": "Dhaka Tribune, Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-12T05:07:40Z"
+  "status": "failed",
+  "at": "2026-09-12T05:07:40Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "094c1efe8dc30344",
@@ -8367,8 +8377,13 @@
   "headline": "Bulkhead collision: Chhatra Dal leader missing after falling into Padma River",
   "topic": "Chhatra Dal leader missing in Padma River",
   "source": "Dhaka Tribune, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-12T05:07:40Z"
+  "status": "failed",
+  "at": "2026-09-12T05:07:40Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "4b4beff576bb4398",
@@ -8376,7 +8391,12 @@
   "headline": "Bulkhead collision: Chhatra Dal leader missing after falling into Padma River",
   "topic": "Chhatra Dal leader missing in Padma River",
   "source": "Dhaka Tribune, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-12T05:07:40Z"
+  "status": "failed",
+  "at": "2026-09-12T05:07:40Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
