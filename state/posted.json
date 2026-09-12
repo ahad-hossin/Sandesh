@@ -8363,8 +8363,13 @@
   "headline": "Gas supply to improve within 5-7 days, says PM Tarique Rahman",
   "topic": "PM Tarique gas supply",
   "source": "The Daily Star",
-  "status": "queued",
-  "at": "2026-09-12T01:06:10Z"
+  "status": "failed",
+  "at": "2026-09-12T01:06:10Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "b640705e6f816e54",
@@ -8372,8 +8377,13 @@
   "headline": "Gas supply to improve within 5-7 days, says PM Tarique Rahman",
   "topic": "PM Tarique gas supply",
   "source": "The Daily Star",
-  "status": "queued",
-  "at": "2026-09-12T01:06:10Z"
+  "status": "failed",
+  "at": "2026-09-12T01:06:10Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "75e583a2d1a8cfaf",
@@ -8381,7 +8391,12 @@
   "headline": "Tangail madrasa teacher sent to jail over alleged sexual assault of 10-year-old student",
   "topic": "Tangail madrasa teacher assault",
   "source": "The Daily Star",
-  "status": "queued",
-  "at": "2026-09-12T01:06:10Z"
+  "status": "failed",
+  "at": "2026-09-12T01:06:10Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
