@@ -2,62 +2,6 @@
  {
   "title_hash": "e30f797b9ec86a8b",
   "url": "https://www.dhakatribune.com/bangladesh/crime/419323/extortion-squeezes-dhaka%E2%80%99s-small-traders",
-  "headline": "Dhaka small traders squeezed by extortion from criminal groups",
-  "topic": "dhaka extortion small traders",
-  "source": "Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-09-07T21:08:19Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "a453180a09dfbf32",
-  "url": "https://www.dhakatribune.com/bangladesh/dhaka/419322/mirpur-businesses-squeezed-by-multiple-criminal",
-  "headline": "Dhaka small traders squeezed by extortion from criminal groups",
-  "topic": "dhaka extortion small traders",
-  "source": "Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-09-07T21:08:19Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "9a94e21627dabc85",
-  "url": "https://www.thedailystar.net/sports/cricket/news/we-should-win-tigresses-face-do-or-die-uae-clash-india-semifinal-4267531",
-  "headline": "Asia Cup: Tigresses face do-or-die UAE clash for semifinal berth",
-  "topic": "tigresses uae clash",
-  "source": "The Daily Star",
-  "status": "failed",
-  "at": "2026-09-07T21:08:19Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "afda8e9c44170acb",
-  "url": "https://www.prothomalo.com/bangladesh/capital/07wfj8ioj7",
-  "headline": "Two women drown in pond at Jagannath University's second campus",
-  "topic": "jn university students drown",
-  "source": "Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-07T22:08:13Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "e30f797b9ec86a8b",
-  "url": "https://www.dhakatribune.com/bangladesh/crime/419323/extortion-squeezes-dhaka%E2%80%99s-small-traders",
   "headline": "Dhaka's small traders squeezed by extortion from criminal groups",
   "topic": "dhaka extortion small traders",
   "source": "Dhaka Tribune",
@@ -8398,5 +8342,41 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "d89b5003c25af958",
+  "url": "https://www.thedailystar.net/news/crime-justice/news/2-held-after-crude-bombs-explode-during-al-procession-4270566",
+  "headline": "Crude bombs explode during AL procession in Gulshan, 2 arrested",
+  "topic": "Gulshan political rallies and bombs",
+  "source": "Jamuna TV, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-12T02:07:04Z"
+ },
+ {
+  "title_hash": "f6ba63c84ce3bb29",
+  "url": "https://www.jamuna.tv/national/663917",
+  "headline": "Crude bombs explode during AL procession in Gulshan, 2 arrested",
+  "topic": "Gulshan political rallies and bombs",
+  "source": "Jamuna TV, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-12T02:07:04Z"
+ },
+ {
+  "title_hash": "2e0a9d7f61766652",
+  "url": "https://www.thedailystar.net/news/bangladesh/news/dengue-spreads-amid-weak-mosquito-control-4270636",
+  "headline": "Dengue spreads amid weak mosquito control nationwide, 15 districts at high risk",
+  "topic": "Dengue risk in 15 districts",
+  "source": "Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-12T02:07:04Z"
+ },
+ {
+  "title_hash": "a41570a1331a6931",
+  "url": "https://www.prothomalo.com/bangladesh/vh5rvjg3f8",
+  "headline": "Dengue spreads amid weak mosquito control nationwide, 15 districts at high risk",
+  "topic": "Dengue risk in 15 districts",
+  "source": "Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-12T02:07:04Z"
  }
 ]
