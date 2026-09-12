@@ -1,61 +1,5 @@
 [
  {
-  "title_hash": "638730c6e461dfdf",
-  "url": "https://www.jamuna.tv/international/663681",
-  "headline": "UN fears Israel removing debris in Gaza to erase war crime evidence, special envoy warns",
-  "topic": "israel removing gaza rubble war crimes",
-  "source": "Jamuna TV",
-  "status": "failed",
-  "at": "2026-09-08T04:06:52Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "a646cb4a698f0d82",
-  "url": "https://www.thedailystar.net/culture/tv-film/news/azmeri-haque-badhan-assaulted-harassed-italy-4267656",
-  "headline": "Actress Azmeri Haque Badhan assaulted and harassed in Italy, files police complaint",
-  "topic": "Actress Badhon harassed in Italy",
-  "source": "Prothom Alo, Jamuna TV, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-08T05:08:51Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "d80fda68c911be6e",
-  "url": "https://www.prothomalo.com/entertainment/itaalite-haamlaa-henstaar-shikaar-abhinetrii-baandhn",
-  "headline": "Actress Azmeri Haque Badhan assaulted and harassed in Italy, files police complaint",
-  "topic": "Actress Badhon harassed in Italy",
-  "source": "Prothom Alo, Jamuna TV, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-08T05:08:51Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "648df56375dc6479",
-  "url": "https://www.jamuna.tv/international/663677",
-  "headline": "Actress Azmeri Haque Badhan assaulted and harassed in Italy, files police complaint",
-  "topic": "Actress Badhon harassed in Italy",
-  "source": "Prothom Alo, Jamuna TV, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-08T05:08:51Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "cfa6a9faa5a2be95",
   "url": "https://www.prothomalo.com/entertainment/j0myl5p6l7",
   "headline": "Actress Azmeri Haque Badhan assaulted and harassed in Italy, files police complaint",
@@ -8398,5 +8342,41 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "d89b5003c25af958",
+  "url": "https://www.thedailystar.net/news/crime-justice/news/2-held-after-crude-bombs-explode-during-al-procession-4270566",
+  "headline": "2 crude bombs blast in AL procession in Gulshan, 2 held",
+  "topic": "al procession gulshan arrests",
+  "source": "Jamuna TV, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-12T07:08:36Z"
+ },
+ {
+  "title_hash": "fdf24dcbf868eac5",
+  "url": "https://www.jamuna.tv/politics/663925",
+  "headline": "2 crude bombs blast in AL procession in Gulshan, 2 held",
+  "topic": "al procession gulshan arrests",
+  "source": "Jamuna TV, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-12T07:08:36Z"
+ },
+ {
+  "title_hash": "28db43eecd69de83",
+  "url": "https://www.prothomalo.com/business/industry/2ntx6vq10w",
+  "headline": "Gold prices rise by ৳1,050 per bhori after one day",
+  "topic": "gold price increase",
+  "source": "Prothom Alo, Jamuna TV",
+  "status": "queued",
+  "at": "2026-09-12T07:08:36Z"
+ },
+ {
+  "title_hash": "6d05f58bd1471cc9",
+  "url": "https://www.jamuna.tv/economy/663920",
+  "headline": "Gold prices rise by ৳1,050 per bhori after one day",
+  "topic": "gold price increase",
+  "source": "Prothom Alo, Jamuna TV",
+  "status": "queued",
+  "at": "2026-09-12T07:08:36Z"
  }
 ]
