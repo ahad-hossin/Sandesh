@@ -1,33 +1,5 @@
 [
  {
-  "title_hash": "d4c6670da351a546",
-  "url": "https://www.prothomalo.com/politics/qelxag8j4z",
-  "headline": "Actress Azmeri Haque Badhon assaulted and harassed in Venice, Italy",
-  "topic": "actress badhon attacked in italy",
-  "source": "Prothom Alo, Dhaka Tribune, Jamuna TV, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-08T13:08:36Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "67bdc9c15a6e5305",
-  "url": "https://www.dhakatribune.com/bangladesh/419334/zahed-legal-action-to-be-taken-over-attack-on",
-  "headline": "Actress Azmeri Haque Badhon assaulted and harassed in Venice, Italy",
-  "topic": "actress badhon attacked in italy",
-  "source": "Prothom Alo, Dhaka Tribune, Jamuna TV, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-08T13:08:36Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "2f284dcf8a9ebb7f",
   "url": "https://www.prothomalo.com/video/bangladesh/wtygwjepuw",
   "headline": "Actress Azmeri Haque Badhon assaulted and harassed in Venice, Italy",
@@ -8398,5 +8370,23 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "212ae929f53f5de7",
+  "url": "https://www.jamuna.tv/all-bangladesh/663990",
+  "headline": "BSF shoots Bangladeshi man killed at Thakurgaon border",
+  "topic": "bsf kills bangladeshi at border",
+  "source": "Jamuna TV",
+  "status": "queued",
+  "at": "2026-09-12T19:07:21Z"
+ },
+ {
+  "title_hash": "666deb511858ebc5",
+  "url": "https://www.dhakatribune.com/bangladesh/accidents/419711/ten-bangladeshis-taken-to-india-after-boat",
+  "headline": "10 Bangladeshis taken to India after boat capsizes in Padma",
+  "topic": "bangladeshis rescued after boat capsize",
+  "source": "Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-09-12T19:07:21Z"
  }
 ]
