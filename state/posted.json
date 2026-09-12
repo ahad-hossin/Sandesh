@@ -1,75 +1,5 @@
 [
  {
-  "title_hash": "a1ee4619878544bc",
-  "url": "https://www.dhakatribune.com/bangladesh/419367/chief-justice-walks-out-after-heated-exchange-with",
-  "headline": "Chief Justice walks out of courtroom after heated exchange with SC Bar president",
-  "topic": "chief justice walks out of court",
-  "source": "Dhaka Tribune, The Daily Star, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-08T13:08:36Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "64ca83c6f2f16d38",
-  "url": "https://www.thedailystar.net/news/news/chief-justice-four-appellate-division-judges-leave-courtroom-after-khokon-remarks-4267821",
-  "headline": "Chief Justice walks out of courtroom after heated exchange with SC Bar president",
-  "topic": "chief justice walks out of court",
-  "source": "Dhaka Tribune, The Daily Star, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-08T13:08:36Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "7fc40680a404c34a",
-  "url": "https://www.jamuna.tv/national/663702",
-  "headline": "Chief Justice walks out of courtroom after heated exchange with SC Bar president",
-  "topic": "chief justice walks out of court",
-  "source": "Dhaka Tribune, The Daily Star, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-08T13:08:36Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "db192235e6f9b700",
-  "url": "https://www.prothomalo.com/bangladesh/9moo2mozrv",
-  "headline": "Chief Justice walks out of courtroom after heated exchange with SC Bar president",
-  "topic": "chief justice walks out of court",
-  "source": "Dhaka Tribune, The Daily Star, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-08T13:08:36Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "9f51fd503c0f92c3",
-  "url": "https://www.dhakatribune.com/bangladesh/health/419379/dengue-nine-more-die-as-1-571-cases-recorded-in",
-  "headline": "9 deaths in 24 hours: Record single-day dengue deaths and hospitalisations this year",
-  "topic": "record-daily-dengue-deaths",
-  "source": "Dhaka Tribune, Prothom Alo, The Daily Star, Jamuna TV",
-  "status": "failed",
-  "at": "2026-09-08T14:08:27Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "b8ba51ce6d83c8f3",
   "url": "https://www.prothomalo.com/bangladesh/zl9srtubmu",
   "headline": "9 deaths in 24 hours: Record single-day dengue deaths and hospitalisations this year",
@@ -8398,5 +8328,50 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "8c2d8b7871bec4b6",
+  "url": "https://www.thedailystar.net/news/world/news/brics-maximum-restraint-mideast-4271391",
+  "headline": "BRICS nations call for maximum restraint in Middle East at New Delhi summit",
+  "topic": "brics summit joint declaration",
+  "source": "Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-12T23:08:58Z"
+ },
+ {
+  "title_hash": "e21d355a17911fe2",
+  "url": "https://www.prothomalo.com/world/india/dcktnqglst",
+  "headline": "BRICS nations call for maximum restraint in Middle East at New Delhi summit",
+  "topic": "brics summit joint declaration",
+  "source": "Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-12T23:08:58Z"
+ },
+ {
+  "title_hash": "e2baa0c694ea95a6",
+  "url": "https://www.prothomalo.com/world/india/j8b9swhao9",
+  "headline": "BRICS nations call for maximum restraint in Middle East at New Delhi summit",
+  "topic": "brics summit joint declaration",
+  "source": "Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-12T23:08:58Z"
+ },
+ {
+  "title_hash": "b190c7774f63ac7a",
+  "url": "https://www.thedailystar.net/news/bangladesh/obituary/news/ketaki-kushari-dyson-writer-and-tagore-scholar-dies-86-4271316",
+  "headline": "Tagore scholar Ketaki Kushari Dyson dies at 86 in England",
+  "topic": "ketaki kushari dyson death",
+  "source": "The Daily Star, Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-12T23:08:58Z"
+ },
+ {
+  "title_hash": "748cd333cb078e5b",
+  "url": "https://www.prothomalo.com/world/india/mmmv5yo4b9",
+  "headline": "Tagore scholar Ketaki Kushari Dyson dies at 86 in England",
+  "topic": "ketaki kushari dyson death",
+  "source": "The Daily Star, Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-12T23:08:58Z"
  }
 ]
