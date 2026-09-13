@@ -8335,8 +8335,13 @@
   "headline": "ACC probes money laundering allegations against Asif Mahmud",
   "topic": "asif mahmud corruption allegations",
   "source": "Prothom Alo, Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-13T14:09:46Z"
+  "status": "failed",
+  "at": "2026-09-13T14:09:46Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "34a49469d0ccf9fd",
@@ -8344,8 +8349,13 @@
   "headline": "ACC probes money laundering allegations against Asif Mahmud",
   "topic": "asif mahmud corruption allegations",
   "source": "Prothom Alo, Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-13T14:09:46Z"
+  "status": "failed",
+  "at": "2026-09-13T14:09:46Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "4609bee53687de5a",
@@ -8353,8 +8363,13 @@
   "headline": "ACC probes money laundering allegations against Asif Mahmud",
   "topic": "asif mahmud corruption allegations",
   "source": "Prothom Alo, Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-13T14:09:46Z"
+  "status": "failed",
+  "at": "2026-09-13T14:09:46Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "783906cde08abc65",
@@ -8362,8 +8377,13 @@
   "headline": "NCP names mayoral candidates for Dhaka city corporations",
   "topic": "ncp mayoral candidates dhaka",
   "source": "Prothom Alo, Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-13T14:09:46Z"
+  "status": "failed",
+  "at": "2026-09-13T14:09:46Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "bcf25dc26da723f8",
@@ -8371,7 +8391,12 @@
   "headline": "NCP names mayoral candidates for Dhaka city corporations",
   "topic": "ncp mayoral candidates dhaka",
   "source": "Prothom Alo, Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-13T14:09:46Z"
+  "status": "failed",
+  "at": "2026-09-13T14:09:46Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
