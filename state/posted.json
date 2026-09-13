@@ -8349,8 +8349,13 @@
   "headline": "1,561 hospitalized in 24 hours as dengue claims 6 more lives",
   "topic": "dengue toll rises",
   "source": "Dhaka Tribune, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-13T13:08:52Z"
+  "status": "failed",
+  "at": "2026-09-13T13:08:52Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "9c66ad4a0d0dd888",
@@ -8358,8 +8363,13 @@
   "headline": "1,561 hospitalized in 24 hours as dengue claims 6 more lives",
   "topic": "dengue toll rises",
   "source": "Dhaka Tribune, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-13T13:08:52Z"
+  "status": "failed",
+  "at": "2026-09-13T13:08:52Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "e69c6299f0172c9c",
@@ -8367,8 +8377,13 @@
   "headline": "Diplomacy: Bangladesh wants to reset ties with India, says State Minister",
   "topic": "bangladesh india ties reset",
   "source": "Prothom Alo, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-09-13T13:08:52Z"
+  "status": "failed",
+  "at": "2026-09-13T13:08:52Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "e97aeed432620196",
@@ -8376,7 +8391,12 @@
   "headline": "Diplomacy: Bangladesh wants to reset ties with India, says State Minister",
   "topic": "bangladesh india ties reset",
   "source": "Prothom Alo, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-09-13T13:08:52Z"
+  "status": "failed",
+  "at": "2026-09-13T13:08:52Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
