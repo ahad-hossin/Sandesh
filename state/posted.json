@@ -1,47 +1,5 @@
 [
  {
-  "title_hash": "c24c9b54fe442d1e",
-  "url": "https://www.thedailystar.net/news/bangladesh/diplomacy/news/khalilur-assumes-presidency-81st-unga-4268291",
-  "headline": "Historic milestone: Khalilur Rahman assumes presidency of 81st UNGA",
-  "topic": "khalilur-rahman-unga-president",
-  "source": "The Daily Star, Dhaka Tribune, Prothom Alo, Jamuna TV",
-  "status": "failed",
-  "at": "2026-09-08T22:09:07Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "fcc3a046200c8dcf",
-  "url": "https://www.dhakatribune.com/bangladesh/foreign-affairs/419402/unga-president-khalilur-rahman-vows-open",
-  "headline": "Historic milestone: Khalilur Rahman assumes presidency of 81st UNGA",
-  "topic": "khalilur-rahman-unga-president",
-  "source": "The Daily Star, Dhaka Tribune, Prothom Alo, Jamuna TV",
-  "status": "failed",
-  "at": "2026-09-08T22:09:07Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "5b3ae05f66f159e1",
-  "url": "https://www.prothomalo.com/bangladesh/euzm061a8n",
-  "headline": "Historic milestone: Khalilur Rahman assumes presidency of 81st UNGA",
-  "topic": "khalilur-rahman-unga-president",
-  "source": "The Daily Star, Dhaka Tribune, Prothom Alo, Jamuna TV",
-  "status": "failed",
-  "at": "2026-09-08T22:09:07Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "d762ca1573c82d77",
   "url": "https://www.jamuna.tv/national/663730",
   "headline": "Historic milestone: Khalilur Rahman assumes presidency of 81st UNGA",
@@ -8398,5 +8356,32 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "347f5ef75d8a00c9",
+  "url": "https://www.thedailystar.net/sports/football/news/referee-body-admits-error-haaland-goal-manchester-derby-4272331",
+  "headline": "Referee body admits 'error of judgment' over Haaland goal in Manchester derby",
+  "topic": "manchester derby var controversy",
+  "source": "The Daily Star",
+  "status": "queued",
+  "at": "2026-09-13T23:06:49Z"
+ },
+ {
+  "title_hash": "e959dcdeb262b864",
+  "url": "https://www.thedailystar.net/sports/football/news/var-controversy-rocks-manchester-derby-why-haalands-goal-stood-and-foden-saw-red-4272256",
+  "headline": "Referee body admits 'error of judgment' over Haaland goal in Manchester derby",
+  "topic": "manchester derby var controversy",
+  "source": "The Daily Star",
+  "status": "queued",
+  "at": "2026-09-13T23:06:49Z"
+ },
+ {
+  "title_hash": "6cc2ff3e6faa4f13",
+  "url": "https://www.thedailystar.net/sports/cricket/news/india-crush-sri-lanka-win-eighth-womens-asia-cup-title-4272251",
+  "headline": "India beat Sri Lanka by 72 runs to win eighth Women's Asia Cup title",
+  "topic": "india womens asia cup win",
+  "source": "The Daily Star",
+  "status": "queued",
+  "at": "2026-09-13T23:06:49Z"
  }
 ]
