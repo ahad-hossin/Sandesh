@@ -8307,8 +8307,13 @@
   "headline": "4 killed as lorry hits microbus returning from wedding in Chittagong",
   "topic": "chittagong wedding accident",
   "source": "Dhaka Tribune, Jamuna TV, Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-13T06:09:02Z"
+  "status": "failed",
+  "at": "2026-09-13T06:09:02Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "7a1b49e68d09a47b",
@@ -8316,8 +8321,13 @@
   "headline": "4 killed as lorry hits microbus returning from wedding in Chittagong",
   "topic": "chittagong wedding accident",
   "source": "Dhaka Tribune, Jamuna TV, Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-13T06:09:02Z"
+  "status": "failed",
+  "at": "2026-09-13T06:09:02Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "275429e00f2bc08b",
@@ -8325,8 +8335,13 @@
   "headline": "4 killed as lorry hits microbus returning from wedding in Chittagong",
   "topic": "chittagong wedding accident",
   "source": "Dhaka Tribune, Jamuna TV, Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-13T06:09:02Z"
+  "status": "failed",
+  "at": "2026-09-13T06:09:02Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "f2e293336aaed7d5",
@@ -8334,8 +8349,13 @@
   "headline": "4 killed as lorry hits microbus returning from wedding in Chittagong",
   "topic": "chittagong wedding accident",
   "source": "Dhaka Tribune, Jamuna TV, Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-13T06:09:02Z"
+  "status": "failed",
+  "at": "2026-09-13T06:09:02Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "3238d0d97eeaf207",
@@ -8343,8 +8363,13 @@
   "headline": "Bangladeshi man killed after being shot by BSF along Thakurgaon border",
   "topic": "bsf shooting thakurgaon border",
   "source": "The Daily Star, Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-13T06:09:02Z"
+  "status": "failed",
+  "at": "2026-09-13T06:09:02Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "212ae929f53f5de7",
@@ -8352,8 +8377,13 @@
   "headline": "Bangladeshi man killed after being shot by BSF along Thakurgaon border",
   "topic": "bsf shooting thakurgaon border",
   "source": "The Daily Star, Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-13T06:09:02Z"
+  "status": "failed",
+  "at": "2026-09-13T06:09:02Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "cce838df7536d3cd",
@@ -8361,7 +8391,12 @@
   "headline": "Bangladeshi man killed after being shot by BSF along Thakurgaon border",
   "topic": "bsf shooting thakurgaon border",
   "source": "The Daily Star, Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-13T06:09:02Z"
+  "status": "failed",
+  "at": "2026-09-13T06:09:02Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
