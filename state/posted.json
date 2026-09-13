@@ -1,61 +1,5 @@
 [
  {
-  "title_hash": "d762ca1573c82d77",
-  "url": "https://www.jamuna.tv/national/663730",
-  "headline": "Historic milestone: Bangladesh's Dr. Khalilur Rahman becomes UNGA President",
-  "topic": "khalilur rahman unga president",
-  "source": "Jamuna TV, Prothom Alo, Dhaka Tribune, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-08T17:11:08Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "17afd6e77a2324fe",
-  "url": "https://www.prothomalo.com/bangladesh/w5vgs9c8ri",
-  "headline": "Historic milestone: Bangladesh's Dr. Khalilur Rahman becomes UNGA President",
-  "topic": "khalilur rahman unga president",
-  "source": "Jamuna TV, Prothom Alo, Dhaka Tribune, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-08T17:11:08Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "c3b6b13f2a52ac78",
-  "url": "https://www.thedailystar.net/news/bangladesh/diplomacy/news/khalilur-rahman-take-charge-unga-president-today-4267861",
-  "headline": "Historic milestone: Bangladesh's Dr. Khalilur Rahman becomes UNGA President",
-  "topic": "khalilur rahman unga president",
-  "source": "Jamuna TV, Prothom Alo, Dhaka Tribune, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-08T17:11:08Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "4a5b88007c21b2dc",
-  "url": "https://www.dhakatribune.com/bangladesh/foreign-affairs/419375/parliament-rues-badhon-harassment-vows-tough",
-  "headline": "Actress Ajmeri Haque Badhon files case over harassment in Venice",
-  "topic": "attack on azmeri haque badhon in venice",
-  "source": "Jamuna TV, Dhaka Tribune, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-08T18:08:08Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "1d03dd491f333eac",
   "url": "https://www.jamuna.tv/international/663732",
   "headline": "Actress Ajmeri Haque Badhon files case over harassment in Venice",
@@ -8398,5 +8342,41 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "9f2f28c511cd5b35",
+  "url": "https://www.dhakatribune.com/bangladesh/health/419760/dengue-six-more-die-as-1-561-hospitalized-in-24",
+  "headline": "1,561 hospitalized in 24 hours as dengue claims 6 more lives",
+  "topic": "dengue toll rises",
+  "source": "Dhaka Tribune, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-13T13:08:52Z"
+ },
+ {
+  "title_hash": "9c66ad4a0d0dd888",
+  "url": "https://www.thedailystar.net/news/healthcare/disease/news/dengue-claims-6-more-lives-1561-hospitalised-24-hours-4271781",
+  "headline": "1,561 hospitalized in 24 hours as dengue claims 6 more lives",
+  "topic": "dengue toll rises",
+  "source": "Dhaka Tribune, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-13T13:08:52Z"
+ },
+ {
+  "title_hash": "e69c6299f0172c9c",
+  "url": "https://www.dhakatribune.com/bangladesh/foreign-affairs/419751/humaiun-kobir-bangladesh-wants-to-%E2%80%98reset%E2%80%99-ties",
+  "headline": "Diplomacy: Bangladesh wants to reset ties with India, says State Minister",
+  "topic": "bangladesh india ties reset",
+  "source": "Prothom Alo, Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-09-13T13:08:52Z"
+ },
+ {
+  "title_hash": "e97aeed432620196",
+  "url": "https://www.prothomalo.com/video/bangladesh/u3frwg0v4y",
+  "headline": "Diplomacy: Bangladesh wants to reset ties with India, says State Minister",
+  "topic": "bangladesh india ties reset",
+  "source": "Prothom Alo, Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-09-13T13:08:52Z"
  }
 ]
