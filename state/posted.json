@@ -1,33 +1,5 @@
 [
  {
-  "title_hash": "87d979da83658a9b",
-  "url": "https://www.jamuna.tv/national/663705",
-  "headline": "9 deaths in 24 hours: Record single-day dengue deaths and hospitalisations this year",
-  "topic": "record-daily-dengue-deaths",
-  "source": "Dhaka Tribune, Prothom Alo, The Daily Star, Jamuna TV",
-  "status": "failed",
-  "at": "2026-09-08T14:08:27Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "4a5b88007c21b2dc",
-  "url": "https://www.dhakatribune.com/bangladesh/foreign-affairs/419375/parliament-rues-badhon-harassment-vows-tough",
-  "headline": "Actress Azmeri Haque Badhan attacked in Venice by miscreants",
-  "topic": "badhan-harassment-venice",
-  "source": "Dhaka Tribune, The Daily Star, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-08T14:08:27Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "c7de4e6cb244be5a",
   "url": "https://www.thedailystar.net/culture/tv-film/news/cant-silence-me-badhans-bravery-and-uncomfortable-reality-4267886",
   "headline": "Actress Azmeri Haque Badhan attacked in Venice by miscreants",
@@ -8398,5 +8370,23 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "c6c334c9b4761a1f",
+  "url": "https://www.jamuna.tv/sports/663993",
+  "headline": "Real Madrid draws level with Barcelona after 4-1 thrashing of Rayo Vallecano with Mbappé brace",
+  "topic": "Real Madrid ties Barcelona in league points",
+  "source": "Jamuna TV",
+  "status": "queued",
+  "at": "2026-09-13T01:06:45Z"
+ },
+ {
+  "title_hash": "c6a1fea91d006aa6",
+  "url": "https://www.jamuna.tv/sports/663992",
+  "headline": "Arsenal beat Sunderland 2-0 with Guimaraes and Saka goals, maintaining perfect start",
+  "topic": "Arsenal defeats Sunderland",
+  "source": "Jamuna TV",
+  "status": "queued",
+  "at": "2026-09-13T01:06:45Z"
  }
 ]
