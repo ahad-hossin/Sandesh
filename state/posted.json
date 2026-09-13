@@ -8335,8 +8335,13 @@
   "headline": "Houthi control Bab al-Mandeb Strait poses major risk to Bangladesh's $46 billion trade",
   "topic": "Houthi control Bab al-Mandeb, Red Sea conflict",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-13T02:06:52Z"
+  "status": "failed",
+  "at": "2026-09-13T02:06:52Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "e4cb1b42cc8da296",
@@ -8344,8 +8349,13 @@
   "headline": "Houthi control Bab al-Mandeb Strait poses major risk to Bangladesh's $46 billion trade",
   "topic": "Houthi control Bab al-Mandeb, Red Sea conflict",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-13T02:06:52Z"
+  "status": "failed",
+  "at": "2026-09-13T02:06:52Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "8c2d8b7871bec4b6",
@@ -8353,8 +8363,13 @@
   "headline": "BRICS calls for maximum restraint in Middle East amid escalating tensions at New Delhi summit",
   "topic": "BRICS calls for Mideast peace, de-dollarization",
   "source": "Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-13T02:06:52Z"
+  "status": "failed",
+  "at": "2026-09-13T02:06:52Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "c5dd6550d6dee9a5",
@@ -8362,8 +8377,13 @@
   "headline": "BRICS calls for maximum restraint in Middle East amid escalating tensions at New Delhi summit",
   "topic": "BRICS calls for Mideast peace, de-dollarization",
   "source": "Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-13T02:06:52Z"
+  "status": "failed",
+  "at": "2026-09-13T02:06:52Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "0b88e823bd3937ff",
@@ -8371,7 +8391,12 @@
   "headline": "BRICS calls for maximum restraint in Middle East amid escalating tensions at New Delhi summit",
   "topic": "BRICS calls for Mideast peace, de-dollarization",
   "source": "Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-13T02:06:52Z"
+  "status": "failed",
+  "at": "2026-09-13T02:06:52Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
