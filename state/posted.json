@@ -1,47 +1,5 @@
 [
  {
-  "title_hash": "f33f1243d89d9722",
-  "url": "https://www.prothomalo.com/video/bangladesh/wlt8bi7yru",
-  "headline": "Parliament adopts motion to bring former IGP Benazir Ahmed back from UAE",
-  "topic": "benazir extradition efforts",
-  "source": "Dhaka Tribune, The Daily Star, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-08T20:08:27Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "f3bd4b8d6470dd85",
-  "url": "https://www.prothomalo.com/video/bangladesh/hvm3ynxwji",
-  "headline": "Parliament adopts motion to bring former IGP Benazir Ahmed back from UAE",
-  "topic": "benazir extradition efforts",
-  "source": "Dhaka Tribune, The Daily Star, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-08T20:08:27Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "eb57b35d8283a73f",
-  "url": "https://www.prothomalo.com/politics/dl1iogmse7",
-  "headline": "Parliament adopts motion to bring former IGP Benazir Ahmed back from UAE",
-  "topic": "benazir extradition efforts",
-  "source": "Dhaka Tribune, The Daily Star, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-08T20:08:27Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "37f6eecddd7a9e2e",
   "url": "https://www.dhakatribune.com/bangladesh/parliament/419403/home-minister-diplomatic-communication-with-uae",
   "headline": "Parliament adopts motion to track Benazir Ahmed's extradition from UAE",
@@ -8398,5 +8356,32 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "6cc2ff3e6faa4f13",
+  "url": "https://www.thedailystar.net/sports/cricket/news/india-crush-sri-lanka-win-eighth-womens-asia-cup-title-4272251",
+  "headline": "8th title: India win Women's Asia Cup after crushing Sri Lanka",
+  "topic": "india women win asia cup",
+  "source": "The Daily Star, Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-13T20:08:20Z"
+ },
+ {
+  "title_hash": "fdcb8492f0b65916",
+  "url": "https://www.prothomalo.com/sports/cricket/k418gy3wth",
+  "headline": "8th title: India win Women's Asia Cup after crushing Sri Lanka",
+  "topic": "india women win asia cup",
+  "source": "The Daily Star, Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-13T20:08:20Z"
+ },
+ {
+  "title_hash": "c104d3b9779912fd",
+  "url": "https://www.thedailystar.net/news/accidents-and-fires/news/dhaka-mymensingh-train-services-resume-after-6-hours-4272246",
+  "headline": "6 hours of chaos: Dhaka-Mymensingh train services resume after derailment",
+  "topic": "dhaka-mymensingh train resume",
+  "source": "The Daily Star",
+  "status": "queued",
+  "at": "2026-09-13T20:08:20Z"
  }
 ]
