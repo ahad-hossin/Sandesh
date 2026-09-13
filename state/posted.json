@@ -8377,8 +8377,13 @@
   "headline": "Iran to launch new shipping route in Strait of Hormuz amid US sanctions",
   "topic": "Iran new shipping route Hormuz",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-13T00:07:25Z"
+  "status": "failed",
+  "at": "2026-09-13T00:07:25Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "0b88e823bd3937ff",
@@ -8386,7 +8391,12 @@
   "headline": "BRICS leaders adopt 45-page New Delhi Declaration, call for UN reform, local currency trade",
   "topic": "BRICS summit joint declaration",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-13T00:07:25Z"
+  "status": "failed",
+  "at": "2026-09-13T00:07:25Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
