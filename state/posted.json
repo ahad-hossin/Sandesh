@@ -1,47 +1,5 @@
 [
  {
-  "title_hash": "87d979da83658a9b",
-  "url": "https://www.jamuna.tv/national/663705",
-  "headline": "9 deaths in 24 hours: Highest daily dengue toll this year",
-  "topic": "bangladesh dengue death toll record",
-  "source": "Dhaka Tribune, Prothom Alo, Jamuna TV, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-08T17:11:08Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "6408c4fc51655f5a",
-  "url": "https://www.dhakatribune.com/bangladesh/419337/pm-to-launch-3-month-campaign-on-saturday-to",
-  "headline": "9 deaths in 24 hours: Highest daily dengue toll this year",
-  "topic": "bangladesh dengue death toll record",
-  "source": "Dhaka Tribune, Prothom Alo, Jamuna TV, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-08T17:11:08Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "d2da3546eaa0da3d",
-  "url": "https://www.dhakatribune.com/bangladesh/foreign-affairs/419363/bangladesh-to-assume-unga-presidency-marking",
-  "headline": "Historic milestone: Bangladesh's Dr. Khalilur Rahman becomes UNGA President",
-  "topic": "khalilur rahman unga president",
-  "source": "Jamuna TV, Prothom Alo, Dhaka Tribune, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-08T17:11:08Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "d762ca1573c82d77",
   "url": "https://www.jamuna.tv/national/663730",
   "headline": "Historic milestone: Bangladesh's Dr. Khalilur Rahman becomes UNGA President",
@@ -8398,5 +8356,32 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "97c1eaf16bf9fd17",
+  "url": "https://www.dhakatribune.com/bangladesh/health/419732/measles-outbreak-death-toll-reaches-1-022-as",
+  "headline": "1,022 dead as measles outbreak death toll rises",
+  "topic": "measles outbreak death toll surpasses 1000",
+  "source": "Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-09-13T12:18:49Z"
+ },
+ {
+  "title_hash": "1736d3caa9459a80",
+  "url": "https://www.dhakatribune.com/bangladesh/power-energy/419745/adani%E2%80%99s-unit-2-resumes-supply-to-bangladesh-grid",
+  "headline": "Adani Power Plant: Unit-2 resumes supply to Bangladesh grid",
+  "topic": "Adani power unit resumes supply to Bangladesh",
+  "source": "Dhaka Tribune, Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-13T12:18:49Z"
+ },
+ {
+  "title_hash": "b466aa6fec5b6b5f",
+  "url": "https://www.prothomalo.com/bangladesh/xkhsdjf628",
+  "headline": "Adani Power Plant: Unit-2 resumes supply to Bangladesh grid",
+  "topic": "Adani power unit resumes supply to Bangladesh",
+  "source": "Dhaka Tribune, Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-13T12:18:49Z"
  }
 ]
