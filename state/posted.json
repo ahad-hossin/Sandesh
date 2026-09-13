@@ -8335,8 +8335,13 @@
   "headline": "PM Tarique Rahman discusses gas exploration with Chevron",
   "topic": "sun-car-innovation",
   "source": "Prothom Alo, The Daily Star, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-09-13T11:09:37Z"
+  "status": "failed",
+  "at": "2026-09-13T11:09:37Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "183dcfb21422049a",
@@ -8344,8 +8349,13 @@
   "headline": "PM Tarique Rahman discusses gas exploration with Chevron",
   "topic": "sun-car-innovation",
   "source": "Prothom Alo, The Daily Star, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-09-13T11:09:37Z"
+  "status": "failed",
+  "at": "2026-09-13T11:09:37Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "0eb8552667bbcc3c",
@@ -8353,8 +8363,13 @@
   "headline": "PM Tarique Rahman discusses gas exploration with Chevron",
   "topic": "sun-car-innovation",
   "source": "Prothom Alo, The Daily Star, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-09-13T11:09:37Z"
+  "status": "failed",
+  "at": "2026-09-13T11:09:37Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "97c1eaf16bf9fd17",
@@ -8362,8 +8377,13 @@
   "headline": "PM Tarique Rahman launches 3-month dengue prevention campaign",
   "topic": "measles-outbreak-death-toll",
   "source": "Dhaka Tribune, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-13T11:09:37Z"
+  "status": "failed",
+  "at": "2026-09-13T11:09:37Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "e4f45b87262c34d9",
@@ -8371,7 +8391,12 @@
   "headline": "PM Tarique Rahman launches 3-month dengue prevention campaign",
   "topic": "measles-outbreak-death-toll",
   "source": "Dhaka Tribune, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-13T11:09:37Z"
+  "status": "failed",
+  "at": "2026-09-13T11:09:37Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
