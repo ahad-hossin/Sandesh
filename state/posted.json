@@ -8335,8 +8335,13 @@
   "headline": "India win eighth Women's Asia Cup title after crushing Sri Lanka",
   "topic": "india womens asia cup champions",
   "source": "Jamuna TV, Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-13T19:08:55Z"
+  "status": "failed",
+  "at": "2026-09-13T19:08:55Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "510bf9468b8300a1",
@@ -8344,8 +8349,13 @@
   "headline": "India win eighth Women's Asia Cup title after crushing Sri Lanka",
   "topic": "india womens asia cup champions",
   "source": "Jamuna TV, Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-13T19:08:55Z"
+  "status": "failed",
+  "at": "2026-09-13T19:08:55Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "fdcb8492f0b65916",
@@ -8353,8 +8363,13 @@
   "headline": "India win eighth Women's Asia Cup title after crushing Sri Lanka",
   "topic": "india womens asia cup champions",
   "source": "Jamuna TV, Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-13T19:08:55Z"
+  "status": "failed",
+  "at": "2026-09-13T19:08:55Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "48188bf746c21e17",
@@ -8362,8 +8377,13 @@
   "headline": "5 held as RAB busts gang selling govt data online",
   "topic": "arrests for selling govt data",
   "source": "Jamuna TV, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-13T19:08:55Z"
+  "status": "failed",
+  "at": "2026-09-13T19:08:55Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "cd959bbbbeb0efee",
@@ -8371,7 +8391,12 @@
   "headline": "5 held as RAB busts gang selling govt data online",
   "topic": "arrests for selling govt data",
   "source": "Jamuna TV, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-13T19:08:55Z"
+  "status": "failed",
+  "at": "2026-09-13T19:08:55Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
