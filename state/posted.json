@@ -8349,8 +8349,13 @@
   "headline": "Speaker Hafiz Uddin Ahmed says most government officials are thieves",
   "topic": "speaker says govt officials thieves",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-13T18:08:54Z"
+  "status": "failed",
+  "at": "2026-09-13T18:08:54Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "f2014a5fb9201f37",
@@ -8358,8 +8363,13 @@
   "headline": "Speaker Hafiz Uddin Ahmed says most government officials are thieves",
   "topic": "speaker says govt officials thieves",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-13T18:08:54Z"
+  "status": "failed",
+  "at": "2026-09-13T18:08:54Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "49a574f755186642",
@@ -8367,8 +8377,13 @@
   "headline": "7 life imprisonment for 7 in garments officer murder in Narayanganj",
   "topic": "narayanganj garment officer murder case",
   "source": "Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-13T18:08:54Z"
+  "status": "failed",
+  "at": "2026-09-13T18:08:54Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "925b5f166cc1ee66",
@@ -8376,7 +8391,12 @@
   "headline": "7 life imprisonment for 7 in garments officer murder in Narayanganj",
   "topic": "narayanganj garment officer murder case",
   "source": "Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-13T18:08:54Z"
+  "status": "failed",
+  "at": "2026-09-13T18:08:54Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
