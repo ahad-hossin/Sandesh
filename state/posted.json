@@ -1,75 +1,5 @@
 [
  {
-  "title_hash": "b7e465fce4d0e1d2",
-  "url": "https://www.prothomalo.com/sports/cricket/72pt9rzid2",
-  "headline": "34-run win: Bangladesh reach Asia Cup semifinals after beating UAE",
-  "topic": "bangladesh womens cricket semi-finals",
-  "source": "Jamuna TV, The Daily Star, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-08T20:08:27Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "37f6eecddd7a9e2e",
-  "url": "https://www.dhakatribune.com/bangladesh/parliament/419403/home-minister-diplomatic-communication-with-uae",
-  "headline": "Parliament adopts motion to bring former IGP Benazir Ahmed back from UAE",
-  "topic": "benazir extradition efforts",
-  "source": "Dhaka Tribune, The Daily Star, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-08T20:08:27Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "f5f13efed0514bfd",
-  "url": "https://www.thedailystar.net/news/governance/parliament/news/parliament-adopts-motion-seeking-update-benazirs-extradition-4268246",
-  "headline": "Parliament adopts motion to bring former IGP Benazir Ahmed back from UAE",
-  "topic": "benazir extradition efforts",
-  "source": "Dhaka Tribune, The Daily Star, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-08T20:08:27Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "a35e988727998220",
-  "url": "https://www.jamuna.tv/national/663734",
-  "headline": "Parliament adopts motion to bring former IGP Benazir Ahmed back from UAE",
-  "topic": "benazir extradition efforts",
-  "source": "Dhaka Tribune, The Daily Star, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-08T20:08:27Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "ee5d8989e60fd211",
-  "url": "https://www.prothomalo.com/video/bangladesh/ncfm6hkaro",
-  "headline": "Parliament adopts motion to bring former IGP Benazir Ahmed back from UAE",
-  "topic": "benazir extradition efforts",
-  "source": "Dhaka Tribune, The Daily Star, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-08T20:08:27Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "f33f1243d89d9722",
   "url": "https://www.prothomalo.com/video/bangladesh/wlt8bi7yru",
   "headline": "Parliament adopts motion to bring former IGP Benazir Ahmed back from UAE",
@@ -8398,5 +8328,50 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "6cc2ff3e6faa4f13",
+  "url": "https://www.thedailystar.net/sports/cricket/news/india-crush-sri-lanka-win-eighth-womens-asia-cup-title-4272251",
+  "headline": "India win eighth Women's Asia Cup title after crushing Sri Lanka",
+  "topic": "india womens asia cup champions",
+  "source": "Jamuna TV, Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-13T19:08:55Z"
+ },
+ {
+  "title_hash": "510bf9468b8300a1",
+  "url": "https://www.jamuna.tv/sports/664073",
+  "headline": "India win eighth Women's Asia Cup title after crushing Sri Lanka",
+  "topic": "india womens asia cup champions",
+  "source": "Jamuna TV, Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-13T19:08:55Z"
+ },
+ {
+  "title_hash": "fdcb8492f0b65916",
+  "url": "https://www.prothomalo.com/sports/cricket/k418gy3wth",
+  "headline": "India win eighth Women's Asia Cup title after crushing Sri Lanka",
+  "topic": "india womens asia cup champions",
+  "source": "Jamuna TV, Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-13T19:08:55Z"
+ },
+ {
+  "title_hash": "48188bf746c21e17",
+  "url": "https://www.thedailystar.net/news/bangladesh/news/five-held-over-sale-govt-data-4272141",
+  "headline": "5 held as RAB busts gang selling govt data online",
+  "topic": "arrests for selling govt data",
+  "source": "Jamuna TV, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-13T19:08:55Z"
+ },
+ {
+  "title_hash": "cd959bbbbeb0efee",
+  "url": "https://www.jamuna.tv/national/664072",
+  "headline": "5 held as RAB busts gang selling govt data online",
+  "topic": "arrests for selling govt data",
+  "source": "Jamuna TV, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-13T19:08:55Z"
  }
 ]
