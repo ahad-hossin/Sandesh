@@ -1,33 +1,5 @@
 [
  {
-  "title_hash": "b8ba51ce6d83c8f3",
-  "url": "https://www.prothomalo.com/bangladesh/zl9srtubmu",
-  "headline": "9 deaths in 24 hours: Record single-day dengue deaths and hospitalisations this year",
-  "topic": "record-daily-dengue-deaths",
-  "source": "Dhaka Tribune, Prothom Alo, The Daily Star, Jamuna TV",
-  "status": "failed",
-  "at": "2026-09-08T14:08:27Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "88f129d2bec095ce",
-  "url": "https://www.thedailystar.net/news/healthcare/disease/news/record-single-day-dengue-deaths-hospitalisations-year-4267906",
-  "headline": "9 deaths in 24 hours: Record single-day dengue deaths and hospitalisations this year",
-  "topic": "record-daily-dengue-deaths",
-  "source": "Dhaka Tribune, Prothom Alo, The Daily Star, Jamuna TV",
-  "status": "failed",
-  "at": "2026-09-08T14:08:27Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "87d979da83658a9b",
   "url": "https://www.jamuna.tv/national/663705",
   "headline": "9 deaths in 24 hours: Record single-day dengue deaths and hospitalisations this year",
@@ -8398,5 +8370,23 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "433308fe63f04513",
+  "url": "https://www.prothomalo.com/world/middle-east/18uvceu9q7",
+  "headline": "Iran to launch new shipping route in Strait of Hormuz amid US sanctions",
+  "topic": "Iran new shipping route Hormuz",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-13T00:07:25Z"
+ },
+ {
+  "title_hash": "0b88e823bd3937ff",
+  "url": "https://www.prothomalo.com/world/india/dcktnqglst",
+  "headline": "BRICS leaders adopt 45-page New Delhi Declaration, call for UN reform, local currency trade",
+  "topic": "BRICS summit joint declaration",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-13T00:07:25Z"
  }
 ]
