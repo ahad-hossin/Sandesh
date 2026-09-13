@@ -8321,8 +8321,13 @@
   "headline": "4% of global oil supply at risk as Saudi pipeline shuts down",
   "topic": "saudi oil pipeline disruption",
   "source": "Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-13T15:11:13Z"
+  "status": "failed",
+  "at": "2026-09-13T15:11:13Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "31c88c99a1c3253f",
@@ -8330,8 +8335,13 @@
   "headline": "4% of global oil supply at risk as Saudi pipeline shuts down",
   "topic": "saudi oil pipeline disruption",
   "source": "Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-13T15:11:13Z"
+  "status": "failed",
+  "at": "2026-09-13T15:11:13Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "d748f66d4b1baf01",
@@ -8339,8 +8349,13 @@
   "headline": "Asif Mahmud denies Bs 11,000 crore money laundering allegations by ACC",
   "topic": "ACC probes Asif Mahmud over corruption allegations",
   "source": "Dhaka Tribune, Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-13T15:11:13Z"
+  "status": "failed",
+  "at": "2026-09-13T15:11:13Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "34a49469d0ccf9fd",
@@ -8348,8 +8363,13 @@
   "headline": "Asif Mahmud denies Bs 11,000 crore money laundering allegations by ACC",
   "topic": "ACC probes Asif Mahmud over corruption allegations",
   "source": "Dhaka Tribune, Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-13T15:11:13Z"
+  "status": "failed",
+  "at": "2026-09-13T15:11:13Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "b5ac6b20b84d6c26",
@@ -8357,8 +8377,13 @@
   "headline": "Asif Mahmud denies Bs 11,000 crore money laundering allegations by ACC",
   "topic": "ACC probes Asif Mahmud over corruption allegations",
   "source": "Dhaka Tribune, Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-13T15:11:13Z"
+  "status": "failed",
+  "at": "2026-09-13T15:11:13Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "4609bee53687de5a",
@@ -8366,7 +8391,12 @@
   "headline": "Asif Mahmud denies Bs 11,000 crore money laundering allegations by ACC",
   "topic": "ACC probes Asif Mahmud over corruption allegations",
   "source": "Dhaka Tribune, Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-13T15:11:13Z"
+  "status": "failed",
+  "at": "2026-09-13T15:11:13Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
