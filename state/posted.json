@@ -8321,8 +8321,13 @@
   "headline": "24 Awami League leaders placed on 10-day remand for Gulshan procession",
   "topic": "al-chhatra-league-gulshan-arrests",
   "source": "Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-13T08:08:20Z"
+  "status": "failed",
+  "at": "2026-09-13T08:08:20Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "0c168ddadcd2b789",
@@ -8330,8 +8335,13 @@
   "headline": "24 Awami League leaders placed on 10-day remand for Gulshan procession",
   "topic": "al-chhatra-league-gulshan-arrests",
   "source": "Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-13T08:08:20Z"
+  "status": "failed",
+  "at": "2026-09-13T08:08:20Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "fdd211d24f97ea12",
@@ -8339,8 +8349,13 @@
   "headline": "4 killed as lorry hits microbus returning from wedding in Chattogram",
   "topic": "ctg-wedding-road-accident",
   "source": "Dhaka Tribune, The Daily Star, Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-13T08:08:20Z"
+  "status": "failed",
+  "at": "2026-09-13T08:08:20Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "f2e293336aaed7d5",
@@ -8348,8 +8363,13 @@
   "headline": "4 killed as lorry hits microbus returning from wedding in Chattogram",
   "topic": "ctg-wedding-road-accident",
   "source": "Dhaka Tribune, The Daily Star, Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-13T08:08:20Z"
+  "status": "failed",
+  "at": "2026-09-13T08:08:20Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "7a1b49e68d09a47b",
@@ -8357,8 +8377,13 @@
   "headline": "4 killed as lorry hits microbus returning from wedding in Chattogram",
   "topic": "ctg-wedding-road-accident",
   "source": "Dhaka Tribune, The Daily Star, Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-13T08:08:20Z"
+  "status": "failed",
+  "at": "2026-09-13T08:08:20Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "275429e00f2bc08b",
@@ -8366,7 +8391,12 @@
   "headline": "4 killed as lorry hits microbus returning from wedding in Chattogram",
   "topic": "ctg-wedding-road-accident",
   "source": "Dhaka Tribune, The Daily Star, Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-13T08:08:20Z"
+  "status": "failed",
+  "at": "2026-09-13T08:08:20Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
