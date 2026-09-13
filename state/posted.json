@@ -8363,8 +8363,13 @@
   "headline": "1,022 dead as measles outbreak death toll rises",
   "topic": "measles outbreak death toll surpasses 1000",
   "source": "Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-09-13T12:18:49Z"
+  "status": "failed",
+  "at": "2026-09-13T12:18:49Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "1736d3caa9459a80",
@@ -8372,8 +8377,13 @@
   "headline": "Adani Power Plant: Unit-2 resumes supply to Bangladesh grid",
   "topic": "Adani power unit resumes supply to Bangladesh",
   "source": "Dhaka Tribune, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-13T12:18:49Z"
+  "status": "failed",
+  "at": "2026-09-13T12:18:49Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "b466aa6fec5b6b5f",
@@ -8381,7 +8391,12 @@
   "headline": "Adani Power Plant: Unit-2 resumes supply to Bangladesh grid",
   "topic": "Adani power unit resumes supply to Bangladesh",
   "source": "Dhaka Tribune, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-13T12:18:49Z"
+  "status": "failed",
+  "at": "2026-09-13T12:18:49Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
