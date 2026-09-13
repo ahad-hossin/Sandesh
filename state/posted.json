@@ -8335,8 +8335,13 @@
   "headline": "VAR controversy rocks Manchester derby: City win 1-0 despite 10 men",
   "topic": "manchester derby var controversy",
   "source": "The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-13T21:08:29Z"
+  "status": "failed",
+  "at": "2026-09-13T21:08:29Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "3970974f0020ba6e",
@@ -8344,8 +8349,13 @@
   "headline": "VAR controversy rocks Manchester derby: City win 1-0 despite 10 men",
   "topic": "manchester derby var controversy",
   "source": "The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-13T21:08:29Z"
+  "status": "failed",
+  "at": "2026-09-13T21:08:29Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "1f6fdfcbfce0133c",
@@ -8353,8 +8363,13 @@
   "headline": "VAR controversy rocks Manchester derby: City win 1-0 despite 10 men",
   "topic": "manchester derby var controversy",
   "source": "The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-13T21:08:29Z"
+  "status": "failed",
+  "at": "2026-09-13T21:08:29Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "6cc2ff3e6faa4f13",
@@ -8362,8 +8377,13 @@
   "headline": "8th title: India win Women's Asia Cup by crushing Sri Lanka",
   "topic": "india womens asia cup win",
   "source": "The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-13T21:08:29Z"
+  "status": "failed",
+  "at": "2026-09-13T21:08:29Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "fdcb8492f0b65916",
@@ -8371,7 +8391,12 @@
   "headline": "8th title: India win Women's Asia Cup by crushing Sri Lanka",
   "topic": "india womens asia cup win",
   "source": "The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-13T21:08:29Z"
+  "status": "failed",
+  "at": "2026-09-13T21:08:29Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
