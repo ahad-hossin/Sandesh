@@ -8363,8 +8363,13 @@
   "headline": "Referee body admits 'error of judgment' over Haaland goal in Manchester derby",
   "topic": "manchester derby var controversy",
   "source": "The Daily Star",
-  "status": "queued",
-  "at": "2026-09-13T23:06:49Z"
+  "status": "failed",
+  "at": "2026-09-13T23:06:49Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "e959dcdeb262b864",
@@ -8372,8 +8377,13 @@
   "headline": "Referee body admits 'error of judgment' over Haaland goal in Manchester derby",
   "topic": "manchester derby var controversy",
   "source": "The Daily Star",
-  "status": "queued",
-  "at": "2026-09-13T23:06:49Z"
+  "status": "failed",
+  "at": "2026-09-13T23:06:49Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "6cc2ff3e6faa4f13",
@@ -8381,7 +8391,12 @@
   "headline": "India beat Sri Lanka by 72 runs to win eighth Women's Asia Cup title",
   "topic": "india womens asia cup win",
   "source": "The Daily Star",
-  "status": "queued",
-  "at": "2026-09-13T23:06:49Z"
+  "status": "failed",
+  "at": "2026-09-13T23:06:49Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
