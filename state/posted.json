@@ -1,75 +1,5 @@
 [
  {
-  "title_hash": "1f1e7472d9b7dfd3",
-  "url": "https://www.prothomalo.com/video/bangladesh/w7pmetctnx",
-  "headline": "9 deaths in 24 hours: Highest daily dengue toll this year",
-  "topic": "bangladesh dengue death toll record",
-  "source": "Dhaka Tribune, Prothom Alo, Jamuna TV, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-08T17:11:08Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "9f51fd503c0f92c3",
-  "url": "https://www.dhakatribune.com/bangladesh/health/419379/dengue-nine-more-die-as-1-571-cases-recorded-in",
-  "headline": "9 deaths in 24 hours: Highest daily dengue toll this year",
-  "topic": "bangladesh dengue death toll record",
-  "source": "Dhaka Tribune, Prothom Alo, Jamuna TV, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-08T17:11:08Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "ebf4d7d76b308c57",
-  "url": "https://www.dhakatribune.com/bangladesh/parliament/419382/pm-urges-students-to-keep-homes-schools-clean-to",
-  "headline": "9 deaths in 24 hours: Highest daily dengue toll this year",
-  "topic": "bangladesh dengue death toll record",
-  "source": "Dhaka Tribune, Prothom Alo, Jamuna TV, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-08T17:11:08Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "201455a3afc94097",
-  "url": "https://www.jamuna.tv/national/663708",
-  "headline": "9 deaths in 24 hours: Highest daily dengue toll this year",
-  "topic": "bangladesh dengue death toll record",
-  "source": "Dhaka Tribune, Prothom Alo, Jamuna TV, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-08T17:11:08Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "88f129d2bec095ce",
-  "url": "https://www.thedailystar.net/news/healthcare/disease/news/record-single-day-dengue-deaths-hospitalisations-year-4267906",
-  "headline": "9 deaths in 24 hours: Highest daily dengue toll this year",
-  "topic": "bangladesh dengue death toll record",
-  "source": "Dhaka Tribune, Prothom Alo, Jamuna TV, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-08T17:11:08Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "87d979da83658a9b",
   "url": "https://www.jamuna.tv/national/663705",
   "headline": "9 deaths in 24 hours: Highest daily dengue toll this year",
@@ -8398,5 +8328,50 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "5e0109ff1ee609e6",
+  "url": "https://www.thedailystar.net/news/power-and-energy/news/pm-chevron-delegation-discuss-investment-and-gas-exploration-bangladesh-4271731",
+  "headline": "PM Tarique Rahman discusses gas exploration with Chevron",
+  "topic": "sun-car-innovation",
+  "source": "Prothom Alo, The Daily Star, Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-09-13T11:09:37Z"
+ },
+ {
+  "title_hash": "183dcfb21422049a",
+  "url": "https://www.prothomalo.com/bangladesh/zhtnm6rpn4",
+  "headline": "PM Tarique Rahman discusses gas exploration with Chevron",
+  "topic": "sun-car-innovation",
+  "source": "Prothom Alo, The Daily Star, Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-09-13T11:09:37Z"
+ },
+ {
+  "title_hash": "0eb8552667bbcc3c",
+  "url": "https://www.dhakatribune.com/bangladesh/foreign-affairs/419737/chevron-team-meets-pm-discusses-investment-in",
+  "headline": "PM Tarique Rahman discusses gas exploration with Chevron",
+  "topic": "sun-car-innovation",
+  "source": "Prothom Alo, The Daily Star, Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-09-13T11:09:37Z"
+ },
+ {
+  "title_hash": "97c1eaf16bf9fd17",
+  "url": "https://www.dhakatribune.com/bangladesh/health/419732/measles-outbreak-death-toll-reaches-1-022-as",
+  "headline": "PM Tarique Rahman launches 3-month dengue prevention campaign",
+  "topic": "measles-outbreak-death-toll",
+  "source": "Dhaka Tribune, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-13T11:09:37Z"
+ },
+ {
+  "title_hash": "e4f45b87262c34d9",
+  "url": "https://www.thedailystar.net/news/politics/news/help-us-prevent-dengue-build-clean-bangladesh-4271376",
+  "headline": "PM Tarique Rahman launches 3-month dengue prevention campaign",
+  "topic": "measles-outbreak-death-toll",
+  "source": "Dhaka Tribune, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-13T11:09:37Z"
  }
 ]
