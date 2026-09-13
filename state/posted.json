@@ -1,61 +1,5 @@
 [
  {
-  "title_hash": "a8351a754ff3ccba",
-  "url": "https://www.jamuna.tv/sports/663735",
-  "headline": "34-run win: Bangladesh women reach Asia Cup semifinals",
-  "topic": "bangladesh womens cricket semi finals",
-  "source": "Jamuna TV, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-08T19:08:35Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "b7e465fce4d0e1d2",
-  "url": "https://www.prothomalo.com/sports/cricket/72pt9rzid2",
-  "headline": "34-run win: Bangladesh women reach Asia Cup semifinals",
-  "topic": "bangladesh womens cricket semi finals",
-  "source": "Jamuna TV, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-08T19:08:35Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "9627ed1aeef2fb16",
-  "url": "https://www.thedailystar.net/sports/cricket/news/bangladesh-survive-uae-scare-reach-semis-4268206",
-  "headline": "34-run win: Bangladesh reach Asia Cup semifinals after beating UAE",
-  "topic": "bangladesh womens cricket semi-finals",
-  "source": "Jamuna TV, The Daily Star, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-08T20:08:27Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "a8351a754ff3ccba",
-  "url": "https://www.jamuna.tv/sports/663735",
-  "headline": "34-run win: Bangladesh reach Asia Cup semifinals after beating UAE",
-  "topic": "bangladesh womens cricket semi-finals",
-  "source": "Jamuna TV, The Daily Star, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-08T20:08:27Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "b7e465fce4d0e1d2",
   "url": "https://www.prothomalo.com/sports/cricket/72pt9rzid2",
   "headline": "34-run win: Bangladesh reach Asia Cup semifinals after beating UAE",
@@ -8398,5 +8342,41 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "ac855c5771ae864a",
+  "url": "https://www.prothomalo.com/video/bangladesh/vrp851e2qb",
+  "headline": "Speaker Hafiz Uddin Ahmed says most government officials are thieves",
+  "topic": "speaker says govt officials thieves",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-13T18:08:54Z"
+ },
+ {
+  "title_hash": "f2014a5fb9201f37",
+  "url": "https://www.prothomalo.com/bangladesh/district/4391pas538",
+  "headline": "Speaker Hafiz Uddin Ahmed says most government officials are thieves",
+  "topic": "speaker says govt officials thieves",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-13T18:08:54Z"
+ },
+ {
+  "title_hash": "49a574f755186642",
+  "url": "https://www.jamuna.tv/all-bangladesh/664070",
+  "headline": "7 life imprisonment for 7 in garments officer murder in Narayanganj",
+  "topic": "narayanganj garment officer murder case",
+  "source": "Jamuna TV, Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-13T18:08:54Z"
+ },
+ {
+  "title_hash": "925b5f166cc1ee66",
+  "url": "https://www.prothomalo.com/bangladesh/crime/h4i63aciz4",
+  "headline": "7 life imprisonment for 7 in garments officer murder in Narayanganj",
+  "topic": "narayanganj garment officer murder case",
+  "source": "Jamuna TV, Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-13T18:08:54Z"
  }
 ]
