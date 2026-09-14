@@ -8377,8 +8377,13 @@
   "headline": "Gas supply increases, Adani unit restarts, but load shedding persists in Bangladesh",
   "topic": "Bangladesh faces load shedding despite gas supply increase",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-14T02:07:14Z"
+  "status": "failed",
+  "at": "2026-09-14T02:07:14Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "1d8f4d0ddca1db6e",
@@ -8386,7 +8391,12 @@
   "headline": "Actress Dighi loses 6 kg in two months through strict diet and exercise, aims for more",
   "topic": "Actress Dighi loses 6kg weight",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-14T02:07:14Z"
+  "status": "failed",
+  "at": "2026-09-14T02:07:14Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
