@@ -1,33 +1,5 @@
 [
  {
-  "title_hash": "37f6eecddd7a9e2e",
-  "url": "https://www.dhakatribune.com/bangladesh/parliament/419403/home-minister-diplomatic-communication-with-uae",
-  "headline": "Govt working to bring Benazir Ahmed back from UAE for trial",
-  "topic": "benazir-extradition-parliament",
-  "source": "Dhaka Tribune, Jamuna TV, The Daily Star, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-08T22:09:07Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "a35e988727998220",
-  "url": "https://www.jamuna.tv/national/663734",
-  "headline": "Govt working to bring Benazir Ahmed back from UAE for trial",
-  "topic": "benazir-extradition-parliament",
-  "source": "Dhaka Tribune, Jamuna TV, The Daily Star, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-08T22:09:07Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "f5f13efed0514bfd",
   "url": "https://www.thedailystar.net/news/governance/parliament/news/parliament-adopts-motion-seeking-update-benazirs-extradition-4268246",
   "headline": "Govt working to bring Benazir Ahmed back from UAE for trial",
@@ -8398,5 +8370,23 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "0a0b761af27fc663",
+  "url": "https://www.prothomalo.com/bangladesh/rclrkbdypk",
+  "headline": "Gas supply increases, Adani unit restarts, but load shedding persists in Bangladesh",
+  "topic": "Bangladesh faces load shedding despite gas supply increase",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-14T02:07:14Z"
+ },
+ {
+  "title_hash": "1d8f4d0ddca1db6e",
+  "url": "https://www.prothomalo.com/entertainment/tv/utxs4ry870",
+  "headline": "Actress Dighi loses 6 kg in two months through strict diet and exercise, aims for more",
+  "topic": "Actress Dighi loses 6kg weight",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-14T02:07:14Z"
  }
 ]
