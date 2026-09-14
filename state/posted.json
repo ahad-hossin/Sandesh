@@ -8349,8 +8349,13 @@
   "headline": "Over 4,800 UAE cancels visas of Bangladeshis, leaving thousands stranded",
   "topic": "uae cancels bangladeshi visas",
   "source": "The Daily Star",
-  "status": "queued",
-  "at": "2026-09-14T17:10:46Z"
+  "status": "failed",
+  "at": "2026-09-14T17:10:46Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "f77240f6d5508c35",
@@ -8358,8 +8363,13 @@
   "headline": "City polls: Jamaat picks Selim Uddin and Shadik Kayem for Dhaka mayors",
   "topic": "jamaat dhaka city poll candidates",
   "source": "Dhaka Tribune, Jamuna TV, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-14T17:10:46Z"
+  "status": "failed",
+  "at": "2026-09-14T17:10:46Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "b63c377b0d85833e",
@@ -8367,8 +8377,13 @@
   "headline": "City polls: Jamaat picks Selim Uddin and Shadik Kayem for Dhaka mayors",
   "topic": "jamaat dhaka city poll candidates",
   "source": "Dhaka Tribune, Jamuna TV, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-14T17:10:46Z"
+  "status": "failed",
+  "at": "2026-09-14T17:10:46Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "0adba2641f10cbc2",
@@ -8376,7 +8391,12 @@
   "headline": "City polls: Jamaat picks Selim Uddin and Shadik Kayem for Dhaka mayors",
   "topic": "jamaat dhaka city poll candidates",
   "source": "Dhaka Tribune, Jamuna TV, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-14T17:10:46Z"
+  "status": "failed",
+  "at": "2026-09-14T17:10:46Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
