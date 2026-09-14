@@ -1,33 +1,5 @@
 [
  {
-  "title_hash": "27e3bb3700009e97",
-  "url": "https://www.jamuna.tv/international/663739",
-  "headline": "Iran attacks US military base in Jordan after US strikes on oil tankers, global oil prices near $100",
-  "topic": "Iran attacks US base in Jordan",
-  "source": "Jamuna TV, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-09T03:06:36Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "59a57df7ea40df92",
-  "url": "https://www.prothomalo.com/chakri/employment/b75slo7sxg",
-  "headline": "Bangladesh plans to recruit 100,000 health workers in 3 phases to tackle severe shortage",
-  "topic": "Bangladesh plans to recruit 1 lakh health workers",
-  "source": "Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-09T03:06:36Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "17c5db4eb9a94f62",
   "url": "https://www.thedailystar.net/news/world/news/iran-attacks-us-base-jordan-hormuz-impasse-deepens-4268436",
   "headline": "Iran's Revolutionary Guards strike US military base in Jordan after US hits oil tankers",
@@ -8398,5 +8370,23 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "1b9490b2953b9fcf",
+  "url": "https://www.dhakatribune.com/bangladesh/court/419789/verdict-in-case-against-quader-arafat-5-others",
+  "headline": "Verdict in case against Quader and Arafat scheduled for Tuesday",
+  "topic": "ict tribunal verdict against awami league leaders",
+  "source": "Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-09-14T08:09:44Z"
+ },
+ {
+  "title_hash": "baec9d98b8e6ef08",
+  "url": "https://www.dhakatribune.com/bangladesh/dhaka/419788/family-alleges-medical-negligence-in-infant%E2%80%99s",
+  "headline": "Dhaka hospital: Family alleges medical negligence in infant's death",
+  "topic": "medical negligence allegations in infant death",
+  "source": "Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-09-14T08:09:44Z"
  }
 ]
