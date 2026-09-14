@@ -8349,8 +8349,13 @@
   "headline": "Bangladesh Bank introduces KPI framework for bank CEOs to boost accountability",
   "topic": "islami bank protest injured",
   "source": "Dhaka Tribune, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-14T12:08:37Z"
+  "status": "failed",
+  "at": "2026-09-14T12:08:37Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "8a19bf87cf7303e4",
@@ -8358,8 +8363,13 @@
   "headline": "Bangladesh Bank introduces KPI framework for bank CEOs to boost accountability",
   "topic": "islami bank protest injured",
   "source": "Dhaka Tribune, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-14T12:08:37Z"
+  "status": "failed",
+  "at": "2026-09-14T12:08:37Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "4a79c090af7d094a",
@@ -8367,8 +8377,13 @@
   "headline": "8 children die in 24 hours as measles death toll reaches 1,030",
   "topic": "measles death toll rises",
   "source": "The Daily Star, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-09-14T12:08:37Z"
+  "status": "failed",
+  "at": "2026-09-14T12:08:37Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "e9e9d97f02aea472",
@@ -8376,7 +8391,12 @@
   "headline": "8 children die in 24 hours as measles death toll reaches 1,030",
   "topic": "measles death toll rises",
   "source": "The Daily Star, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-09-14T12:08:37Z"
+  "status": "failed",
+  "at": "2026-09-14T12:08:37Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
