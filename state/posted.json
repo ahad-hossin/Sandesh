@@ -8363,8 +8363,13 @@
   "headline": "Actress Azmeri Haque Badhan physically assaulted in Italy during film festival visit",
   "topic": "azmeri haque badhan italy harassment",
   "source": "The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-14T10:07:42Z"
+  "status": "failed",
+  "at": "2026-09-14T10:07:42Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "c14cbf542bb594f2",
@@ -8372,8 +8377,13 @@
   "headline": "Actress Azmeri Haque Badhan physically assaulted in Italy during film festival visit",
   "topic": "azmeri haque badhan italy harassment",
   "source": "The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-14T10:07:42Z"
+  "status": "failed",
+  "at": "2026-09-14T10:07:42Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "7ab229298eeed19f",
@@ -8381,7 +8391,12 @@
   "headline": "7-year-old girl raped and killed by daughter's father, body buried in floor",
   "topic": "jamalpur child rape murder",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-14T10:07:42Z"
+  "status": "failed",
+  "at": "2026-09-14T10:07:42Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
