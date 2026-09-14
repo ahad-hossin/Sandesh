@@ -1,61 +1,5 @@
 [
  {
-  "title_hash": "941e3cda91de6a14",
-  "url": "https://www.dhakatribune.com/bangladesh/419409/gas-supply-to-remain-suspended-for-8hrs-in-parts",
-  "headline": "8-hour gas supply suspension in parts of Dhaka this Thursday",
-  "topic": "dhaka gas supply cut",
-  "source": "Dhaka Tribune, Jamuna TV",
-  "status": "failed",
-  "at": "2026-09-09T05:07:36Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "e56083965285db85",
-  "url": "https://www.jamuna.tv/national/663748",
-  "headline": "8-hour gas supply suspension in parts of Dhaka this Thursday",
-  "topic": "dhaka gas supply cut",
-  "source": "Dhaka Tribune, Jamuna TV",
-  "status": "failed",
-  "at": "2026-09-09T05:07:36Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "ae57e22c98972073",
-  "url": "https://www.dhakatribune.com/bangladesh/nation/419412/dismissed-ansar-member-hacked-to-death-in-tangail",
-  "headline": "Dismissed Ansar member hacked to death in Tangail, 2 arrested",
-  "topic": "ansar member killed tangail",
-  "source": "Jamuna TV, Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-09-09T06:08:21Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "a552cd523a068f4e",
-  "url": "https://www.jamuna.tv/all-bangladesh/663757",
-  "headline": "Dismissed Ansar member hacked to death in Tangail, 2 arrested",
-  "topic": "ansar member killed tangail",
-  "source": "Jamuna TV, Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-09-09T06:08:21Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "27c9f34570ee5ead",
   "url": "https://www.thedailystar.net/news/healthcare/news/dengue-deaths-cases-hit-yearly-high-4268426",
   "headline": "9 deaths, 1,571 cases: Dengue hits yearly high in single day",
@@ -8398,5 +8342,41 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "3cc1dce12c42d3ab",
+  "url": "https://www.dhakatribune.com/bangladesh/dhaka/419812/islami-bank-protest-turns-violent-25-reportedly",
+  "headline": "Bangladesh Bank introduces KPI framework for bank CEOs to boost accountability",
+  "topic": "islami bank protest injured",
+  "source": "Dhaka Tribune, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-14T12:08:37Z"
+ },
+ {
+  "title_hash": "8a19bf87cf7303e4",
+  "url": "https://www.thedailystar.net/business/economy/news/kpi-introduced-bank-ceos-4272106",
+  "headline": "Bangladesh Bank introduces KPI framework for bank CEOs to boost accountability",
+  "topic": "islami bank protest injured",
+  "source": "Dhaka Tribune, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-14T12:08:37Z"
+ },
+ {
+  "title_hash": "4a79c090af7d094a",
+  "url": "https://www.thedailystar.net/news/healthcare/disease/news/8-more-children-die-measles-symptoms-24-hours-4272596",
+  "headline": "8 children die in 24 hours as measles death toll reaches 1,030",
+  "topic": "measles death toll rises",
+  "source": "The Daily Star, Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-09-14T12:08:37Z"
+ },
+ {
+  "title_hash": "e9e9d97f02aea472",
+  "url": "https://www.dhakatribune.com/bangladesh/health/419805/measles-death-toll-reaches-1-030-eight-more-die",
+  "headline": "8 children die in 24 hours as measles death toll reaches 1,030",
+  "topic": "measles death toll rises",
+  "source": "The Daily Star, Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-09-14T12:08:37Z"
  }
 ]
