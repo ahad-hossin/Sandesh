@@ -8335,8 +8335,13 @@
   "headline": "Regent Chairman Shahed arrested again in money laundering case",
   "topic": "regent chairman shahed arrested",
   "source": "Dhaka Tribune, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-14T09:07:48Z"
+  "status": "failed",
+  "at": "2026-09-14T09:07:48Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "7b6fcb4db74b018f",
@@ -8344,8 +8349,13 @@
   "headline": "Regent Chairman Shahed arrested again in money laundering case",
   "topic": "regent chairman shahed arrested",
   "source": "Dhaka Tribune, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-14T09:07:48Z"
+  "status": "failed",
+  "at": "2026-09-14T09:07:48Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "73a3ba1503e22281",
@@ -8353,8 +8363,13 @@
   "headline": "Dozens injured as sacked Islami Bank employees and consumer forum clash in Dhaka",
   "topic": "islami bank sacked employees clash",
   "source": "The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-14T09:07:48Z"
+  "status": "failed",
+  "at": "2026-09-14T09:07:48Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "d452d0e4c79448b0",
@@ -8362,8 +8377,13 @@
   "headline": "Dozens injured as sacked Islami Bank employees and consumer forum clash in Dhaka",
   "topic": "islami bank sacked employees clash",
   "source": "The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-14T09:07:48Z"
+  "status": "failed",
+  "at": "2026-09-14T09:07:48Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "d24a025d6a502acb",
@@ -8371,7 +8391,12 @@
   "headline": "Dozens injured as sacked Islami Bank employees and consumer forum clash in Dhaka",
   "topic": "islami bank sacked employees clash",
   "source": "The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-14T09:07:48Z"
+  "status": "failed",
+  "at": "2026-09-14T09:07:48Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
