@@ -8335,8 +8335,13 @@
   "headline": "Actress Moushumi to become a mother this month",
   "topic": "actress moushumi pregnancy baby shower",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-14T13:08:13Z"
+  "status": "failed",
+  "at": "2026-09-14T13:08:13Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "46dda57f5506d1cb",
@@ -8344,8 +8349,13 @@
   "headline": "Actress Moushumi to become a mother this month",
   "topic": "actress moushumi pregnancy baby shower",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-14T13:08:13Z"
+  "status": "failed",
+  "at": "2026-09-14T13:08:13Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "0d873891e9c7b737",
@@ -8353,8 +8363,13 @@
   "headline": "Ex-Army Chief Shafiuddin Ahmed skips ACC summons and asks for 30 days",
   "topic": "former army chief ex-regent chairman summoned by ACC arrested",
   "source": "Prothom Alo, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-09-14T13:08:13Z"
+  "status": "failed",
+  "at": "2026-09-14T13:08:13Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "940493734d53e065",
@@ -8362,8 +8377,13 @@
   "headline": "Ex-Army Chief Shafiuddin Ahmed skips ACC summons and asks for 30 days",
   "topic": "former army chief ex-regent chairman summoned by ACC arrested",
   "source": "Prothom Alo, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-09-14T13:08:13Z"
+  "status": "failed",
+  "at": "2026-09-14T13:08:13Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "7dfa72b92bbf4270",
@@ -8371,7 +8391,12 @@
   "headline": "Ex-Army Chief Shafiuddin Ahmed skips ACC summons and asks for 30 days",
   "topic": "former army chief ex-regent chairman summoned by ACC arrested",
   "source": "Prothom Alo, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-09-14T13:08:13Z"
+  "status": "failed",
+  "at": "2026-09-14T13:08:13Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
