@@ -1,89 +1,5 @@
 [
  {
-  "title_hash": "31c6251676cdf8ad",
-  "url": "https://www.thedailystar.net/opinion/editorial/news/attack-badhan-quite-alarming-4268216",
-  "headline": "Actress Azmeri Haque Badhon attacked in Italy during film festival visit",
-  "topic": "attack on actress azmeri haque badhon",
-  "source": "The Daily Star, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-09T07:11:19Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "2d739846b17b8119",
-  "url": "https://www.thedailystar.net/news/politics/news/rizvi-condemns-attack-badhon-calls-it-cowardly-act-4268526",
-  "headline": "Actress Azmeri Haque Badhon attacked in Italy during film festival visit",
-  "topic": "attack on actress azmeri haque badhon",
-  "source": "The Daily Star, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-09T07:11:19Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "48a254885ddf61e4",
-  "url": "https://www.prothomalo.com/opinion/editorial/qm90i2xn7p",
-  "headline": "Actress Azmeri Haque Badhon attacked in Italy during film festival visit",
-  "topic": "attack on actress azmeri haque badhon",
-  "source": "The Daily Star, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-09T07:11:19Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "5606e9879bbb2c93",
-  "url": "https://www.thedailystar.net/news/crime-justice/news/attack-badhon-bangladesh-raise-issue-italy-4268316",
-  "headline": "Actress Azmeri Haque Badhon attacked in Italy during film festival visit",
-  "topic": "attack on actress azmeri haque badhon",
-  "source": "The Daily Star, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-09T07:11:19Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "a096c29964c4f1c6",
-  "url": "https://www.dhakatribune.com/bangladesh/419417/pm-orders-stricter-action-against-unchecked-use-of",
-  "headline": "PM orders stricter action against unchecked polythene, plastic use",
-  "topic": "pm orders action against plastic pollution",
-  "source": "Dhaka Tribune, The Daily Star, Jamuna TV",
-  "status": "failed",
-  "at": "2026-09-09T08:09:43Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "2480ff9bfd87726d",
-  "url": "https://www.thedailystar.net/news/environment/news/pm-orders-tougher-action-against-polythene-plastic-use-4268531",
-  "headline": "PM orders stricter action against unchecked polythene, plastic use",
-  "topic": "pm orders action against plastic pollution",
-  "source": "Dhaka Tribune, The Daily Star, Jamuna TV",
-  "status": "failed",
-  "at": "2026-09-09T08:09:43Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "412479f4769bcb17",
   "url": "https://www.jamuna.tv/national/663761",
   "headline": "PM orders stricter action against unchecked polythene, plastic use",
@@ -8398,5 +8314,59 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "dd35b41941aee36e",
+  "url": "https://www.dhakatribune.com/bangladesh/power-energy/419828/gas-power-supply-to-return-to-pre-august-levels",
+  "headline": "Industrial gas supply to return to pre-August levels by Tuesday evening",
+  "topic": "pm assures businesses gas power supply to return to normal",
+  "source": "Dhaka Tribune, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-14T14:08:57Z"
+ },
+ {
+  "title_hash": "1fb859d6587cbea0",
+  "url": "https://www.thedailystar.net/news/power-and-energy/news/gas-supply-industries-near-previous-levels-tomorrow-evening-pm-tarique-4272651",
+  "headline": "Industrial gas supply to return to pre-August levels by Tuesday evening",
+  "topic": "pm assures businesses gas power supply to return to normal",
+  "source": "Dhaka Tribune, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-14T14:08:57Z"
+ },
+ {
+  "title_hash": "066a5eb6955f6397",
+  "url": "https://www.dhakatribune.com/bangladesh/419819/pm-urges-clear-communication-of-govt-plans-to",
+  "headline": "Industrial gas supply to return to pre-August levels by Tuesday evening",
+  "topic": "pm assures businesses gas power supply to return to normal",
+  "source": "Dhaka Tribune, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-14T14:08:57Z"
+ },
+ {
+  "title_hash": "c39e08aa475126dd",
+  "url": "https://www.thedailystar.net/campus/news/jinnah-images-torn-ducsu-archive-photo-ghulam-azam-beaten-shoes-put-display-4272666",
+  "headline": "Student tears up Jinnah images at Ducsu archive in protest",
+  "topic": "ducsu displays jinnah photo, students protest",
+  "source": "The Daily Star, Dhaka Tribune, Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-14T14:08:57Z"
+ },
+ {
+  "title_hash": "1632fc9681611186",
+  "url": "https://www.dhakatribune.com/bangladesh/education/419802/du-warns-ducsu-against-%E2%80%98parallel-administration%E2%80%99",
+  "headline": "Student tears up Jinnah images at Ducsu archive in protest",
+  "topic": "ducsu displays jinnah photo, students protest",
+  "source": "The Daily Star, Dhaka Tribune, Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-14T14:08:57Z"
+ },
+ {
+  "title_hash": "5e43a14a132f0a93",
+  "url": "https://www.prothomalo.com/bangladesh/ddaaksute-jinnaahr-chbi-chinrre-phellen-shikssaarthii",
+  "headline": "Student tears up Jinnah images at Ducsu archive in protest",
+  "topic": "ducsu displays jinnah photo, students protest",
+  "source": "The Daily Star, Dhaka Tribune, Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-14T14:08:57Z"
  }
 ]
