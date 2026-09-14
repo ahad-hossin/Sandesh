@@ -1,61 +1,5 @@
 [
  {
-  "title_hash": "57f144e99bebddfd",
-  "url": "https://www.thedailystar.net/news/healthcare/disease/news/measles-suspected-cases-take-death-toll-past-1000-dghs-4268631",
-  "headline": "Over 1,000 deaths from measles and suspected cases reported by DGHS",
-  "topic": "measles outbreak deaths",
-  "source": "Jamuna TV, The Daily Star, Dhaka Tribune, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-09T11:09:11Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "978fb086aa3a6410",
-  "url": "https://www.jamuna.tv/national/663776",
-  "headline": "Over 1,000 deaths from measles and suspected cases reported by DGHS",
-  "topic": "measles outbreak deaths",
-  "source": "Jamuna TV, The Daily Star, Dhaka Tribune, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-09T11:09:11Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "b77a23b91b32aa84",
-  "url": "https://www.dhakatribune.com/bangladesh/419426/measles-1-000-children-lost-to-preventable-disease",
-  "headline": "Over 1,000 deaths from measles and suspected cases reported by DGHS",
-  "topic": "measles outbreak deaths",
-  "source": "Jamuna TV, The Daily Star, Dhaka Tribune, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-09T11:09:11Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "21f27e60e2bf6fd8",
-  "url": "https://www.prothomalo.com/bangladesh/x7x6d826uy",
-  "headline": "Over 1,000 deaths from measles and suspected cases reported by DGHS",
-  "topic": "measles outbreak deaths",
-  "source": "Jamuna TV, The Daily Star, Dhaka Tribune, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-09T11:09:11Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "9d79b82f8a8cc67b",
   "url": "https://www.dhakatribune.com/bangladesh/nation/419420/2-soldiers-killed-officer-injured-in-hathazari",
   "headline": "2 soldiers killed in accident during tank firing exercise in Chittagong",
@@ -8398,5 +8342,41 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "0e8b0d8fa07cbba5",
+  "url": "https://www.thedailystar.net/news/work-and-migration/news/uae-cancels-visas-over-4000-bangladeshis-leaving-many-unable-return-jobs-4272791",
+  "headline": "Over 4,800 UAE cancels visas of Bangladeshis, leaving thousands stranded",
+  "topic": "uae cancels bangladeshi visas",
+  "source": "The Daily Star",
+  "status": "queued",
+  "at": "2026-09-14T17:10:46Z"
+ },
+ {
+  "title_hash": "f77240f6d5508c35",
+  "url": "https://www.dhakatribune.com/bangladesh/politics/419840/city-polls-jamaat-picks-selim-uddin-for-dncc",
+  "headline": "City polls: Jamaat picks Selim Uddin and Shadik Kayem for Dhaka mayors",
+  "topic": "jamaat dhaka city poll candidates",
+  "source": "Dhaka Tribune, Jamuna TV, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-14T17:10:46Z"
+ },
+ {
+  "title_hash": "b63c377b0d85833e",
+  "url": "https://www.jamuna.tv/politics/664131",
+  "headline": "City polls: Jamaat picks Selim Uddin and Shadik Kayem for Dhaka mayors",
+  "topic": "jamaat dhaka city poll candidates",
+  "source": "Dhaka Tribune, Jamuna TV, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-14T17:10:46Z"
+ },
+ {
+  "title_hash": "0adba2641f10cbc2",
+  "url": "https://www.thedailystar.net/news/politics/political-parties/news/selim-uddin-ducsu-vp-shadik-kayem-likely-jamaat-picks-dhaka-city-polls-4272736",
+  "headline": "City polls: Jamaat picks Selim Uddin and Shadik Kayem for Dhaka mayors",
+  "topic": "jamaat dhaka city poll candidates",
+  "source": "Dhaka Tribune, Jamuna TV, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-14T17:10:46Z"
  }
 ]
