@@ -1,33 +1,5 @@
 [
  {
-  "title_hash": "f5f13efed0514bfd",
-  "url": "https://www.thedailystar.net/news/governance/parliament/news/parliament-adopts-motion-seeking-update-benazirs-extradition-4268246",
-  "headline": "Govt working to bring Benazir Ahmed back from UAE for trial",
-  "topic": "benazir-extradition-parliament",
-  "source": "Dhaka Tribune, Jamuna TV, The Daily Star, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-08T22:09:07Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "ee5d8989e60fd211",
-  "url": "https://www.prothomalo.com/video/bangladesh/ncfm6hkaro",
-  "headline": "Govt working to bring Benazir Ahmed back from UAE for trial",
-  "topic": "benazir-extradition-parliament",
-  "source": "Dhaka Tribune, Jamuna TV, The Daily Star, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-08T22:09:07Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "f33f1243d89d9722",
   "url": "https://www.prothomalo.com/video/bangladesh/wlt8bi7yru",
   "headline": "Govt working to bring Benazir Ahmed back from UAE for trial",
@@ -8398,5 +8370,23 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "0a0b761af27fc663",
+  "url": "https://www.prothomalo.com/bangladesh/rclrkbdypk",
+  "headline": "Gas supply increases, Adani unit restarts, but load shedding to persist for now",
+  "topic": "load shedding despite gas supply increase",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-14T03:07:19Z"
+ },
+ {
+  "title_hash": "e047e40c51c0567f",
+  "url": "https://www.prothomalo.com/fun/c08uaogbbm",
+  "headline": "Bangladeshi banks offer major concessions to large loan defaulters, sparking debate",
+  "topic": "big loan defaulters get discount",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-14T03:07:19Z"
  }
 ]
