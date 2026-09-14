@@ -8363,8 +8363,13 @@
   "headline": "Referee body admits 'error' for Haaland's winning goal in Manchester derby",
   "topic": "manchester derby haaland goal controversy",
   "source": "The Daily Star",
-  "status": "queued",
-  "at": "2026-09-14T00:11:48Z"
+  "status": "failed",
+  "at": "2026-09-14T00:11:48Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "e959dcdeb262b864",
@@ -8372,8 +8377,13 @@
   "headline": "Referee body admits 'error' for Haaland's winning goal in Manchester derby",
   "topic": "manchester derby haaland goal controversy",
   "source": "The Daily Star",
-  "status": "queued",
-  "at": "2026-09-14T00:11:48Z"
+  "status": "failed",
+  "at": "2026-09-14T00:11:48Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "f4bd5bad1cca99f3",
@@ -8381,7 +8391,12 @@
   "headline": "Zverev wins US Open title, defeating Shelton for second Grand Slam trophy",
   "topic": "zverev wins us open",
   "source": "The Daily Star",
-  "status": "queued",
-  "at": "2026-09-14T00:11:48Z"
+  "status": "failed",
+  "at": "2026-09-14T00:11:48Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
