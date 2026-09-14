@@ -8377,8 +8377,13 @@
   "headline": "Gas supply increases, Adani unit restarts, but load shedding to persist for now",
   "topic": "load shedding despite gas supply increase",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-14T03:07:19Z"
+  "status": "failed",
+  "at": "2026-09-14T03:07:19Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "e047e40c51c0567f",
@@ -8386,7 +8391,12 @@
   "headline": "Bangladeshi banks offer major concessions to large loan defaulters, sparking debate",
   "topic": "big loan defaulters get discount",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-14T03:07:19Z"
+  "status": "failed",
+  "at": "2026-09-14T03:07:19Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
