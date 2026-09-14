@@ -1,75 +1,5 @@
 [
  {
-  "title_hash": "17c5db4eb9a94f62",
-  "url": "https://www.thedailystar.net/news/world/news/iran-attacks-us-base-jordan-hormuz-impasse-deepens-4268436",
-  "headline": "Iran's Revolutionary Guards strike US military base in Jordan after US hits oil tankers",
-  "topic": "iran attacks us base",
-  "source": "The Daily Star, Jamuna TV",
-  "status": "failed",
-  "at": "2026-09-09T04:07:12Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "ca3cc8a067de70a0",
-  "url": "https://www.jamuna.tv/international/663743",
-  "headline": "Iran's Revolutionary Guards strike US military base in Jordan after US hits oil tankers",
-  "topic": "iran attacks us base",
-  "source": "The Daily Star, Jamuna TV",
-  "status": "failed",
-  "at": "2026-09-09T04:07:12Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "27e3bb3700009e97",
-  "url": "https://www.jamuna.tv/international/663739",
-  "headline": "Iran's Revolutionary Guards strike US military base in Jordan after US hits oil tankers",
-  "topic": "iran attacks us base",
-  "source": "The Daily Star, Jamuna TV",
-  "status": "failed",
-  "at": "2026-09-09T04:07:12Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "5606e9879bbb2c93",
-  "url": "https://www.thedailystar.net/news/crime-justice/news/attack-badhon-bangladesh-raise-issue-italy-4268316",
-  "headline": "Bangladesh to lodge strong protest with Italy over attack on actor Azmeri Haque Badhon in Venice",
-  "topic": "actress badhon attack venice",
-  "source": "Prothom Alo, Jamuna TV, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-09T04:07:12Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "48a254885ddf61e4",
-  "url": "https://www.prothomalo.com/opinion/editorial/qm90i2xn7p",
-  "headline": "Bangladesh to lodge strong protest with Italy over attack on actor Azmeri Haque Badhon in Venice",
-  "topic": "actress badhon attack venice",
-  "source": "Prothom Alo, Jamuna TV, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-09T04:07:12Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "1d03dd491f333eac",
   "url": "https://www.jamuna.tv/international/663732",
   "headline": "Bangladesh to lodge strong protest with Italy over attack on actor Azmeri Haque Badhon in Venice",
@@ -8398,5 +8328,50 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "0d873891e9c7b737",
+  "url": "https://www.dhakatribune.com/bangladesh/corruption/419792/regent-chairman-shahed-arrested-again-in-money",
+  "headline": "Regent Chairman Shahed arrested again in money laundering case",
+  "topic": "regent chairman shahed arrested",
+  "source": "Dhaka Tribune, Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-14T09:07:48Z"
+ },
+ {
+  "title_hash": "7b6fcb4db74b018f",
+  "url": "https://www.prothomalo.com/bangladesh/fz67rbaiy6",
+  "headline": "Regent Chairman Shahed arrested again in money laundering case",
+  "topic": "regent chairman shahed arrested",
+  "source": "Dhaka Tribune, Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-14T09:07:48Z"
+ },
+ {
+  "title_hash": "73a3ba1503e22281",
+  "url": "https://www.thedailystar.net/business/news/dozens-injured-sacked-islami-bank-employees-consumer-forum-clash-4272486",
+  "headline": "Dozens injured as sacked Islami Bank employees and consumer forum clash in Dhaka",
+  "topic": "islami bank sacked employees clash",
+  "source": "The Daily Star, Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-14T09:07:48Z"
+ },
+ {
+  "title_hash": "d452d0e4c79448b0",
+  "url": "https://www.prothomalo.com/business/bank/3brubvuam8",
+  "headline": "Dozens injured as sacked Islami Bank employees and consumer forum clash in Dhaka",
+  "topic": "islami bank sacked employees clash",
+  "source": "The Daily Star, Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-14T09:07:48Z"
+ },
+ {
+  "title_hash": "d24a025d6a502acb",
+  "url": "https://www.prothomalo.com/bangladesh/capital/w30hq2awlr",
+  "headline": "Dozens injured as sacked Islami Bank employees and consumer forum clash in Dhaka",
+  "topic": "islami bank sacked employees clash",
+  "source": "The Daily Star, Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-14T09:07:48Z"
  }
 ]
