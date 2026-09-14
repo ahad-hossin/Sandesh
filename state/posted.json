@@ -8363,8 +8363,13 @@
   "headline": "India Women refuse Asia Cup trophy from Mohsin Naqvi after dominant final win in Dubai",
   "topic": "India refuses Asia Cup trophy",
   "source": "Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-14T04:07:04Z"
+  "status": "failed",
+  "at": "2026-09-14T04:07:04Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "b9d33eda652b2e26",
@@ -8372,8 +8377,13 @@
   "headline": "India Women refuse Asia Cup trophy from Mohsin Naqvi after dominant final win in Dubai",
   "topic": "India refuses Asia Cup trophy",
   "source": "Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-14T04:07:04Z"
+  "status": "failed",
+  "at": "2026-09-14T04:07:04Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "0a0b761af27fc663",
@@ -8381,7 +8391,12 @@
   "headline": "Gas supply increases, Adani power unit restarts, but load shedding persists in Bangladesh",
   "topic": "Load shedding despite gas increase",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-14T04:07:04Z"
+  "status": "failed",
+  "at": "2026-09-14T04:07:04Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
