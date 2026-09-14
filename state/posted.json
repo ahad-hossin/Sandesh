@@ -1,75 +1,5 @@
 [
  {
-  "title_hash": "27c9f34570ee5ead",
-  "url": "https://www.thedailystar.net/news/healthcare/news/dengue-deaths-cases-hit-yearly-high-4268426",
-  "headline": "9 deaths, 1,571 cases: Dengue hits yearly high in single day",
-  "topic": "dengue cases hit yearly high",
-  "source": "The Daily Star, Jamuna TV",
-  "status": "failed",
-  "at": "2026-09-09T06:08:21Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "e9df5f025cfe6330",
-  "url": "https://www.jamuna.tv/national/663754",
-  "headline": "9 deaths, 1,571 cases: Dengue hits yearly high in single day",
-  "topic": "dengue cases hit yearly high",
-  "source": "The Daily Star, Jamuna TV",
-  "status": "failed",
-  "at": "2026-09-09T06:08:21Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "17c5db4eb9a94f62",
-  "url": "https://www.thedailystar.net/news/world/news/iran-attacks-us-base-jordan-hormuz-impasse-deepens-4268436",
-  "headline": "Iran attacks US military base in Jordan after US destroys 5 oil tankers",
-  "topic": "iran attacks us base jordan",
-  "source": "Prothom Alo, The Daily Star, Jamuna TV",
-  "status": "failed",
-  "at": "2026-09-09T07:11:19Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "182963ee37160126",
-  "url": "https://www.prothomalo.com/world/middle-east/nc9uy9tw3l",
-  "headline": "Iran attacks US military base in Jordan after US destroys 5 oil tankers",
-  "topic": "iran attacks us base jordan",
-  "source": "Prothom Alo, The Daily Star, Jamuna TV",
-  "status": "failed",
-  "at": "2026-09-09T07:11:19Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "27e3bb3700009e97",
-  "url": "https://www.jamuna.tv/international/663739",
-  "headline": "Iran attacks US military base in Jordan after US destroys 5 oil tankers",
-  "topic": "iran attacks us base jordan",
-  "source": "Prothom Alo, The Daily Star, Jamuna TV",
-  "status": "failed",
-  "at": "2026-09-09T07:11:19Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "31c6251676cdf8ad",
   "url": "https://www.thedailystar.net/opinion/editorial/news/attack-badhan-quite-alarming-4268216",
   "headline": "Actress Azmeri Haque Badhon attacked in Italy during film festival visit",
@@ -8398,5 +8328,50 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "52dd3523644b573d",
+  "url": "https://www.prothomalo.com/entertainment/tv/0n0ie75nv5",
+  "headline": "Actress Moushumi to become a mother this month",
+  "topic": "actress moushumi pregnancy baby shower",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-14T13:08:13Z"
+ },
+ {
+  "title_hash": "46dda57f5506d1cb",
+  "url": "https://www.prothomalo.com/bangladesh/9ztxizydvo",
+  "headline": "Actress Moushumi to become a mother this month",
+  "topic": "actress moushumi pregnancy baby shower",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-14T13:08:13Z"
+ },
+ {
+  "title_hash": "0d873891e9c7b737",
+  "url": "https://www.dhakatribune.com/bangladesh/corruption/419792/regent-chairman-shahed-arrested-again-in-money",
+  "headline": "Ex-Army Chief Shafiuddin Ahmed skips ACC summons and asks for 30 days",
+  "topic": "former army chief ex-regent chairman summoned by ACC arrested",
+  "source": "Prothom Alo, Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-09-14T13:08:13Z"
+ },
+ {
+  "title_hash": "940493734d53e065",
+  "url": "https://www.prothomalo.com/bangladesh/0zbn918vw8",
+  "headline": "Ex-Army Chief Shafiuddin Ahmed skips ACC summons and asks for 30 days",
+  "topic": "former army chief ex-regent chairman summoned by ACC arrested",
+  "source": "Prothom Alo, Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-09-14T13:08:13Z"
+ },
+ {
+  "title_hash": "7dfa72b92bbf4270",
+  "url": "https://www.prothomalo.com/video/bangladesh/nyilkj4zye",
+  "headline": "Ex-Army Chief Shafiuddin Ahmed skips ACC summons and asks for 30 days",
+  "topic": "former army chief ex-regent chairman summoned by ACC arrested",
+  "source": "Prothom Alo, Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-09-14T13:08:13Z"
  }
 ]
