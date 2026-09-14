@@ -8349,8 +8349,13 @@
   "headline": "India women's team refuses Asia Cup trophy from Naqvi after final win",
   "topic": "India Refuses Asia Cup Trophy",
   "source": "Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-14T05:08:54Z"
+  "status": "failed",
+  "at": "2026-09-14T05:08:54Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "f63f2863d34a823b",
@@ -8358,8 +8363,13 @@
   "headline": "India women's team refuses Asia Cup trophy from Naqvi after final win",
   "topic": "India Refuses Asia Cup Trophy",
   "source": "Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-14T05:08:54Z"
+  "status": "failed",
+  "at": "2026-09-14T05:08:54Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "b9d33eda652b2e26",
@@ -8367,8 +8377,13 @@
   "headline": "India women's team refuses Asia Cup trophy from Naqvi after final win",
   "topic": "India Refuses Asia Cup Trophy",
   "source": "Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-14T05:08:54Z"
+  "status": "failed",
+  "at": "2026-09-14T05:08:54Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "aa1afa93c613cef4",
@@ -8376,7 +8391,12 @@
   "headline": "Monday morning: Dhaka air 6th worst in world",
   "topic": "Dhaka Air Quality Worsens",
   "source": "Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-09-14T05:08:54Z"
+  "status": "failed",
+  "at": "2026-09-14T05:08:54Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
