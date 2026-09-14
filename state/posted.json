@@ -1,61 +1,5 @@
 [
  {
-  "title_hash": "0fbd9a63f14d2360",
-  "url": "https://www.prothomalo.com/sports/football/p5z3faj9hw",
-  "headline": "Haaland double powers Man City to 2-0 victory over Porto",
-  "topic": "man city victory porto",
-  "source": "The Daily Star, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-08T23:13:19Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "37f6eecddd7a9e2e",
-  "url": "https://www.dhakatribune.com/bangladesh/parliament/419403/home-minister-diplomatic-communication-with-uae",
-  "headline": "Govt to bring Benazir Ahmed back from UAE for trial",
-  "topic": "benazir extradition",
-  "source": "Dhaka Tribune, Jamuna TV, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-08T23:13:19Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "a35e988727998220",
-  "url": "https://www.jamuna.tv/national/663734",
-  "headline": "Govt to bring Benazir Ahmed back from UAE for trial",
-  "topic": "benazir extradition",
-  "source": "Dhaka Tribune, Jamuna TV, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-08T23:13:19Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "f5f13efed0514bfd",
-  "url": "https://www.thedailystar.net/news/governance/parliament/news/parliament-adopts-motion-seeking-update-benazirs-extradition-4268246",
-  "headline": "Govt to bring Benazir Ahmed back from UAE for trial",
-  "topic": "benazir extradition",
-  "source": "Dhaka Tribune, Jamuna TV, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-08T23:13:19Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "669726e51b38d019",
   "url": "https://www.thedailystar.net/news/bangladesh/news/benazirs-extradition-house-adopts-opposition-motion-seeking-updates-4268306",
   "headline": "Govt to bring Benazir Ahmed back from UAE for trial",
@@ -8398,5 +8342,41 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "4ab2687a17cadc2b",
+  "url": "https://www.thedailystar.net/sports/cricket/news/india-women-follow-mens-teams-lead-refuse-asia-cup-trophy-naqvi-4272396",
+  "headline": "India women's team refuses Asia Cup trophy from Naqvi after final win",
+  "topic": "India Refuses Asia Cup Trophy",
+  "source": "Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-14T05:08:54Z"
+ },
+ {
+  "title_hash": "f63f2863d34a823b",
+  "url": "https://www.prothomalo.com/sports/cricket/6qvb1mdj5v",
+  "headline": "India women's team refuses Asia Cup trophy from Naqvi after final win",
+  "topic": "India Refuses Asia Cup Trophy",
+  "source": "Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-14T05:08:54Z"
+ },
+ {
+  "title_hash": "b9d33eda652b2e26",
+  "url": "https://www.prothomalo.com/sports/cricket/1iseuek3ye",
+  "headline": "India women's team refuses Asia Cup trophy from Naqvi after final win",
+  "topic": "India Refuses Asia Cup Trophy",
+  "source": "Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-14T05:08:54Z"
+ },
+ {
+  "title_hash": "aa1afa93c613cef4",
+  "url": "https://www.dhakatribune.com/bangladesh/dhaka/419781/dhaka-air-6th-worst-in-world-monday-morning",
+  "headline": "Monday morning: Dhaka air 6th worst in world",
+  "topic": "Dhaka Air Quality Worsens",
+  "source": "Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-09-14T05:08:54Z"
  }
 ]
