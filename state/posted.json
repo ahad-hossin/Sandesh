@@ -1,47 +1,5 @@
 [
  {
-  "title_hash": "f33f1243d89d9722",
-  "url": "https://www.prothomalo.com/video/bangladesh/wlt8bi7yru",
-  "headline": "Govt working to bring Benazir Ahmed back from UAE for trial",
-  "topic": "benazir-extradition-parliament",
-  "source": "Dhaka Tribune, Jamuna TV, The Daily Star, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-08T22:09:07Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "669726e51b38d019",
-  "url": "https://www.thedailystar.net/news/bangladesh/news/benazirs-extradition-house-adopts-opposition-motion-seeking-updates-4268306",
-  "headline": "Govt working to bring Benazir Ahmed back from UAE for trial",
-  "topic": "benazir-extradition-parliament",
-  "source": "Dhaka Tribune, Jamuna TV, The Daily Star, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-08T22:09:07Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "eb09d20ddcaf128e",
-  "url": "https://www.thedailystar.net/sports/football/news/haaland-double-powers-man-city-victory-over-porto-4268371",
-  "headline": "Haaland double powers Man City to 2-0 victory over Porto",
-  "topic": "man city victory porto",
-  "source": "The Daily Star, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-08T23:13:19Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "0fbd9a63f14d2360",
   "url": "https://www.prothomalo.com/sports/football/p5z3faj9hw",
   "headline": "Haaland double powers Man City to 2-0 victory over Porto",
@@ -8398,5 +8356,32 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "4ab2687a17cadc2b",
+  "url": "https://www.thedailystar.net/sports/cricket/news/india-women-follow-mens-teams-lead-refuse-asia-cup-trophy-naqvi-4272396",
+  "headline": "India Women refuse Asia Cup trophy from Mohsin Naqvi after dominant final win in Dubai",
+  "topic": "India refuses Asia Cup trophy",
+  "source": "Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-14T04:07:04Z"
+ },
+ {
+  "title_hash": "b9d33eda652b2e26",
+  "url": "https://www.prothomalo.com/sports/cricket/1iseuek3ye",
+  "headline": "India Women refuse Asia Cup trophy from Mohsin Naqvi after dominant final win in Dubai",
+  "topic": "India refuses Asia Cup trophy",
+  "source": "Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-14T04:07:04Z"
+ },
+ {
+  "title_hash": "0a0b761af27fc663",
+  "url": "https://www.prothomalo.com/bangladesh/rclrkbdypk",
+  "headline": "Gas supply increases, Adani power unit restarts, but load shedding persists in Bangladesh",
+  "topic": "Load shedding despite gas increase",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-14T04:07:04Z"
  }
 ]
