@@ -8321,8 +8321,13 @@
   "headline": "Police Superintendent suspended after testing positive for drugs",
   "topic": "sp suspended drug test",
   "source": "Dhaka Tribune, The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-14T11:10:57Z"
+  "status": "failed",
+  "at": "2026-09-14T11:10:57Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "78f6b4d9ee397c47",
@@ -8330,8 +8335,13 @@
   "headline": "Police Superintendent suspended after testing positive for drugs",
   "topic": "sp suspended drug test",
   "source": "Dhaka Tribune, The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-14T11:10:57Z"
+  "status": "failed",
+  "at": "2026-09-14T11:10:57Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "b3ba4001868cf4e2",
@@ -8339,8 +8349,13 @@
   "headline": "Police Superintendent suspended after testing positive for drugs",
   "topic": "sp suspended drug test",
   "source": "Dhaka Tribune, The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-14T11:10:57Z"
+  "status": "failed",
+  "at": "2026-09-14T11:10:57Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "286e85bc76cf6120",
@@ -8348,8 +8363,13 @@
   "headline": "Local polls likely to start mid-November with UP elections: EC",
   "topic": "up elections november",
   "source": "Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-14T11:10:57Z"
+  "status": "failed",
+  "at": "2026-09-14T11:10:57Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "59d15f640c934d8d",
@@ -8357,8 +8377,13 @@
   "headline": "Local polls likely to start mid-November with UP elections: EC",
   "topic": "up elections november",
   "source": "Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-14T11:10:57Z"
+  "status": "failed",
+  "at": "2026-09-14T11:10:57Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "1e2cf20df911b2de",
@@ -8366,7 +8391,12 @@
   "headline": "Local polls likely to start mid-November with UP elections: EC",
   "topic": "up elections november",
   "source": "Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-14T11:10:57Z"
+  "status": "failed",
+  "at": "2026-09-14T11:10:57Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
