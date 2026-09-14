@@ -1,47 +1,5 @@
 [
  {
-  "title_hash": "1d03dd491f333eac",
-  "url": "https://www.jamuna.tv/international/663732",
-  "headline": "Bangladesh to lodge strong protest with Italy over attack on actor Azmeri Haque Badhon in Venice",
-  "topic": "actress badhon attack venice",
-  "source": "Prothom Alo, Jamuna TV, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-09T04:07:12Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "da025a5716c796d7",
-  "url": "https://www.prothomalo.com/bangladesh/3affv3cbwp",
-  "headline": "Bangladesh to lodge strong protest with Italy over attack on actor Azmeri Haque Badhon in Venice",
-  "topic": "actress badhon attack venice",
-  "source": "Prothom Alo, Jamuna TV, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-09T04:07:12Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "5be3b16b39c6cd39",
-  "url": "https://www.prothomalo.com/bangladesh/district/s42p3n47id",
-  "headline": "Bangladesh to lodge strong protest with Italy over attack on actor Azmeri Haque Badhon in Venice",
-  "topic": "actress badhon attack venice",
-  "source": "Prothom Alo, Jamuna TV, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-09T04:07:12Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "17c5db4eb9a94f62",
   "url": "https://www.thedailystar.net/news/world/news/iran-attacks-us-base-jordan-hormuz-impasse-deepens-4268436",
   "headline": "Oil prices surge as Iran attacks US base in Jordan",
@@ -8398,5 +8356,32 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "b8349047ced7d694",
+  "url": "https://www.thedailystar.net/culture/tv-film/news/some-members-my-own-team-have-disowned-me-badhan-drops-bombshell-after-landing-dhaka-4272491",
+  "headline": "Actress Azmeri Haque Badhan physically assaulted in Italy during film festival visit",
+  "topic": "azmeri haque badhan italy harassment",
+  "source": "The Daily Star, Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-14T10:07:42Z"
+ },
+ {
+  "title_hash": "c14cbf542bb594f2",
+  "url": "https://www.prothomalo.com/entertainment/dhallywood/j8wjm4d5q8",
+  "headline": "Actress Azmeri Haque Badhan physically assaulted in Italy during film festival visit",
+  "topic": "azmeri haque badhan italy harassment",
+  "source": "The Daily Star, Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-14T10:07:42Z"
+ },
+ {
+  "title_hash": "7ab229298eeed19f",
+  "url": "https://www.prothomalo.com/bangladesh/district/3qfqsp2yi3",
+  "headline": "7-year-old girl raped and killed by daughter's father, body buried in floor",
+  "topic": "jamalpur child rape murder",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-14T10:07:42Z"
  }
 ]
