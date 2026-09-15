@@ -1,33 +1,5 @@
 [
  {
-  "title_hash": "1dfc9caef3ff4bee",
-  "url": "https://www.thedailystar.net/news/power-and-energy/news/technical-fault-halts-adani-godda-unit-adds-pressure-bangladesh-grid-4270256",
-  "headline": "Technical fault: Adani Godda unit shut down, adding pressure to BD grid",
-  "topic": "adani power plant fault load shedding",
-  "source": "The Daily Star, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-11T08:08:59Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "f09b3bf33f2b3749",
-  "url": "https://www.prothomalo.com/bangladesh/45z4lc7map",
-  "headline": "Technical fault: Adani Godda unit shut down, adding pressure to BD grid",
-  "topic": "adani power plant fault load shedding",
-  "source": "The Daily Star, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-11T08:08:59Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "6c9a4a8ab4fa4784",
   "url": "https://www.dhakatribune.com/bangladesh/crime/419582/police-recover-missing-man%E2%80%99s-body-from-beneath",
   "headline": "Tk 3 lakh debt: Businessman found buried beneath house in Lalbagh",
@@ -8398,5 +8370,23 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "846a76547b73ac4b",
+  "url": "https://www.prothomalo.com/bangladesh/uzjxst6dps",
+  "headline": "Obaidul Kader and 6 others sentenced to death for crimes against humanity",
+  "topic": "quader sentenced to death for july uprising crimes",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-15T22:08:46Z"
+ },
+ {
+  "title_hash": "3b6782f907c7f313",
+  "url": "https://www.prothomalo.com/bangladesh/wnfh62ts8c",
+  "headline": "7 dead, 1,593 hospitalized in last 24 hours due to dengue",
+  "topic": "dengue deaths rise, new hospital admissions surge",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-15T22:08:46Z"
  }
 ]
