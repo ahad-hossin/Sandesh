@@ -8335,8 +8335,13 @@
   "headline": "Obaidul Quader and 6 others face ICT verdict today in humanity crimes case",
   "topic": "verdict against quader six others",
   "source": "Dhaka Tribune, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-15T06:09:44Z"
+  "status": "failed",
+  "at": "2026-09-15T06:09:44Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "04886276c9ed4e2e",
@@ -8344,8 +8349,13 @@
   "headline": "Obaidul Quader and 6 others face ICT verdict today in humanity crimes case",
   "topic": "verdict against quader six others",
   "source": "Dhaka Tribune, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-15T06:09:44Z"
+  "status": "failed",
+  "at": "2026-09-15T06:09:44Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "47abed47391a8e16",
@@ -8353,8 +8363,13 @@
   "headline": "Obaidul Quader and 6 others face ICT verdict today in humanity crimes case",
   "topic": "verdict against quader six others",
   "source": "Dhaka Tribune, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-15T06:09:44Z"
+  "status": "failed",
+  "at": "2026-09-15T06:09:44Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "ba7641bc66daf543",
@@ -8362,8 +8377,13 @@
   "headline": "Bureaucrats use project vehicles for personal gain despite rules",
   "topic": "dhaka air pollution",
   "source": "Dhaka Tribune, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-15T06:09:44Z"
+  "status": "failed",
+  "at": "2026-09-15T06:09:44Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "31beddacfee439c0",
@@ -8371,7 +8391,12 @@
   "headline": "Bureaucrats use project vehicles for personal gain despite rules",
   "topic": "dhaka air pollution",
   "source": "Dhaka Tribune, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-15T06:09:44Z"
+  "status": "failed",
+  "at": "2026-09-15T06:09:44Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
