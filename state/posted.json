@@ -8377,8 +8377,13 @@
   "headline": "7 dead, 1,593 hospitalized as dengue cases surge in Bangladesh",
   "topic": "dengue deaths and hospitalizations rise",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-15T23:13:34Z"
+  "status": "failed",
+  "at": "2026-09-15T23:13:34Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "4a2b1bcb94de7b77",
@@ -8386,7 +8391,12 @@
   "headline": "2 killed in three-way collision between auto-rickshaw, car, and pickup in Chandpur",
   "topic": "fatal road accident in Chandpur",
   "source": "Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-15T23:13:34Z"
+  "status": "failed",
+  "at": "2026-09-15T23:13:34Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
