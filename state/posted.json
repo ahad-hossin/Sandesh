@@ -1,75 +1,5 @@
 [
  {
-  "title_hash": "fbd14015a5f4ad96",
-  "url": "https://www.dhakatribune.com/bangladesh/419482/saima-wazed-resigns-from-who-amid-fraud-probes",
-  "headline": "Saima Wazed resigns from WHO amid fraud probes",
-  "topic": "saima wazed resigns who",
-  "source": "Prothom Alo, Dhaka Tribune, Jamuna TV",
-  "status": "failed",
-  "at": "2026-09-10T05:07:10Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "2767436621235d22",
-  "url": "https://www.prothomalo.com/video/bangladesh/nos3maactl",
-  "headline": "Saima Wazed resigns from WHO amid fraud probes",
-  "topic": "saima wazed resigns who",
-  "source": "Prothom Alo, Dhaka Tribune, Jamuna TV",
-  "status": "failed",
-  "at": "2026-09-10T05:07:10Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "959fc33c5f1cbbfc",
-  "url": "https://www.jamuna.tv/national/663806",
-  "headline": "Saima Wazed resigns from WHO amid fraud probes",
-  "topic": "saima wazed resigns who",
-  "source": "Prothom Alo, Dhaka Tribune, Jamuna TV",
-  "status": "failed",
-  "at": "2026-09-10T05:07:10Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "3031736b2681139b",
-  "url": "https://www.prothomalo.com/bangladesh/ddbliueico-theke-saayymaa-oyyaajeder-pdtyaag",
-  "headline": "Saima Wazed resigns from WHO amid fraud probes",
-  "topic": "saima wazed resigns who",
-  "source": "Prothom Alo, Dhaka Tribune, Jamuna TV",
-  "status": "failed",
-  "at": "2026-09-10T05:07:10Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "c8afdcba89127cd4",
-  "url": "https://www.prothomalo.com/bangladesh/dvlp2c276r",
-  "headline": "Secret mobile phone data available for money, minister's private call details obtained",
-  "topic": "secret phone data sold",
-  "source": "Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-10T05:07:10Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "6af0efefed4f4259",
   "url": "https://www.dhakatribune.com/bangladesh/dhaka/419493/fire-breaks-out-at-footwear-showroom-in-dhanmondi",
   "headline": "Fire breaks out at Apex footwear showroom in Dhanmondi",
@@ -8398,5 +8328,50 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "710d1bd357a533f7",
+  "url": "https://www.dhakatribune.com/bangladesh/nation/419852/probe-body-formed-over-mymensingh-hospital-fire",
+  "headline": "Mymensingh hospital fire sparks panic; casualty count disputed, probe launched",
+  "topic": "Mymensingh hospital fire probe",
+  "source": "Jamuna TV, Dhaka Tribune, Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-15T05:07:04Z"
+ },
+ {
+  "title_hash": "2507e3436b71179e",
+  "url": "https://www.jamuna.tv/all-bangladesh/664154",
+  "headline": "Mymensingh hospital fire sparks panic; casualty count disputed, probe launched",
+  "topic": "Mymensingh hospital fire probe",
+  "source": "Jamuna TV, Dhaka Tribune, Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-15T05:07:04Z"
+ },
+ {
+  "title_hash": "34c034ab035b205f",
+  "url": "https://www.prothomalo.com/bangladesh/district/bcfo7j7ycw",
+  "headline": "Mymensingh hospital fire sparks panic; casualty count disputed, probe launched",
+  "topic": "Mymensingh hospital fire probe",
+  "source": "Jamuna TV, Dhaka Tribune, Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-15T05:07:04Z"
+ },
+ {
+  "title_hash": "04886276c9ed4e2e",
+  "url": "https://www.thedailystar.net/news/crime-justice/news/power-judgment-quader-six-others-face-ict-verdict-today-4273171",
+  "headline": "ICT verdict today for Obaidul Quader and six others in crimes against humanity case",
+  "topic": "Quader ICT verdict today",
+  "source": "The Daily Star, Jamuna TV",
+  "status": "queued",
+  "at": "2026-09-15T05:07:04Z"
+ },
+ {
+  "title_hash": "012a2fcab1def432",
+  "url": "https://www.jamuna.tv/national/664148",
+  "headline": "ICT verdict today for Obaidul Quader and six others in crimes against humanity case",
+  "topic": "Quader ICT verdict today",
+  "source": "The Daily Star, Jamuna TV",
+  "status": "queued",
+  "at": "2026-09-15T05:07:04Z"
  }
 ]
