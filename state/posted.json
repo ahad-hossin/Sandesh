@@ -8363,8 +8363,13 @@
   "headline": "US Supreme Court blocks Trump's plan to restrict mail-in voting ahead of midterms",
   "topic": "trump mail-in vote blocked",
   "source": "Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-15T01:08:36Z"
+  "status": "failed",
+  "at": "2026-09-15T01:08:36Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "8fb08f445807aea1",
@@ -8372,8 +8377,13 @@
   "headline": "Oil jumps 3% as Iran-Gulf talks postponed amid Houthi strikes on Saudi Arabia",
   "topic": "gulf iran talks postponed houthi attack",
   "source": "Jamuna TV, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-15T01:08:36Z"
+  "status": "failed",
+  "at": "2026-09-15T01:08:36Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "8fecaae328e373df",
@@ -8381,7 +8391,12 @@
   "headline": "Oil jumps 3% as Iran-Gulf talks postponed amid Houthi strikes on Saudi Arabia",
   "topic": "gulf iran talks postponed houthi attack",
   "source": "Jamuna TV, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-15T01:08:36Z"
+  "status": "failed",
+  "at": "2026-09-15T01:08:36Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
