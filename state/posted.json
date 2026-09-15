@@ -8349,8 +8349,13 @@
   "headline": "New pay scale gazette delayed 15 days after cabinet approval; govt employees await notification",
   "topic": "new pay scale notification",
   "source": "Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-15T04:06:57Z"
+  "status": "failed",
+  "at": "2026-09-15T04:06:57Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "47abed47391a8e16",
@@ -8358,8 +8363,13 @@
   "headline": "ICT-2 to deliver verdict today in crimes against humanity case against Obaidul Quader, 6 others",
   "topic": "Obaidul Quader verdict",
   "source": "Jamuna TV, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-15T04:06:57Z"
+  "status": "failed",
+  "at": "2026-09-15T04:06:57Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "012a2fcab1def432",
@@ -8367,8 +8377,13 @@
   "headline": "ICT-2 to deliver verdict today in crimes against humanity case against Obaidul Quader, 6 others",
   "topic": "Obaidul Quader verdict",
   "source": "Jamuna TV, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-15T04:06:57Z"
+  "status": "failed",
+  "at": "2026-09-15T04:06:57Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "04886276c9ed4e2e",
@@ -8376,7 +8391,12 @@
   "headline": "ICT-2 to deliver verdict today in crimes against humanity case against Obaidul Quader, 6 others",
   "topic": "Obaidul Quader verdict",
   "source": "Jamuna TV, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-15T04:06:57Z"
+  "status": "failed",
+  "at": "2026-09-15T04:06:57Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
