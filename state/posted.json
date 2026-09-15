@@ -8349,8 +8349,13 @@
   "headline": "Asif Nazrul: I am responsible for boycotting the T20 World Cup",
   "topic": "asif nazrul t20 world cup boycott",
   "source": "Prothom Alo, Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-15T20:07:19Z"
+  "status": "failed",
+  "at": "2026-09-15T20:07:19Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "0edd5d0de1f14137",
@@ -8358,8 +8363,13 @@
   "headline": "Asif Nazrul: I am responsible for boycotting the T20 World Cup",
   "topic": "asif nazrul t20 world cup boycott",
   "source": "Prothom Alo, Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-15T20:07:19Z"
+  "status": "failed",
+  "at": "2026-09-15T20:07:19Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "01c075a4aa3cf770",
@@ -8367,8 +8377,13 @@
   "headline": "Govt to ban road digging in Dhaka during monsoon",
   "topic": "dhaka road digging ban",
   "source": "Prothom Alo, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-09-15T20:07:19Z"
+  "status": "failed",
+  "at": "2026-09-15T20:07:19Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "aecb105ecc43e334",
@@ -8376,7 +8391,12 @@
   "headline": "Govt to ban road digging in Dhaka during monsoon",
   "topic": "dhaka road digging ban",
   "source": "Prothom Alo, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-09-15T20:07:19Z"
+  "status": "failed",
+  "at": "2026-09-15T20:07:19Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
