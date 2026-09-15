@@ -8335,8 +8335,13 @@
   "headline": "Crude bomb explodes in front of Supreme Court",
   "topic": "supreme court bomb blast",
   "source": "Jamuna TV, The Daily Star, Dhaka Tribune, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-15T12:09:45Z"
+  "status": "failed",
+  "at": "2026-09-15T12:09:45Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "40e844a90b0bdaf8",
@@ -8344,8 +8349,13 @@
   "headline": "Crude bomb explodes in front of Supreme Court",
   "topic": "supreme court bomb blast",
   "source": "Jamuna TV, The Daily Star, Dhaka Tribune, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-15T12:09:45Z"
+  "status": "failed",
+  "at": "2026-09-15T12:09:45Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "ce5582df553d8bb3",
@@ -8353,8 +8363,13 @@
   "headline": "Crude bomb explodes in front of Supreme Court",
   "topic": "supreme court bomb blast",
   "source": "Jamuna TV, The Daily Star, Dhaka Tribune, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-15T12:09:45Z"
+  "status": "failed",
+  "at": "2026-09-15T12:09:45Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "68ca9be9b3a49e10",
@@ -8362,8 +8377,13 @@
   "headline": "Crude bomb explodes in front of Supreme Court",
   "topic": "supreme court bomb blast",
   "source": "Jamuna TV, The Daily Star, Dhaka Tribune, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-15T12:09:45Z"
+  "status": "failed",
+  "at": "2026-09-15T12:09:45Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "c337ae44bde6d68d",
@@ -8371,7 +8391,12 @@
   "headline": "Moody's revises Bangladesh outlook to stable from negative",
   "topic": "moodys bangladesh stable outlook",
   "source": "The Daily Star",
-  "status": "queued",
-  "at": "2026-09-15T12:09:45Z"
+  "status": "failed",
+  "at": "2026-09-15T12:09:45Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
