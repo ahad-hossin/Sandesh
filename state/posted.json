@@ -1,75 +1,5 @@
 [
  {
-  "title_hash": "6af0efefed4f4259",
-  "url": "https://www.dhakatribune.com/bangladesh/dhaka/419493/fire-breaks-out-at-footwear-showroom-in-dhanmondi",
-  "headline": "Fire breaks out at Apex footwear showroom in Dhanmondi",
-  "topic": "dhanmondi-mohakhali-fires",
-  "source": "Dhaka Tribune, Jamuna TV, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-10T06:07:45Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "7e139e26d4d072a7",
-  "url": "https://www.jamuna.tv/national/663817",
-  "headline": "Fire breaks out at Apex footwear showroom in Dhanmondi",
-  "topic": "dhanmondi-mohakhali-fires",
-  "source": "Dhaka Tribune, Jamuna TV, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-10T06:07:45Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "1eacbb3670f75d5f",
-  "url": "https://www.prothomalo.com/bangladesh/capital/oslobhkqoe",
-  "headline": "Fire breaks out at Apex footwear showroom in Dhanmondi",
-  "topic": "dhanmondi-mohakhali-fires",
-  "source": "Dhaka Tribune, Jamuna TV, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-10T06:07:45Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "7fbd313d70889520",
-  "url": "https://www.thedailystar.net/news/accidents-and-fires/news/fires-break-out-two-buildings-dhanmondi-mohakhali-4269336",
-  "headline": "Fire breaks out at Apex footwear showroom in Dhanmondi",
-  "topic": "dhanmondi-mohakhali-fires",
-  "source": "Dhaka Tribune, Jamuna TV, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-10T06:07:45Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "fbd14015a5f4ad96",
-  "url": "https://www.dhakatribune.com/bangladesh/419482/saima-wazed-resigns-from-who-amid-fraud-probes",
-  "headline": "Saima Wazed resigns from WHO regional head post amid fraud probes",
-  "topic": "saima-wazed-who-resignation",
-  "source": "Dhaka Tribune, Jamuna TV, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-10T06:07:45Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "959fc33c5f1cbbfc",
   "url": "https://www.jamuna.tv/national/663806",
   "headline": "Saima Wazed resigns from WHO regional head post amid fraud probes",
@@ -8398,5 +8328,50 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "e38d20b02ae48dfe",
+  "url": "https://www.dhakatribune.com/bangladesh/court/419857/tribunal-to-deliver-verdict-against-7-including",
+  "headline": "Obaidul Quader and 6 others face ICT verdict today in humanity crimes case",
+  "topic": "verdict against quader six others",
+  "source": "Dhaka Tribune, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-15T06:09:44Z"
+ },
+ {
+  "title_hash": "04886276c9ed4e2e",
+  "url": "https://www.thedailystar.net/news/crime-justice/news/power-judgment-quader-six-others-face-ict-verdict-today-4273171",
+  "headline": "Obaidul Quader and 6 others face ICT verdict today in humanity crimes case",
+  "topic": "verdict against quader six others",
+  "source": "Dhaka Tribune, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-15T06:09:44Z"
+ },
+ {
+  "title_hash": "47abed47391a8e16",
+  "url": "https://www.thedailystar.net/news/bangladesh/news/verdict-case-against-quader-six-others-today-4273016",
+  "headline": "Obaidul Quader and 6 others face ICT verdict today in humanity crimes case",
+  "topic": "verdict against quader six others",
+  "source": "Dhaka Tribune, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-15T06:09:44Z"
+ },
+ {
+  "title_hash": "ba7641bc66daf543",
+  "url": "https://www.dhakatribune.com/bangladesh/dhaka/419854/dhaka-ranks-13th-among-world-s-most-polluted",
+  "headline": "Bureaucrats use project vehicles for personal gain despite rules",
+  "topic": "dhaka air pollution",
+  "source": "Dhaka Tribune, Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-15T06:09:44Z"
+ },
+ {
+  "title_hash": "31beddacfee439c0",
+  "url": "https://www.prothomalo.com/bangladesh/4wn3nz6fy8",
+  "headline": "Bureaucrats use project vehicles for personal gain despite rules",
+  "topic": "dhaka air pollution",
+  "source": "Dhaka Tribune, Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-15T06:09:44Z"
  }
 ]
