@@ -8307,8 +8307,13 @@
   "headline": "Over 4,800 UAE cancels visas of Bangladeshis leaving thousands stranded",
   "topic": "uae cancels bangladeshi visas",
   "source": "The Daily Star",
-  "status": "queued",
-  "at": "2026-09-15T08:10:04Z"
+  "status": "failed",
+  "at": "2026-09-15T08:10:04Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "e0cca8f81664f9e5",
@@ -8316,8 +8321,13 @@
   "headline": "Govt not consulted: EC announces Union Parishad polls date without discussion",
   "topic": "local govt polls date",
   "source": "Prothom Alo, The Daily Star, Dhaka Tribune, Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-15T08:10:04Z"
+  "status": "failed",
+  "at": "2026-09-15T08:10:04Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "cb05dc21db8b9a9f",
@@ -8325,8 +8335,13 @@
   "headline": "Govt not consulted: EC announces Union Parishad polls date without discussion",
   "topic": "local govt polls date",
   "source": "Prothom Alo, The Daily Star, Dhaka Tribune, Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-15T08:10:04Z"
+  "status": "failed",
+  "at": "2026-09-15T08:10:04Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "e622405b35a77df7",
@@ -8334,8 +8349,13 @@
   "headline": "Govt not consulted: EC announces Union Parishad polls date without discussion",
   "topic": "local govt polls date",
   "source": "Prothom Alo, The Daily Star, Dhaka Tribune, Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-15T08:10:04Z"
+  "status": "failed",
+  "at": "2026-09-15T08:10:04Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "a344f7ac68ee4d5d",
@@ -8343,8 +8363,13 @@
   "headline": "Govt not consulted: EC announces Union Parishad polls date without discussion",
   "topic": "local govt polls date",
   "source": "Prothom Alo, The Daily Star, Dhaka Tribune, Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-15T08:10:04Z"
+  "status": "failed",
+  "at": "2026-09-15T08:10:04Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "18378853a45bcd3c",
@@ -8352,8 +8377,13 @@
   "headline": "Govt not consulted: EC announces Union Parishad polls date without discussion",
   "topic": "local govt polls date",
   "source": "Prothom Alo, The Daily Star, Dhaka Tribune, Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-15T08:10:04Z"
+  "status": "failed",
+  "at": "2026-09-15T08:10:04Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "069870c0ca84b4ca",
@@ -8361,7 +8391,12 @@
   "headline": "Govt not consulted: EC announces Union Parishad polls date without discussion",
   "topic": "local govt polls date",
   "source": "Prothom Alo, The Daily Star, Dhaka Tribune, Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-15T08:10:04Z"
+  "status": "failed",
+  "at": "2026-09-15T08:10:04Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
