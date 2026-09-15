@@ -1,33 +1,5 @@
 [
  {
-  "title_hash": "69a6e9eaecbee2d9",
-  "url": "https://www.prothomalo.com/opinion/editorial/4givesrvb3",
-  "headline": "Fertilizer shortages deepen amid new dealer system and rising global prices",
-  "topic": "fertilizer shortage farmers",
-  "source": "Dhaka Tribune, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-10T03:07:05Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "e5bc2d1049d41635",
-  "url": "https://www.thedailystar.net/news/bangladesh/news/sangsad-govt-opposition-lock-horns-over-fertiliser-4269241",
-  "headline": "Fertilizer shortages deepen amid new dealer system and rising global prices",
-  "topic": "fertilizer shortage farmers",
-  "source": "Dhaka Tribune, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-10T03:07:05Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "fbd14015a5f4ad96",
   "url": "https://www.dhakatribune.com/bangladesh/419482/saima-wazed-resigns-from-who-amid-fraud-probes",
   "headline": "Saima Wazed resigns from WHO amid fraud probes and financial irregularities allegations",
@@ -8398,5 +8370,23 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "b74bbc2ba4b9c882",
+  "url": "https://www.prothomalo.com/bangladesh/crime/coo1jzho5y",
+  "headline": "Student stabbed and robbed on moving train roof in Dhaka's Mohakhali area",
+  "topic": "Train Roof Stabbing",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-15T02:06:48Z"
+ },
+ {
+  "title_hash": "fd3f5ebcc6ae02d7",
+  "url": "https://www.thedailystar.net/news/bangladesh/news/uae-cancels-visas-over-4000-bangladeshis-4273081",
+  "headline": "UAE cancels visas for over 4,000 Bangladeshis, leaving many stranded without explanation",
+  "topic": "UAE Cancels Bangladeshi Visas",
+  "source": "The Daily Star",
+  "status": "queued",
+  "at": "2026-09-15T02:06:48Z"
  }
 ]
