@@ -1,61 +1,5 @@
 [
  {
-  "title_hash": "9eb7ed8001bac199",
-  "url": "https://www.dhakatribune.com/bangladesh/people/419574/children%E2%80%99s-author-amirul-islam-dies-at-62",
-  "headline": "Children's author Amirul Islam dies at 62",
-  "topic": "childrens author amirul islam dies",
-  "source": "Dhaka Tribune, Jamuna TV",
-  "status": "failed",
-  "at": "2026-09-11T05:08:21Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "6a45c91abbae3bb4",
-  "url": "https://www.jamuna.tv/art-and-literature/663872",
-  "headline": "Children's author Amirul Islam dies at 62",
-  "topic": "childrens author amirul islam dies",
-  "source": "Dhaka Tribune, Jamuna TV",
-  "status": "failed",
-  "at": "2026-09-11T05:08:21Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "2ce19ee0a2acedce",
-  "url": "https://www.dhakatribune.com/bangladesh/419572/47-bangladeshis-return-through-benapole-after-2",
-  "headline": "47 Bangladeshis return through Benapole after 2 years in Indian prison",
-  "topic": "bangladeshis return from indian prison",
-  "source": "Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-09-11T05:08:21Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "727c68734b8ba210",
-  "url": "https://www.jamuna.tv/all-bangladesh/663882",
-  "headline": "63 foreigners detained in Chittagong for running casino",
-  "topic": "foreigners-detained-chattogram-casino",
-  "source": "Jamuna TV",
-  "status": "failed",
-  "at": "2026-09-11T06:09:27Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "d84b6497e80c597e",
   "url": "https://www.prothomalo.com/business/k2t9wzllxa",
   "headline": "Gold prices drop by 2,158 taka per bhori in Bangladesh",
@@ -8398,5 +8342,41 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "97f62abadfaaf0b2",
+  "url": "https://www.prothomalo.com/sports/cricket/aasiph-njrul-bishbkaap-by-ktter-daay-aamaari",
+  "headline": "Asif Nazrul: I am responsible for boycotting the T20 World Cup",
+  "topic": "asif nazrul t20 world cup boycott",
+  "source": "Prothom Alo, Jamuna TV",
+  "status": "queued",
+  "at": "2026-09-15T20:07:19Z"
+ },
+ {
+  "title_hash": "0edd5d0de1f14137",
+  "url": "https://www.jamuna.tv/sports/664216",
+  "headline": "Asif Nazrul: I am responsible for boycotting the T20 World Cup",
+  "topic": "asif nazrul t20 world cup boycott",
+  "source": "Prothom Alo, Jamuna TV",
+  "status": "queued",
+  "at": "2026-09-15T20:07:19Z"
+ },
+ {
+  "title_hash": "01c075a4aa3cf770",
+  "url": "https://www.dhakatribune.com/bangladesh/419909/govt-moves-to-end-repeated-road-digging-in-dhaka",
+  "headline": "Govt to ban road digging in Dhaka during monsoon",
+  "topic": "dhaka road digging ban",
+  "source": "Prothom Alo, Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-09-15T20:07:19Z"
+ },
+ {
+  "title_hash": "aecb105ecc43e334",
+  "url": "https://www.prothomalo.com/bangladesh/capital/gtd9uh8kq2",
+  "headline": "Govt to ban road digging in Dhaka during monsoon",
+  "topic": "dhaka road digging ban",
+  "source": "Prothom Alo, Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-09-15T20:07:19Z"
  }
 ]
