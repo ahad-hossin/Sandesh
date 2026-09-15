@@ -8377,8 +8377,13 @@
   "headline": "Obaidul Kader and 6 others sentenced to death for crimes against humanity",
   "topic": "quader sentenced to death for july uprising crimes",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-15T22:08:46Z"
+  "status": "failed",
+  "at": "2026-09-15T22:08:46Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "3b6782f907c7f313",
@@ -8386,7 +8391,12 @@
   "headline": "7 dead, 1,593 hospitalized in last 24 hours due to dengue",
   "topic": "dengue deaths rise, new hospital admissions surge",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-15T22:08:46Z"
+  "status": "failed",
+  "at": "2026-09-15T22:08:46Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
