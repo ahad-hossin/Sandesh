@@ -8363,8 +8363,13 @@
   "headline": "Messi called up for Argentina farewell on October 6 after international retirement",
   "topic": "Messi farewell appearance",
   "source": "The Daily Star",
-  "status": "queued",
-  "at": "2026-09-16T01:07:05Z"
+  "status": "failed",
+  "at": "2026-09-16T01:07:05Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "2a4fe682b1cfb627",
@@ -8372,8 +8377,13 @@
   "headline": "Al-Nassr thrashed 4-0 by Al-Ain in Asian Champions League Elite opener; Ronaldo ineffective",
   "topic": "Ronaldo's Al-Nassr thrashed in ACL",
   "source": "Jamuna TV, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-16T01:07:05Z"
+  "status": "failed",
+  "at": "2026-09-16T01:07:05Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "0cc9bc82ce1f593e",
@@ -8381,7 +8391,12 @@
   "headline": "Al-Nassr thrashed 4-0 by Al-Ain in Asian Champions League Elite opener; Ronaldo ineffective",
   "topic": "Ronaldo's Al-Nassr thrashed in ACL",
   "source": "Jamuna TV, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-16T01:07:05Z"
+  "status": "failed",
+  "at": "2026-09-16T01:07:05Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
