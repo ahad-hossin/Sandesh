@@ -1,33 +1,5 @@
 [
  {
-  "title_hash": "2b30ae94a2b2af95",
-  "url": "https://www.thedailystar.net/news/healthcare/disease/news/dengue-claims-2-more-lives-790-hospitalised-24-hours-4270331",
-  "headline": "790 hospitalised in 24 hours as dengue claims 2 more lives",
-  "topic": "dengue deaths and hospitalizations rise",
-  "source": "Dhaka Tribune, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-11T13:08:58Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "8b257c1bdefab0b1",
-  "url": "https://www.prothomalo.com/bangladesh/district/h0oxlyszuz",
-  "headline": "63 foreigners detained in Chattogram for online fraud",
-  "topic": "63 foreigners arrested for alleged illegal activities",
-  "source": "Prothom Alo, Jamuna TV",
-  "status": "failed",
-  "at": "2026-09-11T13:08:58Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "727c68734b8ba210",
   "url": "https://www.jamuna.tv/all-bangladesh/663882",
   "headline": "63 foreigners detained in Chattogram for online fraud",
@@ -8398,5 +8370,23 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "b7297e1a5cecf68a",
+  "url": "https://www.dhakatribune.com/bangladesh/foreign-affairs/419920/jaiswal-pm-tarique-received-two-invitations-to",
+  "headline": "PM Tarique received two invitations to visit India, says Jaiswal",
+  "topic": "PM Tarique India visit",
+  "source": "Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-09-16T04:06:53Z"
+ },
+ {
+  "title_hash": "8801d1b1d666eff1",
+  "url": "https://www.dhakatribune.com/bangladesh/campus1/419919/crude-bomb-blast-sparks-panic-at-dhaka-university",
+  "headline": "Crude bomb blast sparks panic at Dhaka University",
+  "topic": "Dhaka University bomb blast",
+  "source": "Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-09-16T04:06:53Z"
  }
 ]
