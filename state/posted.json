@@ -8335,8 +8335,13 @@
   "headline": "Banks, MFSs told to suspend payment services for illegal loan apps",
   "topic": "dengue claims student and unborn child",
   "source": "The Daily Star",
-  "status": "queued",
-  "at": "2026-09-16T14:12:23Z"
+  "status": "failed",
+  "at": "2026-09-16T14:12:23Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "4c61a28380828384",
@@ -8344,8 +8349,13 @@
   "headline": "Banks, MFSs told to suspend payment services for illegal loan apps",
   "topic": "dengue claims student and unborn child",
   "source": "The Daily Star",
-  "status": "queued",
-  "at": "2026-09-16T14:12:23Z"
+  "status": "failed",
+  "at": "2026-09-16T14:12:23Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "825505cbf3a78c34",
@@ -8353,8 +8363,13 @@
   "headline": "1,044 die as measles outbreak spreads across Bangladesh",
   "topic": "measles outbreak toll reaches 1044",
   "source": "The Daily Star, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-09-16T14:12:23Z"
+  "status": "failed",
+  "at": "2026-09-16T14:12:23Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "2ef1f90d11edc87b",
@@ -8362,8 +8377,13 @@
   "headline": "1,044 die as measles outbreak spreads across Bangladesh",
   "topic": "measles outbreak toll reaches 1044",
   "source": "The Daily Star, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-09-16T14:12:23Z"
+  "status": "failed",
+  "at": "2026-09-16T14:12:23Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "b6429a94a54b5105",
@@ -8371,7 +8391,12 @@
   "headline": "1,044 die as measles outbreak spreads across Bangladesh",
   "topic": "measles outbreak toll reaches 1044",
   "source": "The Daily Star, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-09-16T14:12:23Z"
+  "status": "failed",
+  "at": "2026-09-16T14:12:23Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
