@@ -1,47 +1,5 @@
 [
  {
-  "title_hash": "fdf24dcbf868eac5",
-  "url": "https://www.jamuna.tv/politics/663925",
-  "headline": "2 crude bombs detonated during AL procession in Gulshan",
-  "topic": "al procession gulshan arrests",
-  "source": "Jamuna TV, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-12T06:09:28Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "f6ba63c84ce3bb29",
-  "url": "https://www.jamuna.tv/national/663917",
-  "headline": "2 crude bombs detonated during AL procession in Gulshan",
-  "topic": "al procession gulshan arrests",
-  "source": "Jamuna TV, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-12T06:09:28Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "b4b22e6cdb61c02b",
-  "url": "https://www.dhakatribune.com/bangladesh/419641/pm-opens-3-month-nationwide-dengue-prevention",
-  "headline": "PM launches 3-month nationwide dengue prevention and cleanliness campaign",
-  "topic": "pm launches dengue campaign",
-  "source": "Dhaka Tribune, Jamuna TV, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-12T06:09:28Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "3077469aec4edbcc",
   "url": "https://www.jamuna.tv/national/663919",
   "headline": "PM launches 3-month nationwide dengue prevention and cleanliness campaign",
@@ -8398,5 +8356,32 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "dde7e67bcf13ef00",
+  "url": "https://www.dhakatribune.com/bangladesh/health/419983/dengue-takes-deadlier-turn",
+  "headline": "Health alert: Dengue takes deadlier turn in Bangladesh",
+  "topic": "dengue deaths surge",
+  "source": "Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-09-16T20:08:20Z"
+ },
+ {
+  "title_hash": "f2b390684513e8ff",
+  "url": "https://www.thedailystar.net/news/accidents-and-fires/news/milestone-teacher-killed-road-accident-dhakas-khilgaon-4274881",
+  "headline": "Milestone teacher killed in road accident in Dhaka's Khilgaon",
+  "topic": "milestone teacher killed",
+  "source": "The Daily Star, Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-16T20:08:20Z"
+ },
+ {
+  "title_hash": "e6398dffaf35dbc8",
+  "url": "https://www.prothomalo.com/bangladesh/capital/ec54inctwi",
+  "headline": "Milestone teacher killed in road accident in Dhaka's Khilgaon",
+  "topic": "milestone teacher killed",
+  "source": "The Daily Star, Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-16T20:08:20Z"
  }
 ]
