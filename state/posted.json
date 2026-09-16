@@ -8377,8 +8377,13 @@
   "headline": "Free AI training for youth in 64 districts, daily allowance of BDT 200",
   "topic": "Free AI training with daily allowance",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-16T03:06:46Z"
+  "status": "failed",
+  "at": "2026-09-16T03:06:46Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "1de2f29ec042c318",
@@ -8386,7 +8391,12 @@
   "headline": "Bangladesh Bank launches 'Uddyog' program for youth, offering BDT 20 lakh aid",
   "topic": "Bangladesh Bank youth loan program",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-16T03:06:46Z"
+  "status": "failed",
+  "at": "2026-09-16T03:06:46Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
