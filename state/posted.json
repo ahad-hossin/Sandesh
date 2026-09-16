@@ -8349,8 +8349,13 @@
   "headline": "RAB dissolved, replaced by SRB as new specialised police unit begins operations",
   "topic": "rab dissolved replaced by srb",
   "source": "The Daily Star, Dhaka Tribune, Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-16T19:09:16Z"
+  "status": "failed",
+  "at": "2026-09-16T19:09:16Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "668c0aa360f2c5cc",
@@ -8358,8 +8363,13 @@
   "headline": "RAB dissolved, replaced by SRB as new specialised police unit begins operations",
   "topic": "rab dissolved replaced by srb",
   "source": "The Daily Star, Dhaka Tribune, Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-16T19:09:16Z"
+  "status": "failed",
+  "at": "2026-09-16T19:09:16Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "90932c931f1aa932",
@@ -8367,8 +8377,13 @@
   "headline": "RAB dissolved, replaced by SRB as new specialised police unit begins operations",
   "topic": "rab dissolved replaced by srb",
   "source": "The Daily Star, Dhaka Tribune, Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-16T19:09:16Z"
+  "status": "failed",
+  "at": "2026-09-16T19:09:16Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "35031b9b8d7ba91c",
@@ -8376,7 +8391,12 @@
   "headline": "Zafar Iqbal, Maksud Kamal among 8 charged at ICT for July uprising crimes",
   "topic": "zafar iqbal charged at ict",
   "source": "The Daily Star",
-  "status": "queued",
-  "at": "2026-09-16T19:09:16Z"
+  "status": "failed",
+  "at": "2026-09-16T19:09:16Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
