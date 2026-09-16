@@ -1,33 +1,5 @@
 [
  {
-  "title_hash": "538ce793950f7e85",
-  "url": "https://www.dhakatribune.com/bangladesh/nation/419633/journalist-pulak-chatterjee%E2%80%99s-body-recovered-from",
-  "headline": "Journalist Pulak Chatterjee found dead at Samakal bureau office",
-  "topic": "journalist pulak chatterjee found dead",
-  "source": "Dhaka Tribune, The Daily Star, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-11T19:09:17Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "69198820730d899c",
-  "url": "https://www.thedailystar.net/news/news/forgive-me-journalists-final-message-daughter-among-five-notes-4270491",
-  "headline": "Journalist Pulak Chatterjee found dead at Samakal bureau office",
-  "topic": "journalist pulak chatterjee found dead",
-  "source": "Dhaka Tribune, The Daily Star, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-11T19:09:17Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "cf883bc0b1dcce88",
   "url": "https://www.prothomalo.com/bangladesh/district/dxxudug3sl",
   "headline": "Journalist Pulak Chatterjee found dead at Samakal bureau office",
@@ -8398,5 +8370,23 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "1ca2d459d60e34ec",
+  "url": "https://www.thedailystar.net/news/news/formal-charges-filed-against-zafar-iqbal-ex-du-vc-and-6-others-ict-1-over-july-uprising-4274466",
+  "headline": "Zafar Iqbal, ex-DU VC among 8 formal charges filed against them at ICT-1",
+  "topic": "zafar-iqbal-ict-charges",
+  "source": "The Daily Star",
+  "status": "queued",
+  "at": "2026-09-16T11:09:57Z"
+ },
+ {
+  "title_hash": "ac473e37e048e4a5",
+  "url": "https://www.jamuna.tv/national/664278",
+  "headline": "Dengue claims 7 lives in 24 hours; 1,753 hospitalized nationwide",
+  "topic": "dengue-deaths-update",
+  "source": "Jamuna TV",
+  "status": "queued",
+  "at": "2026-09-16T11:09:57Z"
  }
 ]
