@@ -1,61 +1,5 @@
 [
  {
-  "title_hash": "3077469aec4edbcc",
-  "url": "https://www.jamuna.tv/national/663919",
-  "headline": "PM launches 3-month nationwide dengue prevention and cleanliness campaign",
-  "topic": "pm launches dengue campaign",
-  "source": "Dhaka Tribune, Jamuna TV, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-12T06:09:28Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "0434495bc67fe8cd",
-  "url": "https://www.thedailystar.net/health/news/pm-launches-three-month-nationwide-dengue-prevention-campaign-4270741",
-  "headline": "PM launches 3-month nationwide dengue prevention and cleanliness campaign",
-  "topic": "pm launches dengue campaign",
-  "source": "Dhaka Tribune, Jamuna TV, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-12T06:09:28Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "2e0a9d7f61766652",
-  "url": "https://www.thedailystar.net/news/bangladesh/news/dengue-spreads-amid-weak-mosquito-control-4270636",
-  "headline": "PM launches 3-month nationwide dengue prevention and cleanliness campaign",
-  "topic": "pm launches dengue campaign",
-  "source": "Dhaka Tribune, Jamuna TV, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-12T06:09:28Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "d89b5003c25af958",
-  "url": "https://www.thedailystar.net/news/crime-justice/news/2-held-after-crude-bombs-explode-during-al-procession-4270566",
-  "headline": "2 crude bombs blast in AL procession in Gulshan, 2 held",
-  "topic": "al procession gulshan arrests",
-  "source": "Jamuna TV, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-12T07:08:36Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "fdf24dcbf868eac5",
   "url": "https://www.jamuna.tv/politics/663925",
   "headline": "2 crude bombs blast in AL procession in Gulshan, 2 held",
@@ -8398,5 +8342,41 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "dde7e67bcf13ef00",
+  "url": "https://www.dhakatribune.com/bangladesh/health/419983/dengue-takes-deadlier-turn",
+  "headline": "1,753 hospitalized in 24 hours as 7 more die from dengue",
+  "topic": "dengue deaths surge",
+  "source": "Dhaka Tribune, Jamuna TV",
+  "status": "queued",
+  "at": "2026-09-16T21:11:17Z"
+ },
+ {
+  "title_hash": "2f4a464623952d13",
+  "url": "https://www.dhakatribune.com/bangladesh/health/419966/dengue-seven-more-die-as-1-753-hospitalized-in-24",
+  "headline": "1,753 hospitalized in 24 hours as 7 more die from dengue",
+  "topic": "dengue deaths surge",
+  "source": "Dhaka Tribune, Jamuna TV",
+  "status": "queued",
+  "at": "2026-09-16T21:11:17Z"
+ },
+ {
+  "title_hash": "ac473e37e048e4a5",
+  "url": "https://www.jamuna.tv/national/664278",
+  "headline": "1,753 hospitalized in 24 hours as 7 more die from dengue",
+  "topic": "dengue deaths surge",
+  "source": "Dhaka Tribune, Jamuna TV",
+  "status": "queued",
+  "at": "2026-09-16T21:11:17Z"
+ },
+ {
+  "title_hash": "31a2449ce533fa95",
+  "url": "https://www.prothomalo.com/bangladesh/crime/dqoikhepnd",
+  "headline": "ACC approves charge sheet against Anisul Huq and 3 others",
+  "topic": "anisul huq acc chargesheet",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-16T21:11:17Z"
  }
 ]
