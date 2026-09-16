@@ -8335,8 +8335,13 @@
   "headline": "7 deaths in 24 hours: Dengue claims 7 more lives as 1,753 hospitalized",
   "topic": "dengue death toll rise",
   "source": "Dhaka Tribune, Jamuna TV, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-16T17:10:25Z"
+  "status": "failed",
+  "at": "2026-09-16T17:10:25Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "ac473e37e048e4a5",
@@ -8344,8 +8349,13 @@
   "headline": "7 deaths in 24 hours: Dengue claims 7 more lives as 1,753 hospitalized",
   "topic": "dengue death toll rise",
   "source": "Dhaka Tribune, Jamuna TV, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-16T17:10:25Z"
+  "status": "failed",
+  "at": "2026-09-16T17:10:25Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "b6429a94a54b5105",
@@ -8353,8 +8363,13 @@
   "headline": "7 deaths in 24 hours: Dengue claims 7 more lives as 1,753 hospitalized",
   "topic": "dengue death toll rise",
   "source": "Dhaka Tribune, Jamuna TV, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-16T17:10:25Z"
+  "status": "failed",
+  "at": "2026-09-16T17:10:25Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "4c61a28380828384",
@@ -8362,8 +8377,13 @@
   "headline": "Dengue claims 22-year-old student and unborn child in Dhaka",
   "topic": "pregnant student dies of dengue",
   "source": "The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-16T17:10:25Z"
+  "status": "failed",
+  "at": "2026-09-16T17:10:25Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "04f014b11c8e708c",
@@ -8371,7 +8391,12 @@
   "headline": "Dengue claims 22-year-old student and unborn child in Dhaka",
   "topic": "pregnant student dies of dengue",
   "source": "The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-16T17:10:25Z"
+  "status": "failed",
+  "at": "2026-09-16T17:10:25Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
