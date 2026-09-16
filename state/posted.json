@@ -8349,8 +8349,13 @@
   "headline": "RAB dissolved, replaced by new Special Response Battalion",
   "topic": "rab dissolved replaced by srb",
   "source": "The Daily Star, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-09-16T22:07:37Z"
+  "status": "failed",
+  "at": "2026-09-16T22:07:37Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "668c0aa360f2c5cc",
@@ -8358,8 +8363,13 @@
   "headline": "RAB dissolved, replaced by new Special Response Battalion",
   "topic": "rab dissolved replaced by srb",
   "source": "The Daily Star, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-09-16T22:07:37Z"
+  "status": "failed",
+  "at": "2026-09-16T22:07:37Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "fbc751d9eaf18443",
@@ -8367,8 +8377,13 @@
   "headline": "Tk 2.5 lakh crore: Three metro rail projects approved for Dhaka",
   "topic": "dhaka metro rail expansion",
   "source": "The Daily Star, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-09-16T22:07:37Z"
+  "status": "failed",
+  "at": "2026-09-16T22:07:37Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "cfa532a24aad8c43",
@@ -8376,7 +8391,12 @@
   "headline": "Tk 2.5 lakh crore: Three metro rail projects approved for Dhaka",
   "topic": "dhaka metro rail expansion",
   "source": "The Daily Star, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-09-16T22:07:37Z"
+  "status": "failed",
+  "at": "2026-09-16T22:07:37Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
