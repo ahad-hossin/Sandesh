@@ -8321,8 +8321,13 @@
   "headline": "ICT-2: Obaidul Quader and 6 others sentenced to death for July uprising crimes",
   "topic": "obaidul quader death sentence",
   "source": "The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-16T06:07:45Z"
+  "status": "failed",
+  "at": "2026-09-16T06:07:45Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "8a8a39158c15edca",
@@ -8330,8 +8335,13 @@
   "headline": "ICT-2: Obaidul Quader and 6 others sentenced to death for July uprising crimes",
   "topic": "obaidul quader death sentence",
   "source": "The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-16T06:07:45Z"
+  "status": "failed",
+  "at": "2026-09-16T06:07:45Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "b0a7979bf3c7ac43",
@@ -8339,8 +8349,13 @@
   "headline": "ICT-2: Obaidul Quader and 6 others sentenced to death for July uprising crimes",
   "topic": "obaidul quader death sentence",
   "source": "The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-16T06:07:45Z"
+  "status": "failed",
+  "at": "2026-09-16T06:07:45Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "8d2cc802ee0d98b5",
@@ -8348,8 +8363,13 @@
   "headline": "DB arrests two over death of headteacher in front of parliament",
   "topic": "teacher killed parliament area arrests",
   "source": "Prothom Alo, Jamuna TV, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-16T06:07:45Z"
+  "status": "failed",
+  "at": "2026-09-16T06:07:45Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "f208ae69229bbfa9",
@@ -8357,8 +8377,13 @@
   "headline": "DB arrests two over death of headteacher in front of parliament",
   "topic": "teacher killed parliament area arrests",
   "source": "Prothom Alo, Jamuna TV, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-16T06:07:45Z"
+  "status": "failed",
+  "at": "2026-09-16T06:07:45Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "4a843846cae5252f",
@@ -8366,7 +8391,12 @@
   "headline": "DB arrests two over death of headteacher in front of parliament",
   "topic": "teacher killed parliament area arrests",
   "source": "Prothom Alo, Jamuna TV, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-16T06:07:45Z"
+  "status": "failed",
+  "at": "2026-09-16T06:07:45Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
