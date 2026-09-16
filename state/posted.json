@@ -1,61 +1,5 @@
 [
  {
-  "title_hash": "3077469aec4edbcc",
-  "url": "https://www.jamuna.tv/national/663919",
-  "headline": "PM launches 3-month nationwide dengue prevention and cleanliness campaign",
-  "topic": "PM launches nationwide dengue prevention campaign",
-  "source": "Dhaka Tribune, Jamuna TV",
-  "status": "failed",
-  "at": "2026-09-12T05:07:40Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "094c1efe8dc30344",
-  "url": "https://www.dhakatribune.com/bangladesh/nation/419640/chhatra-dal-leader-missing-after-falling-into",
-  "headline": "Bulkhead collision: Chhatra Dal leader missing after falling into Padma River",
-  "topic": "Chhatra Dal leader missing in Padma River",
-  "source": "Dhaka Tribune, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-12T05:07:40Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "4b4beff576bb4398",
-  "url": "https://www.prothomalo.com/bangladesh/district/f6f5ibf9cv",
-  "headline": "Bulkhead collision: Chhatra Dal leader missing after falling into Padma River",
-  "topic": "Chhatra Dal leader missing in Padma River",
-  "source": "Dhaka Tribune, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-12T05:07:40Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "d89b5003c25af958",
-  "url": "https://www.thedailystar.net/news/crime-justice/news/2-held-after-crude-bombs-explode-during-al-procession-4270566",
-  "headline": "2 crude bombs detonated during AL procession in Gulshan",
-  "topic": "al procession gulshan arrests",
-  "source": "Jamuna TV, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-12T06:09:28Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "fdf24dcbf868eac5",
   "url": "https://www.jamuna.tv/politics/663925",
   "headline": "2 crude bombs detonated during AL procession in Gulshan",
@@ -8398,5 +8342,41 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "8fb3a3cb213a7a47",
+  "url": "https://www.thedailystar.net/news/bangladesh/news/rab-dissolved-srb-begins-operations-4274916",
+  "headline": "RAB dissolved, replaced by SRB as new specialised police unit begins operations",
+  "topic": "rab dissolved replaced by srb",
+  "source": "The Daily Star, Dhaka Tribune, Jamuna TV",
+  "status": "queued",
+  "at": "2026-09-16T19:09:16Z"
+ },
+ {
+  "title_hash": "668c0aa360f2c5cc",
+  "url": "https://www.dhakatribune.com/bangladesh/419949/rab-begins-operations-as-special-response",
+  "headline": "RAB dissolved, replaced by SRB as new specialised police unit begins operations",
+  "topic": "rab dissolved replaced by srb",
+  "source": "The Daily Star, Dhaka Tribune, Jamuna TV",
+  "status": "queued",
+  "at": "2026-09-16T19:09:16Z"
+ },
+ {
+  "title_hash": "90932c931f1aa932",
+  "url": "https://www.jamuna.tv/national/664264",
+  "headline": "RAB dissolved, replaced by SRB as new specialised police unit begins operations",
+  "topic": "rab dissolved replaced by srb",
+  "source": "The Daily Star, Dhaka Tribune, Jamuna TV",
+  "status": "queued",
+  "at": "2026-09-16T19:09:16Z"
+ },
+ {
+  "title_hash": "35031b9b8d7ba91c",
+  "url": "https://www.thedailystar.net/news/bangladesh/news/zafar-iqbal-maksud-kamal-among-eight-charged-ict-4274966",
+  "headline": "Zafar Iqbal, Maksud Kamal among 8 charged at ICT for July uprising crimes",
+  "topic": "zafar iqbal charged at ict",
+  "source": "The Daily Star",
+  "status": "queued",
+  "at": "2026-09-16T19:09:16Z"
  }
 ]
