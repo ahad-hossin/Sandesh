@@ -1,89 +1,5 @@
 [
  {
-  "title_hash": "cbf65fee6dc68d8f",
-  "url": "https://www.jamuna.tv/international/663911",
-  "headline": "Yemen's Houthis seize Bab al-Mandab Strait and Red Sea islands, impacting global trade",
-  "topic": "Houthi control Bab el-Mandeb",
-  "source": "Jamuna TV, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-12T00:07:24Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "9b9852b79282628c",
-  "url": "https://www.prothomalo.com/world/middle-east/6wn7mzu7xm",
-  "headline": "Yemen's Houthis seize Bab al-Mandab Strait and Red Sea islands, impacting global trade",
-  "topic": "Houthi control Bab el-Mandeb",
-  "source": "Jamuna TV, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-12T00:07:24Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "0fdbd9ee19b02b0f",
-  "url": "https://www.thedailystar.net/news/power-and-energy/news/gas-supply-improve-within-5-7-days-says-pm-tarique-4270466",
-  "headline": "Gas supply to improve within 5-7 days, says PM Tarique Rahman",
-  "topic": "PM Tarique gas supply",
-  "source": "The Daily Star",
-  "status": "failed",
-  "at": "2026-09-12T01:06:10Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "b640705e6f816e54",
-  "url": "https://www.thedailystar.net/news/bangladesh/news/gas-situation-improve-further-week-pm-4270576",
-  "headline": "Gas supply to improve within 5-7 days, says PM Tarique Rahman",
-  "topic": "PM Tarique gas supply",
-  "source": "The Daily Star",
-  "status": "failed",
-  "at": "2026-09-12T01:06:10Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "75e583a2d1a8cfaf",
-  "url": "https://www.thedailystar.net/news/crime-justice/news/tangail-madrasa-teacher-sent-jail-case-over-alleged-sexual-assault-child-4270536",
-  "headline": "Tangail madrasa teacher sent to jail over alleged sexual assault of 10-year-old student",
-  "topic": "Tangail madrasa teacher assault",
-  "source": "The Daily Star",
-  "status": "failed",
-  "at": "2026-09-12T01:06:10Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "d89b5003c25af958",
-  "url": "https://www.thedailystar.net/news/crime-justice/news/2-held-after-crude-bombs-explode-during-al-procession-4270566",
-  "headline": "Crude bombs explode during AL procession in Gulshan, 2 arrested",
-  "topic": "Gulshan political rallies and bombs",
-  "source": "Jamuna TV, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-12T02:07:04Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "f6ba63c84ce3bb29",
   "url": "https://www.jamuna.tv/national/663917",
   "headline": "Crude bombs explode during AL procession in Gulshan, 2 arrested",
@@ -8398,5 +8314,59 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "a278f4cbe14ac23d",
+  "url": "https://www.dhakatribune.com/bangladesh/court/419976/court-orders-seizure-freezing-of-abul-barkat%E2%80%99s",
+  "headline": "Court orders seizure of assets of former Janata Bank chairman Abul Barakat",
+  "topic": "abul barakat assets frozen",
+  "source": "Dhaka Tribune, Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-16T16:13:04Z"
+ },
+ {
+  "title_hash": "5006b05445b9a52e",
+  "url": "https://www.prothomalo.com/bangladesh/gsbqgsufj8",
+  "headline": "Court orders seizure of assets of former Janata Bank chairman Abul Barakat",
+  "topic": "abul barakat assets frozen",
+  "source": "Dhaka Tribune, Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-16T16:13:04Z"
+ },
+ {
+  "title_hash": "2f4a464623952d13",
+  "url": "https://www.dhakatribune.com/bangladesh/health/419966/dengue-seven-more-die-as-1-753-hospitalized-in-24",
+  "headline": "Dengue: 7 more die, 1,753 hospitalized in 24 hours",
+  "topic": "dengue deaths rise",
+  "source": "Dhaka Tribune, The Daily Star, Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-16T16:13:04Z"
+ },
+ {
+  "title_hash": "4c61a28380828384",
+  "url": "https://www.thedailystar.net/news/bangladesh/news/dengue-claims-22-year-old-cumilla-student-unborn-child-4274591",
+  "headline": "Dengue: 7 more die, 1,753 hospitalized in 24 hours",
+  "topic": "dengue deaths rise",
+  "source": "Dhaka Tribune, The Daily Star, Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-16T16:13:04Z"
+ },
+ {
+  "title_hash": "b6429a94a54b5105",
+  "url": "https://www.thedailystar.net/news/healthcare/disease/news/dengue-claims-7-more-lives-1753-hospitalised-day-4274546",
+  "headline": "Dengue: 7 more die, 1,753 hospitalized in 24 hours",
+  "topic": "dengue deaths rise",
+  "source": "Dhaka Tribune, The Daily Star, Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-16T16:13:04Z"
+ },
+ {
+  "title_hash": "04f014b11c8e708c",
+  "url": "https://www.prothomalo.com/bangladesh/district/22x1ui7148",
+  "headline": "Dengue: 7 more die, 1,753 hospitalized in 24 hours",
+  "topic": "dengue deaths rise",
+  "source": "Dhaka Tribune, The Daily Star, Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-16T16:13:04Z"
  }
 ]
