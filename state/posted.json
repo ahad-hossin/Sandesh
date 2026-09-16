@@ -1,75 +1,5 @@
 [
  {
-  "title_hash": "a40b8b22446e0ed6",
-  "url": "https://www.prothomalo.com/bangladesh/crime/in0iumsuxb",
-  "headline": "32 arrested over Awami League procession in Gulshan",
-  "topic": "awami league gulshan procession arrests",
-  "source": "Prothom Alo, Jamuna TV, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-12T08:08:33Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "fdf24dcbf868eac5",
-  "url": "https://www.jamuna.tv/politics/663925",
-  "headline": "32 arrested over Awami League procession in Gulshan",
-  "topic": "awami league gulshan procession arrests",
-  "source": "Prothom Alo, Jamuna TV, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-12T08:08:33Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "d89b5003c25af958",
-  "url": "https://www.thedailystar.net/news/crime-justice/news/2-held-after-crude-bombs-explode-during-al-procession-4270566",
-  "headline": "32 arrested over Awami League procession in Gulshan",
-  "topic": "awami league gulshan procession arrests",
-  "source": "Prothom Alo, Jamuna TV, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-12T08:08:33Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "ff68cd95ff84b967",
-  "url": "https://www.thedailystar.net/health/news/pm-seeks-peoples-cooperation-prevent-dengue-build-clean-bangladesh-4270806",
-  "headline": "PM launches three-month nationwide dengue prevention campaign",
-  "topic": "pm dengue prevention campaign",
-  "source": "The Daily Star, Prothom Alo, Dhaka Tribune, Jamuna TV",
-  "status": "failed",
-  "at": "2026-09-12T08:08:33Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "df449b70698fc2da",
-  "url": "https://www.prothomalo.com/video/bangladesh/yyz1zxq790",
-  "headline": "PM launches three-month nationwide dengue prevention campaign",
-  "topic": "pm dengue prevention campaign",
-  "source": "The Daily Star, Prothom Alo, Dhaka Tribune, Jamuna TV",
-  "status": "failed",
-  "at": "2026-09-12T08:08:33Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "b4b22e6cdb61c02b",
   "url": "https://www.dhakatribune.com/bangladesh/419641/pm-opens-3-month-nationwide-dengue-prevention",
   "headline": "PM launches three-month nationwide dengue prevention campaign",
@@ -8398,5 +8328,50 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "e5a3b91bfcafe471",
+  "url": "https://www.thedailystar.net/news/world/south-asia/news/india-pakistan-summon-diplomats-after-naval-collision-4275041",
+  "headline": "India and Pakistan summon diplomats after naval collision in Arabian Sea",
+  "topic": "india pakistan naval collision",
+  "source": "Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-16T23:09:10Z"
+ },
+ {
+  "title_hash": "0585df492c4ca980",
+  "url": "https://www.prothomalo.com/world/india/sxspba770n",
+  "headline": "India and Pakistan summon diplomats after naval collision in Arabian Sea",
+  "topic": "india pakistan naval collision",
+  "source": "Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-16T23:09:10Z"
+ },
+ {
+  "title_hash": "b3bda12d9c2d1c91",
+  "url": "https://www.thedailystar.net/news/world/news/india-summons-pak-diplomat-naval-units-collide-sea-4274971",
+  "headline": "India and Pakistan summon diplomats after naval collision in Arabian Sea",
+  "topic": "india pakistan naval collision",
+  "source": "Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-16T23:09:10Z"
+ },
+ {
+  "title_hash": "34dc6ccceb36e2cf",
+  "url": "https://www.thedailystar.net/news/world/middle-east/news/ksa-says-houthis-targeted-makkah-4275096",
+  "headline": "Saudi Arabia claims Houthis targeted holy city Makkah with drone",
+  "topic": "houthi drone attack makkah",
+  "source": "Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-16T23:09:10Z"
+ },
+ {
+  "title_hash": "6c6e238d040f810c",
+  "url": "https://www.prothomalo.com/world/middle-east/9kzu2w0w0d",
+  "headline": "Saudi Arabia claims Houthis targeted holy city Makkah with drone",
+  "topic": "houthi drone attack makkah",
+  "source": "Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-16T23:09:10Z"
  }
 ]
