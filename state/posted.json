@@ -8349,8 +8349,13 @@
   "headline": "Tk 180cr illicit assets: ACC approves charge sheet against Anisul Huq and 3 others",
   "topic": "acc charge sheet anisul huq",
   "source": "The Daily Star",
-  "status": "queued",
-  "at": "2026-09-16T13:09:00Z"
+  "status": "failed",
+  "at": "2026-09-16T13:09:00Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "2f4a464623952d13",
@@ -8358,8 +8363,13 @@
   "headline": "1,753 hospitalized in 24 hours: Dengue cases surge in September",
   "topic": "dengue surge september",
   "source": "Prothom Alo, Dhaka Tribune, Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-16T13:09:00Z"
+  "status": "failed",
+  "at": "2026-09-16T13:09:00Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "db50e94a6465a094",
@@ -8367,8 +8377,13 @@
   "headline": "1,753 hospitalized in 24 hours: Dengue cases surge in September",
   "topic": "dengue surge september",
   "source": "Prothom Alo, Dhaka Tribune, Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-16T13:09:00Z"
+  "status": "failed",
+  "at": "2026-09-16T13:09:00Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "ac473e37e048e4a5",
@@ -8376,7 +8391,12 @@
   "headline": "1,753 hospitalized in 24 hours: Dengue cases surge in September",
   "topic": "dengue surge september",
   "source": "Prothom Alo, Dhaka Tribune, Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-16T13:09:00Z"
+  "status": "failed",
+  "at": "2026-09-16T13:09:00Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
