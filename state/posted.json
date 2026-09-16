@@ -8377,8 +8377,13 @@
   "headline": "Zafar Iqbal, ex-DU VC among 8 formal charges filed against them at ICT-1",
   "topic": "zafar-iqbal-ict-charges",
   "source": "The Daily Star",
-  "status": "queued",
-  "at": "2026-09-16T11:09:57Z"
+  "status": "failed",
+  "at": "2026-09-16T11:09:57Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "ac473e37e048e4a5",
@@ -8386,7 +8391,12 @@
   "headline": "Dengue claims 7 lives in 24 hours; 1,753 hospitalized nationwide",
   "topic": "dengue-deaths-update",
   "source": "Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-16T11:09:57Z"
+  "status": "failed",
+  "at": "2026-09-16T11:09:57Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
