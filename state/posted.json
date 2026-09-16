@@ -8335,8 +8335,13 @@
   "headline": "India and Pakistan summon diplomats after naval collision in Arabian Sea",
   "topic": "india pakistan naval collision",
   "source": "Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-16T23:09:10Z"
+  "status": "failed",
+  "at": "2026-09-16T23:09:10Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "0585df492c4ca980",
@@ -8344,8 +8349,13 @@
   "headline": "India and Pakistan summon diplomats after naval collision in Arabian Sea",
   "topic": "india pakistan naval collision",
   "source": "Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-16T23:09:10Z"
+  "status": "failed",
+  "at": "2026-09-16T23:09:10Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "b3bda12d9c2d1c91",
@@ -8353,8 +8363,13 @@
   "headline": "India and Pakistan summon diplomats after naval collision in Arabian Sea",
   "topic": "india pakistan naval collision",
   "source": "Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-16T23:09:10Z"
+  "status": "failed",
+  "at": "2026-09-16T23:09:10Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "34dc6ccceb36e2cf",
@@ -8362,8 +8377,13 @@
   "headline": "Saudi Arabia claims Houthis targeted holy city Makkah with drone",
   "topic": "houthi drone attack makkah",
   "source": "Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-16T23:09:10Z"
+  "status": "failed",
+  "at": "2026-09-16T23:09:10Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "6c6e238d040f810c",
@@ -8371,7 +8391,12 @@
   "headline": "Saudi Arabia claims Houthis targeted holy city Makkah with drone",
   "topic": "houthi drone attack makkah",
   "source": "Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-16T23:09:10Z"
+  "status": "failed",
+  "at": "2026-09-16T23:09:10Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
