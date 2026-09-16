@@ -8363,8 +8363,13 @@
   "headline": "Health alert: Dengue takes deadlier turn in Bangladesh",
   "topic": "dengue deaths surge",
   "source": "Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-09-16T20:08:20Z"
+  "status": "failed",
+  "at": "2026-09-16T20:08:20Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "f2b390684513e8ff",
@@ -8372,8 +8377,13 @@
   "headline": "Milestone teacher killed in road accident in Dhaka's Khilgaon",
   "topic": "milestone teacher killed",
   "source": "The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-16T20:08:20Z"
+  "status": "failed",
+  "at": "2026-09-16T20:08:20Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "e6398dffaf35dbc8",
@@ -8381,7 +8391,12 @@
   "headline": "Milestone teacher killed in road accident in Dhaka's Khilgaon",
   "topic": "milestone teacher killed",
   "source": "The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-16T20:08:20Z"
+  "status": "failed",
+  "at": "2026-09-16T20:08:20Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
