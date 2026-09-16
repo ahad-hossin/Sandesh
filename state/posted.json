@@ -1,61 +1,5 @@
 [
  {
-  "title_hash": "fdf24dcbf868eac5",
-  "url": "https://www.jamuna.tv/politics/663925",
-  "headline": "2 crude bombs blast in AL procession in Gulshan, 2 held",
-  "topic": "al procession gulshan arrests",
-  "source": "Jamuna TV, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-12T07:08:36Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "28db43eecd69de83",
-  "url": "https://www.prothomalo.com/business/industry/2ntx6vq10w",
-  "headline": "Gold prices rise by ৳1,050 per bhori after one day",
-  "topic": "gold price increase",
-  "source": "Prothom Alo, Jamuna TV",
-  "status": "failed",
-  "at": "2026-09-12T07:08:36Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "6d05f58bd1471cc9",
-  "url": "https://www.jamuna.tv/economy/663920",
-  "headline": "Gold prices rise by ৳1,050 per bhori after one day",
-  "topic": "gold price increase",
-  "source": "Prothom Alo, Jamuna TV",
-  "status": "failed",
-  "at": "2026-09-12T07:08:36Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "9c210a33382a0cb5",
-  "url": "https://www.thedailystar.net/news/crime-justice/news/32-arrested-over-awami-league-procession-gulshan-4270861",
-  "headline": "32 arrested over Awami League procession in Gulshan",
-  "topic": "awami league gulshan procession arrests",
-  "source": "Prothom Alo, Jamuna TV, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-12T08:08:33Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "a40b8b22446e0ed6",
   "url": "https://www.prothomalo.com/bangladesh/crime/in0iumsuxb",
   "headline": "32 arrested over Awami League procession in Gulshan",
@@ -8398,5 +8342,41 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "8fb3a3cb213a7a47",
+  "url": "https://www.thedailystar.net/news/bangladesh/news/rab-dissolved-srb-begins-operations-4274916",
+  "headline": "RAB dissolved, replaced by new Special Response Battalion",
+  "topic": "rab dissolved replaced by srb",
+  "source": "The Daily Star, Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-09-16T22:07:37Z"
+ },
+ {
+  "title_hash": "668c0aa360f2c5cc",
+  "url": "https://www.dhakatribune.com/bangladesh/419949/rab-begins-operations-as-special-response",
+  "headline": "RAB dissolved, replaced by new Special Response Battalion",
+  "topic": "rab dissolved replaced by srb",
+  "source": "The Daily Star, Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-09-16T22:07:37Z"
+ },
+ {
+  "title_hash": "fbc751d9eaf18443",
+  "url": "https://www.thedailystar.net/news/bangladesh/news/three-metro-projects-get-go-ahead-costing-tk-25-lakh-crore-4275081",
+  "headline": "Tk 2.5 lakh crore: Three metro rail projects approved for Dhaka",
+  "topic": "dhaka metro rail expansion",
+  "source": "The Daily Star, Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-09-16T22:07:37Z"
+ },
+ {
+  "title_hash": "cfa532a24aad8c43",
+  "url": "https://www.dhakatribune.com/bangladesh/government-affairs/419951/ecnec-clears-three-metro-rail-projects-involving",
+  "headline": "Tk 2.5 lakh crore: Three metro rail projects approved for Dhaka",
+  "topic": "dhaka metro rail expansion",
+  "source": "The Daily Star, Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-09-16T22:07:37Z"
  }
 ]
