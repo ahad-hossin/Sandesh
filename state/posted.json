@@ -1,61 +1,5 @@
 [
  {
-  "title_hash": "bfa6bac2ab6a81ad",
-  "url": "https://www.prothomalo.com/entertainment/dhallywood/i29j9d1hd2",
-  "headline": "Rubaiyat Hossain's film wins award at Venice Film Festival",
-  "topic": "bangladeshi-film-venice-award",
-  "source": "Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-11T22:09:44Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "0fdbd9ee19b02b0f",
-  "url": "https://www.thedailystar.net/news/power-and-energy/news/gas-supply-improve-within-5-7-days-says-pm-tarique-4270466",
-  "headline": "Gas supply to improve within 5-7 days, says PM Tarique",
-  "topic": "gas-supply-improvement-pm",
-  "source": "The Daily Star",
-  "status": "failed",
-  "at": "2026-09-11T22:09:44Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "b640705e6f816e54",
-  "url": "https://www.thedailystar.net/news/bangladesh/news/gas-situation-improve-further-week-pm-4270576",
-  "headline": "Gas supply to improve within 5-7 days, says PM Tarique",
-  "topic": "gas-supply-improvement-pm",
-  "source": "The Daily Star",
-  "status": "failed",
-  "at": "2026-09-11T22:09:44Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "0fdbd9ee19b02b0f",
-  "url": "https://www.thedailystar.net/news/power-and-energy/news/gas-supply-improve-within-5-7-days-says-pm-tarique-4270466",
-  "headline": "Bangladesh gas supply to improve within 5-7 days, says PM Tarique",
-  "topic": "gas supply improvement",
-  "source": "The Daily Star",
-  "status": "failed",
-  "at": "2026-09-11T23:09:05Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "b640705e6f816e54",
   "url": "https://www.thedailystar.net/news/bangladesh/news/gas-situation-improve-further-week-pm-4270576",
   "headline": "Bangladesh gas supply to improve within 5-7 days, says PM Tarique",
@@ -8398,5 +8342,41 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "60c716c8f95000ec",
+  "url": "https://www.thedailystar.net/news/crime-justice/corruption/news/acc-approves-charge-sheet-against-anisul-huq-3-others-over-alleged-illicit-assets-4274526",
+  "headline": "Tk 180cr illicit assets: ACC approves charge sheet against Anisul Huq and 3 others",
+  "topic": "acc charge sheet anisul huq",
+  "source": "The Daily Star",
+  "status": "queued",
+  "at": "2026-09-16T13:09:00Z"
+ },
+ {
+  "title_hash": "2f4a464623952d13",
+  "url": "https://www.dhakatribune.com/bangladesh/health/419966/dengue-seven-more-die-as-1-753-hospitalized-in-24",
+  "headline": "1,753 hospitalized in 24 hours: Dengue cases surge in September",
+  "topic": "dengue surge september",
+  "source": "Prothom Alo, Dhaka Tribune, Jamuna TV",
+  "status": "queued",
+  "at": "2026-09-16T13:09:00Z"
+ },
+ {
+  "title_hash": "db50e94a6465a094",
+  "url": "https://www.prothomalo.com/bangladesh/jz7wgu9hse",
+  "headline": "1,753 hospitalized in 24 hours: Dengue cases surge in September",
+  "topic": "dengue surge september",
+  "source": "Prothom Alo, Dhaka Tribune, Jamuna TV",
+  "status": "queued",
+  "at": "2026-09-16T13:09:00Z"
+ },
+ {
+  "title_hash": "ac473e37e048e4a5",
+  "url": "https://www.jamuna.tv/national/664278",
+  "headline": "1,753 hospitalized in 24 hours: Dengue cases surge in September",
+  "topic": "dengue surge september",
+  "source": "Prothom Alo, Dhaka Tribune, Jamuna TV",
+  "status": "queued",
+  "at": "2026-09-16T13:09:00Z"
  }
 ]
