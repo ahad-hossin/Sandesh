@@ -1,33 +1,5 @@
 [
  {
-  "title_hash": "82b9e8c0e346eb51",
-  "url": "https://www.prothomalo.com/politics/incm0w8i9s",
-  "headline": "2 held as crude bombs explode during AL procession in Gulshan",
-  "topic": "al procession gulshan clash",
-  "source": "Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-11T12:08:48Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "e2a6730a4c8db9de",
-  "url": "https://www.dhakatribune.com/bangladesh/health/419600/dengue-two-more-die-as-790-hospitalized-in-24",
-  "headline": "790 hospitalised in 24 hours as dengue claims 2 more lives",
-  "topic": "dengue deaths and hospitalizations rise",
-  "source": "Dhaka Tribune, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-11T13:08:58Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "2b30ae94a2b2af95",
   "url": "https://www.thedailystar.net/news/healthcare/disease/news/dengue-claims-2-more-lives-790-hospitalised-24-hours-4270331",
   "headline": "790 hospitalised in 24 hours as dengue claims 2 more lives",
@@ -8398,5 +8370,23 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "b053dcf960f4a46f",
+  "url": "https://www.prothomalo.com/education/admission/b6bkhj4kxx",
+  "headline": "Free AI training for youth in 64 districts, daily allowance of BDT 200",
+  "topic": "Free AI training with daily allowance",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-16T03:06:46Z"
+ },
+ {
+  "title_hash": "1de2f29ec042c318",
+  "url": "https://www.prothomalo.com/chakri/chakri-news/nasbbr0eaq",
+  "headline": "Bangladesh Bank launches 'Uddyog' program for youth, offering BDT 20 lakh aid",
+  "topic": "Bangladesh Bank youth loan program",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-16T03:06:46Z"
  }
 ]
