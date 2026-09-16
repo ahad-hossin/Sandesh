@@ -2,62 +2,6 @@
  {
   "title_hash": "3077469aec4edbcc",
   "url": "https://www.jamuna.tv/national/663919",
-  "headline": "PM seeks nationwide cooperation to combat Dengue; 15 districts at high risk",
-  "topic": "PM urges cooperation on dengue",
-  "source": "Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-12T04:06:41Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "a41570a1331a6931",
-  "url": "https://www.prothomalo.com/bangladesh/vh5rvjg3f8",
-  "headline": "PM seeks nationwide cooperation to combat Dengue; 15 districts at high risk",
-  "topic": "PM urges cooperation on dengue",
-  "source": "Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-12T04:06:41Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "eada1690219f1f44",
-  "url": "https://www.dhakatribune.com/bangladesh/dhaka/419639/dhaka-3rd-most-polluted-city-in-the-world-saturday",
-  "headline": "Dhaka 3rd most polluted city in the world Saturday morning",
-  "topic": "Dhaka 3rd most polluted city",
-  "source": "Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-09-12T04:06:41Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "b4b22e6cdb61c02b",
-  "url": "https://www.dhakatribune.com/bangladesh/419641/pm-opens-3-month-nationwide-dengue-prevention",
-  "headline": "PM launches 3-month nationwide dengue prevention and cleanliness campaign",
-  "topic": "PM launches nationwide dengue prevention campaign",
-  "source": "Dhaka Tribune, Jamuna TV",
-  "status": "failed",
-  "at": "2026-09-12T05:07:40Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "3077469aec4edbcc",
-  "url": "https://www.jamuna.tv/national/663919",
   "headline": "PM launches 3-month nationwide dengue prevention and cleanliness campaign",
   "topic": "PM launches nationwide dengue prevention campaign",
   "source": "Dhaka Tribune, Jamuna TV",
@@ -8398,5 +8342,41 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "b7297e1a5cecf68a",
+  "url": "https://www.dhakatribune.com/bangladesh/foreign-affairs/419920/jaiswal-pm-tarique-received-two-invitations-to",
+  "headline": "PM Tarique receives two invitations to visit India, says Jaiswal",
+  "topic": "pm tarique india invitation",
+  "source": "Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-09-16T18:09:09Z"
+ },
+ {
+  "title_hash": "dde7e67bcf13ef00",
+  "url": "https://www.dhakatribune.com/bangladesh/health/419983/dengue-takes-deadlier-turn",
+  "headline": "7 die as 1,753 hospitalized with dengue in 24 hours",
+  "topic": "dengue death toll rise",
+  "source": "Dhaka Tribune, Jamuna TV",
+  "status": "queued",
+  "at": "2026-09-16T18:09:09Z"
+ },
+ {
+  "title_hash": "2f4a464623952d13",
+  "url": "https://www.dhakatribune.com/bangladesh/health/419966/dengue-seven-more-die-as-1-753-hospitalized-in-24",
+  "headline": "7 die as 1,753 hospitalized with dengue in 24 hours",
+  "topic": "dengue death toll rise",
+  "source": "Dhaka Tribune, Jamuna TV",
+  "status": "queued",
+  "at": "2026-09-16T18:09:09Z"
+ },
+ {
+  "title_hash": "ac473e37e048e4a5",
+  "url": "https://www.jamuna.tv/national/664278",
+  "headline": "7 die as 1,753 hospitalized with dengue in 24 hours",
+  "topic": "dengue death toll rise",
+  "source": "Dhaka Tribune, Jamuna TV",
+  "status": "queued",
+  "at": "2026-09-16T18:09:09Z"
  }
 ]
