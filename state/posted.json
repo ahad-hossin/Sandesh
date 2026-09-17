@@ -1,89 +1,5 @@
 [
  {
-  "title_hash": "a97e9e1a668682fd",
-  "url": "https://www.prothomalo.com/world/middle-east/uvc0eeh4w8",
-  "headline": "Saudi Arabia shuts down key oil pipeline after aerial attack",
-  "topic": "saudi oil pipeline attack",
-  "source": "Prothom Alo, Jamuna TV, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-12T22:08:12Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "6f5883efd753b93d",
-  "url": "https://www.jamuna.tv/international/663979",
-  "headline": "Saudi Arabia shuts down key oil pipeline after aerial attack",
-  "topic": "saudi oil pipeline attack",
-  "source": "Prothom Alo, Jamuna TV, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-12T22:08:12Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "2eaee4d29a15c9b1",
-  "url": "https://www.jamuna.tv/international/663964",
-  "headline": "Saudi Arabia shuts down key oil pipeline after aerial attack",
-  "topic": "saudi oil pipeline attack",
-  "source": "Prothom Alo, Jamuna TV, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-12T22:08:12Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "8c2d8b7871bec4b6",
-  "url": "https://www.thedailystar.net/news/world/news/brics-maximum-restraint-mideast-4271391",
-  "headline": "BRICS nations call for maximum restraint in Middle East at New Delhi summit",
-  "topic": "brics summit joint declaration",
-  "source": "Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-12T23:08:58Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "e21d355a17911fe2",
-  "url": "https://www.prothomalo.com/world/india/dcktnqglst",
-  "headline": "BRICS nations call for maximum restraint in Middle East at New Delhi summit",
-  "topic": "brics summit joint declaration",
-  "source": "Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-12T23:08:58Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "e2baa0c694ea95a6",
-  "url": "https://www.prothomalo.com/world/india/j8b9swhao9",
-  "headline": "BRICS nations call for maximum restraint in Middle East at New Delhi summit",
-  "topic": "brics summit joint declaration",
-  "source": "Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-12T23:08:58Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "b190c7774f63ac7a",
   "url": "https://www.thedailystar.net/news/bangladesh/obituary/news/ketaki-kushari-dyson-writer-and-tagore-scholar-dies-86-4271316",
   "headline": "Tagore scholar Ketaki Kushari Dyson dies at 86 in England",
@@ -8398,5 +8314,59 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "e4a044ccd5028e36",
+  "url": "https://www.dhakatribune.com/bangladesh/health/420046/dengue-five-more-die-as-1-484-hospitalize-in-24",
+  "headline": "1,484 hospitalized as 5 more die of dengue in 24 hours",
+  "topic": "dengue deaths surge",
+  "source": "Jamuna TV, Dhaka Tribune, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-17T15:08:13Z"
+ },
+ {
+  "title_hash": "7cfe3fe21f09bbb7",
+  "url": "https://www.jamuna.tv/national/664371",
+  "headline": "1,484 hospitalized as 5 more die of dengue in 24 hours",
+  "topic": "dengue deaths surge",
+  "source": "Jamuna TV, Dhaka Tribune, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-17T15:08:13Z"
+ },
+ {
+  "title_hash": "121c749711c298a4",
+  "url": "https://www.thedailystar.net/news/healthcare/disease/news/5-more-die-dengue-1484-hospitalised-24-hours-4275521",
+  "headline": "1,484 hospitalized as 5 more die of dengue in 24 hours",
+  "topic": "dengue deaths surge",
+  "source": "Jamuna TV, Dhaka Tribune, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-17T15:08:13Z"
+ },
+ {
+  "title_hash": "bf385de1a8af165a",
+  "url": "https://www.dhakatribune.com/bangladesh/government-affairs/420050/cantonment-oc-withdrawn-after-audio-clip-goes",
+  "headline": "Viral audio: Cantonment OC withdrawn over comments on Hasina's return",
+  "topic": "cantonment oc withdrawn viral audio",
+  "source": "Prothom Alo, Dhaka Tribune, Jamuna TV",
+  "status": "queued",
+  "at": "2026-09-17T15:08:13Z"
+ },
+ {
+  "title_hash": "b8e76a1c78cc9f46",
+  "url": "https://www.prothomalo.com/bangladesh/shekh-haasinaa-phirle-pulish-durbl-osi-prtyaahaar",
+  "headline": "Viral audio: Cantonment OC withdrawn over comments on Hasina's return",
+  "topic": "cantonment oc withdrawn viral audio",
+  "source": "Prothom Alo, Dhaka Tribune, Jamuna TV",
+  "status": "queued",
+  "at": "2026-09-17T15:08:13Z"
+ },
+ {
+  "title_hash": "dd051afa7227a90f",
+  "url": "https://www.jamuna.tv/national/664343",
+  "headline": "Viral audio: Cantonment OC withdrawn over comments on Hasina's return",
+  "topic": "cantonment oc withdrawn viral audio",
+  "source": "Prothom Alo, Dhaka Tribune, Jamuna TV",
+  "status": "queued",
+  "at": "2026-09-17T15:08:13Z"
  }
 ]
