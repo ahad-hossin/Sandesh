@@ -1,61 +1,5 @@
 [
  {
-  "title_hash": "a40b8b22446e0ed6",
-  "url": "https://www.prothomalo.com/bangladesh/crime/in0iumsuxb",
-  "headline": "32 arrested over Awami League procession in Gulshan",
-  "topic": "al-procession-gulshan-arrests",
-  "source": "The Daily Star, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-12T10:10:33Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "d89b5003c25af958",
-  "url": "https://www.thedailystar.net/news/crime-justice/news/2-held-after-crude-bombs-explode-during-al-procession-4270566",
-  "headline": "32 arrested over Awami League procession in Gulshan",
-  "topic": "al-procession-gulshan-arrests",
-  "source": "The Daily Star, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-12T10:10:33Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "02c632e9fbfe3dfa",
-  "url": "https://www.jamuna.tv/all-bangladesh/663945",
-  "headline": "6 body parts of unknown man recovered from 3 cartons in Faridpur",
-  "topic": "dead-bodies-recovered-dhaka-faridpur",
-  "source": "Jamuna TV",
-  "status": "failed",
-  "at": "2026-09-12T10:10:33Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "23d1c0888f9276b0",
-  "url": "https://www.jamuna.tv/national/663942",
-  "headline": "6 body parts of unknown man recovered from 3 cartons in Faridpur",
-  "topic": "dead-bodies-recovered-dhaka-faridpur",
-  "source": "Jamuna TV",
-  "status": "failed",
-  "at": "2026-09-12T10:10:33Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "d67bd16929ec8d8c",
   "url": "https://www.dhakatribune.com/bangladesh/health/419662/measles-outbreak-death-toll-reaches-1-019-as",
   "headline": "1,019 dead: Measles outbreak death toll reaches 1,019 as seven die in 24 hours",
@@ -8398,5 +8342,41 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "7202bcf23ba64fab",
+  "url": "https://www.prothomalo.com/sports/cricket/e9i00tdv5y",
+  "headline": "Cricket at Asian Games kicks off September 17, featuring 12 nations",
+  "topic": "Asian Games Cricket Update",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-17T02:07:37Z"
+ },
+ {
+  "title_hash": "7cfc900b39d8f975",
+  "url": "https://www.prothomalo.com/sports/rqkz1y4h5x",
+  "headline": "Cricket at Asian Games kicks off September 17, featuring 12 nations",
+  "topic": "Asian Games Cricket Update",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-17T02:07:37Z"
+ },
+ {
+  "title_hash": "18a11850fa2f1e70",
+  "url": "https://www.thedailystar.net/sports/football/news/man-utd-misery-mounts-league-cup-exit-against-brighton-4275116",
+  "headline": "Man Utd crash out of League Cup after blowing 2-goal lead against Brighton",
+  "topic": "Man Utd League Cup Exit",
+  "source": "Jamuna TV, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-17T02:07:37Z"
+ },
+ {
+  "title_hash": "3cc24e40b358b6f6",
+  "url": "https://www.jamuna.tv/sports/664311",
+  "headline": "Man Utd crash out of League Cup after blowing 2-goal lead against Brighton",
+  "topic": "Man Utd League Cup Exit",
+  "source": "Jamuna TV, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-17T02:07:37Z"
  }
 ]
