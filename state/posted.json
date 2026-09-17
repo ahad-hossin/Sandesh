@@ -8335,8 +8335,13 @@
   "headline": "PM Narendra Modi thanks Tarique Rahman for birthday wishes",
   "topic": "modi thanks tarique birthday wishes",
   "source": "The Daily Star, Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-17T22:07:58Z"
+  "status": "failed",
+  "at": "2026-09-17T22:07:58Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "79343975a65bc851",
@@ -8344,8 +8349,13 @@
   "headline": "PM Narendra Modi thanks Tarique Rahman for birthday wishes",
   "topic": "modi thanks tarique birthday wishes",
   "source": "The Daily Star, Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-17T22:07:58Z"
+  "status": "failed",
+  "at": "2026-09-17T22:07:58Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "28a07efccb8a4dd6",
@@ -8353,8 +8363,13 @@
   "headline": "PM Narendra Modi thanks Tarique Rahman for birthday wishes",
   "topic": "modi thanks tarique birthday wishes",
   "source": "The Daily Star, Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-17T22:07:58Z"
+  "status": "failed",
+  "at": "2026-09-17T22:07:58Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "cb7158892bbad057",
@@ -8362,8 +8377,13 @@
   "headline": "21 killed in 5 'golfing ops' led by Ziaul Ahsan, witness testifies",
   "topic": "ziaul led golfing ops killings",
   "source": "Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-17T22:07:58Z"
+  "status": "failed",
+  "at": "2026-09-17T22:07:58Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "93525f16169e24bb",
@@ -8371,7 +8391,12 @@
   "headline": "21 killed in 5 'golfing ops' led by Ziaul Ahsan, witness testifies",
   "topic": "ziaul led golfing ops killings",
   "source": "Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-17T22:07:58Z"
+  "status": "failed",
+  "at": "2026-09-17T22:07:58Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
