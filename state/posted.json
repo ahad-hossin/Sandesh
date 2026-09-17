@@ -8377,8 +8377,13 @@
   "headline": "Dhaka's gas crisis: Financial strain on residents as supply shortages persist",
   "topic": "Gas crisis causes financial strain for consumers",
   "source": "Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-09-17T18:14:44Z"
+  "status": "failed",
+  "at": "2026-09-17T18:14:44Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "da35a2be84686c07",
@@ -8386,7 +8391,12 @@
   "headline": "8 Bangladeshis killed in Mediterranean boat sinking; two arrested over deaths",
   "topic": "Two arrested over Mediterranean boat sinking deaths",
   "source": "Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-09-17T18:14:44Z"
+  "status": "failed",
+  "at": "2026-09-17T18:14:44Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
