@@ -1,33 +1,5 @@
 [
  {
-  "title_hash": "d67bd16929ec8d8c",
-  "url": "https://www.dhakatribune.com/bangladesh/health/419662/measles-outbreak-death-toll-reaches-1-019-as",
-  "headline": "1,019 dead as measles outbreak kills 7 in 24 hours",
-  "topic": "measles outbreak continues with new deaths",
-  "source": "Dhaka Tribune, Prothom Alo, Jamuna TV",
-  "status": "failed",
-  "at": "2026-09-12T12:08:51Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "fe133c6cce5cad18",
-  "url": "https://www.prothomalo.com/bangladesh/pu8q6zm6my",
-  "headline": "1,019 dead as measles outbreak kills 7 in 24 hours",
-  "topic": "measles outbreak continues with new deaths",
-  "source": "Dhaka Tribune, Prothom Alo, Jamuna TV",
-  "status": "failed",
-  "at": "2026-09-12T12:08:51Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "d130c35a5f8380fa",
   "url": "https://www.jamuna.tv/health/663944",
   "headline": "1,019 dead as measles outbreak kills 7 in 24 hours",
@@ -8398,5 +8370,23 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "362d9b56f11093c4",
+  "url": "https://www.dhakatribune.com/bangladesh/420001/police-begin-election-training-at-114-venues",
+  "headline": "114 venues nationwide: Police begin election training in Bangladesh",
+  "topic": "police begin election training nationwide",
+  "source": "Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-09-17T06:09:00Z"
+ },
+ {
+  "title_hash": "5f2384e8d7c20618",
+  "url": "https://www.prothomalo.com/bangladesh/district/myvzxsrphz",
+  "headline": "Man killed while saving brother-in-law in Shariatpur land dispute",
+  "topic": "man killed defending brother-in-law over graveyard land dispute",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-17T06:09:00Z"
  }
 ]
