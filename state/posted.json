@@ -1,47 +1,5 @@
 [
  {
-  "title_hash": "d1a1225b7e4196f6",
-  "url": "https://www.prothomalo.com/business/ugxx9qxlhk",
-  "headline": "Houthi control Bab al-Mandeb Strait poses major risk to Bangladesh's $46 billion trade",
-  "topic": "Houthi control Bab al-Mandeb, Red Sea conflict",
-  "source": "Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-13T02:06:52Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "e4cb1b42cc8da296",
-  "url": "https://www.prothomalo.com/world/middle-east/q8ty4mp3kj",
-  "headline": "Houthi control Bab al-Mandeb Strait poses major risk to Bangladesh's $46 billion trade",
-  "topic": "Houthi control Bab al-Mandeb, Red Sea conflict",
-  "source": "Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-13T02:06:52Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "8c2d8b7871bec4b6",
-  "url": "https://www.thedailystar.net/news/world/news/brics-maximum-restraint-mideast-4271391",
-  "headline": "BRICS calls for maximum restraint in Middle East amid escalating tensions at New Delhi summit",
-  "topic": "BRICS calls for Mideast peace, de-dollarization",
-  "source": "Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-13T02:06:52Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "c5dd6550d6dee9a5",
   "url": "https://www.prothomalo.com/world/india/c5i1sr9s7p",
   "headline": "BRICS calls for maximum restraint in Middle East amid escalating tensions at New Delhi summit",
@@ -8398,5 +8356,32 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "c11073ced73771ba",
+  "url": "https://www.dhakatribune.com/bangladesh/government-affairs/420077/99-judges-transferred-across-bangladesh-in-single",
+  "headline": "99 judges transferred nationwide across subordinate courts",
+  "topic": "99 judges transferred nationwide",
+  "source": "Jamuna TV, Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-09-17T17:09:52Z"
+ },
+ {
+  "title_hash": "45a6b845c45c6b01",
+  "url": "https://www.jamuna.tv/national/664379",
+  "headline": "99 judges transferred nationwide across subordinate courts",
+  "topic": "99 judges transferred nationwide",
+  "source": "Jamuna TV, Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-09-17T17:09:52Z"
+ },
+ {
+  "title_hash": "d0fcbac3a308481c",
+  "url": "https://www.prothomalo.com/bangladesh/district/w63pdz62ri",
+  "headline": "Sylhet BNP suspends appointment of 3 'unknown' expats as advisors",
+  "topic": "Sylhet mayor's decision to appoint 'unknown' expats as advisors suspended amid criticism",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-17T17:09:52Z"
  }
 ]
