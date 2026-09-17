@@ -8363,8 +8363,13 @@
   "headline": "Messi scores 100th goal for Inter Miami, leads team to Campeones Cup victory",
   "topic": "messi inter miami 100th goal trophy",
   "source": "Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-17T03:07:45Z"
+  "status": "failed",
+  "at": "2026-09-17T03:07:45Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "6a766f40422ba664",
@@ -8372,8 +8377,13 @@
   "headline": "Messi scores 100th goal for Inter Miami, leads team to Campeones Cup victory",
   "topic": "messi inter miami 100th goal trophy",
   "source": "Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-17T03:07:45Z"
+  "status": "failed",
+  "at": "2026-09-17T03:07:45Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "04f364efc1349444",
@@ -8381,7 +8391,12 @@
   "headline": "Rain washes out Bangladesh-China match, Bangladesh women advance to Asian Games semi-finals",
   "topic": "bangladesh women cricket asian games semi",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-17T03:07:45Z"
+  "status": "failed",
+  "at": "2026-09-17T03:07:45Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
