@@ -8349,8 +8349,13 @@
   "headline": "One year later: DU halls still lack uniform emergency care after Liza's death",
   "topic": "dhaka gas crisis financial strain",
   "source": "Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-09-17T23:08:11Z"
+  "status": "failed",
+  "at": "2026-09-17T23:08:11Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "51694389e4dc2fb8",
@@ -8358,8 +8363,13 @@
   "headline": "One year later: DU halls still lack uniform emergency care after Liza's death",
   "topic": "dhaka gas crisis financial strain",
   "source": "Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-09-17T23:08:11Z"
+  "status": "failed",
+  "at": "2026-09-17T23:08:11Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "8881d833493ba05f",
@@ -8367,8 +8377,13 @@
   "headline": "Outsourcing worker gets bail in PMO red telephone cable theft",
   "topic": "pmo red telephone cable theft bail",
   "source": "Prothom Alo, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-09-17T23:08:11Z"
+  "status": "failed",
+  "at": "2026-09-17T23:08:11Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "3e85826065a3c5fe",
@@ -8376,7 +8391,12 @@
   "headline": "Outsourcing worker gets bail in PMO red telephone cable theft",
   "topic": "pmo red telephone cable theft bail",
   "source": "Prothom Alo, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-09-17T23:08:11Z"
+  "status": "failed",
+  "at": "2026-09-17T23:08:11Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
