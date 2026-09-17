@@ -1,61 +1,5 @@
 [
  {
-  "title_hash": "dc36f92d418ab1e1",
-  "url": "https://www.jamuna.tv/sports/663999",
-  "headline": "Messi scores stunning goal from outside the box, but Inter Miami draws 2-2 with Nashville",
-  "topic": "messi goal inter miami",
-  "source": "Prothom Alo, Jamuna TV",
-  "status": "failed",
-  "at": "2026-09-13T04:08:47Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "3238d0d97eeaf207",
-  "url": "https://www.thedailystar.net/news/crime-justice/news/bangladeshi-dies-after-being-shot-bsf-along-thakurgaon-border-bgb-4271526",
-  "headline": "BSF firing: Bangladeshi man killed along Thakurgaon border",
-  "topic": "BSF kills Bangladeshi on Thakurgaon border",
-  "source": "Jamuna TV, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-13T05:12:07Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "212ae929f53f5de7",
-  "url": "https://www.jamuna.tv/all-bangladesh/663990",
-  "headline": "BSF firing: Bangladeshi man killed along Thakurgaon border",
-  "topic": "BSF kills Bangladeshi on Thakurgaon border",
-  "source": "Jamuna TV, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-13T05:12:07Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "cce838df7536d3cd",
-  "url": "https://www.prothomalo.com/bangladesh/district/wnim7hfbj0",
-  "headline": "BSF firing: Bangladeshi man killed along Thakurgaon border",
-  "topic": "BSF kills Bangladeshi on Thakurgaon border",
-  "source": "Jamuna TV, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-13T05:12:07Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "f50add16f9a91f13",
   "url": "https://www.thedailystar.net/business/news/new-report-attack-strait-hormuz-shipping-fans-fears-threats-oil-supplies-4271516",
   "headline": "Ship hit by projectile in Strait of Hormuz attack, oil supply fears grow",
@@ -8398,5 +8342,41 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "fecf617cfacf6d31",
+  "url": "https://www.dhakatribune.com/bangladesh/campus1/420076/a-year-after-liza%E2%80%99s-death-du-halls-still-lack",
+  "headline": "One year later: DU halls still lack uniform emergency care after Liza's death",
+  "topic": "dhaka gas crisis financial strain",
+  "source": "Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-09-17T23:08:11Z"
+ },
+ {
+  "title_hash": "51694389e4dc2fb8",
+  "url": "https://www.dhakatribune.com/bangladesh/dhaka/420074/who-will-compensate-for-the-financial-strain-amid",
+  "headline": "One year later: DU halls still lack uniform emergency care after Liza's death",
+  "topic": "dhaka gas crisis financial strain",
+  "source": "Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-09-17T23:08:11Z"
+ },
+ {
+  "title_hash": "8881d833493ba05f",
+  "url": "https://www.dhakatribune.com/bangladesh/court/420057/outsourcing-worker-ranjan-gets-bail-in-case-over",
+  "headline": "Outsourcing worker gets bail in PMO red telephone cable theft",
+  "topic": "pmo red telephone cable theft bail",
+  "source": "Prothom Alo, Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-09-17T23:08:11Z"
+ },
+ {
+  "title_hash": "3e85826065a3c5fe",
+  "url": "https://www.prothomalo.com/bangladesh/crime/990dbttpye",
+  "headline": "Outsourcing worker gets bail in PMO red telephone cable theft",
+  "topic": "pmo red telephone cable theft bail",
+  "source": "Prothom Alo, Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-09-17T23:08:11Z"
  }
 ]
