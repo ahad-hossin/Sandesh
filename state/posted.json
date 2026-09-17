@@ -1,75 +1,5 @@
 [
  {
-  "title_hash": "212ae929f53f5de7",
-  "url": "https://www.jamuna.tv/all-bangladesh/663990",
-  "headline": "BSF shoots Bangladeshi killed, 2 detained at Thakurgaon border",
-  "topic": "bsf-shooting-bangladeshi-killed",
-  "source": "Jamuna TV",
-  "status": "failed",
-  "at": "2026-09-12T20:07:20Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "8c2d8b7871bec4b6",
-  "url": "https://www.thedailystar.net/news/world/news/brics-maximum-restraint-mideast-4271391",
-  "headline": "BRICS nations call for maximum restraint in Middle East at New Delhi summit",
-  "topic": "brics summit mideast restraint",
-  "source": "Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-12T22:08:12Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "e21d355a17911fe2",
-  "url": "https://www.prothomalo.com/world/india/dcktnqglst",
-  "headline": "BRICS nations call for maximum restraint in Middle East at New Delhi summit",
-  "topic": "brics summit mideast restraint",
-  "source": "Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-12T22:08:12Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "e2baa0c694ea95a6",
-  "url": "https://www.prothomalo.com/world/india/j8b9swhao9",
-  "headline": "BRICS nations call for maximum restraint in Middle East at New Delhi summit",
-  "topic": "brics summit mideast restraint",
-  "source": "Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-12T22:08:12Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "2f58d97f58efc51a",
-  "url": "https://www.thedailystar.net/news/world/middle-east/news/attacks-shut-down-key-saudi-oil-pipeline-4271361",
-  "headline": "Saudi Arabia shuts down key oil pipeline after aerial attack",
-  "topic": "saudi oil pipeline attack",
-  "source": "Prothom Alo, Jamuna TV, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-12T22:08:12Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "a97e9e1a668682fd",
   "url": "https://www.prothomalo.com/world/middle-east/uvc0eeh4w8",
   "headline": "Saudi Arabia shuts down key oil pipeline after aerial attack",
@@ -8398,5 +8328,50 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "34b203eed11879de",
+  "url": "https://www.dhakatribune.com/bangladesh/nation/420059/over-50-injured-in-clash-over-football-match-in",
+  "headline": "RU students clash over football match, several injured",
+  "topic": "football match clash injured",
+  "source": "Dhaka Tribune, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-17T14:08:59Z"
+ },
+ {
+  "title_hash": "e8e1e07f9f6cb3f1",
+  "url": "https://www.thedailystar.net/campus/news/several-injured-after-clash-following-inter-department-football-match-ru-4275536",
+  "headline": "RU students clash over football match, several injured",
+  "topic": "football match clash injured",
+  "source": "Dhaka Tribune, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-17T14:08:59Z"
+ },
+ {
+  "title_hash": "e4a044ccd5028e36",
+  "url": "https://www.dhakatribune.com/bangladesh/health/420046/dengue-five-more-die-as-1-484-hospitalize-in-24",
+  "headline": "1,484 hospitalised in 24 hours as 5 more die of dengue",
+  "topic": "dengue deaths hospitalized",
+  "source": "Dhaka Tribune, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-17T14:08:59Z"
+ },
+ {
+  "title_hash": "121c749711c298a4",
+  "url": "https://www.thedailystar.net/news/healthcare/disease/news/5-more-die-dengue-1484-hospitalised-24-hours-4275521",
+  "headline": "1,484 hospitalised in 24 hours as 5 more die of dengue",
+  "topic": "dengue deaths hospitalized",
+  "source": "Dhaka Tribune, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-17T14:08:59Z"
+ },
+ {
+  "title_hash": "0f6bbe14358317f7",
+  "url": "https://www.thedailystar.net/news/bangladesh/rights/news/rangamati-rally-demands-return-5-indigenous-quota-4275491",
+  "headline": "1,484 hospitalised in 24 hours as 5 more die of dengue",
+  "topic": "dengue deaths hospitalized",
+  "source": "Dhaka Tribune, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-17T14:08:59Z"
  }
 ]
