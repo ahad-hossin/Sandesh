@@ -8363,8 +8363,13 @@
   "headline": "99 judges transferred nationwide across subordinate courts",
   "topic": "99 judges transferred nationwide",
   "source": "Jamuna TV, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-09-17T17:09:52Z"
+  "status": "failed",
+  "at": "2026-09-17T17:09:52Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "45a6b845c45c6b01",
@@ -8372,8 +8377,13 @@
   "headline": "99 judges transferred nationwide across subordinate courts",
   "topic": "99 judges transferred nationwide",
   "source": "Jamuna TV, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-09-17T17:09:52Z"
+  "status": "failed",
+  "at": "2026-09-17T17:09:52Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "d0fcbac3a308481c",
@@ -8381,7 +8391,12 @@
   "headline": "Sylhet BNP suspends appointment of 3 'unknown' expats as advisors",
   "topic": "Sylhet mayor's decision to appoint 'unknown' expats as advisors suspended amid criticism",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-17T17:09:52Z"
+  "status": "failed",
+  "at": "2026-09-17T17:09:52Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
