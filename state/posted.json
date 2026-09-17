@@ -1,33 +1,5 @@
 [
  {
-  "title_hash": "d130c35a5f8380fa",
-  "url": "https://www.jamuna.tv/health/663944",
-  "headline": "1,019 dead as measles outbreak kills 7 in 24 hours",
-  "topic": "measles outbreak continues with new deaths",
-  "source": "Dhaka Tribune, Prothom Alo, Jamuna TV",
-  "status": "failed",
-  "at": "2026-09-12T12:08:51Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "787675ed05b3218c",
-  "url": "https://www.dhakatribune.com/bangladesh/crime/419673/dismembered-body-parts-of-woman-found-in-adabor",
-  "headline": "Woman's dismembered body parts found in Adabor canal",
-  "topic": "dismembered bodies found dhaka faridpur",
-  "source": "Dhaka Tribune, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-12T13:07:30Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "ce7f1d3ae593a7e9",
   "url": "https://www.jamuna.tv/national/663967",
   "headline": "Woman's dismembered body parts found in Adabor canal",
@@ -8398,5 +8370,23 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "3bc0621da48dc4a0",
+  "url": "https://www.thedailystar.net/opinion/views/news/how-the-measles-vaccine-drive-exposed-gaps-coverage-and-data-4274756",
+  "headline": "1,036 children dead as Bangladesh faces world's largest active measles outbreak",
+  "topic": "laos suspends work permits for bangladeshis",
+  "source": "The Daily Star",
+  "status": "queued",
+  "at": "2026-09-17T07:09:17Z"
+ },
+ {
+  "title_hash": "697df7e7571cb399",
+  "url": "https://www.thedailystar.net/news/news/bangladesh-tops-south-asia-gender-gap-index-falls-55-places-globally-4275221",
+  "headline": "Bangladesh tops South Asia in gender gap index, but falls 55 places globally",
+  "topic": "bangladesh tops south asia gender gap index, falls globally",
+  "source": "The Daily Star",
+  "status": "queued",
+  "at": "2026-09-17T07:09:17Z"
  }
 ]
