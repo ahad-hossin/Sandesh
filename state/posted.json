@@ -8335,8 +8335,13 @@
   "headline": "Messi scores 100th goal, leads Inter Miami to Campeones Cup glory",
   "topic": "messi 100th goal inter miami campeones cup",
   "source": "Jamuna TV, The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-17T04:07:11Z"
+  "status": "failed",
+  "at": "2026-09-17T04:07:11Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "9f878359fa4d001d",
@@ -8344,8 +8349,13 @@
   "headline": "Messi scores 100th goal, leads Inter Miami to Campeones Cup glory",
   "topic": "messi 100th goal inter miami campeones cup",
   "source": "Jamuna TV, The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-17T04:07:11Z"
+  "status": "failed",
+  "at": "2026-09-17T04:07:11Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "6a766f40422ba664",
@@ -8353,8 +8363,13 @@
   "headline": "Messi scores 100th goal, leads Inter Miami to Campeones Cup glory",
   "topic": "messi 100th goal inter miami campeones cup",
   "source": "Jamuna TV, The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-17T04:07:11Z"
+  "status": "failed",
+  "at": "2026-09-17T04:07:11Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "9460129652cc1873",
@@ -8362,8 +8377,13 @@
   "headline": "Australia to bar foreign students from bringing partners, children as migration rules tighten",
   "topic": "australia foreign student family ban",
   "source": "Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-17T04:07:11Z"
+  "status": "failed",
+  "at": "2026-09-17T04:07:11Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "f3578f7f232e6eb0",
@@ -8371,7 +8391,12 @@
   "headline": "Australia to bar foreign students from bringing partners, children as migration rules tighten",
   "topic": "australia foreign student family ban",
   "source": "Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-17T04:07:11Z"
+  "status": "failed",
+  "at": "2026-09-17T04:07:11Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
