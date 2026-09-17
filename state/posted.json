@@ -1,61 +1,5 @@
 [
  {
-  "title_hash": "9fd700eed77dd566",
-  "url": "https://www.thedailystar.net/news/education/news/govt-align-bangla-english-medium-curricula-bobby-hajjaj-4270856",
-  "headline": "Govt to align Bangla and English-medium curricula for common standards",
-  "topic": "english-medium-curriculum-alignment",
-  "source": "The Daily Star, Jamuna TV",
-  "status": "failed",
-  "at": "2026-09-12T09:07:45Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "b2ba7ab1b4a450d4",
-  "url": "https://www.jamuna.tv/national/663935",
-  "headline": "Govt to align Bangla and English-medium curricula for common standards",
-  "topic": "english-medium-curriculum-alignment",
-  "source": "The Daily Star, Jamuna TV",
-  "status": "failed",
-  "at": "2026-09-12T09:07:45Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "9c210a33382a0cb5",
-  "url": "https://www.thedailystar.net/news/crime-justice/news/32-arrested-over-awami-league-procession-gulshan-4270861",
-  "headline": "32 arrested over Awami League procession in Gulshan",
-  "topic": "al-procession-gulshan-arrests",
-  "source": "The Daily Star, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-12T10:10:33Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "fdf24dcbf868eac5",
-  "url": "https://www.jamuna.tv/politics/663925",
-  "headline": "32 arrested over Awami League procession in Gulshan",
-  "topic": "al-procession-gulshan-arrests",
-  "source": "The Daily Star, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-12T10:10:33Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "a40b8b22446e0ed6",
   "url": "https://www.prothomalo.com/bangladesh/crime/in0iumsuxb",
   "headline": "32 arrested over Awami League procession in Gulshan",
@@ -8398,5 +8342,41 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "ba4514fbd7d680cd",
+  "url": "https://www.prothomalo.com/world/u56uyxx1w2",
+  "headline": "Fuel crisis sparks global anger as prices soar amid Middle East conflict",
+  "topic": "global fuel crisis rising oil prices",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-17T01:08:47Z"
+ },
+ {
+  "title_hash": "e5a3b91bfcafe471",
+  "url": "https://www.thedailystar.net/news/world/south-asia/news/india-pakistan-summon-diplomats-after-naval-collision-4275041",
+  "headline": "India, Pakistan summon diplomats after naval collision in international waters",
+  "topic": "india pakistan naval collision",
+  "source": "The Daily Star, Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-17T01:08:47Z"
+ },
+ {
+  "title_hash": "0585df492c4ca980",
+  "url": "https://www.prothomalo.com/world/india/sxspba770n",
+  "headline": "India, Pakistan summon diplomats after naval collision in international waters",
+  "topic": "india pakistan naval collision",
+  "source": "The Daily Star, Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-17T01:08:47Z"
+ },
+ {
+  "title_hash": "b3bda12d9c2d1c91",
+  "url": "https://www.thedailystar.net/news/world/news/india-summons-pak-diplomat-naval-units-collide-sea-4274971",
+  "headline": "India, Pakistan summon diplomats after naval collision in international waters",
+  "topic": "india pakistan naval collision",
+  "source": "The Daily Star, Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-17T01:08:47Z"
  }
 ]
