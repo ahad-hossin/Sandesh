@@ -1,47 +1,5 @@
 [
  {
-  "title_hash": "f50add16f9a91f13",
-  "url": "https://www.thedailystar.net/news/world/news/new-report-attack-strait-hormuz-shipping-fans-fears-threats-oil-supplies-4271516",
-  "headline": "New attack reported on ship in Strait of Hormuz amid escalating Middle East tensions, oil fears rise",
-  "topic": "houthi attacks strait of hormuz",
-  "source": "Prothom Alo, The Daily Star, Jamuna TV",
-  "status": "failed",
-  "at": "2026-09-13T04:08:47Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "0e7c0976e86cd8cf",
-  "url": "https://www.prothomalo.com/world/middle-east/vrhlgojlbt",
-  "headline": "New attack reported on ship in Strait of Hormuz amid escalating Middle East tensions, oil fears rise",
-  "topic": "houthi attacks strait of hormuz",
-  "source": "Prothom Alo, The Daily Star, Jamuna TV",
-  "status": "failed",
-  "at": "2026-09-13T04:08:47Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "ee512459347a01d2",
-  "url": "https://www.jamuna.tv/international/663996",
-  "headline": "New attack reported on ship in Strait of Hormuz amid escalating Middle East tensions, oil fears rise",
-  "topic": "houthi attacks strait of hormuz",
-  "source": "Prothom Alo, The Daily Star, Jamuna TV",
-  "status": "failed",
-  "at": "2026-09-13T04:08:47Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "8a8a39158c15edca",
   "url": "https://www.prothomalo.com/bangladesh/tq39hj63qs",
   "headline": "New attack reported on ship in Strait of Hormuz amid escalating Middle East tensions, oil fears rise",
@@ -8398,5 +8356,32 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "94adfd11ce54e30a",
+  "url": "https://www.prothomalo.com/bangladesh/90s9j42eru",
+  "headline": "PM Tarique Rahman heading to New York for UNGA 81st session on Monday",
+  "topic": "pm tarique rahman usa visit",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-17T21:07:56Z"
+ },
+ {
+  "title_hash": "8f660604e953c45c",
+  "url": "https://www.prothomalo.com/world/q54g1t1cpz",
+  "headline": "Australia tightens immigration policies, sparking anxiety for Bangladeshi students",
+  "topic": "australia student visa restrictions",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-17T21:07:56Z"
+ },
+ {
+  "title_hash": "6b5e3504d25b3dd8",
+  "url": "https://www.prothomalo.com/bangladesh/5sue4uxx8s",
+  "headline": "Australia tightens immigration policies, sparking anxiety for Bangladeshi students",
+  "topic": "australia student visa restrictions",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-17T21:07:56Z"
  }
 ]
