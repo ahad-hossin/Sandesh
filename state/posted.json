@@ -1,33 +1,5 @@
 [
  {
-  "title_hash": "c5dd6550d6dee9a5",
-  "url": "https://www.prothomalo.com/world/india/c5i1sr9s7p",
-  "headline": "BRICS calls for maximum restraint in Middle East amid escalating tensions at New Delhi summit",
-  "topic": "BRICS calls for Mideast peace, de-dollarization",
-  "source": "Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-13T02:06:52Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "0b88e823bd3937ff",
-  "url": "https://www.prothomalo.com/world/india/dcktnqglst",
-  "headline": "BRICS calls for maximum restraint in Middle East amid escalating tensions at New Delhi summit",
-  "topic": "BRICS calls for Mideast peace, de-dollarization",
-  "source": "Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-13T02:06:52Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "f50add16f9a91f13",
   "url": "https://www.thedailystar.net/news/world/news/new-report-attack-strait-hormuz-shipping-fans-fears-threats-oil-supplies-4271516",
   "headline": "New attack on Strait of Hormuz shipping fuels fears for global oil supplies",
@@ -8398,5 +8370,23 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "51694389e4dc2fb8",
+  "url": "https://www.dhakatribune.com/bangladesh/dhaka/420074/who-will-compensate-for-the-financial-strain-amid",
+  "headline": "Dhaka's gas crisis: Financial strain on residents as supply shortages persist",
+  "topic": "Gas crisis causes financial strain for consumers",
+  "source": "Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-09-17T18:14:44Z"
+ },
+ {
+  "title_hash": "da35a2be84686c07",
+  "url": "https://www.dhakatribune.com/bangladesh/420075/two-arrested-over-deaths-of-8-bangladeshis-in",
+  "headline": "8 Bangladeshis killed in Mediterranean boat sinking; two arrested over deaths",
+  "topic": "Two arrested over Mediterranean boat sinking deaths",
+  "source": "Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-09-17T18:14:44Z"
  }
 ]
