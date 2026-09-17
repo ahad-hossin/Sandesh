@@ -1,33 +1,5 @@
 [
  {
-  "title_hash": "67ccc1055be69f1f",
-  "url": "https://www.prothomalo.com/bangladesh/capital/ddmoi4ua65",
-  "headline": "3 men, including a former lawyer, found dead in separate Dhaka locations",
-  "topic": "lawyer body recovered lalbagh",
-  "source": "Dhaka Tribune, The Daily Star, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-12T13:07:30Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "4f2f1896d2157ac1",
-  "url": "https://www.thedailystar.net/news/crime-justice/news/july-uprising-looted-police-pistol-bullets-found-narayanganj-mosque-4271031",
-  "headline": "Looted police pistol and ammunition found in Narayanganj mosque",
-  "topic": "looted police weapons found in narayanganj mosque",
-  "source": "Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-12T15:09:13Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "7f784dc9da9a8edf",
   "url": "https://www.prothomalo.com/bangladesh/district/txusk5ih86",
   "headline": "Looted police pistol and ammunition found in Narayanganj mosque",
@@ -8398,5 +8370,23 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "7e4013dbece0a405",
+  "url": "https://www.dhakatribune.com/bangladesh/420015/govt-raises-price-cigarettes-again",
+  "headline": "Cost of smoking increases: Govt raises price of cigarettes again",
+  "topic": "govt raises cigarette prices",
+  "source": "Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-09-17T09:08:43Z"
+ },
+ {
+  "title_hash": "864abffc9b9d87fd",
+  "url": "https://www.dhakatribune.com/bangladesh/420013/ec-suspends-%E2%80%98boat%E2%80%99-symbol-adds-%E2%80%98no%E2%80%99-option-for",
+  "headline": "Election Commission suspends 'Boat' symbol, introduces 'No' option for solo candidates",
+  "topic": "ec suspends boat symbol",
+  "source": "Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-09-17T09:08:43Z"
  }
 ]
