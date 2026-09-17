@@ -1,89 +1,5 @@
 [
  {
-  "title_hash": "b190c7774f63ac7a",
-  "url": "https://www.thedailystar.net/news/bangladesh/obituary/news/ketaki-kushari-dyson-writer-and-tagore-scholar-dies-86-4271316",
-  "headline": "Tagore scholar Ketaki Kushari Dyson dies at 86 in England",
-  "topic": "ketaki kushari dyson death",
-  "source": "The Daily Star, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-12T23:08:58Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "748cd333cb078e5b",
-  "url": "https://www.prothomalo.com/world/india/mmmv5yo4b9",
-  "headline": "Tagore scholar Ketaki Kushari Dyson dies at 86 in England",
-  "topic": "ketaki kushari dyson death",
-  "source": "The Daily Star, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-12T23:08:58Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "433308fe63f04513",
-  "url": "https://www.prothomalo.com/world/middle-east/18uvceu9q7",
-  "headline": "Iran to launch new shipping route in Strait of Hormuz amid US sanctions",
-  "topic": "Iran new shipping route Hormuz",
-  "source": "Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-13T00:07:25Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "0b88e823bd3937ff",
-  "url": "https://www.prothomalo.com/world/india/dcktnqglst",
-  "headline": "BRICS leaders adopt 45-page New Delhi Declaration, call for UN reform, local currency trade",
-  "topic": "BRICS summit joint declaration",
-  "source": "Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-13T00:07:25Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "c6c334c9b4761a1f",
-  "url": "https://www.jamuna.tv/sports/663993",
-  "headline": "Real Madrid draws level with Barcelona after 4-1 thrashing of Rayo Vallecano with Mbappé brace",
-  "topic": "Real Madrid ties Barcelona in league points",
-  "source": "Jamuna TV",
-  "status": "failed",
-  "at": "2026-09-13T01:06:45Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "c6a1fea91d006aa6",
-  "url": "https://www.jamuna.tv/sports/663992",
-  "headline": "Arsenal beat Sunderland 2-0 with Guimaraes and Saka goals, maintaining perfect start",
-  "topic": "Arsenal defeats Sunderland",
-  "source": "Jamuna TV",
-  "status": "failed",
-  "at": "2026-09-13T01:06:45Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "d1a1225b7e4196f6",
   "url": "https://www.prothomalo.com/business/ugxx9qxlhk",
   "headline": "Houthi control Bab al-Mandeb Strait poses major risk to Bangladesh's $46 billion trade",
@@ -8398,5 +8314,59 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "bf385de1a8af165a",
+  "url": "https://www.dhakatribune.com/bangladesh/government-affairs/420050/cantonment-oc-withdrawn-after-audio-clip-goes",
+  "headline": "Viral audio: Cantonment OC withdrawn over comments on Hasina's return",
+  "topic": "cantonment oc withdrawn viral audio",
+  "source": "Dhaka Tribune, Prothom Alo, Jamuna TV",
+  "status": "queued",
+  "at": "2026-09-17T16:08:34Z"
+ },
+ {
+  "title_hash": "b8e76a1c78cc9f46",
+  "url": "https://www.prothomalo.com/bangladesh/shekh-haasinaa-phirle-pulish-durbl-osi-prtyaahaar",
+  "headline": "Viral audio: Cantonment OC withdrawn over comments on Hasina's return",
+  "topic": "cantonment oc withdrawn viral audio",
+  "source": "Dhaka Tribune, Prothom Alo, Jamuna TV",
+  "status": "queued",
+  "at": "2026-09-17T16:08:34Z"
+ },
+ {
+  "title_hash": "dd051afa7227a90f",
+  "url": "https://www.jamuna.tv/national/664343",
+  "headline": "Viral audio: Cantonment OC withdrawn over comments on Hasina's return",
+  "topic": "cantonment oc withdrawn viral audio",
+  "source": "Dhaka Tribune, Prothom Alo, Jamuna TV",
+  "status": "queued",
+  "at": "2026-09-17T16:08:34Z"
+ },
+ {
+  "title_hash": "e4a044ccd5028e36",
+  "url": "https://www.dhakatribune.com/bangladesh/health/420046/dengue-five-more-die-as-1-484-hospitalize-in-24",
+  "headline": "1,484 hospitalised as 5 more die of dengue in 24 hours",
+  "topic": "dengue deaths update",
+  "source": "Jamuna TV, Dhaka Tribune, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-17T16:08:34Z"
+ },
+ {
+  "title_hash": "7cfe3fe21f09bbb7",
+  "url": "https://www.jamuna.tv/national/664371",
+  "headline": "1,484 hospitalised as 5 more die of dengue in 24 hours",
+  "topic": "dengue deaths update",
+  "source": "Jamuna TV, Dhaka Tribune, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-17T16:08:34Z"
+ },
+ {
+  "title_hash": "121c749711c298a4",
+  "url": "https://www.thedailystar.net/news/healthcare/disease/news/5-more-die-dengue-1484-hospitalised-24-hours-4275521",
+  "headline": "1,484 hospitalised as 5 more die of dengue in 24 hours",
+  "topic": "dengue deaths update",
+  "source": "Jamuna TV, Dhaka Tribune, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-17T16:08:34Z"
  }
 ]
