@@ -8307,8 +8307,13 @@
   "headline": "1,484 hospitalised as 5 more die from dengue in 24 hours",
   "topic": "dengue deaths surge",
   "source": "Dhaka Tribune, Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-17T13:08:42Z"
+  "status": "failed",
+  "at": "2026-09-17T13:08:42Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "7cfe3fe21f09bbb7",
@@ -8316,8 +8321,13 @@
   "headline": "1,484 hospitalised as 5 more die from dengue in 24 hours",
   "topic": "dengue deaths surge",
   "source": "Dhaka Tribune, Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-17T13:08:42Z"
+  "status": "failed",
+  "at": "2026-09-17T13:08:42Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "dd6e9fe53085a820",
@@ -8325,8 +8335,13 @@
   "headline": "1,484 hospitalised as 5 more die from dengue in 24 hours",
   "topic": "dengue deaths surge",
   "source": "Dhaka Tribune, Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-17T13:08:42Z"
+  "status": "failed",
+  "at": "2026-09-17T13:08:42Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "3fa8938f6d360a91",
@@ -8334,8 +8349,13 @@
   "headline": "EC aims to complete Union Parishad polls before June 6 next year",
   "topic": "up election timeframe",
   "source": "Dhaka Tribune, The Daily Star, Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-17T13:08:42Z"
+  "status": "failed",
+  "at": "2026-09-17T13:08:42Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "dc3145b6acb2e94c",
@@ -8343,8 +8363,13 @@
   "headline": "EC aims to complete Union Parishad polls before June 6 next year",
   "topic": "up election timeframe",
   "source": "Dhaka Tribune, The Daily Star, Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-17T13:08:42Z"
+  "status": "failed",
+  "at": "2026-09-17T13:08:42Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "599746d2e124e358",
@@ -8352,8 +8377,13 @@
   "headline": "EC aims to complete Union Parishad polls before June 6 next year",
   "topic": "up election timeframe",
   "source": "Dhaka Tribune, The Daily Star, Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-17T13:08:42Z"
+  "status": "failed",
+  "at": "2026-09-17T13:08:42Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "81419ebfa95b0fbd",
@@ -8361,7 +8391,12 @@
   "headline": "EC aims to complete Union Parishad polls before June 6 next year",
   "topic": "up election timeframe",
   "source": "Dhaka Tribune, The Daily Star, Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-17T13:08:42Z"
+  "status": "failed",
+  "at": "2026-09-17T13:08:42Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
