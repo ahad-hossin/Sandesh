@@ -1,47 +1,5 @@
 [
  {
-  "title_hash": "d67bd16929ec8d8c",
-  "url": "https://www.dhakatribune.com/bangladesh/health/419662/measles-outbreak-death-toll-reaches-1-019-as",
-  "headline": "1,019 dead: Measles outbreak death toll reaches 1,019 as seven die in 24 hours",
-  "topic": "measles outbreak death toll rises",
-  "source": "Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-09-12T11:10:04Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "fe133c6cce5cad18",
-  "url": "https://www.prothomalo.com/bangladesh/pu8q6zm6my",
-  "headline": "7 deaths from measles symptoms in 24 hours, 5 in Dhaka",
-  "topic": "measles deaths in 24 hours",
-  "source": "Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-12T11:10:04Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "b0cb5904db4e8dc5",
-  "url": "https://www.dhakatribune.com/bangladesh/crime/419668/police-recover-lawyer%E2%80%99s-body-in-lalbagh-dhaka",
-  "headline": "Woman's dismembered body parts recovered from Adabor canal",
-  "topic": "multiple bodies found in dhaka and elsewhere",
-  "source": "Jamuna TV, Dhaka Tribune, The Daily Star, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-12T12:08:51Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "ce7f1d3ae593a7e9",
   "url": "https://www.jamuna.tv/national/663967",
   "headline": "Woman's dismembered body parts recovered from Adabor canal",
@@ -8398,5 +8356,32 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "618ce479cb8594da",
+  "url": "https://www.thedailystar.net/sports/football/news/100th-goal-another-trophy-messi-leads-inter-miami-campeones-cup-glory-4275126",
+  "headline": "Messi scores 100th goal for Inter Miami, leads team to Campeones Cup victory",
+  "topic": "messi inter miami 100th goal trophy",
+  "source": "Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-17T03:07:45Z"
+ },
+ {
+  "title_hash": "6a766f40422ba664",
+  "url": "https://www.prothomalo.com/sports/football/w6l4n27qis",
+  "headline": "Messi scores 100th goal for Inter Miami, leads team to Campeones Cup victory",
+  "topic": "messi inter miami 100th goal trophy",
+  "source": "Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-17T03:07:45Z"
+ },
+ {
+  "title_hash": "04f364efc1349444",
+  "url": "https://www.prothomalo.com/sports/cricket/mbu0gjzkp7",
+  "headline": "Rain washes out Bangladesh-China match, Bangladesh women advance to Asian Games semi-finals",
+  "topic": "bangladesh women cricket asian games semi",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-17T03:07:45Z"
  }
 ]
