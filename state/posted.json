@@ -1,61 +1,5 @@
 [
  {
-  "title_hash": "7f784dc9da9a8edf",
-  "url": "https://www.prothomalo.com/bangladesh/district/txusk5ih86",
-  "headline": "Looted police pistol and ammunition found in Narayanganj mosque",
-  "topic": "looted police weapons found in narayanganj mosque",
-  "source": "Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-12T15:09:13Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "86455b9c5c2dedf5",
-  "url": "https://www.thedailystar.net/news/accidents-and-fires/news/three-bodies-recovered-after-four-swept-away-shitalakshya-4270926",
-  "headline": "3 bodies recovered after 4 swept away in Shitalakshya River in Narsingdi",
-  "topic": "bodies recovered from shitalakshya river",
-  "source": "Jamuna TV, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-12T15:09:13Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "63003570e26c7f47",
-  "url": "https://www.jamuna.tv/all-bangladesh/663981",
-  "headline": "3 bodies recovered after 4 swept away in Shitalakshya River in Narsingdi",
-  "topic": "bodies recovered from shitalakshya river",
-  "source": "Jamuna TV, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-12T15:09:13Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "5f18180690591683",
-  "url": "https://www.prothomalo.com/video/bangladesh/l94xjcd4bw",
-  "headline": "3 bodies recovered after 4 swept away in Shitalakshya River in Narsingdi",
-  "topic": "bodies recovered from shitalakshya river",
-  "source": "Jamuna TV, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-12T15:09:13Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "b3f70545ddd11eb4",
   "url": "https://www.thedailystar.net/news/healthcare/disease/news/dengue-cases-cross-50000-mark-4271051",
   "headline": "Over 50,000 cases: Dengue cases cross 50,000 mark in Bangladesh",
@@ -8398,5 +8342,41 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "c80289965b98939e",
+  "url": "https://www.thedailystar.net/news/bangladesh/news/cantonment-oc-withdrawn-after-controversial-audio-clip-goes-viral-4275311",
+  "headline": "Controversial audio clip: Cantonment Police OC withdrawn",
+  "topic": "cantonment oc withdrawn audio clip",
+  "source": "The Daily Star, Jamuna TV",
+  "status": "queued",
+  "at": "2026-09-17T10:12:43Z"
+ },
+ {
+  "title_hash": "dd051afa7227a90f",
+  "url": "https://www.jamuna.tv/national/664343",
+  "headline": "Controversial audio clip: Cantonment Police OC withdrawn",
+  "topic": "cantonment oc withdrawn audio clip",
+  "source": "The Daily Star, Jamuna TV",
+  "status": "queued",
+  "at": "2026-09-17T10:12:43Z"
+ },
+ {
+  "title_hash": "bfefc0fe796e1108",
+  "url": "https://www.dhakatribune.com/bangladesh/court/420020/bdr-mutiny-four-allegedly-shot-dumped-in-river",
+  "headline": "BDR mutiny: Four witnesses allegedly shot and dumped in river",
+  "topic": "bdr mutiny river dumping",
+  "source": "Dhaka Tribune, Jamuna TV",
+  "status": "queued",
+  "at": "2026-09-17T10:12:43Z"
+ },
+ {
+  "title_hash": "4c628f031b13c3b1",
+  "url": "https://www.jamuna.tv/national/664337",
+  "headline": "BDR mutiny: Four witnesses allegedly shot and dumped in river",
+  "topic": "bdr mutiny river dumping",
+  "source": "Dhaka Tribune, Jamuna TV",
+  "status": "queued",
+  "at": "2026-09-17T10:12:43Z"
  }
 ]
