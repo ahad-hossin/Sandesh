@@ -8349,8 +8349,13 @@
   "headline": "Cricket at Asian Games kicks off September 17, featuring 12 nations",
   "topic": "Asian Games Cricket Update",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-17T02:07:37Z"
+  "status": "failed",
+  "at": "2026-09-17T02:07:37Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "7cfc900b39d8f975",
@@ -8358,8 +8363,13 @@
   "headline": "Cricket at Asian Games kicks off September 17, featuring 12 nations",
   "topic": "Asian Games Cricket Update",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-17T02:07:37Z"
+  "status": "failed",
+  "at": "2026-09-17T02:07:37Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "18a11850fa2f1e70",
@@ -8367,8 +8377,13 @@
   "headline": "Man Utd crash out of League Cup after blowing 2-goal lead against Brighton",
   "topic": "Man Utd League Cup Exit",
   "source": "Jamuna TV, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-17T02:07:37Z"
+  "status": "failed",
+  "at": "2026-09-17T02:07:37Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "3cc24e40b358b6f6",
@@ -8376,7 +8391,12 @@
   "headline": "Man Utd crash out of League Cup after blowing 2-goal lead against Brighton",
   "topic": "Man Utd League Cup Exit",
   "source": "Jamuna TV, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-17T02:07:37Z"
+  "status": "failed",
+  "at": "2026-09-17T02:07:37Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
