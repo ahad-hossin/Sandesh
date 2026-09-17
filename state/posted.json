@@ -8363,8 +8363,13 @@
   "headline": "PM Tarique Rahman heading to New York for UNGA 81st session on Monday",
   "topic": "pm tarique rahman usa visit",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-17T21:07:56Z"
+  "status": "failed",
+  "at": "2026-09-17T21:07:56Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "8f660604e953c45c",
@@ -8372,8 +8377,13 @@
   "headline": "Australia tightens immigration policies, sparking anxiety for Bangladeshi students",
   "topic": "australia student visa restrictions",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-17T21:07:56Z"
+  "status": "failed",
+  "at": "2026-09-17T21:07:56Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "6b5e3504d25b3dd8",
@@ -8381,7 +8391,12 @@
   "headline": "Australia tightens immigration policies, sparking anxiety for Bangladeshi students",
   "topic": "australia student visa restrictions",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-17T21:07:56Z"
+  "status": "failed",
+  "at": "2026-09-17T21:07:56Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
