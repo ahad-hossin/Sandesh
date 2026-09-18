@@ -1,61 +1,5 @@
 [
  {
-  "title_hash": "f50add16f9a91f13",
-  "url": "https://www.thedailystar.net/business/news/new-report-attack-strait-hormuz-shipping-fans-fears-threats-oil-supplies-4271516",
-  "headline": "Oil supply fears rise as attack on ship in Strait of Hormuz reported",
-  "topic": "hormuz_strait_oil_threats",
-  "source": "Jamuna TV, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-13T07:07:25Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "2bc243dbc916ce37",
-  "url": "https://www.jamuna.tv/international/664017",
-  "headline": "Oil supply fears rise as attack on ship in Strait of Hormuz reported",
-  "topic": "hormuz_strait_oil_threats",
-  "source": "Jamuna TV, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-13T07:07:25Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "d8ea1e8bd596f008",
-  "url": "https://www.prothomalo.com/world/middle-east/e6vlm1ey62",
-  "headline": "Oil supply fears rise as attack on ship in Strait of Hormuz reported",
-  "topic": "hormuz_strait_oil_threats",
-  "source": "Jamuna TV, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-13T07:07:25Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "2f58d97f58efc51a",
-  "url": "https://www.thedailystar.net/news/world/middle-east/news/attacks-shut-down-key-saudi-oil-pipeline-4271361",
-  "headline": "Oil supply fears rise as attack on ship in Strait of Hormuz reported",
-  "topic": "hormuz_strait_oil_threats",
-  "source": "Jamuna TV, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-13T07:07:25Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "e99206e89768906c",
   "url": "https://www.thedailystar.net/news/bangladesh/news/al-processsion-24-placed-10-day-remand-4271341",
   "headline": "24 Awami League leaders placed on 10-day remand for Gulshan procession",
@@ -8398,5 +8342,41 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "11f4b5fd4b7e8a3f",
+  "url": "https://www.prothomalo.com/world/middle-east/a8rcztg68i",
+  "headline": "UN report: US committed war crimes in Iran; Washington rejects findings",
+  "topic": "un report on US war crimes in Iran",
+  "source": "Prothom Alo, Jamuna TV",
+  "status": "queued",
+  "at": "2026-09-18T08:08:24Z"
+ },
+ {
+  "title_hash": "f4a571f65bcfa7b4",
+  "url": "https://www.jamuna.tv/international/664404",
+  "headline": "UN report: US committed war crimes in Iran; Washington rejects findings",
+  "topic": "un report on US war crimes in Iran",
+  "source": "Prothom Alo, Jamuna TV",
+  "status": "queued",
+  "at": "2026-09-18T08:08:24Z"
+ },
+ {
+  "title_hash": "5ed7961329bc8f88",
+  "url": "https://www.prothomalo.com/video/international/hgqmjr1gq2",
+  "headline": "Defying Global Powers: Houthi rebels grow stronger despite a decade of attacks",
+  "topic": "UN report on Arab economy loss due to Iran war",
+  "source": "Prothom Alo, Jamuna TV",
+  "status": "queued",
+  "at": "2026-09-18T08:08:24Z"
+ },
+ {
+  "title_hash": "ec31a1ef26c1ca9e",
+  "url": "https://www.jamuna.tv/economy/664401",
+  "headline": "Defying Global Powers: Houthi rebels grow stronger despite a decade of attacks",
+  "topic": "UN report on Arab economy loss due to Iran war",
+  "source": "Prothom Alo, Jamuna TV",
+  "status": "queued",
+  "at": "2026-09-18T08:08:24Z"
  }
 ]
