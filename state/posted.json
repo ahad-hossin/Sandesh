@@ -8335,8 +8335,13 @@
   "headline": "2 injured as crude bomb blasts hit Dhaka in multiple locations",
   "topic": "crude bomb blast dhaka",
   "source": "The Daily Star",
-  "status": "queued",
-  "at": "2026-09-18T21:09:31Z"
+  "status": "failed",
+  "at": "2026-09-18T21:09:31Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "b5b6ebe61b835582",
@@ -8344,8 +8349,13 @@
   "headline": "Bus burned, crude bombs explode in four Dhaka areas",
   "topic": "multiple crude bomb explosions dhaka",
   "source": "Dhaka Tribune, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-18T21:09:31Z"
+  "status": "failed",
+  "at": "2026-09-18T21:09:31Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "5020e0bda48c8cfc",
@@ -8353,8 +8363,13 @@
   "headline": "Bus burned, crude bombs explode in four Dhaka areas",
   "topic": "multiple crude bomb explosions dhaka",
   "source": "Dhaka Tribune, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-18T21:09:31Z"
+  "status": "failed",
+  "at": "2026-09-18T21:09:31Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "113643fd24a9c577",
@@ -8362,8 +8377,13 @@
   "headline": "Bus burned, crude bombs explode in four Dhaka areas",
   "topic": "multiple crude bomb explosions dhaka",
   "source": "Dhaka Tribune, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-18T21:09:31Z"
+  "status": "failed",
+  "at": "2026-09-18T21:09:31Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "6952d57c5b6a38dd",
@@ -8371,7 +8391,12 @@
   "headline": "Bus burned, crude bombs explode in four Dhaka areas",
   "topic": "multiple crude bomb explosions dhaka",
   "source": "Dhaka Tribune, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-18T21:09:31Z"
+  "status": "failed",
+  "at": "2026-09-18T21:09:31Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
