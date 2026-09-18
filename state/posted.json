@@ -1,47 +1,5 @@
 [
  {
-  "title_hash": "e4f45b87262c34d9",
-  "url": "https://www.thedailystar.net/news/politics/news/help-us-prevent-dengue-build-clean-bangladesh-4271376",
-  "headline": "PM Tarique Rahman launches 3-month dengue prevention campaign",
-  "topic": "measles-outbreak-death-toll",
-  "source": "Dhaka Tribune, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-13T11:09:37Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "97c1eaf16bf9fd17",
-  "url": "https://www.dhakatribune.com/bangladesh/health/419732/measles-outbreak-death-toll-reaches-1-022-as",
-  "headline": "1,022 dead as measles outbreak death toll rises",
-  "topic": "measles outbreak death toll surpasses 1000",
-  "source": "Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-09-13T12:18:49Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "1736d3caa9459a80",
-  "url": "https://www.dhakatribune.com/bangladesh/power-energy/419745/adani%E2%80%99s-unit-2-resumes-supply-to-bangladesh-grid",
-  "headline": "Adani Power Plant: Unit-2 resumes supply to Bangladesh grid",
-  "topic": "Adani power unit resumes supply to Bangladesh",
-  "source": "Dhaka Tribune, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-13T12:18:49Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "b466aa6fec5b6b5f",
   "url": "https://www.prothomalo.com/bangladesh/xkhsdjf628",
   "headline": "Adani Power Plant: Unit-2 resumes supply to Bangladesh grid",
@@ -8398,5 +8356,32 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "797fdce3e6364c0a",
+  "url": "https://www.thedailystar.net/campus/news/gemini-chatgpt-feature-du-exam-cheating-64-students-punished-4276241",
+  "headline": "64 DU students punished as AI tools used for exam cheating",
+  "topic": "du students punished for ai cheating",
+  "source": "The Daily Star",
+  "status": "queued",
+  "at": "2026-09-18T12:10:23Z"
+ },
+ {
+  "title_hash": "a41f149f7d669ca3",
+  "url": "https://www.thedailystar.net/news/crime-justice/news/23-detained-tejgaon-college-mosque-over-suspected-militant-links-4276266",
+  "headline": "23 detained from Tejgaon College mosque over suspected militant links",
+  "topic": "malibagh cocktail blast and mosque detentions",
+  "source": "Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-18T12:10:23Z"
+ },
+ {
+  "title_hash": "68d2841e4cc9db3c",
+  "url": "https://www.prothomalo.com/bangladesh/crime/226h1i90is",
+  "headline": "23 detained from Tejgaon College mosque over suspected militant links",
+  "topic": "malibagh cocktail blast and mosque detentions",
+  "source": "Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-18T12:10:23Z"
  }
 ]
