@@ -1,47 +1,5 @@
 [
  {
-  "title_hash": "8a8a39158c15edca",
-  "url": "https://www.prothomalo.com/bangladesh/tq39hj63qs",
-  "headline": "Ship hit by projectile in Strait of Hormuz attack, oil supply fears grow",
-  "topic": "Houthi control Bab al-Mandeb, oil fears",
-  "source": "The Daily Star, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-13T05:12:07Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "d1a1225b7e4196f6",
-  "url": "https://www.prothomalo.com/business/ugxx9qxlhk",
-  "headline": "Ship hit by projectile in Strait of Hormuz attack, oil supply fears grow",
-  "topic": "Houthi control Bab al-Mandeb, oil fears",
-  "source": "The Daily Star, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-13T05:12:07Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "fdd211d24f97ea12",
-  "url": "https://www.dhakatribune.com/bangladesh/nation/419717/four-killed-in-accident-while-returning-from",
-  "headline": "4 killed as lorry hits microbus returning from wedding in Chittagong",
-  "topic": "chittagong wedding accident",
-  "source": "Dhaka Tribune, Jamuna TV, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-13T06:09:02Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "7a1b49e68d09a47b",
   "url": "https://www.jamuna.tv/all-bangladesh/664001",
   "headline": "4 killed as lorry hits microbus returning from wedding in Chittagong",
@@ -8398,5 +8356,32 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "3419046555da7809",
+  "url": "https://www.thedailystar.net/news/bangladesh/news/cantonment-oc-withdrawn-over-viral-audio-4276051",
+  "headline": "Cantonment OC withdrawn after viral audio clip criticising police, govt surfaces",
+  "topic": "cantonment oc in db custody over viral audio",
+  "source": "Jamuna TV, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-18T02:07:38Z"
+ },
+ {
+  "title_hash": "06b2d56f69d2db4b",
+  "url": "https://www.jamuna.tv/national/664384",
+  "headline": "Cantonment OC withdrawn after viral audio clip criticising police, govt surfaces",
+  "topic": "cantonment oc in db custody over viral audio",
+  "source": "Jamuna TV, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-18T02:07:38Z"
+ },
+ {
+  "title_hash": "8357a2b3d5a59ff3",
+  "url": "https://www.jamuna.tv/all-bangladesh/664383",
+  "headline": "Woman jailed for false rape attempt case against businessman in Jhenaidah",
+  "topic": "woman jailed in jhenaidah over false rape attempt case",
+  "source": "Jamuna TV",
+  "status": "queued",
+  "at": "2026-09-18T02:07:38Z"
  }
 ]
