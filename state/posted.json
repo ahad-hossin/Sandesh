@@ -8377,8 +8377,13 @@
   "headline": "Dhaka ranks 4th in global air quality index, indicating unhealthy air",
   "topic": "Dhaka 4th worst in global air quality",
   "source": "Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-09-18T04:08:12Z"
+  "status": "failed",
+  "at": "2026-09-18T04:08:12Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "6ccb4fd2f6f8531f",
@@ -8386,7 +8391,12 @@
   "headline": "Ransom demanded for two missing Sylhet madrasa students after video call shows beating",
   "topic": "Missing madrasa students in Sylhet, ransom demand",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-18T04:08:12Z"
+  "status": "failed",
+  "at": "2026-09-18T04:08:12Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
