@@ -1,75 +1,5 @@
 [
  {
-  "title_hash": "3970974f0020ba6e",
-  "url": "https://www.prothomalo.com/sports/football/i280h118n4",
-  "headline": "VAR controversy rocks derby: Man City win 1-0 despite 10 men",
-  "topic": "manchester-derby-haaland-foden-var",
-  "source": "The Daily Star, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-13T22:06:59Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "1f6fdfcbfce0133c",
-  "url": "https://www.prothomalo.com/sports/football/369w1mqqv2",
-  "headline": "VAR controversy rocks derby: Man City win 1-0 despite 10 men",
-  "topic": "manchester-derby-haaland-foden-var",
-  "source": "The Daily Star, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-13T22:06:59Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "347f5ef75d8a00c9",
-  "url": "https://www.thedailystar.net/sports/football/news/referee-body-admits-error-haaland-goal-manchester-derby-4272331",
-  "headline": "VAR controversy rocks derby: Man City win 1-0 despite 10 men",
-  "topic": "manchester-derby-haaland-foden-var",
-  "source": "The Daily Star, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-13T22:06:59Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "6cc2ff3e6faa4f13",
-  "url": "https://www.thedailystar.net/sports/cricket/news/india-crush-sri-lanka-win-eighth-womens-asia-cup-title-4272251",
-  "headline": "8th title: India win Women's Asia Cup after crushing Sri Lanka",
-  "topic": "india-women-asia-cup-win",
-  "source": "The Daily Star, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-13T22:06:59Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "fdcb8492f0b65916",
-  "url": "https://www.prothomalo.com/sports/cricket/k418gy3wth",
-  "headline": "8th title: India win Women's Asia Cup after crushing Sri Lanka",
-  "topic": "india-women-asia-cup-win",
-  "source": "The Daily Star, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-13T22:06:59Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "347f5ef75d8a00c9",
   "url": "https://www.thedailystar.net/sports/football/news/referee-body-admits-error-haaland-goal-manchester-derby-4272331",
   "headline": "Referee body admits 'error of judgment' over Haaland goal in Manchester derby",
@@ -8398,5 +8328,50 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "554e9847a35d6b71",
+  "url": "https://www.thedailystar.net/news/crime-justice/news/2-injured-crude-bomb-blast-under-dhakas-babubazar-flyover-4276496",
+  "headline": "2 injured as crude bomb blasts hit Dhaka in multiple locations",
+  "topic": "crude bomb blast dhaka",
+  "source": "The Daily Star",
+  "status": "queued",
+  "at": "2026-09-18T21:09:31Z"
+ },
+ {
+  "title_hash": "b5b6ebe61b835582",
+  "url": "https://www.dhakatribune.com/bangladesh/crime/420145/cocktails-explode-in-four-dhaka-areas-one-injured",
+  "headline": "Bus burned, crude bombs explode in four Dhaka areas",
+  "topic": "multiple crude bomb explosions dhaka",
+  "source": "Dhaka Tribune, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-18T21:09:31Z"
+ },
+ {
+  "title_hash": "5020e0bda48c8cfc",
+  "url": "https://www.dhakatribune.com/bangladesh/crime/420117/two-cocktails-explode-near-malibagh-railgate-in",
+  "headline": "Bus burned, crude bombs explode in four Dhaka areas",
+  "topic": "multiple crude bomb explosions dhaka",
+  "source": "Dhaka Tribune, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-18T21:09:31Z"
+ },
+ {
+  "title_hash": "113643fd24a9c577",
+  "url": "https://www.thedailystar.net/news/crime-justice/news/bus-set-fire-front-kafrul-police-station-4276486",
+  "headline": "Bus burned, crude bombs explode in four Dhaka areas",
+  "topic": "multiple crude bomb explosions dhaka",
+  "source": "Dhaka Tribune, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-18T21:09:31Z"
+ },
+ {
+  "title_hash": "6952d57c5b6a38dd",
+  "url": "https://www.thedailystar.net/news/crime-justice/news/crude-bombs-explode-parts-dhaka-3-hurt-4276631",
+  "headline": "Bus burned, crude bombs explode in four Dhaka areas",
+  "topic": "multiple crude bomb explosions dhaka",
+  "source": "Dhaka Tribune, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-18T21:09:31Z"
  }
 ]
