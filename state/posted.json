@@ -1,75 +1,5 @@
 [
  {
-  "title_hash": "e97aeed432620196",
-  "url": "https://www.prothomalo.com/video/bangladesh/u3frwg0v4y",
-  "headline": "Diplomacy: Bangladesh wants to reset ties with India, says State Minister",
-  "topic": "bangladesh india ties reset",
-  "source": "Prothom Alo, Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-09-13T13:08:52Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "698d6e97dddee1f6",
-  "url": "https://www.prothomalo.com/bangladesh/n52xa9jbps",
-  "headline": "ACC probes money laundering allegations against Asif Mahmud",
-  "topic": "asif mahmud corruption allegations",
-  "source": "Prothom Alo, Jamuna TV",
-  "status": "failed",
-  "at": "2026-09-13T14:09:46Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "34a49469d0ccf9fd",
-  "url": "https://www.jamuna.tv/national/664058",
-  "headline": "ACC probes money laundering allegations against Asif Mahmud",
-  "topic": "asif mahmud corruption allegations",
-  "source": "Prothom Alo, Jamuna TV",
-  "status": "failed",
-  "at": "2026-09-13T14:09:46Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "4609bee53687de5a",
-  "url": "https://www.jamuna.tv/national/664043",
-  "headline": "ACC probes money laundering allegations against Asif Mahmud",
-  "topic": "asif mahmud corruption allegations",
-  "source": "Prothom Alo, Jamuna TV",
-  "status": "failed",
-  "at": "2026-09-13T14:09:46Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "783906cde08abc65",
-  "url": "https://www.prothomalo.com/politics/yxsasrue80",
-  "headline": "NCP names mayoral candidates for Dhaka city corporations",
-  "topic": "ncp mayoral candidates dhaka",
-  "source": "Prothom Alo, Jamuna TV",
-  "status": "failed",
-  "at": "2026-09-13T14:09:46Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "bcf25dc26da723f8",
   "url": "https://www.jamuna.tv/politics/664056",
   "headline": "NCP names mayoral candidates for Dhaka city corporations",
@@ -8398,5 +8328,50 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "a41f149f7d669ca3",
+  "url": "https://www.dhakatribune.com/bangladesh/crime/420123/23-detained-on-suspicion-of-militant-activities-at",
+  "headline": "23 detained from Tejgaon College mosque over suspected militant links",
+  "topic": "tejgaon college mosque militant detentions",
+  "source": "Jamuna TV, Dhaka Tribune, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-18T14:13:23Z"
+ },
+ {
+  "title_hash": "cf4b503909b0ee37",
+  "url": "https://www.jamuna.tv/national/664415",
+  "headline": "23 detained from Tejgaon College mosque over suspected militant links",
+  "topic": "tejgaon college mosque militant detentions",
+  "source": "Jamuna TV, Dhaka Tribune, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-18T14:13:23Z"
+ },
+ {
+  "title_hash": "a41f149f7d669ca3",
+  "url": "https://www.thedailystar.net/news/crime-justice/news/23-detained-tejgaon-college-mosque-over-suspected-militant-links-4276266",
+  "headline": "23 detained from Tejgaon College mosque over suspected militant links",
+  "topic": "tejgaon college mosque militant detentions",
+  "source": "Jamuna TV, Dhaka Tribune, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-18T14:13:23Z"
+ },
+ {
+  "title_hash": "8ae274c067341477",
+  "url": "https://www.thedailystar.net/news/crime-justice/homicide/news/woman-daughter-arrested-over-auto-rickshaw-drivers-killing-moulvibazar-4276276",
+  "headline": "Woman and daughter arrested for killing auto-rickshaw driver in Moulvibazar",
+  "topic": "moulvibazar auto driver killing",
+  "source": "The Daily Star, Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-18T14:13:23Z"
+ },
+ {
+  "title_hash": "baca5de0a6afa8f7",
+  "url": "https://www.prothomalo.com/bangladesh/district/rrw3dfiu4c",
+  "headline": "Woman and daughter arrested for killing auto-rickshaw driver in Moulvibazar",
+  "topic": "moulvibazar auto driver killing",
+  "source": "The Daily Star, Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-18T14:13:23Z"
  }
 ]
