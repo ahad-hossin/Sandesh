@@ -8349,8 +8349,13 @@
   "headline": "Pakistan vows to defend Saudi Arabia to any extent amid Houthi attacks",
   "topic": "us approves F-35 sale to Saudi Arabia amid Israeli concerns",
   "source": "Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-18T11:08:22Z"
+  "status": "failed",
+  "at": "2026-09-18T11:08:22Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "84bcf43a2ad5fe04",
@@ -8358,8 +8363,13 @@
   "headline": "Pakistan vows to defend Saudi Arabia to any extent amid Houthi attacks",
   "topic": "us approves F-35 sale to Saudi Arabia amid Israeli concerns",
   "source": "Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-18T11:08:22Z"
+  "status": "failed",
+  "at": "2026-09-18T11:08:22Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "d8ad58d44d69ef6f",
@@ -8367,8 +8377,13 @@
   "headline": "Bhutan PM Tshering Tobgay makes brief stopover in Dhaka",
   "topic": "Bhutan PM makes brief stopover in Dhaka",
   "source": "Dhaka Tribune, Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-18T11:08:22Z"
+  "status": "failed",
+  "at": "2026-09-18T11:08:22Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "32c39cf985bbc8fc",
@@ -8376,7 +8391,12 @@
   "headline": "Bhutan PM Tshering Tobgay makes brief stopover in Dhaka",
   "topic": "Bhutan PM makes brief stopover in Dhaka",
   "source": "Dhaka Tribune, Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-18T11:08:22Z"
+  "status": "failed",
+  "at": "2026-09-18T11:08:22Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
