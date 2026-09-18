@@ -1,33 +1,5 @@
 [
  {
-  "title_hash": "f4bd5bad1cca99f3",
-  "url": "https://www.thedailystar.net/sports/more-sports/tennis/news/zverev-beats-shelton-win-us-open-title-4272341",
-  "headline": "Zverev wins US Open title, defeating Shelton for second Grand Slam trophy",
-  "topic": "zverev wins us open",
-  "source": "The Daily Star",
-  "status": "failed",
-  "at": "2026-09-14T00:11:48Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "0a0b761af27fc663",
-  "url": "https://www.prothomalo.com/bangladesh/rclrkbdypk",
-  "headline": "Gas supply increases, Adani unit restarts, but load shedding persists in Bangladesh",
-  "topic": "Bangladesh faces load shedding despite gas supply increase",
-  "source": "Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-14T02:07:14Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "1d8f4d0ddca1db6e",
   "url": "https://www.prothomalo.com/entertainment/tv/utxs4ry870",
   "headline": "Actress Dighi loses 6 kg in two months through strict diet and exercise, aims for more",
@@ -8398,5 +8370,23 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "512c4548840ebda3",
+  "url": "https://www.thedailystar.net/sports/football/news/kane-hits-fastest-bundesliga-century-bayern-run-riot-against-union-berlin-4276686",
+  "headline": "Harry Kane reaches 100 Bundesliga goals in record 98 games as Bayern thrash Union Berlin 7-0",
+  "topic": "harry kane fastest bundesliga century",
+  "source": "The Daily Star",
+  "status": "queued",
+  "at": "2026-09-18T23:10:04Z"
+ },
+ {
+  "title_hash": "6706a47178a6d72e",
+  "url": "https://www.thedailystar.net/sports/football/news/brentford-hammer-chelsea-3-0-undo-alonsos-promising-start-4276691",
+  "headline": "Brentford hammer Chelsea 3-0 to climb to 3rd in Premier League",
+  "topic": "brentford beat chelsea",
+  "source": "The Daily Star",
+  "status": "queued",
+  "at": "2026-09-18T23:10:04Z"
  }
 ]
