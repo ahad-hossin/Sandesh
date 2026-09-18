@@ -1,33 +1,5 @@
 [
  {
-  "title_hash": "f2e293336aaed7d5",
-  "url": "https://www.thedailystar.net/news/accidents-and-fires/news/brides-siblings-among-four-killed-lorry-hits-microbus-returning-wedding-ctg-4271561",
-  "headline": "4 killed as lorry hits microbus returning from wedding in Chittagong",
-  "topic": "chittagong wedding accident",
-  "source": "Dhaka Tribune, Jamuna TV, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-13T06:09:02Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "3238d0d97eeaf207",
-  "url": "https://www.thedailystar.net/news/crime-justice/news/bangladeshi-dies-after-being-shot-bsf-along-thakurgaon-border-bgb-4271526",
-  "headline": "Bangladeshi man killed after being shot by BSF along Thakurgaon border",
-  "topic": "bsf shooting thakurgaon border",
-  "source": "The Daily Star, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-13T06:09:02Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "212ae929f53f5de7",
   "url": "https://www.jamuna.tv/all-bangladesh/663990",
   "headline": "Bangladeshi man killed after being shot by BSF along Thakurgaon border",
@@ -8398,5 +8370,23 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "94dee39139aae50e",
+  "url": "https://www.dhakatribune.com/bangladesh/420082/dhaka-ranks-4th-in-global-air-quality-index",
+  "headline": "Air quality alert: Dhaka ranks 4th in global air quality index",
+  "topic": "dhaka air quality ranks 4th globally",
+  "source": "Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-09-18T05:08:33Z"
+ },
+ {
+  "title_hash": "db8a8ca0a793eb4d",
+  "url": "https://www.prothomalo.com/world/middle-east/q9pmf1cisu",
+  "headline": "5 killed, including 3 children, in Saudi-Houthi retaliatory attacks",
+  "topic": "saudi yemen tit-for-tat attacks kill 5 including 3 children",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-18T05:08:33Z"
  }
 ]
