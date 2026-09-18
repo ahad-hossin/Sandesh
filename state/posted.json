@@ -8377,8 +8377,13 @@
   "headline": "Jamaat could have resolved 1971 questions with apology draft by Abdur Razzaq",
   "topic": "Jamaat's 1971 role discussed in memoir",
   "source": "The Daily Star",
-  "status": "queued",
-  "at": "2026-09-18T09:21:28Z"
+  "status": "failed",
+  "at": "2026-09-18T09:21:28Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "28154d5319e9608c",
@@ -8386,7 +8391,12 @@
   "headline": "Jamaat could have resolved 1971 questions with apology draft by Abdur Razzaq",
   "topic": "Jamaat's 1971 role discussed in memoir",
   "source": "The Daily Star",
-  "status": "queued",
-  "at": "2026-09-18T09:21:28Z"
+  "status": "failed",
+  "at": "2026-09-18T09:21:28Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
