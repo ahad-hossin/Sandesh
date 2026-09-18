@@ -1,47 +1,5 @@
 [
  {
-  "title_hash": "f2e293336aaed7d5",
-  "url": "https://www.thedailystar.net/news/accidents-and-fires/news/brides-siblings-among-four-killed-lorry-hits-microbus-returning-wedding-ctg-4271561",
-  "headline": "4 four killed in accident while returning from wedding in Chattogram",
-  "topic": "ctg_wedding_accident_deaths",
-  "source": "Dhaka Tribune, The Daily Star, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-13T07:07:25Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "7a1b49e68d09a47b",
-  "url": "https://www.jamuna.tv/all-bangladesh/664001",
-  "headline": "4 four killed in accident while returning from wedding in Chattogram",
-  "topic": "ctg_wedding_accident_deaths",
-  "source": "Dhaka Tribune, The Daily Star, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-13T07:07:25Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "275429e00f2bc08b",
-  "url": "https://www.prothomalo.com/bangladesh/district/7o2dga2eda",
-  "headline": "4 four killed in accident while returning from wedding in Chattogram",
-  "topic": "ctg_wedding_accident_deaths",
-  "source": "Dhaka Tribune, The Daily Star, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-13T07:07:25Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "f50add16f9a91f13",
   "url": "https://www.thedailystar.net/business/news/new-report-attack-strait-hormuz-shipping-fans-fears-threats-oil-supplies-4271516",
   "headline": "Oil supply fears rise as attack on ship in Strait of Hormuz reported",
@@ -8398,5 +8356,32 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "a1c994dfdcd58d1c",
+  "url": "https://www.dhakatribune.com/bangladesh/420088/two-killed-8-injured-as-bus-hits-vehicles-in",
+  "headline": "2 killed, 10 injured as bus hits 3 vehicles in Mymensingh",
+  "topic": "bus accident kills two in Mymensingh",
+  "source": "Dhaka Tribune, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-18T07:08:54Z"
+ },
+ {
+  "title_hash": "6c2dd0cbccd29c1e",
+  "url": "https://www.thedailystar.net/news/accidents-and-fires/news/2-killed-10-injured-bus-hits-3-vehicles-mymensingh-4276156",
+  "headline": "2 killed, 10 injured as bus hits 3 vehicles in Mymensingh",
+  "topic": "bus accident kills two in Mymensingh",
+  "source": "Dhaka Tribune, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-18T07:08:54Z"
+ },
+ {
+  "title_hash": "94dee39139aae50e",
+  "url": "https://www.dhakatribune.com/bangladesh/420082/dhaka-ranks-4th-in-global-air-quality-index",
+  "headline": "Air Quality Crisis: Dhaka ranks 4th in global air quality index",
+  "topic": "Dhaka ranks 4th in global air quality index",
+  "source": "Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-09-18T07:08:54Z"
  }
 ]
