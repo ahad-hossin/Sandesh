@@ -8349,8 +8349,13 @@
   "headline": "23 detained from Tejgaon College mosque over suspected militant links",
   "topic": "tejgaon mosque militant detentions",
   "source": "The Daily Star",
-  "status": "queued",
-  "at": "2026-09-18T13:07:29Z"
+  "status": "failed",
+  "at": "2026-09-18T13:07:29Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "107b646b31a10a36",
@@ -8358,8 +8363,13 @@
   "headline": "23 detained from Tejgaon College mosque over suspected militant links",
   "topic": "tejgaon mosque militant detentions",
   "source": "The Daily Star",
-  "status": "queued",
-  "at": "2026-09-18T13:07:29Z"
+  "status": "failed",
+  "at": "2026-09-18T13:07:29Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "7bff683e7c47537a",
@@ -8367,8 +8377,13 @@
   "headline": "Two cocktails explode near Malibagh Railgate in Dhaka",
   "topic": "malibagh cocktail explosions",
   "source": "Dhaka Tribune, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-18T13:07:29Z"
+  "status": "failed",
+  "at": "2026-09-18T13:07:29Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "68d2841e4cc9db3c",
@@ -8376,7 +8391,12 @@
   "headline": "Two cocktails explode near Malibagh Railgate in Dhaka",
   "topic": "malibagh cocktail explosions",
   "source": "Dhaka Tribune, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-18T13:07:29Z"
+  "status": "failed",
+  "at": "2026-09-18T13:07:29Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
