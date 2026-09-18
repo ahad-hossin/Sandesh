@@ -1,61 +1,5 @@
 [
  {
-  "title_hash": "b466aa6fec5b6b5f",
-  "url": "https://www.prothomalo.com/bangladesh/xkhsdjf628",
-  "headline": "Adani Power Plant: Unit-2 resumes supply to Bangladesh grid",
-  "topic": "Adani power unit resumes supply to Bangladesh",
-  "source": "Dhaka Tribune, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-13T12:18:49Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "9f2f28c511cd5b35",
-  "url": "https://www.dhakatribune.com/bangladesh/health/419760/dengue-six-more-die-as-1-561-hospitalized-in-24",
-  "headline": "1,561 hospitalized in 24 hours as dengue claims 6 more lives",
-  "topic": "dengue toll rises",
-  "source": "Dhaka Tribune, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-13T13:08:52Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "9c66ad4a0d0dd888",
-  "url": "https://www.thedailystar.net/news/healthcare/disease/news/dengue-claims-6-more-lives-1561-hospitalised-24-hours-4271781",
-  "headline": "1,561 hospitalized in 24 hours as dengue claims 6 more lives",
-  "topic": "dengue toll rises",
-  "source": "Dhaka Tribune, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-13T13:08:52Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "e69c6299f0172c9c",
-  "url": "https://www.dhakatribune.com/bangladesh/foreign-affairs/419751/humaiun-kobir-bangladesh-wants-to-%E2%80%98reset%E2%80%99-ties",
-  "headline": "Diplomacy: Bangladesh wants to reset ties with India, says State Minister",
-  "topic": "bangladesh india ties reset",
-  "source": "Prothom Alo, Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-09-13T13:08:52Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "e97aeed432620196",
   "url": "https://www.prothomalo.com/video/bangladesh/u3frwg0v4y",
   "headline": "Diplomacy: Bangladesh wants to reset ties with India, says State Minister",
@@ -8398,5 +8342,41 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "a41f149f7d669ca3",
+  "url": "https://www.thedailystar.net/news/crime-justice/news/23-detained-tejgaon-college-mosque-over-suspected-militant-links-4276266",
+  "headline": "23 detained from Tejgaon College mosque over suspected militant links",
+  "topic": "tejgaon mosque militant detentions",
+  "source": "The Daily Star",
+  "status": "queued",
+  "at": "2026-09-18T13:07:29Z"
+ },
+ {
+  "title_hash": "107b646b31a10a36",
+  "url": "https://www.thedailystar.net/news/bangladesh/news/ducsu-criticised-over-wrong-photos-6-literary-figures-4276121",
+  "headline": "23 detained from Tejgaon College mosque over suspected militant links",
+  "topic": "tejgaon mosque militant detentions",
+  "source": "The Daily Star",
+  "status": "queued",
+  "at": "2026-09-18T13:07:29Z"
+ },
+ {
+  "title_hash": "7bff683e7c47537a",
+  "url": "https://www.dhakatribune.com/bangladesh/crime/420117/two-cocktails-explode-near-malibagh-railgate-in",
+  "headline": "Two cocktails explode near Malibagh Railgate in Dhaka",
+  "topic": "malibagh cocktail explosions",
+  "source": "Dhaka Tribune, Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-18T13:07:29Z"
+ },
+ {
+  "title_hash": "68d2841e4cc9db3c",
+  "url": "https://www.prothomalo.com/bangladesh/crime/226h1i90is",
+  "headline": "Two cocktails explode near Malibagh Railgate in Dhaka",
+  "topic": "malibagh cocktail explosions",
+  "source": "Dhaka Tribune, Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-18T13:07:29Z"
  }
 ]
