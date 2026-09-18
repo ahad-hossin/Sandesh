@@ -8363,8 +8363,13 @@
   "headline": "Australia tightens immigration policies, causing anxiety for students",
   "topic": "australia immigration policy bangladeshi students",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-18T00:08:18Z"
+  "status": "failed",
+  "at": "2026-09-18T00:08:18Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "cb7158892bbad057",
@@ -8372,8 +8377,13 @@
   "headline": "Former RAB intelligence chief Ziaul Ahsan led 5 'golfing operations' killing 21, witness testifies",
   "topic": "ziaul ahsan golf operation murder",
   "source": "Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-18T00:08:18Z"
+  "status": "failed",
+  "at": "2026-09-18T00:08:18Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "93525f16169e24bb",
@@ -8381,7 +8391,12 @@
   "headline": "Former RAB intelligence chief Ziaul Ahsan led 5 'golfing operations' killing 21, witness testifies",
   "topic": "ziaul ahsan golf operation murder",
   "source": "Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-18T00:08:18Z"
+  "status": "failed",
+  "at": "2026-09-18T00:08:18Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
