@@ -1,89 +1,5 @@
 [
  {
-  "title_hash": "bcf25dc26da723f8",
-  "url": "https://www.jamuna.tv/politics/664056",
-  "headline": "NCP names mayoral candidates for Dhaka city corporations",
-  "topic": "ncp mayoral candidates dhaka",
-  "source": "Prothom Alo, Jamuna TV",
-  "status": "failed",
-  "at": "2026-09-13T14:09:46Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "045d90ab317dca72",
-  "url": "https://www.jamuna.tv/international/664063",
-  "headline": "4% of global oil supply at risk as Saudi pipeline shuts down",
-  "topic": "saudi oil pipeline disruption",
-  "source": "Jamuna TV",
-  "status": "failed",
-  "at": "2026-09-13T15:11:13Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "31c88c99a1c3253f",
-  "url": "https://www.jamuna.tv/international/664059",
-  "headline": "4% of global oil supply at risk as Saudi pipeline shuts down",
-  "topic": "saudi oil pipeline disruption",
-  "source": "Jamuna TV",
-  "status": "failed",
-  "at": "2026-09-13T15:11:13Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "d748f66d4b1baf01",
-  "url": "https://www.dhakatribune.com/bangladesh/419773/acc-adds-fresh-allegations-against-former-adviser",
-  "headline": "Asif Mahmud denies Bs 11,000 crore money laundering allegations by ACC",
-  "topic": "ACC probes Asif Mahmud over corruption allegations",
-  "source": "Dhaka Tribune, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-13T15:11:13Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "34a49469d0ccf9fd",
-  "url": "https://www.jamuna.tv/national/664058",
-  "headline": "Asif Mahmud denies Bs 11,000 crore money laundering allegations by ACC",
-  "topic": "ACC probes Asif Mahmud over corruption allegations",
-  "source": "Dhaka Tribune, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-13T15:11:13Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "b5ac6b20b84d6c26",
-  "url": "https://www.prothomalo.com/bangladesh/n52xa9jbps",
-  "headline": "Asif Mahmud denies Bs 11,000 crore money laundering allegations by ACC",
-  "topic": "ACC probes Asif Mahmud over corruption allegations",
-  "source": "Dhaka Tribune, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-13T15:11:13Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "4609bee53687de5a",
   "url": "https://www.jamuna.tv/national/664043",
   "headline": "Asif Mahmud denies Bs 11,000 crore money laundering allegations by ACC",
@@ -8398,5 +8314,59 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "a41f149f7d669ca3",
+  "url": "https://www.thedailystar.net/news/crime-justice/news/23-detained-tejgaon-college-mosque-over-suspected-militant-links-4276266",
+  "headline": "23 detained from Tejgaon College mosque over suspected militant links",
+  "topic": "tejgaon college mosque militant detention",
+  "source": "Jamuna TV, The Daily Star, Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-09-18T15:08:07Z"
+ },
+ {
+  "title_hash": "cf4b503909b0ee37",
+  "url": "https://www.jamuna.tv/national/664415",
+  "headline": "23 detained from Tejgaon College mosque over suspected militant links",
+  "topic": "tejgaon college mosque militant detention",
+  "source": "Jamuna TV, The Daily Star, Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-09-18T15:08:07Z"
+ },
+ {
+  "title_hash": "a41f149f7d669ca3",
+  "url": "https://www.dhakatribune.com/bangladesh/crime/420123/23-detained-on-suspicion-of-militant-activities-at",
+  "headline": "23 detained from Tejgaon College mosque over suspected militant links",
+  "topic": "tejgaon college mosque militant detention",
+  "source": "Jamuna TV, The Daily Star, Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-09-18T15:08:07Z"
+ },
+ {
+  "title_hash": "152aaddf228ddf37",
+  "url": "https://www.dhakatribune.com/bangladesh/politics/420128/jamaat-set-for-second-long-march-this-time-to",
+  "headline": "Rashed Khan: Jamaat's long march creates opportunity for Awami League's return",
+  "topic": "jamaat long march rangpur",
+  "source": "Dhaka Tribune, Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-18T15:08:07Z"
+ },
+ {
+  "title_hash": "07115a0f9c5a29dc",
+  "url": "https://www.prothomalo.com/bangladesh/district/lfoxadugzc",
+  "headline": "Rashed Khan: Jamaat's long march creates opportunity for Awami League's return",
+  "topic": "jamaat long march rangpur",
+  "source": "Dhaka Tribune, Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-18T15:08:07Z"
+ },
+ {
+  "title_hash": "4e17c58c02a7b460",
+  "url": "https://www.thedailystar.net/news/bangladesh/news/dont-use-js-majority-against-peoples-will-4275896",
+  "headline": "Rashed Khan: Jamaat's long march creates opportunity for Awami League's return",
+  "topic": "jamaat long march rangpur",
+  "source": "Dhaka Tribune, Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-18T15:08:07Z"
  }
 ]
