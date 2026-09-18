@@ -8349,8 +8349,13 @@
   "headline": "Bank security guard killed in motorcycle crash on Hanif Flyover",
   "topic": "hanif flyover motorcycle accident",
   "source": "Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-18T10:14:33Z"
+  "status": "failed",
+  "at": "2026-09-18T10:14:33Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "5f1e9b04a56c62e0",
@@ -8358,8 +8363,13 @@
   "headline": "Bank security guard killed in motorcycle crash on Hanif Flyover",
   "topic": "hanif flyover motorcycle accident",
   "source": "Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-18T10:14:33Z"
+  "status": "failed",
+  "at": "2026-09-18T10:14:33Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "da1a4969e183c642",
@@ -8367,8 +8377,13 @@
   "headline": "Tk 94L scam: 2 arrested over Telegram job fraud",
   "topic": "telegram job scam arrests",
   "source": "Dhaka Tribune, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-18T10:14:33Z"
+  "status": "failed",
+  "at": "2026-09-18T10:14:33Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "bf618732564229dc",
@@ -8376,7 +8391,12 @@
   "headline": "Tk 94L scam: 2 arrested over Telegram job fraud",
   "topic": "telegram job scam arrests",
   "source": "Dhaka Tribune, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-18T10:14:33Z"
+  "status": "failed",
+  "at": "2026-09-18T10:14:33Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
