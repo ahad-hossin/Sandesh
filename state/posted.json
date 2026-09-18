@@ -8377,8 +8377,13 @@
   "headline": "Harry Kane reaches 100 Bundesliga goals in record 98 games as Bayern thrash Union Berlin 7-0",
   "topic": "harry kane fastest bundesliga century",
   "source": "The Daily Star",
-  "status": "queued",
-  "at": "2026-09-18T23:10:04Z"
+  "status": "failed",
+  "at": "2026-09-18T23:10:04Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "6706a47178a6d72e",
@@ -8386,7 +8391,12 @@
   "headline": "Brentford hammer Chelsea 3-0 to climb to 3rd in Premier League",
   "topic": "brentford beat chelsea",
   "source": "The Daily Star",
-  "status": "queued",
-  "at": "2026-09-18T23:10:04Z"
+  "status": "failed",
+  "at": "2026-09-18T23:10:04Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
