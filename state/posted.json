@@ -1,33 +1,5 @@
 [
  {
-  "title_hash": "7a1b49e68d09a47b",
-  "url": "https://www.jamuna.tv/all-bangladesh/664001",
-  "headline": "4 killed as lorry hits microbus returning from wedding in Chittagong",
-  "topic": "chittagong wedding accident",
-  "source": "Dhaka Tribune, Jamuna TV, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-13T06:09:02Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "275429e00f2bc08b",
-  "url": "https://www.prothomalo.com/bangladesh/district/7o2dga2eda",
-  "headline": "4 killed as lorry hits microbus returning from wedding in Chittagong",
-  "topic": "chittagong wedding accident",
-  "source": "Dhaka Tribune, Jamuna TV, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-13T06:09:02Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "f2e293336aaed7d5",
   "url": "https://www.thedailystar.net/news/accidents-and-fires/news/brides-siblings-among-four-killed-lorry-hits-microbus-returning-wedding-ctg-4271561",
   "headline": "4 killed as lorry hits microbus returning from wedding in Chittagong",
@@ -8398,5 +8370,23 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "94dee39139aae50e",
+  "url": "https://www.dhakatribune.com/bangladesh/420082/dhaka-ranks-4th-in-global-air-quality-index",
+  "headline": "Dhaka ranks 4th in global air quality index, indicating unhealthy air",
+  "topic": "Dhaka 4th worst in global air quality",
+  "source": "Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-09-18T04:08:12Z"
+ },
+ {
+  "title_hash": "6ccb4fd2f6f8531f",
+  "url": "https://www.prothomalo.com/bangladesh/district/w6z0w7iawy",
+  "headline": "Ransom demanded for two missing Sylhet madrasa students after video call shows beating",
+  "topic": "Missing madrasa students in Sylhet, ransom demand",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-18T04:08:12Z"
  }
 ]
