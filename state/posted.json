@@ -1,47 +1,5 @@
 [
  {
-  "title_hash": "f50add16f9a91f13",
-  "url": "https://www.thedailystar.net/business/news/new-report-attack-strait-hormuz-shipping-fans-fears-threats-oil-supplies-4271516",
-  "headline": "Ship hit by projectile in Strait of Hormuz attack, oil supply fears grow",
-  "topic": "Houthi control Bab al-Mandeb, oil fears",
-  "source": "The Daily Star, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-13T05:12:07Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "ee512459347a01d2",
-  "url": "https://www.jamuna.tv/international/663996",
-  "headline": "Ship hit by projectile in Strait of Hormuz attack, oil supply fears grow",
-  "topic": "Houthi control Bab al-Mandeb, oil fears",
-  "source": "The Daily Star, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-13T05:12:07Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "0e7c0976e86cd8cf",
-  "url": "https://www.prothomalo.com/world/middle-east/vrhlgojlbt",
-  "headline": "Ship hit by projectile in Strait of Hormuz attack, oil supply fears grow",
-  "topic": "Houthi control Bab al-Mandeb, oil fears",
-  "source": "The Daily Star, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-13T05:12:07Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "8a8a39158c15edca",
   "url": "https://www.prothomalo.com/bangladesh/tq39hj63qs",
   "headline": "Ship hit by projectile in Strait of Hormuz attack, oil supply fears grow",
@@ -8398,5 +8356,32 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "8f660604e953c45c",
+  "url": "https://www.prothomalo.com/world/q54g1t1cpz",
+  "headline": "Australia tightens immigration policies, causing anxiety for students",
+  "topic": "australia immigration policy bangladeshi students",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-18T00:08:18Z"
+ },
+ {
+  "title_hash": "cb7158892bbad057",
+  "url": "https://www.thedailystar.net/news/crime-justice/news/ziaul-led-5-golfing-ops-kill-21-4276021",
+  "headline": "Former RAB intelligence chief Ziaul Ahsan led 5 'golfing operations' killing 21, witness testifies",
+  "topic": "ziaul ahsan golf operation murder",
+  "source": "Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-18T00:08:18Z"
+ },
+ {
+  "title_hash": "93525f16169e24bb",
+  "url": "https://www.prothomalo.com/bangladesh/takd6hl7th",
+  "headline": "Former RAB intelligence chief Ziaul Ahsan led 5 'golfing operations' killing 21, witness testifies",
+  "topic": "ziaul ahsan golf operation murder",
+  "source": "Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-18T00:08:18Z"
  }
 ]
