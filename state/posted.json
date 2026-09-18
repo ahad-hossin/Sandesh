@@ -8335,8 +8335,13 @@
   "headline": "Multiple crude bomb blasts hit Dhaka, leaving at least 2 injured",
   "topic": "dhaka crude bomb blasts",
   "source": "The Daily Star",
-  "status": "queued",
-  "at": "2026-09-18T22:09:04Z"
+  "status": "failed",
+  "at": "2026-09-18T22:09:04Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "113643fd24a9c577",
@@ -8344,8 +8349,13 @@
   "headline": "Multiple crude bomb blasts hit Dhaka, leaving at least 2 injured",
   "topic": "dhaka crude bomb blasts",
   "source": "The Daily Star",
-  "status": "queued",
-  "at": "2026-09-18T22:09:04Z"
+  "status": "failed",
+  "at": "2026-09-18T22:09:04Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "6952d57c5b6a38dd",
@@ -8353,8 +8363,13 @@
   "headline": "Multiple crude bomb blasts hit Dhaka, leaving at least 2 injured",
   "topic": "dhaka crude bomb blasts",
   "source": "The Daily Star",
-  "status": "queued",
-  "at": "2026-09-18T22:09:04Z"
+  "status": "failed",
+  "at": "2026-09-18T22:09:04Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "e0ebf6af66fe6b62",
@@ -8362,8 +8377,13 @@
   "headline": "23,301 cases in 18 days: Dengue outbreak could peak in October",
   "topic": "dengue crisis october risk",
   "source": "Dhaka Tribune, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-18T22:09:04Z"
+  "status": "failed",
+  "at": "2026-09-18T22:09:04Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "e30ff6da6676273e",
@@ -8371,7 +8391,12 @@
   "headline": "23,301 cases in 18 days: Dengue outbreak could peak in October",
   "topic": "dengue crisis october risk",
   "source": "Dhaka Tribune, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-18T22:09:04Z"
+  "status": "failed",
+  "at": "2026-09-18T22:09:04Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
