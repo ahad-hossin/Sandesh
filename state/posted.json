@@ -8321,8 +8321,13 @@
   "headline": "23 detained from Tejgaon College mosque over suspected militant links",
   "topic": "tejgaon college mosque militant detention",
   "source": "Jamuna TV, The Daily Star, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-09-18T15:08:07Z"
+  "status": "failed",
+  "at": "2026-09-18T15:08:07Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "cf4b503909b0ee37",
@@ -8330,8 +8335,13 @@
   "headline": "23 detained from Tejgaon College mosque over suspected militant links",
   "topic": "tejgaon college mosque militant detention",
   "source": "Jamuna TV, The Daily Star, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-09-18T15:08:07Z"
+  "status": "failed",
+  "at": "2026-09-18T15:08:07Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "a41f149f7d669ca3",
@@ -8339,8 +8349,13 @@
   "headline": "23 detained from Tejgaon College mosque over suspected militant links",
   "topic": "tejgaon college mosque militant detention",
   "source": "Jamuna TV, The Daily Star, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-09-18T15:08:07Z"
+  "status": "failed",
+  "at": "2026-09-18T15:08:07Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "152aaddf228ddf37",
@@ -8348,8 +8363,13 @@
   "headline": "Rashed Khan: Jamaat's long march creates opportunity for Awami League's return",
   "topic": "jamaat long march rangpur",
   "source": "Dhaka Tribune, Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-18T15:08:07Z"
+  "status": "failed",
+  "at": "2026-09-18T15:08:07Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "07115a0f9c5a29dc",
@@ -8357,8 +8377,13 @@
   "headline": "Rashed Khan: Jamaat's long march creates opportunity for Awami League's return",
   "topic": "jamaat long march rangpur",
   "source": "Dhaka Tribune, Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-18T15:08:07Z"
+  "status": "failed",
+  "at": "2026-09-18T15:08:07Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "4e17c58c02a7b460",
@@ -8366,7 +8391,12 @@
   "headline": "Rashed Khan: Jamaat's long march creates opportunity for Awami League's return",
   "topic": "jamaat long march rangpur",
   "source": "Dhaka Tribune, Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-18T15:08:07Z"
+  "status": "failed",
+  "at": "2026-09-18T15:08:07Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
