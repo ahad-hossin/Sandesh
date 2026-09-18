@@ -1,33 +1,5 @@
 [
  {
-  "title_hash": "e99206e89768906c",
-  "url": "https://www.thedailystar.net/news/bangladesh/news/al-processsion-24-placed-10-day-remand-4271341",
-  "headline": "24 Awami League leaders placed on 10-day remand for Gulshan procession",
-  "topic": "al-chhatra-league-gulshan-arrests",
-  "source": "Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-13T08:08:20Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "0c168ddadcd2b789",
-  "url": "https://www.prothomalo.com/bangladesh/crime/kdghjzbh41",
-  "headline": "24 Awami League leaders placed on 10-day remand for Gulshan procession",
-  "topic": "al-chhatra-league-gulshan-arrests",
-  "source": "Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-13T08:08:20Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "fdd211d24f97ea12",
   "url": "https://www.dhakatribune.com/bangladesh/nation/419717/four-killed-in-accident-while-returning-from",
   "headline": "4 killed as lorry hits microbus returning from wedding in Chattogram",
@@ -8398,5 +8370,23 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "4df2eb267597ff72",
+  "url": "https://www.thedailystar.net/news/politics/news/jamaat-could-have-resolved-questions-over-its-1971-role-razzaqs-2016-statement-asaduzzaman-4276191",
+  "headline": "Jamaat could have resolved 1971 questions with apology draft by Abdur Razzaq",
+  "topic": "Jamaat's 1971 role discussed in memoir",
+  "source": "The Daily Star",
+  "status": "queued",
+  "at": "2026-09-18T09:21:28Z"
+ },
+ {
+  "title_hash": "28154d5319e9608c",
+  "url": "https://www.thedailystar.net/opinion/views/news/abdur-razzaqs-memoir-jamaats-internal-conflict-1971-apology-4275846",
+  "headline": "Jamaat could have resolved 1971 questions with apology draft by Abdur Razzaq",
+  "topic": "Jamaat's 1971 role discussed in memoir",
+  "source": "The Daily Star",
+  "status": "queued",
+  "at": "2026-09-18T09:21:28Z"
  }
 ]
