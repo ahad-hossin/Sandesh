@@ -8377,8 +8377,13 @@
   "headline": "Man dies after snakebite in Faridpur following traditional healing",
   "topic": "man dies after relying on traditional healer for snakebite",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-18T16:08:32Z"
+  "status": "failed",
+  "at": "2026-09-18T16:08:32Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "5002ab705a756cb5",
@@ -8386,7 +8391,12 @@
   "headline": "Mob demolishes house of prime suspect in child rape and murder case",
   "topic": "mob destroys house of accused in rape and murder of student",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-18T16:08:32Z"
+  "status": "failed",
+  "at": "2026-09-18T16:08:32Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
