@@ -1,33 +1,5 @@
 [
  {
-  "title_hash": "1d8f4d0ddca1db6e",
-  "url": "https://www.prothomalo.com/entertainment/tv/utxs4ry870",
-  "headline": "Actress Dighi loses 6 kg in two months through strict diet and exercise, aims for more",
-  "topic": "Actress Dighi loses 6kg weight",
-  "source": "Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-14T02:07:14Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "0a0b761af27fc663",
-  "url": "https://www.prothomalo.com/bangladesh/rclrkbdypk",
-  "headline": "Gas supply increases, Adani unit restarts, but load shedding to persist for now",
-  "topic": "load shedding despite gas supply increase",
-  "source": "Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-14T03:07:19Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "e047e40c51c0567f",
   "url": "https://www.prothomalo.com/fun/c08uaogbbm",
   "headline": "Bangladeshi banks offer major concessions to large loan defaulters, sparking debate",
@@ -8398,5 +8370,23 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "d99fd08923f24b03",
+  "url": "https://www.prothomalo.com/entertainment/tollywood/ggkisfi6du",
+  "headline": "Jaya Ahsan's 'Aajo Ardhangini' now on OTT after 75-day theatrical run",
+  "topic": "Jaya Ahsan film streaming release",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-19T00:08:12Z"
+ },
+ {
+  "title_hash": "12d5f1a2a4641996",
+  "url": "https://www.thedailystar.net/sports/cricket/news/tigresses-face-china-friendly-today-4276501",
+  "headline": "Tigresses to face China in friendly match today ahead of Asian Games semifinal",
+  "topic": "Bangladesh women's cricket vs China",
+  "source": "The Daily Star",
+  "status": "queued",
+  "at": "2026-09-19T00:08:12Z"
  }
 ]
