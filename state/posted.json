@@ -1,61 +1,5 @@
 [
  {
-  "title_hash": "e047e40c51c0567f",
-  "url": "https://www.prothomalo.com/fun/c08uaogbbm",
-  "headline": "Bangladeshi banks offer major concessions to large loan defaulters, sparking debate",
-  "topic": "big loan defaulters get discount",
-  "source": "Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-14T03:07:19Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "4ab2687a17cadc2b",
-  "url": "https://www.thedailystar.net/sports/cricket/news/india-women-follow-mens-teams-lead-refuse-asia-cup-trophy-naqvi-4272396",
-  "headline": "India Women refuse Asia Cup trophy from Mohsin Naqvi after dominant final win in Dubai",
-  "topic": "India refuses Asia Cup trophy",
-  "source": "Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-14T04:07:04Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "b9d33eda652b2e26",
-  "url": "https://www.prothomalo.com/sports/cricket/1iseuek3ye",
-  "headline": "India Women refuse Asia Cup trophy from Mohsin Naqvi after dominant final win in Dubai",
-  "topic": "India refuses Asia Cup trophy",
-  "source": "Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-14T04:07:04Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "0a0b761af27fc663",
-  "url": "https://www.prothomalo.com/bangladesh/rclrkbdypk",
-  "headline": "Gas supply increases, Adani power unit restarts, but load shedding persists in Bangladesh",
-  "topic": "Load shedding despite gas increase",
-  "source": "Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-14T04:07:04Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "4ab2687a17cadc2b",
   "url": "https://www.thedailystar.net/sports/cricket/news/india-women-follow-mens-teams-lead-refuse-asia-cup-trophy-naqvi-4272396",
   "headline": "India women's team refuses Asia Cup trophy from Naqvi after final win",
@@ -8398,5 +8342,41 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "152aaddf228ddf37",
+  "url": "https://www.dhakatribune.com/bangladesh/politics/420128/jamaat-set-for-second-long-march-this-time-to",
+  "headline": "11-party alliance begins long march to Rangpur today with 8-point demands, including Teesta Master Plan",
+  "topic": "11-party alliance Rangpur long march",
+  "source": "Prothom Alo, Dhaka Tribune, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-19T01:07:07Z"
+ },
+ {
+  "title_hash": "59c08e9cf36cb223",
+  "url": "https://www.prothomalo.com/politics/lta1c0ek0j",
+  "headline": "11-party alliance begins long march to Rangpur today with 8-point demands, including Teesta Master Plan",
+  "topic": "11-party alliance Rangpur long march",
+  "source": "Prothom Alo, Dhaka Tribune, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-19T01:07:07Z"
+ },
+ {
+  "title_hash": "a7b71148efade2fd",
+  "url": "https://www.thedailystar.net/news/politics/news/11-party-alliances-dhaka-rangpur-long-march-today-4276626",
+  "headline": "11-party alliance begins long march to Rangpur today with 8-point demands, including Teesta Master Plan",
+  "topic": "11-party alliance Rangpur long march",
+  "source": "Prothom Alo, Dhaka Tribune, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-19T01:07:07Z"
+ },
+ {
+  "title_hash": "a6e075616d22f85e",
+  "url": "https://www.kishoralo.com/feature/hr2pj3p19s",
+  "headline": "AI solves 90-year-old Millennium Prize Problem in just 88 hours, OpenAI claims",
+  "topic": "AI solves Millennium Prize Problem",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-19T01:07:07Z"
  }
 ]
