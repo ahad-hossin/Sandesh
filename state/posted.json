@@ -8363,8 +8363,13 @@
   "headline": "NZ's Rachin Ravindra dislocated shoulder during commercial shoot, doubt for India series",
   "topic": "rachin ravindra injury",
   "source": "Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-19T06:08:20Z"
+  "status": "failed",
+  "at": "2026-09-19T06:08:20Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "66fa97747390e911",
@@ -8372,8 +8377,13 @@
   "headline": "NZ's Rachin Ravindra dislocated shoulder during commercial shoot, doubt for India series",
   "topic": "rachin ravindra injury",
   "source": "Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-19T06:08:20Z"
+  "status": "failed",
+  "at": "2026-09-19T06:08:20Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "f63f02e05d2e938a",
@@ -8381,7 +8391,12 @@
   "headline": "Gold prices rise by ৳1,691 per bhori: Gold prices increase again in Bangladesh",
   "topic": "gold price increase",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-19T06:08:20Z"
+  "status": "failed",
+  "at": "2026-09-19T06:08:20Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
