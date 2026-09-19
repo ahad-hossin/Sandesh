@@ -1,47 +1,5 @@
 [
  {
-  "title_hash": "b63c377b0d85833e",
-  "url": "https://www.jamuna.tv/politics/664131",
-  "headline": "City polls: Jamaat picks Selim Uddin and Shadik Kayem for Dhaka mayors",
-  "topic": "jamaat dhaka city poll candidates",
-  "source": "Dhaka Tribune, Jamuna TV, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-14T17:10:46Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "0adba2641f10cbc2",
-  "url": "https://www.thedailystar.net/news/politics/political-parties/news/selim-uddin-ducsu-vp-shadik-kayem-likely-jamaat-picks-dhaka-city-polls-4272736",
-  "headline": "City polls: Jamaat picks Selim Uddin and Shadik Kayem for Dhaka mayors",
-  "topic": "jamaat dhaka city poll candidates",
-  "source": "Dhaka Tribune, Jamuna TV, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-14T17:10:46Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "2089672d57d3b3c8",
-  "url": "https://www.thedailystar.net/business/economy/news/dozens-injured-islami-bank-clash-4272926",
-  "headline": "Dozens injured in clash between former employees and customer forum at Islami Bank head office",
-  "topic": "islami bank clash",
-  "source": "The Daily Star, Dhaka Tribune, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-14T18:10:36Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "3cc1dce12c42d3ab",
   "url": "https://www.dhakatribune.com/bangladesh/dhaka/419812/islami-bank-protest-turns-violent-25-reportedly",
   "headline": "Dozens injured in clash between former employees and customer forum at Islami Bank head office",
@@ -8398,5 +8356,32 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "490b7acb7c57b78f",
+  "url": "https://www.dhakatribune.com/bangladesh/foreign-affairs/420183/pm-heads-to-new-york-monday-for-first-unga-address",
+  "headline": "PM heads to New York Monday for first UNGA address",
+  "topic": "pm heads to new york for unga address",
+  "source": "Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-09-19T12:09:52Z"
+ },
+ {
+  "title_hash": "74d9ff3a035103fc",
+  "url": "https://www.dhakatribune.com/bangladesh/health/420184/dengue-two-more-die-as-1-232-cases-recorded-in-24",
+  "headline": "Over 60,000 cases: Two more die as dengue cases rise",
+  "topic": "dengue deaths and cases rise",
+  "source": "Dhaka Tribune, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-19T12:09:52Z"
+ },
+ {
+  "title_hash": "27f503b7bb5f363e",
+  "url": "https://www.thedailystar.net/news/healthcare/news/2-more-die-dengue-cases-cross-60000-4276971",
+  "headline": "Over 60,000 cases: Two more die as dengue cases rise",
+  "topic": "dengue deaths and cases rise",
+  "source": "Dhaka Tribune, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-19T12:09:52Z"
  }
 ]
