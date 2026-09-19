@@ -8349,8 +8349,13 @@
   "headline": "11-party alliance begins long march towards Rangpur; ruling party and BNP question motives",
   "topic": "11-Party Alliance Long March",
   "source": "Prothom Alo, Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-19T04:07:11Z"
+  "status": "failed",
+  "at": "2026-09-19T04:07:11Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "ab26e3230363be2b",
@@ -8358,8 +8363,13 @@
   "headline": "11-party alliance begins long march towards Rangpur; ruling party and BNP question motives",
   "topic": "11-Party Alliance Long March",
   "source": "Prothom Alo, Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-19T04:07:11Z"
+  "status": "failed",
+  "at": "2026-09-19T04:07:11Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "43bad2237df5fc0e",
@@ -8367,8 +8377,13 @@
   "headline": "11-party alliance begins long march towards Rangpur; ruling party and BNP question motives",
   "topic": "11-Party Alliance Long March",
   "source": "Prothom Alo, Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-19T04:07:11Z"
+  "status": "failed",
+  "at": "2026-09-19T04:07:11Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "50fc85a34f1af267",
@@ -8376,7 +8391,12 @@
   "headline": "Six tourists detained in Sajek for allegedly chanting provocative political slogans",
   "topic": "Sajek Tourists Arrested",
   "source": "Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-19T04:07:11Z"
+  "status": "failed",
+  "at": "2026-09-19T04:07:11Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
