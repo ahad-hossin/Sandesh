@@ -8349,8 +8349,13 @@
   "headline": "Akbar Ali's unexplained absence from 63 touring squads raises questions of dissent",
   "topic": "Akbar Ali Cricket Selection Controversy",
   "source": "The Daily Star",
-  "status": "queued",
-  "at": "2026-09-19T02:07:51Z"
+  "status": "failed",
+  "at": "2026-09-19T02:07:51Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "152aaddf228ddf37",
@@ -8358,8 +8363,13 @@
   "headline": "11-party alliance begins long march to Rangpur today with 8 demands including Teesta Master Plan",
   "topic": "Jamaat 11-Party Alliance Long March",
   "source": "Dhaka Tribune, Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-19T02:07:51Z"
+  "status": "failed",
+  "at": "2026-09-19T02:07:51Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "59c08e9cf36cb223",
@@ -8367,8 +8377,13 @@
   "headline": "11-party alliance begins long march to Rangpur today with 8 demands including Teesta Master Plan",
   "topic": "Jamaat 11-Party Alliance Long March",
   "source": "Dhaka Tribune, Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-19T02:07:51Z"
+  "status": "failed",
+  "at": "2026-09-19T02:07:51Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "a7b71148efade2fd",
@@ -8376,7 +8391,12 @@
   "headline": "11-party alliance begins long march to Rangpur today with 8 demands including Teesta Master Plan",
   "topic": "Jamaat 11-Party Alliance Long March",
   "source": "Dhaka Tribune, Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-19T02:07:51Z"
+  "status": "failed",
+  "at": "2026-09-19T02:07:51Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
