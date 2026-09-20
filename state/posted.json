@@ -1,75 +1,5 @@
 [
  {
-  "title_hash": "42f371c20e31c6a0",
-  "url": "https://www.dhakatribune.com/bangladesh/dhaka/419930/motorcycle-used-in-incident-recovered-2-arrested",
-  "headline": "2 arrested as teacher killed in snatching near Parliament",
-  "topic": "teacher killed in snatching",
-  "source": "Dhaka Tribune, Prothom Alo, The Daily Star, Jamuna TV",
-  "status": "failed",
-  "at": "2026-09-16T09:09:00Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "f669a3378204c52d",
-  "url": "https://www.prothomalo.com/video/bangladesh/h4idiequ2t",
-  "headline": "2 arrested as teacher killed in snatching near Parliament",
-  "topic": "teacher killed in snatching",
-  "source": "Dhaka Tribune, Prothom Alo, The Daily Star, Jamuna TV",
-  "status": "failed",
-  "at": "2026-09-16T09:09:00Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "8d2cc802ee0d98b5",
-  "url": "https://www.thedailystar.net/news/crime-justice/news/db-arrests-two-over-death-headteacher-front-parliament-4274246",
-  "headline": "2 arrested as teacher killed in snatching near Parliament",
-  "topic": "teacher killed in snatching",
-  "source": "Dhaka Tribune, Prothom Alo, The Daily Star, Jamuna TV",
-  "status": "failed",
-  "at": "2026-09-16T09:09:00Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "4a843846cae5252f",
-  "url": "https://www.jamuna.tv/national/664231",
-  "headline": "2 arrested as teacher killed in snatching near Parliament",
-  "topic": "teacher killed in snatching",
-  "source": "Dhaka Tribune, Prothom Alo, The Daily Star, Jamuna TV",
-  "status": "failed",
-  "at": "2026-09-16T09:09:00Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "d05c0ed31bb9843d",
-  "url": "https://www.prothomalo.com/bangladesh/crime/2t8oar4ajc",
-  "headline": "2 arrested as teacher killed in snatching near Parliament",
-  "topic": "teacher killed in snatching",
-  "source": "Dhaka Tribune, Prothom Alo, The Daily Star, Jamuna TV",
-  "status": "failed",
-  "at": "2026-09-16T09:09:00Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "41f3c2fdccef2118",
   "url": "https://www.thedailystar.net/news/governance/news/ecnec-approves-new-metro-rail-project-revises-2-others-total-cost-tk-25-lakh-crore-4274366",
   "headline": "Tk 2.5 lakh crore for Metro Rail expansion and new project",
@@ -8398,5 +8328,50 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "e040a83c6e247050",
+  "url": "https://www.dhakatribune.com/bangladesh/health/420243/measles-outbreak-death-toll-reaches-1-057-as-four",
+  "headline": "1,057 dead as measles outbreak claims lives across Bangladesh",
+  "topic": "measles outbreak death toll rises",
+  "source": "Dhaka Tribune, Jamuna TV",
+  "status": "queued",
+  "at": "2026-09-20T11:09:43Z"
+ },
+ {
+  "title_hash": "27985f1f6df53609",
+  "url": "https://www.jamuna.tv/national/664511",
+  "headline": "1,057 dead as measles outbreak claims lives across Bangladesh",
+  "topic": "measles outbreak death toll rises",
+  "source": "Dhaka Tribune, Jamuna TV",
+  "status": "queued",
+  "at": "2026-09-20T11:09:43Z"
+ },
+ {
+  "title_hash": "2182c51968e41524",
+  "url": "https://www.thedailystar.net/news/crime-justice/news/iphone-was-motive-behind-killing-opratim-police-4277776",
+  "headline": "iPhone motive in 13-year-old boy killed in Cumilla; 3 arrested",
+  "topic": "iphone motive in teen's murder",
+  "source": "The Daily Star, Prothom Alo, Jamuna TV",
+  "status": "queued",
+  "at": "2026-09-20T11:09:43Z"
+ },
+ {
+  "title_hash": "46f8377e30a520bb",
+  "url": "https://www.prothomalo.com/bangladesh/district/3okn30abqk",
+  "headline": "iPhone motive in 13-year-old boy killed in Cumilla; 3 arrested",
+  "topic": "iphone motive in teen's murder",
+  "source": "The Daily Star, Prothom Alo, Jamuna TV",
+  "status": "queued",
+  "at": "2026-09-20T11:09:43Z"
+ },
+ {
+  "title_hash": "450934cc9a6390d4",
+  "url": "https://www.jamuna.tv/national/664507",
+  "headline": "iPhone motive in 13-year-old boy killed in Cumilla; 3 arrested",
+  "topic": "iphone motive in teen's murder",
+  "source": "The Daily Star, Prothom Alo, Jamuna TV",
+  "status": "queued",
+  "at": "2026-09-20T11:09:43Z"
  }
 ]
