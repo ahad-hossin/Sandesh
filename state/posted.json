@@ -1,61 +1,5 @@
 [
  {
-  "title_hash": "2a4fe682b1cfb627",
-  "url": "https://www.thedailystar.net/sports/football/news/ronaldo-powerless-al-nassr-suffer-asian-champions-league-thrashing-4274081",
-  "headline": "Al-Nassr thrashed 4-0 by Al-Ain in Asian Champions League Elite opener; Ronaldo ineffective",
-  "topic": "Ronaldo's Al-Nassr thrashed in ACL",
-  "source": "Jamuna TV, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-16T01:07:05Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "0cc9bc82ce1f593e",
-  "url": "https://www.jamuna.tv/sports/664218",
-  "headline": "Al-Nassr thrashed 4-0 by Al-Ain in Asian Champions League Elite opener; Ronaldo ineffective",
-  "topic": "Ronaldo's Al-Nassr thrashed in ACL",
-  "source": "Jamuna TV, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-16T01:07:05Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "b053dcf960f4a46f",
-  "url": "https://www.prothomalo.com/education/admission/b6bkhj4kxx",
-  "headline": "Free AI training for youth in 64 districts, daily allowance of BDT 200",
-  "topic": "Free AI training with daily allowance",
-  "source": "Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-16T03:06:46Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "1de2f29ec042c318",
-  "url": "https://www.prothomalo.com/chakri/chakri-news/nasbbr0eaq",
-  "headline": "Bangladesh Bank launches 'Uddyog' program for youth, offering BDT 20 lakh aid",
-  "topic": "Bangladesh Bank youth loan program",
-  "source": "Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-16T03:06:46Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "b7297e1a5cecf68a",
   "url": "https://www.dhakatribune.com/bangladesh/foreign-affairs/419920/jaiswal-pm-tarique-received-two-invitations-to",
   "headline": "PM Tarique received two invitations to visit India, says Jaiswal",
@@ -8398,5 +8342,41 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "a050d154dbff3d46",
+  "url": "https://www.prothomalo.com/bangladesh/crime/y5jdjo1mu5",
+  "headline": "AL leaders directing violence from India, DB says",
+  "topic": "al leaders violence instructions from india",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-20T09:16:15Z"
+ },
+ {
+  "title_hash": "01705e55a3f4f837",
+  "url": "https://www.prothomalo.com/bangladesh/capital/3k4gkij7ll",
+  "headline": "AL leaders directing violence from India, DB says",
+  "topic": "al leaders violence instructions from india",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-20T09:16:15Z"
+ },
+ {
+  "title_hash": "6f48add2aac3f4a0",
+  "url": "https://www.thedailystar.net/star-multimedia/news/new-pay-scale-when-will-govt-employees-get-the-increased-salaries-4277681",
+  "headline": "Minimum govt employee salary set at 33k in new pay scale",
+  "topic": "new government pay scale",
+  "source": "Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-20T09:16:15Z"
+ },
+ {
+  "title_hash": "51944e55078806c9",
+  "url": "https://www.prothomalo.com/bangladesh/p68m7xcen1",
+  "headline": "Minimum govt employee salary set at 33k in new pay scale",
+  "topic": "new government pay scale",
+  "source": "Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-20T09:16:15Z"
  }
 ]
