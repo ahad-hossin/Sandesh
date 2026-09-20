@@ -1,47 +1,5 @@
 [
  {
-  "title_hash": "9d6b3bdcd8b22721",
-  "url": "https://www.dhakatribune.com/bangladesh/court/419857/tribunal-to-deliver-verdict-against-7-including",
-  "headline": "Seven top Awami League leaders sentenced to death for July uprising atrocities",
-  "topic": "july uprising verdict",
-  "source": "Dhaka Tribune, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-16T00:07:55Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "f86e220cb6cc3268",
-  "url": "https://www.thedailystar.net/news/crime-justice/news/july-uprising-ict-case-quader-among-7-sentenced-death-4274066",
-  "headline": "Seven top Awami League leaders sentenced to death for July uprising atrocities",
-  "topic": "july uprising verdict",
-  "source": "Dhaka Tribune, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-16T00:07:55Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "11446a37e979f077",
-  "url": "https://www.dhakatribune.com/bangladesh/health/419886/dengue-seven-more-die-as-1-593-hospitalize-in-24",
-  "headline": "Bangladesh reports 7 more Dengue deaths and 1,593 new hospitalizations in 24 hours",
-  "topic": "dengue deaths and hospitalizations",
-  "source": "Prothom Alo, Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-09-16T00:07:55Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "3b6782f907c7f313",
   "url": "https://www.prothomalo.com/bangladesh/wnfh62ts8c",
   "headline": "Bangladesh reports 7 more Dengue deaths and 1,593 new hospitalizations in 24 hours",
@@ -8398,5 +8356,32 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "e29a5a71363637c6",
+  "url": "https://www.thedailystar.net/culture/entertainment/news/former-mechanix-guitarist-syed-imran-ahmed-passes-away-after-cancer-battle-4277606",
+  "headline": "Mechanix co-founder guitarist Syed Imran Ahmed dies after cancer battle",
+  "topic": "guitarist syed imran ahmed passes away",
+  "source": "Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-20T07:08:34Z"
+ },
+ {
+  "title_hash": "6ea27ec2a640982f",
+  "url": "https://www.prothomalo.com/entertainment/song/sel4vz1r2x",
+  "headline": "Mechanix co-founder guitarist Syed Imran Ahmed dies after cancer battle",
+  "topic": "guitarist syed imran ahmed passes away",
+  "source": "Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-20T07:08:34Z"
+ },
+ {
+  "title_hash": "f5f051bc1ff43e51",
+  "url": "https://www.dhakatribune.com/bangladesh/weather/420228/early-morning-rain-causes-waterlogging-commuter",
+  "headline": "Early morning rain causes waterlogging in Dhaka, sparking commuter woes",
+  "topic": "early morning rain causes waterlogging in dhaka",
+  "source": "Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-09-20T07:08:34Z"
  }
 ]
