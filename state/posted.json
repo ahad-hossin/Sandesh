@@ -8335,8 +8335,13 @@
   "headline": "1,057 dead as measles outbreak claims lives across Bangladesh",
   "topic": "measles outbreak death toll rises",
   "source": "Dhaka Tribune, Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-20T11:09:43Z"
+  "status": "failed",
+  "at": "2026-09-20T11:09:43Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "27985f1f6df53609",
@@ -8344,8 +8349,13 @@
   "headline": "1,057 dead as measles outbreak claims lives across Bangladesh",
   "topic": "measles outbreak death toll rises",
   "source": "Dhaka Tribune, Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-20T11:09:43Z"
+  "status": "failed",
+  "at": "2026-09-20T11:09:43Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "2182c51968e41524",
@@ -8353,8 +8363,13 @@
   "headline": "iPhone motive in 13-year-old boy killed in Cumilla; 3 arrested",
   "topic": "iphone motive in teen's murder",
   "source": "The Daily Star, Prothom Alo, Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-20T11:09:43Z"
+  "status": "failed",
+  "at": "2026-09-20T11:09:43Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "46f8377e30a520bb",
@@ -8362,8 +8377,13 @@
   "headline": "iPhone motive in 13-year-old boy killed in Cumilla; 3 arrested",
   "topic": "iphone motive in teen's murder",
   "source": "The Daily Star, Prothom Alo, Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-20T11:09:43Z"
+  "status": "failed",
+  "at": "2026-09-20T11:09:43Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "450934cc9a6390d4",
@@ -8371,7 +8391,12 @@
   "headline": "iPhone motive in 13-year-old boy killed in Cumilla; 3 arrested",
   "topic": "iphone motive in teen's murder",
   "source": "The Daily Star, Prothom Alo, Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-20T11:09:43Z"
+  "status": "failed",
+  "at": "2026-09-20T11:09:43Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
