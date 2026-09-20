@@ -8349,8 +8349,13 @@
   "headline": "AL leaders directing violence from India, DB says",
   "topic": "al leaders violence instructions from india",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-20T09:16:15Z"
+  "status": "failed",
+  "at": "2026-09-20T09:16:15Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "01705e55a3f4f837",
@@ -8358,8 +8363,13 @@
   "headline": "AL leaders directing violence from India, DB says",
   "topic": "al leaders violence instructions from india",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-20T09:16:15Z"
+  "status": "failed",
+  "at": "2026-09-20T09:16:15Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "6f48add2aac3f4a0",
@@ -8367,8 +8377,13 @@
   "headline": "Minimum govt employee salary set at 33k in new pay scale",
   "topic": "new government pay scale",
   "source": "Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-20T09:16:15Z"
+  "status": "failed",
+  "at": "2026-09-20T09:16:15Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "51944e55078806c9",
@@ -8376,7 +8391,12 @@
   "headline": "Minimum govt employee salary set at 33k in new pay scale",
   "topic": "new government pay scale",
   "source": "Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-20T09:16:15Z"
+  "status": "failed",
+  "at": "2026-09-20T09:16:15Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
