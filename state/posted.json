@@ -8307,8 +8307,13 @@
   "headline": "36 missing children's bodies recovered in 8 months; 155 killed in total",
   "topic": "36 Missing Children Bodies Recovered",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-20T04:07:02Z"
+  "status": "failed",
+  "at": "2026-09-20T04:07:02Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "a1c14ae974b96563",
@@ -8316,8 +8321,13 @@
   "headline": "Three arrested in Cumilla school student murder; victim's phone recovered",
   "topic": "Comilla Student Opritom Murder",
   "source": "Jamuna TV, Dhaka Tribune, Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-20T04:07:02Z"
+  "status": "failed",
+  "at": "2026-09-20T04:07:02Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "1429db43458607a5",
@@ -8325,8 +8335,13 @@
   "headline": "Three arrested in Cumilla school student murder; victim's phone recovered",
   "topic": "Comilla Student Opritom Murder",
   "source": "Jamuna TV, Dhaka Tribune, Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-20T04:07:02Z"
+  "status": "failed",
+  "at": "2026-09-20T04:07:02Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "780afd1ff02c6baa",
@@ -8334,8 +8349,13 @@
   "headline": "Three arrested in Cumilla school student murder; victim's phone recovered",
   "topic": "Comilla Student Opritom Murder",
   "source": "Jamuna TV, Dhaka Tribune, Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-20T04:07:02Z"
+  "status": "failed",
+  "at": "2026-09-20T04:07:02Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "c6c5abbf06b2ba52",
@@ -8343,8 +8363,13 @@
   "headline": "Three arrested in Cumilla school student murder; victim's phone recovered",
   "topic": "Comilla Student Opritom Murder",
   "source": "Jamuna TV, Dhaka Tribune, Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-20T04:07:02Z"
+  "status": "failed",
+  "at": "2026-09-20T04:07:02Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "2f3fbf34fbe01351",
@@ -8352,8 +8377,13 @@
   "headline": "Three arrested in Cumilla school student murder; victim's phone recovered",
   "topic": "Comilla Student Opritom Murder",
   "source": "Jamuna TV, Dhaka Tribune, Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-20T04:07:02Z"
+  "status": "failed",
+  "at": "2026-09-20T04:07:02Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "292e9154e7cd9b4a",
@@ -8361,7 +8391,12 @@
   "headline": "Three arrested in Cumilla school student murder; victim's phone recovered",
   "topic": "Comilla Student Opritom Murder",
   "source": "Jamuna TV, Dhaka Tribune, Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-20T04:07:02Z"
+  "status": "failed",
+  "at": "2026-09-20T04:07:02Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
