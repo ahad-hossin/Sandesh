@@ -1,145 +1,5 @@
 [
  {
-  "title_hash": "0f6bbe14358317f7",
-  "url": "https://www.thedailystar.net/news/bangladesh/rights/news/rangamati-rally-demands-return-5-indigenous-quota-4275491",
-  "headline": "1,484 hospitalised in 24 hours as 5 more die of dengue",
-  "topic": "dengue deaths hospitalized",
-  "source": "Dhaka Tribune, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-17T14:08:59Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "e4a044ccd5028e36",
-  "url": "https://www.dhakatribune.com/bangladesh/health/420046/dengue-five-more-die-as-1-484-hospitalize-in-24",
-  "headline": "1,484 hospitalized as 5 more die of dengue in 24 hours",
-  "topic": "dengue deaths surge",
-  "source": "Jamuna TV, Dhaka Tribune, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-17T15:08:13Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "7cfe3fe21f09bbb7",
-  "url": "https://www.jamuna.tv/national/664371",
-  "headline": "1,484 hospitalized as 5 more die of dengue in 24 hours",
-  "topic": "dengue deaths surge",
-  "source": "Jamuna TV, Dhaka Tribune, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-17T15:08:13Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "121c749711c298a4",
-  "url": "https://www.thedailystar.net/news/healthcare/disease/news/5-more-die-dengue-1484-hospitalised-24-hours-4275521",
-  "headline": "1,484 hospitalized as 5 more die of dengue in 24 hours",
-  "topic": "dengue deaths surge",
-  "source": "Jamuna TV, Dhaka Tribune, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-17T15:08:13Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "bf385de1a8af165a",
-  "url": "https://www.dhakatribune.com/bangladesh/government-affairs/420050/cantonment-oc-withdrawn-after-audio-clip-goes",
-  "headline": "Viral audio: Cantonment OC withdrawn over comments on Hasina's return",
-  "topic": "cantonment oc withdrawn viral audio",
-  "source": "Prothom Alo, Dhaka Tribune, Jamuna TV",
-  "status": "failed",
-  "at": "2026-09-17T15:08:13Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "b8e76a1c78cc9f46",
-  "url": "https://www.prothomalo.com/bangladesh/shekh-haasinaa-phirle-pulish-durbl-osi-prtyaahaar",
-  "headline": "Viral audio: Cantonment OC withdrawn over comments on Hasina's return",
-  "topic": "cantonment oc withdrawn viral audio",
-  "source": "Prothom Alo, Dhaka Tribune, Jamuna TV",
-  "status": "failed",
-  "at": "2026-09-17T15:08:13Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "dd051afa7227a90f",
-  "url": "https://www.jamuna.tv/national/664343",
-  "headline": "Viral audio: Cantonment OC withdrawn over comments on Hasina's return",
-  "topic": "cantonment oc withdrawn viral audio",
-  "source": "Prothom Alo, Dhaka Tribune, Jamuna TV",
-  "status": "failed",
-  "at": "2026-09-17T15:08:13Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "bf385de1a8af165a",
-  "url": "https://www.dhakatribune.com/bangladesh/government-affairs/420050/cantonment-oc-withdrawn-after-audio-clip-goes",
-  "headline": "Viral audio: Cantonment OC withdrawn over comments on Hasina's return",
-  "topic": "cantonment oc withdrawn viral audio",
-  "source": "Dhaka Tribune, Prothom Alo, Jamuna TV",
-  "status": "failed",
-  "at": "2026-09-17T16:08:34Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "b8e76a1c78cc9f46",
-  "url": "https://www.prothomalo.com/bangladesh/shekh-haasinaa-phirle-pulish-durbl-osi-prtyaahaar",
-  "headline": "Viral audio: Cantonment OC withdrawn over comments on Hasina's return",
-  "topic": "cantonment oc withdrawn viral audio",
-  "source": "Dhaka Tribune, Prothom Alo, Jamuna TV",
-  "status": "failed",
-  "at": "2026-09-17T16:08:34Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "dd051afa7227a90f",
-  "url": "https://www.jamuna.tv/national/664343",
-  "headline": "Viral audio: Cantonment OC withdrawn over comments on Hasina's return",
-  "topic": "cantonment oc withdrawn viral audio",
-  "source": "Dhaka Tribune, Prothom Alo, Jamuna TV",
-  "status": "failed",
-  "at": "2026-09-17T16:08:34Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "e4a044ccd5028e36",
   "url": "https://www.dhakatribune.com/bangladesh/health/420046/dengue-five-more-die-as-1-484-hospitalize-in-24",
   "headline": "1,484 hospitalised as 5 more die of dengue in 24 hours",
@@ -8398,5 +8258,95 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "d2d819f48c69c4fa",
+  "url": "https://www.dhakatribune.com/bangladesh/420285/fuel-prices-jump-by-up-to-tk20-a-litre",
+  "headline": "Fuel prices jump by Tk20 a litre across Bangladesh, effective immediately",
+  "topic": "fuel price hike",
+  "source": "Prothom Alo, Dhaka Tribune, Jamuna TV, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-21T01:08:48Z"
+ },
+ {
+  "title_hash": "6bb227dc4c2bc694",
+  "url": "https://www.prothomalo.com/bangladesh/yfgmz7g7nv",
+  "headline": "Fuel prices jump by Tk20 a litre across Bangladesh, effective immediately",
+  "topic": "fuel price hike",
+  "source": "Prothom Alo, Dhaka Tribune, Jamuna TV, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-21T01:08:48Z"
+ },
+ {
+  "title_hash": "1f73402d93b0db90",
+  "url": "https://www.jamuna.tv/national/664544",
+  "headline": "Fuel prices jump by Tk20 a litre across Bangladesh, effective immediately",
+  "topic": "fuel price hike",
+  "source": "Prothom Alo, Dhaka Tribune, Jamuna TV, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-21T01:08:48Z"
+ },
+ {
+  "title_hash": "75574f293948f777",
+  "url": "https://www.thedailystar.net/news/bangladesh/news/fuel-prices-tk-20-across-the-board-4278401",
+  "headline": "Fuel prices jump by Tk20 a litre across Bangladesh, effective immediately",
+  "topic": "fuel price hike",
+  "source": "Prothom Alo, Dhaka Tribune, Jamuna TV, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-21T01:08:48Z"
+ },
+ {
+  "title_hash": "2a6415e78e0198b0",
+  "url": "https://www.thedailystar.net/news/crime-justice/news/case-filed-against-mp-gazi-nazrul-2-others-over-second-wifes-death-4278376",
+  "headline": "Case filed against MP Gazi Nazrul and two others over second wife’s death in Dhaka",
+  "topic": "mp gazi nazrul wife death",
+  "source": "The Daily Star, Jamuna TV, Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-09-21T01:08:48Z"
+ },
+ {
+  "title_hash": "1ffa2fe4c6ef71d7",
+  "url": "https://www.jamuna.tv/national/664545",
+  "headline": "Case filed against MP Gazi Nazrul and two others over second wife’s death in Dhaka",
+  "topic": "mp gazi nazrul wife death",
+  "source": "The Daily Star, Jamuna TV, Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-09-21T01:08:48Z"
+ },
+ {
+  "title_hash": "75a4dbc5b3506513",
+  "url": "https://www.dhakatribune.com/bangladesh/crime/420271/mp-gazi-nazrul%E2%80%99s-second-wife-found-dead-at-nam",
+  "headline": "Case filed against MP Gazi Nazrul and two others over second wife’s death in Dhaka",
+  "topic": "mp gazi nazrul wife death",
+  "source": "The Daily Star, Jamuna TV, Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-09-21T01:08:48Z"
+ },
+ {
+  "title_hash": "cc71e007c47f5cab",
+  "url": "https://www.dhakatribune.com/bangladesh/crime/420284/mp-gazi-nazrul-first-wife-taken-into-custody",
+  "headline": "Case filed against MP Gazi Nazrul and two others over second wife’s death in Dhaka",
+  "topic": "mp gazi nazrul wife death",
+  "source": "The Daily Star, Jamuna TV, Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-09-21T01:08:48Z"
+ },
+ {
+  "title_hash": "b21431e99d29bdb8",
+  "url": "https://www.jamuna.tv/national/664536",
+  "headline": "Case filed against MP Gazi Nazrul and two others over second wife’s death in Dhaka",
+  "topic": "mp gazi nazrul wife death",
+  "source": "The Daily Star, Jamuna TV, Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-09-21T01:08:48Z"
+ },
+ {
+  "title_hash": "2d01fc421432e8f1",
+  "url": "https://www.thedailystar.net/news/crime-justice/news/mp-nazruls-2nd-wife-found-dead-nam-flat-4278386",
+  "headline": "Case filed against MP Gazi Nazrul and two others over second wife’s death in Dhaka",
+  "topic": "mp gazi nazrul wife death",
+  "source": "The Daily Star, Jamuna TV, Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-09-21T01:08:48Z"
  }
 ]
