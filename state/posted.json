@@ -1,33 +1,5 @@
 [
  {
-  "title_hash": "f48a1e55b3188722",
-  "url": "https://www.prothomalo.com/bangladesh/district/ght0wdff6t",
-  "headline": "13-year-old boy killed for an iPhone, body found in Cumilla jungle",
-  "topic": "13-year-old Opratim murder investigation",
-  "source": "The Daily Star, Jamuna TV, Prothom Alo, Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-09-19T15:10:28Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "e77f26f04c13ac3c",
-  "url": "https://www.prothomalo.com/video/bangladesh/wopal1nmjm",
-  "headline": "13-year-old boy killed for an iPhone, body found in Cumilla jungle",
-  "topic": "13-year-old Opratim murder investigation",
-  "source": "The Daily Star, Jamuna TV, Prothom Alo, Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-09-19T15:10:28Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "368cb73fe69368a3",
   "url": "https://www.dhakatribune.com/bangladesh/crime/420197/teenager-detained-over-13-year-old-apratim%E2%80%99s-death",
   "headline": "13-year-old boy killed for an iPhone, body found in Cumilla jungle",
@@ -8398,5 +8370,23 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "3092dec61f2adc54",
+  "url": "https://www.thedailystar.net/news/crime-justice/news/four-crude-bombs-explode-patuakhalis-bauphal-4279411",
+  "headline": "4 crude bombs explode in Patuakhali’s Bauphal",
+  "topic": "patuakhali-bombs",
+  "source": "The Daily Star",
+  "status": "queued",
+  "at": "2026-09-21T23:09:42Z"
+ },
+ {
+  "title_hash": "9d0c9e7b6067d7f9",
+  "url": "https://www.prothomalo.com/bangladesh/district/v9s01h1d0j",
+  "headline": "CUET students lock VC's office building over VC change",
+  "topic": "cuet-protest",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-21T23:09:42Z"
  }
 ]
