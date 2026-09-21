@@ -1,33 +1,5 @@
 [
  {
-  "title_hash": "e4a044ccd5028e36",
-  "url": "https://www.dhakatribune.com/bangladesh/health/420046/dengue-five-more-die-as-1-484-hospitalize-in-24",
-  "headline": "1,484 hospitalised as 5 more die of dengue in 24 hours",
-  "topic": "dengue deaths update",
-  "source": "Jamuna TV, Dhaka Tribune, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-17T16:08:34Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "7cfe3fe21f09bbb7",
-  "url": "https://www.jamuna.tv/national/664371",
-  "headline": "1,484 hospitalised as 5 more die of dengue in 24 hours",
-  "topic": "dengue deaths update",
-  "source": "Jamuna TV, Dhaka Tribune, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-17T16:08:34Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "121c749711c298a4",
   "url": "https://www.thedailystar.net/news/healthcare/disease/news/5-more-die-dengue-1484-hospitalised-24-hours-4275521",
   "headline": "1,484 hospitalised as 5 more die of dengue in 24 hours",
@@ -8398,5 +8370,23 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "0003a43161e9a7fe",
+  "url": "https://www.prothomalo.com/chakri/employment/kvff5kq6ob",
+  "headline": "Aarong to hire 500 Sales Associates; apply by October 20 for positions across Bangladesh",
+  "topic": "Arong 500 Sales Associate Jobs",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-21T02:07:03Z"
+ },
+ {
+  "title_hash": "d33f8e4d343e90d9",
+  "url": "https://www.prothomalo.com/education/admission/gtdknxd8z8",
+  "headline": "SSC pass can apply for marine apprentice course under BIWTA, 370 seats available",
+  "topic": "Marine Apprentice Course SSC Pass",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-21T02:07:03Z"
  }
 ]
