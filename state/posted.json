@@ -8377,8 +8377,13 @@
   "headline": "Over 160 players to feature in Women's National Cricket League expansion",
   "topic": "womens ncl expands to bring balance",
   "source": "The Daily Star",
-  "status": "queued",
-  "at": "2026-09-21T17:09:13Z"
+  "status": "failed",
+  "at": "2026-09-21T17:09:13Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "af9cba8a6ad363d4",
@@ -8386,7 +8391,12 @@
   "headline": "36% of educated youth in Bangladesh unemployed, says IMF",
   "topic": "imf: 36% of educated youth in bangladesh unemployed",
   "source": "Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-09-21T17:09:13Z"
+  "status": "failed",
+  "at": "2026-09-21T17:09:13Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
