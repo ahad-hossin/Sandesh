@@ -1,33 +1,5 @@
 [
  {
-  "title_hash": "3e843449f5f09d7f",
-  "url": "https://www.jamuna.tv/national/664444",
-  "headline": "Lowest pay up 142%, Govt employees to get new pay scale arrears",
-  "topic": "govt employees new pay scale",
-  "source": "Jamuna TV, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-19T11:08:41Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "e42f8246550c6105",
-  "url": "https://www.prothomalo.com/business/economics/j32z22zzm5",
-  "headline": "Lowest pay up 142%, Govt employees to get new pay scale arrears",
-  "topic": "govt employees new pay scale",
-  "source": "Jamuna TV, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-19T11:08:41Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "150025543918b2ae",
   "url": "https://www.prothomalo.com/bangladesh/bdle-gel-srkaari-krmiider-baarribhaarraa-haar",
   "headline": "Lowest pay up 142%, Govt employees to get new pay scale arrears",
@@ -8398,5 +8370,23 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "da83ce13aca29696",
+  "url": "https://www.thedailystar.net/sports/cricket/news/womens-ncl-expands-bring-balance-4279106",
+  "headline": "Over 160 players to feature in Women's National Cricket League expansion",
+  "topic": "womens ncl expands to bring balance",
+  "source": "The Daily Star",
+  "status": "queued",
+  "at": "2026-09-21T17:09:13Z"
+ },
+ {
+  "title_hash": "af9cba8a6ad363d4",
+  "url": "https://www.dhakatribune.com/bangladesh/420364/imf-36%25-of-educated-youth-in-bangladesh",
+  "headline": "36% of educated youth in Bangladesh unemployed, says IMF",
+  "topic": "imf: 36% of educated youth in bangladesh unemployed",
+  "source": "Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-09-21T17:09:13Z"
  }
 ]
