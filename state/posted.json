@@ -8321,8 +8321,13 @@
   "headline": "PM Tarique Rahman departs for New York to attend 81st UN General Assembly",
   "topic": "PM Tarique Rahman to UNGA",
   "source": "Dhaka Tribune, The Daily Star, Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-21T04:07:17Z"
+  "status": "failed",
+  "at": "2026-09-21T04:07:17Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "09293e0dfdb1fa89",
@@ -8330,8 +8335,13 @@
   "headline": "PM Tarique Rahman departs for New York to attend 81st UN General Assembly",
   "topic": "PM Tarique Rahman to UNGA",
   "source": "Dhaka Tribune, The Daily Star, Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-21T04:07:17Z"
+  "status": "failed",
+  "at": "2026-09-21T04:07:17Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "c711149478edd08f",
@@ -8339,8 +8349,13 @@
   "headline": "PM Tarique Rahman departs for New York to attend 81st UN General Assembly",
   "topic": "PM Tarique Rahman to UNGA",
   "source": "Dhaka Tribune, The Daily Star, Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-21T04:07:17Z"
+  "status": "failed",
+  "at": "2026-09-21T04:07:17Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "47363647d262d3c9",
@@ -8348,8 +8363,13 @@
   "headline": "PM Tarique Rahman departs for New York to attend 81st UN General Assembly",
   "topic": "PM Tarique Rahman to UNGA",
   "source": "Dhaka Tribune, The Daily Star, Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-21T04:07:17Z"
+  "status": "failed",
+  "at": "2026-09-21T04:07:17Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "d2f156e91b173da4",
@@ -8357,8 +8377,13 @@
   "headline": "New pay scale raises minimum basic to Tk 20,000 and maximum to Tk 1,56,000",
   "topic": "New govt salary scale",
   "source": "Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-21T04:07:17Z"
+  "status": "failed",
+  "at": "2026-09-21T04:07:17Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "51944e55078806c9",
@@ -8366,7 +8391,12 @@
   "headline": "New pay scale raises minimum basic to Tk 20,000 and maximum to Tk 1,56,000",
   "topic": "New govt salary scale",
   "source": "Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-21T04:07:17Z"
+  "status": "failed",
+  "at": "2026-09-21T04:07:17Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
