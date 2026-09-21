@@ -1,75 +1,5 @@
 [
  {
-  "title_hash": "fecf617cfacf6d31",
-  "url": "https://www.dhakatribune.com/bangladesh/campus1/420076/a-year-after-liza%E2%80%99s-death-du-halls-still-lack",
-  "headline": "One year later: DU halls still lack uniform emergency care after Liza's death",
-  "topic": "dhaka gas crisis financial strain",
-  "source": "Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-09-17T23:08:11Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "51694389e4dc2fb8",
-  "url": "https://www.dhakatribune.com/bangladesh/dhaka/420074/who-will-compensate-for-the-financial-strain-amid",
-  "headline": "One year later: DU halls still lack uniform emergency care after Liza's death",
-  "topic": "dhaka gas crisis financial strain",
-  "source": "Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-09-17T23:08:11Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "8881d833493ba05f",
-  "url": "https://www.dhakatribune.com/bangladesh/court/420057/outsourcing-worker-ranjan-gets-bail-in-case-over",
-  "headline": "Outsourcing worker gets bail in PMO red telephone cable theft",
-  "topic": "pmo red telephone cable theft bail",
-  "source": "Prothom Alo, Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-09-17T23:08:11Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "3e85826065a3c5fe",
-  "url": "https://www.prothomalo.com/bangladesh/crime/990dbttpye",
-  "headline": "Outsourcing worker gets bail in PMO red telephone cable theft",
-  "topic": "pmo red telephone cable theft bail",
-  "source": "Prothom Alo, Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-09-17T23:08:11Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "8f660604e953c45c",
-  "url": "https://www.prothomalo.com/world/q54g1t1cpz",
-  "headline": "Australia tightens immigration policies, causing anxiety for students",
-  "topic": "australia immigration policy bangladeshi students",
-  "source": "Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-18T00:08:18Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "cb7158892bbad057",
   "url": "https://www.thedailystar.net/news/crime-justice/news/ziaul-led-5-golfing-ops-kill-21-4276021",
   "headline": "Former RAB intelligence chief Ziaul Ahsan led 5 'golfing operations' killing 21, witness testifies",
@@ -8398,5 +8328,50 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "06651c268a6c071d",
+  "url": "https://www.thedailystar.net/opinion/views/news/policing-cannot-replace-the-community-safety-net-our-children-need-4278116",
+  "headline": "Over 15,000 children missing in Bangladesh between January and July",
+  "topic": "opratim murder iphone motive",
+  "source": "Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-21T05:08:53Z"
+ },
+ {
+  "title_hash": "55fe08ffd0f284a6",
+  "url": "https://www.prothomalo.com/bangladesh/crime/aprtim-htyaar-nepthye-kii",
+  "headline": "Over 15,000 children missing in Bangladesh between January and July",
+  "topic": "opratim murder iphone motive",
+  "source": "Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-21T05:08:53Z"
+ },
+ {
+  "title_hash": "07289194dc17fae9",
+  "url": "https://www.thedailystar.net/news/accidents-and-fires/news/gas-cylinder-blast-kills-7-ashulia-4278411",
+  "headline": "Over 15,000 children missing in Bangladesh between January and July",
+  "topic": "opratim murder iphone motive",
+  "source": "Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-21T05:08:53Z"
+ },
+ {
+  "title_hash": "2059e516dce874f4",
+  "url": "https://www.prothomalo.com/bangladesh/crime/yrsgu76ohw",
+  "headline": "Over 15,000 children missing in Bangladesh between January and July",
+  "topic": "opratim murder iphone motive",
+  "source": "Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-21T05:08:53Z"
+ },
+ {
+  "title_hash": "51944e55078806c9",
+  "url": "https://www.prothomalo.com/video/bangladesh/f2q25khot4",
+  "headline": "Govt employees' minimum salary to be 33,000 taka including allowances",
+  "topic": "govt new pay scale announced",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-21T05:08:53Z"
  }
 ]
