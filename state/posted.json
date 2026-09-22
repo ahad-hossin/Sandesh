@@ -8377,8 +8377,13 @@
   "headline": "Child and woman die as boat carrying Rohingya refugees sinks off Teknaf",
   "topic": "rohingya refugee boat sinks off teknaf",
   "source": "The Daily Star",
-  "status": "queued",
-  "at": "2026-09-22T20:10:09Z"
+  "status": "failed",
+  "at": "2026-09-22T20:10:09Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "c09bcd148d327853",
@@ -8386,7 +8391,12 @@
   "headline": "Bay of Bengal: Deep depression forms, ports on alert",
   "topic": "deep depression forms in bay of bengal",
   "source": "bdnews24.com",
-  "status": "queued",
-  "at": "2026-09-22T20:10:09Z"
+  "status": "failed",
+  "at": "2026-09-22T20:10:09Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
