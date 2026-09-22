@@ -8335,8 +8335,13 @@
   "headline": "Deep depression forms in Bay, ports on alert",
   "topic": "deep depression bay of bengal",
   "source": "bdnews24.com",
-  "status": "queued",
-  "at": "2026-09-22T22:09:18Z"
+  "status": "failed",
+  "at": "2026-09-22T22:09:18Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "236423c044de21f9",
@@ -8344,8 +8349,13 @@
   "headline": "Fuel price hike: Launch and truck fares raised before govt nod",
   "topic": "diesel price hike impact",
   "source": "The Daily Star",
-  "status": "queued",
-  "at": "2026-09-22T22:09:18Z"
+  "status": "failed",
+  "at": "2026-09-22T22:09:18Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "ce818feee9d31c87",
@@ -8353,8 +8363,13 @@
   "headline": "Fuel price hike: Launch and truck fares raised before govt nod",
   "topic": "diesel price hike impact",
   "source": "The Daily Star",
-  "status": "queued",
-  "at": "2026-09-22T22:09:18Z"
+  "status": "failed",
+  "at": "2026-09-22T22:09:18Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "ce6efdfc0729df0c",
@@ -8362,8 +8377,13 @@
   "headline": "Fuel price hike: Launch and truck fares raised before govt nod",
   "topic": "diesel price hike impact",
   "source": "The Daily Star",
-  "status": "queued",
-  "at": "2026-09-22T22:09:18Z"
+  "status": "failed",
+  "at": "2026-09-22T22:09:18Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "940fab133a2341b6",
@@ -8371,7 +8391,12 @@
   "headline": "Fuel price hike: Launch and truck fares raised before govt nod",
   "topic": "diesel price hike impact",
   "source": "The Daily Star",
-  "status": "queued",
-  "at": "2026-09-22T22:09:18Z"
+  "status": "failed",
+  "at": "2026-09-22T22:09:18Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
