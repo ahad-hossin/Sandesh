@@ -1,33 +1,5 @@
 [
  {
-  "title_hash": "2f3fbf34fbe01351",
-  "url": "https://www.jamuna.tv/all-bangladesh/664472",
-  "headline": "Mother's phone recovered from suspect's house in Cumilla teen murder case",
-  "topic": "Comilla teen Opratim murder",
-  "source": "The Daily Star, Dhaka Tribune, Prothom Alo, Jamuna TV",
-  "status": "failed",
-  "at": "2026-09-20T00:07:05Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "0d0c5299bd6e6fd6",
-  "url": "https://www.jamuna.tv/all-bangladesh/664471",
-  "headline": "Mother's phone recovered from suspect's house in Cumilla teen murder case",
-  "topic": "Comilla teen Opratim murder",
-  "source": "The Daily Star, Dhaka Tribune, Prothom Alo, Jamuna TV",
-  "status": "failed",
-  "at": "2026-09-20T00:07:05Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "30c136cf4856c6a2",
   "url": "https://www.jamuna.tv/all-bangladesh/664465",
   "headline": "Mother's phone recovered from suspect's house in Cumilla teen murder case",
@@ -8398,5 +8370,23 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "c09bcd148d327853",
+  "url": "https://bdnews24.com/bangladesh/q5obql6po9",
+  "headline": "Deep depression forms in Bay, ports on alert",
+  "topic": "deep depression forms in bay, ports on alert",
+  "source": "bdnews24.com",
+  "status": "queued",
+  "at": "2026-09-22T21:11:19Z"
+ },
+ {
+  "title_hash": "f1fe8986a193929c",
+  "url": "https://bdnews24.com/bangladesh/k9zet8ofsd",
+  "headline": "Over 15,000kg of smuggled fertiliser bound for Myanmar seized",
+  "topic": "smuggled bangladeshi fertiliser feeding myanmar conflict",
+  "source": "bdnews24.com",
+  "status": "queued",
+  "at": "2026-09-22T21:11:19Z"
  }
 ]
