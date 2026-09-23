@@ -1,75 +1,5 @@
 [
  {
-  "title_hash": "a2fec1c78204b97d",
-  "url": "https://www.dhakatribune.com/bangladesh/420235/students-withdraw-dhaka-chittagong-highway",
-  "headline": "CoU students block Dhaka-Chattogram highway demanding justice for Opratim",
-  "topic": "opratim killing justice",
-  "source": "The Daily Star, Dhaka Tribune, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-20T10:09:30Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "450934cc9a6390d4",
-  "url": "https://www.jamuna.tv/national/664507",
-  "headline": "CoU students block Dhaka-Chattogram highway demanding justice for Opratim",
-  "topic": "opratim killing justice",
-  "source": "The Daily Star, Dhaka Tribune, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-20T10:09:30Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "bb2556a6571d83c2",
-  "url": "https://www.thedailystar.net/news/crime-justice/news/govt-will-assist-speedy-trial-opratim-killing-says-home-minister-4277711",
-  "headline": "CoU students block Dhaka-Chattogram highway demanding justice for Opratim",
-  "topic": "opratim killing justice",
-  "source": "The Daily Star, Dhaka Tribune, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-20T10:09:30Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "dabbcab5b28c341c",
-  "url": "https://www.jamuna.tv/national/664502",
-  "headline": "CoU students block Dhaka-Chattogram highway demanding justice for Opratim",
-  "topic": "opratim killing justice",
-  "source": "The Daily Star, Dhaka Tribune, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-20T10:09:30Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "840bc6c0cd161cda",
-  "url": "https://www.jamuna.tv/all-bangladesh/664501",
-  "headline": "CoU students block Dhaka-Chattogram highway demanding justice for Opratim",
-  "topic": "opratim killing justice",
-  "source": "The Daily Star, Dhaka Tribune, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-20T10:09:30Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "c879aedd0e910af7",
   "url": "https://www.jamuna.tv/all-bangladesh/664494",
   "headline": "CoU students block Dhaka-Chattogram highway demanding justice for Opratim",
@@ -8398,5 +8328,50 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "d34277a8b2228260",
+  "url": "https://www.dhakatribune.com/bangladesh/health/420504/measles-outbreak-death-toll-reaches-1-076-as-11",
+  "headline": "1,076 dead as measles outbreak kills 11 in 48 hours in Bangladesh",
+  "topic": "measles outbreak death toll",
+  "source": "Dhaka Tribune, Jamuna TV",
+  "status": "queued",
+  "at": "2026-09-23T11:11:31Z"
+ },
+ {
+  "title_hash": "6fe0ae19bff03521",
+  "url": "https://www.jamuna.tv/health/664708",
+  "headline": "1,076 dead as measles outbreak kills 11 in 48 hours in Bangladesh",
+  "topic": "measles outbreak death toll",
+  "source": "Dhaka Tribune, Jamuna TV",
+  "status": "queued",
+  "at": "2026-09-23T11:11:31Z"
+ },
+ {
+  "title_hash": "3a154e0b5522c06f",
+  "url": "https://www.thedailystar.net/news/transport/news/water-transport-fares-raised-754-after-fuel-price-hike-4280941",
+  "headline": "Water transport fares raised by 7.54% following fuel price hike",
+  "topic": "launch fares increase",
+  "source": "The Daily Star, Dhaka Tribune, Jamuna TV",
+  "status": "queued",
+  "at": "2026-09-23T11:11:31Z"
+ },
+ {
+  "title_hash": "1d491ab79338394b",
+  "url": "https://www.dhakatribune.com/bangladesh/420483/launch-fares-rise-7.54%25-following-fuel-price-hike",
+  "headline": "Water transport fares raised by 7.54% following fuel price hike",
+  "topic": "launch fares increase",
+  "source": "The Daily Star, Dhaka Tribune, Jamuna TV",
+  "status": "queued",
+  "at": "2026-09-23T11:11:31Z"
+ },
+ {
+  "title_hash": "466c96f3ab2ae2b7",
+  "url": "https://www.jamuna.tv/national/664696",
+  "headline": "Water transport fares raised by 7.54% following fuel price hike",
+  "topic": "launch fares increase",
+  "source": "The Daily Star, Dhaka Tribune, Jamuna TV",
+  "status": "queued",
+  "at": "2026-09-23T11:11:31Z"
  }
 ]
