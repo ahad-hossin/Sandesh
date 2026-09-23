@@ -8377,8 +8377,13 @@
   "headline": "Bus, truck, and launch fares increased after fuel price hike, adding pressure on people",
   "topic": "fuel price hike impacts transport",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-23T04:07:42Z"
+  "status": "failed",
+  "at": "2026-09-23T04:07:42Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "21f836a44b568706",
@@ -8386,7 +8391,12 @@
   "headline": "DU student forced to return home due to poverty",
   "topic": "DU student drops out due to poverty",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-23T04:07:42Z"
+  "status": "failed",
+  "at": "2026-09-23T04:07:42Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
