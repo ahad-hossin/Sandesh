@@ -1,89 +1,5 @@
 [
  {
-  "title_hash": "2f3fbf34fbe01351",
-  "url": "https://www.jamuna.tv/all-bangladesh/664472",
-  "headline": "Phone recovered from suspect's house in Cumilla teen's murder investigation",
-  "topic": "cumilla teen opratim murder",
-  "source": "Jamuna TV, The Daily Star, Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-09-20T03:06:36Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "0d0c5299bd6e6fd6",
-  "url": "https://www.jamuna.tv/all-bangladesh/664471",
-  "headline": "Phone recovered from suspect's house in Cumilla teen's murder investigation",
-  "topic": "cumilla teen opratim murder",
-  "source": "Jamuna TV, The Daily Star, Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-09-20T03:06:36Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "9a28351122311450",
-  "url": "https://www.prothomalo.com/world/middle-east/atynt-dhbnsaatmk-bomaa-israayyelke-dicche-yuktraassttr",
-  "headline": "US to sell 60,000 2000-pound bombs to Israel, worth billions",
-  "topic": "us bombs to israel",
-  "source": "Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-20T03:06:36Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "39e1239abf266f78",
-  "url": "https://www.prothomalo.com/world/middle-east/5krwtqir2s",
-  "headline": "US to sell 60,000 2000-pound bombs to Israel, worth billions",
-  "topic": "us bombs to israel",
-  "source": "Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-20T03:06:36Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "db29d07e67411685",
-  "url": "https://www.prothomalo.com/bangladesh/d1safbfxuk",
-  "headline": "36 missing children's bodies recovered in 8 months; 155 killed in total",
-  "topic": "36 Missing Children Bodies Recovered",
-  "source": "Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-20T04:07:02Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "a1c14ae974b96563",
-  "url": "https://www.dhakatribune.com/bangladesh/crime/420212/cou-teachers%E2%80%99-missing-son-opritom-murder-police",
-  "headline": "Three arrested in Cumilla school student murder; victim's phone recovered",
-  "topic": "Comilla Student Opritom Murder",
-  "source": "Jamuna TV, Dhaka Tribune, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-20T04:07:02Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "1429db43458607a5",
   "url": "https://www.jamuna.tv/all-bangladesh/664484",
   "headline": "Three arrested in Cumilla school student murder; victim's phone recovered",
@@ -8398,5 +8314,59 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "ce6efdfc0729df0c",
+  "url": "https://www.thedailystar.net/news/politics/news/govt-had-no-better-alternative-fuel-price-hike-4280606",
+  "headline": "Govt had no better alternative to fuel price hike, says PM's adviser",
+  "topic": "fuel price hike transport fares",
+  "source": "Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-23T02:09:03Z"
+ },
+ {
+  "title_hash": "cc1a8bf704edebdf",
+  "url": "https://www.prothomalo.com/bangladesh/48fyj672am",
+  "headline": "Govt had no better alternative to fuel price hike, says PM's adviser",
+  "topic": "fuel price hike transport fares",
+  "source": "Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-23T02:09:03Z"
+ },
+ {
+  "title_hash": "940fab133a2341b6",
+  "url": "https://www.thedailystar.net/business/economy/news/fuel-price-hike-push-inflation-weaken-consumption-4280461",
+  "headline": "Govt had no better alternative to fuel price hike, says PM's adviser",
+  "topic": "fuel price hike transport fares",
+  "source": "Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-23T02:09:03Z"
+ },
+ {
+  "title_hash": "236423c044de21f9",
+  "url": "https://www.thedailystar.net/news/bangladesh/news/diesel-price-hike-launch-truck-fares-raised-govt-nod-4280646",
+  "headline": "Govt had no better alternative to fuel price hike, says PM's adviser",
+  "topic": "fuel price hike transport fares",
+  "source": "Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-23T02:09:03Z"
+ },
+ {
+  "title_hash": "ce818feee9d31c87",
+  "url": "https://www.thedailystar.net/news/bangladesh/news/diesel-price-hike-farmers-dealt-another-blow-4280651",
+  "headline": "Govt had no better alternative to fuel price hike, says PM's adviser",
+  "topic": "fuel price hike transport fares",
+  "source": "Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-23T02:09:03Z"
+ },
+ {
+  "title_hash": "3d1396cee2873895",
+  "url": "https://www.prothomalo.com/chakri/employment/0p4d6pc6vl",
+  "headline": "279 Bangladeshi men to be recruited for government jobs in Brunei via BOESL",
+  "topic": "brunei govt job opportunities",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-23T02:09:03Z"
  }
 ]
