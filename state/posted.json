@@ -1,33 +1,5 @@
 [
  {
-  "title_hash": "71eaa8659489b929",
-  "url": "https://www.prothomalo.com/bangladesh/district/l4getbqz6v",
-  "headline": "CoU students block Dhaka-Chattogram highway demanding justice for Opratim",
-  "topic": "opratim killing justice",
-  "source": "The Daily Star, Dhaka Tribune, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-20T10:09:30Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "c6c5abbf06b2ba52",
-  "url": "https://www.thedailystar.net/news/crime-justice/news/death-cou-teachers-son-phone-recovered-suspects-house-4277366",
-  "headline": "CoU students block Dhaka-Chattogram highway demanding justice for Opratim",
-  "topic": "opratim killing justice",
-  "source": "The Daily Star, Dhaka Tribune, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-20T10:09:30Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "a0daf593d36a3014",
   "url": "https://www.prothomalo.com/video/bangladesh/r9jfaaeuzq",
   "headline": "CoU students block Dhaka-Chattogram highway demanding justice for Opratim",
@@ -8398,5 +8370,23 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "0a53d2ea2f574246",
+  "url": "https://www.dhakatribune.com/bangladesh/health/420504/measles-outbreak-death-toll-reaches-1-076-as-11",
+  "headline": "Measles outbreak: 11 more deaths reported in 48 hours, toll reaches 1,076",
+  "topic": "measles outbreak 11 more deaths reported",
+  "source": "Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-09-23T15:12:14Z"
+ },
+ {
+  "title_hash": "f796ed5c81777dcc",
+  "url": "https://bdnews24.com/bangladesh/b56vf2noiz",
+  "headline": "Deep depression in Bay: Cautionary signal 3 hoisted at 4 maritime ports",
+  "topic": "deep depression stirs storm fears along coast",
+  "source": "bdnews24.com",
+  "status": "queued",
+  "at": "2026-09-23T15:12:14Z"
  }
 ]
