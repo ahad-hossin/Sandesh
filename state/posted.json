@@ -1,33 +1,5 @@
 [
  {
-  "title_hash": "839c429a9b746842",
-  "url": "https://www.jamuna.tv/all-bangladesh/664486",
-  "headline": "3 suspects detained as police solve mystery behind Comilla teenager's murder",
-  "topic": "comilla teen murder solved",
-  "source": "Dhaka Tribune, Jamuna TV, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-20T05:08:31Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "a0daf593d36a3014",
-  "url": "https://www.prothomalo.com/video/bangladesh/r9jfaaeuzq",
-  "headline": "3 suspects detained as police solve mystery behind Comilla teenager's murder",
-  "topic": "comilla teen murder solved",
-  "source": "Dhaka Tribune, Jamuna TV, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-20T05:08:31Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "1429db43458607a5",
   "url": "https://www.jamuna.tv/all-bangladesh/664484",
   "headline": "3 suspects detained as police solve mystery behind Comilla teenager's murder",
@@ -8398,5 +8370,23 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "cc1a8bf704edebdf",
+  "url": "https://www.prothomalo.com/bangladesh/48fyj672am",
+  "headline": "Bus, truck, and launch fares increased after fuel price hike, adding pressure on people",
+  "topic": "fuel price hike impacts transport",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-23T04:07:42Z"
+ },
+ {
+  "title_hash": "21f836a44b568706",
+  "url": "https://www.prothomalo.com/bangladesh/district/p5bwh9kdm3",
+  "headline": "DU student forced to return home due to poverty",
+  "topic": "DU student drops out due to poverty",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-23T04:07:42Z"
  }
 ]
