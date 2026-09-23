@@ -8321,8 +8321,13 @@
   "headline": "PM Tarique and Erdogan discuss expanding trade and investment ties",
   "topic": "tarique erdogan meeting",
   "source": "Dhaka Tribune, The Daily Star, bdnews24.com, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-23T06:19:56Z"
+  "status": "failed",
+  "at": "2026-09-23T06:19:56Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "8b0d524a69350f39",
@@ -8330,8 +8335,13 @@
   "headline": "PM Tarique and Erdogan discuss expanding trade and investment ties",
   "topic": "tarique erdogan meeting",
   "source": "Dhaka Tribune, The Daily Star, bdnews24.com, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-23T06:19:56Z"
+  "status": "failed",
+  "at": "2026-09-23T06:19:56Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "97d908498581d297",
@@ -8339,8 +8349,13 @@
   "headline": "PM Tarique and Erdogan discuss expanding trade and investment ties",
   "topic": "tarique erdogan meeting",
   "source": "Dhaka Tribune, The Daily Star, bdnews24.com, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-23T06:19:56Z"
+  "status": "failed",
+  "at": "2026-09-23T06:19:56Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "d0fdd520b00104f6",
@@ -8348,8 +8363,13 @@
   "headline": "PM Tarique and Erdogan discuss expanding trade and investment ties",
   "topic": "tarique erdogan meeting",
   "source": "Dhaka Tribune, The Daily Star, bdnews24.com, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-23T06:19:56Z"
+  "status": "failed",
+  "at": "2026-09-23T06:19:56Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "51205c1e05f40892",
@@ -8357,8 +8377,13 @@
   "headline": "3 arrested for murder of Northwestern University student in Khulna",
   "topic": "ajmul murder khulna arrests",
   "source": "Dhaka Tribune, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-23T06:19:56Z"
+  "status": "failed",
+  "at": "2026-09-23T06:19:56Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "3abbe748849498bb",
@@ -8366,7 +8391,12 @@
   "headline": "3 arrested for murder of Northwestern University student in Khulna",
   "topic": "ajmul murder khulna arrests",
   "source": "Dhaka Tribune, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-23T06:19:56Z"
+  "status": "failed",
+  "at": "2026-09-23T06:19:56Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
