@@ -1,75 +1,5 @@
 [
  {
-  "title_hash": "f5f051bc1ff43e51",
-  "url": "https://www.dhakatribune.com/bangladesh/weather/420228/early-morning-rain-causes-waterlogging-commuter",
-  "headline": "Early morning rain causes waterlogging, commuter woes in Dhaka",
-  "topic": "dhaka waterlogging early rain",
-  "source": "Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-09-20T08:15:09Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "a050d154dbff3d46",
-  "url": "https://www.prothomalo.com/bangladesh/crime/y5jdjo1mu5",
-  "headline": "AL leaders directing violence from India, DB says",
-  "topic": "al leaders violence instructions from india",
-  "source": "Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-20T09:16:15Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "01705e55a3f4f837",
-  "url": "https://www.prothomalo.com/bangladesh/capital/3k4gkij7ll",
-  "headline": "AL leaders directing violence from India, DB says",
-  "topic": "al leaders violence instructions from india",
-  "source": "Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-20T09:16:15Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "6f48add2aac3f4a0",
-  "url": "https://www.thedailystar.net/star-multimedia/news/new-pay-scale-when-will-govt-employees-get-the-increased-salaries-4277681",
-  "headline": "Minimum govt employee salary set at 33k in new pay scale",
-  "topic": "new government pay scale",
-  "source": "Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-20T09:16:15Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "51944e55078806c9",
-  "url": "https://www.prothomalo.com/bangladesh/p68m7xcen1",
-  "headline": "Minimum govt employee salary set at 33k in new pay scale",
-  "topic": "new government pay scale",
-  "source": "Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-20T09:16:15Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "429e96d514c28bc7",
   "url": "https://www.thedailystar.net/news/news/cou-students-block-dhaka-ctg-highway-demanding-justice-opratim-4277731",
   "headline": "CoU students block Dhaka-Chattogram highway demanding justice for Opratim",
@@ -8398,5 +8328,50 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "6c95bd87d37aaa9e",
+  "url": "https://www.dhakatribune.com/bangladesh/420473/metro-services-suspended-for-26-mins-after-door",
+  "headline": "Metro services suspended for 26 mins after cabin door opens mid-journey",
+  "topic": "dhaka metro rail suspension",
+  "source": "Dhaka Tribune, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-23T08:09:18Z"
+ },
+ {
+  "title_hash": "7c278548a2df0448",
+  "url": "https://www.thedailystar.net/news/transport/news/metro-rail-cabin-door-opens-mid-journey-services-suspended-26-minutes-4280876",
+  "headline": "Metro services suspended for 26 mins after cabin door opens mid-journey",
+  "topic": "dhaka metro rail suspension",
+  "source": "Dhaka Tribune, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-23T08:09:18Z"
+ },
+ {
+  "title_hash": "c65e66d7e4b9a1e8",
+  "url": "https://www.dhakatribune.com/bangladesh/420476/hrw-three-laws-weaken-human-rights-safeguards-in",
+  "headline": "HRW: Three laws weaken human rights safeguards in Bangladesh",
+  "topic": "hrw laws human rights bangladesh",
+  "source": "Dhaka Tribune, The Daily Star, Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-23T08:09:18Z"
+ },
+ {
+  "title_hash": "80fb3d79d746f403",
+  "url": "https://www.thedailystar.net/news/news/new-laws-weaken-human-rights-safeguards-says-hrw-4280796",
+  "headline": "HRW: Three laws weaken human rights safeguards in Bangladesh",
+  "topic": "hrw laws human rights bangladesh",
+  "source": "Dhaka Tribune, The Daily Star, Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-23T08:09:18Z"
+ },
+ {
+  "title_hash": "6c790a666fddbc17",
+  "url": "https://www.prothomalo.com/bangladesh/nuhvtvewh3",
+  "headline": "HRW: Three laws weaken human rights safeguards in Bangladesh",
+  "topic": "hrw laws human rights bangladesh",
+  "source": "Dhaka Tribune, The Daily Star, Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-23T08:09:18Z"
  }
 ]
