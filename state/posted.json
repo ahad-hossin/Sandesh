@@ -1,89 +1,5 @@
 [
  {
-  "title_hash": "292e9154e7cd9b4a",
-  "url": "https://www.thedailystar.net/news/crime-justice/news/cumilla-teen-murder-what-do-i-live-now-4277421",
-  "headline": "13-year-old Opratim's body recovered 24 hours after going missing in Cumilla",
-  "topic": "opratim murder case",
-  "source": "Jamuna TV, The Daily Star, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-20T06:07:42Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "780afd1ff02c6baa",
-  "url": "https://www.prothomalo.com/bangladesh/sfwebkwozd",
-  "headline": "13-year-old Opratim's body recovered 24 hours after going missing in Cumilla",
-  "topic": "opratim murder case",
-  "source": "Jamuna TV, The Daily Star, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-20T06:07:42Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "e29a5a71363637c6",
-  "url": "https://www.thedailystar.net/culture/entertainment/news/former-mechanix-guitarist-syed-imran-ahmed-passes-away-after-cancer-battle-4277606",
-  "headline": "Mechanix co-founder guitarist Syed Imran Ahmed dies after cancer battle",
-  "topic": "guitarist syed imran ahmed passes away",
-  "source": "Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-20T07:08:34Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "6ea27ec2a640982f",
-  "url": "https://www.prothomalo.com/entertainment/song/sel4vz1r2x",
-  "headline": "Mechanix co-founder guitarist Syed Imran Ahmed dies after cancer battle",
-  "topic": "guitarist syed imran ahmed passes away",
-  "source": "Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-20T07:08:34Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "f5f051bc1ff43e51",
-  "url": "https://www.dhakatribune.com/bangladesh/weather/420228/early-morning-rain-causes-waterlogging-commuter",
-  "headline": "Early morning rain causes waterlogging in Dhaka, sparking commuter woes",
-  "topic": "early morning rain causes waterlogging in dhaka",
-  "source": "Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-09-20T07:08:34Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "bf6516f564c4eb1c",
-  "url": "https://www.dhakatribune.com/bangladesh/government-affairs/420234/tarique-rahman-to-deliver-unga-speech-in-bangla",
-  "headline": "PM Tarique will deliver UNGA speech in Bangla",
-  "topic": "pm tarique unga speech bangla",
-  "source": "Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-09-20T08:15:09Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "f5f051bc1ff43e51",
   "url": "https://www.dhakatribune.com/bangladesh/weather/420228/early-morning-rain-causes-waterlogging-commuter",
   "headline": "Early morning rain causes waterlogging, commuter woes in Dhaka",
@@ -8398,5 +8314,59 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "4567c30801eeb1f0",
+  "url": "https://www.thedailystar.net/news/news/pm-wife-attend-trumps-dinner-world-leaders-4280821",
+  "headline": "PM Tarique Rahman attends Trump’s dinner for world leaders in New York",
+  "topic": "tarique zubaida attend trump dinner",
+  "source": "The Daily Star, Dhaka Tribune, bdnews24.com, Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-23T07:11:02Z"
+ },
+ {
+  "title_hash": "4567c30801eeb1f0",
+  "url": "https://www.dhakatribune.com/bangladesh/foreign-affairs/420468/pm-wife-attend-trump%E2%80%99s-dinner-for-world-leaders",
+  "headline": "PM Tarique Rahman attends Trump’s dinner for world leaders in New York",
+  "topic": "tarique zubaida attend trump dinner",
+  "source": "The Daily Star, Dhaka Tribune, bdnews24.com, Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-23T07:11:02Z"
+ },
+ {
+  "title_hash": "62180d4695629436",
+  "url": "https://bdnews24.com/bangladesh/zhn8r2p57x",
+  "headline": "PM Tarique Rahman attends Trump’s dinner for world leaders in New York",
+  "topic": "tarique zubaida attend trump dinner",
+  "source": "The Daily Star, Dhaka Tribune, bdnews24.com, Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-23T07:11:02Z"
+ },
+ {
+  "title_hash": "e2db45cb29a70272",
+  "url": "https://www.prothomalo.com/bangladesh/g56k3jc693",
+  "headline": "PM Tarique Rahman attends Trump’s dinner for world leaders in New York",
+  "topic": "tarique zubaida attend trump dinner",
+  "source": "The Daily Star, Dhaka Tribune, bdnews24.com, Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-23T07:11:02Z"
+ },
+ {
+  "title_hash": "6c95bd87d37aaa9e",
+  "url": "https://www.dhakatribune.com/bangladesh/420473/metro-services-suspended-for-26-mins-after-door",
+  "headline": "Woman killed by DNCC garbage truck in Dhaka's Korail",
+  "topic": "dhaka transport accidents and disruptions",
+  "source": "Dhaka Tribune, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-23T07:11:02Z"
+ },
+ {
+  "title_hash": "882ba27d1a215d3b",
+  "url": "https://www.thedailystar.net/news/accidents-and-fires/news/woman-run-over-dncc-garbage-truck-dhakas-korail-4280446",
+  "headline": "Woman killed by DNCC garbage truck in Dhaka's Korail",
+  "topic": "dhaka transport accidents and disruptions",
+  "source": "Dhaka Tribune, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-23T07:11:02Z"
  }
 ]
