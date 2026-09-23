@@ -8391,7 +8391,12 @@
   "headline": "Over 100 infected with anthrax across five districts in Bangladesh",
   "topic": "anthrax outbreak five districts",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-23T09:23:18Z"
+  "status": "failed",
+  "at": "2026-09-23T09:23:18Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
