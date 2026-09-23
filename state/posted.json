@@ -8325,8 +8325,13 @@
   "headline": "Trump invites Putin to G20 summit in Miami",
   "topic": "trump invites putin to g20",
   "source": "Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-23T23:10:04Z"
+  "status": "failed",
+  "at": "2026-09-23T23:10:04Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "ac279b2768fee8f7",
@@ -8334,8 +8339,13 @@
   "headline": "Trump invites Putin to G20 summit in Miami",
   "topic": "trump invites putin to g20",
   "source": "Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-23T23:10:04Z"
+  "status": "failed",
+  "at": "2026-09-23T23:10:04Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "307447345be5de5c",
@@ -8343,8 +8353,13 @@
   "headline": "PM Tarique Rahman discusses trade and economic ties with Croatian PM",
   "topic": "pm tarique rahman croatia meeting",
   "source": "Jamuna TV, Dhaka Tribune, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-23T23:10:04Z"
+  "status": "failed",
+  "at": "2026-09-23T23:10:04Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "1728502bff583f0d",
@@ -8352,8 +8367,13 @@
   "headline": "PM Tarique Rahman discusses trade and economic ties with Croatian PM",
   "topic": "pm tarique rahman croatia meeting",
   "source": "Jamuna TV, Dhaka Tribune, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-23T23:10:04Z"
+  "status": "failed",
+  "at": "2026-09-23T23:10:04Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "0b3c07d7719cd021",
@@ -8361,7 +8381,12 @@
   "headline": "PM Tarique Rahman discusses trade and economic ties with Croatian PM",
   "topic": "pm tarique rahman croatia meeting",
   "source": "Jamuna TV, Dhaka Tribune, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-23T23:10:04Z"
+  "status": "failed",
+  "at": "2026-09-23T23:10:04Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
