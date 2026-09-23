@@ -8311,8 +8311,13 @@
   "headline": "Trump invites Putin to G20 summit in Miami",
   "topic": "trump invites putin g20",
   "source": "Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-23T22:12:22Z"
+  "status": "failed",
+  "at": "2026-09-23T22:12:22Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "ac279b2768fee8f7",
@@ -8320,8 +8325,13 @@
   "headline": "Trump invites Putin to G20 summit in Miami",
   "topic": "trump invites putin g20",
   "source": "Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-23T22:12:22Z"
+  "status": "failed",
+  "at": "2026-09-23T22:12:22Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "66f6fecbf0a95745",
@@ -8329,8 +8339,13 @@
   "headline": "Fuel price hikes: Govt raises bus fares by Tk 0.17 per km after fuel jump",
   "topic": "fuel price hike bus fare chaos",
   "source": "Dhaka Tribune, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-23T22:12:22Z"
+  "status": "failed",
+  "at": "2026-09-23T22:12:22Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "8f765b6d847f1193",
@@ -8338,8 +8353,13 @@
   "headline": "Fuel price hikes: Govt raises bus fares by Tk 0.17 per km after fuel jump",
   "topic": "fuel price hike bus fare chaos",
   "source": "Dhaka Tribune, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-23T22:12:22Z"
+  "status": "failed",
+  "at": "2026-09-23T22:12:22Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "8992eca0047c3f92",
@@ -8347,8 +8367,13 @@
   "headline": "Fuel price hikes: Govt raises bus fares by Tk 0.17 per km after fuel jump",
   "topic": "fuel price hike bus fare chaos",
   "source": "Dhaka Tribune, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-23T22:12:22Z"
+  "status": "failed",
+  "at": "2026-09-23T22:12:22Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "69962daf7d4321c2",
@@ -8356,7 +8381,12 @@
   "headline": "Fuel price hikes: Govt raises bus fares by Tk 0.17 per km after fuel jump",
   "topic": "fuel price hike bus fare chaos",
   "source": "Dhaka Tribune, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-23T22:12:22Z"
+  "status": "failed",
+  "at": "2026-09-23T22:12:22Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
