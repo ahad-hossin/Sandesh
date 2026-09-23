@@ -1,33 +1,5 @@
 [
  {
-  "title_hash": "a0daf593d36a3014",
-  "url": "https://www.prothomalo.com/video/bangladesh/r9jfaaeuzq",
-  "headline": "CoU students block Dhaka-Chattogram highway demanding justice for Opratim",
-  "topic": "opratim killing justice",
-  "source": "The Daily Star, Dhaka Tribune, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-20T10:09:30Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "494f53f434d7aeab",
-  "url": "https://www.prothomalo.com/bangladesh/district/39001kgy18",
-  "headline": "CoU students block Dhaka-Chattogram highway demanding justice for Opratim",
-  "topic": "opratim killing justice",
-  "source": "The Daily Star, Dhaka Tribune, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-20T10:09:30Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "780afd1ff02c6baa",
   "url": "https://www.prothomalo.com/bangladesh/sfwebkwozd",
   "headline": "CoU students block Dhaka-Chattogram highway demanding justice for Opratim",
@@ -8388,5 +8360,23 @@
   "source": "bdnews24.com",
   "status": "queued",
   "at": "2026-09-23T15:12:14Z"
+ },
+ {
+  "title_hash": "983b7a38918d17c9",
+  "url": "https://www.thedailystar.net/news/technology/news/bangladeshi-school-students-showcase-firefighting-robot-prototypes-4281231",
+  "headline": "Bangladeshi school students build firefighting robots for global competition",
+  "topic": "Bangladeshi school students showcase firefighting robot prototypes",
+  "source": "The Daily Star",
+  "status": "queued",
+  "at": "2026-09-23T16:23:07Z"
+ },
+ {
+  "title_hash": "7455255e005894dd",
+  "url": "https://www.thedailystar.net/news/technology/news/uiu-team-reaches-top-10-global-uav-competition-4281096",
+  "headline": "Bangladeshi school students build firefighting robots for global competition",
+  "topic": "Bangladeshi school students showcase firefighting robot prototypes",
+  "source": "The Daily Star",
+  "status": "queued",
+  "at": "2026-09-23T16:23:07Z"
  }
 ]
