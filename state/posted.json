@@ -8321,8 +8321,13 @@
   "headline": "Bus fares up 17 paisa/km as fuel price hike triggers transport cost surge across Bangladesh",
   "topic": "Fuel price hike & fare increase",
   "source": "Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-23T03:07:39Z"
+  "status": "failed",
+  "at": "2026-09-23T03:07:39Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "cc1a8bf704edebdf",
@@ -8330,8 +8335,13 @@
   "headline": "Bus fares up 17 paisa/km as fuel price hike triggers transport cost surge across Bangladesh",
   "topic": "Fuel price hike & fare increase",
   "source": "Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-23T03:07:39Z"
+  "status": "failed",
+  "at": "2026-09-23T03:07:39Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "ce818feee9d31c87",
@@ -8339,8 +8349,13 @@
   "headline": "Bus fares up 17 paisa/km as fuel price hike triggers transport cost surge across Bangladesh",
   "topic": "Fuel price hike & fare increase",
   "source": "Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-23T03:07:39Z"
+  "status": "failed",
+  "at": "2026-09-23T03:07:39Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "ce6efdfc0729df0c",
@@ -8348,8 +8363,13 @@
   "headline": "Bus fares up 17 paisa/km as fuel price hike triggers transport cost surge across Bangladesh",
   "topic": "Fuel price hike & fare increase",
   "source": "Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-23T03:07:39Z"
+  "status": "failed",
+  "at": "2026-09-23T03:07:39Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "940fab133a2341b6",
@@ -8357,8 +8377,13 @@
   "headline": "Bus fares up 17 paisa/km as fuel price hike triggers transport cost surge across Bangladesh",
   "topic": "Fuel price hike & fare increase",
   "source": "Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-23T03:07:39Z"
+  "status": "failed",
+  "at": "2026-09-23T03:07:39Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "21f836a44b568706",
@@ -8366,7 +8391,12 @@
   "headline": "Dhaka University student returns home due to lack of funds after 5 months, education uncertain",
   "topic": "DU student drops out due to poverty",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-23T03:07:39Z"
+  "status": "failed",
+  "at": "2026-09-23T03:07:39Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
