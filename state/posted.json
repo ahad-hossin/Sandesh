@@ -1,19 +1,5 @@
 [
  {
-  "title_hash": "429e96d514c28bc7",
-  "url": "https://www.thedailystar.net/news/news/cou-students-block-dhaka-ctg-highway-demanding-justice-opratim-4277731",
-  "headline": "CoU students block Dhaka-Chattogram highway demanding justice for Opratim",
-  "topic": "opratim killing justice",
-  "source": "The Daily Star, Dhaka Tribune, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-20T10:09:30Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "a2fec1c78204b97d",
   "url": "https://www.dhakatribune.com/bangladesh/420235/students-withdraw-dhaka-chittagong-highway",
   "headline": "CoU students block Dhaka-Chattogram highway demanding justice for Opratim",
@@ -8398,5 +8384,14 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "5ecc2a755ce5a3a2",
+  "url": "https://www.prothomalo.com/bangladesh/4eepkjmg18",
+  "headline": "Over 100 infected with anthrax across five districts in Bangladesh",
+  "topic": "anthrax outbreak five districts",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-23T09:23:18Z"
  }
 ]
