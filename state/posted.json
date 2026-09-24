@@ -1,47 +1,5 @@
 [
  {
-  "title_hash": "0484e917dd6c289b",
-  "url": "https://www.prothomalo.com/video/bangladesh/0o7xrc3f6d",
-  "headline": "MP Gazi Nazrul's second wife found dead at NAM Bhaban flat",
-  "topic": "mp gazi nazrul second wife dead",
-  "source": "Dhaka Tribune, Prothom Alo, Jamuna TV, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-20T17:08:52Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "b21431e99d29bdb8",
-  "url": "https://www.jamuna.tv/national/664536",
-  "headline": "MP Gazi Nazrul's second wife found dead at NAM Bhaban flat",
-  "topic": "mp gazi nazrul second wife dead",
-  "source": "Dhaka Tribune, Prothom Alo, Jamuna TV, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-20T17:08:52Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "cfd123b7c2ae576a",
-  "url": "https://www.thedailystar.net/news/news/satkhira-4-mp-gazi-nazrul-islams-second-wife-found-dead-nam-bhaban-4277966",
-  "headline": "MP Gazi Nazrul's second wife found dead at NAM Bhaban flat",
-  "topic": "mp gazi nazrul second wife dead",
-  "source": "Dhaka Tribune, Prothom Alo, Jamuna TV, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-20T17:08:52Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "b0c12bd72db897ff",
   "url": "https://www.prothomalo.com/video/bangladesh/44eo1984on",
   "headline": "MP Gazi Nazrul's second wife found dead at NAM Bhaban flat",
@@ -8388,5 +8346,32 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "7848e373bd76f1b7",
+  "url": "https://www.thedailystar.net/news/technology/artificial-intelligence/news/ai-leaders-warn-un-security-council-security-risks-systems-grow-more-powerful-4281586",
+  "headline": "AI leaders warn UN Security Council of security risks as systems grow more powerful",
+  "topic": "AI leaders warn UN Security Council of security risks",
+  "source": "The Daily Star",
+  "status": "queued",
+  "at": "2026-09-24T01:07:12Z"
+ },
+ {
+  "title_hash": "30e4649cd3af73d6",
+  "url": "https://www.thedailystar.net/news/world/united-states/news/trump-invites-putin-g20-summit-4281636",
+  "headline": "Trump invites Putin to G20 summit in Miami amid Ukraine war",
+  "topic": "Trump invites Putin to G20 summit",
+  "source": "Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-24T01:07:12Z"
+ },
+ {
+  "title_hash": "ac279b2768fee8f7",
+  "url": "https://www.prothomalo.com/world/hx8gkjhayj",
+  "headline": "Trump invites Putin to G20 summit in Miami amid Ukraine war",
+  "topic": "Trump invites Putin to G20 summit",
+  "source": "Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-24T01:07:12Z"
  }
 ]
