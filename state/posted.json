@@ -1,75 +1,5 @@
 [
  {
-  "title_hash": "d2d819f48c69c4fa",
-  "url": "https://www.dhakatribune.com/bangladesh/420285/fuel-prices-jump-by-up-to-tk20-a-litre",
-  "headline": "Fuel prices jump by Tk20 per litre for four types of fuel",
-  "topic": "fuel price hike",
-  "source": "Jamuna TV, Dhaka Tribune, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-20T18:08:01Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "1f73402d93b0db90",
-  "url": "https://www.jamuna.tv/national/664544",
-  "headline": "Fuel prices jump by Tk20 per litre for four types of fuel",
-  "topic": "fuel price hike",
-  "source": "Jamuna TV, Dhaka Tribune, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-20T18:08:01Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "8eaf39a08bed8452",
-  "url": "https://www.prothomalo.com/bangladesh/6165g6ftxj",
-  "headline": "Fuel prices jump by Tk20 per litre for four types of fuel",
-  "topic": "fuel price hike",
-  "source": "Jamuna TV, Dhaka Tribune, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-20T18:08:01Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "cc71e007c47f5cab",
-  "url": "https://www.dhakatribune.com/bangladesh/crime/420284/mp-gazi-nazrul-first-wife-taken-into-custody",
-  "headline": "MP Gazi Nazrul and first wife detained after second wife's body found",
-  "topic": "mp gazi nazrul second wife death",
-  "source": "Jamuna TV, Dhaka Tribune, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-20T18:08:01Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "1ffa2fe4c6ef71d7",
-  "url": "https://www.jamuna.tv/national/664545",
-  "headline": "MP Gazi Nazrul and first wife detained after second wife's body found",
-  "topic": "mp gazi nazrul second wife death",
-  "source": "Jamuna TV, Dhaka Tribune, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-20T18:08:01Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "b21431e99d29bdb8",
   "url": "https://www.jamuna.tv/national/664536",
   "headline": "MP Gazi Nazrul and first wife detained after second wife's body found",
@@ -8388,5 +8318,50 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "2510721c604a478e",
+  "url": "https://bdnews24.com/world/eqa238ovoz",
+  "headline": "US and China extend trade truce until Jan 10 as Xi visits Washington",
+  "topic": "us china trade truce extended",
+  "source": "bdnews24.com, Jamuna TV, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-24T03:09:46Z"
+ },
+ {
+  "title_hash": "d09cad3e9aace535",
+  "url": "https://www.jamuna.tv/international/664727",
+  "headline": "US and China extend trade truce until Jan 10 as Xi visits Washington",
+  "topic": "us china trade truce extended",
+  "source": "bdnews24.com, Jamuna TV, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-24T03:09:46Z"
+ },
+ {
+  "title_hash": "b866258cbda15c96",
+  "url": "https://www.thedailystar.net/news/world/news/us-says-china-trade-truce-extended-trump-welcomes-xi-4281666",
+  "headline": "US and China extend trade truce until Jan 10 as Xi visits Washington",
+  "topic": "us china trade truce extended",
+  "source": "bdnews24.com, Jamuna TV, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-24T03:09:46Z"
+ },
+ {
+  "title_hash": "333c9ff67a52f539",
+  "url": "https://www.thedailystar.net/business/economy/news/meta-considers-opening-dhaka-office-4281326",
+  "headline": "Meta considering opening Dhaka office after high-level talks",
+  "topic": "meta dhaka office invitation",
+  "source": "Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-24T03:09:46Z"
+ },
+ {
+  "title_hash": "c54ad4d96660480a",
+  "url": "https://www.prothomalo.com/bangladesh/nibz8jnbvd",
+  "headline": "Meta considering opening Dhaka office after high-level talks",
+  "topic": "meta dhaka office invitation",
+  "source": "Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-24T03:09:46Z"
  }
 ]
