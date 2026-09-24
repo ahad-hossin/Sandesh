@@ -1,75 +1,5 @@
 [
  {
-  "title_hash": "0d0a78ed49fa24eb",
-  "url": "https://www.prothomalo.com/business/analysis/y07vpgzl6s",
-  "headline": "Fuel prices rise by Tk 20 per litre across the board in Bangladesh",
-  "topic": "bangladesh fuel price hike",
-  "source": "Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-21T06:09:41Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "bf5aadd01f1481a3",
-  "url": "https://www.prothomalo.com/bangladesh/district/ojiokm8j4x",
-  "headline": "Fuel prices rise by Tk 20 per litre across the board in Bangladesh",
-  "topic": "bangladesh fuel price hike",
-  "source": "Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-21T06:09:41Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "75574f293948f777",
-  "url": "https://www.thedailystar.net/news/bangladesh/news/fuel-prices-tk-20-across-the-board-4278401",
-  "headline": "Fuel prices rise by Tk 20 per litre across the board in Bangladesh",
-  "topic": "bangladesh fuel price hike",
-  "source": "Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-21T06:09:41Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "d2907e534d3214fe",
-  "url": "https://www.dhakatribune.com/bangladesh/nation/420294/clash-erupts-at-rajshahi-railway-station-after-ru",
-  "headline": "4 rail staff suspended after RU students vandalise Rajshahi station",
-  "topic": "rajshahi railway station clash",
-  "source": "Dhaka Tribune, Jamuna TV, The Daily Star, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-21T06:09:41Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "e0c3a5ead12caecf",
-  "url": "https://www.jamuna.tv/all-bangladesh/664566",
-  "headline": "4 rail staff suspended after RU students vandalise Rajshahi station",
-  "topic": "rajshahi railway station clash",
-  "source": "Dhaka Tribune, Jamuna TV, The Daily Star, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-21T06:09:41Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "21b3d36601632d01",
   "url": "https://www.thedailystar.net/news/education/news/ru-students-vandalise-station-after-fellow-student-allegedly-assaulted-4278256",
   "headline": "4 rail staff suspended after RU students vandalise Rajshahi station",
@@ -8388,5 +8318,50 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "50c74b8a4be37a47",
+  "url": "https://www.dhakatribune.com/bangladesh/foreign-affairs/420623/bangladesh-pakistan-premiers-discuss-bilateral",
+  "headline": "PM Tarique Rahman and Shehbaz Sharif discuss bilateral ties at UNGA",
+  "topic": "Bangladesh Pakistan PM bilateral talks",
+  "source": "Dhaka Tribune, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-24T22:14:11Z"
+ },
+ {
+  "title_hash": "8ac8db49e482f3db",
+  "url": "https://www.thedailystar.net/news/bangladesh/diplomacy/news/tarique-shehbaz-discuss-bilateral-ties-global-issues-4282561",
+  "headline": "PM Tarique Rahman and Shehbaz Sharif discuss bilateral ties at UNGA",
+  "topic": "Bangladesh Pakistan PM bilateral talks",
+  "source": "Dhaka Tribune, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-24T22:14:11Z"
+ },
+ {
+  "title_hash": "9d74c4e21cd7beeb",
+  "url": "https://www.thedailystar.net/news/news/pm-puts-primary-healthcare-heart-healthy-bangladesh-vision-4282456",
+  "headline": "100,000 health workers to be hired as PM pushes primary healthcare for 'healthy Bangladesh'",
+  "topic": "PM primary healthcare vision",
+  "source": "Jamuna TV, Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-24T22:14:11Z"
+ },
+ {
+  "title_hash": "7fc0cce159d7d9d2",
+  "url": "https://www.jamuna.tv/national/664796",
+  "headline": "100,000 health workers to be hired as PM pushes primary healthcare for 'healthy Bangladesh'",
+  "topic": "PM primary healthcare vision",
+  "source": "Jamuna TV, Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-24T22:14:11Z"
+ },
+ {
+  "title_hash": "7fc0cce159d7d9d2",
+  "url": "https://www.prothomalo.com/bangladesh/tz4dplgsb6",
+  "headline": "100,000 health workers to be hired as PM pushes primary healthcare for 'healthy Bangladesh'",
+  "topic": "PM primary healthcare vision",
+  "source": "Jamuna TV, Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-24T22:14:11Z"
  }
 ]
