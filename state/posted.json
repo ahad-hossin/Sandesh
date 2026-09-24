@@ -8325,8 +8325,13 @@
   "headline": "5,000 doctors to be recruited: BPSC issues 51st Special BCS circular",
   "topic": "51st special bcs circular",
   "source": "Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-24T11:11:07Z"
+  "status": "failed",
+  "at": "2026-09-24T11:11:07Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "924bf5780444edf3",
@@ -8334,8 +8339,13 @@
   "headline": "5,000 doctors to be recruited: BPSC issues 51st Special BCS circular",
   "topic": "51st special bcs circular",
   "source": "Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-24T11:11:07Z"
+  "status": "failed",
+  "at": "2026-09-24T11:11:07Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "c94883d885b41f39",
@@ -8343,8 +8353,13 @@
   "headline": "Govt to cut fuel prices if West Asia crisis eases",
   "topic": "govt fuel price cut possibility",
   "source": "bdnews24.com, Prothom Alo, Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-24T11:11:07Z"
+  "status": "failed",
+  "at": "2026-09-24T11:11:07Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "439f4560915982a5",
@@ -8352,8 +8367,13 @@
   "headline": "Govt to cut fuel prices if West Asia crisis eases",
   "topic": "govt fuel price cut possibility",
   "source": "bdnews24.com, Prothom Alo, Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-24T11:11:07Z"
+  "status": "failed",
+  "at": "2026-09-24T11:11:07Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "acba6a03ea414e7f",
@@ -8361,7 +8381,12 @@
   "headline": "Govt to cut fuel prices if West Asia crisis eases",
   "topic": "govt fuel price cut possibility",
   "source": "bdnews24.com, Prothom Alo, Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-24T11:11:07Z"
+  "status": "failed",
+  "at": "2026-09-24T11:11:07Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
