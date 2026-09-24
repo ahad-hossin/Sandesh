@@ -1,61 +1,5 @@
 [
  {
-  "title_hash": "3a40dfc1882b58e6",
-  "url": "https://www.dhakatribune.com/bangladesh/nation/420224/police-claim-to-solve-mystery-behind-comilla",
-  "headline": "36 missing children's bodies recovered in 8 months, 26 killed after rape; community safety net failing",
-  "topic": "comilla missing son found dead",
-  "source": "The Daily Star, Dhaka Tribune, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-21T03:06:55Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "cd693b3623d54cca",
-  "url": "https://www.dhakatribune.com/bangladesh/crime/420255/opratim%E2%80%99s-mother%E2%80%99s-iphone-recovered-from-tuhin%E2%80%99s",
-  "headline": "36 missing children's bodies recovered in 8 months, 26 killed after rape; community safety net failing",
-  "topic": "comilla missing son found dead",
-  "source": "The Daily Star, Dhaka Tribune, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-21T03:06:55Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "0b84270e866facee",
-  "url": "https://www.dhakatribune.com/bangladesh/crime/420267/police-opratim-beaten-with-bamboo-stick-after",
-  "headline": "36 missing children's bodies recovered in 8 months, 26 killed after rape; community safety net failing",
-  "topic": "comilla missing son found dead",
-  "source": "The Daily Star, Dhaka Tribune, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-21T03:06:55Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "bea6747d8ba6c4a5",
-  "url": "https://www.thedailystar.net/news/crime-justice/news/familiar-faces-deadly-crimes-4278381",
-  "headline": "36 missing children's bodies recovered in 8 months, 26 killed after rape; community safety net failing",
-  "topic": "comilla missing son found dead",
-  "source": "The Daily Star, Dhaka Tribune, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-21T03:06:55Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "46df156e1d49690d",
   "url": "https://www.prothomalo.com/lifestyle/acurya3wz6",
   "headline": "36 missing children's bodies recovered in 8 months, 26 killed after rape; community safety net failing",
@@ -8388,5 +8332,41 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "50c74b8a4be37a47",
+  "url": "https://www.dhakatribune.com/bangladesh/foreign-affairs/420623/bangladesh-pakistan-premiers-discuss-bilateral",
+  "headline": "UNGA: Bangladesh and Pakistan premiers meet to discuss bilateral ties",
+  "topic": "Bangladesh Pakistan PM bilateral meeting",
+  "source": "Dhaka Tribune, Jamuna TV",
+  "status": "queued",
+  "at": "2026-09-24T18:08:29Z"
+ },
+ {
+  "title_hash": "c3c6c8446694971f",
+  "url": "https://www.jamuna.tv/national/664792",
+  "headline": "UNGA: Bangladesh and Pakistan premiers meet to discuss bilateral ties",
+  "topic": "Bangladesh Pakistan PM bilateral meeting",
+  "source": "Dhaka Tribune, Jamuna TV",
+  "status": "queued",
+  "at": "2026-09-24T18:08:29Z"
+ },
+ {
+  "title_hash": "b48b41c4438e663b",
+  "url": "https://www.dhakatribune.com/bangladesh/foreign-affairs/420622/pm-takes-climate-fight-to-un-unga-debut-in-focus",
+  "headline": "10m Bangladeshis threatened: PM urges faster global action on climate",
+  "topic": "PM addresses UNGA on climate change and sea level rise",
+  "source": "Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-09-24T18:08:29Z"
+ },
+ {
+  "title_hash": "90dc09053401039d",
+  "url": "https://www.dhakatribune.com/bangladesh/foreign-affairs/420616/pm-urges-faster-global-action-as-sea-level",
+  "headline": "10m Bangladeshis threatened: PM urges faster global action on climate",
+  "topic": "PM addresses UNGA on climate change and sea level rise",
+  "source": "Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-09-24T18:08:29Z"
  }
 ]
