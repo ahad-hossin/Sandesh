@@ -8367,8 +8367,13 @@
   "headline": "Nearly 900 suspected dead in Bangladesh measles outbreak",
   "topic": "measles outbreak as immunisation wake-up call",
   "source": "The Daily Star",
-  "status": "queued",
-  "at": "2026-09-24T20:16:10Z"
+  "status": "failed",
+  "at": "2026-09-24T20:16:10Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "b48b41c4438e663b",
@@ -8376,7 +8381,12 @@
   "headline": "PM takes climate fight to UN, UNGA debut in focus",
   "topic": "PM addresses UNGA on climate change",
   "source": "Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-09-24T20:16:10Z"
+  "status": "failed",
+  "at": "2026-09-24T20:16:10Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
