@@ -1,33 +1,5 @@
 [
  {
-  "title_hash": "d2f156e91b173da4",
-  "url": "https://www.thedailystar.net/news/bangladesh/news/new-pay-scale-basic-pay-rise-cost-tk-37372cr-4278416",
-  "headline": "New pay scale raises minimum basic to Tk 20,000 and maximum to Tk 1,56,000",
-  "topic": "New govt salary scale",
-  "source": "Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-21T04:07:17Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "51944e55078806c9",
-  "url": "https://www.prothomalo.com/video/bangladesh/f2q25khot4",
-  "headline": "New pay scale raises minimum basic to Tk 20,000 and maximum to Tk 1,56,000",
-  "topic": "New govt salary scale",
-  "source": "Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-21T04:07:17Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "06651c268a6c071d",
   "url": "https://www.thedailystar.net/opinion/views/news/policing-cannot-replace-the-community-safety-net-our-children-need-4278116",
   "headline": "Over 15,000 children missing in Bangladesh between January and July",
@@ -8388,5 +8360,23 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "57424d20d56509e6",
+  "url": "https://www.thedailystar.net/slow-reads/big-picture/news/why-bangladeshs-measles-outbreak-should-be-wake-call-4282186",
+  "headline": "Nearly 900 suspected dead in Bangladesh measles outbreak",
+  "topic": "measles outbreak as immunisation wake-up call",
+  "source": "The Daily Star",
+  "status": "queued",
+  "at": "2026-09-24T20:16:10Z"
+ },
+ {
+  "title_hash": "b48b41c4438e663b",
+  "url": "https://www.dhakatribune.com/bangladesh/foreign-affairs/420622/pm-takes-climate-fight-to-un-unga-debut-in-focus",
+  "headline": "PM takes climate fight to UN, UNGA debut in focus",
+  "topic": "PM addresses UNGA on climate change",
+  "source": "Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-09-24T20:16:10Z"
  }
 ]
