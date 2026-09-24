@@ -8339,8 +8339,13 @@
   "headline": "Dengue surge: 8 die and 1,782 hospitalized in 24 hours",
   "topic": "Dengue: 8 die, 1,782 hospitalized in 24 hours",
   "source": "Dhaka Tribune, Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-24T12:08:52Z"
+  "status": "failed",
+  "at": "2026-09-24T12:08:52Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "27239daac21b1cd1",
@@ -8348,8 +8353,13 @@
   "headline": "Dengue surge: 8 die and 1,782 hospitalized in 24 hours",
   "topic": "Dengue: 8 die, 1,782 hospitalized in 24 hours",
   "source": "Dhaka Tribune, Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-24T12:08:52Z"
+  "status": "failed",
+  "at": "2026-09-24T12:08:52Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "a753eb38c3476d1d",
@@ -8357,8 +8367,13 @@
   "headline": "PSC to recruit 5,000 doctors via 51st special BCS",
   "topic": "EC finalizes 42 symbols for Union Parishad elections",
   "source": "bdnews24.com, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-24T12:08:52Z"
+  "status": "failed",
+  "at": "2026-09-24T12:08:52Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "4b4f33653fb99629",
@@ -8366,7 +8381,12 @@
   "headline": "PSC to recruit 5,000 doctors via 51st special BCS",
   "topic": "EC finalizes 42 symbols for Union Parishad elections",
   "source": "bdnews24.com, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-24T12:08:52Z"
+  "status": "failed",
+  "at": "2026-09-24T12:08:52Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
