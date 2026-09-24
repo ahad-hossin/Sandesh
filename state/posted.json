@@ -1,61 +1,5 @@
 [
  {
-  "title_hash": "49106f67d0758fa8",
-  "url": "https://www.jamuna.tv/national/664548",
-  "headline": "7 gas cylinder blast kills 7 in Ashulia garment factory",
-  "topic": "ashulia factory cylinder blast",
-  "source": "Dhaka Tribune, Jamuna TV, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-20T23:09:46Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "07289194dc17fae9",
-  "url": "https://www.thedailystar.net/news/accidents-and-fires/news/gas-cylinder-blast-kills-7-ashulia-4278411",
-  "headline": "7 gas cylinder blast kills 7 in Ashulia garment factory",
-  "topic": "ashulia factory cylinder blast",
-  "source": "Dhaka Tribune, Jamuna TV, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-20T23:09:46Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "2a6415e78e0198b0",
-  "url": "https://www.thedailystar.net/news/crime-justice/news/case-filed-against-mp-gazi-nazrul-2-others-over-second-wifes-death-4278376",
-  "headline": "Case filed against MP Gazi Nazrul over second wife’s death",
-  "topic": "mp gazi nazrul second wife death",
-  "source": "The Daily Star, Jamuna TV, Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-09-20T23:09:46Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "1ffa2fe4c6ef71d7",
-  "url": "https://www.jamuna.tv/national/664545",
-  "headline": "Case filed against MP Gazi Nazrul over second wife’s death",
-  "topic": "mp gazi nazrul second wife death",
-  "source": "The Daily Star, Jamuna TV, Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-09-20T23:09:46Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "75a4dbc5b3506513",
   "url": "https://www.dhakatribune.com/bangladesh/crime/420271/mp-gazi-nazrul%E2%80%99s-second-wife-found-dead-at-nam",
   "headline": "Case filed against MP Gazi Nazrul over second wife’s death",
@@ -8388,5 +8332,41 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "c6889f42975b5cbf",
+  "url": "https://www.dhakatribune.com/bangladesh/health/420589/dengue-eight-more-die-as-1-782-hospitalized-in-24",
+  "headline": "Dengue surge: 8 die and 1,782 hospitalized in 24 hours",
+  "topic": "Dengue: 8 die, 1,782 hospitalized in 24 hours",
+  "source": "Dhaka Tribune, Jamuna TV",
+  "status": "queued",
+  "at": "2026-09-24T12:08:52Z"
+ },
+ {
+  "title_hash": "27239daac21b1cd1",
+  "url": "https://www.jamuna.tv/national/664777",
+  "headline": "Dengue surge: 8 die and 1,782 hospitalized in 24 hours",
+  "topic": "Dengue: 8 die, 1,782 hospitalized in 24 hours",
+  "source": "Dhaka Tribune, Jamuna TV",
+  "status": "queued",
+  "at": "2026-09-24T12:08:52Z"
+ },
+ {
+  "title_hash": "a753eb38c3476d1d",
+  "url": "https://bdnews24.com/bangladesh/a9yhj99o10",
+  "headline": "PSC to recruit 5,000 doctors via 51st special BCS",
+  "topic": "EC finalizes 42 symbols for Union Parishad elections",
+  "source": "bdnews24.com, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-24T12:08:52Z"
+ },
+ {
+  "title_hash": "4b4f33653fb99629",
+  "url": "https://www.thedailystar.net/news/politics/election/news/ec-finalises-42-symbols-union-parishad-elections-4281906",
+  "headline": "PSC to recruit 5,000 doctors via 51st special BCS",
+  "topic": "EC finalizes 42 symbols for Union Parishad elections",
+  "source": "bdnews24.com, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-24T12:08:52Z"
  }
 ]
