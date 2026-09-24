@@ -8339,8 +8339,13 @@
   "headline": "UNGA: Bangladesh and Pakistan premiers meet to discuss bilateral ties",
   "topic": "Bangladesh Pakistan PM bilateral meeting",
   "source": "Dhaka Tribune, Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-24T18:08:29Z"
+  "status": "failed",
+  "at": "2026-09-24T18:08:29Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "c3c6c8446694971f",
@@ -8348,8 +8353,13 @@
   "headline": "UNGA: Bangladesh and Pakistan premiers meet to discuss bilateral ties",
   "topic": "Bangladesh Pakistan PM bilateral meeting",
   "source": "Dhaka Tribune, Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-24T18:08:29Z"
+  "status": "failed",
+  "at": "2026-09-24T18:08:29Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "b48b41c4438e663b",
@@ -8357,8 +8367,13 @@
   "headline": "10m Bangladeshis threatened: PM urges faster global action on climate",
   "topic": "PM addresses UNGA on climate change and sea level rise",
   "source": "Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-09-24T18:08:29Z"
+  "status": "failed",
+  "at": "2026-09-24T18:08:29Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "90dc09053401039d",
@@ -8366,7 +8381,12 @@
   "headline": "10m Bangladeshis threatened: PM urges faster global action on climate",
   "topic": "PM addresses UNGA on climate change and sea level rise",
   "source": "Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-09-24T18:08:29Z"
+  "status": "failed",
+  "at": "2026-09-24T18:08:29Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
