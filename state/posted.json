@@ -8353,8 +8353,13 @@
   "headline": "Biman orders 11 new Boeing jets to expand fleet",
   "topic": "biman orders 11 boeing jets",
   "source": "Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-24T02:09:22Z"
+  "status": "failed",
+  "at": "2026-09-24T02:09:22Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "ca661c2f526c286b",
@@ -8362,8 +8367,13 @@
   "headline": "Biman orders 11 new Boeing jets to expand fleet",
   "topic": "biman orders 11 boeing jets",
   "source": "Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-24T02:09:22Z"
+  "status": "failed",
+  "at": "2026-09-24T02:09:22Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "f9775aadfd5a9fcd",
@@ -8371,7 +8381,12 @@
   "headline": "Interim Govt Chief Advisor Yunus faces criticism over benefits received by Grameen entities.",
   "topic": "yunus criticism over benefits",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-24T02:09:22Z"
+  "status": "failed",
+  "at": "2026-09-24T02:09:22Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
