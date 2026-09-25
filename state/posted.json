@@ -8353,8 +8353,13 @@
   "headline": "Police constable and wife arrested for cutting off child's finger in Natore",
   "topic": "child abuse constable wife arrested",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-25T08:11:57Z"
+  "status": "failed",
+  "at": "2026-09-25T08:11:57Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "12a4e399101413e5",
@@ -8362,8 +8367,13 @@
   "headline": "Trump shows close friendship with Xi Jinping during state visit",
   "topic": "Trump Xi 'great friendship' meeting",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-25T08:11:57Z"
+  "status": "failed",
+  "at": "2026-09-25T08:11:57Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "97e1e84e0717b7b5",
@@ -8371,7 +8381,12 @@
   "headline": "Trump shows close friendship with Xi Jinping during state visit",
   "topic": "Trump Xi 'great friendship' meeting",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-25T08:11:57Z"
+  "status": "failed",
+  "at": "2026-09-25T08:11:57Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
