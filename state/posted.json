@@ -8325,8 +8325,13 @@
   "headline": "114 of 115 charges: Man City found guilty of financial breaches",
   "topic": "Man City found guilty on 115 charges",
   "source": "The Daily Star, bdnews24.com, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-25T16:08:11Z"
+  "status": "failed",
+  "at": "2026-09-25T16:08:11Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "e6860487c33d27a9",
@@ -8334,8 +8339,13 @@
   "headline": "114 of 115 charges: Man City found guilty of financial breaches",
   "topic": "Man City found guilty on 115 charges",
   "source": "The Daily Star, bdnews24.com, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-25T16:08:11Z"
+  "status": "failed",
+  "at": "2026-09-25T16:08:11Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "d84162b1beb9575a",
@@ -8343,8 +8353,13 @@
   "headline": "114 of 115 charges: Man City found guilty of financial breaches",
   "topic": "Man City found guilty on 115 charges",
   "source": "The Daily Star, bdnews24.com, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-25T16:08:11Z"
+  "status": "failed",
+  "at": "2026-09-25T16:08:11Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "e95a8c5e93fad7bf",
@@ -8352,8 +8367,13 @@
   "headline": "Fuel price hike: Essential commodity prices soar in Bangladesh",
   "topic": "Necessities soar following fuel hike",
   "source": "bdnews24.com",
-  "status": "queued",
-  "at": "2026-09-25T16:08:11Z"
+  "status": "failed",
+  "at": "2026-09-25T16:08:11Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "6e19c70b0410c803",
@@ -8361,7 +8381,12 @@
   "headline": "Fuel price hike: Essential commodity prices soar in Bangladesh",
   "topic": "Necessities soar following fuel hike",
   "source": "bdnews24.com",
-  "status": "queued",
-  "at": "2026-09-25T16:08:11Z"
+  "status": "failed",
+  "at": "2026-09-25T16:08:11Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
