@@ -8311,8 +8311,13 @@
   "headline": "Bangladesh thumped 3-0 by Malaysia in ASEAN Cup opener",
   "topic": "bangladesh loses to malaysia asean cup",
   "source": "Prothom Alo, Jamuna TV, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-25T11:10:15Z"
+  "status": "failed",
+  "at": "2026-09-25T11:10:15Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "5bd2bca35abf2d9e",
@@ -8320,8 +8325,13 @@
   "headline": "Bangladesh thumped 3-0 by Malaysia in ASEAN Cup opener",
   "topic": "bangladesh loses to malaysia asean cup",
   "source": "Prothom Alo, Jamuna TV, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-25T11:10:15Z"
+  "status": "failed",
+  "at": "2026-09-25T11:10:15Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "42664465d46ad5a1",
@@ -8329,8 +8339,13 @@
   "headline": "Bangladesh thumped 3-0 by Malaysia in ASEAN Cup opener",
   "topic": "bangladesh loses to malaysia asean cup",
   "source": "Prothom Alo, Jamuna TV, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-25T11:10:15Z"
+  "status": "failed",
+  "at": "2026-09-25T11:10:15Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "4c1be2d5f6b45c52",
@@ -8338,8 +8353,13 @@
   "headline": "Bangladesh thumped 3-0 by Malaysia in ASEAN Cup opener",
   "topic": "bangladesh loses to malaysia asean cup",
   "source": "Prothom Alo, Jamuna TV, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-25T11:10:15Z"
+  "status": "failed",
+  "at": "2026-09-25T11:10:15Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "0dae255adb9f38a7",
@@ -8347,8 +8367,13 @@
   "headline": "1,084 children died in measles outbreak since March",
   "topic": "measles outbreak death toll 1084",
   "source": "Dhaka Tribune, Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-25T11:10:15Z"
+  "status": "failed",
+  "at": "2026-09-25T11:10:15Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "5ce23cba4e8b9aef",
@@ -8356,7 +8381,12 @@
   "headline": "1,084 children died in measles outbreak since March",
   "topic": "measles outbreak death toll 1084",
   "source": "Dhaka Tribune, Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-25T11:10:15Z"
+  "status": "failed",
+  "at": "2026-09-25T11:10:15Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
