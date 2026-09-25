@@ -1,47 +1,5 @@
 [
  {
-  "title_hash": "32949b7f94d0733f",
-  "url": "https://www.prothomalo.com/sports/football/r5juvmw18j",
-  "headline": "Kabaddi: Bangladesh one win away from semis after edging Chinese Taipei",
-  "topic": "bangladesh womens football asian games",
-  "source": "The Daily Star, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-21T13:21:42Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "133dd5f97c3e04c0",
-  "url": "https://www.dhakatribune.com/bangladesh/crime/420351/two-held-over-crude-bomb-blasts-at-kamalapur",
-  "headline": "Police hold three over crude bomb blasts in Dhaka",
-  "topic": "crude bomb blasts at railway station",
-  "source": "Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-09-21T14:08:54Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "2a0b1f47a489f43f",
-  "url": "https://www.dhakatribune.com/bangladesh/crime/420333/ex-bcl-leader-held-over-crude-bomb-blast-in-front",
-  "headline": "Police hold three over crude bomb blasts in Dhaka",
-  "topic": "crude bomb blasts at railway station",
-  "source": "Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-09-21T14:08:54Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "18e381347d6b1478",
   "url": "https://www.dhakatribune.com/bangladesh/crime/420344/mp-nazrul-first-wife-accused-of-torturing-second",
   "headline": "MP Gazi Nazrul placed on 4-day remand over second wife's death",
@@ -8388,5 +8346,32 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "0320d6f0aec2cef3",
+  "url": "https://www.dhakatribune.com/bangladesh/420670/radda-clinic-vandalized-looted-in-alleged",
+  "headline": "Tragedy in Brahmanbaria: Six-year-old girl raped and killed",
+  "topic": "clinic vandalized and looted",
+  "source": "Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-09-25T15:09:18Z"
+ },
+ {
+  "title_hash": "262b445b95e6add2",
+  "url": "https://www.dhakatribune.com/bangladesh/420664/child-allegedly-raped-killed-locals-beat-suspect",
+  "headline": "Tragedy in Brahmanbaria: Six-year-old girl raped and killed",
+  "topic": "clinic vandalized and looted",
+  "source": "Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-09-25T15:09:18Z"
+ },
+ {
+  "title_hash": "58bdcd769db42dd9",
+  "url": "https://www.thedailystar.net/news/crime-justice/news/college-student-says-she-was-tied-tree-beaten-coxs-bazars-teknaf-4282791",
+  "headline": "College student tied to tree and beaten in Cox’s Bazar’s Teknaf",
+  "topic": "college student beaten and tied to tree",
+  "source": "The Daily Star",
+  "status": "queued",
+  "at": "2026-09-25T15:09:18Z"
  }
 ]
