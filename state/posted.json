@@ -8353,8 +8353,13 @@
   "headline": "64 goals in 56 games: Haaland leads Norway to victory over Denmark",
   "topic": "Haaland scores brace in Norway win",
   "source": "Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-25T07:11:24Z"
+  "status": "failed",
+  "at": "2026-09-25T07:11:24Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "e9224d1ef72b6505",
@@ -8362,8 +8367,13 @@
   "headline": "64 goals in 56 games: Haaland leads Norway to victory over Denmark",
   "topic": "Haaland scores brace in Norway win",
   "source": "Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-25T07:11:24Z"
+  "status": "failed",
+  "at": "2026-09-25T07:11:24Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "35c5e96f6ff083eb",
@@ -8371,7 +8381,12 @@
   "headline": "Local government polls likely in January",
   "topic": "Local polls likely in January",
   "source": "The Daily Star",
-  "status": "queued",
-  "at": "2026-09-25T07:11:24Z"
+  "status": "failed",
+  "at": "2026-09-25T07:11:24Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
