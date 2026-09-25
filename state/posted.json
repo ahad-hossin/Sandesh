@@ -1,47 +1,5 @@
 [
  {
-  "title_hash": "2a6415e78e0198b0",
-  "url": "https://www.thedailystar.net/news/crime-justice/news/case-filed-against-mp-gazi-nazrul-2-others-over-second-wifes-death-4278376",
-  "headline": "EC awaits Speaker's letter on MP Gazi Nazrul's parliamentary status",
-  "topic": "mp gazi nazrul remanded over second wife's death",
-  "source": "Dhaka Tribune, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-21T11:09:17Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "2d01fc421432e8f1",
-  "url": "https://www.thedailystar.net/news/crime-justice/news/mp-nazruls-2nd-wife-found-dead-nam-flat-4278386",
-  "headline": "EC awaits Speaker's letter on MP Gazi Nazrul's parliamentary status",
-  "topic": "mp gazi nazrul remanded over second wife's death",
-  "source": "Dhaka Tribune, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-21T11:09:17Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "2f20c14abf75cefa",
-  "url": "https://www.dhakatribune.com/bangladesh/health/420321/measles-outbreak-death-toll-reaches-1-063-as-six",
-  "headline": "Measles outbreak: Death toll reaches 1,063 as six die in 24 hours",
-  "topic": "measles outbreak death toll exceeds 1000",
-  "source": "Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-09-21T11:09:17Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "3be0273aaea31f24",
   "url": "https://www.thedailystar.net/news/politics/news/fuel-price-hike-will-put-fresh-burden-people-jamaat-4278776",
   "headline": "Tk 20 hike: Jamaat urges govt to withdraw fuel price increase",
@@ -8388,5 +8346,32 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "6369e311c22b4106",
+  "url": "https://www.prothomalo.com/bangladesh/district/txeum1fk5f",
+  "headline": "Police constable and wife arrested for cutting off child's finger in Natore",
+  "topic": "child abuse constable wife arrested",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-25T08:11:57Z"
+ },
+ {
+  "title_hash": "12a4e399101413e5",
+  "url": "https://www.prothomalo.com/world/usa/kqu1sftk2u",
+  "headline": "Trump shows close friendship with Xi Jinping during state visit",
+  "topic": "Trump Xi 'great friendship' meeting",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-25T08:11:57Z"
+ },
+ {
+  "title_hash": "97e1e84e0717b7b5",
+  "url": "https://www.prothomalo.com/video/international/17ex254w0s",
+  "headline": "Trump shows close friendship with Xi Jinping during state visit",
+  "topic": "Trump Xi 'great friendship' meeting",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-25T08:11:57Z"
  }
 ]
