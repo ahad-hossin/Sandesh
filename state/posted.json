@@ -1,33 +1,5 @@
 [
  {
-  "title_hash": "8af35d221868e246",
-  "url": "https://www.dhakatribune.com/bangladesh/parliament/420317/shishir-monir-speaker-ec-to-decide-gazi-nazrul%E2%80%99s",
-  "headline": "EC awaits Speaker's letter on MP Gazi Nazrul's parliamentary status",
-  "topic": "mp gazi nazrul remanded over second wife's death",
-  "source": "Dhaka Tribune, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-21T11:09:17Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "0fac6f633045ee8a",
-  "url": "https://www.prothomalo.com/politics/2glxd4f2oy",
-  "headline": "EC awaits Speaker's letter on MP Gazi Nazrul's parliamentary status",
-  "topic": "mp gazi nazrul remanded over second wife's death",
-  "source": "Dhaka Tribune, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-21T11:09:17Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "bb5b4cd28fd01ca9",
   "url": "https://www.thedailystar.net/news/crime-justice/news/seven-day-remand-sought-mp-gazi-nazrul-first-wife-over-second-wifes-death-4278771",
   "headline": "EC awaits Speaker's letter on MP Gazi Nazrul's parliamentary status",
@@ -8388,5 +8360,23 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "c93caa43da7689c0",
+  "url": "https://www.prothomalo.com/world/india/98njz84ank",
+  "headline": "Electricity worker killed as ethnic violence erupts in Manipur",
+  "topic": "Manipur ethnic violence: houses torched, power worker killed",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-25T05:08:32Z"
+ },
+ {
+  "title_hash": "edd36f7e2e7d5928",
+  "url": "https://bdnews24.com/world/9h0vmqtnp6",
+  "headline": "Actor Susan Sarandon arrested at anti-Netanyahu protest in New York",
+  "topic": "Susan Sarandon arrested at anti-Netanyahu protest",
+  "source": "bdnews24.com",
+  "status": "queued",
+  "at": "2026-09-25T05:08:32Z"
  }
 ]
