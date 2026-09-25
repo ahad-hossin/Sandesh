@@ -1,61 +1,5 @@
 [
  {
-  "title_hash": "6ddaa1ae272eee12",
-  "url": "https://www.thedailystar.net/business/news/fuel-price-hike-deepen-inflation-raise-costs-across-economy-bci-president-4278986",
-  "headline": "BPC lost Tk 22,875cr in 6 months; Govt raises fuel prices by Tk 20",
-  "topic": "fuel price hike impact",
-  "source": "The Daily Star, Dhaka Tribune, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-21T16:12:25Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "a476399deef9ae4f",
-  "url": "https://www.thedailystar.net/news/transport/news/bus-fares-may-rise-20-paisa-km-after-tk-20-fuel-price-hike-4278956",
-  "headline": "BPC lost Tk 22,875cr in 6 months; Govt raises fuel prices by Tk 20",
-  "topic": "fuel price hike impact",
-  "source": "The Daily Star, Dhaka Tribune, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-21T16:12:25Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "cd4b0ae3f9bba2f9",
-  "url": "https://www.thedailystar.net/news/politics/news/even-after-the-hike-we-will-bear-tk-70-loss-litre-diesel-rizvi-4278931",
-  "headline": "BPC lost Tk 22,875cr in 6 months; Govt raises fuel prices by Tk 20",
-  "topic": "fuel price hike impact",
-  "source": "The Daily Star, Dhaka Tribune, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-21T16:12:25Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "fa374318907c3eae",
-  "url": "https://www.thedailystar.net/news/politics/news/fuel-price-hike-jamaat-ncp-say-it-would-worsen-inflation-4278921",
-  "headline": "BPC lost Tk 22,875cr in 6 months; Govt raises fuel prices by Tk 20",
-  "topic": "fuel price hike impact",
-  "source": "The Daily Star, Dhaka Tribune, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-21T16:12:25Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "a82b40fef9a915f6",
   "url": "https://www.dhakatribune.com/bangladesh/420315/state-minister-middle-east-crisis-forces-fuel",
   "headline": "BPC lost Tk 22,875cr in 6 months; Govt raises fuel prices by Tk 20",
@@ -8388,5 +8332,41 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "d90ab9934747da25",
+  "url": "https://bdnews24.com/bangladesh/68jfc9lb9p",
+  "headline": "PM Tarique Rahman meets Kuwait Crown Prince in New York",
+  "topic": "PM Tarique meets Kuwait crown prince in New York",
+  "source": "Prothom Alo, bdnews24.com, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-25T23:09:36Z"
+ },
+ {
+  "title_hash": "4d6b467e124c03cf",
+  "url": "https://www.prothomalo.com/bangladesh/8k69uzr1wf",
+  "headline": "PM Tarique Rahman meets Kuwait Crown Prince in New York",
+  "topic": "PM Tarique meets Kuwait crown prince in New York",
+  "source": "Prothom Alo, bdnews24.com, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-25T23:09:36Z"
+ },
+ {
+  "title_hash": "e3e987da10e5282e",
+  "url": "https://www.thedailystar.net/news/bangladesh/diplomacy/news/pm-tarique-kuwait-crown-prince-discuss-expanding-labour-recruitment-trade-4282931",
+  "headline": "PM Tarique Rahman meets Kuwait Crown Prince in New York",
+  "topic": "PM Tarique meets Kuwait crown prince in New York",
+  "source": "Prothom Alo, bdnews24.com, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-25T23:09:36Z"
+ },
+ {
+  "title_hash": "1b4864f99c7d37a3",
+  "url": "https://www.prothomalo.com/world/europe/kbxn9tyi43",
+  "headline": "Putin claims Russia is not preparing for conflict with Europe",
+  "topic": "Putin: Russia not preparing for conflict with Europe",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-25T23:09:36Z"
  }
 ]
