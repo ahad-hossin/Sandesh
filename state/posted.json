@@ -8325,8 +8325,13 @@
   "headline": "Brahmanbaria: Six-year-old girl raped and killed",
   "topic": "girl raped killed brahmanbaria",
   "source": "Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-09-25T14:09:32Z"
+  "status": "failed",
+  "at": "2026-09-25T14:09:32Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "64ba68897d109287",
@@ -8334,8 +8339,13 @@
   "headline": "Natore: Police constable and wife arrested for cutting off child's finger",
   "topic": "constable arrested child finger cut",
   "source": "Prothom Alo, Dhaka Tribune, The Daily Star, Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-25T14:09:32Z"
+  "status": "failed",
+  "at": "2026-09-25T14:09:32Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "d78fc28b234e599b",
@@ -8343,8 +8353,13 @@
   "headline": "Natore: Police constable and wife arrested for cutting off child's finger",
   "topic": "constable arrested child finger cut",
   "source": "Prothom Alo, Dhaka Tribune, The Daily Star, Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-25T14:09:32Z"
+  "status": "failed",
+  "at": "2026-09-25T14:09:32Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "01f43e4f61fa08a2",
@@ -8352,8 +8367,13 @@
   "headline": "Natore: Police constable and wife arrested for cutting off child's finger",
   "topic": "constable arrested child finger cut",
   "source": "Prothom Alo, Dhaka Tribune, The Daily Star, Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-25T14:09:32Z"
+  "status": "failed",
+  "at": "2026-09-25T14:09:32Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "b71bb130870f43b0",
@@ -8361,7 +8381,12 @@
   "headline": "Natore: Police constable and wife arrested for cutting off child's finger",
   "topic": "constable arrested child finger cut",
   "source": "Prothom Alo, Dhaka Tribune, The Daily Star, Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-25T14:09:32Z"
+  "status": "failed",
+  "at": "2026-09-25T14:09:32Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
