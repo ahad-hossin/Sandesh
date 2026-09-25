@@ -8325,8 +8325,13 @@
   "headline": "UK-based Farhaan Ali set to make Bangladesh debut against Malaysia",
   "topic": "bangladesh vs malaysia asean cup",
   "source": "The Daily Star, Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-25T10:12:01Z"
+  "status": "failed",
+  "at": "2026-09-25T10:12:01Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "42664465d46ad5a1",
@@ -8334,8 +8339,13 @@
   "headline": "UK-based Farhaan Ali set to make Bangladesh debut against Malaysia",
   "topic": "bangladesh vs malaysia asean cup",
   "source": "The Daily Star, Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-25T10:12:01Z"
+  "status": "failed",
+  "at": "2026-09-25T10:12:01Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "4c1be2d5f6b45c52",
@@ -8343,8 +8353,13 @@
   "headline": "UK-based Farhaan Ali set to make Bangladesh debut against Malaysia",
   "topic": "bangladesh vs malaysia asean cup",
   "source": "The Daily Star, Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-25T10:12:01Z"
+  "status": "failed",
+  "at": "2026-09-25T10:12:01Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "7098d833f551d84f",
@@ -8352,8 +8367,13 @@
   "headline": "70-80 injections: Former NCP member alleges torture in custody",
   "topic": "tanvir remand torture allegations",
   "source": "bdnews24.com, Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-25T10:12:01Z"
+  "status": "failed",
+  "at": "2026-09-25T10:12:01Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "832ed5f823bfc2d1",
@@ -8361,7 +8381,12 @@
   "headline": "70-80 injections: Former NCP member alleges torture in custody",
   "topic": "tanvir remand torture allegations",
   "source": "bdnews24.com, Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-25T10:12:01Z"
+  "status": "failed",
+  "at": "2026-09-25T10:12:01Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
