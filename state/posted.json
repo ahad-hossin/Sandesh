@@ -1,33 +1,5 @@
 [
  {
-  "title_hash": "bb5b4cd28fd01ca9",
-  "url": "https://www.thedailystar.net/news/crime-justice/news/seven-day-remand-sought-mp-gazi-nazrul-first-wife-over-second-wifes-death-4278771",
-  "headline": "EC awaits Speaker's letter on MP Gazi Nazrul's parliamentary status",
-  "topic": "mp gazi nazrul remanded over second wife's death",
-  "source": "Dhaka Tribune, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-21T11:09:17Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "ad64b11cf391be3e",
-  "url": "https://www.dhakatribune.com/bangladesh/court/420308/police-seek-7-day-remand-for-mp-gazi-nazrul-first",
-  "headline": "EC awaits Speaker's letter on MP Gazi Nazrul's parliamentary status",
-  "topic": "mp gazi nazrul remanded over second wife's death",
-  "source": "Dhaka Tribune, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-21T11:09:17Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "c239f819b98bb0a5",
   "url": "https://www.dhakatribune.com/bangladesh/420300/gazi-nazrul-2-others-arrested-over-second-wife%E2%80%99s",
   "headline": "EC awaits Speaker's letter on MP Gazi Nazrul's parliamentary status",
@@ -8388,5 +8360,23 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "7077117e30c7a55a",
+  "url": "https://www.thedailystar.net/business/economy/news/arrest-warrant-issued-against-morshed-khan-4282286",
+  "headline": "Tk 68.76cr loan case: Arrest warrant issued against M Morshed Khan",
+  "topic": "arrest warrant morshed khan",
+  "source": "The Daily Star",
+  "status": "queued",
+  "at": "2026-09-25T06:08:27Z"
+ },
+ {
+  "title_hash": "af3db14d516a97a0",
+  "url": "https://www.thedailystar.net/business/organisation-news/news/banglalink-gets-nod-limited-starlink-service-4282221",
+  "headline": "Banglalink gets nod for limited Starlink service, first in South Asia",
+  "topic": "banglalink starlink approval",
+  "source": "The Daily Star",
+  "status": "queued",
+  "at": "2026-09-25T06:08:27Z"
  }
 ]
