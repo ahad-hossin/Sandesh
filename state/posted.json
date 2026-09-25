@@ -8367,8 +8367,13 @@
   "headline": "Electricity worker killed as ethnic violence erupts in Manipur",
   "topic": "Manipur ethnic violence: houses torched, power worker killed",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-25T05:08:32Z"
+  "status": "failed",
+  "at": "2026-09-25T05:08:32Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "edd36f7e2e7d5928",
@@ -8376,7 +8381,12 @@
   "headline": "Actor Susan Sarandon arrested at anti-Netanyahu protest in New York",
   "topic": "Susan Sarandon arrested at anti-Netanyahu protest",
   "source": "bdnews24.com",
-  "status": "queued",
-  "at": "2026-09-25T05:08:32Z"
+  "status": "failed",
+  "at": "2026-09-25T05:08:32Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
