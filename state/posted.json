@@ -1,47 +1,5 @@
 [
  {
-  "title_hash": "da83ce13aca29696",
-  "url": "https://www.thedailystar.net/sports/cricket/news/womens-ncl-expands-bring-balance-4279106",
-  "headline": "Over 160 players to feature in Women's National Cricket League expansion",
-  "topic": "womens ncl expands to bring balance",
-  "source": "The Daily Star",
-  "status": "failed",
-  "at": "2026-09-21T17:09:13Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "af9cba8a6ad363d4",
-  "url": "https://www.dhakatribune.com/bangladesh/420364/imf-36%25-of-educated-youth-in-bangladesh",
-  "headline": "36% of educated youth in Bangladesh unemployed, says IMF",
-  "topic": "imf: 36% of educated youth in bangladesh unemployed",
-  "source": "Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-09-21T17:09:13Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "330fa841553d5882",
-  "url": "https://www.dhakatribune.com/bangladesh/nation/420371/iphone-tk5-000-debt-older-friends-and-tiktok",
-  "headline": "iPhone, debt, and TikTok lure: Apratim murdered over Tk5,000 debt",
-  "topic": "student protest apratim murder justice",
-  "source": "Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-09-21T18:11:29Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "0dbe58681b54cfdb",
   "url": "https://www.dhakatribune.com/bangladesh/campus1/420365/student-alliance-holds-torch-procession-at-du",
   "headline": "iPhone, debt, and TikTok lure: Apratim murdered over Tk5,000 debt",
@@ -8388,5 +8346,32 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "aea9c1d78b610b75",
+  "url": "https://www.prothomalo.com/sports/football/2snd3ylrkx",
+  "headline": "Manchester City found guilty on 114 financial charges; faces potential title stripping, relegation",
+  "topic": "man city financial charges",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-26T03:06:43Z"
+ },
+ {
+  "title_hash": "3a986cf2d049f8fb",
+  "url": "https://www.thedailystar.net/news/governance/news/pm-holds-30-official-engagements-during-four-day-new-york-visit-mahdi-amin-4283171",
+  "headline": "PM Tarique Rahman holds 30 engagements including 11 bilateral meetings in New York UNGA visit",
+  "topic": "pm tarique new york visit",
+  "source": "Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-26T03:06:43Z"
+ },
+ {
+  "title_hash": "883f02cb2bfdd3b7",
+  "url": "https://www.prothomalo.com/bangladesh/v6x5vjhu8h",
+  "headline": "PM Tarique Rahman holds 30 engagements including 11 bilateral meetings in New York UNGA visit",
+  "topic": "pm tarique new york visit",
+  "source": "Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-26T03:06:43Z"
  }
 ]
