@@ -8353,8 +8353,13 @@
   "headline": "Prime Minister Tarique Rahman meets multiple world leaders and top officials at UN General Assembly in New York",
   "topic": "pm tarique rahman un meetings",
   "source": "bdnews24.com, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-26T01:06:57Z"
+  "status": "failed",
+  "at": "2026-09-26T01:06:57Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "4d6b467e124c03cf",
@@ -8362,8 +8367,13 @@
   "headline": "Prime Minister Tarique Rahman meets multiple world leaders and top officials at UN General Assembly in New York",
   "topic": "pm tarique rahman un meetings",
   "source": "bdnews24.com, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-26T01:06:57Z"
+  "status": "failed",
+  "at": "2026-09-26T01:06:57Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "165211e1573e0061",
@@ -8371,7 +8381,12 @@
   "headline": "10 Sunnahs from Prophet Muhammad's life offer timeless lessons for marital love and harmony",
   "topic": "prophet muhammad marital love teachings",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-26T01:06:57Z"
+  "status": "failed",
+  "at": "2026-09-26T01:06:57Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
