@@ -1,47 +1,5 @@
 [
  {
-  "title_hash": "b5bebbe35304acdb",
-  "url": "https://www.dhakatribune.com/bangladesh/nation/420355/farmers-protest-fertilizer-fuel-price-hikes-in",
-  "headline": "Fuel prices rise by Tk 20 per litre; costs of production and transport to soar",
-  "topic": "bangladesh fuel price hike",
-  "source": "Dhaka Tribune, The Daily Star, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-21T19:11:44Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "d8aa0a5be0d9239a",
-  "url": "https://www.prothomalo.com/politics/62517jn1lx",
-  "headline": "Fuel prices rise by Tk 20 per litre; costs of production and transport to soar",
-  "topic": "bangladesh fuel price hike",
-  "source": "Dhaka Tribune, The Daily Star, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-21T19:11:44Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "b747047583ad5a9a",
-  "url": "https://www.prothomalo.com/video/bangladesh/ik2kcl8qdx",
-  "headline": "Fuel prices rise by Tk 20 per litre; costs of production and transport to soar",
-  "topic": "bangladesh fuel price hike",
-  "source": "Dhaka Tribune, The Daily Star, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-21T19:11:44Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "a056aba6332fa4a0",
   "url": "https://www.dhakatribune.com/bangladesh/420311/jatri-kalyan-samity-calls-for-fuel-price-hike",
   "headline": "Fuel prices rise by Tk 20 per litre; costs of production and transport to soar",
@@ -8388,5 +8346,32 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "145ca305d20bf4b5",
+  "url": "https://www.prothomalo.com/business/industry/towlo1efvi",
+  "headline": "Gold prices drop by 1,691 BDT per bhori in Bangladesh",
+  "topic": "gold prices drop",
+  "source": "Prothom Alo, Jamuna TV",
+  "status": "queued",
+  "at": "2026-09-26T06:08:57Z"
+ },
+ {
+  "title_hash": "964edf55ae245a9f",
+  "url": "https://www.jamuna.tv/economy/664864",
+  "headline": "Gold prices drop by 1,691 BDT per bhori in Bangladesh",
+  "topic": "gold prices drop",
+  "source": "Prothom Alo, Jamuna TV",
+  "status": "queued",
+  "at": "2026-09-26T06:08:57Z"
+ },
+ {
+  "title_hash": "b5bcaed92b1c1271",
+  "url": "https://www.thedailystar.net/sports/more-sports/news/asian-games-bangladesh-beat-indonesia-second-straight-win-4283251",
+  "headline": "Asian Games: Bangladesh beat Indonesia 3-1 for second straight win",
+  "topic": "bangladesh hockey beats indonesia",
+  "source": "The Daily Star",
+  "status": "queued",
+  "at": "2026-09-26T06:08:57Z"
  }
 ]
