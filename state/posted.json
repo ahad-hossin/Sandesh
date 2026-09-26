@@ -1,47 +1,5 @@
 [
  {
-  "title_hash": "a82b40fef9a915f6",
-  "url": "https://www.dhakatribune.com/bangladesh/420315/state-minister-middle-east-crisis-forces-fuel",
-  "headline": "BPC lost Tk 22,875cr in 6 months; Govt raises fuel prices by Tk 20",
-  "topic": "fuel price hike impact",
-  "source": "The Daily Star, Dhaka Tribune, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-21T16:12:25Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "a056aba6332fa4a0",
-  "url": "https://www.dhakatribune.com/bangladesh/420311/jatri-kalyan-samity-calls-for-fuel-price-hike",
-  "headline": "BPC lost Tk 22,875cr in 6 months; Govt raises fuel prices by Tk 20",
-  "topic": "fuel price hike impact",
-  "source": "The Daily Star, Dhaka Tribune, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-21T16:12:25Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "b10b49f127c2c5f8",
-  "url": "https://www.thedailystar.net/business/news/private-icds-raise-six-charges-985-after-fuel-price-hike-4278876",
-  "headline": "BPC lost Tk 22,875cr in 6 months; Govt raises fuel prices by Tk 20",
-  "topic": "fuel price hike impact",
-  "source": "The Daily Star, Dhaka Tribune, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-21T16:12:25Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "fd6d9ddc10aa2328",
   "url": "https://www.prothomalo.com/bangladesh/fa3vk6m2vm",
   "headline": "BPC lost Tk 22,875cr in 6 months; Govt raises fuel prices by Tk 20",
@@ -8388,5 +8346,32 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "8368e146888ebbe1",
+  "url": "https://bdnews24.com/bangladesh/hqwlkac3i5",
+  "headline": "Prime Minister Tarique Rahman meets multiple world leaders and top officials at UN General Assembly in New York",
+  "topic": "pm tarique rahman un meetings",
+  "source": "bdnews24.com, Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-26T01:06:57Z"
+ },
+ {
+  "title_hash": "4d6b467e124c03cf",
+  "url": "https://www.prothomalo.com/bangladesh/8k69uzr1wf",
+  "headline": "Prime Minister Tarique Rahman meets multiple world leaders and top officials at UN General Assembly in New York",
+  "topic": "pm tarique rahman un meetings",
+  "source": "bdnews24.com, Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-26T01:06:57Z"
+ },
+ {
+  "title_hash": "165211e1573e0061",
+  "url": "https://www.prothomalo.com/religion/islam/p71udb2xt0",
+  "headline": "10 Sunnahs from Prophet Muhammad's life offer timeless lessons for marital love and harmony",
+  "topic": "prophet muhammad marital love teachings",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-26T01:06:57Z"
  }
 ]
