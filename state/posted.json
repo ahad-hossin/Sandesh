@@ -1,75 +1,5 @@
 [
  {
-  "title_hash": "23ca2eb59e82d8d1",
-  "url": "https://www.dhakatribune.com/bangladesh/parliament/420336/ec-awaits-parliament-secretariat-letter-on-gazi",
-  "headline": "MP Gazi Nazrul remanded for 4 days over second wife Mariam's alleged abetment of suicide",
-  "topic": "MP Nazrul Mariyam death",
-  "source": "Dhaka Tribune, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-22T00:07:13Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "975339a4f8c7d716",
-  "url": "https://www.thedailystar.net/news/crime-justice/news/mariams-death-gazi-nazrul-now-remand-over-abetment-4279431",
-  "headline": "MP Gazi Nazrul remanded for 4 days over second wife Mariam's alleged abetment of suicide",
-  "topic": "MP Nazrul Mariyam death",
-  "source": "Dhaka Tribune, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-22T00:07:13Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "aec1990b1ddf3710",
-  "url": "https://www.dhakatribune.com/bangladesh/power-energy/420367/fuel-prices-rise-up-to-nearly-36%25-between-january",
-  "headline": "Govt to bear Tk 70/litre loss on diesel despite recent price hike: Rizvi",
-  "topic": "national fuel price hike impact",
-  "source": "Dhaka Tribune, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-22T01:07:54Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "a639c24d29e3c342",
-  "url": "https://www.dhakatribune.com/bangladesh/nation/420357/fuel-price-hike-disrupts-public-transport-in",
-  "headline": "Govt to bear Tk 70/litre loss on diesel despite recent price hike: Rizvi",
-  "topic": "national fuel price hike impact",
-  "source": "Dhaka Tribune, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-22T01:07:54Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "b5bebbe35304acdb",
-  "url": "https://www.dhakatribune.com/bangladesh/nation/420355/farmers-protest-fertilizer-fuel-price-hikes-in",
-  "headline": "Govt to bear Tk 70/litre loss on diesel despite recent price hike: Rizvi",
-  "topic": "national fuel price hike impact",
-  "source": "Dhaka Tribune, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-22T01:07:54Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "6cf243787d12c8a9",
   "url": "https://www.thedailystar.net/news/power-and-energy/news/govt-bear-tk-70-loss-litre-diesel-even-after-hike-rizvi-4279196",
   "headline": "Govt to bear Tk 70/litre loss on diesel despite recent price hike: Rizvi",
@@ -8388,5 +8318,50 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "313dd656a9091436",
+  "url": "https://www.dhakatribune.com/bangladesh/420743/fire-breaks-out-at-high-rise-building-in-capital%E2%80%99s",
+  "headline": "Fire erupts in Banani high-rise, flames spotted on 23rd floor",
+  "topic": "banani high-rise fire",
+  "source": "Dhaka Tribune, bdnews24.com",
+  "status": "queued",
+  "at": "2026-09-26T13:10:43Z"
+ },
+ {
+  "title_hash": "67ae32f072769638",
+  "url": "https://bdnews24.com/bangladesh/lqddyd23wo",
+  "headline": "Fire erupts in Banani high-rise, flames spotted on 23rd floor",
+  "topic": "banani high-rise fire",
+  "source": "Dhaka Tribune, bdnews24.com",
+  "status": "queued",
+  "at": "2026-09-26T13:10:43Z"
+ },
+ {
+  "title_hash": "0cdfdaa98342dd10",
+  "url": "https://www.thedailystar.net/sports/cricket/news/virat-kohli-says-2027-world-cup-will-be-his-last-india-4283401",
+  "headline": "Virat Kohli says 2027 World Cup will be his last for India",
+  "topic": "virat kohli 2027 world cup retirement",
+  "source": "The Daily Star, bdnews24.com, Jamuna TV",
+  "status": "queued",
+  "at": "2026-09-26T13:10:43Z"
+ },
+ {
+  "title_hash": "d71096abaea2ac6f",
+  "url": "https://bdnews24.com/cricket/lypvp378u5",
+  "headline": "Virat Kohli says 2027 World Cup will be his last for India",
+  "topic": "virat kohli 2027 world cup retirement",
+  "source": "The Daily Star, bdnews24.com, Jamuna TV",
+  "status": "queued",
+  "at": "2026-09-26T13:10:43Z"
+ },
+ {
+  "title_hash": "dcd8dd30e14d994c",
+  "url": "https://www.jamuna.tv/sports/664890",
+  "headline": "Virat Kohli says 2027 World Cup will be his last for India",
+  "topic": "virat kohli 2027 world cup retirement",
+  "source": "The Daily Star, bdnews24.com, Jamuna TV",
+  "status": "queued",
+  "at": "2026-09-26T13:10:43Z"
  }
 ]
