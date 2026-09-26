@@ -8353,8 +8353,13 @@
   "headline": "Gold prices drop by 1,691 BDT per bhori in Bangladesh",
   "topic": "gold prices drop",
   "source": "Prothom Alo, Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-26T06:08:57Z"
+  "status": "failed",
+  "at": "2026-09-26T06:08:57Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "964edf55ae245a9f",
@@ -8362,8 +8367,13 @@
   "headline": "Gold prices drop by 1,691 BDT per bhori in Bangladesh",
   "topic": "gold prices drop",
   "source": "Prothom Alo, Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-26T06:08:57Z"
+  "status": "failed",
+  "at": "2026-09-26T06:08:57Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "b5bcaed92b1c1271",
@@ -8371,7 +8381,12 @@
   "headline": "Asian Games: Bangladesh beat Indonesia 3-1 for second straight win",
   "topic": "bangladesh hockey beats indonesia",
   "source": "The Daily Star",
-  "status": "queued",
-  "at": "2026-09-26T06:08:57Z"
+  "status": "failed",
+  "at": "2026-09-26T06:08:57Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
