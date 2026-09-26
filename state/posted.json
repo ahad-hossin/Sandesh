@@ -8353,8 +8353,13 @@
   "headline": "Manchester City found guilty on 114 financial charges; faces potential title stripping, relegation",
   "topic": "man city financial charges",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-26T03:06:43Z"
+  "status": "failed",
+  "at": "2026-09-26T03:06:43Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "3a986cf2d049f8fb",
@@ -8362,8 +8367,13 @@
   "headline": "PM Tarique Rahman holds 30 engagements including 11 bilateral meetings in New York UNGA visit",
   "topic": "pm tarique new york visit",
   "source": "Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-26T03:06:43Z"
+  "status": "failed",
+  "at": "2026-09-26T03:06:43Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "883f02cb2bfdd3b7",
@@ -8371,7 +8381,12 @@
   "headline": "PM Tarique Rahman holds 30 engagements including 11 bilateral meetings in New York UNGA visit",
   "topic": "pm tarique new york visit",
   "source": "Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-26T03:06:43Z"
+  "status": "failed",
+  "at": "2026-09-26T03:06:43Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
