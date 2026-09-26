@@ -8325,8 +8325,13 @@
   "headline": "Fire erupts in Banani high-rise, flames spotted on 23rd floor",
   "topic": "banani high-rise fire",
   "source": "Dhaka Tribune, bdnews24.com",
-  "status": "queued",
-  "at": "2026-09-26T13:10:43Z"
+  "status": "failed",
+  "at": "2026-09-26T13:10:43Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "67ae32f072769638",
@@ -8334,8 +8339,13 @@
   "headline": "Fire erupts in Banani high-rise, flames spotted on 23rd floor",
   "topic": "banani high-rise fire",
   "source": "Dhaka Tribune, bdnews24.com",
-  "status": "queued",
-  "at": "2026-09-26T13:10:43Z"
+  "status": "failed",
+  "at": "2026-09-26T13:10:43Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "0cdfdaa98342dd10",
@@ -8343,8 +8353,13 @@
   "headline": "Virat Kohli says 2027 World Cup will be his last for India",
   "topic": "virat kohli 2027 world cup retirement",
   "source": "The Daily Star, bdnews24.com, Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-26T13:10:43Z"
+  "status": "failed",
+  "at": "2026-09-26T13:10:43Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "d71096abaea2ac6f",
@@ -8352,8 +8367,13 @@
   "headline": "Virat Kohli says 2027 World Cup will be his last for India",
   "topic": "virat kohli 2027 world cup retirement",
   "source": "The Daily Star, bdnews24.com, Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-26T13:10:43Z"
+  "status": "failed",
+  "at": "2026-09-26T13:10:43Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "dcd8dd30e14d994c",
@@ -8361,7 +8381,12 @@
   "headline": "Virat Kohli says 2027 World Cup will be his last for India",
   "topic": "virat kohli 2027 world cup retirement",
   "source": "The Daily Star, bdnews24.com, Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-26T13:10:43Z"
+  "status": "failed",
+  "at": "2026-09-26T13:10:43Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
