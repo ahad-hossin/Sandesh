@@ -1,33 +1,5 @@
 [
  {
-  "title_hash": "98484b216d677607",
-  "url": "https://www.prothomalo.com/bangladesh/iea1nbl7fj",
-  "headline": "Bangladesh and Pakistan premiers discuss bilateral ties at UN",
-  "topic": "bangladesh pakistan pm meeting",
-  "source": "Dhaka Tribune, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-24T21:08:38Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "50c74b8a4be37a47",
-  "url": "https://www.dhakatribune.com/bangladesh/foreign-affairs/420623/bangladesh-pakistan-premiers-discuss-bilateral",
-  "headline": "PM Tarique Rahman and Shehbaz Sharif discuss bilateral ties at UNGA",
-  "topic": "Bangladesh Pakistan PM bilateral talks",
-  "source": "Dhaka Tribune, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-24T22:14:11Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "8ac8db49e482f3db",
   "url": "https://www.thedailystar.net/news/bangladesh/diplomacy/news/tarique-shehbaz-discuss-bilateral-ties-global-issues-4282561",
   "headline": "PM Tarique Rahman and Shehbaz Sharif discuss bilateral ties at UNGA",
@@ -8398,5 +8370,23 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "435ed17f067fa451",
+  "url": "https://www.dhakatribune.com/bangladesh/crime/420831/gunfire-looting-vandalism-in-midnight-dhaka",
+  "headline": "Midnight chaos: Gunfire, looting, and vandalism hit Dhaka",
+  "topic": "dhaka midnight rampage gunfire looting",
+  "source": "Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-09-27T22:05:38Z"
+ },
+ {
+  "title_hash": "336eed1f588f3193",
+  "url": "https://www.prothomalo.com/bangladesh/district/ga9pi515l5",
+  "headline": "Clash over drug trade control in two groups fight in Chittagong",
+  "topic": "chittagong drug trade clash gunfire",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-27T22:05:38Z"
  }
 ]
