@@ -1,33 +1,5 @@
 [
  {
-  "title_hash": "50c74b8a4be37a47",
-  "url": "https://www.dhakatribune.com/bangladesh/foreign-affairs/420623/bangladesh-pakistan-premiers-discuss-bilateral",
-  "headline": "Bangladesh and Pakistan premiers discuss bilateral ties at UN",
-  "topic": "bangladesh pakistan pm meeting",
-  "source": "Dhaka Tribune, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-24T21:08:38Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "c3c6c8446694971f",
-  "url": "https://www.jamuna.tv/national/664792",
-  "headline": "Bangladesh and Pakistan premiers discuss bilateral ties at UN",
-  "topic": "bangladesh pakistan pm meeting",
-  "source": "Dhaka Tribune, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-24T21:08:38Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "98484b216d677607",
   "url": "https://www.prothomalo.com/bangladesh/iea1nbl7fj",
   "headline": "Bangladesh and Pakistan premiers discuss bilateral ties at UN",
@@ -8398,5 +8370,23 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "435ed17f067fa451",
+  "url": "https://www.dhakatribune.com/bangladesh/crime/420831/gunfire-looting-vandalism-in-midnight-dhaka",
+  "headline": "Midnight chaos: Gunfire, looting, and vandalism in Dhaka rampage",
+  "topic": "dhaka rampage gunfire looting",
+  "source": "Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-09-27T21:09:39Z"
+ },
+ {
+  "title_hash": "e396ce2c85f9e0a3",
+  "url": "https://www.thedailystar.net/news/accidents-and-fires/news/10-year-old-girl-killed-ctg-truck-hits-bike-4284721",
+  "headline": "10-year-old girl killed in Ctg as truck hits bike",
+  "topic": "truck hits bike kills girl",
+  "source": "The Daily Star",
+  "status": "queued",
+  "at": "2026-09-27T21:09:39Z"
  }
 ]
