@@ -1,61 +1,5 @@
 [
  {
-  "title_hash": "e23910c3c362cce6",
-  "url": "https://bdnews24.com/bangladesh/7bbfy876rn",
-  "headline": "PM Tarique Rahman unveils 5-point plan to end Rohingya displacement at UN",
-  "topic": "pm tarique rohingya 5-point plan",
-  "source": "Jamuna TV, bdnews24.com, Dhaka Tribune, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-23T21:09:48Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "411d7af6a4a87001",
-  "url": "https://www.jamuna.tv/national/664724",
-  "headline": "PM Tarique Rahman unveils 5-point plan to end Rohingya displacement at UN",
-  "topic": "pm tarique rohingya 5-point plan",
-  "source": "Jamuna TV, bdnews24.com, Dhaka Tribune, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-23T21:09:48Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "b630422f5bf65d58",
-  "url": "https://www.jamuna.tv/national/664723",
-  "headline": "PM Tarique Rahman unveils 5-point plan to end Rohingya displacement at UN",
-  "topic": "pm tarique rohingya 5-point plan",
-  "source": "Jamuna TV, bdnews24.com, Dhaka Tribune, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-23T21:09:48Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "a265ad7059db78f1",
-  "url": "https://www.dhakatribune.com/bangladesh/420542/pm-tarique-joins-high-level-un-meeting-on-rohingya",
-  "headline": "PM Tarique Rahman unveils 5-point plan to end Rohingya displacement at UN",
-  "topic": "pm tarique rohingya 5-point plan",
-  "source": "Jamuna TV, bdnews24.com, Dhaka Tribune, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-23T21:09:48Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "842113d5900407e5",
   "url": "https://www.dhakatribune.com/bangladesh/foreign-affairs/420543/pm-seeks-clear-credible-roadmap-from-int-l",
   "headline": "PM Tarique Rahman unveils 5-point plan to end Rohingya displacement at UN",
@@ -8398,5 +8342,41 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "4c4b3042713bc83f",
+  "url": "https://bdnews24.com/media-en/image/rauf6xsmu7",
+  "headline": "Vandalism at Salman Muqtadir's studio and health center",
+  "topic": "attack on salman muqtadir's studio",
+  "source": "Prothom Alo, bdnews24.com",
+  "status": "queued",
+  "at": "2026-09-27T11:09:55Z"
+ },
+ {
+  "title_hash": "bfccb075092aa72b",
+  "url": "https://www.prothomalo.com/politics/7jam53vw9u",
+  "headline": "Vandalism at Salman Muqtadir's studio and health center",
+  "topic": "attack on salman muqtadir's studio",
+  "source": "Prothom Alo, bdnews24.com",
+  "status": "queued",
+  "at": "2026-09-27T11:09:55Z"
+ },
+ {
+  "title_hash": "5a3cb876d7bf76fb",
+  "url": "https://www.thedailystar.net/culture/entertainment/news/roid-selected-represent-bangladesh-oscars-4284131",
+  "headline": "Film ‘Roid’ selected to represent Bangladesh at Oscars",
+  "topic": "roid selected for oscars",
+  "source": "The Daily Star, Jamuna TV",
+  "status": "queued",
+  "at": "2026-09-27T11:09:55Z"
+ },
+ {
+  "title_hash": "83ab741bba3f43ac",
+  "url": "https://www.jamuna.tv/entertainment/664971",
+  "headline": "Film ‘Roid’ selected to represent Bangladesh at Oscars",
+  "topic": "roid selected for oscars",
+  "source": "The Daily Star, Jamuna TV",
+  "status": "queued",
+  "at": "2026-09-27T11:09:55Z"
  }
 ]
