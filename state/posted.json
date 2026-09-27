@@ -1,47 +1,5 @@
 [
  {
-  "title_hash": "236423c044de21f9",
-  "url": "https://www.thedailystar.net/news/bangladesh/news/diesel-price-hike-launch-truck-fares-raised-govt-nod-4280646",
-  "headline": "Fuel price hike: Launch and truck fares raised before govt nod",
-  "topic": "diesel price hike impact",
-  "source": "The Daily Star",
-  "status": "failed",
-  "at": "2026-09-22T22:09:18Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "ce818feee9d31c87",
-  "url": "https://www.thedailystar.net/news/bangladesh/news/diesel-price-hike-farmers-dealt-another-blow-4280651",
-  "headline": "Fuel price hike: Launch and truck fares raised before govt nod",
-  "topic": "diesel price hike impact",
-  "source": "The Daily Star",
-  "status": "failed",
-  "at": "2026-09-22T22:09:18Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "ce6efdfc0729df0c",
-  "url": "https://www.thedailystar.net/news/politics/news/govt-had-no-better-alternative-fuel-price-hike-4280606",
-  "headline": "Fuel price hike: Launch and truck fares raised before govt nod",
-  "topic": "diesel price hike impact",
-  "source": "The Daily Star",
-  "status": "failed",
-  "at": "2026-09-22T22:09:18Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "940fab133a2341b6",
   "url": "https://www.thedailystar.net/business/economy/news/fuel-price-hike-push-inflation-weaken-consumption-4280461",
   "headline": "Fuel price hike: Launch and truck fares raised before govt nod",
@@ -8388,5 +8346,32 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "20854e7e742f1420",
+  "url": "https://www.jamuna.tv/all-bangladesh/664922",
+  "headline": "Looted police station weapons found buried under bedroom floor in Kushtia",
+  "topic": "kushtia police loot weapons found",
+  "source": "Jamuna TV",
+  "status": "queued",
+  "at": "2026-09-27T01:07:21Z"
+ },
+ {
+  "title_hash": "c6ed2a42634944c9",
+  "url": "https://www.thedailystar.net/news/bangladesh/news/cyber-law-draft-changes-could-enable-dsa-abuses-4283846",
+  "headline": "Proposed Cyber Security Act could enable DSA-like abuses, experts warn",
+  "topic": "cyber security act amendments",
+  "source": "Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-27T01:07:21Z"
+ },
+ {
+  "title_hash": "200eaa4097f0f458",
+  "url": "https://www.prothomalo.com/bangladesh/capital/3zinv49033",
+  "headline": "Proposed Cyber Security Act could enable DSA-like abuses, experts warn",
+  "topic": "cyber security act amendments",
+  "source": "Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-27T01:07:21Z"
  }
 ]
