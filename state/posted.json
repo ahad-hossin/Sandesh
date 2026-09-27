@@ -8311,8 +8311,13 @@
   "headline": "73% of dengue deaths in Chattogram this year happened in September amid surge",
   "topic": "Chittagong dengue deaths rise",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-27T03:07:00Z"
+  "status": "failed",
+  "at": "2026-09-27T03:07:00Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "e5cd4ecfd7c3f694",
@@ -8320,8 +8325,13 @@
   "headline": "Mirpur clinic razed by armed mob, Tk 1.09 crore looted, services disrupted",
   "topic": "Mirpur Radda clinic demolished",
   "source": "Dhaka Tribune, Prothom Alo, Jamuna TV, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-27T03:07:00Z"
+  "status": "failed",
+  "at": "2026-09-27T03:07:00Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "ffeb9f198c885479",
@@ -8329,8 +8339,13 @@
   "headline": "Mirpur clinic razed by armed mob, Tk 1.09 crore looted, services disrupted",
   "topic": "Mirpur Radda clinic demolished",
   "source": "Dhaka Tribune, Prothom Alo, Jamuna TV, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-27T03:07:00Z"
+  "status": "failed",
+  "at": "2026-09-27T03:07:00Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "9e59935c7a93b44c",
@@ -8338,8 +8353,13 @@
   "headline": "Mirpur clinic razed by armed mob, Tk 1.09 crore looted, services disrupted",
   "topic": "Mirpur Radda clinic demolished",
   "source": "Dhaka Tribune, Prothom Alo, Jamuna TV, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-27T03:07:00Z"
+  "status": "failed",
+  "at": "2026-09-27T03:07:00Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "556cfb8dd7d19710",
@@ -8347,8 +8367,13 @@
   "headline": "Mirpur clinic razed by armed mob, Tk 1.09 crore looted, services disrupted",
   "topic": "Mirpur Radda clinic demolished",
   "source": "Dhaka Tribune, Prothom Alo, Jamuna TV, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-27T03:07:00Z"
+  "status": "failed",
+  "at": "2026-09-27T03:07:00Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "89e79d5bc7591794",
@@ -8356,7 +8381,12 @@
   "headline": "Mirpur clinic razed by armed mob, Tk 1.09 crore looted, services disrupted",
   "topic": "Mirpur Radda clinic demolished",
   "source": "Dhaka Tribune, Prothom Alo, Jamuna TV, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-27T03:07:00Z"
+  "status": "failed",
+  "at": "2026-09-27T03:07:00Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
