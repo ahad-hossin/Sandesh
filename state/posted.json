@@ -8349,8 +8349,13 @@
   "headline": "Vandalism at Salman Muqtadir's studio and health center",
   "topic": "attack on salman muqtadir's studio",
   "source": "Prothom Alo, bdnews24.com",
-  "status": "queued",
-  "at": "2026-09-27T11:09:55Z"
+  "status": "failed",
+  "at": "2026-09-27T11:09:55Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "bfccb075092aa72b",
@@ -8358,8 +8363,13 @@
   "headline": "Vandalism at Salman Muqtadir's studio and health center",
   "topic": "attack on salman muqtadir's studio",
   "source": "Prothom Alo, bdnews24.com",
-  "status": "queued",
-  "at": "2026-09-27T11:09:55Z"
+  "status": "failed",
+  "at": "2026-09-27T11:09:55Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "5a3cb876d7bf76fb",
@@ -8367,8 +8377,13 @@
   "headline": "Film ‘Roid’ selected to represent Bangladesh at Oscars",
   "topic": "roid selected for oscars",
   "source": "The Daily Star, Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-27T11:09:55Z"
+  "status": "failed",
+  "at": "2026-09-27T11:09:55Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "83ab741bba3f43ac",
@@ -8376,7 +8391,12 @@
   "headline": "Film ‘Roid’ selected to represent Bangladesh at Oscars",
   "topic": "roid selected for oscars",
   "source": "The Daily Star, Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-27T11:09:55Z"
+  "status": "failed",
+  "at": "2026-09-27T11:09:55Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
