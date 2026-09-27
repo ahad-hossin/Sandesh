@@ -1,75 +1,5 @@
 [
  {
-  "title_hash": "f44e9bd160497cb2",
-  "url": "https://www.thedailystar.net/news/accidents-and-fires/news/child-woman-die-boat-carrying-rohingya-refugees-sinks-teknaf-4280516",
-  "headline": "Child and woman die as boat carrying Rohingya refugees sinks off Teknaf",
-  "topic": "rohingya refugee boat sinks off teknaf",
-  "source": "The Daily Star",
-  "status": "failed",
-  "at": "2026-09-22T20:10:09Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "c09bcd148d327853",
-  "url": "https://bdnews24.com/bangladesh/q5obql6po9",
-  "headline": "Bay of Bengal: Deep depression forms, ports on alert",
-  "topic": "deep depression forms in bay of bengal",
-  "source": "bdnews24.com",
-  "status": "failed",
-  "at": "2026-09-22T20:10:09Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "c09bcd148d327853",
-  "url": "https://bdnews24.com/bangladesh/q5obql6po9",
-  "headline": "Deep depression forms in Bay, ports on alert",
-  "topic": "deep depression forms in bay, ports on alert",
-  "source": "bdnews24.com",
-  "status": "failed",
-  "at": "2026-09-22T21:11:19Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "f1fe8986a193929c",
-  "url": "https://bdnews24.com/bangladesh/k9zet8ofsd",
-  "headline": "Over 15,000kg of smuggled fertiliser bound for Myanmar seized",
-  "topic": "smuggled bangladeshi fertiliser feeding myanmar conflict",
-  "source": "bdnews24.com",
-  "status": "failed",
-  "at": "2026-09-22T21:11:19Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "c09bcd148d327853",
-  "url": "https://bdnews24.com/bangladesh/q5obql6po9",
-  "headline": "Deep depression forms in Bay, ports on alert",
-  "topic": "deep depression bay of bengal",
-  "source": "bdnews24.com",
-  "status": "failed",
-  "at": "2026-09-22T22:09:18Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "236423c044de21f9",
   "url": "https://www.thedailystar.net/news/bangladesh/news/diesel-price-hike-launch-truck-fares-raised-govt-nod-4280646",
   "headline": "Fuel price hike: Launch and truck fares raised before govt nod",
@@ -8388,5 +8318,50 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "c6ed2a42634944c9",
+  "url": "https://www.thedailystar.net/news/bangladesh/news/cyber-law-draft-changes-could-enable-dsa-abuses-4283846",
+  "headline": "Cyber Security Act draft feared to enable DSA-like abuses, warn journalists and activists",
+  "topic": "cyber security act amendments",
+  "source": "Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-27T00:06:48Z"
+ },
+ {
+  "title_hash": "200eaa4097f0f458",
+  "url": "https://www.prothomalo.com/bangladesh/capital/3zinv49033",
+  "headline": "Cyber Security Act draft feared to enable DSA-like abuses, warn journalists and activists",
+  "topic": "cyber security act amendments",
+  "source": "Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-27T00:06:48Z"
+ },
+ {
+  "title_hash": "174f3a379fa54b53",
+  "url": "https://www.thedailystar.net/news/bangladesh/diplomacy/news/pm-tarique-arrives-dubai-en-route-dhaka-4283821",
+  "headline": "PM Tarique Rahman arrives in Dubai after UNGA session, en route to Dhaka",
+  "topic": "pm tarique rahman returns from unga",
+  "source": "The Daily Star, Dhaka Tribune, bdnews24.com",
+  "status": "queued",
+  "at": "2026-09-27T00:06:48Z"
+ },
+ {
+  "title_hash": "d19a425c37e6e440",
+  "url": "https://www.dhakatribune.com/bangladesh/foreign-affairs/420761/pm-arrives-in-dubai-en-route-to-dhaka-after",
+  "headline": "PM Tarique Rahman arrives in Dubai after UNGA session, en route to Dhaka",
+  "topic": "pm tarique rahman returns from unga",
+  "source": "The Daily Star, Dhaka Tribune, bdnews24.com",
+  "status": "queued",
+  "at": "2026-09-27T00:06:48Z"
+ },
+ {
+  "title_hash": "177e826ff1fd4cd6",
+  "url": "https://bdnews24.com/bangladesh/et6oldn7wf",
+  "headline": "PM Tarique Rahman arrives in Dubai after UNGA session, en route to Dhaka",
+  "topic": "pm tarique rahman returns from unga",
+  "source": "The Daily Star, Dhaka Tribune, bdnews24.com",
+  "status": "queued",
+  "at": "2026-09-27T00:06:48Z"
  }
 ]
