@@ -8321,8 +8321,13 @@
   "headline": "Top drug dealer Pichi Raja escapes prison van using bathroom break",
   "topic": "drug dealer picchi raja escapes",
   "source": "Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-27T20:08:29Z"
+  "status": "failed",
+  "at": "2026-09-27T20:08:29Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "978a50d293e7f9bc",
@@ -8330,8 +8335,13 @@
   "headline": "Top drug dealer Pichi Raja escapes prison van using bathroom break",
   "topic": "drug dealer picchi raja escapes",
   "source": "Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-27T20:08:29Z"
+  "status": "failed",
+  "at": "2026-09-27T20:08:29Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "435ed17f067fa451",
@@ -8339,8 +8349,13 @@
   "headline": "3 jailed after rampage at Dhaka property project causes Tk 29m loss",
   "topic": "new gini properties rampage",
   "source": "Dhaka Tribune, bdnews24.com, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-27T20:08:29Z"
+  "status": "failed",
+  "at": "2026-09-27T20:08:29Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "203a77137684aa25",
@@ -8348,8 +8363,13 @@
   "headline": "3 jailed after rampage at Dhaka property project causes Tk 29m loss",
   "topic": "new gini properties rampage",
   "source": "Dhaka Tribune, bdnews24.com, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-27T20:08:29Z"
+  "status": "failed",
+  "at": "2026-09-27T20:08:29Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "8f3142481f27491d",
@@ -8357,8 +8377,13 @@
   "headline": "3 jailed after rampage at Dhaka property project causes Tk 29m loss",
   "topic": "new gini properties rampage",
   "source": "Dhaka Tribune, bdnews24.com, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-27T20:08:29Z"
+  "status": "failed",
+  "at": "2026-09-27T20:08:29Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "1bb7331efb7713f3",
@@ -8366,7 +8391,12 @@
   "headline": "3 jailed after rampage at Dhaka property project causes Tk 29m loss",
   "topic": "new gini properties rampage",
   "source": "Dhaka Tribune, bdnews24.com, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-27T20:08:29Z"
+  "status": "failed",
+  "at": "2026-09-27T20:08:29Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
