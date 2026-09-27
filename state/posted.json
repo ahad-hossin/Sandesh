@@ -1,89 +1,5 @@
 [
  {
-  "title_hash": "af3db14d516a97a0",
-  "url": "https://www.thedailystar.net/business/organisation-news/news/banglalink-gets-nod-limited-starlink-service-4282221",
-  "headline": "Banglalink gets nod for Starlink service in Bangladesh",
-  "topic": "banglalink starlink approval",
-  "source": "The Daily Star",
-  "status": "failed",
-  "at": "2026-09-24T19:09:42Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "57424d20d56509e6",
-  "url": "https://www.thedailystar.net/slow-reads/big-picture/news/why-bangladeshs-measles-outbreak-should-be-wake-call-4282186",
-  "headline": "Nearly 900 suspected dead in Bangladesh measles outbreak",
-  "topic": "measles outbreak as immunisation wake-up call",
-  "source": "The Daily Star",
-  "status": "failed",
-  "at": "2026-09-24T20:16:10Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "b48b41c4438e663b",
-  "url": "https://www.dhakatribune.com/bangladesh/foreign-affairs/420622/pm-takes-climate-fight-to-un-unga-debut-in-focus",
-  "headline": "PM takes climate fight to UN, UNGA debut in focus",
-  "topic": "PM addresses UNGA on climate change",
-  "source": "Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-09-24T20:16:10Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "9d74c4e21cd7beeb",
-  "url": "https://www.thedailystar.net/news/news/pm-puts-primary-healthcare-heart-healthy-bangladesh-vision-4282456",
-  "headline": "100,000 new health workers: PM Tarique Rahman outlines vision for 'healthy Bangladesh'",
-  "topic": "pm primary healthcare vision",
-  "source": "Prothom Alo, Jamuna TV, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-24T21:08:38Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "7fc0cce159d7d9d2",
-  "url": "https://www.prothomalo.com/bangladesh/tz4dplgsb6",
-  "headline": "100,000 new health workers: PM Tarique Rahman outlines vision for 'healthy Bangladesh'",
-  "topic": "pm primary healthcare vision",
-  "source": "Prothom Alo, Jamuna TV, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-24T21:08:38Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "7fc0cce159d7d9d2",
-  "url": "https://www.jamuna.tv/national/664796",
-  "headline": "100,000 new health workers: PM Tarique Rahman outlines vision for 'healthy Bangladesh'",
-  "topic": "pm primary healthcare vision",
-  "source": "Prothom Alo, Jamuna TV, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-24T21:08:38Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "50c74b8a4be37a47",
   "url": "https://www.dhakatribune.com/bangladesh/foreign-affairs/420623/bangladesh-pakistan-premiers-discuss-bilateral",
   "headline": "Bangladesh and Pakistan premiers discuss bilateral ties at UN",
@@ -8398,5 +8314,59 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "171d9411615687ab",
+  "url": "https://www.jamuna.tv/all-bangladesh/664994",
+  "headline": "Top drug dealer Pichi Raja escapes prison van using bathroom break",
+  "topic": "drug dealer picchi raja escapes",
+  "source": "Jamuna TV, Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-27T20:08:29Z"
+ },
+ {
+  "title_hash": "978a50d293e7f9bc",
+  "url": "https://www.prothomalo.com/bangladesh/district/eywu3m2wwg",
+  "headline": "Top drug dealer Pichi Raja escapes prison van using bathroom break",
+  "topic": "drug dealer picchi raja escapes",
+  "source": "Jamuna TV, Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-27T20:08:29Z"
+ },
+ {
+  "title_hash": "435ed17f067fa451",
+  "url": "https://www.dhakatribune.com/bangladesh/crime/420831/gunfire-looting-vandalism-in-midnight-dhaka",
+  "headline": "3 jailed after rampage at Dhaka property project causes Tk 29m loss",
+  "topic": "new gini properties rampage",
+  "source": "Dhaka Tribune, bdnews24.com, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-27T20:08:29Z"
+ },
+ {
+  "title_hash": "203a77137684aa25",
+  "url": "https://bdnews24.com/bangladesh/brcnoeix43",
+  "headline": "3 jailed after rampage at Dhaka property project causes Tk 29m loss",
+  "topic": "new gini properties rampage",
+  "source": "Dhaka Tribune, bdnews24.com, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-27T20:08:29Z"
+ },
+ {
+  "title_hash": "8f3142481f27491d",
+  "url": "https://bdnews24.com/bangladesh/w5tu2jjm33",
+  "headline": "3 jailed after rampage at Dhaka property project causes Tk 29m loss",
+  "topic": "new gini properties rampage",
+  "source": "Dhaka Tribune, bdnews24.com, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-27T20:08:29Z"
+ },
+ {
+  "title_hash": "1bb7331efb7713f3",
+  "url": "https://www.thedailystar.net/news/crime-justice/news/late-night-rampage-ecb-chattar-4284741",
+  "headline": "3 jailed after rampage at Dhaka property project causes Tk 29m loss",
+  "topic": "new gini properties rampage",
+  "source": "Dhaka Tribune, bdnews24.com, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-27T20:08:29Z"
  }
 ]
