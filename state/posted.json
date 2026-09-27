@@ -1,33 +1,5 @@
 [
  {
-  "title_hash": "46fa9620598fd4cb",
-  "url": "https://www.prothomalo.com/bangladesh/district/kumillaayy-kishor-gyaanbirodhii-abhiyaane-aattk-624",
-  "headline": "624 detained in simultaneous Comilla police raids against teen gangs",
-  "topic": "cumilla-teen-gang-raids",
-  "source": "Dhaka Tribune, The Daily Star, bdnews24.com, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-24T09:13:43Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "35684e201050e38a",
-  "url": "https://www.jamuna.tv/national/664773",
-  "headline": "5,000 doctors to be recruited: BPSC issues 51st Special BCS circular",
-  "topic": "51st special bcs circular",
-  "source": "Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-24T11:11:07Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "924bf5780444edf3",
   "url": "https://www.prothomalo.com/chakri/employment/a993bcyxu0",
   "headline": "5,000 doctors to be recruited: BPSC issues 51st Special BCS circular",
@@ -8398,5 +8370,23 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "980df72dae16a905",
+  "url": "https://www.dhakatribune.com/bangladesh/court/420822/salman-muqtadir-studio-vandalism-three-accused",
+  "headline": "Studio vandalism: Three accused sent to jail in Salman Muqtadir case",
+  "topic": "salman muqtadir studio vandalism accused jailed",
+  "source": "Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-09-27T15:08:21Z"
+ },
+ {
+  "title_hash": "83a3f5bcd0b61e01",
+  "url": "https://bdnews24.com/bangladesh/5t1c23dez3",
+  "headline": "1,163 turtles seized: Man held with 1,163 turtles at Dhaka airport",
+  "topic": "man held with turtles at dhaka airport",
+  "source": "bdnews24.com",
+  "status": "queued",
+  "at": "2026-09-27T15:08:21Z"
  }
 ]
