@@ -8321,8 +8321,13 @@
   "headline": "7 arrested over raid, vandalism at New Gini Properties housing project",
   "topic": "new gini properties raid arrests",
   "source": "Jamuna TV, Prothom Alo, bdnews24.com",
-  "status": "queued",
-  "at": "2026-09-28T18:10:29Z"
+  "status": "failed",
+  "at": "2026-09-28T18:10:29Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "d300a01c27577b17",
@@ -8330,8 +8335,13 @@
   "headline": "7 arrested over raid, vandalism at New Gini Properties housing project",
   "topic": "new gini properties raid arrests",
   "source": "Jamuna TV, Prothom Alo, bdnews24.com",
-  "status": "queued",
-  "at": "2026-09-28T18:10:29Z"
+  "status": "failed",
+  "at": "2026-09-28T18:10:29Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "bc69562b34b96ac7",
@@ -8339,8 +8349,13 @@
   "headline": "7 arrested over raid, vandalism at New Gini Properties housing project",
   "topic": "new gini properties raid arrests",
   "source": "Jamuna TV, Prothom Alo, bdnews24.com",
-  "status": "queued",
-  "at": "2026-09-28T18:10:29Z"
+  "status": "failed",
+  "at": "2026-09-28T18:10:29Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "fab77479ff5f4467",
@@ -8348,8 +8363,13 @@
   "headline": "Limited healthcare resumes at vandalized Radda Health Centre in Mirpur",
   "topic": "radda health centre services resume",
   "source": "Dhaka Tribune, Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-28T18:10:29Z"
+  "status": "failed",
+  "at": "2026-09-28T18:10:29Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "79c3f2ac9299a8f1",
@@ -8357,8 +8377,13 @@
   "headline": "Limited healthcare resumes at vandalized Radda Health Centre in Mirpur",
   "topic": "radda health centre services resume",
   "source": "Dhaka Tribune, Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-28T18:10:29Z"
+  "status": "failed",
+  "at": "2026-09-28T18:10:29Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "63ef1182b23e9146",
@@ -8366,7 +8391,12 @@
   "headline": "Limited healthcare resumes at vandalized Radda Health Centre in Mirpur",
   "topic": "radda health centre services resume",
   "source": "Dhaka Tribune, Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-28T18:10:29Z"
+  "status": "failed",
+  "at": "2026-09-28T18:10:29Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
