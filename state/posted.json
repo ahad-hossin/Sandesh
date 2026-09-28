@@ -8377,8 +8377,13 @@
   "headline": "Fire on footbridge in Kakoli, Dhaka, at midnight",
   "topic": "dhaka kakoli flyover fire",
   "source": "Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-28T02:07:10Z"
+  "status": "failed",
+  "at": "2026-09-28T02:07:10Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "12d4b61bf17d4efc",
@@ -8386,7 +8391,12 @@
   "headline": "Taapsee Pannu explains why she hasn't shared wedding photos after three years of marriage",
   "topic": "tapsee pannu wedding photos",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-28T02:07:10Z"
+  "status": "failed",
+  "at": "2026-09-28T02:07:10Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
