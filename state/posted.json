@@ -1,33 +1,5 @@
 [
  {
-  "title_hash": "b48b41c4438e663b",
-  "url": "https://www.dhakatribune.com/bangladesh/foreign-affairs/420622/pm-takes-climate-fight-to-un-unga-debut-in-focus",
-  "headline": "PM Tarique Rahman calls for peaceful world order centered on UN at General Assembly",
-  "topic": "PM UNGA address 3R strategy",
-  "source": "Jamuna TV, Prothom Alo, Dhaka Tribune, bdnews24.com, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-25T00:07:24Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "9669a76fc1a780e3",
-  "url": "https://www.jamuna.tv/national/664798",
-  "headline": "PM Tarique Rahman calls for peaceful world order centered on UN at General Assembly",
-  "topic": "PM UNGA address 3R strategy",
-  "source": "Jamuna TV, Prothom Alo, Dhaka Tribune, bdnews24.com, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-25T00:07:24Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "a21beacf15384ee4",
   "url": "https://www.prothomalo.com/bangladesh/3u6gtb86wo",
   "headline": "PM Tarique Rahman calls for peaceful world order centered on UN at General Assembly",
@@ -8398,5 +8370,23 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "40359edd405b2b53",
+  "url": "https://www.jamuna.tv/national/664999",
+  "headline": "Fire on footbridge in Kakoli, Dhaka, at midnight",
+  "topic": "dhaka kakoli flyover fire",
+  "source": "Jamuna TV",
+  "status": "queued",
+  "at": "2026-09-28T02:07:10Z"
+ },
+ {
+  "title_hash": "12d4b61bf17d4efc",
+  "url": "https://www.prothomalo.com/entertainment/bollywood/yv29vgfb0u",
+  "headline": "Taapsee Pannu explains why she hasn't shared wedding photos after three years of marriage",
+  "topic": "tapsee pannu wedding photos",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-28T02:07:10Z"
  }
 ]
