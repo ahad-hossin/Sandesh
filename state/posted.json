@@ -8349,8 +8349,13 @@
   "headline": "Late strike: Michael Olise scores winner to give France win in Belgium",
   "topic": "france win over belgium",
   "source": "The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-28T23:10:37Z"
+  "status": "failed",
+  "at": "2026-09-28T23:10:37Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "5a9cb650e9832c64",
@@ -8358,8 +8363,13 @@
   "headline": "Late strike: Michael Olise scores winner to give France win in Belgium",
   "topic": "france win over belgium",
   "source": "The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-28T23:10:37Z"
+  "status": "failed",
+  "at": "2026-09-28T23:10:37Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "d8472032491e6d5f",
@@ -8367,8 +8377,13 @@
   "headline": "Trump says US officials spoke with mediators to resolve Iran crisis",
   "topic": "iran us tension mediators",
   "source": "Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-28T23:10:37Z"
+  "status": "failed",
+  "at": "2026-09-28T23:10:37Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "7e7d80933f3eebc2",
@@ -8376,7 +8391,12 @@
   "headline": "Trump says US officials spoke with mediators to resolve Iran crisis",
   "topic": "iran us tension mediators",
   "source": "Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-28T23:10:37Z"
+  "status": "failed",
+  "at": "2026-09-28T23:10:37Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
