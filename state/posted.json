@@ -1,47 +1,5 @@
 [
  {
-  "title_hash": "6a44c87357078681",
-  "url": "https://www.prothomalo.com/world/usa/ruhjtvlqdu",
-  "headline": "Dozens of envoys walk out of Netanyahu's UN speech in protest",
-  "topic": "netanyahu unga walkout",
-  "source": "The Daily Star, Prothom Alo, Jamuna TV",
-  "status": "failed",
-  "at": "2026-09-24T23:08:16Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "b4f002784b26e376",
-  "url": "https://www.jamuna.tv/international/664795",
-  "headline": "Dozens of envoys walk out of Netanyahu's UN speech in protest",
-  "topic": "netanyahu unga walkout",
-  "source": "The Daily Star, Prothom Alo, Jamuna TV",
-  "status": "failed",
-  "at": "2026-09-24T23:08:16Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "95b2ae14ff996e40",
-  "url": "https://www.thedailystar.net/news/world/middle-east/news/jeered-and-booed-netanyahu-slams-enemies-allies-alike-4282491",
-  "headline": "Dozens of envoys walk out of Netanyahu's UN speech in protest",
-  "topic": "netanyahu unga walkout",
-  "source": "The Daily Star, Prothom Alo, Jamuna TV",
-  "status": "failed",
-  "at": "2026-09-24T23:08:16Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "b3521b7cddcfac1c",
   "url": "https://www.thedailystar.net/news/news/pm-un-chief-discuss-rohingya-crisis-climate-change-4282571",
   "headline": "PM, UN chief discuss Rohingya crisis, climate change at UN General Assembly",
@@ -8398,5 +8356,32 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "0facef049563c133",
+  "url": "https://www.jamuna.tv/all-bangladesh/664988",
+  "headline": "Pregnant woman's stomach kicked in Patuakhali, newborn dies after alleged assault",
+  "topic": "pregnant woman newborn death patuakhali",
+  "source": "Jamuna TV",
+  "status": "queued",
+  "at": "2026-09-28T00:17:31Z"
+ },
+ {
+  "title_hash": "d98ac2de5b4d4c5f",
+  "url": "https://www.thedailystar.net/news/crime-justice/news/obscene-shorts-metro-rail-official-embarrassed-after-athlete-stopped-station-4284696",
+  "headline": "Athlete stopped at Dhaka metro station for 'obscene' shorts; authorities embarrassed",
+  "topic": "athlete metro dress code harassment",
+  "source": "Jamuna TV, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-28T00:17:31Z"
+ },
+ {
+  "title_hash": "bf63de26e17abaeb",
+  "url": "https://www.jamuna.tv/national/664989",
+  "headline": "Athlete stopped at Dhaka metro station for 'obscene' shorts; authorities embarrassed",
+  "topic": "athlete metro dress code harassment",
+  "source": "Jamuna TV, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-28T00:17:31Z"
  }
 ]
