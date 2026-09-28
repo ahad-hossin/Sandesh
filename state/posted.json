@@ -1,47 +1,5 @@
 [
  {
-  "title_hash": "b3521b7cddcfac1c",
-  "url": "https://www.thedailystar.net/news/news/pm-un-chief-discuss-rohingya-crisis-climate-change-4282571",
-  "headline": "PM, UN chief discuss Rohingya crisis, climate change at UN General Assembly",
-  "topic": "PM meets UN chief Rohingya climate",
-  "source": "The Daily Star, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-25T00:07:24Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "f61f8ff5dfa53b1a",
-  "url": "https://www.jamuna.tv/national/664797",
-  "headline": "PM, UN chief discuss Rohingya crisis, climate change at UN General Assembly",
-  "topic": "PM meets UN chief Rohingya climate",
-  "source": "The Daily Star, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-25T00:07:24Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "95f660d91a6db495",
-  "url": "https://www.prothomalo.com/bangladesh/3ysqbd4935",
-  "headline": "PM, UN chief discuss Rohingya crisis, climate change at UN General Assembly",
-  "topic": "PM meets UN chief Rohingya climate",
-  "source": "The Daily Star, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-25T00:07:24Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "b48b41c4438e663b",
   "url": "https://www.dhakatribune.com/bangladesh/foreign-affairs/420622/pm-takes-climate-fight-to-un-unga-debut-in-focus",
   "headline": "PM Tarique Rahman calls for peaceful world order centered on UN at General Assembly",
@@ -8398,5 +8356,32 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "ba5e5556c9192e8e",
+  "url": "https://www.jamuna.tv/sports/664997",
+  "headline": "Irish footballers refuse to shake hands with Israeli team at UEFA Nations League opener",
+  "topic": "Irish footballers refuse Israel handshake",
+  "source": "Jamuna TV, Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-28T01:07:21Z"
+ },
+ {
+  "title_hash": "e878d5229e702a90",
+  "url": "https://www.prothomalo.com/sports/football/2oel4u2ux8",
+  "headline": "Irish footballers refuse to shake hands with Israeli team at UEFA Nations League opener",
+  "topic": "Irish footballers refuse Israel handshake",
+  "source": "Jamuna TV, Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-28T01:07:21Z"
+ },
+ {
+  "title_hash": "dee42cc478c63761",
+  "url": "https://www.thedailystar.net/slow-reads/geopolitical-insights/news/can-tarique-rahmans-plan-break-the-rohingya-repatriation-deadlock-4284806",
+  "headline": "Bangladesh presents 5-point plan for Rohingya repatriation at UN, faces Myanmar's conditions",
+  "topic": "Tarique Rahman Rohingya repatriation plan",
+  "source": "The Daily Star",
+  "status": "queued",
+  "at": "2026-09-28T01:07:21Z"
  }
 ]
