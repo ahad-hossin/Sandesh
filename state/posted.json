@@ -1,47 +1,5 @@
 [
  {
-  "title_hash": "c864e1da8b2a4f3f",
-  "url": "https://www.thedailystar.net/sports/football/news/56-games-64-goals-haaland-just-wont-stop-4282616",
-  "headline": "64 goals in 56 games: Haaland leads Norway to victory over Denmark",
-  "topic": "Haaland scores brace in Norway win",
-  "source": "Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-25T07:11:24Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "e9224d1ef72b6505",
-  "url": "https://www.prothomalo.com/sports/football/3m0v33y4tn",
-  "headline": "64 goals in 56 games: Haaland leads Norway to victory over Denmark",
-  "topic": "Haaland scores brace in Norway win",
-  "source": "Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-25T07:11:24Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "35c5e96f6ff083eb",
-  "url": "https://www.thedailystar.net/news/bangladesh/news/local-polls-likely-january-4282401",
-  "headline": "Local government polls likely in January",
-  "topic": "Local polls likely in January",
-  "source": "The Daily Star",
-  "status": "failed",
-  "at": "2026-09-25T07:11:24Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "6369e311c22b4106",
   "url": "https://www.prothomalo.com/bangladesh/district/txeum1fk5f",
   "headline": "Police constable and wife arrested for cutting off child's finger in Natore",
@@ -8398,5 +8356,32 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "d06f75e7fde0be58",
+  "url": "https://www.dhakatribune.com/bangladesh/420878/lpg-cylinders-sell-tk300-500-above-govt-fixed",
+  "headline": "Price hike: LPG cylinders sell Tk300-500 above govt fixed price",
+  "topic": "lpg cylinder price hike",
+  "source": "Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-09-28T12:07:50Z"
+ },
+ {
+  "title_hash": "e601ce22e4eefc2c",
+  "url": "https://www.prothomalo.com/bangladesh/district/1aeqesdeeb",
+  "headline": "8 police arrest 8 for celebrating Sheikh Hasina's birthday in Banshkhali",
+  "topic": "arrests for celebrating sheikh hasina birthday",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-28T12:07:50Z"
+ },
+ {
+  "title_hash": "c167df5c4350b871",
+  "url": "https://www.prothomalo.com/bangladesh/district/wresdd2u15",
+  "headline": "8 police arrest 8 for celebrating Sheikh Hasina's birthday in Banshkhali",
+  "topic": "arrests for celebrating sheikh hasina birthday",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-28T12:07:50Z"
  }
 ]
