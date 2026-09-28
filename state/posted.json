@@ -8321,8 +8321,13 @@
   "headline": "Crude bomb-like objects found at Buddhijibi Graveyard and Sher-e-Bangla Nagar",
   "topic": "bomb-like objects found at graveyard",
   "source": "Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-09-28T15:09:04Z"
+  "status": "failed",
+  "at": "2026-09-28T15:09:04Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "83af8b2432e01831",
@@ -8330,8 +8335,13 @@
   "headline": "Crude bomb-like objects found at Buddhijibi Graveyard and Sher-e-Bangla Nagar",
   "topic": "bomb-like objects found at graveyard",
   "source": "Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-09-28T15:09:04Z"
+  "status": "failed",
+  "at": "2026-09-28T15:09:04Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "0597f1492f28c43a",
@@ -8339,8 +8349,13 @@
   "headline": "Dengue claims 8 more lives, 2,036 hospitalized in 24 hours",
   "topic": "dengue deaths and hospitalizations rise",
   "source": "Dhaka Tribune, The Daily Star, bdnews24.com, Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-28T15:09:04Z"
+  "status": "failed",
+  "at": "2026-09-28T15:09:04Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "cbdf276658e3be31",
@@ -8348,8 +8363,13 @@
   "headline": "Dengue claims 8 more lives, 2,036 hospitalized in 24 hours",
   "topic": "dengue deaths and hospitalizations rise",
   "source": "Dhaka Tribune, The Daily Star, bdnews24.com, Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-28T15:09:04Z"
+  "status": "failed",
+  "at": "2026-09-28T15:09:04Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "9dcd46484b1e5ebc",
@@ -8357,8 +8377,13 @@
   "headline": "Dengue claims 8 more lives, 2,036 hospitalized in 24 hours",
   "topic": "dengue deaths and hospitalizations rise",
   "source": "Dhaka Tribune, The Daily Star, bdnews24.com, Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-28T15:09:04Z"
+  "status": "failed",
+  "at": "2026-09-28T15:09:04Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "bf5998a2066adfba",
@@ -8366,7 +8391,12 @@
   "headline": "Dengue claims 8 more lives, 2,036 hospitalized in 24 hours",
   "topic": "dengue deaths and hospitalizations rise",
   "source": "Dhaka Tribune, The Daily Star, bdnews24.com, Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-28T15:09:04Z"
+  "status": "failed",
+  "at": "2026-09-28T15:09:04Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
