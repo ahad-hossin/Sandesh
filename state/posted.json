@@ -1,61 +1,5 @@
 [
  {
-  "title_hash": "90dc09053401039d",
-  "url": "https://www.dhakatribune.com/bangladesh/foreign-affairs/420616/pm-urges-faster-global-action-as-sea-level",
-  "headline": "PM Tarique Rahman calls for peaceful world order centered on UN at General Assembly",
-  "topic": "PM UNGA address 3R strategy",
-  "source": "Jamuna TV, Prothom Alo, Dhaka Tribune, bdnews24.com, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-25T00:07:24Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "e53f93c15252627b",
-  "url": "https://www.jamuna.tv/national/664788",
-  "headline": "PM Tarique Rahman calls for peaceful world order centered on UN at General Assembly",
-  "topic": "PM UNGA address 3R strategy",
-  "source": "Jamuna TV, Prothom Alo, Dhaka Tribune, bdnews24.com, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-25T00:07:24Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "d8747689c6e8b6e0",
-  "url": "https://www.thedailystar.net/news/bangladesh/news/climate-change-tarique-unveils-5-urgent-global-actions-un-4282506",
-  "headline": "PM Tarique Rahman calls for peaceful world order centered on UN at General Assembly",
-  "topic": "PM UNGA address 3R strategy",
-  "source": "Jamuna TV, Prothom Alo, Dhaka Tribune, bdnews24.com, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-25T00:07:24Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "1c1d36a8dc29fb7b",
-  "url": "https://www.thedailystar.net/news/bangladesh/diplomacy/news/pm-tarique-outlines-3-r-strategy-rebuild-bangladesh-unga-address-4282576",
-  "headline": "PM Tarique Rahman calls for peaceful world order centered on UN at General Assembly",
-  "topic": "PM UNGA address 3R strategy",
-  "source": "Jamuna TV, Prothom Alo, Dhaka Tribune, bdnews24.com, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-25T00:07:24Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "1c1d36a8dc29fb7b",
   "url": "https://www.thedailystar.net/news/bangladesh/diplomacy/news/pm-tarique-outlines-3-r-strategy-rebuild-bangladesh-unga-address-4282576",
   "headline": "PM Tarique outlines 3-R strategy to rebuild Bangladesh in UNGA address",
@@ -8398,5 +8342,41 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "872c8bf134c3c62f",
+  "url": "https://www.thedailystar.net/sports/football/news/messis-21st-goal-vain-miami-suffer-stoppage-time-defeat-4284826",
+  "headline": "Messi scores 21st goal, but Inter Miami suffer stoppage-time defeat",
+  "topic": "messi free kick goal",
+  "source": "Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-28T04:10:07Z"
+ },
+ {
+  "title_hash": "dd7babaa6c935fb7",
+  "url": "https://www.prothomalo.com/sports/football/n3k6zfrnyr",
+  "headline": "Messi scores 21st goal, but Inter Miami suffer stoppage-time defeat",
+  "topic": "messi free kick goal",
+  "source": "Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-28T04:10:07Z"
+ },
+ {
+  "title_hash": "de4305d376d3cb11",
+  "url": "https://bdnews24.com/world/europe/z87uoervlp",
+  "headline": "5 killed as Russian drones strike Kyiv, Sumy, Kharkiv",
+  "topic": "russian drones kill kyiv",
+  "source": "bdnews24.com, Jamuna TV",
+  "status": "queued",
+  "at": "2026-09-28T04:10:07Z"
+ },
+ {
+  "title_hash": "d26be020c0de33c0",
+  "url": "https://www.jamuna.tv/international/664998",
+  "headline": "5 killed as Russian drones strike Kyiv, Sumy, Kharkiv",
+  "topic": "russian drones kill kyiv",
+  "source": "bdnews24.com, Jamuna TV",
+  "status": "queued",
+  "at": "2026-09-28T04:10:07Z"
  }
 ]
