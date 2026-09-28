@@ -8335,8 +8335,13 @@
   "headline": "Formal charges filed against ex-minister Kamal Majumder, Nikhil and 17 others for crimes against humanity",
   "topic": "ict charges kamal majumder",
   "source": "The Daily Star, Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-28T09:11:37Z"
+  "status": "failed",
+  "at": "2026-09-28T09:11:37Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "df139a19485563e4",
@@ -8344,8 +8349,13 @@
   "headline": "Formal charges filed against ex-minister Kamal Majumder, Nikhil and 17 others for crimes against humanity",
   "topic": "ict charges kamal majumder",
   "source": "The Daily Star, Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-28T09:11:37Z"
+  "status": "failed",
+  "at": "2026-09-28T09:11:37Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "8d2eb1760a789d3d",
@@ -8353,8 +8363,13 @@
   "headline": "Dooley makes four changes to starting XI for Singapore clash",
   "topic": "bangladesh vs singapore football",
   "source": "Jamuna TV, Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-28T09:11:37Z"
+  "status": "failed",
+  "at": "2026-09-28T09:11:37Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "3bcf02f76e4536e0",
@@ -8362,8 +8377,13 @@
   "headline": "Dooley makes four changes to starting XI for Singapore clash",
   "topic": "bangladesh vs singapore football",
   "source": "Jamuna TV, Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-28T09:11:37Z"
+  "status": "failed",
+  "at": "2026-09-28T09:11:37Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "2a69eb7a6cb90de6",
@@ -8371,7 +8391,12 @@
   "headline": "Dooley makes four changes to starting XI for Singapore clash",
   "topic": "bangladesh vs singapore football",
   "source": "Jamuna TV, Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-28T09:11:37Z"
+  "status": "failed",
+  "at": "2026-09-28T09:11:37Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
