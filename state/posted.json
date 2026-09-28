@@ -8335,8 +8335,13 @@
   "headline": "Chittagong Port cargo movement halts after alleged assault on union leaders",
   "topic": "chittagong port cargo movement halts over alleged assault on union leaders",
   "source": "The Daily Star, bdnews24.com",
-  "status": "queued",
-  "at": "2026-09-28T17:09:23Z"
+  "status": "failed",
+  "at": "2026-09-28T17:09:23Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "9023eb1f30684688",
@@ -8344,8 +8349,13 @@
   "headline": "Chittagong Port cargo movement halts after alleged assault on union leaders",
   "topic": "chittagong port cargo movement halts over alleged assault on union leaders",
   "source": "The Daily Star, bdnews24.com",
-  "status": "queued",
-  "at": "2026-09-28T17:09:23Z"
+  "status": "failed",
+  "at": "2026-09-28T17:09:23Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "115c5b95030c14d8",
@@ -8353,8 +8363,13 @@
   "headline": "17 crude bombs found at old trade fair ground in Dhaka, defused by SRB",
   "topic": "crude bomb-like objects found at former trade fair ground and Buddhijibi Graveyard",
   "source": "The Daily Star, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-09-28T17:09:23Z"
+  "status": "failed",
+  "at": "2026-09-28T17:09:23Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "f4fd2b4db2b4b9d8",
@@ -8362,8 +8377,13 @@
   "headline": "17 crude bombs found at old trade fair ground in Dhaka, defused by SRB",
   "topic": "crude bomb-like objects found at former trade fair ground and Buddhijibi Graveyard",
   "source": "The Daily Star, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-09-28T17:09:23Z"
+  "status": "failed",
+  "at": "2026-09-28T17:09:23Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "821d4808f6dfd37a",
@@ -8371,7 +8391,12 @@
   "headline": "17 crude bombs found at old trade fair ground in Dhaka, defused by SRB",
   "topic": "crude bomb-like objects found at former trade fair ground and Buddhijibi Graveyard",
   "source": "The Daily Star, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-09-28T17:09:23Z"
+  "status": "failed",
+  "at": "2026-09-28T17:09:23Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
