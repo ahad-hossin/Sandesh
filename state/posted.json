@@ -8335,8 +8335,13 @@
   "headline": "14 arrested over land dispute attacks in Mohammadpur and Adabor",
   "topic": "arrests in mohammadpur adabor land dispute attacks",
   "source": "bdnews24.com, The Daily Star, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-09-28T08:11:45Z"
+  "status": "failed",
+  "at": "2026-09-28T08:11:45Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "e87446ead0dfc7fe",
@@ -8344,8 +8349,13 @@
   "headline": "14 arrested over land dispute attacks in Mohammadpur and Adabor",
   "topic": "arrests in mohammadpur adabor land dispute attacks",
   "source": "bdnews24.com, The Daily Star, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-09-28T08:11:45Z"
+  "status": "failed",
+  "at": "2026-09-28T08:11:45Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "83e501e3eb22066d",
@@ -8353,8 +8363,13 @@
   "headline": "14 arrested over land dispute attacks in Mohammadpur and Adabor",
   "topic": "arrests in mohammadpur adabor land dispute attacks",
   "source": "bdnews24.com, The Daily Star, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-09-28T08:11:45Z"
+  "status": "failed",
+  "at": "2026-09-28T08:11:45Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "2f60d94b43284ef2",
@@ -8362,8 +8377,13 @@
   "headline": "Mumbai Police deny permit: Cockroach Janata Party calls for 'jail bharo' movement",
   "topic": "political protests planned over denied permits",
   "source": "Prothom Alo, Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-28T08:11:45Z"
+  "status": "failed",
+  "at": "2026-09-28T08:11:45Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "491d6a1c2440019d",
@@ -8371,7 +8391,12 @@
   "headline": "Mumbai Police deny permit: Cockroach Janata Party calls for 'jail bharo' movement",
   "topic": "political protests planned over denied permits",
   "source": "Prothom Alo, Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-28T08:11:45Z"
+  "status": "failed",
+  "at": "2026-09-28T08:11:45Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
