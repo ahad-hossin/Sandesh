@@ -1,33 +1,5 @@
 [
  {
-  "title_hash": "e7596d81fb6561ec",
-  "url": "https://www.jamuna.tv/national/664800",
-  "headline": "PM Tarique outlines 3-R strategy to rebuild Bangladesh at UNGA",
-  "topic": "pm tarique unga address 3r strategy",
-  "source": "Dhaka Tribune, The Daily Star, Jamuna TV",
-  "status": "failed",
-  "at": "2026-09-25T04:12:25Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "9669a76fc1a780e3",
-  "url": "https://www.jamuna.tv/national/664798",
-  "headline": "PM Tarique outlines 3-R strategy to rebuild Bangladesh at UNGA",
-  "topic": "pm tarique unga address 3r strategy",
-  "source": "Dhaka Tribune, The Daily Star, Jamuna TV",
-  "status": "failed",
-  "at": "2026-09-25T04:12:25Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "cfabc3bc46376877",
   "url": "https://www.prothomalo.com/business/0jl5jx6clv",
   "headline": "Fuel price hike: Vegetables and fish prices rise in Dhaka markets",
@@ -8398,5 +8370,23 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "dfc1f7fb0eff47d7",
+  "url": "https://www.dhakatribune.com/bangladesh/health/420850/measles-outbreak-death-toll-reaches-1-099-as",
+  "headline": "1,099 dead as measles outbreak death toll rises",
+  "topic": "measles outbreak death toll rises",
+  "source": "Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-09-28T10:09:14Z"
+ },
+ {
+  "title_hash": "18c1d9b3de54ef7e",
+  "url": "https://www.jamuna.tv/national/665041",
+  "headline": "1,310 newly infected as 3 more die from measles symptoms in 24 hours",
+  "topic": "measles outbreak 3 deaths in 24 hours",
+  "source": "Jamuna TV",
+  "status": "queued",
+  "at": "2026-09-28T10:09:14Z"
  }
 ]
