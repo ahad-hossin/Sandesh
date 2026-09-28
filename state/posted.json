@@ -1,75 +1,5 @@
 [
  {
-  "title_hash": "cfabc3bc46376877",
-  "url": "https://www.prothomalo.com/business/0jl5jx6clv",
-  "headline": "Fuel price hike: Vegetables and fish prices rise in Dhaka markets",
-  "topic": "vegetable fish and soybean oil price hike",
-  "source": "Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-25T04:12:25Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "c93caa43da7689c0",
-  "url": "https://www.prothomalo.com/world/india/98njz84ank",
-  "headline": "Electricity worker killed as ethnic violence erupts in Manipur",
-  "topic": "Manipur ethnic violence: houses torched, power worker killed",
-  "source": "Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-25T05:08:32Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "edd36f7e2e7d5928",
-  "url": "https://bdnews24.com/world/9h0vmqtnp6",
-  "headline": "Actor Susan Sarandon arrested at anti-Netanyahu protest in New York",
-  "topic": "Susan Sarandon arrested at anti-Netanyahu protest",
-  "source": "bdnews24.com",
-  "status": "failed",
-  "at": "2026-09-25T05:08:32Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "7077117e30c7a55a",
-  "url": "https://www.thedailystar.net/business/economy/news/arrest-warrant-issued-against-morshed-khan-4282286",
-  "headline": "Tk 68.76cr loan case: Arrest warrant issued against M Morshed Khan",
-  "topic": "arrest warrant morshed khan",
-  "source": "The Daily Star",
-  "status": "failed",
-  "at": "2026-09-25T06:08:27Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "af3db14d516a97a0",
-  "url": "https://www.thedailystar.net/business/organisation-news/news/banglalink-gets-nod-limited-starlink-service-4282221",
-  "headline": "Banglalink gets nod for limited Starlink service, first in South Asia",
-  "topic": "banglalink starlink approval",
-  "source": "The Daily Star",
-  "status": "failed",
-  "at": "2026-09-25T06:08:27Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "c864e1da8b2a4f3f",
   "url": "https://www.thedailystar.net/sports/football/news/56-games-64-goals-haaland-just-wont-stop-4282616",
   "headline": "64 goals in 56 games: Haaland leads Norway to victory over Denmark",
@@ -8398,5 +8328,50 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "1ccc25cd41bb8a7b",
+  "url": "https://www.thedailystar.net/news/politics/news/nahid-says-home-minister-has-failed-demands-resignation-4285026",
+  "headline": "NCP's Nahid Islam demands home minister's resignation over law and order",
+  "topic": "serbia president resigns amid student protests",
+  "source": "The Daily Star",
+  "status": "queued",
+  "at": "2026-09-28T11:11:17Z"
+ },
+ {
+  "title_hash": "86d402126591f31e",
+  "url": "https://www.thedailystar.net/news/world/news/serbias-president-vucic-resigns-ahead-october-parliamentary-elections-4284911",
+  "headline": "NCP's Nahid Islam demands home minister's resignation over law and order",
+  "topic": "serbia president resigns amid student protests",
+  "source": "The Daily Star",
+  "status": "queued",
+  "at": "2026-09-28T11:11:17Z"
+ },
+ {
+  "title_hash": "dfc1f7fb0eff47d7",
+  "url": "https://www.dhakatribune.com/bangladesh/health/420850/measles-outbreak-death-toll-reaches-1-099-as",
+  "headline": "1,099 dead as measles outbreak kills 3 more in 24 hours",
+  "topic": "measles outbreak death toll rises",
+  "source": "Dhaka Tribune, Jamuna TV, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-28T11:11:17Z"
+ },
+ {
+  "title_hash": "18c1d9b3de54ef7e",
+  "url": "https://www.jamuna.tv/national/665041",
+  "headline": "1,099 dead as measles outbreak kills 3 more in 24 hours",
+  "topic": "measles outbreak death toll rises",
+  "source": "Dhaka Tribune, Jamuna TV, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-28T11:11:17Z"
+ },
+ {
+  "title_hash": "1f6cd03cc9895d18",
+  "url": "https://www.thedailystar.net/health/news/measles-vaccine-still-unknown-some-pockets-sylhet-4284986",
+  "headline": "1,099 dead as measles outbreak kills 3 more in 24 hours",
+  "topic": "measles outbreak death toll rises",
+  "source": "Dhaka Tribune, Jamuna TV, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-28T11:11:17Z"
  }
 ]
