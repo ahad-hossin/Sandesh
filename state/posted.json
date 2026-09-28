@@ -8363,8 +8363,13 @@
   "headline": "Pregnant woman's stomach kicked in Patuakhali, newborn dies after alleged assault",
   "topic": "pregnant woman newborn death patuakhali",
   "source": "Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-28T00:17:31Z"
+  "status": "failed",
+  "at": "2026-09-28T00:17:31Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "d98ac2de5b4d4c5f",
@@ -8372,8 +8377,13 @@
   "headline": "Athlete stopped at Dhaka metro station for 'obscene' shorts; authorities embarrassed",
   "topic": "athlete metro dress code harassment",
   "source": "Jamuna TV, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-28T00:17:31Z"
+  "status": "failed",
+  "at": "2026-09-28T00:17:31Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "bf63de26e17abaeb",
@@ -8381,7 +8391,12 @@
   "headline": "Athlete stopped at Dhaka metro station for 'obscene' shorts; authorities embarrassed",
   "topic": "athlete metro dress code harassment",
   "source": "Jamuna TV, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-28T00:17:31Z"
+  "status": "failed",
+  "at": "2026-09-28T00:17:31Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
