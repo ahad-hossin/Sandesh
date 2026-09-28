@@ -1,61 +1,5 @@
 [
  {
-  "title_hash": "0320d6f0aec2cef3",
-  "url": "https://www.dhakatribune.com/bangladesh/420670/radda-clinic-vandalized-looted-in-alleged",
-  "headline": "Tragedy in Brahmanbaria: Six-year-old girl raped and killed",
-  "topic": "clinic vandalized and looted",
-  "source": "Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-09-25T15:09:18Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "262b445b95e6add2",
-  "url": "https://www.dhakatribune.com/bangladesh/420664/child-allegedly-raped-killed-locals-beat-suspect",
-  "headline": "Tragedy in Brahmanbaria: Six-year-old girl raped and killed",
-  "topic": "clinic vandalized and looted",
-  "source": "Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-09-25T15:09:18Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "58bdcd769db42dd9",
-  "url": "https://www.thedailystar.net/news/crime-justice/news/college-student-says-she-was-tied-tree-beaten-coxs-bazars-teknaf-4282791",
-  "headline": "College student tied to tree and beaten in Cox’s Bazar’s Teknaf",
-  "topic": "college student beaten and tied to tree",
-  "source": "The Daily Star",
-  "status": "failed",
-  "at": "2026-09-25T15:09:18Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "3aa2dec74bab7855",
-  "url": "https://www.thedailystar.net/sports/football/news/man-city-found-guilty-all-one-115-charges-reports-4282831",
-  "headline": "114 of 115 charges: Man City found guilty of financial breaches",
-  "topic": "Man City found guilty on 115 charges",
-  "source": "The Daily Star, bdnews24.com, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-25T16:08:11Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "e6860487c33d27a9",
   "url": "https://bdnews24.com/sport/531tlk77u5",
   "headline": "114 of 115 charges: Man City found guilty of financial breaches",
@@ -8398,5 +8342,41 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "001c95b4a3d271da",
+  "url": "https://www.thedailystar.net/sports/football/news/olise-wonder-strike-gives-zidanes-france-win-belgium-4285716",
+  "headline": "Late strike: Michael Olise scores winner to give France win in Belgium",
+  "topic": "france win over belgium",
+  "source": "The Daily Star, Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-28T23:10:37Z"
+ },
+ {
+  "title_hash": "5a9cb650e9832c64",
+  "url": "https://www.prothomalo.com/sports/football/uqsot69s8y",
+  "headline": "Late strike: Michael Olise scores winner to give France win in Belgium",
+  "topic": "france win over belgium",
+  "source": "The Daily Star, Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-28T23:10:37Z"
+ },
+ {
+  "title_hash": "d8472032491e6d5f",
+  "url": "https://www.jamuna.tv/international/665080",
+  "headline": "Trump says US officials spoke with mediators to resolve Iran crisis",
+  "topic": "iran us tension mediators",
+  "source": "Jamuna TV, Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-28T23:10:37Z"
+ },
+ {
+  "title_hash": "7e7d80933f3eebc2",
+  "url": "https://www.prothomalo.com/world/middle-east/8f6emj0p5t",
+  "headline": "Trump says US officials spoke with mediators to resolve Iran crisis",
+  "topic": "iran us tension mediators",
+  "source": "Jamuna TV, Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-28T23:10:37Z"
  }
 ]
