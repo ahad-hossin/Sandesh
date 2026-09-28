@@ -1,89 +1,5 @@
 [
  {
-  "title_hash": "e9224d1ef72b6505",
-  "url": "https://www.prothomalo.com/sports/football/3m0v33y4tn",
-  "headline": "Israel's Abu Farchi sent off for gun gesture during goal celebration",
-  "topic": "israeli footballer gun gesture",
-  "source": "The Daily Star, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-25T09:09:11Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "6262da7682d02a77",
-  "url": "https://www.thedailystar.net/sports/football/news/uk-based-farhaan-ali-set-make-bangladesh-debut-against-malaysia-4282711",
-  "headline": "UK-based Farhaan Ali set to make Bangladesh debut against Malaysia",
-  "topic": "bangladesh vs malaysia asean cup",
-  "source": "The Daily Star, Jamuna TV",
-  "status": "failed",
-  "at": "2026-09-25T10:12:01Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "42664465d46ad5a1",
-  "url": "https://www.jamuna.tv/sports/664825",
-  "headline": "UK-based Farhaan Ali set to make Bangladesh debut against Malaysia",
-  "topic": "bangladesh vs malaysia asean cup",
-  "source": "The Daily Star, Jamuna TV",
-  "status": "failed",
-  "at": "2026-09-25T10:12:01Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "4c1be2d5f6b45c52",
-  "url": "https://www.jamuna.tv/sports/664823",
-  "headline": "UK-based Farhaan Ali set to make Bangladesh debut against Malaysia",
-  "topic": "bangladesh vs malaysia asean cup",
-  "source": "The Daily Star, Jamuna TV",
-  "status": "failed",
-  "at": "2026-09-25T10:12:01Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "7098d833f551d84f",
-  "url": "https://bdnews24.com/politics/73nj1bq0t5",
-  "headline": "70-80 injections: Former NCP member alleges torture in custody",
-  "topic": "tanvir remand torture allegations",
-  "source": "bdnews24.com, Jamuna TV",
-  "status": "failed",
-  "at": "2026-09-25T10:12:01Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "832ed5f823bfc2d1",
-  "url": "https://www.jamuna.tv/national/664821",
-  "headline": "70-80 injections: Former NCP member alleges torture in custody",
-  "topic": "tanvir remand torture allegations",
-  "source": "bdnews24.com, Jamuna TV",
-  "status": "failed",
-  "at": "2026-09-25T10:12:01Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "084812f59a846f3b",
   "url": "https://www.thedailystar.net/sports/football/news/bangladesh-outclassed-malaysia-asean-cup-opener-4282736",
   "headline": "Bangladesh thumped 3-0 by Malaysia in ASEAN Cup opener",
@@ -8398,5 +8314,59 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "821d4808f6dfd37a",
+  "url": "https://www.dhakatribune.com/bangladesh/420907/now-crude-bomb-like-objects-found-at-buddhijibi",
+  "headline": "Crude bomb-like objects found at Buddhijibi Graveyard and Sher-e-Bangla Nagar",
+  "topic": "bomb-like objects found at graveyard",
+  "source": "Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-09-28T15:09:04Z"
+ },
+ {
+  "title_hash": "83af8b2432e01831",
+  "url": "https://www.dhakatribune.com/bangladesh/crime/420899/bomb-like-objects-recovered-from-trade-fair-ground",
+  "headline": "Crude bomb-like objects found at Buddhijibi Graveyard and Sher-e-Bangla Nagar",
+  "topic": "bomb-like objects found at graveyard",
+  "source": "Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-09-28T15:09:04Z"
+ },
+ {
+  "title_hash": "0597f1492f28c43a",
+  "url": "https://www.dhakatribune.com/bangladesh/420897/dengue-claims-8-more-lives-2-036-hospitalized-in",
+  "headline": "Dengue claims 8 more lives, 2,036 hospitalized in 24 hours",
+  "topic": "dengue deaths and hospitalizations rise",
+  "source": "Dhaka Tribune, The Daily Star, bdnews24.com, Jamuna TV",
+  "status": "queued",
+  "at": "2026-09-28T15:09:04Z"
+ },
+ {
+  "title_hash": "cbdf276658e3be31",
+  "url": "https://www.thedailystar.net/news/healthcare/disease/news/8-more-die-dengue-2036-hospitalised-24-hours-4285216",
+  "headline": "Dengue claims 8 more lives, 2,036 hospitalized in 24 hours",
+  "topic": "dengue deaths and hospitalizations rise",
+  "source": "Dhaka Tribune, The Daily Star, bdnews24.com, Jamuna TV",
+  "status": "queued",
+  "at": "2026-09-28T15:09:04Z"
+ },
+ {
+  "title_hash": "9dcd46484b1e5ebc",
+  "url": "https://bdnews24.com/bangladesh/zcfwonbuuo",
+  "headline": "Dengue claims 8 more lives, 2,036 hospitalized in 24 hours",
+  "topic": "dengue deaths and hospitalizations rise",
+  "source": "Dhaka Tribune, The Daily Star, bdnews24.com, Jamuna TV",
+  "status": "queued",
+  "at": "2026-09-28T15:09:04Z"
+ },
+ {
+  "title_hash": "bf5998a2066adfba",
+  "url": "https://www.jamuna.tv/national/665063",
+  "headline": "Dengue claims 8 more lives, 2,036 hospitalized in 24 hours",
+  "topic": "dengue deaths and hospitalizations rise",
+  "source": "Dhaka Tribune, The Daily Star, bdnews24.com, Jamuna TV",
+  "status": "queued",
+  "at": "2026-09-28T15:09:04Z"
  }
 ]
