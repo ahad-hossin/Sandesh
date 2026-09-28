@@ -8377,8 +8377,13 @@
   "headline": "415 arrested in anti-teen gang drive as Cumilla police continue crackdown",
   "topic": "Cumilla anti-teen gang drive",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-28T03:07:05Z"
+  "status": "failed",
+  "at": "2026-09-28T03:07:05Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "ee52d57d68175dd5",
@@ -8386,7 +8391,12 @@
   "headline": "112 posts open at Bangladesh Forest Industries Development Corporation; apply by Sept 2026",
   "topic": "Environment ministry job circular",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-28T03:07:05Z"
+  "status": "failed",
+  "at": "2026-09-28T03:07:05Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
