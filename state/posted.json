@@ -8335,8 +8335,13 @@
   "headline": "Gold prices drop again in 2 days, falling by up to 2,158 BDT per bhori",
   "topic": "gold price drop",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-28T06:08:43Z"
+  "status": "failed",
+  "at": "2026-09-28T06:08:43Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "03218279b7d5892a",
@@ -8344,8 +8349,13 @@
   "headline": "415 detained in third phase of drive against teen gangs in Cumilla",
   "topic": "cumilla teen gang drive",
   "source": "The Daily Star, Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-28T06:08:43Z"
+  "status": "failed",
+  "at": "2026-09-28T06:08:43Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "86ab95abe9b800ab",
@@ -8353,8 +8363,13 @@
   "headline": "415 detained in third phase of drive against teen gangs in Cumilla",
   "topic": "cumilla teen gang drive",
   "source": "The Daily Star, Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-28T06:08:43Z"
+  "status": "failed",
+  "at": "2026-09-28T06:08:43Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "4074b2b56033f40b",
@@ -8362,8 +8377,13 @@
   "headline": "415 detained in third phase of drive against teen gangs in Cumilla",
   "topic": "cumilla teen gang drive",
   "source": "The Daily Star, Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-28T06:08:43Z"
+  "status": "failed",
+  "at": "2026-09-28T06:08:43Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "a6bb6681fe5c453b",
@@ -8371,7 +8391,12 @@
   "headline": "415 detained in third phase of drive against teen gangs in Cumilla",
   "topic": "cumilla teen gang drive",
   "source": "The Daily Star, Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-28T06:08:43Z"
+  "status": "failed",
+  "at": "2026-09-28T06:08:43Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
