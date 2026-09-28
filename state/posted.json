@@ -1,89 +1,5 @@
 [
  {
-  "title_hash": "5ce23cba4e8b9aef",
-  "url": "https://www.jamuna.tv/national/664834",
-  "headline": "1,084 children died in measles outbreak since March",
-  "topic": "measles outbreak death toll 1084",
-  "source": "Dhaka Tribune, Jamuna TV",
-  "status": "failed",
-  "at": "2026-09-25T11:10:15Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "084812f59a846f3b",
-  "url": "https://www.thedailystar.net/sports/football/news/bangladesh-outclassed-malaysia-asean-cup-opener-4282736",
-  "headline": "3-0 loss: Bangladesh thumped by Malaysia in ASEAN Cup opener",
-  "topic": "bangladesh loses to malaysia asean cup",
-  "source": "Jamuna TV, The Daily Star, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-25T12:09:28Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "ff32e8832bedb0f2",
-  "url": "https://www.jamuna.tv/sports/664835",
-  "headline": "3-0 loss: Bangladesh thumped by Malaysia in ASEAN Cup opener",
-  "topic": "bangladesh loses to malaysia asean cup",
-  "source": "Jamuna TV, The Daily Star, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-25T12:09:28Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "42664465d46ad5a1",
-  "url": "https://www.jamuna.tv/sports/664825",
-  "headline": "3-0 loss: Bangladesh thumped by Malaysia in ASEAN Cup opener",
-  "topic": "bangladesh loses to malaysia asean cup",
-  "source": "Jamuna TV, The Daily Star, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-25T12:09:28Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "4c1be2d5f6b45c52",
-  "url": "https://www.jamuna.tv/sports/664823",
-  "headline": "3-0 loss: Bangladesh thumped by Malaysia in ASEAN Cup opener",
-  "topic": "bangladesh loses to malaysia asean cup",
-  "source": "Jamuna TV, The Daily Star, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-25T12:09:28Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "5bd2bca35abf2d9e",
-  "url": "https://www.prothomalo.com/sports/football/jwfw6a2woc",
-  "headline": "3-0 loss: Bangladesh thumped by Malaysia in ASEAN Cup opener",
-  "topic": "bangladesh loses to malaysia asean cup",
-  "source": "Jamuna TV, The Daily Star, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-25T12:09:28Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "64ba68897d109287",
   "url": "https://www.dhakatribune.com/bangladesh/420654/natore-constable-wife-arrested-over-cutting-off",
   "headline": "Police constable and wife arrested for cutting off boy's finger in Natore",
@@ -8398,5 +8314,59 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "c096464f46d5c055",
+  "url": "https://bdnews24.com/bangladesh/qe9famr8uw",
+  "headline": "7 arrested over raid, vandalism at New Gini Properties housing project",
+  "topic": "new gini properties raid arrests",
+  "source": "Jamuna TV, Prothom Alo, bdnews24.com",
+  "status": "queued",
+  "at": "2026-09-28T18:10:29Z"
+ },
+ {
+  "title_hash": "d300a01c27577b17",
+  "url": "https://www.jamuna.tv/national/665078",
+  "headline": "7 arrested over raid, vandalism at New Gini Properties housing project",
+  "topic": "new gini properties raid arrests",
+  "source": "Jamuna TV, Prothom Alo, bdnews24.com",
+  "status": "queued",
+  "at": "2026-09-28T18:10:29Z"
+ },
+ {
+  "title_hash": "bc69562b34b96ac7",
+  "url": "https://www.prothomalo.com/bangladesh/crime/lnwg6cdvp6",
+  "headline": "7 arrested over raid, vandalism at New Gini Properties housing project",
+  "topic": "new gini properties raid arrests",
+  "source": "Jamuna TV, Prothom Alo, bdnews24.com",
+  "status": "queued",
+  "at": "2026-09-28T18:10:29Z"
+ },
+ {
+  "title_hash": "fab77479ff5f4467",
+  "url": "https://www.dhakatribune.com/bangladesh/420914/%E2%80%98i-brought-my-children-here.-then-my-grandchild%E2%80%99",
+  "headline": "Limited healthcare resumes at vandalized Radda Health Centre in Mirpur",
+  "topic": "radda health centre services resume",
+  "source": "Dhaka Tribune, Jamuna TV",
+  "status": "queued",
+  "at": "2026-09-28T18:10:29Z"
+ },
+ {
+  "title_hash": "79c3f2ac9299a8f1",
+  "url": "https://www.dhakatribune.com/bangladesh/politics/420905/jamaat-announces-tk-50-lakh-donation-for-radda",
+  "headline": "Limited healthcare resumes at vandalized Radda Health Centre in Mirpur",
+  "topic": "radda health centre services resume",
+  "source": "Dhaka Tribune, Jamuna TV",
+  "status": "queued",
+  "at": "2026-09-28T18:10:29Z"
+ },
+ {
+  "title_hash": "63ef1182b23e9146",
+  "url": "https://www.jamuna.tv/national/665039",
+  "headline": "Limited healthcare resumes at vandalized Radda Health Centre in Mirpur",
+  "topic": "radda health centre services resume",
+  "source": "Dhaka Tribune, Jamuna TV",
+  "status": "queued",
+  "at": "2026-09-28T18:10:29Z"
  }
 ]
