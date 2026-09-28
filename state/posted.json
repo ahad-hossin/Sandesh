@@ -8363,8 +8363,13 @@
   "headline": "Price hike: LPG cylinders sell Tk300-500 above govt fixed price",
   "topic": "lpg cylinder price hike",
   "source": "Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-09-28T12:07:50Z"
+  "status": "failed",
+  "at": "2026-09-28T12:07:50Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "e601ce22e4eefc2c",
@@ -8372,8 +8377,13 @@
   "headline": "8 police arrest 8 for celebrating Sheikh Hasina's birthday in Banshkhali",
   "topic": "arrests for celebrating sheikh hasina birthday",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-28T12:07:50Z"
+  "status": "failed",
+  "at": "2026-09-28T12:07:50Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "c167df5c4350b871",
@@ -8381,7 +8391,12 @@
   "headline": "8 police arrest 8 for celebrating Sheikh Hasina's birthday in Banshkhali",
   "topic": "arrests for celebrating sheikh hasina birthday",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-28T12:07:50Z"
+  "status": "failed",
+  "at": "2026-09-28T12:07:50Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
