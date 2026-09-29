@@ -1,47 +1,5 @@
 [
  {
-  "title_hash": "5aaa8a25cc97fa79",
-  "url": "https://www.prothomalo.com/education/higher-education/p7u6cz135m",
-  "headline": "Prof Nurul Islam named new VC of Jahangirnagar University",
-  "topic": "nurul islam named jahangirnagar university vc",
-  "source": "Prothom Alo, Jamuna TV, bdnews24.com",
-  "status": "failed",
-  "at": "2026-09-26T07:09:21Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "77302418472aa7b4",
-  "url": "https://www.jamuna.tv/national/664873",
-  "headline": "Prof Nurul Islam named new VC of Jahangirnagar University",
-  "topic": "nurul islam named jahangirnagar university vc",
-  "source": "Prothom Alo, Jamuna TV, bdnews24.com",
-  "status": "failed",
-  "at": "2026-09-26T07:09:21Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "c376a53a870a021c",
-  "url": "https://www.prothomalo.com/education/higher-education/enxnupy3a6",
-  "headline": "Prof Nurul Islam named new VC of Jahangirnagar University",
-  "topic": "nurul islam named jahangirnagar university vc",
-  "source": "Prothom Alo, Jamuna TV, bdnews24.com",
-  "status": "failed",
-  "at": "2026-09-26T07:09:21Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "e51d8f8d67fe81c5",
   "url": "https://www.dhakatribune.com/bangladesh/420693/home-minister-separate-cyber-security-unit-to-be",
   "headline": "Home Minister: Police aiding fascist forces to face treason charges",
@@ -8398,5 +8356,32 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "926874ce13d85dd2",
+  "url": "https://www.dhakatribune.com/bangladesh/420965/govt-plans-oct-22-holiday-for-five-day-durga-puja",
+  "headline": "Govt employees to get 5-day Durga Puja holiday",
+  "topic": "durga puja holiday extension",
+  "source": "Dhaka Tribune, Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-29T13:07:16Z"
+ },
+ {
+  "title_hash": "7aba6c2e057b1d28",
+  "url": "https://www.prothomalo.com/bangladesh/zlaf22yb1t",
+  "headline": "Govt employees to get 5-day Durga Puja holiday",
+  "topic": "durga puja holiday extension",
+  "source": "Dhaka Tribune, Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-29T13:07:16Z"
+ },
+ {
+  "title_hash": "4371d16bbeaaa0c6",
+  "url": "https://www.dhakatribune.com/bangladesh/health/420964/measles-outbreak-death-toll-reaches-1-104-as-five",
+  "headline": "1,104 dead as measles outbreak death toll rises",
+  "topic": "measles outbreak death toll",
+  "source": "Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-09-29T13:07:16Z"
  }
 ]
