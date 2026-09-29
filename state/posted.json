@@ -1,33 +1,5 @@
 [
  {
-  "title_hash": "8d5e8b879be018a3",
-  "url": "https://www.prothomalo.com/bangladesh/fmvs0vr8pm",
-  "headline": "3.4 million children to receive measles vaccine in special campaign after initial miss",
-  "topic": "nationwide child vaccination drive",
-  "source": "Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-26T02:06:43Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "a20ea6e26d339eba",
-  "url": "https://bdnews24.com/sport/aglntuwip3",
-  "headline": "Man City found guilty on 114 of 115 Premier League charges, faces potential penalties",
-  "topic": "man city financial rule violations",
-  "source": "Prothom Alo, Jamuna TV, bdnews24.com",
-  "status": "failed",
-  "at": "2026-09-26T02:06:43Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "aea9c1d78b610b75",
   "url": "https://www.prothomalo.com/sports/football/2snd3ylrkx",
   "headline": "Man City found guilty on 114 of 115 Premier League charges, faces potential penalties",
@@ -8398,5 +8370,23 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "f1ece91aaf4f2748",
+  "url": "https://www.jamuna.tv/economy/665094",
+  "headline": "Gold prices drop for third consecutive time in Bangladesh",
+  "topic": "gold price falls for third consecutive time",
+  "source": "Jamuna TV",
+  "status": "queued",
+  "at": "2026-09-29T06:11:12Z"
+ },
+ {
+  "title_hash": "9120398f84ceed06",
+  "url": "https://www.prothomalo.com/business/industry/mvntwuykq6",
+  "headline": "Gold prices drop by 2,216 TK per bhori for second straight day",
+  "topic": "gold price drops again, by Tk2,216 per bhori",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-29T06:11:12Z"
  }
 ]
