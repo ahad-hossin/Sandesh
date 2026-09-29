@@ -1,47 +1,5 @@
 [
  {
-  "title_hash": "e6860487c33d27a9",
-  "url": "https://bdnews24.com/sport/531tlk77u5",
-  "headline": "114 of 115 charges: Man City found guilty of Premier League financial breaches",
-  "topic": "Man City found guilty on 115 charges",
-  "source": "Jamuna TV, bdnews24.com, The Daily Star, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-25T17:09:25Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "d84162b1beb9575a",
-  "url": "https://www.prothomalo.com/sports/football/4diuexl01u",
-  "headline": "114 of 115 charges: Man City found guilty of Premier League financial breaches",
-  "topic": "Man City found guilty on 115 charges",
-  "source": "Jamuna TV, bdnews24.com, The Daily Star, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-25T17:09:25Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "0475413510adbf81",
-  "url": "https://www.dhakatribune.com/bangladesh/420673/fuel-price-hike-pushes-up-transport-fares-in",
-  "headline": "Fuel price hike: Essential commodity prices soar across markets",
-  "topic": "Fuel price hike pushes up transport fares",
-  "source": "Dhaka Tribune, bdnews24.com",
-  "status": "failed",
-  "at": "2026-09-25T17:09:25Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "e95a8c5e93fad7bf",
   "url": "https://bdnews24.com/business/33fvfb038q",
   "headline": "Fuel price hike: Essential commodity prices soar across markets",
@@ -8398,5 +8356,32 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "c68264f9f16f5bb4",
+  "url": "https://www.jamuna.tv/international/665082",
+  "headline": "US and Iran restart peace talks through mediators after 7 months of conflict",
+  "topic": "US Iran Conflict Talks",
+  "source": "Jamuna TV",
+  "status": "queued",
+  "at": "2026-09-29T01:07:46Z"
+ },
+ {
+  "title_hash": "d8472032491e6d5f",
+  "url": "https://www.jamuna.tv/international/665080",
+  "headline": "US and Iran restart peace talks through mediators after 7 months of conflict",
+  "topic": "US Iran Conflict Talks",
+  "source": "Jamuna TV",
+  "status": "queued",
+  "at": "2026-09-29T01:07:46Z"
+ },
+ {
+  "title_hash": "dbec068d6d111edf",
+  "url": "https://www.prothomalo.com/entertainment/song/i3sa5igv4x",
+  "headline": "BTS wins 3 MTV VMAs after comeback; Lisa makes history with Best Pop award",
+  "topic": "BTS Lisa Makes History",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-29T01:07:46Z"
  }
 ]
