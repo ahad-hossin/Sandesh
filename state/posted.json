@@ -1,33 +1,5 @@
 [
  {
-  "title_hash": "867e29c40c77fe86",
-  "url": "https://bdnews24.com/bangladesh/xja61wmuqs",
-  "headline": "PM Tarique Rahman discusses trade and labor export with Kuwait in New York",
-  "topic": "pm tarique unga vision",
-  "source": "Dhaka Tribune, Jamuna TV, bdnews24.com",
-  "status": "failed",
-  "at": "2026-09-25T18:11:38Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "a20ea6e26d339eba",
-  "url": "https://bdnews24.com/sport/aglntuwip3",
-  "headline": "114 of 115 charges: Man City found guilty of financial breaches",
-  "topic": "man city financial breaches guilty",
-  "source": "Jamuna TV, bdnews24.com, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-25T18:11:38Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "594c9a3744fd8a37",
   "url": "https://www.jamuna.tv/sports/664845",
   "headline": "114 of 115 charges: Man City found guilty of financial breaches",
@@ -8398,5 +8370,23 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "73582a50ef656584",
+  "url": "https://www.prothomalo.com/business/bank/sb5r1akknc",
+  "headline": "Tk 1,276 crore project to reform Bangladesh's banking sector with World Bank funding",
+  "topic": "world bank loan for bank sector reform",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-29T03:12:32Z"
+ },
+ {
+  "title_hash": "0990e7c0bd8c93bb",
+  "url": "https://www.jamuna.tv/all-bangladesh/665084",
+  "headline": "Roof blown off in cocktail explosions at a house in Chapainawabganj",
+  "topic": "cocktail explosion in chapainawabganj riverine char",
+  "source": "Jamuna TV",
+  "status": "queued",
+  "at": "2026-09-29T03:12:32Z"
  }
 ]
