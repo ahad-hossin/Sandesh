@@ -1,61 +1,5 @@
 [
  {
-  "title_hash": "145ca305d20bf4b5",
-  "url": "https://www.prothomalo.com/business/industry/towlo1efvi",
-  "headline": "Gold prices drop by 1,691 BDT per bhori in Bangladesh",
-  "topic": "gold prices drop",
-  "source": "Prothom Alo, Jamuna TV",
-  "status": "failed",
-  "at": "2026-09-26T06:08:57Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "964edf55ae245a9f",
-  "url": "https://www.jamuna.tv/economy/664864",
-  "headline": "Gold prices drop by 1,691 BDT per bhori in Bangladesh",
-  "topic": "gold prices drop",
-  "source": "Prothom Alo, Jamuna TV",
-  "status": "failed",
-  "at": "2026-09-26T06:08:57Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "b5bcaed92b1c1271",
-  "url": "https://www.thedailystar.net/sports/more-sports/news/asian-games-bangladesh-beat-indonesia-second-straight-win-4283251",
-  "headline": "Asian Games: Bangladesh beat Indonesia 3-1 for second straight win",
-  "topic": "bangladesh hockey beats indonesia",
-  "source": "The Daily Star",
-  "status": "failed",
-  "at": "2026-09-26T06:08:57Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "48c9d62cdf88718a",
-  "url": "https://bdnews24.com/campus/shqzn24l83",
-  "headline": "Prof Nurul Islam named new VC of Jahangirnagar University",
-  "topic": "nurul islam named jahangirnagar university vc",
-  "source": "Prothom Alo, Jamuna TV, bdnews24.com",
-  "status": "failed",
-  "at": "2026-09-26T07:09:21Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "5aaa8a25cc97fa79",
   "url": "https://www.prothomalo.com/education/higher-education/p7u6cz135m",
   "headline": "Prof Nurul Islam named new VC of Jahangirnagar University",
@@ -8398,5 +8342,41 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "cecc0f2122fa0417",
+  "url": "https://www.thedailystar.net/business/economy/aviation/news/biman-talks-buy-10-airbus-planes-after-signing-deal-boeing-4285916",
+  "headline": "Biman to buy 10 Airbus planes to expand fleet",
+  "topic": "biman_airbus_purchase",
+  "source": "The Daily Star, Prothom Alo, Jamuna TV",
+  "status": "queued",
+  "at": "2026-09-29T12:12:49Z"
+ },
+ {
+  "title_hash": "f41d0b4cbd265440",
+  "url": "https://www.prothomalo.com/bangladesh/wcus8liez4",
+  "headline": "Biman to buy 10 Airbus planes to expand fleet",
+  "topic": "biman_airbus_purchase",
+  "source": "The Daily Star, Prothom Alo, Jamuna TV",
+  "status": "queued",
+  "at": "2026-09-29T12:12:49Z"
+ },
+ {
+  "title_hash": "5bf0d642bb855478",
+  "url": "https://www.jamuna.tv/national/665118",
+  "headline": "Biman to buy 10 Airbus planes to expand fleet",
+  "topic": "biman_airbus_purchase",
+  "source": "The Daily Star, Prothom Alo, Jamuna TV",
+  "status": "queued",
+  "at": "2026-09-29T12:12:49Z"
+ },
+ {
+  "title_hash": "244c8ecd0a9c31f6",
+  "url": "https://www.jamuna.tv/national/665128",
+  "headline": "6 deaths in 24 hours: Dengue death toll hits 239 this year",
+  "topic": "dengue_deaths_update",
+  "source": "Jamuna TV",
+  "status": "queued",
+  "at": "2026-09-29T12:12:49Z"
  }
 ]
