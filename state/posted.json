@@ -8321,8 +8321,13 @@
   "headline": "Man City found guilty of widespread financial fraud across 9 years",
   "topic": "man city financial breaches",
   "source": "The Daily Star, bdnews24.com",
-  "status": "queued",
-  "at": "2026-09-29T23:10:18Z"
+  "status": "failed",
+  "at": "2026-09-29T23:10:18Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "73d3d1f5219d0d1f",
@@ -8330,8 +8335,13 @@
   "headline": "Man City found guilty of widespread financial fraud across 9 years",
   "topic": "man city financial breaches",
   "source": "The Daily Star, bdnews24.com",
-  "status": "queued",
-  "at": "2026-09-29T23:10:18Z"
+  "status": "failed",
+  "at": "2026-09-29T23:10:18Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "d36bb2980efd8284",
@@ -8339,8 +8349,13 @@
   "headline": "Man City found guilty of widespread financial fraud across 9 years",
   "topic": "man city financial breaches",
   "source": "The Daily Star, bdnews24.com",
-  "status": "queued",
-  "at": "2026-09-29T23:10:18Z"
+  "status": "failed",
+  "at": "2026-09-29T23:10:18Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "7d2c55af43b5a96b",
@@ -8348,8 +8363,13 @@
   "headline": "Man City found guilty of widespread financial fraud across 9 years",
   "topic": "man city financial breaches",
   "source": "The Daily Star, bdnews24.com",
-  "status": "queued",
-  "at": "2026-09-29T23:10:18Z"
+  "status": "failed",
+  "at": "2026-09-29T23:10:18Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "eb9f335367e651ba",
@@ -8357,8 +8377,13 @@
   "headline": "Man City found guilty of widespread financial fraud across 9 years",
   "topic": "man city financial breaches",
   "source": "The Daily Star, bdnews24.com",
-  "status": "queued",
-  "at": "2026-09-29T23:10:18Z"
+  "status": "failed",
+  "at": "2026-09-29T23:10:18Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "011c7772af59f339",
@@ -8366,7 +8391,12 @@
   "headline": "Muztaba Khamenei rescued from rubble after second US attack in Tehran",
   "topic": "khamenei rescued from us strike",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-29T23:10:18Z"
+  "status": "failed",
+  "at": "2026-09-29T23:10:18Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
