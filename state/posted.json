@@ -8349,8 +8349,13 @@
   "headline": "100 Taka meal shop: ‘Viral Mizan’s’ hotel evicted again",
   "topic": "viral mizan hotel eviction",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-29T20:07:55Z"
+  "status": "failed",
+  "at": "2026-09-29T20:07:55Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "2e61987b469dc831",
@@ -8358,8 +8363,13 @@
   "headline": "100 Taka meal shop: ‘Viral Mizan’s’ hotel evicted again",
   "topic": "viral mizan hotel eviction",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-29T20:07:55Z"
+  "status": "failed",
+  "at": "2026-09-29T20:07:55Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "c0a2416237b84ed4",
@@ -8367,8 +8377,13 @@
   "headline": "Biman Bangladesh stops screening films 'Lalsalu' and 'Chitra Nodir Pare'",
   "topic": "biman bans lalsalu chitra nadir pare",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-29T20:07:55Z"
+  "status": "failed",
+  "at": "2026-09-29T20:07:55Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "13f729d23b37d1a8",
@@ -8376,7 +8391,12 @@
   "headline": "Biman Bangladesh stops screening films 'Lalsalu' and 'Chitra Nodir Pare'",
   "topic": "biman bans lalsalu chitra nadir pare",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-29T20:07:55Z"
+  "status": "failed",
+  "at": "2026-09-29T20:07:55Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
