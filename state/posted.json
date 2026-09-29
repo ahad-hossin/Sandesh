@@ -8307,8 +8307,13 @@
   "headline": "5 districts on alert as heavy rain and landslide warnings issued",
   "topic": "heavy rain and landslide warning for 5 districts",
   "source": "Jamuna TV, bdnews24.com",
-  "status": "queued",
-  "at": "2026-09-29T18:10:47Z"
+  "status": "failed",
+  "at": "2026-09-29T18:10:47Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "74f642ff9832916f",
@@ -8316,8 +8321,13 @@
   "headline": "5 districts on alert as heavy rain and landslide warnings issued",
   "topic": "heavy rain and landslide warning for 5 districts",
   "source": "Jamuna TV, bdnews24.com",
-  "status": "queued",
-  "at": "2026-09-29T18:10:47Z"
+  "status": "failed",
+  "at": "2026-09-29T18:10:47Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "fb4e05d0b1ccb014",
@@ -8325,8 +8335,13 @@
   "headline": "239 deaths as 6 more die of dengue in 24 hours",
   "topic": "dengue deaths and hospitalizations rise",
   "source": "Dhaka Tribune, The Daily Star, bdnews24.com",
-  "status": "queued",
-  "at": "2026-09-29T18:10:47Z"
+  "status": "failed",
+  "at": "2026-09-29T18:10:47Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "30273ff5c9da2c4d",
@@ -8334,8 +8349,13 @@
   "headline": "239 deaths as 6 more die of dengue in 24 hours",
   "topic": "dengue deaths and hospitalizations rise",
   "source": "Dhaka Tribune, The Daily Star, bdnews24.com",
-  "status": "queued",
-  "at": "2026-09-29T18:10:47Z"
+  "status": "failed",
+  "at": "2026-09-29T18:10:47Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "68da36e14a9a0c0b",
@@ -8343,8 +8363,13 @@
   "headline": "239 deaths as 6 more die of dengue in 24 hours",
   "topic": "dengue deaths and hospitalizations rise",
   "source": "Dhaka Tribune, The Daily Star, bdnews24.com",
-  "status": "queued",
-  "at": "2026-09-29T18:10:47Z"
+  "status": "failed",
+  "at": "2026-09-29T18:10:47Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "399c10467fba3b8a",
@@ -8352,8 +8377,13 @@
   "headline": "239 deaths as 6 more die of dengue in 24 hours",
   "topic": "dengue deaths and hospitalizations rise",
   "source": "Dhaka Tribune, The Daily Star, bdnews24.com",
-  "status": "queued",
-  "at": "2026-09-29T18:10:47Z"
+  "status": "failed",
+  "at": "2026-09-29T18:10:47Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "7890005e798ce233",
@@ -8361,7 +8391,12 @@
   "headline": "239 deaths as 6 more die of dengue in 24 hours",
   "topic": "dengue deaths and hospitalizations rise",
   "source": "Dhaka Tribune, The Daily Star, bdnews24.com",
-  "status": "queued",
-  "at": "2026-09-29T18:10:47Z"
+  "status": "failed",
+  "at": "2026-09-29T18:10:47Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
