@@ -8307,8 +8307,13 @@
   "headline": "115 charges: Man City found guilty of financial fraud",
   "topic": "man city financial breaches",
   "source": "The Daily Star, bdnews24.com",
-  "status": "queued",
-  "at": "2026-09-29T22:08:45Z"
+  "status": "failed",
+  "at": "2026-09-29T22:08:45Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "73d3d1f5219d0d1f",
@@ -8316,8 +8321,13 @@
   "headline": "115 charges: Man City found guilty of financial fraud",
   "topic": "man city financial breaches",
   "source": "The Daily Star, bdnews24.com",
-  "status": "queued",
-  "at": "2026-09-29T22:08:45Z"
+  "status": "failed",
+  "at": "2026-09-29T22:08:45Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "d36bb2980efd8284",
@@ -8325,8 +8335,13 @@
   "headline": "115 charges: Man City found guilty of financial fraud",
   "topic": "man city financial breaches",
   "source": "The Daily Star, bdnews24.com",
-  "status": "queued",
-  "at": "2026-09-29T22:08:45Z"
+  "status": "failed",
+  "at": "2026-09-29T22:08:45Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "7d2c55af43b5a96b",
@@ -8334,8 +8349,13 @@
   "headline": "115 charges: Man City found guilty of financial fraud",
   "topic": "man city financial breaches",
   "source": "The Daily Star, bdnews24.com",
-  "status": "queued",
-  "at": "2026-09-29T22:08:45Z"
+  "status": "failed",
+  "at": "2026-09-29T22:08:45Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "eb9f335367e651ba",
@@ -8343,8 +8363,13 @@
   "headline": "115 charges: Man City found guilty of financial fraud",
   "topic": "man city financial breaches",
   "source": "The Daily Star, bdnews24.com",
-  "status": "queued",
-  "at": "2026-09-29T22:08:45Z"
+  "status": "failed",
+  "at": "2026-09-29T22:08:45Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "92a0a41690731c13",
@@ -8352,8 +8377,13 @@
   "headline": "Yamal shines as Spain hammer Croatia 4-1 in Nations League",
   "topic": "spain beats croatia",
   "source": "The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-29T22:08:45Z"
+  "status": "failed",
+  "at": "2026-09-29T22:08:45Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "9cb7d8551152fa33",
@@ -8361,7 +8391,12 @@
   "headline": "Yamal shines as Spain hammer Croatia 4-1 in Nations League",
   "topic": "spain beats croatia",
   "source": "The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-29T22:08:45Z"
+  "status": "failed",
+  "at": "2026-09-29T22:08:45Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
