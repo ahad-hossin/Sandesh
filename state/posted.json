@@ -1,61 +1,5 @@
 [
  {
-  "title_hash": "281ad6bee8ac3ac6",
-  "url": "https://www.thedailystar.net/news/crime-justice/news/four-arrested-over-vandalism-looting-radda-health-centre-mirpur-4283361",
-  "headline": "4 arrested as Radda health centre demolished in Mirpur overnight",
-  "topic": "police negligence probe into health centre demolition",
-  "source": "Dhaka Tribune, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-26T14:08:59Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "3c0042d3a5ef44f2",
-  "url": "https://www.prothomalo.com/bangladesh/district/8ftjh4z1fi",
-  "headline": "4 arrested as Radda health centre demolished in Mirpur overnight",
-  "topic": "police negligence probe into health centre demolition",
-  "source": "Dhaka Tribune, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-26T14:08:59Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "0baff6ca5da035da",
-  "url": "https://www.prothomalo.com/bangladesh/crime/zm67mx1vht",
-  "headline": "4 arrested as Radda health centre demolished in Mirpur overnight",
-  "topic": "police negligence probe into health centre demolition",
-  "source": "Dhaka Tribune, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-26T14:08:59Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "612ecaa01cc9279d",
-  "url": "https://www.thedailystar.net/news/crime-justice/news/3-member-body-probe-police-role-mirpur-health-centre-attack-4283446",
-  "headline": "4 arrested as Radda health centre demolished in Mirpur overnight",
-  "topic": "police negligence probe into health centre demolition",
-  "source": "Dhaka Tribune, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-26T14:08:59Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "1252233737e01c81",
   "url": "https://www.dhakatribune.com/bangladesh/420745/narayanganj-trawler-capsize-three-siblings-found",
   "headline": "Mother and 10-month-old baby killed in Manikganj road crash",
@@ -8398,5 +8342,41 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "b80ef68f3a10dca8",
+  "url": "https://www.prothomalo.com/video/bangladesh/0fxsu5uond",
+  "headline": "100 Taka meal shop: ‘Viral Mizan’s’ hotel evicted again",
+  "topic": "viral mizan hotel eviction",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-29T20:07:55Z"
+ },
+ {
+  "title_hash": "2e61987b469dc831",
+  "url": "https://www.prothomalo.com/bangladesh/capital/7vt9i5txh9",
+  "headline": "100 Taka meal shop: ‘Viral Mizan’s’ hotel evicted again",
+  "topic": "viral mizan hotel eviction",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-29T20:07:55Z"
+ },
+ {
+  "title_hash": "c0a2416237b84ed4",
+  "url": "https://www.prothomalo.com/entertainment/dhallywood/bimaane-laalsaalu-citraa-ndiir-paare-prdrshn-bndh",
+  "headline": "Biman Bangladesh stops screening films 'Lalsalu' and 'Chitra Nodir Pare'",
+  "topic": "biman bans lalsalu chitra nadir pare",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-29T20:07:55Z"
+ },
+ {
+  "title_hash": "13f729d23b37d1a8",
+  "url": "https://www.prothomalo.com/entertainment/dhallywood/npiz15lue7",
+  "headline": "Biman Bangladesh stops screening films 'Lalsalu' and 'Chitra Nodir Pare'",
+  "topic": "biman bans lalsalu chitra nadir pare",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-29T20:07:55Z"
  }
 ]
