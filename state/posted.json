@@ -8349,8 +8349,13 @@
   "headline": "Biman to buy 10 Airbus planes to expand fleet",
   "topic": "biman_airbus_purchase",
   "source": "The Daily Star, Prothom Alo, Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-29T12:12:49Z"
+  "status": "failed",
+  "at": "2026-09-29T12:12:49Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "f41d0b4cbd265440",
@@ -8358,8 +8363,13 @@
   "headline": "Biman to buy 10 Airbus planes to expand fleet",
   "topic": "biman_airbus_purchase",
   "source": "The Daily Star, Prothom Alo, Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-29T12:12:49Z"
+  "status": "failed",
+  "at": "2026-09-29T12:12:49Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "5bf0d642bb855478",
@@ -8367,8 +8377,13 @@
   "headline": "Biman to buy 10 Airbus planes to expand fleet",
   "topic": "biman_airbus_purchase",
   "source": "The Daily Star, Prothom Alo, Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-29T12:12:49Z"
+  "status": "failed",
+  "at": "2026-09-29T12:12:49Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "244c8ecd0a9c31f6",
@@ -8376,7 +8391,12 @@
   "headline": "6 deaths in 24 hours: Dengue death toll hits 239 this year",
   "topic": "dengue_deaths_update",
   "source": "Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-29T12:12:49Z"
+  "status": "failed",
+  "at": "2026-09-29T12:12:49Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
