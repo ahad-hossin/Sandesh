@@ -1,75 +1,5 @@
 [
  {
-  "title_hash": "594c9a3744fd8a37",
-  "url": "https://www.jamuna.tv/sports/664845",
-  "headline": "114 of 115 charges: Man City found guilty of financial breaches",
-  "topic": "man city financial breaches guilty",
-  "source": "Jamuna TV, bdnews24.com, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-25T18:11:38Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "066426d9f76932c5",
-  "url": "https://bdnews24.com/sport/1pj1565pwa",
-  "headline": "114 of 115 charges: Man City found guilty of financial breaches",
-  "topic": "man city financial breaches guilty",
-  "source": "Jamuna TV, bdnews24.com, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-25T18:11:38Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "e6860487c33d27a9",
-  "url": "https://bdnews24.com/sport/531tlk77u5",
-  "headline": "114 of 115 charges: Man City found guilty of financial breaches",
-  "topic": "man city financial breaches guilty",
-  "source": "Jamuna TV, bdnews24.com, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-25T18:11:38Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "d84162b1beb9575a",
-  "url": "https://www.prothomalo.com/sports/football/4diuexl01u",
-  "headline": "114 of 115 charges: Man City found guilty of financial breaches",
-  "topic": "man city financial breaches guilty",
-  "source": "Jamuna TV, bdnews24.com, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-25T18:11:38Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "d90ab9934747da25",
-  "url": "https://bdnews24.com/bangladesh/68jfc9lb9p",
-  "headline": "PM Tarique Rahman meets Kuwait Crown Prince in New York",
-  "topic": "PM Tarique meets Kuwait crown prince in New York",
-  "source": "Prothom Alo, bdnews24.com, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-25T23:09:36Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "4d6b467e124c03cf",
   "url": "https://www.prothomalo.com/bangladesh/8k69uzr1wf",
   "headline": "PM Tarique Rahman meets Kuwait Crown Prince in New York",
@@ -8398,5 +8328,50 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "1948a9918c515abb",
+  "url": "https://www.thedailystar.net/sports/more-sports/news/asian-games-cricket-bangladesh-sri-lanka-reach-semifinals-without-playing-ball-4285746",
+  "headline": "Rain-hit Asian Games: Bangladesh reach semi-finals without playing a ball",
+  "topic": "bangladesh asian games cricket semifinals",
+  "source": "Jamuna TV, The Daily Star, Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-29T04:11:21Z"
+ },
+ {
+  "title_hash": "51f13396a143865f",
+  "url": "https://www.jamuna.tv/sports/665085",
+  "headline": "Rain-hit Asian Games: Bangladesh reach semi-finals without playing a ball",
+  "topic": "bangladesh asian games cricket semifinals",
+  "source": "Jamuna TV, The Daily Star, Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-29T04:11:21Z"
+ },
+ {
+  "title_hash": "b6bfb821bc85993e",
+  "url": "https://www.prothomalo.com/sports/cricket/vyfwqkarch",
+  "headline": "Rain-hit Asian Games: Bangladesh reach semi-finals without playing a ball",
+  "topic": "bangladesh asian games cricket semifinals",
+  "source": "Jamuna TV, The Daily Star, Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-29T04:11:21Z"
+ },
+ {
+  "title_hash": "a82b3acd523ffc25",
+  "url": "https://www.prothomalo.com/bangladesh/crime/sttuddio-sbaasthykendre-haamlaa-greptaar-18-priklpnaakaariiraa-adhraa",
+  "headline": "Police arrest 18 in attacks on studio and health center in Dhaka",
+  "topic": "arrests in studio and health center attacks",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-29T04:11:21Z"
+ },
+ {
+  "title_hash": "7e40a8734cd5413f",
+  "url": "https://www.prothomalo.com/bangladesh/crime/g6jygxoz4a",
+  "headline": "Police arrest 18 in attacks on studio and health center in Dhaka",
+  "topic": "arrests in studio and health center attacks",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-29T04:11:21Z"
  }
 ]
