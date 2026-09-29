@@ -8363,8 +8363,13 @@
   "headline": "Govt employees to get 5-day Durga Puja holiday",
   "topic": "durga puja holiday extension",
   "source": "Dhaka Tribune, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-29T13:07:16Z"
+  "status": "failed",
+  "at": "2026-09-29T13:07:16Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "7aba6c2e057b1d28",
@@ -8372,8 +8377,13 @@
   "headline": "Govt employees to get 5-day Durga Puja holiday",
   "topic": "durga puja holiday extension",
   "source": "Dhaka Tribune, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-29T13:07:16Z"
+  "status": "failed",
+  "at": "2026-09-29T13:07:16Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "4371d16bbeaaa0c6",
@@ -8381,7 +8391,12 @@
   "headline": "1,104 dead as measles outbreak death toll rises",
   "topic": "measles outbreak death toll",
   "source": "Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-09-29T13:07:16Z"
+  "status": "failed",
+  "at": "2026-09-29T13:07:16Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
