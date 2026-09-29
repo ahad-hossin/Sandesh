@@ -8377,8 +8377,13 @@
   "headline": "Gold prices drop for third consecutive time in Bangladesh",
   "topic": "gold price falls for third consecutive time",
   "source": "Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-29T06:11:12Z"
+  "status": "failed",
+  "at": "2026-09-29T06:11:12Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "9120398f84ceed06",
@@ -8386,7 +8391,12 @@
   "headline": "Gold prices drop by 2,216 TK per bhori for second straight day",
   "topic": "gold price drops again, by Tk2,216 per bhori",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-29T06:11:12Z"
+  "status": "failed",
+  "at": "2026-09-29T06:11:12Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
