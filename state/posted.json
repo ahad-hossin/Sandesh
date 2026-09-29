@@ -8321,8 +8321,13 @@
   "headline": "Govt embarrassed by attacks on health center and studio in Mirpur",
   "topic": "attack on salman muqtadir studio",
   "source": "Prothom Alo, Dhaka Tribune, The Daily Star, Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-29T08:11:11Z"
+  "status": "failed",
+  "at": "2026-09-29T08:11:11Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "8551ab0c1d7e0ceb",
@@ -8330,8 +8335,13 @@
   "headline": "Govt embarrassed by attacks on health center and studio in Mirpur",
   "topic": "attack on salman muqtadir studio",
   "source": "Prothom Alo, Dhaka Tribune, The Daily Star, Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-29T08:11:11Z"
+  "status": "failed",
+  "at": "2026-09-29T08:11:11Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "af67a0917a28ed0e",
@@ -8339,8 +8349,13 @@
   "headline": "Govt embarrassed by attacks on health center and studio in Mirpur",
   "topic": "attack on salman muqtadir studio",
   "source": "Prothom Alo, Dhaka Tribune, The Daily Star, Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-29T08:11:11Z"
+  "status": "failed",
+  "at": "2026-09-29T08:11:11Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "e6a94958437c854a",
@@ -8348,8 +8363,13 @@
   "headline": "Govt embarrassed by attacks on health center and studio in Mirpur",
   "topic": "attack on salman muqtadir studio",
   "source": "Prothom Alo, Dhaka Tribune, The Daily Star, Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-29T08:11:11Z"
+  "status": "failed",
+  "at": "2026-09-29T08:11:11Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "593662eb65bdb17a",
@@ -8357,8 +8377,13 @@
   "headline": "Govt embarrassed by attacks on health center and studio in Mirpur",
   "topic": "attack on salman muqtadir studio",
   "source": "Prothom Alo, Dhaka Tribune, The Daily Star, Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-29T08:11:11Z"
+  "status": "failed",
+  "at": "2026-09-29T08:11:11Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "c88a822a202800b5",
@@ -8366,7 +8391,12 @@
   "headline": "ACC sends letters to 41 banks over ৳276 crore embezzlement case",
   "topic": "hasina-rehana embezzlement probe",
   "source": "Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-29T08:11:11Z"
+  "status": "failed",
+  "at": "2026-09-29T08:11:11Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
