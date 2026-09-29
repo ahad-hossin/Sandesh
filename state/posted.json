@@ -2,62 +2,6 @@
  {
   "title_hash": "aea9c1d78b610b75",
   "url": "https://www.prothomalo.com/sports/football/2snd3ylrkx",
-  "headline": "Man City found guilty on 114 of 115 Premier League charges, faces potential penalties",
-  "topic": "man city financial rule violations",
-  "source": "Prothom Alo, Jamuna TV, bdnews24.com",
-  "status": "failed",
-  "at": "2026-09-26T02:06:43Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "594c9a3744fd8a37",
-  "url": "https://www.jamuna.tv/sports/664845",
-  "headline": "Man City found guilty on 114 of 115 Premier League charges, faces potential penalties",
-  "topic": "man city financial rule violations",
-  "source": "Prothom Alo, Jamuna TV, bdnews24.com",
-  "status": "failed",
-  "at": "2026-09-26T02:06:43Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "066426d9f76932c5",
-  "url": "https://bdnews24.com/sport/1pj1565pwa",
-  "headline": "Man City found guilty on 114 of 115 Premier League charges, faces potential penalties",
-  "topic": "man city financial rule violations",
-  "source": "Prothom Alo, Jamuna TV, bdnews24.com",
-  "status": "failed",
-  "at": "2026-09-26T02:06:43Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "e6860487c33d27a9",
-  "url": "https://bdnews24.com/sport/531tlk77u5",
-  "headline": "Man City found guilty on 114 of 115 Premier League charges, faces potential penalties",
-  "topic": "man city financial rule violations",
-  "source": "Prothom Alo, Jamuna TV, bdnews24.com",
-  "status": "failed",
-  "at": "2026-09-26T02:06:43Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "aea9c1d78b610b75",
-  "url": "https://www.prothomalo.com/sports/football/2snd3ylrkx",
   "headline": "Manchester City found guilty on 114 financial charges; faces potential title stripping, relegation",
   "topic": "man city financial charges",
   "source": "Prothom Alo",
@@ -8398,5 +8342,41 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "c88a822a202800b5",
+  "url": "https://www.jamuna.tv/economy/665101",
+  "headline": "ACC writes to 41 banks over ৳276 crore embezzlement",
+  "topic": "hasina-rehana-bank-embezzlement",
+  "source": "Jamuna TV",
+  "status": "queued",
+  "at": "2026-09-29T07:11:49Z"
+ },
+ {
+  "title_hash": "0b5f457b12461acb",
+  "url": "https://www.thedailystar.net/news/crime-justice/news/series-crude-bomb-blasts-damages-house-chapainawabganj-4285831",
+  "headline": "Crude bombs explode in house in Chapainawabganj, damaging structure",
+  "topic": "chapainawabganj-cocktail-blasts",
+  "source": "Prothom Alo, Jamuna TV, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-29T07:11:49Z"
+ },
+ {
+  "title_hash": "553f5882f686a4ae",
+  "url": "https://www.prothomalo.com/bangladesh/district/qvjdtly9pl",
+  "headline": "Crude bombs explode in house in Chapainawabganj, damaging structure",
+  "topic": "chapainawabganj-cocktail-blasts",
+  "source": "Prothom Alo, Jamuna TV, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-29T07:11:49Z"
+ },
+ {
+  "title_hash": "0990e7c0bd8c93bb",
+  "url": "https://www.jamuna.tv/all-bangladesh/665084",
+  "headline": "Crude bombs explode in house in Chapainawabganj, damaging structure",
+  "topic": "chapainawabganj-cocktail-blasts",
+  "source": "Prothom Alo, Jamuna TV, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-29T07:11:49Z"
  }
 ]
