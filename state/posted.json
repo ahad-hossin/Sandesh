@@ -8349,8 +8349,13 @@
   "headline": "ACC writes to 41 banks over ৳276 crore embezzlement",
   "topic": "hasina-rehana-bank-embezzlement",
   "source": "Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-29T07:11:49Z"
+  "status": "failed",
+  "at": "2026-09-29T07:11:49Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "0b5f457b12461acb",
@@ -8358,8 +8363,13 @@
   "headline": "Crude bombs explode in house in Chapainawabganj, damaging structure",
   "topic": "chapainawabganj-cocktail-blasts",
   "source": "Prothom Alo, Jamuna TV, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-29T07:11:49Z"
+  "status": "failed",
+  "at": "2026-09-29T07:11:49Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "553f5882f686a4ae",
@@ -8367,8 +8377,13 @@
   "headline": "Crude bombs explode in house in Chapainawabganj, damaging structure",
   "topic": "chapainawabganj-cocktail-blasts",
   "source": "Prothom Alo, Jamuna TV, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-29T07:11:49Z"
+  "status": "failed",
+  "at": "2026-09-29T07:11:49Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "0990e7c0bd8c93bb",
@@ -8376,7 +8391,12 @@
   "headline": "Crude bombs explode in house in Chapainawabganj, damaging structure",
   "topic": "chapainawabganj-cocktail-blasts",
   "source": "Prothom Alo, Jamuna TV, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-29T07:11:49Z"
+  "status": "failed",
+  "at": "2026-09-29T07:11:49Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
