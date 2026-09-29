@@ -8321,8 +8321,13 @@
   "headline": "Biman to purchase 10 Airbus aircraft to expand fleet",
   "topic": "biman airbus purchase",
   "source": "bdnews24.com, Prothom Alo, Dhaka Tribune, Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-29T17:08:00Z"
+  "status": "failed",
+  "at": "2026-09-29T17:08:00Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "4cfccc39d3da1b19",
@@ -8330,8 +8335,13 @@
   "headline": "Biman to purchase 10 Airbus aircraft to expand fleet",
   "topic": "biman airbus purchase",
   "source": "bdnews24.com, Prothom Alo, Dhaka Tribune, Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-29T17:08:00Z"
+  "status": "failed",
+  "at": "2026-09-29T17:08:00Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "dcb5758b41386402",
@@ -8339,8 +8349,13 @@
   "headline": "Biman to purchase 10 Airbus aircraft to expand fleet",
   "topic": "biman airbus purchase",
   "source": "bdnews24.com, Prothom Alo, Dhaka Tribune, Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-29T17:08:00Z"
+  "status": "failed",
+  "at": "2026-09-29T17:08:00Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "5bf0d642bb855478",
@@ -8348,8 +8363,13 @@
   "headline": "Biman to purchase 10 Airbus aircraft to expand fleet",
   "topic": "biman airbus purchase",
   "source": "bdnews24.com, Prothom Alo, Dhaka Tribune, Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-29T17:08:00Z"
+  "status": "failed",
+  "at": "2026-09-29T17:08:00Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "95924bf134150ba4",
@@ -8357,8 +8377,13 @@
   "headline": "Local govt elections to begin in January and end by June 6",
   "topic": "local govt elections timeline",
   "source": "Dhaka Tribune, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-29T17:08:00Z"
+  "status": "failed",
+  "at": "2026-09-29T17:08:00Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "f3fbbb5cf50ceb9b",
@@ -8366,7 +8391,12 @@
   "headline": "Local govt elections to begin in January and end by June 6",
   "topic": "local govt elections timeline",
   "source": "Dhaka Tribune, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-29T17:08:00Z"
+  "status": "failed",
+  "at": "2026-09-29T17:08:00Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
