@@ -8321,8 +8321,13 @@
   "headline": "Measles crisis: Death toll passes 1,100 as 5 die in 24 hours",
   "topic": "measles outbreak death toll",
   "source": "Dhaka Tribune, Prothom Alo, bdnews24.com, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-29T16:09:14Z"
+  "status": "failed",
+  "at": "2026-09-29T16:09:14Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "9569cdac51f182b3",
@@ -8330,8 +8335,13 @@
   "headline": "Measles crisis: Death toll passes 1,100 as 5 die in 24 hours",
   "topic": "measles outbreak death toll",
   "source": "Dhaka Tribune, Prothom Alo, bdnews24.com, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-29T16:09:14Z"
+  "status": "failed",
+  "at": "2026-09-29T16:09:14Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "3e40c52bf7c25831",
@@ -8339,8 +8349,13 @@
   "headline": "Measles crisis: Death toll passes 1,100 as 5 die in 24 hours",
   "topic": "measles outbreak death toll",
   "source": "Dhaka Tribune, Prothom Alo, bdnews24.com, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-29T16:09:14Z"
+  "status": "failed",
+  "at": "2026-09-29T16:09:14Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "7890005e798ce233",
@@ -8348,8 +8363,13 @@
   "headline": "Measles crisis: Death toll passes 1,100 as 5 die in 24 hours",
   "topic": "measles outbreak death toll",
   "source": "Dhaka Tribune, Prothom Alo, bdnews24.com, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-29T16:09:14Z"
+  "status": "failed",
+  "at": "2026-09-29T16:09:14Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "a8b94e74745e2ec2",
@@ -8357,8 +8377,13 @@
   "headline": "Humaiun: Hasina has no chance of returning to Bangladesh",
   "topic": "hasina return and caretaker govt",
   "source": "Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-09-29T16:09:14Z"
+  "status": "failed",
+  "at": "2026-09-29T16:09:14Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "1f76a8109cdcdf4b",
@@ -8366,7 +8391,12 @@
   "headline": "Humaiun: Hasina has no chance of returning to Bangladesh",
   "topic": "hasina return and caretaker govt",
   "source": "Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-09-29T16:09:14Z"
+  "status": "failed",
+  "at": "2026-09-29T16:09:14Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
