@@ -8335,8 +8335,13 @@
   "headline": "Rain-hit Asian Games: Bangladesh reach semi-finals without playing a ball",
   "topic": "bangladesh asian games cricket semifinals",
   "source": "Jamuna TV, The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-29T04:11:21Z"
+  "status": "failed",
+  "at": "2026-09-29T04:11:21Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "51f13396a143865f",
@@ -8344,8 +8349,13 @@
   "headline": "Rain-hit Asian Games: Bangladesh reach semi-finals without playing a ball",
   "topic": "bangladesh asian games cricket semifinals",
   "source": "Jamuna TV, The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-29T04:11:21Z"
+  "status": "failed",
+  "at": "2026-09-29T04:11:21Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "b6bfb821bc85993e",
@@ -8353,8 +8363,13 @@
   "headline": "Rain-hit Asian Games: Bangladesh reach semi-finals without playing a ball",
   "topic": "bangladesh asian games cricket semifinals",
   "source": "Jamuna TV, The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-29T04:11:21Z"
+  "status": "failed",
+  "at": "2026-09-29T04:11:21Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "a82b3acd523ffc25",
@@ -8362,8 +8377,13 @@
   "headline": "Police arrest 18 in attacks on studio and health center in Dhaka",
   "topic": "arrests in studio and health center attacks",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-29T04:11:21Z"
+  "status": "failed",
+  "at": "2026-09-29T04:11:21Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "7e40a8734cd5413f",
@@ -8371,7 +8391,12 @@
   "headline": "Police arrest 18 in attacks on studio and health center in Dhaka",
   "topic": "arrests in studio and health center attacks",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-29T04:11:21Z"
+  "status": "failed",
+  "at": "2026-09-29T04:11:21Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
