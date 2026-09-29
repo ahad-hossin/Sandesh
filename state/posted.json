@@ -8363,8 +8363,13 @@
   "headline": "US and Iran restart peace talks through mediators after 7 months of conflict",
   "topic": "US Iran Conflict Talks",
   "source": "Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-29T01:07:46Z"
+  "status": "failed",
+  "at": "2026-09-29T01:07:46Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "d8472032491e6d5f",
@@ -8372,8 +8377,13 @@
   "headline": "US and Iran restart peace talks through mediators after 7 months of conflict",
   "topic": "US Iran Conflict Talks",
   "source": "Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-29T01:07:46Z"
+  "status": "failed",
+  "at": "2026-09-29T01:07:46Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "dbec068d6d111edf",
@@ -8381,7 +8391,12 @@
   "headline": "BTS wins 3 MTV VMAs after comeback; Lisa makes history with Best Pop award",
   "topic": "BTS Lisa Makes History",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-29T01:07:46Z"
+  "status": "failed",
+  "at": "2026-09-29T01:07:46Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
