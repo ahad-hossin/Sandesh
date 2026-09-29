@@ -8321,8 +8321,13 @@
   "headline": "10 arrested as house takeover attempt foiled in Adabor",
   "topic": "adabor house attack",
   "source": "Dhaka Tribune, bdnews24.com, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-29T09:12:44Z"
+  "status": "failed",
+  "at": "2026-09-29T09:12:44Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "79cf3be22c009ffa",
@@ -8330,8 +8335,13 @@
   "headline": "10 arrested as house takeover attempt foiled in Adabor",
   "topic": "adabor house attack",
   "source": "Dhaka Tribune, bdnews24.com, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-29T09:12:44Z"
+  "status": "failed",
+  "at": "2026-09-29T09:12:44Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "8551ab0c1d7e0ceb",
@@ -8339,8 +8349,13 @@
   "headline": "10 arrested as house takeover attempt foiled in Adabor",
   "topic": "adabor house attack",
   "source": "Dhaka Tribune, bdnews24.com, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-29T09:12:44Z"
+  "status": "failed",
+  "at": "2026-09-29T09:12:44Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "d3b61bd082449cbd",
@@ -8348,8 +8363,13 @@
   "headline": "10 arrested as house takeover attempt foiled in Adabor",
   "topic": "adabor house attack",
   "source": "Dhaka Tribune, bdnews24.com, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-29T09:12:44Z"
+  "status": "failed",
+  "at": "2026-09-29T09:12:44Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "6c48abab89c59c04",
@@ -8357,8 +8377,13 @@
   "headline": "UPL staff harassed over sale of 'The Unfinished Memoirs' in Dhaka",
   "topic": "upl book sale chaos",
   "source": "bdnews24.com, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-29T09:12:44Z"
+  "status": "failed",
+  "at": "2026-09-29T09:12:44Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "ea5302a8efc269e0",
@@ -8366,7 +8391,12 @@
   "headline": "UPL staff harassed over sale of 'The Unfinished Memoirs' in Dhaka",
   "topic": "upl book sale chaos",
   "source": "bdnews24.com, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-29T09:12:44Z"
+  "status": "failed",
+  "at": "2026-09-29T09:12:44Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
