@@ -8335,8 +8335,13 @@
   "headline": "1,104 dead as measles outbreak kills over 1,100 in Bangladesh",
   "topic": "measles outbreak death toll",
   "source": "Dhaka Tribune, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-29T19:09:20Z"
+  "status": "failed",
+  "at": "2026-09-29T19:09:20Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "7890005e798ce233",
@@ -8344,8 +8349,13 @@
   "headline": "1,104 dead as measles outbreak kills over 1,100 in Bangladesh",
   "topic": "measles outbreak death toll",
   "source": "Dhaka Tribune, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-29T19:09:20Z"
+  "status": "failed",
+  "at": "2026-09-29T19:09:20Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "7d2c55af43b5a96b",
@@ -8353,8 +8363,13 @@
   "headline": "£900m breach: Man City found guilty of all financial charges by Premier League",
   "topic": "man city financial breach guilty",
   "source": "bdnews24.com, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-29T19:09:20Z"
+  "status": "failed",
+  "at": "2026-09-29T19:09:20Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "ab43a0ae8df862d8",
@@ -8362,8 +8377,13 @@
   "headline": "£900m breach: Man City found guilty of all financial charges by Premier League",
   "topic": "man city financial breach guilty",
   "source": "bdnews24.com, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-29T19:09:20Z"
+  "status": "failed",
+  "at": "2026-09-29T19:09:20Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "eb9f335367e651ba",
@@ -8371,7 +8391,12 @@
   "headline": "£900m breach: Man City found guilty of all financial charges by Premier League",
   "topic": "man city financial breach guilty",
   "source": "bdnews24.com, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-29T19:09:20Z"
+  "status": "failed",
+  "at": "2026-09-29T19:09:20Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
