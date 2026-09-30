@@ -8377,8 +8377,13 @@
   "headline": "PM Tarique Rahman to visit Feni tomorrow for first time since taking office",
   "topic": "tarek rahman visit feni",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-30T05:09:48Z"
+  "status": "failed",
+  "at": "2026-09-30T05:09:48Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "13ea6d758ef2781e",
@@ -8386,7 +8391,12 @@
   "headline": "US Dollar poised for largest monthly rise against Euro in 14 months",
   "topic": "dollar rise september",
   "source": "bdnews24.com",
-  "status": "queued",
-  "at": "2026-09-30T05:09:48Z"
+  "status": "failed",
+  "at": "2026-09-30T05:09:48Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
