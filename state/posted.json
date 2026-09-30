@@ -1,33 +1,5 @@
 [
  {
-  "title_hash": "58d4b61df35d607d",
-  "url": "https://www.jamuna.tv/national/664909",
-  "headline": "Police raid JaSaD office in Dhaka, detain nearly 300 people",
-  "topic": "police raid jasad office",
-  "source": "Prothom Alo, Dhaka Tribune, Jamuna TV, bdnews24.com",
-  "status": "failed",
-  "at": "2026-09-26T20:12:08Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "00a5886f46b90a04",
-  "url": "https://bdnews24.com/politics/4bpn8p0zle",
-  "headline": "Police raid JaSaD office in Dhaka, detain nearly 300 people",
-  "topic": "police raid jasad office",
-  "source": "Prothom Alo, Dhaka Tribune, Jamuna TV, bdnews24.com",
-  "status": "failed",
-  "at": "2026-09-26T20:12:08Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "e5cd4ecfd7c3f694",
   "url": "https://www.dhakatribune.com/bangladesh/crime/420749/hundreds-came-bulldozers-followed-who-sent-them",
   "headline": "200 masked men raze Mirpur healthcare center with bulldozers",
@@ -8398,5 +8370,23 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "2187849d0e2cfd4b",
+  "url": "https://www.jamuna.tv/health/665202",
+  "headline": "Dengue claims 6 lives in 24 hours, 1,948 hospitalized",
+  "topic": "bangladesh dengue deaths surge",
+  "source": "Jamuna TV",
+  "status": "queued",
+  "at": "2026-09-30T12:10:47Z"
+ },
+ {
+  "title_hash": "ed9479b14f08e792",
+  "url": "https://www.dhakatribune.com/bangladesh/health/421010/measles-outbreak-death-toll-reaches-1-108-as-four",
+  "headline": "1,108 deaths from measles outbreak as four die in 24 hours",
+  "topic": "bangladesh measles outbreak deaths rise",
+  "source": "Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-09-30T12:10:47Z"
  }
 ]
