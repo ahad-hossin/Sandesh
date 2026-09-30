@@ -8321,8 +8321,13 @@
   "headline": "Plane drops 14,000ft after co-pilot stabs captain in cockpit struggle",
   "topic": "flydubai pilot attack",
   "source": "Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-30T23:09:17Z"
+  "status": "failed",
+  "at": "2026-09-30T23:09:17Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "e2d2f820baac8791",
@@ -8330,8 +8335,13 @@
   "headline": "Plane drops 14,000ft after co-pilot stabs captain in cockpit struggle",
   "topic": "flydubai pilot attack",
   "source": "Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-30T23:09:17Z"
+  "status": "failed",
+  "at": "2026-09-30T23:09:17Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "874ddb805dcdad3f",
@@ -8339,8 +8349,13 @@
   "headline": "Plane drops 14,000ft after co-pilot stabs captain in cockpit struggle",
   "topic": "flydubai pilot attack",
   "source": "Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-30T23:09:17Z"
+  "status": "failed",
+  "at": "2026-09-30T23:09:17Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "428d845eb84679f2",
@@ -8348,8 +8363,13 @@
   "headline": "Plane drops 14,000ft after co-pilot stabs captain in cockpit struggle",
   "topic": "flydubai pilot attack",
   "source": "Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-30T23:09:17Z"
+  "status": "failed",
+  "at": "2026-09-30T23:09:17Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "2410ba4ab757a06f",
@@ -8357,8 +8377,13 @@
   "headline": "PM Tarique Rahman orders release of teacher detained over alleged remarks",
   "topic": "pm orders release of kushtia teacher",
   "source": "The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-30T23:09:17Z"
+  "status": "failed",
+  "at": "2026-09-30T23:09:17Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "d951e034d9c5546c",
@@ -8366,7 +8391,12 @@
   "headline": "PM Tarique Rahman orders release of teacher detained over alleged remarks",
   "topic": "pm orders release of kushtia teacher",
   "source": "The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-30T23:09:17Z"
+  "status": "failed",
+  "at": "2026-09-30T23:09:17Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
