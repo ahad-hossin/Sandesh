@@ -1,33 +1,5 @@
 [
  {
-  "title_hash": "dfaf7063efb2a11d",
-  "url": "https://www.dhakatribune.com/bangladesh/court/420748/radda-healthcare-vandalized-case-four-arrested",
-  "headline": "200+ masked men raze Mirpur health centre, DMP commissioner orders probe",
-  "topic": "mirpur radda health centre demolition",
-  "source": "Dhaka Tribune, The Daily Star, Jamuna TV, Prothom Alo, bdnews24.com",
-  "status": "failed",
-  "at": "2026-09-26T17:07:24Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "5d7b5dc01c9137f5",
-  "url": "https://www.prothomalo.com/bangladesh/w7cucogx00",
-  "headline": "200+ masked men raze Mirpur health centre, DMP commissioner orders probe",
-  "topic": "mirpur radda health centre demolition",
-  "source": "Dhaka Tribune, The Daily Star, Jamuna TV, Prothom Alo, bdnews24.com",
-  "status": "failed",
-  "at": "2026-09-26T17:07:24Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "045d24fff36170a2",
   "url": "https://www.dhakatribune.com/bangladesh/dhaka/420738/dmp-commissioner-police-negligence-probe-into",
   "headline": "200+ masked men raze Mirpur health centre, DMP commissioner orders probe",
@@ -8398,5 +8370,23 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "283709fc7a5cc814",
+  "url": "https://www.kishoralo.com/feature/kyv0h6ev9b",
+  "headline": "Bill Gates warns AI could cause 1 billion deaths",
+  "topic": "Bill Gates AI warning",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-30T03:09:01Z"
+ },
+ {
+  "title_hash": "f4db6524d683837f",
+  "url": "https://www.prothomalo.com/business/economics/0p6qej518u",
+  "headline": "New rules for TCB: Who can get subsidized food cards",
+  "topic": "TCB card eligibility",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-30T03:09:01Z"
  }
 ]
