@@ -1,47 +1,5 @@
 [
  {
-  "title_hash": "a432bf73c0c8cc0a",
-  "url": "https://www.dhakatribune.com/bangladesh/crime/420708/four-arrested-over-attack-on-radda-healthcare",
-  "headline": "200+ masked men raze Mirpur healthcare center with bulldozers",
-  "topic": "mirpur radda healthcare center vandalized",
-  "source": "Dhaka Tribune, Prothom Alo, Jamuna TV",
-  "status": "failed",
-  "at": "2026-09-26T20:12:08Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "285fa4bb5f9cbfce",
-  "url": "https://www.dhakatribune.com/bangladesh/politics/420734/police-raid-jasad-office-detain-scores-over",
-  "headline": "Police raid JaSaD office in Dhaka, detain nearly 300 people",
-  "topic": "police raid jasad office",
-  "source": "Prothom Alo, Dhaka Tribune, Jamuna TV, bdnews24.com",
-  "status": "failed",
-  "at": "2026-09-26T20:12:08Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "0369a68750dfc028",
-  "url": "https://www.prothomalo.com/politics/ioy9bngjwv",
-  "headline": "Police raid JaSaD office in Dhaka, detain nearly 300 people",
-  "topic": "police raid jasad office",
-  "source": "Prothom Alo, Dhaka Tribune, Jamuna TV, bdnews24.com",
-  "status": "failed",
-  "at": "2026-09-26T20:12:08Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "58d4b61df35d607d",
   "url": "https://www.jamuna.tv/national/664909",
   "headline": "Police raid JaSaD office in Dhaka, detain nearly 300 people",
@@ -8398,5 +8356,32 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "ed9479b14f08e792",
+  "url": "https://www.dhakatribune.com/bangladesh/health/421010/measles-outbreak-death-toll-reaches-1-108-as-four",
+  "headline": "Measles outbreak: Death toll reaches 1,108 as four die in 24 hours",
+  "topic": "measles outbreak death toll passes 1100",
+  "source": "Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-09-30T10:11:24Z"
+ },
+ {
+  "title_hash": "9fb76ed1e196026d",
+  "url": "https://bdnews24.com/bangladesh/emvj3uoc63",
+  "headline": "Ex-major general arrested over attack on New Gini Properties",
+  "topic": "ex-major general arrested over attack",
+  "source": "bdnews24.com, Jamuna TV",
+  "status": "queued",
+  "at": "2026-09-30T10:11:24Z"
+ },
+ {
+  "title_hash": "ceb0a9d83945e8c9",
+  "url": "https://www.jamuna.tv/national/665193",
+  "headline": "Ex-major general arrested over attack on New Gini Properties",
+  "topic": "ex-major general arrested over attack",
+  "source": "bdnews24.com, Jamuna TV",
+  "status": "queued",
+  "at": "2026-09-30T10:11:24Z"
  }
 ]
