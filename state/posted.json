@@ -8349,8 +8349,13 @@
   "headline": "Security vacuum fears as US forces exit Iraq",
   "topic": "us troops exit iraq",
   "source": "bdnews24.com, The Daily Star, Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-30T06:24:30Z"
+  "status": "failed",
+  "at": "2026-09-30T06:24:30Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "534ed36c98ba9e32",
@@ -8358,8 +8363,13 @@
   "headline": "Security vacuum fears as US forces exit Iraq",
   "topic": "us troops exit iraq",
   "source": "bdnews24.com, The Daily Star, Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-30T06:24:30Z"
+  "status": "failed",
+  "at": "2026-09-30T06:24:30Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "96ddbb94c8277f33",
@@ -8367,8 +8377,13 @@
   "headline": "Security vacuum fears as US forces exit Iraq",
   "topic": "us troops exit iraq",
   "source": "bdnews24.com, The Daily Star, Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-30T06:24:30Z"
+  "status": "failed",
+  "at": "2026-09-30T06:24:30Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "b004a1e6710ac7ce",
@@ -8376,7 +8391,12 @@
   "headline": "234 posts available: Biman Bangladesh Airlines recruits for 13 categories",
   "topic": "biman bangladesh recruitment",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-30T06:24:30Z"
+  "status": "failed",
+  "at": "2026-09-30T06:24:30Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
