@@ -8321,8 +8321,13 @@
   "headline": "BFIU seeks content creator Salman Muqtadir's bank account details",
   "topic": "bfiu seeks salman muqtadir bank details",
   "source": "bdnews24.com, Dhaka Tribune, Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-30T13:15:05Z"
+  "status": "failed",
+  "at": "2026-09-30T13:15:05Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "cea4c31e64552ba6",
@@ -8330,8 +8335,13 @@
   "headline": "BFIU seeks content creator Salman Muqtadir's bank account details",
   "topic": "bfiu seeks salman muqtadir bank details",
   "source": "bdnews24.com, Dhaka Tribune, Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-30T13:15:05Z"
+  "status": "failed",
+  "at": "2026-09-30T13:15:05Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "1e7bb8ee7287ed83",
@@ -8339,8 +8349,13 @@
   "headline": "BFIU seeks content creator Salman Muqtadir's bank account details",
   "topic": "bfiu seeks salman muqtadir bank details",
   "source": "bdnews24.com, Dhaka Tribune, Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-30T13:15:05Z"
+  "status": "failed",
+  "at": "2026-09-30T13:15:05Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "b281a9bcf48cc395",
@@ -8348,8 +8363,13 @@
   "headline": "BFIU seeks content creator Salman Muqtadir's bank account details",
   "topic": "bfiu seeks salman muqtadir bank details",
   "source": "bdnews24.com, Dhaka Tribune, Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-30T13:15:05Z"
+  "status": "failed",
+  "at": "2026-09-30T13:15:05Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "7260df2dad512a14",
@@ -8357,8 +8377,13 @@
   "headline": "DU restores Sheikh Mujibur Rahman Hall name at main gate",
   "topic": "du restores sheikh mujib hall name",
   "source": "Dhaka Tribune, bdnews24.com",
-  "status": "queued",
-  "at": "2026-09-30T13:15:05Z"
+  "status": "failed",
+  "at": "2026-09-30T13:15:05Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "265b22d2982a2190",
@@ -8366,7 +8391,12 @@
   "headline": "DU restores Sheikh Mujibur Rahman Hall name at main gate",
   "topic": "du restores sheikh mujib hall name",
   "source": "Dhaka Tribune, bdnews24.com",
-  "status": "queued",
-  "at": "2026-09-30T13:15:05Z"
+  "status": "failed",
+  "at": "2026-09-30T13:15:05Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
