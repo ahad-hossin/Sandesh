@@ -1,47 +1,5 @@
 [
  {
-  "title_hash": "045d24fff36170a2",
-  "url": "https://www.dhakatribune.com/bangladesh/dhaka/420738/dmp-commissioner-police-negligence-probe-into",
-  "headline": "200+ masked men raze Mirpur health centre, DMP commissioner orders probe",
-  "topic": "mirpur radda health centre demolition",
-  "source": "Dhaka Tribune, The Daily Star, Jamuna TV, Prothom Alo, bdnews24.com",
-  "status": "failed",
-  "at": "2026-09-26T17:07:24Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "612ecaa01cc9279d",
-  "url": "https://www.thedailystar.net/news/crime-justice/news/3-member-body-probe-police-role-mirpur-health-centre-attack-4283446",
-  "headline": "200+ masked men raze Mirpur health centre, DMP commissioner orders probe",
-  "topic": "mirpur radda health centre demolition",
-  "source": "Dhaka Tribune, The Daily Star, Jamuna TV, Prothom Alo, bdnews24.com",
-  "status": "failed",
-  "at": "2026-09-26T17:07:24Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "e709b21c9f03e7c9",
-  "url": "https://www.jamuna.tv/national/664894",
-  "headline": "200+ masked men raze Mirpur health centre, DMP commissioner orders probe",
-  "topic": "mirpur radda health centre demolition",
-  "source": "Dhaka Tribune, The Daily Star, Jamuna TV, Prothom Alo, bdnews24.com",
-  "status": "failed",
-  "at": "2026-09-26T17:07:24Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "6bf4df46242173c6",
   "url": "https://www.prothomalo.com/bangladesh/crime/2tnzr54wb7",
   "headline": "200+ masked men raze Mirpur health centre, DMP commissioner orders probe",
@@ -8398,5 +8356,32 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "f1990bea569268b8",
+  "url": "https://www.prothomalo.com/bangladesh/8kf7pilk7n",
+  "headline": "300 prisoners died while being taken to hospital in 5 years 9 months",
+  "topic": "prisoner deaths in hospitals",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-09-30T04:10:57Z"
+ },
+ {
+  "title_hash": "0e4f4408dd2e4033",
+  "url": "https://www.thedailystar.net/news/world/news/trump-touts-ai-boss-pledge-self-regulate-4286676",
+  "headline": "Trump and tech giants agree to self-regulate AI in White House accord",
+  "topic": "trump ai safety agreement",
+  "source": "Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-30T04:10:57Z"
+ },
+ {
+  "title_hash": "5b1675719eeaf820",
+  "url": "https://www.prothomalo.com/world/usa/c3qskna8y6",
+  "headline": "Trump and tech giants agree to self-regulate AI in White House accord",
+  "topic": "trump ai safety agreement",
+  "source": "Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-09-30T04:10:57Z"
  }
 ]
