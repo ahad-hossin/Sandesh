@@ -8363,8 +8363,13 @@
   "headline": "300 prisoners died while being taken to hospital in 5 years 9 months",
   "topic": "prisoner deaths in hospitals",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-09-30T04:10:57Z"
+  "status": "failed",
+  "at": "2026-09-30T04:10:57Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "0e4f4408dd2e4033",
@@ -8372,8 +8377,13 @@
   "headline": "Trump and tech giants agree to self-regulate AI in White House accord",
   "topic": "trump ai safety agreement",
   "source": "Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-30T04:10:57Z"
+  "status": "failed",
+  "at": "2026-09-30T04:10:57Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "5b1675719eeaf820",
@@ -8381,7 +8391,12 @@
   "headline": "Trump and tech giants agree to self-regulate AI in White House accord",
   "topic": "trump ai safety agreement",
   "source": "Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-09-30T04:10:57Z"
+  "status": "failed",
+  "at": "2026-09-30T04:10:57Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
