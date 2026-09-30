@@ -8377,8 +8377,13 @@
   "headline": "Tragedy in Rajbari: 2-year-old child drowns in canal near home",
   "topic": "child drowns in rajbari canal",
   "source": "Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-30T14:10:26Z"
+  "status": "failed",
+  "at": "2026-09-30T14:10:26Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "70c00015a5c96159",
@@ -8386,7 +8391,12 @@
   "headline": "Two cousins drown in pond in Gobindaganj; family mourns",
   "topic": "cousin sisters drown in gobindaganj pond",
   "source": "Jamuna TV",
-  "status": "queued",
-  "at": "2026-09-30T14:10:26Z"
+  "status": "failed",
+  "at": "2026-09-30T14:10:26Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
