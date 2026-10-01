@@ -8349,8 +8349,13 @@
   "headline": "Imported oranges costing 87 taka sold for 520 taka per kg in retail markets",
   "topic": "egg prices soar dhaka",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-01T04:07:20Z"
+  "status": "failed",
+  "at": "2026-10-01T04:07:20Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "2dd3412e99fc6bb6",
@@ -8358,8 +8363,13 @@
   "headline": "Imported oranges costing 87 taka sold for 520 taka per kg in retail markets",
   "topic": "egg prices soar dhaka",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-01T04:07:20Z"
+  "status": "failed",
+  "at": "2026-10-01T04:07:20Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "2367773e6a9280d9",
@@ -8367,8 +8377,13 @@
   "headline": "Imported oranges costing 87 taka sold for 520 taka per kg in retail markets",
   "topic": "egg prices soar dhaka",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-01T04:07:20Z"
+  "status": "failed",
+  "at": "2026-10-01T04:07:20Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "70628c0af39c3a0a",
@@ -8376,7 +8391,12 @@
   "headline": "Petrobangla announces large recruitment for 753 posts in grades 9 & 10",
   "topic": "petrobangla large recruitment",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-01T04:07:20Z"
+  "status": "failed",
+  "at": "2026-10-01T04:07:20Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
