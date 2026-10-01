@@ -8363,8 +8363,13 @@
   "headline": "Bangladesh vs Pakistan Asian Games semi-final toss delayed due to wet outfield; 13-over match confirmed",
   "topic": "Bangladesh Pakistan Asian Games cricket",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-01T01:07:06Z"
+  "status": "failed",
+  "at": "2026-10-01T01:07:06Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "2410ba4ab757a06f",
@@ -8372,8 +8377,13 @@
   "headline": "PM Tarique orders release of teacher detained over alleged derogatory remarks in Kushtia",
   "topic": "PM orders release of Kushtia teacher",
   "source": "The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-01T01:07:06Z"
+  "status": "failed",
+  "at": "2026-10-01T01:07:06Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "d951e034d9c5546c",
@@ -8381,7 +8391,12 @@
   "headline": "PM Tarique orders release of teacher detained over alleged derogatory remarks in Kushtia",
   "topic": "PM orders release of Kushtia teacher",
   "source": "The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-01T01:07:06Z"
+  "status": "failed",
+  "at": "2026-10-01T01:07:06Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
