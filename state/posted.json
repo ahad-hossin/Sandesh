@@ -1,89 +1,5 @@
 [
  {
-  "title_hash": "435ed17f067fa451",
-  "url": "https://www.dhakatribune.com/bangladesh/crime/420831/gunfire-looting-vandalism-in-midnight-dhaka",
-  "headline": "Midnight chaos: Gunfire, looting, and vandalism hit Dhaka",
-  "topic": "dhaka midnight rampage gunfire looting",
-  "source": "Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-09-27T22:05:38Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "336eed1f588f3193",
-  "url": "https://www.prothomalo.com/bangladesh/district/ga9pi515l5",
-  "headline": "Clash over drug trade control in two groups fight in Chittagong",
-  "topic": "chittagong drug trade clash gunfire",
-  "source": "Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-27T22:05:38Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "9bae001256dc36e1",
-  "url": "https://www.thedailystar.net/news/crime-justice/news/blast-condemns-attack-and-demolition-mirpurs-radda-health-centre-4284726",
-  "headline": "BLAST condemns attack and demolition of Mirpur's Radda health centre",
-  "topic": "mirpur radda health centre attack",
-  "source": "The Daily Star, Prothom Alo, Dhaka Tribune, bdnews24.com",
-  "status": "failed",
-  "at": "2026-09-27T23:10:09Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "8dfecd6e4afe5871",
-  "url": "https://www.prothomalo.com/politics/9tvv8nw462",
-  "headline": "BLAST condemns attack and demolition of Mirpur's Radda health centre",
-  "topic": "mirpur radda health centre attack",
-  "source": "The Daily Star, Prothom Alo, Dhaka Tribune, bdnews24.com",
-  "status": "failed",
-  "at": "2026-09-27T23:10:09Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "04699a7075cbb9d8",
-  "url": "https://www.prothomalo.com/politics/nr0ea8jn94",
-  "headline": "BLAST condemns attack and demolition of Mirpur's Radda health centre",
-  "topic": "mirpur radda health centre attack",
-  "source": "The Daily Star, Prothom Alo, Dhaka Tribune, bdnews24.com",
-  "status": "failed",
-  "at": "2026-09-27T23:10:09Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "b96f56c97a1406a8",
-  "url": "https://www.dhakatribune.com/bangladesh/politics/420791/asif-mahmud-demands-arrest-neutral-probe-into",
-  "headline": "BLAST condemns attack and demolition of Mirpur's Radda health centre",
-  "topic": "mirpur radda health centre attack",
-  "source": "The Daily Star, Prothom Alo, Dhaka Tribune, bdnews24.com",
-  "status": "failed",
-  "at": "2026-09-27T23:10:09Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "c3221591bb89a0bf",
   "url": "https://www.thedailystar.net/news/crime-justice/news/cops-stood-radda-centre-was-looted-4284746",
   "headline": "BLAST condemns attack and demolition of Mirpur's Radda health centre",
@@ -8398,5 +8314,59 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "3a5feb6558ce6968",
+  "url": "https://www.thedailystar.net/news/crime-justice/news/expelled-jubo-dal-leader-taken-custody-after-banglamotor-altercation-leaves-man-injured-4288426",
+  "headline": "Banglamotor chaos: Expelled Jubo Dal leader detained after man injured",
+  "topic": "banglamotor altercation jubo dal",
+  "source": "The Daily Star, Jamuna TV, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-01T23:09:35Z"
+ },
+ {
+  "title_hash": "b48444c91a5e79d0",
+  "url": "https://www.jamuna.tv/national/665289",
+  "headline": "Banglamotor chaos: Expelled Jubo Dal leader detained after man injured",
+  "topic": "banglamotor altercation jubo dal",
+  "source": "The Daily Star, Jamuna TV, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-01T23:09:35Z"
+ },
+ {
+  "title_hash": "84faab21c14729ef",
+  "url": "https://www.prothomalo.com/bangladesh/crime/jk9dyzejbp",
+  "headline": "Banglamotor chaos: Expelled Jubo Dal leader detained after man injured",
+  "topic": "banglamotor altercation jubo dal",
+  "source": "The Daily Star, Jamuna TV, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-01T23:09:35Z"
+ },
+ {
+  "title_hash": "a08d4a4e935b9b75",
+  "url": "https://www.thedailystar.net/news/bangladesh/news/man-hurt-late-night-chaos-banglamotor-4288506",
+  "headline": "Banglamotor chaos: Expelled Jubo Dal leader detained after man injured",
+  "topic": "banglamotor altercation jubo dal",
+  "source": "The Daily Star, Jamuna TV, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-01T23:09:35Z"
+ },
+ {
+  "title_hash": "2f70764394fb1153",
+  "url": "https://bdnews24.com/bangladesh/lnt19vuf34",
+  "headline": "BRUR sacks 11 staff including 3 teachers over Abu Sayed killing",
+  "topic": "teachers sacked abu sayed death",
+  "source": "bdnews24.com, Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-10-01T23:09:35Z"
+ },
+ {
+  "title_hash": "f0a36048e5dffee3",
+  "url": "https://www.dhakatribune.com/bangladesh/campus1/421132/brur-expels-11-including-3-teachers-over-shaheed",
+  "headline": "BRUR sacks 11 staff including 3 teachers over Abu Sayed killing",
+  "topic": "teachers sacked abu sayed death",
+  "source": "bdnews24.com, Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-10-01T23:09:35Z"
  }
 ]
