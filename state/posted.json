@@ -1,33 +1,5 @@
 [
  {
-  "title_hash": "58fb4cbd38c1702a",
-  "url": "https://www.dhakatribune.com/bangladesh/politics/420779/salahuddin-calls-salman-muqtadir%E2%80%99s-bnp-extortion",
-  "headline": "Salman Muqtadir urges Home Minister to ensure safety after studio attack",
-  "topic": "salman muqtadir studio attack",
-  "source": "Dhaka Tribune, The Daily Star, Prothom Alo, Jamuna TV, bdnews24.com",
-  "status": "failed",
-  "at": "2026-09-27T17:10:40Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "be17ee2e7c1f78e8",
-  "url": "https://www.prothomalo.com/bangladesh/crime/pi9k6e43id",
-  "headline": "Salman Muqtadir urges Home Minister to ensure safety after studio attack",
-  "topic": "salman muqtadir studio attack",
-  "source": "Dhaka Tribune, The Daily Star, Prothom Alo, Jamuna TV, bdnews24.com",
-  "status": "failed",
-  "at": "2026-09-27T17:10:40Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "eb03cb1af8820c4b",
   "url": "https://www.prothomalo.com/video/bangladesh/acf7djjcll",
   "headline": "Salman Muqtadir urges Home Minister to ensure safety after studio attack",
@@ -8398,5 +8370,23 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "95696463d4b4b5d4",
+  "url": "https://www.dhakatribune.com/bangladesh/421136/bnp-draws-the-line-as-misty-forced-to-quit",
+  "headline": "BNP draws the line as Misty forced to quit",
+  "topic": "mp misty resigns amid allegations",
+  "source": "Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-10-01T19:13:39Z"
+ },
+ {
+  "title_hash": "c8b1ef9bd296774a",
+  "url": "https://www.thedailystar.net/news/bangladesh/news/embankment-collapses-within-two-months-4288286",
+  "headline": "Tk 12.86cr project: Riverbank embankment collapses within two months in Faridpur",
+  "topic": "embankment collapses shortly after construction",
+  "source": "The Daily Star",
+  "status": "queued",
+  "at": "2026-10-01T19:13:39Z"
  }
 ]
