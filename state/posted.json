@@ -1,33 +1,5 @@
 [
  {
-  "title_hash": "ce029efdc61bb0bf",
-  "url": "https://www.prothomalo.com/bangladesh/capital/9521nuzga4",
-  "headline": "Armed gang attacks housing project and Salman Muqtadir's studio, loots Tk 1 crore; 2 held",
-  "topic": "Salman Muqtadir studio attacked",
-  "source": "Dhaka Tribune, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-27T04:07:21Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "43f614c372868453",
-  "url": "https://www.dhakatribune.com/bangladesh/420763/tarique-returns-home-after-five-day-us-visit",
-  "headline": "PM Tarique Rahman returns to Dhaka after five-day US visit for UN General Assembly",
-  "topic": "tarique rahman returns from us visit",
-  "source": "Dhaka Tribune, The Daily Star, bdnews24.com, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-27T05:06:58Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "2b7c1659528e1a95",
   "url": "https://www.thedailystar.net/news/news/pm-returns-home-after-five-day-us-visit-4283976",
   "headline": "PM Tarique Rahman returns to Dhaka after five-day US visit for UN General Assembly",
@@ -8398,5 +8370,23 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "2367773e6a9280d9",
+  "url": "https://www.prothomalo.com/business/88q5btt487",
+  "headline": "Egg price hits Tk 15 per piece in Dhaka markets, dozen up to Tk 160",
+  "topic": "bangladesh egg prices rise",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-01T02:07:33Z"
+ },
+ {
+  "title_hash": "e805294cb32270b0",
+  "url": "https://www.prothomalo.com/sports/cricket/ub1hfxe88b",
+  "headline": "Bangladesh in trouble losing three wickets as Parvez Hossain departs in Asian Games semi-final against Pakistan",
+  "topic": "asian games cricket bangladesh semifinal",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-01T02:07:33Z"
  }
 ]
