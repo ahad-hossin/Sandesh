@@ -8335,8 +8335,13 @@
   "headline": "Gazette for 46 dropped 49th BCS candidates to be issued Monday",
   "topic": "46 dropped 49th BCS candidates to get gazette Monday",
   "source": "Prothom Alo, bdnews24.com",
-  "status": "queued",
-  "at": "2026-10-01T11:09:27Z"
+  "status": "failed",
+  "at": "2026-10-01T11:09:27Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "fa58363b1fb38007",
@@ -8344,8 +8349,13 @@
   "headline": "Gazette for 46 dropped 49th BCS candidates to be issued Monday",
   "topic": "46 dropped 49th BCS candidates to get gazette Monday",
   "source": "Prothom Alo, bdnews24.com",
-  "status": "queued",
-  "at": "2026-10-01T11:09:27Z"
+  "status": "failed",
+  "at": "2026-10-01T11:09:27Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "d3a1bf72e534d19b",
@@ -8353,8 +8363,13 @@
   "headline": "Tk 15.42bn flood control project inaugurated in Feni to shield district",
   "topic": "PM inaugurates Tk1,542cr flood control, drainage, irrigation project in Feni",
   "source": "Dhaka Tribune, bdnews24.com, Jamuna TV",
-  "status": "queued",
-  "at": "2026-10-01T11:09:27Z"
+  "status": "failed",
+  "at": "2026-10-01T11:09:27Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "cac03d394c3b3d49",
@@ -8362,8 +8377,13 @@
   "headline": "Tk 15.42bn flood control project inaugurated in Feni to shield district",
   "topic": "PM inaugurates Tk1,542cr flood control, drainage, irrigation project in Feni",
   "source": "Dhaka Tribune, bdnews24.com, Jamuna TV",
-  "status": "queued",
-  "at": "2026-10-01T11:09:27Z"
+  "status": "failed",
+  "at": "2026-10-01T11:09:27Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "c513c64578c21512",
@@ -8371,7 +8391,12 @@
   "headline": "Tk 15.42bn flood control project inaugurated in Feni to shield district",
   "topic": "PM inaugurates Tk1,542cr flood control, drainage, irrigation project in Feni",
   "source": "Dhaka Tribune, bdnews24.com, Jamuna TV",
-  "status": "queued",
-  "at": "2026-10-01T11:09:27Z"
+  "status": "failed",
+  "at": "2026-10-01T11:09:27Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
