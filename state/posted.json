@@ -1,61 +1,5 @@
 [
  {
-  "title_hash": "fb284c6204d86676",
-  "url": "https://www.prothomalo.com/politics/zk4bcegb0d",
-  "headline": "Salman Muqtadir's studio attacked over 'extortion refusal'; 2 held in Dhaka",
-  "topic": "salman muqtadir studio attacked",
-  "source": "Dhaka Tribune, Prothom Alo, Jamuna TV",
-  "status": "failed",
-  "at": "2026-09-27T05:06:58Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "3448dfb88e807fac",
-  "url": "https://www.jamuna.tv/national/664925",
-  "headline": "Salman Muqtadir's studio attacked over 'extortion refusal'; 2 held in Dhaka",
-  "topic": "salman muqtadir studio attacked",
-  "source": "Dhaka Tribune, Prothom Alo, Jamuna TV",
-  "status": "failed",
-  "at": "2026-09-27T05:06:58Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "ce029efdc61bb0bf",
-  "url": "https://www.prothomalo.com/bangladesh/capital/9521nuzga4",
-  "headline": "Salman Muqtadir's studio attacked over 'extortion refusal'; 2 held in Dhaka",
-  "topic": "salman muqtadir studio attacked",
-  "source": "Dhaka Tribune, Prothom Alo, Jamuna TV",
-  "status": "failed",
-  "at": "2026-09-27T05:06:58Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "39924767264fd112",
-  "url": "https://www.dhakatribune.com/bangladesh/dhaka/420762/salman-muqtadir%E2%80%99s-studio-attacked-over-%E2%80%98extortion",
-  "headline": "3 detained after Salman Muqtadir’s studio attacked over land dispute",
-  "topic": "content creator Salman Muqtadir's studio attacked",
-  "source": "Prothom Alo, Dhaka Tribune, Jamuna TV, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-27T06:09:50Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "a6501e800ae322f6",
   "url": "https://www.prothomalo.com/video/bangladesh/airb7slulg",
   "headline": "3 detained after Salman Muqtadir’s studio attacked over land dispute",
@@ -8398,5 +8342,41 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "6069a105e47855b7",
+  "url": "https://www.prothomalo.com/bangladesh/district/5yirf64g0e",
+  "headline": "Imported oranges costing 87 taka sold for 520 taka per kg in retail markets",
+  "topic": "egg prices soar dhaka",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-01T04:07:20Z"
+ },
+ {
+  "title_hash": "2dd3412e99fc6bb6",
+  "url": "https://www.prothomalo.com/business/raajdhaaniir-baajaare-ektti-ddim-praayy-15-ttaakaa",
+  "headline": "Imported oranges costing 87 taka sold for 520 taka per kg in retail markets",
+  "topic": "egg prices soar dhaka",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-01T04:07:20Z"
+ },
+ {
+  "title_hash": "2367773e6a9280d9",
+  "url": "https://www.prothomalo.com/business/88q5btt487",
+  "headline": "Imported oranges costing 87 taka sold for 520 taka per kg in retail markets",
+  "topic": "egg prices soar dhaka",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-01T04:07:20Z"
+ },
+ {
+  "title_hash": "70628c0af39c3a0a",
+  "url": "https://www.prothomalo.com/chakri/employment/7jftrhwpeh",
+  "headline": "Petrobangla announces large recruitment for 753 posts in grades 9 & 10",
+  "topic": "petrobangla large recruitment",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-01T04:07:20Z"
  }
 ]
