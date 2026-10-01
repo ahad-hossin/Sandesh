@@ -1,33 +1,5 @@
 [
  {
-  "title_hash": "a599e5339f1acf40",
-  "url": "https://www.prothomalo.com/video/bangladesh/enopmblyhl",
-  "headline": "TIB and HRSS condemn attacks on health centre and studio",
-  "topic": "radda health center attack and studio vandalism",
-  "source": "Dhaka Tribune, The Daily Star, Prothom Alo, bdnews24.com",
-  "status": "failed",
-  "at": "2026-09-27T14:09:08Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "204386b815e018a7",
-  "url": "https://www.dhakatribune.com/bangladesh/420803/tib-seeks-accountability-over-radda-looting",
-  "headline": "TIB and HRSS condemn attacks on health centre and studio",
-  "topic": "radda health center attack and studio vandalism",
-  "source": "Dhaka Tribune, The Daily Star, Prothom Alo, bdnews24.com",
-  "status": "failed",
-  "at": "2026-09-27T14:09:08Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "79966e280a93effc",
   "url": "https://bdnews24.com/bangladesh/on3kxo1fhj",
   "headline": "TIB and HRSS condemn attacks on health centre and studio",
@@ -8398,5 +8370,23 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "6994e93c00797fef",
+  "url": "https://www.prothomalo.com/sports/football/hj99poacl7",
+  "headline": "9-2 defeat: Bangladesh crashes out of ASEAN Cup against Indonesia",
+  "topic": "bangladesh football team loses 9-2 to indonesia in asean cup",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-01T16:14:46Z"
+ },
+ {
+  "title_hash": "52e14d7ba46e825b",
+  "url": "https://www.thedailystar.net/sports/football/news/indonesia-hammer-bangladesh-9-2-seal-final-spot-4288026",
+  "headline": "Bangladesh suffers heaviest football defeat in 3 years losing 9-2 to Indonesia",
+  "topic": "indonesia hammer bangladesh 9-2 to seal final spot in asean cup",
+  "source": "The Daily Star",
+  "status": "queued",
+  "at": "2026-10-01T16:14:46Z"
  }
 ]
