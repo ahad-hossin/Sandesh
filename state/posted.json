@@ -1,75 +1,5 @@
 [
  {
-  "title_hash": "576ca091d464348f",
-  "url": "https://www.jamuna.tv/national/664940",
-  "headline": "NCP leader alleges MP-led 'mob rule' in Mirpur as health center looted",
-  "topic": "salman muqtadir studio attack",
-  "source": "bdnews24.com, Prothom Alo, Jamuna TV, The Daily Star, Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-09-27T09:09:23Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "52957f502571b5ea",
-  "url": "https://www.jamuna.tv/national/664945",
-  "headline": "NCP leader alleges MP-led 'mob rule' in Mirpur as health center looted",
-  "topic": "salman muqtadir studio attack",
-  "source": "bdnews24.com, Prothom Alo, Jamuna TV, The Daily Star, Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-09-27T09:09:23Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "43f614c372868453",
-  "url": "https://www.dhakatribune.com/bangladesh/420763/tarique-returns-home-after-five-day-us-visit",
-  "headline": "PM Tarique Rahman returns home after five-day US visit",
-  "topic": "tarique rahman returns from us",
-  "source": "Prothom Alo, Dhaka Tribune, bdnews24.com, The Daily Star, Jamuna TV",
-  "status": "failed",
-  "at": "2026-09-27T09:09:23Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "1bc13915794dc93d",
-  "url": "https://www.prothomalo.com/video/bangladesh/tl9re7t24g",
-  "headline": "PM Tarique Rahman returns home after five-day US visit",
-  "topic": "tarique rahman returns from us",
-  "source": "Prothom Alo, Dhaka Tribune, bdnews24.com, The Daily Star, Jamuna TV",
-  "status": "failed",
-  "at": "2026-09-27T09:09:23Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "bc418451f7c8ff02",
-  "url": "https://bdnews24.com/bangladesh/vfcwvyzv1d",
-  "headline": "PM Tarique Rahman returns home after five-day US visit",
-  "topic": "tarique rahman returns from us",
-  "source": "Prothom Alo, Dhaka Tribune, bdnews24.com, The Daily Star, Jamuna TV",
-  "status": "failed",
-  "at": "2026-09-27T09:09:23Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "2b7c1659528e1a95",
   "url": "https://www.thedailystar.net/news/news/pm-returns-home-after-five-day-us-visit-4283976",
   "headline": "PM Tarique Rahman returns home after five-day US visit",
@@ -8398,5 +8328,50 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "11eebded8af769c1",
+  "url": "https://bdnews24.com/bangladesh/6siqfggtwy",
+  "headline": "Gazette for 46 dropped 49th BCS candidates to be issued Monday",
+  "topic": "46 dropped 49th BCS candidates to get gazette Monday",
+  "source": "Prothom Alo, bdnews24.com",
+  "status": "queued",
+  "at": "2026-10-01T11:09:27Z"
+ },
+ {
+  "title_hash": "fa58363b1fb38007",
+  "url": "https://www.prothomalo.com/chakri/chakri-news/uu55afbshf",
+  "headline": "Gazette for 46 dropped 49th BCS candidates to be issued Monday",
+  "topic": "46 dropped 49th BCS candidates to get gazette Monday",
+  "source": "Prothom Alo, bdnews24.com",
+  "status": "queued",
+  "at": "2026-10-01T11:09:27Z"
+ },
+ {
+  "title_hash": "d3a1bf72e534d19b",
+  "url": "https://www.dhakatribune.com/bangladesh/421088/pm-opens-tk1-542cr-flood-control-drainage",
+  "headline": "Tk 15.42bn flood control project inaugurated in Feni to shield district",
+  "topic": "PM inaugurates Tk1,542cr flood control, drainage, irrigation project in Feni",
+  "source": "Dhaka Tribune, bdnews24.com, Jamuna TV",
+  "status": "queued",
+  "at": "2026-10-01T11:09:27Z"
+ },
+ {
+  "title_hash": "cac03d394c3b3d49",
+  "url": "https://bdnews24.com/bangladesh/ov7swipnc5",
+  "headline": "Tk 15.42bn flood control project inaugurated in Feni to shield district",
+  "topic": "PM inaugurates Tk1,542cr flood control, drainage, irrigation project in Feni",
+  "source": "Dhaka Tribune, bdnews24.com, Jamuna TV",
+  "status": "queued",
+  "at": "2026-10-01T11:09:27Z"
+ },
+ {
+  "title_hash": "c513c64578c21512",
+  "url": "https://www.jamuna.tv/national/665264",
+  "headline": "Tk 15.42bn flood control project inaugurated in Feni to shield district",
+  "topic": "PM inaugurates Tk1,542cr flood control, drainage, irrigation project in Feni",
+  "source": "Dhaka Tribune, bdnews24.com, Jamuna TV",
+  "status": "queued",
+  "at": "2026-10-01T11:09:27Z"
  }
 ]
