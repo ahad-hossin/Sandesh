@@ -1,47 +1,5 @@
 [
  {
-  "title_hash": "2b7c1659528e1a95",
-  "url": "https://www.thedailystar.net/news/news/pm-returns-home-after-five-day-us-visit-4283976",
-  "headline": "PM Tarique Rahman returns home after attending UNGA session in New York",
-  "topic": "PM Tarique Rahman returns from UNGA",
-  "source": "Prothom Alo, Dhaka Tribune, Jamuna TV, bdnews24.com, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-27T04:07:21Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "39924767264fd112",
-  "url": "https://www.dhakatribune.com/bangladesh/dhaka/420762/salman-muqtadir%E2%80%99s-studio-attacked-over-%E2%80%98extortion",
-  "headline": "Armed gang attacks housing project and Salman Muqtadir's studio, loots Tk 1 crore; 2 held",
-  "topic": "Salman Muqtadir studio attacked",
-  "source": "Dhaka Tribune, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-27T04:07:21Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "3448dfb88e807fac",
-  "url": "https://www.jamuna.tv/national/664925",
-  "headline": "Armed gang attacks housing project and Salman Muqtadir's studio, loots Tk 1 crore; 2 held",
-  "topic": "Salman Muqtadir studio attacked",
-  "source": "Dhaka Tribune, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-27T04:07:21Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "ce029efdc61bb0bf",
   "url": "https://www.prothomalo.com/bangladesh/capital/9521nuzga4",
   "headline": "Armed gang attacks housing project and Salman Muqtadir's studio, loots Tk 1 crore; 2 held",
@@ -8398,5 +8356,32 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "2080182b8709e2c1",
+  "url": "https://www.prothomalo.com/sports/cricket/ub1hfxe88b",
+  "headline": "Bangladesh vs Pakistan Asian Games semi-final toss delayed due to wet outfield; 13-over match confirmed",
+  "topic": "Bangladesh Pakistan Asian Games cricket",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-01T01:07:06Z"
+ },
+ {
+  "title_hash": "2410ba4ab757a06f",
+  "url": "https://www.thedailystar.net/news/news/pm-tarique-ordered-release-kushtia-teacher-detained-over-alleged-derogatory-remarks-about-him-mahdi-4287486",
+  "headline": "PM Tarique orders release of teacher detained over alleged derogatory remarks in Kushtia",
+  "topic": "PM orders release of Kushtia teacher",
+  "source": "The Daily Star, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-01T01:07:06Z"
+ },
+ {
+  "title_hash": "d951e034d9c5546c",
+  "url": "https://www.prothomalo.com/bangladesh/jtnterxjcu",
+  "headline": "PM Tarique orders release of teacher detained over alleged derogatory remarks in Kushtia",
+  "topic": "PM orders release of Kushtia teacher",
+  "source": "The Daily Star, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-01T01:07:06Z"
  }
 ]
