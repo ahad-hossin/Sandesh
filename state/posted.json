@@ -8377,8 +8377,13 @@
   "headline": "BNP draws the line as Misty forced to quit",
   "topic": "mp misty resigns amid allegations",
   "source": "Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-10-01T19:13:39Z"
+  "status": "failed",
+  "at": "2026-10-01T19:13:39Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "c8b1ef9bd296774a",
@@ -8386,7 +8391,12 @@
   "headline": "Tk 12.86cr project: Riverbank embankment collapses within two months in Faridpur",
   "topic": "embankment collapses shortly after construction",
   "source": "The Daily Star",
-  "status": "queued",
-  "at": "2026-10-01T19:13:39Z"
+  "status": "failed",
+  "at": "2026-10-01T19:13:39Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
