@@ -8335,8 +8335,13 @@
   "headline": "2,000 accused in 4 cases after Mirpur hawker eviction clash",
   "topic": "mirpur eviction drive violence arrests",
   "source": "Dhaka Tribune, Prothom Alo, bdnews24.com",
-  "status": "queued",
-  "at": "2026-10-01T09:21:10Z"
+  "status": "failed",
+  "at": "2026-10-01T09:21:10Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "b83f74d39f4d42d9",
@@ -8344,8 +8349,13 @@
   "headline": "2,000 accused in 4 cases after Mirpur hawker eviction clash",
   "topic": "mirpur eviction drive violence arrests",
   "source": "Dhaka Tribune, Prothom Alo, bdnews24.com",
-  "status": "queued",
-  "at": "2026-10-01T09:21:10Z"
+  "status": "failed",
+  "at": "2026-10-01T09:21:10Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "c765be9537b3d3a3",
@@ -8353,8 +8363,13 @@
   "headline": "2,000 accused in 4 cases after Mirpur hawker eviction clash",
   "topic": "mirpur eviction drive violence arrests",
   "source": "Dhaka Tribune, Prothom Alo, bdnews24.com",
-  "status": "queued",
-  "at": "2026-10-01T09:21:10Z"
+  "status": "failed",
+  "at": "2026-10-01T09:21:10Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "8efb4e67e3e82317",
@@ -8362,8 +8377,13 @@
   "headline": "US provides 500,000 dengue test kits to Bangladesh",
   "topic": "us provides dengue test kits",
   "source": "Dhaka Tribune, Jamuna TV",
-  "status": "queued",
-  "at": "2026-10-01T09:21:10Z"
+  "status": "failed",
+  "at": "2026-10-01T09:21:10Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "1c62634c6b91769e",
@@ -8371,7 +8391,12 @@
   "headline": "US provides 500,000 dengue test kits to Bangladesh",
   "topic": "us provides dengue test kits",
   "source": "Dhaka Tribune, Jamuna TV",
-  "status": "queued",
-  "at": "2026-10-01T09:21:10Z"
+  "status": "failed",
+  "at": "2026-10-01T09:21:10Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
