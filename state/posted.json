@@ -8377,8 +8377,13 @@
   "headline": "Egg price hits Tk 15 per piece in Dhaka markets, dozen up to Tk 160",
   "topic": "bangladesh egg prices rise",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-01T02:07:33Z"
+  "status": "failed",
+  "at": "2026-10-01T02:07:33Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "e805294cb32270b0",
@@ -8386,7 +8391,12 @@
   "headline": "Bangladesh in trouble losing three wickets as Parvez Hossain departs in Asian Games semi-final against Pakistan",
   "topic": "asian games cricket bangladesh semifinal",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-01T02:07:33Z"
+  "status": "failed",
+  "at": "2026-10-01T02:07:33Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
