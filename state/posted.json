@@ -8377,8 +8377,13 @@
   "headline": "Bottled soybean oil supply shrinks again as companies push for price hike",
   "topic": "soybean oil price hike",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-02T02:07:19Z"
+  "status": "failed",
+  "at": "2026-10-02T02:07:19Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "7d40d89472b57d2f",
@@ -8386,7 +8391,12 @@
   "headline": "Qawmi teacher accused of beating student, breaking leg in Meherpur",
   "topic": "child beaten qawmi teacher",
   "source": "Jamuna TV",
-  "status": "queued",
-  "at": "2026-10-02T02:07:19Z"
+  "status": "failed",
+  "at": "2026-10-02T02:07:19Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
