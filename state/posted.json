@@ -1,75 +1,5 @@
 [
  {
-  "title_hash": "3a03b012ef7bddd4",
-  "url": "https://www.prothomalo.com/business/industry/g6iduifk3r",
-  "headline": "Gold prices drop again in 2 days, falling by up to 2,158 BDT per bhori",
-  "topic": "gold price drop",
-  "source": "Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-28T06:08:43Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "03218279b7d5892a",
-  "url": "https://www.thedailystar.net/news/crime-justice/news/415-detained-third-phase-cumilla-drive-against-teen-gangs-4284861",
-  "headline": "415 detained in third phase of drive against teen gangs in Cumilla",
-  "topic": "cumilla teen gang drive",
-  "source": "The Daily Star, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-28T06:08:43Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "86ab95abe9b800ab",
-  "url": "https://www.jamuna.tv/all-bangladesh/665005",
-  "headline": "415 detained in third phase of drive against teen gangs in Cumilla",
-  "topic": "cumilla teen gang drive",
-  "source": "The Daily Star, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-28T06:08:43Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "4074b2b56033f40b",
-  "url": "https://www.prothomalo.com/bangladesh/district/2glgrhlcry",
-  "headline": "415 detained in third phase of drive against teen gangs in Cumilla",
-  "topic": "cumilla teen gang drive",
-  "source": "The Daily Star, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-28T06:08:43Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "a6bb6681fe5c453b",
-  "url": "https://www.thedailystar.net/news/crime-justice/news/254-detained-drive-against-teen-gangs-4284771",
-  "headline": "415 detained in third phase of drive against teen gangs in Cumilla",
-  "topic": "cumilla teen gang drive",
-  "source": "The Daily Star, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-28T06:08:43Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "45a382b99d93fcd4",
   "url": "https://www.thedailystar.net/business/news/oil-prices-spike-after-trump-rejects-iran-truce-offer-4284896",
   "headline": "Oil prices spike as Trump rejects Iran truce offer",
@@ -8398,5 +8328,50 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "14835fb29c077cba",
+  "url": "https://www.thedailystar.net/news/world/news/saudi-coalition-accuses-houthis-drone-attack-medina-4288531",
+  "headline": "Houthis attack power station in Medina providing electricity to Prophet's Mosque",
+  "topic": "houthis attack medina power station",
+  "source": "The Daily Star, bdnews24.com, Jamuna TV",
+  "status": "queued",
+  "at": "2026-10-02T04:09:36Z"
+ },
+ {
+  "title_hash": "e56cc95d4e4999f6",
+  "url": "https://bdnews24.com/world/middle-east/7ov74i905k",
+  "headline": "Houthis attack power station in Medina providing electricity to Prophet's Mosque",
+  "topic": "houthis attack medina power station",
+  "source": "The Daily Star, bdnews24.com, Jamuna TV",
+  "status": "queued",
+  "at": "2026-10-02T04:09:36Z"
+ },
+ {
+  "title_hash": "c4f28ca2d15367b8",
+  "url": "https://www.jamuna.tv/international/665307",
+  "headline": "Houthis attack power station in Medina providing electricity to Prophet's Mosque",
+  "topic": "houthis attack medina power station",
+  "source": "The Daily Star, bdnews24.com, Jamuna TV",
+  "status": "queued",
+  "at": "2026-10-02T04:09:36Z"
+ },
+ {
+  "title_hash": "697f27f41c85e9e4",
+  "url": "https://bdnews24.com/world/asia-pacific/cmu4dxb5ch",
+  "headline": "US-made F-16V fighter jets arrive in Taiwan to counter China",
+  "topic": "taiwan receives new f-16v fighter jets",
+  "source": "bdnews24.com, Jamuna TV",
+  "status": "queued",
+  "at": "2026-10-02T04:09:36Z"
+ },
+ {
+  "title_hash": "fd10da232d0c415e",
+  "url": "https://www.jamuna.tv/international/665306",
+  "headline": "US-made F-16V fighter jets arrive in Taiwan to counter China",
+  "topic": "taiwan receives new f-16v fighter jets",
+  "source": "bdnews24.com, Jamuna TV",
+  "status": "queued",
+  "at": "2026-10-02T04:09:36Z"
  }
 ]
