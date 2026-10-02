@@ -8335,8 +8335,13 @@
   "headline": "Houthis attack power station in Medina providing electricity to Prophet's Mosque",
   "topic": "houthis attack medina power station",
   "source": "The Daily Star, bdnews24.com, Jamuna TV",
-  "status": "queued",
-  "at": "2026-10-02T04:09:36Z"
+  "status": "failed",
+  "at": "2026-10-02T04:09:36Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "e56cc95d4e4999f6",
@@ -8344,8 +8349,13 @@
   "headline": "Houthis attack power station in Medina providing electricity to Prophet's Mosque",
   "topic": "houthis attack medina power station",
   "source": "The Daily Star, bdnews24.com, Jamuna TV",
-  "status": "queued",
-  "at": "2026-10-02T04:09:36Z"
+  "status": "failed",
+  "at": "2026-10-02T04:09:36Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "c4f28ca2d15367b8",
@@ -8353,8 +8363,13 @@
   "headline": "Houthis attack power station in Medina providing electricity to Prophet's Mosque",
   "topic": "houthis attack medina power station",
   "source": "The Daily Star, bdnews24.com, Jamuna TV",
-  "status": "queued",
-  "at": "2026-10-02T04:09:36Z"
+  "status": "failed",
+  "at": "2026-10-02T04:09:36Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "697f27f41c85e9e4",
@@ -8362,8 +8377,13 @@
   "headline": "US-made F-16V fighter jets arrive in Taiwan to counter China",
   "topic": "taiwan receives new f-16v fighter jets",
   "source": "bdnews24.com, Jamuna TV",
-  "status": "queued",
-  "at": "2026-10-02T04:09:36Z"
+  "status": "failed",
+  "at": "2026-10-02T04:09:36Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "fd10da232d0c415e",
@@ -8371,7 +8391,12 @@
   "headline": "US-made F-16V fighter jets arrive in Taiwan to counter China",
   "topic": "taiwan receives new f-16v fighter jets",
   "source": "bdnews24.com, Jamuna TV",
-  "status": "queued",
-  "at": "2026-10-02T04:09:36Z"
+  "status": "failed",
+  "at": "2026-10-02T04:09:36Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
