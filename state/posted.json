@@ -8321,8 +8321,13 @@
   "headline": "Netrokona: Youth allegedly sets shopkeeper on fire over cigarette credit",
   "topic": "shopkeeper set on fire over cigarette credit",
   "source": "Jamuna TV, The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-02T12:09:23Z"
+  "status": "failed",
+  "at": "2026-10-02T12:09:23Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "ab4225b6d84e5c5b",
@@ -8330,8 +8335,13 @@
   "headline": "Netrokona: Youth allegedly sets shopkeeper on fire over cigarette credit",
   "topic": "shopkeeper set on fire over cigarette credit",
   "source": "Jamuna TV, The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-02T12:09:23Z"
+  "status": "failed",
+  "at": "2026-10-02T12:09:23Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "e15625da2b1ed58d",
@@ -8339,8 +8349,13 @@
   "headline": "Netrokona: Youth allegedly sets shopkeeper on fire over cigarette credit",
   "topic": "shopkeeper set on fire over cigarette credit",
   "source": "Jamuna TV, The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-02T12:09:23Z"
+  "status": "failed",
+  "at": "2026-10-02T12:09:23Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "cc2bc3d82bd1478b",
@@ -8348,8 +8363,13 @@
   "headline": "Measles outbreak: Four more die in 24 hours, total toll reaches 1,114",
   "topic": "measles outbreak deaths",
   "source": "bdnews24.com, Jamuna TV, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-10-02T12:09:23Z"
+  "status": "failed",
+  "at": "2026-10-02T12:09:23Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "24751882c2288657",
@@ -8357,8 +8377,13 @@
   "headline": "Measles outbreak: Four more die in 24 hours, total toll reaches 1,114",
   "topic": "measles outbreak deaths",
   "source": "bdnews24.com, Jamuna TV, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-10-02T12:09:23Z"
+  "status": "failed",
+  "at": "2026-10-02T12:09:23Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "8ca6f037d28b1224",
@@ -8366,7 +8391,12 @@
   "headline": "Measles outbreak: Four more die in 24 hours, total toll reaches 1,114",
   "topic": "measles outbreak deaths",
   "source": "bdnews24.com, Jamuna TV, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-10-02T12:09:23Z"
+  "status": "failed",
+  "at": "2026-10-02T12:09:23Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
