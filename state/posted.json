@@ -1,89 +1,5 @@
 [
  {
-  "title_hash": "13f729d23b37d1a8",
-  "url": "https://www.prothomalo.com/entertainment/dhallywood/npiz15lue7",
-  "headline": "Biman Bangladesh stops screening films 'Lalsalu' and 'Chitra Nodir Pare'",
-  "topic": "biman bans lalsalu chitra nadir pare",
-  "source": "Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-29T20:07:55Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "d36bb2980efd8284",
-  "url": "https://www.thedailystar.net/sports/football/news/premier-league-confirms-man-city-guilty-serious-financial-breaches-4286516",
-  "headline": "Premier League finds Man City guilty of serious financial breaches",
-  "topic": "man city financial breaches",
-  "source": "The Daily Star, bdnews24.com, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-29T21:09:25Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "7d2c55af43b5a96b",
-  "url": "https://bdnews24.com/sport/ebacv6uo71",
-  "headline": "Premier League finds Man City guilty of serious financial breaches",
-  "topic": "man city financial breaches",
-  "source": "The Daily Star, bdnews24.com, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-29T21:09:25Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "eb9f335367e651ba",
-  "url": "https://bdnews24.com/sport/nyon0kib3i",
-  "headline": "Premier League finds Man City guilty of serious financial breaches",
-  "topic": "man city financial breaches",
-  "source": "The Daily Star, bdnews24.com, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-29T21:09:25Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "ab43a0ae8df862d8",
-  "url": "https://www.prothomalo.com/sports/football/6h1n45rjco",
-  "headline": "Premier League finds Man City guilty of serious financial breaches",
-  "topic": "man city financial breaches",
-  "source": "The Daily Star, bdnews24.com, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-29T21:09:25Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "8cef0767ab813db1",
-  "url": "https://www.thedailystar.net/news/news/38-eminent-citizens-warn-rising-attacks-land-grabbing-4286491",
-  "headline": "38 eminent citizens warn of rising attacks and land grabbing",
-  "topic": "upl outlet closure protests",
-  "source": "The Daily Star, Prothom Alo, Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-09-29T21:09:25Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "3c43dfdbbda58adb",
   "url": "https://www.prothomalo.com/bangladesh/71uxyy4d04",
   "headline": "38 eminent citizens warn of rising attacks and land grabbing",
@@ -8398,5 +8314,59 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "266e31a926a0dfb8",
+  "url": "https://www.thedailystar.net/news/power-and-energy/news/uranium-rooppur-nuclear-power-plant-arrives-dhaka-russia-4288881",
+  "headline": "First uranium consignment arrives in Dhaka for Rooppur Nuclear Power Plant",
+  "topic": "rooppur nuclear plant uranium arrival",
+  "source": "The Daily Star, Jamuna TV, bdnews24.com",
+  "status": "queued",
+  "at": "2026-10-02T22:09:32Z"
+ },
+ {
+  "title_hash": "9c42da19972fd681",
+  "url": "https://www.jamuna.tv/national/665344",
+  "headline": "First uranium consignment arrives in Dhaka for Rooppur Nuclear Power Plant",
+  "topic": "rooppur nuclear plant uranium arrival",
+  "source": "The Daily Star, Jamuna TV, bdnews24.com",
+  "status": "queued",
+  "at": "2026-10-02T22:09:32Z"
+ },
+ {
+  "title_hash": "8eca3f8467f6018f",
+  "url": "https://bdnews24.com/bangladesh/4fupn8odcv",
+  "headline": "First uranium consignment arrives in Dhaka for Rooppur Nuclear Power Plant",
+  "topic": "rooppur nuclear plant uranium arrival",
+  "source": "The Daily Star, Jamuna TV, bdnews24.com",
+  "status": "queued",
+  "at": "2026-10-02T22:09:32Z"
+ },
+ {
+  "title_hash": "8daeeab53af37422",
+  "url": "https://www.thedailystar.net/news/bangladesh/news/first-uranium-consignment-arrives-dhaka-4289006",
+  "headline": "First uranium consignment arrives in Dhaka for Rooppur Nuclear Power Plant",
+  "topic": "rooppur nuclear plant uranium arrival",
+  "source": "The Daily Star, Jamuna TV, bdnews24.com",
+  "status": "queued",
+  "at": "2026-10-02T22:09:32Z"
+ },
+ {
+  "title_hash": "3fd99b884f8d3946",
+  "url": "https://www.dhakatribune.com/bangladesh/crime/421197/teen-gangs-a-growing-challenge-for-bangladesh",
+  "headline": "Teen gang leaders switch political patrons amid rising lawlessness in Chittagong",
+  "topic": "teen gang crime surge",
+  "source": "Prothom Alo, Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-10-02T22:09:32Z"
+ },
+ {
+  "title_hash": "68977f87361670bd",
+  "url": "https://www.prothomalo.com/bangladesh/district/k3plbadp50",
+  "headline": "Teen gang leaders switch political patrons amid rising lawlessness in Chittagong",
+  "topic": "teen gang crime surge",
+  "source": "Prothom Alo, Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-10-02T22:09:32Z"
  }
 ]
