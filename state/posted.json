@@ -1,75 +1,5 @@
 [
  {
-  "title_hash": "18c1d9b3de54ef7e",
-  "url": "https://www.jamuna.tv/national/665041",
-  "headline": "1,099 dead as measles outbreak kills 3 more in 24 hours",
-  "topic": "measles outbreak death toll rises",
-  "source": "Dhaka Tribune, Jamuna TV, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-28T11:11:17Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "1f6cd03cc9895d18",
-  "url": "https://www.thedailystar.net/health/news/measles-vaccine-still-unknown-some-pockets-sylhet-4284986",
-  "headline": "1,099 dead as measles outbreak kills 3 more in 24 hours",
-  "topic": "measles outbreak death toll rises",
-  "source": "Dhaka Tribune, Jamuna TV, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-28T11:11:17Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "d06f75e7fde0be58",
-  "url": "https://www.dhakatribune.com/bangladesh/420878/lpg-cylinders-sell-tk300-500-above-govt-fixed",
-  "headline": "Price hike: LPG cylinders sell Tk300-500 above govt fixed price",
-  "topic": "lpg cylinder price hike",
-  "source": "Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-09-28T12:07:50Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "e601ce22e4eefc2c",
-  "url": "https://www.prothomalo.com/bangladesh/district/1aeqesdeeb",
-  "headline": "8 police arrest 8 for celebrating Sheikh Hasina's birthday in Banshkhali",
-  "topic": "arrests for celebrating sheikh hasina birthday",
-  "source": "Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-28T12:07:50Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "c167df5c4350b871",
-  "url": "https://www.prothomalo.com/bangladesh/district/wresdd2u15",
-  "headline": "8 police arrest 8 for celebrating Sheikh Hasina's birthday in Banshkhali",
-  "topic": "arrests for celebrating sheikh hasina birthday",
-  "source": "Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-28T12:07:50Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "773de3f4fbf5de4e",
   "url": "https://www.dhakatribune.com/bangladesh/politics/420892/nahid-demands-home-minister%E2%80%99s-removal",
   "headline": "Nahid Islam demands Home Minister's resignation over law and order failure",
@@ -8398,5 +8328,50 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "8cc1258b488215d5",
+  "url": "https://www.thedailystar.net/news/accidents-and-fires/news/7-killed-bus-collides-head-cng-run-auto-rickshaw-mymensingh-4288651",
+  "headline": "7 killed as bus collides head-on with auto-rickshaw in Mymensingh",
+  "topic": "mymensingh road accident 7 dead",
+  "source": "The Daily Star, Dhaka Tribune, Jamuna TV, bdnews24.com, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-02T10:20:38Z"
+ },
+ {
+  "title_hash": "38723385102741ef",
+  "url": "https://www.dhakatribune.com/bangladesh/accidents/421164/7-killed-as-bus-hits-autorickshaw-in-mymensingh",
+  "headline": "7 killed as bus collides head-on with auto-rickshaw in Mymensingh",
+  "topic": "mymensingh road accident 7 dead",
+  "source": "The Daily Star, Dhaka Tribune, Jamuna TV, bdnews24.com, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-02T10:20:38Z"
+ },
+ {
+  "title_hash": "274546261db960b8",
+  "url": "https://www.jamuna.tv/all-bangladesh/665320",
+  "headline": "7 killed as bus collides head-on with auto-rickshaw in Mymensingh",
+  "topic": "mymensingh road accident 7 dead",
+  "source": "The Daily Star, Dhaka Tribune, Jamuna TV, bdnews24.com, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-02T10:20:38Z"
+ },
+ {
+  "title_hash": "5dc897bf8c075b8d",
+  "url": "https://bdnews24.com/bangladesh/f1w0vo78b7",
+  "headline": "7 killed as bus collides head-on with auto-rickshaw in Mymensingh",
+  "topic": "mymensingh road accident 7 dead",
+  "source": "The Daily Star, Dhaka Tribune, Jamuna TV, bdnews24.com, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-02T10:20:38Z"
+ },
+ {
+  "title_hash": "636905a197b40c30",
+  "url": "https://www.prothomalo.com/bangladesh/district/pq3cuk3nlt",
+  "headline": "7 killed as bus collides head-on with auto-rickshaw in Mymensingh",
+  "topic": "mymensingh road accident 7 dead",
+  "source": "The Daily Star, Dhaka Tribune, Jamuna TV, bdnews24.com, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-02T10:20:38Z"
  }
 ]
