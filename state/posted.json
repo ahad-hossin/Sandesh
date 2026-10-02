@@ -1,47 +1,5 @@
 [
  {
-  "title_hash": "f76f9d0af145ce02",
-  "url": "https://www.thedailystar.net/news/world/news/trump-offered-sell-arms-china-us-ambassador-fox-news-4284876",
-  "headline": "Oil prices spike as Trump rejects Iran truce offer",
-  "topic": "iran us tensions oil prices spike",
-  "source": "Prothom Alo, Jamuna TV, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-28T07:09:47Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "aecb30c5d2c3f1dd",
-  "url": "https://www.prothomalo.com/business/world-business/puai1e6ihr",
-  "headline": "Oil prices spike as Trump rejects Iran truce offer",
-  "topic": "iran us tensions oil prices spike",
-  "source": "Prothom Alo, Jamuna TV, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-28T07:09:47Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "c1dbe2c902985675",
-  "url": "https://www.thedailystar.net/news/world/news/iran-insists-diplomatic-solution-after-trump-rejects-peace-plan-4284836",
-  "headline": "Oil prices spike as Trump rejects Iran truce offer",
-  "topic": "iran us tensions oil prices spike",
-  "source": "Prothom Alo, Jamuna TV, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-28T07:09:47Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "eed909a353ff5624",
   "url": "https://www.dhakatribune.com/bangladesh/nation/420838/three-killed-7-injured-in-truck-auto-rickshaw",
   "headline": "5 killed in separate road accidents in Lalmonirhat and Gazipur",
@@ -8398,5 +8356,32 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "802846703a7b986e",
+  "url": "https://www.dhakatribune.com/bangladesh/421152/gulshan-warehouse-sealed-over-liquor-beer-storage",
+  "headline": "4 warehouses of Salman Muqtadir’s father-in-law sealed over alcohol irregularities",
+  "topic": "salman muqtadir father-in-law warehouse sealed",
+  "source": "Dhaka Tribune, bdnews24.com",
+  "status": "queued",
+  "at": "2026-10-02T06:10:28Z"
+ },
+ {
+  "title_hash": "112b646b54f6a1c8",
+  "url": "https://bdnews24.com/bangladesh/iv73xcpld7",
+  "headline": "4 warehouses of Salman Muqtadir’s father-in-law sealed over alcohol irregularities",
+  "topic": "salman muqtadir father-in-law warehouse sealed",
+  "source": "Dhaka Tribune, bdnews24.com",
+  "status": "queued",
+  "at": "2026-10-02T06:10:28Z"
+ },
+ {
+  "title_hash": "1ae60059dbe948aa",
+  "url": "https://www.dhakatribune.com/bangladesh/dhaka/421148/aqi-dhaka-ranks-5th-among-world%E2%80%99s-most-polluted",
+  "headline": "AQI: Dhaka ranks 5th most polluted among world's cities",
+  "topic": "dhaka air quality rank 5th",
+  "source": "Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-10-02T06:10:28Z"
  }
 ]
