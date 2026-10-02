@@ -1,75 +1,5 @@
 [
  {
-  "title_hash": "eed909a353ff5624",
-  "url": "https://www.dhakatribune.com/bangladesh/nation/420838/three-killed-7-injured-in-truck-auto-rickshaw",
-  "headline": "5 killed in separate road accidents in Lalmonirhat and Gazipur",
-  "topic": "road accidents kill multiple people",
-  "source": "Dhaka Tribune, The Daily Star, Jamuna TV, bdnews24.com",
-  "status": "failed",
-  "at": "2026-09-28T07:09:47Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "e7e6bdb7853de773",
-  "url": "https://www.thedailystar.net/news/accidents-and-fires/news/5-killed-road-accidents-lalmonirhat-gazipur-4284901",
-  "headline": "5 killed in separate road accidents in Lalmonirhat and Gazipur",
-  "topic": "road accidents kill multiple people",
-  "source": "Dhaka Tribune, The Daily Star, Jamuna TV, bdnews24.com",
-  "status": "failed",
-  "at": "2026-09-28T07:09:47Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "daa55e8d5ca0d31b",
-  "url": "https://www.jamuna.tv/all-bangladesh/665007",
-  "headline": "5 killed in separate road accidents in Lalmonirhat and Gazipur",
-  "topic": "road accidents kill multiple people",
-  "source": "Dhaka Tribune, The Daily Star, Jamuna TV, bdnews24.com",
-  "status": "failed",
-  "at": "2026-09-28T07:09:47Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "318183b41b538cce",
-  "url": "https://bdnews24.com/bangladesh/xbdxueglg8",
-  "headline": "5 killed in separate road accidents in Lalmonirhat and Gazipur",
-  "topic": "road accidents kill multiple people",
-  "source": "Dhaka Tribune, The Daily Star, Jamuna TV, bdnews24.com",
-  "status": "failed",
-  "at": "2026-09-28T07:09:47Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "21a695d7a534adbf",
-  "url": "https://bdnews24.com/bangladesh/4txu8t1pxq",
-  "headline": "14 arrested over land dispute attacks in Mohammadpur and Adabor",
-  "topic": "arrests in mohammadpur adabor land dispute attacks",
-  "source": "bdnews24.com, The Daily Star, Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-09-28T08:11:45Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "e87446ead0dfc7fe",
   "url": "https://www.thedailystar.net/news/crime-justice/news/13-arrested-over-adabor-building-attack-chand-udyan-land-grab-bid-4284936",
   "headline": "14 arrested over land dispute attacks in Mohammadpur and Adabor",
@@ -8398,5 +8328,50 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "14988b509cad991c",
+  "url": "https://www.dhakatribune.com/bangladesh/421157/vegetable-prices-remain-high-in-dhaka-markets",
+  "headline": "Sim sells for 200 TK: Vegetable and fish prices surge in Dhaka",
+  "topic": "dhaka vegetable prices high",
+  "source": "Dhaka Tribune, Jamuna TV",
+  "status": "queued",
+  "at": "2026-10-02T07:09:25Z"
+ },
+ {
+  "title_hash": "01a32a444c2be945",
+  "url": "https://www.jamuna.tv/economy/665312",
+  "headline": "Sim sells for 200 TK: Vegetable and fish prices surge in Dhaka",
+  "topic": "dhaka vegetable prices high",
+  "source": "Dhaka Tribune, Jamuna TV",
+  "status": "queued",
+  "at": "2026-10-02T07:09:25Z"
+ },
+ {
+  "title_hash": "802846703a7b986e",
+  "url": "https://www.dhakatribune.com/bangladesh/421152/gulshan-warehouse-sealed-over-liquor-beer-storage",
+  "headline": "4 warehouses of Salman Muqtadir’s father-in-law sealed in Gulshan",
+  "topic": "salman muqtadir father-in-law warehouse sealed",
+  "source": "Dhaka Tribune, Jamuna TV, bdnews24.com",
+  "status": "queued",
+  "at": "2026-10-02T07:09:25Z"
+ },
+ {
+  "title_hash": "f6019e7169fc2587",
+  "url": "https://www.jamuna.tv/national/665313",
+  "headline": "4 warehouses of Salman Muqtadir’s father-in-law sealed in Gulshan",
+  "topic": "salman muqtadir father-in-law warehouse sealed",
+  "source": "Dhaka Tribune, Jamuna TV, bdnews24.com",
+  "status": "queued",
+  "at": "2026-10-02T07:09:25Z"
+ },
+ {
+  "title_hash": "112b646b54f6a1c8",
+  "url": "https://bdnews24.com/bangladesh/iv73xcpld7",
+  "headline": "4 warehouses of Salman Muqtadir’s father-in-law sealed in Gulshan",
+  "topic": "salman muqtadir father-in-law warehouse sealed",
+  "source": "Dhaka Tribune, Jamuna TV, bdnews24.com",
+  "status": "queued",
+  "at": "2026-10-02T07:09:25Z"
  }
 ]
