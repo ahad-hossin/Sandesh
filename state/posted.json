@@ -8363,8 +8363,13 @@
   "headline": "AQI: Dhaka ranks 5th most polluted city in the world",
   "topic": "dhaka air quality rank",
   "source": "Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-10-02T05:09:22Z"
+  "status": "failed",
+  "at": "2026-10-02T05:09:22Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "d26133d28f38f237",
@@ -8372,8 +8377,13 @@
   "headline": "India and Pakistan to clash in 2027 Cricket World Cup pool phase",
   "topic": "world cup 2027 india pakistan clash",
   "source": "The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-02T05:09:22Z"
+  "status": "failed",
+  "at": "2026-10-02T05:09:22Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "7e68899bb911bc79",
@@ -8381,7 +8391,12 @@
   "headline": "India and Pakistan to clash in 2027 Cricket World Cup pool phase",
   "topic": "world cup 2027 india pakistan clash",
   "source": "The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-02T05:09:22Z"
+  "status": "failed",
+  "at": "2026-10-02T05:09:22Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
