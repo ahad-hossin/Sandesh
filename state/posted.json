@@ -1,215 +1,5 @@
 [
  {
-  "title_hash": "244c8ecd0a9c31f6",
-  "url": "https://www.jamuna.tv/national/665128",
-  "headline": "6 deaths in 24 hours: Dengue death toll hits 239 this year",
-  "topic": "dengue_deaths_update",
-  "source": "Jamuna TV",
-  "status": "failed",
-  "at": "2026-09-29T12:12:49Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "926874ce13d85dd2",
-  "url": "https://www.dhakatribune.com/bangladesh/420965/govt-plans-oct-22-holiday-for-five-day-durga-puja",
-  "headline": "Govt employees to get 5-day Durga Puja holiday",
-  "topic": "durga puja holiday extension",
-  "source": "Dhaka Tribune, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-29T13:07:16Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "7aba6c2e057b1d28",
-  "url": "https://www.prothomalo.com/bangladesh/zlaf22yb1t",
-  "headline": "Govt employees to get 5-day Durga Puja holiday",
-  "topic": "durga puja holiday extension",
-  "source": "Dhaka Tribune, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-29T13:07:16Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "4371d16bbeaaa0c6",
-  "url": "https://www.dhakatribune.com/bangladesh/health/420964/measles-outbreak-death-toll-reaches-1-104-as-five",
-  "headline": "1,104 dead as measles outbreak death toll rises",
-  "topic": "measles outbreak death toll",
-  "source": "Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-09-29T13:07:16Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "162bf973b77e9ff2",
-  "url": "https://www.thedailystar.net/news/governance/news/govt-employees-may-get-5-day-durga-puja-break-if-oct-22-declared-holiday-bangladesh-4286006",
-  "headline": "Govt employees may get 5-day Durga Puja break if Oct 22 declared holiday",
-  "topic": "durga puja 5-day holiday",
-  "source": "The Daily Star, Dhaka Tribune, bdnews24.com, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-29T14:14:36Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "926874ce13d85dd2",
-  "url": "https://www.dhakatribune.com/bangladesh/420965/govt-plans-oct-22-holiday-for-five-day-durga-puja",
-  "headline": "Govt employees may get 5-day Durga Puja break if Oct 22 declared holiday",
-  "topic": "durga puja 5-day holiday",
-  "source": "The Daily Star, Dhaka Tribune, bdnews24.com, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-29T14:14:36Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "7a2cabd93aa460f9",
-  "url": "https://bdnews24.com/bangladesh/af1vda1kjk",
-  "headline": "Govt employees may get 5-day Durga Puja break if Oct 22 declared holiday",
-  "topic": "durga puja 5-day holiday",
-  "source": "The Daily Star, Dhaka Tribune, bdnews24.com, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-29T14:14:36Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "f0ac347f8f8e74b4",
-  "url": "https://www.prothomalo.com/bangladesh/durgaapuujaayy-chutti-ek-din-baarrl",
-  "headline": "Govt employees may get 5-day Durga Puja break if Oct 22 declared holiday",
-  "topic": "durga puja 5-day holiday",
-  "source": "The Daily Star, Dhaka Tribune, bdnews24.com, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-29T14:14:36Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "fd4f3ee70a9c3d45",
-  "url": "https://www.prothomalo.com/bangladesh/zlaf22yb1t",
-  "headline": "Govt employees may get 5-day Durga Puja break if Oct 22 declared holiday",
-  "topic": "durga puja 5-day holiday",
-  "source": "The Daily Star, Dhaka Tribune, bdnews24.com, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-29T14:14:36Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "4371d16bbeaaa0c6",
-  "url": "https://www.dhakatribune.com/bangladesh/health/420964/measles-outbreak-death-toll-reaches-1-104-as-five",
-  "headline": "1,104 dead as measles outbreak toll passes 1,100 in Bangladesh",
-  "topic": "measles outbreak deaths",
-  "source": "Dhaka Tribune, bdnews24.com, The Daily Star, Jamuna TV",
-  "status": "failed",
-  "at": "2026-09-29T14:14:36Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "3e40c52bf7c25831",
-  "url": "https://bdnews24.com/health/amrzyevbia",
-  "headline": "1,104 dead as measles outbreak toll passes 1,100 in Bangladesh",
-  "topic": "measles outbreak deaths",
-  "source": "Dhaka Tribune, bdnews24.com, The Daily Star, Jamuna TV",
-  "status": "failed",
-  "at": "2026-09-29T14:14:36Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "7890005e798ce233",
-  "url": "https://www.thedailystar.net/news/healthcare/disease/news/death-toll-measles-symptoms-crosses-1100-4285986",
-  "headline": "1,104 dead as measles outbreak toll passes 1,100 in Bangladesh",
-  "topic": "measles outbreak deaths",
-  "source": "Dhaka Tribune, bdnews24.com, The Daily Star, Jamuna TV",
-  "status": "failed",
-  "at": "2026-09-29T14:14:36Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "bba044aee210d17f",
-  "url": "https://www.jamuna.tv/national/665123",
-  "headline": "1,104 dead as measles outbreak toll passes 1,100 in Bangladesh",
-  "topic": "measles outbreak deaths",
-  "source": "Dhaka Tribune, bdnews24.com, The Daily Star, Jamuna TV",
-  "status": "failed",
-  "at": "2026-09-29T14:14:36Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "4371d16bbeaaa0c6",
-  "url": "https://www.dhakatribune.com/bangladesh/health/420964/measles-outbreak-death-toll-reaches-1-104-as-five",
-  "headline": "Measles outbreak: Death toll reaches 1,104 as five more die in 24 hours",
-  "topic": "measles outbreak death toll surpasses 1100",
-  "source": "Dhaka Tribune, Prothom Alo, bdnews24.com, The Daily Star, Jamuna TV",
-  "status": "failed",
-  "at": "2026-09-29T15:14:42Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "1226ad876ba94fcb",
-  "url": "https://www.prothomalo.com/bangladesh/2pddlp6cqr",
-  "headline": "Measles outbreak: Death toll reaches 1,104 as five more die in 24 hours",
-  "topic": "measles outbreak death toll surpasses 1100",
-  "source": "Dhaka Tribune, Prothom Alo, bdnews24.com, The Daily Star, Jamuna TV",
-  "status": "failed",
-  "at": "2026-09-29T15:14:42Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "399c10467fba3b8a",
   "url": "https://bdnews24.com/health/2e55ow7sq4",
   "headline": "Measles outbreak: Death toll reaches 1,104 as five more die in 24 hours",
@@ -8398,5 +8188,140 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "8eca3f8467f6018f",
+  "url": "https://bdnews24.com/bangladesh/4fupn8odcv",
+  "headline": "Uranium shipment lands in Bangladesh for Rooppur Nuclear Power Plant",
+  "topic": "roppur nuclear plant uranium arrival",
+  "source": "Jamuna TV, bdnews24.com",
+  "status": "queued",
+  "at": "2026-10-02T19:08:25Z"
+ },
+ {
+  "title_hash": "9c42da19972fd681",
+  "url": "https://www.jamuna.tv/national/665344",
+  "headline": "Uranium shipment lands in Bangladesh for Rooppur Nuclear Power Plant",
+  "topic": "roppur nuclear plant uranium arrival",
+  "source": "Jamuna TV, bdnews24.com",
+  "status": "queued",
+  "at": "2026-10-02T19:08:25Z"
+ },
+ {
+  "title_hash": "3ccd46ce7ec09e4c",
+  "url": "https://www.dhakatribune.com/bangladesh/421201/president-khalidi%E2%80%99s-contributions-to-journalism",
+  "headline": "bdnews24.com Editor Toufique Imrose Khalidi dies at 59",
+  "topic": "toufique imrose khalidi death",
+  "source": "Dhaka Tribune, bdnews24.com, Jamuna TV, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-02T19:08:25Z"
+ },
+ {
+  "title_hash": "058425c44fb5a1ef",
+  "url": "https://bdnews24.com/media-en/2p78hey6nf",
+  "headline": "bdnews24.com Editor Toufique Imrose Khalidi dies at 59",
+  "topic": "toufique imrose khalidi death",
+  "source": "Dhaka Tribune, bdnews24.com, Jamuna TV, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-02T19:08:25Z"
+ },
+ {
+  "title_hash": "32de23798173aeda",
+  "url": "https://bdnews24.com/media-en/z6it7awsa9",
+  "headline": "bdnews24.com Editor Toufique Imrose Khalidi dies at 59",
+  "topic": "toufique imrose khalidi death",
+  "source": "Dhaka Tribune, bdnews24.com, Jamuna TV, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-02T19:08:25Z"
+ },
+ {
+  "title_hash": "1b4bc3c5c058cd49",
+  "url": "https://www.jamuna.tv/national/665335",
+  "headline": "bdnews24.com Editor Toufique Imrose Khalidi dies at 59",
+  "topic": "toufique imrose khalidi death",
+  "source": "Dhaka Tribune, bdnews24.com, Jamuna TV, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-02T19:08:25Z"
+ },
+ {
+  "title_hash": "b648e94896095a85",
+  "url": "https://www.dhakatribune.com/bangladesh/421188/bdnews24.com-editor-toufique-imrose-khalidi-passes",
+  "headline": "bdnews24.com Editor Toufique Imrose Khalidi dies at 59",
+  "topic": "toufique imrose khalidi death",
+  "source": "Dhaka Tribune, bdnews24.com, Jamuna TV, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-02T19:08:25Z"
+ },
+ {
+  "title_hash": "28f6ecfabf1d9c4c",
+  "url": "https://bdnews24.com/media-en/fl6egswuha",
+  "headline": "bdnews24.com Editor Toufique Imrose Khalidi dies at 59",
+  "topic": "toufique imrose khalidi death",
+  "source": "Dhaka Tribune, bdnews24.com, Jamuna TV, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-02T19:08:25Z"
+ },
+ {
+  "title_hash": "145f7369744652e2",
+  "url": "https://www.prothomalo.com/video/bangladesh/idc3ru2wwl",
+  "headline": "bdnews24.com Editor Toufique Imrose Khalidi dies at 59",
+  "topic": "toufique imrose khalidi death",
+  "source": "Dhaka Tribune, bdnews24.com, Jamuna TV, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-02T19:08:25Z"
+ },
+ {
+  "title_hash": "3db78faa19a6de8e",
+  "url": "https://bdnews24.com/bangladesh/rzv6enqv12",
+  "headline": "bdnews24.com Editor Toufique Imrose Khalidi dies at 59",
+  "topic": "toufique imrose khalidi death",
+  "source": "Dhaka Tribune, bdnews24.com, Jamuna TV, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-02T19:08:25Z"
+ },
+ {
+  "title_hash": "d13237b8fcab13d4",
+  "url": "https://bdnews24.com/bangladesh/xu388xnc9y",
+  "headline": "bdnews24.com Editor Toufique Imrose Khalidi dies at 59",
+  "topic": "toufique imrose khalidi death",
+  "source": "Dhaka Tribune, bdnews24.com, Jamuna TV, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-02T19:08:25Z"
+ },
+ {
+  "title_hash": "f1d73416206d4d00",
+  "url": "https://bdnews24.com/media-en/9kku0z0mc0",
+  "headline": "bdnews24.com Editor Toufique Imrose Khalidi dies at 59",
+  "topic": "toufique imrose khalidi death",
+  "source": "Dhaka Tribune, bdnews24.com, Jamuna TV, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-02T19:08:25Z"
+ },
+ {
+  "title_hash": "998fa6d8f3daed2f",
+  "url": "https://bdnews24.com/bangladesh/1w8dxwlbd4",
+  "headline": "bdnews24.com Editor Toufique Imrose Khalidi dies at 59",
+  "topic": "toufique imrose khalidi death",
+  "source": "Dhaka Tribune, bdnews24.com, Jamuna TV, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-02T19:08:25Z"
+ },
+ {
+  "title_hash": "00018177c424b4e8",
+  "url": "https://bdnews24.com/bangladesh/u2vm4768qz",
+  "headline": "bdnews24.com Editor Toufique Imrose Khalidi dies at 59",
+  "topic": "toufique imrose khalidi death",
+  "source": "Dhaka Tribune, bdnews24.com, Jamuna TV, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-02T19:08:25Z"
+ },
+ {
+  "title_hash": "d1f9490b6d8700e9",
+  "url": "https://www.prothomalo.com/bangladesh/4nu7cr1sng",
+  "headline": "bdnews24.com Editor Toufique Imrose Khalidi dies at 59",
+  "topic": "toufique imrose khalidi death",
+  "source": "Dhaka Tribune, bdnews24.com, Jamuna TV, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-02T19:08:25Z"
  }
 ]
