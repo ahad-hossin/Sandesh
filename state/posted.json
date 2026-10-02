@@ -8335,8 +8335,13 @@
   "headline": "Sim sells for 200 TK: Vegetable and fish prices surge in Dhaka",
   "topic": "dhaka vegetable prices high",
   "source": "Dhaka Tribune, Jamuna TV",
-  "status": "queued",
-  "at": "2026-10-02T07:09:25Z"
+  "status": "failed",
+  "at": "2026-10-02T07:09:25Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "01a32a444c2be945",
@@ -8344,8 +8349,13 @@
   "headline": "Sim sells for 200 TK: Vegetable and fish prices surge in Dhaka",
   "topic": "dhaka vegetable prices high",
   "source": "Dhaka Tribune, Jamuna TV",
-  "status": "queued",
-  "at": "2026-10-02T07:09:25Z"
+  "status": "failed",
+  "at": "2026-10-02T07:09:25Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "802846703a7b986e",
@@ -8353,8 +8363,13 @@
   "headline": "4 warehouses of Salman Muqtadir’s father-in-law sealed in Gulshan",
   "topic": "salman muqtadir father-in-law warehouse sealed",
   "source": "Dhaka Tribune, Jamuna TV, bdnews24.com",
-  "status": "queued",
-  "at": "2026-10-02T07:09:25Z"
+  "status": "failed",
+  "at": "2026-10-02T07:09:25Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "f6019e7169fc2587",
@@ -8362,8 +8377,13 @@
   "headline": "4 warehouses of Salman Muqtadir’s father-in-law sealed in Gulshan",
   "topic": "salman muqtadir father-in-law warehouse sealed",
   "source": "Dhaka Tribune, Jamuna TV, bdnews24.com",
-  "status": "queued",
-  "at": "2026-10-02T07:09:25Z"
+  "status": "failed",
+  "at": "2026-10-02T07:09:25Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "112b646b54f6a1c8",
@@ -8371,7 +8391,12 @@
   "headline": "4 warehouses of Salman Muqtadir’s father-in-law sealed in Gulshan",
   "topic": "salman muqtadir father-in-law warehouse sealed",
   "source": "Dhaka Tribune, Jamuna TV, bdnews24.com",
-  "status": "queued",
-  "at": "2026-10-02T07:09:25Z"
+  "status": "failed",
+  "at": "2026-10-02T07:09:25Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
