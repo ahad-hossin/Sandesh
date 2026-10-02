@@ -8363,8 +8363,13 @@
   "headline": "4 warehouses of Salman Muqtadir’s father-in-law sealed over alcohol irregularities",
   "topic": "salman muqtadir father-in-law warehouse sealed",
   "source": "Dhaka Tribune, bdnews24.com",
-  "status": "queued",
-  "at": "2026-10-02T06:10:28Z"
+  "status": "failed",
+  "at": "2026-10-02T06:10:28Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "112b646b54f6a1c8",
@@ -8372,8 +8377,13 @@
   "headline": "4 warehouses of Salman Muqtadir’s father-in-law sealed over alcohol irregularities",
   "topic": "salman muqtadir father-in-law warehouse sealed",
   "source": "Dhaka Tribune, bdnews24.com",
-  "status": "queued",
-  "at": "2026-10-02T06:10:28Z"
+  "status": "failed",
+  "at": "2026-10-02T06:10:28Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "1ae60059dbe948aa",
@@ -8381,7 +8391,12 @@
   "headline": "AQI: Dhaka ranks 5th most polluted among world's cities",
   "topic": "dhaka air quality rank 5th",
   "source": "Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-10-02T06:10:28Z"
+  "status": "failed",
+  "at": "2026-10-02T06:10:28Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
