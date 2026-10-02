@@ -1,33 +1,5 @@
 [
  {
-  "title_hash": "86ab95abe9b800ab",
-  "url": "https://www.jamuna.tv/all-bangladesh/665005",
-  "headline": "Over 1,000 detained in drives against teen gangs across three districts",
-  "topic": "cumilla teen gang drive",
-  "source": "Jamuna TV, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-28T05:08:12Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "07d65cf14bf6f9d5",
-  "url": "https://www.jamuna.tv/all-bangladesh/665004",
-  "headline": "Over 1,000 detained in drives against teen gangs across three districts",
-  "topic": "cumilla teen gang drive",
-  "source": "Jamuna TV, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-09-28T05:08:12Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "02f9636aa5c91bf2",
   "url": "https://www.prothomalo.com/bangladesh/district/r8n6d8ndov",
   "headline": "Over 1,000 detained in drives against teen gangs across three districts",
@@ -8398,5 +8370,23 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "be0f1a82cc1a1afa",
+  "url": "https://www.prothomalo.com/business/7iz2y6xjb4",
+  "headline": "Bottled soybean oil supply shrinks again as companies push for price hike",
+  "topic": "soybean oil price hike",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-02T02:07:19Z"
+ },
+ {
+  "title_hash": "7d40d89472b57d2f",
+  "url": "https://www.jamuna.tv/all-bangladesh/665291",
+  "headline": "Qawmi teacher accused of beating student, breaking leg in Meherpur",
+  "topic": "child beaten qawmi teacher",
+  "source": "Jamuna TV",
+  "status": "queued",
+  "at": "2026-10-02T02:07:19Z"
  }
 ]
