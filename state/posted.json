@@ -1,61 +1,5 @@
 [
  {
-  "title_hash": "d604ff6f72ed9b83",
-  "url": "https://www.prothomalo.com/bangladesh/district/ea9we691tn",
-  "headline": "PM Tarique Rahman to visit Feni tomorrow for first time since taking office",
-  "topic": "tarek rahman visit feni",
-  "source": "Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-30T05:09:48Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "13ea6d758ef2781e",
-  "url": "https://bdnews24.com/economy/5e41xplggt",
-  "headline": "US Dollar poised for largest monthly rise against Euro in 14 months",
-  "topic": "dollar rise september",
-  "source": "bdnews24.com",
-  "status": "failed",
-  "at": "2026-09-30T05:09:48Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "4ca4f0ee4a09a1be",
-  "url": "https://bdnews24.com/world/middle-east/c028kerbnr",
-  "headline": "Security vacuum fears as US forces exit Iraq",
-  "topic": "us troops exit iraq",
-  "source": "bdnews24.com, The Daily Star, Jamuna TV",
-  "status": "failed",
-  "at": "2026-09-30T06:24:30Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "534ed36c98ba9e32",
-  "url": "https://www.thedailystar.net/news/world/news/us-led-troops-exit-iraq-whats-next-pro-iran-groups-4286671",
-  "headline": "Security vacuum fears as US forces exit Iraq",
-  "topic": "us troops exit iraq",
-  "source": "bdnews24.com, The Daily Star, Jamuna TV",
-  "status": "failed",
-  "at": "2026-09-30T06:24:30Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "96ddbb94c8277f33",
   "url": "https://www.jamuna.tv/international/665157",
   "headline": "Security vacuum fears as US forces exit Iraq",
@@ -8398,5 +8342,41 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "9866110ca20da384",
+  "url": "https://www.dhakatribune.com/bangladesh/dhaka/421208/dhaka-ranks-third-among-world%E2%80%99s-most-polluted",
+  "headline": "Air quality alert: Dhaka ranks third among world’s most polluted cities",
+  "topic": "dhaka air pollution rank",
+  "source": "Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-10-03T04:09:07Z"
+ },
+ {
+  "title_hash": "a5172c83fe9e955e",
+  "url": "https://www.thedailystar.net/sports/cricket/news/bronze-slips-away-tigers-suffer-63-run-defeat-sri-lanka-4289146",
+  "headline": "63-run loss: Bangladesh miss out on Bronze at Asian Games",
+  "topic": "bangladesh lose bronze asian games cricket",
+  "source": "Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-10-03T04:09:07Z"
+ },
+ {
+  "title_hash": "b04aabe257bb5ba0",
+  "url": "https://www.prothomalo.com/sports/cricket/wlchu1pn2x",
+  "headline": "63-run loss: Bangladesh miss out on Bronze at Asian Games",
+  "topic": "bangladesh lose bronze asian games cricket",
+  "source": "Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-10-03T04:09:07Z"
+ },
+ {
+  "title_hash": "5880f2feadfaa270",
+  "url": "https://www.prothomalo.com/sports/cricket/otfsied5fg",
+  "headline": "63-run loss: Bangladesh miss out on Bronze at Asian Games",
+  "topic": "bangladesh lose bronze asian games cricket",
+  "source": "Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-10-03T04:09:07Z"
  }
 ]
