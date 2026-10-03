@@ -1,33 +1,5 @@
 [
  {
-  "title_hash": "7d2c55af43b5a96b",
-  "url": "https://bdnews24.com/sport/ebacv6uo71",
-  "headline": "Man City found guilty of financial breaches, CEO calls it 'conspiracy theory' and vows appeal",
-  "topic": "man city financial breaches verdict",
-  "source": "The Daily Star, bdnews24.com",
-  "status": "failed",
-  "at": "2026-09-30T01:08:50Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "eb9f335367e651ba",
-  "url": "https://bdnews24.com/sport/nyon0kib3i",
-  "headline": "Man City found guilty of financial breaches, CEO calls it 'conspiracy theory' and vows appeal",
-  "topic": "man city financial breaches verdict",
-  "source": "The Daily Star, bdnews24.com",
-  "status": "failed",
-  "at": "2026-09-30T01:08:50Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "37d6d61d7496ef37",
   "url": "https://www.prothomalo.com/entertainment/bollywood/78yoff7m31",
   "headline": "Ranbir Kapoor turns 44: Alia Bhatt shares romantic photos to celebrate",
@@ -8398,5 +8370,23 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "d8b192c733f55993",
+  "url": "https://www.prothomalo.com/sports/cricket/otfsied5fg",
+  "headline": "Mostafizur 25-run over: Bangladesh in trouble against Sri Lanka in Asian Games bronze fight",
+  "topic": "bangladesh vs sri lanka asian games cricket",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-03T02:11:06Z"
+ },
+ {
+  "title_hash": "d548221705c2537b",
+  "url": "https://www.jamuna.tv/international/665347",
+  "headline": "Trump: Europe agrees to release diesel reserves to lower fuel prices",
+  "topic": "trump europe diesel reserves",
+  "source": "Jamuna TV",
+  "status": "queued",
+  "at": "2026-10-03T02:11:06Z"
  }
 ]
