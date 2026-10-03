@@ -1,33 +1,5 @@
 [
  {
-  "title_hash": "4f66ecbd3a274d76",
-  "url": "https://www.prothomalo.com/video/bangladesh/690k14scyk",
-  "headline": "Retired Major General arrested over New Gini Properties attack",
-  "topic": "salman muqtadir studio attack arrest",
-  "source": "Prothom Alo, Jamuna TV, Dhaka Tribune, bdnews24.com",
-  "status": "failed",
-  "at": "2026-09-30T16:14:21Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "ceb0a9d83945e8c9",
-  "url": "https://www.jamuna.tv/national/665193",
-  "headline": "Retired Major General arrested over New Gini Properties attack",
-  "topic": "salman muqtadir studio attack arrest",
-  "source": "Prothom Alo, Jamuna TV, Dhaka Tribune, bdnews24.com",
-  "status": "failed",
-  "at": "2026-09-30T16:14:21Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "9fb76ed1e196026d",
   "url": "https://bdnews24.com/bangladesh/emvj3uoc63",
   "headline": "Retired Major General arrested over New Gini Properties attack",
@@ -8398,5 +8370,23 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "5f675bcda817a292",
+  "url": "https://www.dhakatribune.com/bangladesh/nation/421246/ten-crude-bombs-recovered-outside-chhatra-league",
+  "headline": "Ten crude bombs recovered outside Chhatra League leader’s home in Tongi",
+  "topic": "crude bombs recovered outside student league leader's home",
+  "source": "Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-10-03T13:09:14Z"
+ },
+ {
+  "title_hash": "0746549ff6388303",
+  "url": "https://bdnews24.com/cricket/t3e5x1uqu0",
+  "headline": "188* in 79 balls: Pretorius sets new T20 scoring record",
+  "topic": "South Africa player sets new T20 scoring record",
+  "source": "bdnews24.com",
+  "status": "queued",
+  "at": "2026-10-03T13:09:14Z"
  }
 ]
