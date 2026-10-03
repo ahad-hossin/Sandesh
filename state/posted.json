@@ -8321,8 +8321,13 @@
   "headline": "162* : West Indies beat India in record chase led by Shai Hope",
   "topic": "west indies beat india",
   "source": "Jamuna TV, The Daily Star, bdnews24.com",
-  "status": "queued",
-  "at": "2026-10-03T23:08:55Z"
+  "status": "failed",
+  "at": "2026-10-03T23:08:55Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "2f9c154a19c86cdc",
@@ -8330,8 +8335,13 @@
   "headline": "162* : West Indies beat India in record chase led by Shai Hope",
   "topic": "west indies beat india",
   "source": "Jamuna TV, The Daily Star, bdnews24.com",
-  "status": "queued",
-  "at": "2026-10-03T23:08:55Z"
+  "status": "failed",
+  "at": "2026-10-03T23:08:55Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "cb06410a876de3b1",
@@ -8339,8 +8349,13 @@
   "headline": "162* : West Indies beat India in record chase led by Shai Hope",
   "topic": "west indies beat india",
   "source": "Jamuna TV, The Daily Star, bdnews24.com",
-  "status": "queued",
-  "at": "2026-10-03T23:08:55Z"
+  "status": "failed",
+  "at": "2026-10-03T23:08:55Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "f21aaf0cf95382b5",
@@ -8348,8 +8363,13 @@
   "headline": "7-0 thrashing: England rout Croatia in Nations League",
   "topic": "england rout croatia",
   "source": "Jamuna TV, bdnews24.com, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-03T23:08:55Z"
+  "status": "failed",
+  "at": "2026-10-03T23:08:55Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "dc47618dfca88920",
@@ -8357,8 +8377,13 @@
   "headline": "7-0 thrashing: England rout Croatia in Nations League",
   "topic": "england rout croatia",
   "source": "Jamuna TV, bdnews24.com, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-03T23:08:55Z"
+  "status": "failed",
+  "at": "2026-10-03T23:08:55Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "cd4d3bf8a06ba01c",
@@ -8366,7 +8391,12 @@
   "headline": "7-0 thrashing: England rout Croatia in Nations League",
   "topic": "england rout croatia",
   "source": "Jamuna TV, bdnews24.com, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-03T23:08:55Z"
+  "status": "failed",
+  "at": "2026-10-03T23:08:55Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
