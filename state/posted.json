@@ -8377,8 +8377,13 @@
   "headline": "Mostafizur 25-run over: Bangladesh in trouble against Sri Lanka in Asian Games bronze fight",
   "topic": "bangladesh vs sri lanka asian games cricket",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-03T02:11:06Z"
+  "status": "failed",
+  "at": "2026-10-03T02:11:06Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "d548221705c2537b",
@@ -8386,7 +8391,12 @@
   "headline": "Trump: Europe agrees to release diesel reserves to lower fuel prices",
   "topic": "trump europe diesel reserves",
   "source": "Jamuna TV",
-  "status": "queued",
-  "at": "2026-10-03T02:11:06Z"
+  "status": "failed",
+  "at": "2026-10-03T02:11:06Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
