@@ -1,75 +1,5 @@
 [
  {
-  "title_hash": "caca9e9f9da5e74f",
-  "url": "https://www.thedailystar.net/news/world/news/passengers-foil-bid-crash-dubai-tel-aviv-flight-israel-says-after-co-pilot-stabs-pilot-4287611",
-  "headline": "Passengers foil co-pilot's bid to crash Dubai-Tel Aviv flight, Israel vows probe",
-  "topic": "Dubai-Tel Aviv flight pilot stabbing",
-  "source": "The Daily Star, Jamuna TV, bdnews24.com, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-01T05:07:36Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "b39428793c22eb25",
-  "url": "https://www.jamuna.tv/international/665224",
-  "headline": "Passengers foil co-pilot's bid to crash Dubai-Tel Aviv flight, Israel vows probe",
-  "topic": "Dubai-Tel Aviv flight pilot stabbing",
-  "source": "The Daily Star, Jamuna TV, bdnews24.com, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-01T05:07:36Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "7667b85358f8368b",
-  "url": "https://www.thedailystar.net/news/world/news/israel-pm-credits-israeli-plumber-averting-plane-disaster-4287571",
-  "headline": "Passengers foil co-pilot's bid to crash Dubai-Tel Aviv flight, Israel vows probe",
-  "topic": "Dubai-Tel Aviv flight pilot stabbing",
-  "source": "The Daily Star, Jamuna TV, bdnews24.com, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-01T05:07:36Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "834931d9ed731232",
-  "url": "https://bdnews24.com/aviation/83t64hdrkm",
-  "headline": "Passengers foil co-pilot's bid to crash Dubai-Tel Aviv flight, Israel vows probe",
-  "topic": "Dubai-Tel Aviv flight pilot stabbing",
-  "source": "The Daily Star, Jamuna TV, bdnews24.com, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-01T05:07:36Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "7a5f386649dd0ec6",
-  "url": "https://bdnews24.com/world/middle-east/cfyouo1hnk",
-  "headline": "Passengers foil co-pilot's bid to crash Dubai-Tel Aviv flight, Israel vows probe",
-  "topic": "Dubai-Tel Aviv flight pilot stabbing",
-  "source": "The Daily Star, Jamuna TV, bdnews24.com, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-01T05:07:36Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "b29df327fa69e36c",
   "url": "https://www.prothomalo.com/world/middle-east/gxuncde3n3",
   "headline": "Passengers foil co-pilot's bid to crash Dubai-Tel Aviv flight, Israel vows probe",
@@ -8398,5 +8328,50 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "9162599ebe7deb23",
+  "url": "https://www.dhakatribune.com/bangladesh/health/421263/dengue-cases-up-74%25-deaths-27%25-from-last-year",
+  "headline": "6 die, 1,608 hospitalized as dengue cases surge in Bangladesh",
+  "topic": "dengue cases surge",
+  "source": "Dhaka Tribune, Jamuna TV, bdnews24.com",
+  "status": "queued",
+  "at": "2026-10-03T19:15:51Z"
+ },
+ {
+  "title_hash": "a2ec5d15f218f097",
+  "url": "https://www.dhakatribune.com/bangladesh/health/421234/dengue-six-more-die-as-1-948-hospitalized-in-24",
+  "headline": "6 die, 1,608 hospitalized as dengue cases surge in Bangladesh",
+  "topic": "dengue cases surge",
+  "source": "Dhaka Tribune, Jamuna TV, bdnews24.com",
+  "status": "queued",
+  "at": "2026-10-03T19:15:51Z"
+ },
+ {
+  "title_hash": "db083744f6340a08",
+  "url": "https://www.jamuna.tv/national/665376",
+  "headline": "6 die, 1,608 hospitalized as dengue cases surge in Bangladesh",
+  "topic": "dengue cases surge",
+  "source": "Dhaka Tribune, Jamuna TV, bdnews24.com",
+  "status": "queued",
+  "at": "2026-10-03T19:15:51Z"
+ },
+ {
+  "title_hash": "6122096d390b9186",
+  "url": "https://bdnews24.com/health/fvuxfg755p",
+  "headline": "6 die, 1,608 hospitalized as dengue cases surge in Bangladesh",
+  "topic": "dengue cases surge",
+  "source": "Dhaka Tribune, Jamuna TV, bdnews24.com",
+  "status": "queued",
+  "at": "2026-10-03T19:15:51Z"
+ },
+ {
+  "title_hash": "197fb625227552af",
+  "url": "https://www.thedailystar.net/news/bangladesh/news/student-stabbed-death-satkhira-4289656",
+  "headline": "19-year-old student stabbed to death in Satkhira",
+  "topic": "student stabbed in satkhira",
+  "source": "The Daily Star",
+  "status": "queued",
+  "at": "2026-10-03T19:15:51Z"
  }
 ]
