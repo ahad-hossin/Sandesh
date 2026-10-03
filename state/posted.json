@@ -8335,8 +8335,13 @@
   "headline": "6 die, 1,608 hospitalized as dengue cases surge in Bangladesh",
   "topic": "dengue cases surge",
   "source": "Dhaka Tribune, Jamuna TV, bdnews24.com",
-  "status": "queued",
-  "at": "2026-10-03T19:15:51Z"
+  "status": "failed",
+  "at": "2026-10-03T19:15:51Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "a2ec5d15f218f097",
@@ -8344,8 +8349,13 @@
   "headline": "6 die, 1,608 hospitalized as dengue cases surge in Bangladesh",
   "topic": "dengue cases surge",
   "source": "Dhaka Tribune, Jamuna TV, bdnews24.com",
-  "status": "queued",
-  "at": "2026-10-03T19:15:51Z"
+  "status": "failed",
+  "at": "2026-10-03T19:15:51Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "db083744f6340a08",
@@ -8353,8 +8363,13 @@
   "headline": "6 die, 1,608 hospitalized as dengue cases surge in Bangladesh",
   "topic": "dengue cases surge",
   "source": "Dhaka Tribune, Jamuna TV, bdnews24.com",
-  "status": "queued",
-  "at": "2026-10-03T19:15:51Z"
+  "status": "failed",
+  "at": "2026-10-03T19:15:51Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "6122096d390b9186",
@@ -8362,8 +8377,13 @@
   "headline": "6 die, 1,608 hospitalized as dengue cases surge in Bangladesh",
   "topic": "dengue cases surge",
   "source": "Dhaka Tribune, Jamuna TV, bdnews24.com",
-  "status": "queued",
-  "at": "2026-10-03T19:15:51Z"
+  "status": "failed",
+  "at": "2026-10-03T19:15:51Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "197fb625227552af",
@@ -8371,7 +8391,12 @@
   "headline": "19-year-old student stabbed to death in Satkhira",
   "topic": "student stabbed in satkhira",
   "source": "The Daily Star",
-  "status": "queued",
-  "at": "2026-10-03T19:15:51Z"
+  "status": "failed",
+  "at": "2026-10-03T19:15:51Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
