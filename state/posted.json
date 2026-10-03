@@ -1,61 +1,5 @@
 [
  {
-  "title_hash": "c981cc8c60ef03d5",
-  "url": "https://www.thedailystar.net/news/governance/news/magistrates-failure-coordinate-police-may-have-contributed-mirpur-violence-home-minister-4286856",
-  "headline": "3 DNCC trucks torched, police vehicle vandalised in Mirpur eviction drive clash",
-  "topic": "mirpur eviction drive violence",
-  "source": "Jamuna TV, Prothom Alo, The Daily Star, Dhaka Tribune, bdnews24.com",
-  "status": "failed",
-  "at": "2026-09-30T08:09:30Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "c76425bef38de096",
-  "url": "https://www.jamuna.tv/all-bangladesh/665185",
-  "headline": "Woman in Magura gets electricity bill of 506 crore BDT, corrected to 1,963 BDT",
-  "topic": "magura 506 crore electricity bill",
-  "source": "Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-30T08:09:30Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "0aff02adee45944a",
-  "url": "https://www.prothomalo.com/bangladesh/district/830rmobux9",
-  "headline": "Woman in Magura gets electricity bill of 506 crore BDT, corrected to 1,963 BDT",
-  "topic": "magura 506 crore electricity bill",
-  "source": "Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-30T08:09:30Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "cea4c31e64552ba6",
-  "url": "https://www.dhakatribune.com/bangladesh/421007/bfiu-seeks-bank-account-details-of-salman-muqtadir",
-  "headline": "BFIU seeks bank account details of Salman Muqtadir",
-  "topic": "bfiu seeks salman muqtadir bank details",
-  "source": "Dhaka Tribune, Jamuna TV, The Daily Star, Prothom Alo",
-  "status": "failed",
-  "at": "2026-09-30T09:09:22Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "1e7bb8ee7287ed83",
   "url": "https://www.jamuna.tv/national/665184",
   "headline": "BFIU seeks bank account details of Salman Muqtadir",
@@ -8398,5 +8342,41 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "cb2c115a3bbd6bfb",
+  "url": "https://www.jamuna.tv/national/665368",
+  "headline": "Jamaat leader Akhtaruzzaman granted 1-day remand over airport chaos",
+  "topic": "jamaat leader akhtaruzzaman remand",
+  "source": "Jamuna TV",
+  "status": "queued",
+  "at": "2026-10-03T08:08:05Z"
+ },
+ {
+  "title_hash": "e89c8b56ed688541",
+  "url": "https://www.jamuna.tv/national/665365",
+  "headline": "Jamaat leader Akhtaruzzaman granted 1-day remand over airport chaos",
+  "topic": "jamaat leader akhtaruzzaman remand",
+  "source": "Jamuna TV",
+  "status": "queued",
+  "at": "2026-10-03T08:08:05Z"
+ },
+ {
+  "title_hash": "b7f5031fe34ec7a5",
+  "url": "https://www.dhakatribune.com/bangladesh/dhaka/421220/radda-vandalism-nationalist-cyber-party",
+  "headline": "Radda vandalism: Nationalist Cyber Party VP arrested",
+  "topic": "radda vandalism arrests",
+  "source": "Dhaka Tribune, Jamuna TV",
+  "status": "queued",
+  "at": "2026-10-03T08:08:05Z"
+ },
+ {
+  "title_hash": "3048dd671b46bc2e",
+  "url": "https://www.jamuna.tv/national/665361",
+  "headline": "Radda vandalism: Nationalist Cyber Party VP arrested",
+  "topic": "radda vandalism arrests",
+  "source": "Dhaka Tribune, Jamuna TV",
+  "status": "queued",
+  "at": "2026-10-03T08:08:05Z"
  }
 ]
