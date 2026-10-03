@@ -8349,8 +8349,13 @@
   "headline": "Air quality alert: Dhaka ranks third among world’s most polluted cities",
   "topic": "dhaka air pollution rank",
   "source": "Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-10-03T04:09:07Z"
+  "status": "failed",
+  "at": "2026-10-03T04:09:07Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "a5172c83fe9e955e",
@@ -8358,8 +8363,13 @@
   "headline": "63-run loss: Bangladesh miss out on Bronze at Asian Games",
   "topic": "bangladesh lose bronze asian games cricket",
   "source": "Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-03T04:09:07Z"
+  "status": "failed",
+  "at": "2026-10-03T04:09:07Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "b04aabe257bb5ba0",
@@ -8367,8 +8377,13 @@
   "headline": "63-run loss: Bangladesh miss out on Bronze at Asian Games",
   "topic": "bangladesh lose bronze asian games cricket",
   "source": "Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-03T04:09:07Z"
+  "status": "failed",
+  "at": "2026-10-03T04:09:07Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "5880f2feadfaa270",
@@ -8376,7 +8391,12 @@
   "headline": "63-run loss: Bangladesh miss out on Bronze at Asian Games",
   "topic": "bangladesh lose bronze asian games cricket",
   "source": "Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-03T04:09:07Z"
+  "status": "failed",
+  "at": "2026-10-03T04:09:07Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
