@@ -8363,8 +8363,13 @@
   "headline": "Sunday morning: Dhaka ranks world's third most polluted city",
   "topic": "dhaka world third most polluted city",
   "source": "Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-10-04T05:09:33Z"
+  "status": "failed",
+  "at": "2026-10-04T05:09:33Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "d12ab18766d4fe8d",
@@ -8372,8 +8377,13 @@
   "headline": "Tennessee prison chief resigns after botched execution",
   "topic": "tennessee prison chief resigns botched execution",
   "source": "The Daily Star, Jamuna TV",
-  "status": "queued",
-  "at": "2026-10-04T05:09:33Z"
+  "status": "failed",
+  "at": "2026-10-04T05:09:33Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "942b11240b1446c4",
@@ -8381,7 +8391,12 @@
   "headline": "Tennessee prison chief resigns after botched execution",
   "topic": "tennessee prison chief resigns botched execution",
   "source": "The Daily Star, Jamuna TV",
-  "status": "queued",
-  "at": "2026-10-04T05:09:33Z"
+  "status": "failed",
+  "at": "2026-10-04T05:09:33Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
