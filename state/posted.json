@@ -8349,8 +8349,13 @@
   "headline": "Illegal liquor seized from Fu-Wang and three other Dhaka establishments in NBR raids",
   "topic": "NBR Raids Illegal Liquor",
   "source": "Prothom Alo, bdnews24.com",
-  "status": "queued",
-  "at": "2026-10-04T00:07:15Z"
+  "status": "failed",
+  "at": "2026-10-04T00:07:15Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "4cc07509ce4c6f46",
@@ -8358,8 +8363,13 @@
   "headline": "Illegal liquor seized from Fu-Wang and three other Dhaka establishments in NBR raids",
   "topic": "NBR Raids Illegal Liquor",
   "source": "Prothom Alo, bdnews24.com",
-  "status": "queued",
-  "at": "2026-10-04T00:07:15Z"
+  "status": "failed",
+  "at": "2026-10-04T00:07:15Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "cb06410a876de3b1",
@@ -8367,8 +8377,13 @@
   "headline": "Shai Hope's unbeaten 162 leads West Indies to five-wicket victory over India, denying series sweep",
   "topic": "Cricket West Indies India Upset",
   "source": "Jamuna TV, bdnews24.com",
-  "status": "queued",
-  "at": "2026-10-04T00:07:15Z"
+  "status": "failed",
+  "at": "2026-10-04T00:07:15Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "2f9c154a19c86cdc",
@@ -8376,7 +8391,12 @@
   "headline": "Shai Hope's unbeaten 162 leads West Indies to five-wicket victory over India, denying series sweep",
   "topic": "Cricket West Indies India Upset",
   "source": "Jamuna TV, bdnews24.com",
-  "status": "queued",
-  "at": "2026-10-04T00:07:15Z"
+  "status": "failed",
+  "at": "2026-10-04T00:07:15Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
