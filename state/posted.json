@@ -1,47 +1,5 @@
 [
  {
-  "title_hash": "33c6e576a9b8bb7d",
-  "url": "https://bdnews24.com/bangladesh/wq9gn2zu5x",
-  "headline": "PM's directive: MP Mishti resigns over Radda health center attack",
-  "topic": "mp mishti resignation",
-  "source": "Dhaka Tribune, Jamuna TV, bdnews24.com, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-01T10:09:05Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "c1e899ef734c1bb6",
-  "url": "https://www.prothomalo.com/politics/ycgh5g387t",
-  "headline": "PM's directive: MP Mishti resigns over Radda health center attack",
-  "topic": "mp mishti resignation",
-  "source": "Dhaka Tribune, Jamuna TV, bdnews24.com, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-01T10:09:05Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "8183be1747630a5b",
-  "url": "https://www.jamuna.tv/national/665247",
-  "headline": "PM's directive: MP Mishti resigns over Radda health center attack",
-  "topic": "mp mishti resignation",
-  "source": "Dhaka Tribune, Jamuna TV, bdnews24.com, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-01T10:09:05Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "21151e039beab52e",
   "url": "https://www.prothomalo.com/politics/pdtyaag-krchen-bienpir-empi-pherdausii",
   "headline": "PM's directive: MP Mishti resigns over Radda health center attack",
@@ -8398,5 +8356,32 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "763ea4e3358b1bf4",
+  "url": "https://www.dhakatribune.com/bangladesh/dhaka/421269/dhaka-ranks-world-s-third-most-polluted-city",
+  "headline": "Air quality alert: Dhaka ranks world's third most polluted city on Sunday",
+  "topic": "Dhaka Air Pollution Third Worst",
+  "source": "Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-10-04T04:09:50Z"
+ },
+ {
+  "title_hash": "9162599ebe7deb23",
+  "url": "https://www.dhakatribune.com/bangladesh/health/421263/dengue-cases-up-74%25-deaths-27%25-from-last-year",
+  "headline": "250 dead as dengue cases surge 74% compared to last year",
+  "topic": "Bangladesh Dengue Cases Up",
+  "source": "Dhaka Tribune, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-04T04:09:50Z"
+ },
+ {
+  "title_hash": "b8c9cd8c44e1bb72",
+  "url": "https://www.prothomalo.com/opinion/editorial/v8z5xmjvtt",
+  "headline": "250 dead as dengue cases surge 74% compared to last year",
+  "topic": "Bangladesh Dengue Cases Up",
+  "source": "Dhaka Tribune, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-04T04:09:50Z"
  }
 ]
