@@ -1,61 +1,5 @@
 [
  {
-  "title_hash": "1c62634c6b91769e",
-  "url": "https://www.jamuna.tv/national/665239",
-  "headline": "US provides 500,000 dengue test kits to Bangladesh",
-  "topic": "us provides dengue test kits",
-  "source": "Dhaka Tribune, Jamuna TV",
-  "status": "failed",
-  "at": "2026-10-01T09:21:10Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "52457b0c2b9fcf7e",
-  "url": "https://www.dhakatribune.com/bangladesh/politics/421079/bnp-orders-mp-ferdousi-ahmed-mishti-to-resign",
-  "headline": "PM's directive: MP Mishti resigns over Radda health center attack",
-  "topic": "mp mishti resignation",
-  "source": "Dhaka Tribune, Jamuna TV, bdnews24.com, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-01T10:09:05Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "d6324f3e9c486dd9",
-  "url": "https://www.jamuna.tv/national/665259",
-  "headline": "PM's directive: MP Mishti resigns over Radda health center attack",
-  "topic": "mp mishti resignation",
-  "source": "Dhaka Tribune, Jamuna TV, bdnews24.com, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-01T10:09:05Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "b79d0cea14ee3a60",
-  "url": "https://www.jamuna.tv/national/665254",
-  "headline": "PM's directive: MP Mishti resigns over Radda health center attack",
-  "topic": "mp mishti resignation",
-  "source": "Dhaka Tribune, Jamuna TV, bdnews24.com, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-01T10:09:05Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "33c6e576a9b8bb7d",
   "url": "https://bdnews24.com/bangladesh/wq9gn2zu5x",
   "headline": "PM's directive: MP Mishti resigns over Radda health center attack",
@@ -8398,5 +8342,41 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "b0303b65b014c4a1",
+  "url": "https://www.thedailystar.net/sports/football/news/argentina-run-riot-the-monumental-thrashing-burkina-faso-7-0-4289976",
+  "headline": "Argentina thrash Burkina Faso 7-0 in dominant friendly display",
+  "topic": "Argentina beats Burkina Faso 7-0",
+  "source": "Jamuna TV, Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-10-04T03:06:49Z"
+ },
+ {
+  "title_hash": "e37a889081a95fba",
+  "url": "https://www.jamuna.tv/sports/665412",
+  "headline": "Argentina thrash Burkina Faso 7-0 in dominant friendly display",
+  "topic": "Argentina beats Burkina Faso 7-0",
+  "source": "Jamuna TV, Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-10-04T03:06:49Z"
+ },
+ {
+  "title_hash": "05c581e6c292010f",
+  "url": "https://www.prothomalo.com/sports/football/ehi46oo40k",
+  "headline": "Argentina thrash Burkina Faso 7-0 in dominant friendly display",
+  "topic": "Argentina beats Burkina Faso 7-0",
+  "source": "Jamuna TV, Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-10-04T03:06:49Z"
+ },
+ {
+  "title_hash": "e940eec1cc9deb15",
+  "url": "https://www.prothomalo.com/business/personal-finance/nhigenktuq",
+  "headline": "Government employees to get 3 months' arrears with October salary, calculation starts tomorrow",
+  "topic": "Govt employees arrears with October salary",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-04T03:06:49Z"
  }
 ]
