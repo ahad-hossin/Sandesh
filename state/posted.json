@@ -8349,8 +8349,13 @@
   "headline": "Man jailed for 10 months due to name mix-up; High Court orders investigation",
   "topic": "Man jailed due to name similarity",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-04T02:07:29Z"
+  "status": "failed",
+  "at": "2026-10-04T02:07:29Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "01fb6757e143aea6",
@@ -8358,8 +8363,13 @@
   "headline": "Lula's lead over Bolsonaro narrows ahead of Brazil vote, runoff likely",
   "topic": "Brazil election Lula Bolsonaro",
   "source": "Jamuna TV, Prothom Alo, bdnews24.com",
-  "status": "queued",
-  "at": "2026-10-04T02:07:29Z"
+  "status": "failed",
+  "at": "2026-10-04T02:07:29Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "8d236abbe34d6599",
@@ -8367,8 +8377,13 @@
   "headline": "Lula's lead over Bolsonaro narrows ahead of Brazil vote, runoff likely",
   "topic": "Brazil election Lula Bolsonaro",
   "source": "Jamuna TV, Prothom Alo, bdnews24.com",
-  "status": "queued",
-  "at": "2026-10-04T02:07:29Z"
+  "status": "failed",
+  "at": "2026-10-04T02:07:29Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "6f3447a628edb3e6",
@@ -8376,7 +8391,12 @@
   "headline": "Lula's lead over Bolsonaro narrows ahead of Brazil vote, runoff likely",
   "topic": "Brazil election Lula Bolsonaro",
   "source": "Jamuna TV, Prothom Alo, bdnews24.com",
-  "status": "queued",
-  "at": "2026-10-04T02:07:29Z"
+  "status": "failed",
+  "at": "2026-10-04T02:07:29Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
