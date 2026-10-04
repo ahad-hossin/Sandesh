@@ -1,61 +1,5 @@
 [
  {
-  "title_hash": "11eebded8af769c1",
-  "url": "https://bdnews24.com/bangladesh/6siqfggtwy",
-  "headline": "Gazette for 46 dropped 49th BCS candidates to be issued Monday",
-  "topic": "46 dropped 49th BCS candidates to get gazette Monday",
-  "source": "Prothom Alo, bdnews24.com",
-  "status": "failed",
-  "at": "2026-10-01T11:09:27Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "fa58363b1fb38007",
-  "url": "https://www.prothomalo.com/chakri/chakri-news/uu55afbshf",
-  "headline": "Gazette for 46 dropped 49th BCS candidates to be issued Monday",
-  "topic": "46 dropped 49th BCS candidates to get gazette Monday",
-  "source": "Prothom Alo, bdnews24.com",
-  "status": "failed",
-  "at": "2026-10-01T11:09:27Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "d3a1bf72e534d19b",
-  "url": "https://www.dhakatribune.com/bangladesh/421088/pm-opens-tk1-542cr-flood-control-drainage",
-  "headline": "Tk 15.42bn flood control project inaugurated in Feni to shield district",
-  "topic": "PM inaugurates Tk1,542cr flood control, drainage, irrigation project in Feni",
-  "source": "Dhaka Tribune, bdnews24.com, Jamuna TV",
-  "status": "failed",
-  "at": "2026-10-01T11:09:27Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "cac03d394c3b3d49",
-  "url": "https://bdnews24.com/bangladesh/ov7swipnc5",
-  "headline": "Tk 15.42bn flood control project inaugurated in Feni to shield district",
-  "topic": "PM inaugurates Tk1,542cr flood control, drainage, irrigation project in Feni",
-  "source": "Dhaka Tribune, bdnews24.com, Jamuna TV",
-  "status": "failed",
-  "at": "2026-10-01T11:09:27Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "c513c64578c21512",
   "url": "https://www.jamuna.tv/national/665264",
   "headline": "Tk 15.42bn flood control project inaugurated in Feni to shield district",
@@ -8398,5 +8342,41 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "416c79c5d46c35b1",
+  "url": "https://www.prothomalo.com/business/personal-finance/srkaari-krmcaariiraa-tin-maaser-bkeyyaa-eksngge-paaben",
+  "headline": "Govt employees to get 3 months' arrears together",
+  "topic": "govt employees 3 month arrears",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-04T06:09:00Z"
+ },
+ {
+  "title_hash": "e940eec1cc9deb15",
+  "url": "https://www.prothomalo.com/business/personal-finance/nhigenktuq",
+  "headline": "Govt employees to get 3 months' arrears together",
+  "topic": "govt employees 3 month arrears",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-04T06:09:00Z"
+ },
+ {
+  "title_hash": "88030b7141b10280",
+  "url": "https://www.dhakatribune.com/bangladesh/foreign-affairs/421271/army-chief-leaves-dhaka-for-official-visit-to",
+  "headline": "Army chief visits Australia and US on 9-day official tour",
+  "topic": "army chief visit australia us",
+  "source": "Jamuna TV, Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-10-04T06:09:00Z"
+ },
+ {
+  "title_hash": "eb5691d1bb6aa18f",
+  "url": "https://www.jamuna.tv/national/665421",
+  "headline": "Army chief visits Australia and US on 9-day official tour",
+  "topic": "army chief visit australia us",
+  "source": "Jamuna TV, Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-10-04T06:09:00Z"
  }
 ]
