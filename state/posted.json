@@ -8349,8 +8349,13 @@
   "headline": "Govt employees to get 3 months' arrears together",
   "topic": "govt employees 3 month arrears",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-04T06:09:00Z"
+  "status": "failed",
+  "at": "2026-10-04T06:09:00Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "e940eec1cc9deb15",
@@ -8358,8 +8363,13 @@
   "headline": "Govt employees to get 3 months' arrears together",
   "topic": "govt employees 3 month arrears",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-04T06:09:00Z"
+  "status": "failed",
+  "at": "2026-10-04T06:09:00Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "88030b7141b10280",
@@ -8367,8 +8377,13 @@
   "headline": "Army chief visits Australia and US on 9-day official tour",
   "topic": "army chief visit australia us",
   "source": "Jamuna TV, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-10-04T06:09:00Z"
+  "status": "failed",
+  "at": "2026-10-04T06:09:00Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "eb5691d1bb6aa18f",
@@ -8376,7 +8391,12 @@
   "headline": "Army chief visits Australia and US on 9-day official tour",
   "topic": "army chief visit australia us",
   "source": "Jamuna TV, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-10-04T06:09:00Z"
+  "status": "failed",
+  "at": "2026-10-04T06:09:00Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
