@@ -1,47 +1,5 @@
 [
  {
-  "title_hash": "21151e039beab52e",
-  "url": "https://www.prothomalo.com/politics/pdtyaag-krchen-bienpir-empi-pherdausii",
-  "headline": "PM's directive: MP Mishti resigns over Radda health center attack",
-  "topic": "mp mishti resignation",
-  "source": "Dhaka Tribune, Jamuna TV, bdnews24.com, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-01T10:09:05Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "291c770e06ecf74b",
-  "url": "https://bdnews24.com/bangladesh/9nbhuyvg68",
-  "headline": "Young people ride Metro Rail in shorts to protest harassment",
-  "topic": "shorts protest metro rail",
-  "source": "bdnews24.com, Jamuna TV",
-  "status": "failed",
-  "at": "2026-10-01T10:09:05Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "0837d0925619c195",
-  "url": "https://www.jamuna.tv/national/665250",
-  "headline": "Young people ride Metro Rail in shorts to protest harassment",
-  "topic": "shorts protest metro rail",
-  "source": "bdnews24.com, Jamuna TV",
-  "status": "failed",
-  "at": "2026-10-01T10:09:05Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "11eebded8af769c1",
   "url": "https://bdnews24.com/bangladesh/6siqfggtwy",
   "headline": "Gazette for 46 dropped 49th BCS candidates to be issued Monday",
@@ -8398,5 +8356,32 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "763ea4e3358b1bf4",
+  "url": "https://www.dhakatribune.com/bangladesh/dhaka/421269/dhaka-ranks-world-s-third-most-polluted-city",
+  "headline": "Sunday morning: Dhaka ranks world's third most polluted city",
+  "topic": "dhaka world third most polluted city",
+  "source": "Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-10-04T05:09:33Z"
+ },
+ {
+  "title_hash": "d12ab18766d4fe8d",
+  "url": "https://www.thedailystar.net/news/world/news/tennessee-prison-chief-resigns-after-failed-execution-christa-pike-4289996",
+  "headline": "Tennessee prison chief resigns after botched execution",
+  "topic": "tennessee prison chief resigns botched execution",
+  "source": "The Daily Star, Jamuna TV",
+  "status": "queued",
+  "at": "2026-10-04T05:09:33Z"
+ },
+ {
+  "title_hash": "942b11240b1446c4",
+  "url": "https://www.jamuna.tv/international/665411",
+  "headline": "Tennessee prison chief resigns after botched execution",
+  "topic": "tennessee prison chief resigns botched execution",
+  "source": "The Daily Star, Jamuna TV",
+  "status": "queued",
+  "at": "2026-10-04T05:09:33Z"
  }
 ]
