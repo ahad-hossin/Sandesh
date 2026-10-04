@@ -8321,8 +8321,13 @@
   "headline": "Price of 12kg LPG jumps by Tk 252 amid supply crunch",
   "topic": "lpg price hike",
   "source": "Jamuna TV, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-04T13:09:36Z"
+  "status": "failed",
+  "at": "2026-10-04T13:09:36Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "f471466ff815cc8e",
@@ -8330,8 +8335,13 @@
   "headline": "Price of 12kg LPG jumps by Tk 252 amid supply crunch",
   "topic": "lpg price hike",
   "source": "Jamuna TV, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-04T13:09:36Z"
+  "status": "failed",
+  "at": "2026-10-04T13:09:36Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "34760349c36bbb3d",
@@ -8339,8 +8349,13 @@
   "headline": "1,125 dead as measles outbreak spreads across Bangladesh",
   "topic": "measles deaths rise",
   "source": "bdnews24.com, The Daily Star, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-10-04T13:09:36Z"
+  "status": "failed",
+  "at": "2026-10-04T13:09:36Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "0f2a5045bca78872",
@@ -8348,8 +8363,13 @@
   "headline": "1,125 dead as measles outbreak spreads across Bangladesh",
   "topic": "measles deaths rise",
   "source": "bdnews24.com, The Daily Star, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-10-04T13:09:36Z"
+  "status": "failed",
+  "at": "2026-10-04T13:09:36Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "028bb462d331ecc4",
@@ -8357,8 +8377,13 @@
   "headline": "1,125 dead as measles outbreak spreads across Bangladesh",
   "topic": "measles deaths rise",
   "source": "bdnews24.com, The Daily Star, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-10-04T13:09:36Z"
+  "status": "failed",
+  "at": "2026-10-04T13:09:36Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "56df7c8b1697f0c8",
@@ -8366,7 +8391,12 @@
   "headline": "1,125 dead as measles outbreak spreads across Bangladesh",
   "topic": "measles deaths rise",
   "source": "bdnews24.com, The Daily Star, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-10-04T13:09:36Z"
+  "status": "failed",
+  "at": "2026-10-04T13:09:36Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
