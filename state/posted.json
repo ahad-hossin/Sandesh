@@ -8321,8 +8321,13 @@
   "headline": "Tk 16.25 crore gold seized: 80 gold bars found in shoes of airport staff",
   "topic": "gold bars seized at dhaka airport",
   "source": "Dhaka Tribune, The Daily Star, bdnews24.com, Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-04T10:08:35Z"
+  "status": "failed",
+  "at": "2026-10-04T10:08:35Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "275077612e6afd86",
@@ -8330,8 +8335,13 @@
   "headline": "Tk 16.25 crore gold seized: 80 gold bars found in shoes of airport staff",
   "topic": "gold bars seized at dhaka airport",
   "source": "Dhaka Tribune, The Daily Star, bdnews24.com, Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-04T10:08:35Z"
+  "status": "failed",
+  "at": "2026-10-04T10:08:35Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "ccfe651154eeec70",
@@ -8339,8 +8349,13 @@
   "headline": "Tk 16.25 crore gold seized: 80 gold bars found in shoes of airport staff",
   "topic": "gold bars seized at dhaka airport",
   "source": "Dhaka Tribune, The Daily Star, bdnews24.com, Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-04T10:08:35Z"
+  "status": "failed",
+  "at": "2026-10-04T10:08:35Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "6fbdf4afa8dd7c3b",
@@ -8348,8 +8363,13 @@
   "headline": "Tk 16.25 crore gold seized: 80 gold bars found in shoes of airport staff",
   "topic": "gold bars seized at dhaka airport",
   "source": "Dhaka Tribune, The Daily Star, bdnews24.com, Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-04T10:08:35Z"
+  "status": "failed",
+  "at": "2026-10-04T10:08:35Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "23200add187fb505",
@@ -8357,8 +8377,13 @@
   "headline": "Tk 16.25 crore gold seized: 80 gold bars found in shoes of airport staff",
   "topic": "gold bars seized at dhaka airport",
   "source": "Dhaka Tribune, The Daily Star, bdnews24.com, Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-04T10:08:35Z"
+  "status": "failed",
+  "at": "2026-10-04T10:08:35Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "56df7c8b1697f0c8",
@@ -8366,7 +8391,12 @@
   "headline": "1,125 dead as measles outbreak death toll reaches 1,125",
   "topic": "measles outbreak death toll",
   "source": "Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-10-04T10:08:35Z"
+  "status": "failed",
+  "at": "2026-10-04T10:08:35Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
