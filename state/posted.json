@@ -1,61 +1,5 @@
 [
  {
-  "title_hash": "79741ebe0e18145e",
-  "url": "https://www.thedailystar.net/news/crime-justice/news/case-filed-over-dncc-trucks-set-fire-during-mirpur-eviction-drive-4287716",
-  "headline": "3 DNCC trucks set on fire during Mirpur eviction drive",
-  "topic": "mirpur eviction drive violence",
-  "source": "The Daily Star, bdnews24.com, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-01T08:07:58Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "c765be9537b3d3a3",
-  "url": "https://bdnews24.com/bangladesh/knksj6xfg3",
-  "headline": "3 DNCC trucks set on fire during Mirpur eviction drive",
-  "topic": "mirpur eviction drive violence",
-  "source": "The Daily Star, bdnews24.com, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-01T08:07:58Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "ba59218ef12e01d8",
-  "url": "https://www.jamuna.tv/national/665243",
-  "headline": "3 DNCC trucks set on fire during Mirpur eviction drive",
-  "topic": "mirpur eviction drive violence",
-  "source": "The Daily Star, bdnews24.com, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-01T08:07:58Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "f9207ccf4589f834",
-  "url": "https://nagorik.prothomalo.com/ayojon/ouda5f8jtp",
-  "headline": "3 DNCC trucks set on fire during Mirpur eviction drive",
-  "topic": "mirpur eviction drive violence",
-  "source": "The Daily Star, bdnews24.com, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-01T08:07:58Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "72872b8d0c2c68f6",
   "url": "https://www.dhakatribune.com/bangladesh/government-affairs/421084/bangladesh-police-anti-terrorism-unit-renamed",
   "headline": "2,000 accused in 4 cases after Mirpur hawker eviction clash",
@@ -8398,5 +8342,41 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "581330aa82de94c8",
+  "url": "https://www.jamuna.tv/sports/665408",
+  "headline": "Spain extends winning streak with 3-1 victory over Czech Republic in Nations League",
+  "topic": "spain football win",
+  "source": "Jamuna TV, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-04T01:07:06Z"
+ },
+ {
+  "title_hash": "72a8c713b52ef4c9",
+  "url": "https://www.prothomalo.com/sports/football/6cqioxymqh",
+  "headline": "Spain extends winning streak with 3-1 victory over Czech Republic in Nations League",
+  "topic": "spain football win",
+  "source": "Jamuna TV, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-04T01:07:06Z"
+ },
+ {
+  "title_hash": "01fb6757e143aea6",
+  "url": "https://bdnews24.com/world/h4m1235l0g",
+  "headline": "Lula's lead over Bolsonaro narrows ahead of Brazil's first-round vote",
+  "topic": "brazil presidential election",
+  "source": "Prothom Alo, bdnews24.com",
+  "status": "queued",
+  "at": "2026-10-04T01:07:06Z"
+ },
+ {
+  "title_hash": "6f3447a628edb3e6",
+  "url": "https://www.prothomalo.com/world/south-america/q1ye1xbg6z",
+  "headline": "Lula's lead over Bolsonaro narrows ahead of Brazil's first-round vote",
+  "topic": "brazil presidential election",
+  "source": "Prothom Alo, bdnews24.com",
+  "status": "queued",
+  "at": "2026-10-04T01:07:06Z"
  }
 ]
