@@ -8321,8 +8321,13 @@
   "headline": "Tk 16.25 crore gold seized: 80 gold bars found in shoes of airline staff",
   "topic": "gold bars seized at dhaka airport",
   "source": "Prothom Alo, The Daily Star, Jamuna TV, bdnews24.com",
-  "status": "queued",
-  "at": "2026-10-04T08:09:25Z"
+  "status": "failed",
+  "at": "2026-10-04T08:09:25Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "23200add187fb505",
@@ -8330,8 +8335,13 @@
   "headline": "Tk 16.25 crore gold seized: 80 gold bars found in shoes of airline staff",
   "topic": "gold bars seized at dhaka airport",
   "source": "Prothom Alo, The Daily Star, Jamuna TV, bdnews24.com",
-  "status": "queued",
-  "at": "2026-10-04T08:09:25Z"
+  "status": "failed",
+  "at": "2026-10-04T08:09:25Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "6fbdf4afa8dd7c3b",
@@ -8339,8 +8349,13 @@
   "headline": "Tk 16.25 crore gold seized: 80 gold bars found in shoes of airline staff",
   "topic": "gold bars seized at dhaka airport",
   "source": "Prothom Alo, The Daily Star, Jamuna TV, bdnews24.com",
-  "status": "queued",
-  "at": "2026-10-04T08:09:25Z"
+  "status": "failed",
+  "at": "2026-10-04T08:09:25Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "ccfe651154eeec70",
@@ -8348,8 +8363,13 @@
   "headline": "Tk 16.25 crore gold seized: 80 gold bars found in shoes of airline staff",
   "topic": "gold bars seized at dhaka airport",
   "source": "Prothom Alo, The Daily Star, Jamuna TV, bdnews24.com",
-  "status": "queued",
-  "at": "2026-10-04T08:09:25Z"
+  "status": "failed",
+  "at": "2026-10-04T08:09:25Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "9e2d432a23d608ed",
@@ -8357,8 +8377,13 @@
   "headline": "Regional Communist Party leader shot dead in Khulna",
   "topic": "youth shot dead in khulna",
   "source": "Jamuna TV",
-  "status": "queued",
-  "at": "2026-10-04T08:09:25Z"
+  "status": "failed",
+  "at": "2026-10-04T08:09:25Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "4f08605f1fc376a5",
@@ -8366,7 +8391,12 @@
   "headline": "Regional Communist Party leader shot dead in Khulna",
   "topic": "youth shot dead in khulna",
   "source": "Jamuna TV",
-  "status": "queued",
-  "at": "2026-10-04T08:09:25Z"
+  "status": "failed",
+  "at": "2026-10-04T08:09:25Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
