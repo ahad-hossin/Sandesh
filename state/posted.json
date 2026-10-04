@@ -1,61 +1,5 @@
 [
  {
-  "title_hash": "72872b8d0c2c68f6",
-  "url": "https://www.dhakatribune.com/bangladesh/government-affairs/421084/bangladesh-police-anti-terrorism-unit-renamed",
-  "headline": "2,000 accused in 4 cases after Mirpur hawker eviction clash",
-  "topic": "mirpur eviction drive violence arrests",
-  "source": "Dhaka Tribune, Prothom Alo, bdnews24.com",
-  "status": "failed",
-  "at": "2026-10-01T09:21:10Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "b83f74d39f4d42d9",
-  "url": "https://www.prothomalo.com/bangladesh/crime/ueu9xp5ps8",
-  "headline": "2,000 accused in 4 cases after Mirpur hawker eviction clash",
-  "topic": "mirpur eviction drive violence arrests",
-  "source": "Dhaka Tribune, Prothom Alo, bdnews24.com",
-  "status": "failed",
-  "at": "2026-10-01T09:21:10Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "c765be9537b3d3a3",
-  "url": "https://bdnews24.com/bangladesh/knksj6xfg3",
-  "headline": "2,000 accused in 4 cases after Mirpur hawker eviction clash",
-  "topic": "mirpur eviction drive violence arrests",
-  "source": "Dhaka Tribune, Prothom Alo, bdnews24.com",
-  "status": "failed",
-  "at": "2026-10-01T09:21:10Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "8efb4e67e3e82317",
-  "url": "https://www.dhakatribune.com/bangladesh/health/421077/us-provides-500-000-dengue-test-kits",
-  "headline": "US provides 500,000 dengue test kits to Bangladesh",
-  "topic": "us provides dengue test kits",
-  "source": "Dhaka Tribune, Jamuna TV",
-  "status": "failed",
-  "at": "2026-10-01T09:21:10Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "1c62634c6b91769e",
   "url": "https://www.jamuna.tv/national/665239",
   "headline": "US provides 500,000 dengue test kits to Bangladesh",
@@ -8398,5 +8342,41 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "8be4a2070541163f",
+  "url": "https://www.prothomalo.com/bangladesh/crime/3n3746gxyp",
+  "headline": "Man jailed for 10 months due to name mix-up; High Court orders investigation",
+  "topic": "Man jailed due to name similarity",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-04T02:07:29Z"
+ },
+ {
+  "title_hash": "01fb6757e143aea6",
+  "url": "https://bdnews24.com/world/h4m1235l0g",
+  "headline": "Lula's lead over Bolsonaro narrows ahead of Brazil vote, runoff likely",
+  "topic": "Brazil election Lula Bolsonaro",
+  "source": "Jamuna TV, Prothom Alo, bdnews24.com",
+  "status": "queued",
+  "at": "2026-10-04T02:07:29Z"
+ },
+ {
+  "title_hash": "8d236abbe34d6599",
+  "url": "https://www.jamuna.tv/international/665410",
+  "headline": "Lula's lead over Bolsonaro narrows ahead of Brazil vote, runoff likely",
+  "topic": "Brazil election Lula Bolsonaro",
+  "source": "Jamuna TV, Prothom Alo, bdnews24.com",
+  "status": "queued",
+  "at": "2026-10-04T02:07:29Z"
+ },
+ {
+  "title_hash": "6f3447a628edb3e6",
+  "url": "https://www.prothomalo.com/world/south-america/q1ye1xbg6z",
+  "headline": "Lula's lead over Bolsonaro narrows ahead of Brazil vote, runoff likely",
+  "topic": "Brazil election Lula Bolsonaro",
+  "source": "Jamuna TV, Prothom Alo, bdnews24.com",
+  "status": "queued",
+  "at": "2026-10-04T02:07:29Z"
  }
 ]
