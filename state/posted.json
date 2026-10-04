@@ -8321,8 +8321,13 @@
   "headline": "10 injured, including 4 journalists, in Chhatra Dal attack at RU",
   "topic": "journalists attacked at Rajshahi University",
   "source": "Dhaka Tribune, Jamuna TV",
-  "status": "queued",
-  "at": "2026-10-04T22:10:01Z"
+  "status": "failed",
+  "at": "2026-10-04T22:10:01Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "92d770d40d063589",
@@ -8330,8 +8335,13 @@
   "headline": "10 injured, including 4 journalists, in Chhatra Dal attack at RU",
   "topic": "journalists attacked at Rajshahi University",
   "source": "Dhaka Tribune, Jamuna TV",
-  "status": "queued",
-  "at": "2026-10-04T22:10:01Z"
+  "status": "failed",
+  "at": "2026-10-04T22:10:01Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "e8ebdadfe1343b84",
@@ -8339,8 +8349,13 @@
   "headline": "Tk 252 hike: 12kg LPG cylinder price rises to Tk 1,837",
   "topic": "LPG price hike",
   "source": "Dhaka Tribune, Jamuna TV, bdnews24.com",
-  "status": "queued",
-  "at": "2026-10-04T22:10:01Z"
+  "status": "failed",
+  "at": "2026-10-04T22:10:01Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "f471466ff815cc8e",
@@ -8348,8 +8363,13 @@
   "headline": "Tk 252 hike: 12kg LPG cylinder price rises to Tk 1,837",
   "topic": "LPG price hike",
   "source": "Dhaka Tribune, Jamuna TV, bdnews24.com",
-  "status": "queued",
-  "at": "2026-10-04T22:10:01Z"
+  "status": "failed",
+  "at": "2026-10-04T22:10:01Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "178bb961622cda71",
@@ -8357,8 +8377,13 @@
   "headline": "Tk 252 hike: 12kg LPG cylinder price rises to Tk 1,837",
   "topic": "LPG price hike",
   "source": "Dhaka Tribune, Jamuna TV, bdnews24.com",
-  "status": "queued",
-  "at": "2026-10-04T22:10:01Z"
+  "status": "failed",
+  "at": "2026-10-04T22:10:01Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "a2e4f83fd7c9a69a",
@@ -8366,7 +8391,12 @@
   "headline": "Tk 252 hike: 12kg LPG cylinder price rises to Tk 1,837",
   "topic": "LPG price hike",
   "source": "Dhaka Tribune, Jamuna TV, bdnews24.com",
-  "status": "queued",
-  "at": "2026-10-04T22:10:01Z"
+  "status": "failed",
+  "at": "2026-10-04T22:10:01Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
