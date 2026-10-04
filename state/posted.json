@@ -1,61 +1,5 @@
 [
  {
-  "title_hash": "a2dd7d2137c1f34e",
-  "url": "https://www.dhakatribune.com/bangladesh/politics/421079/bnp-orders-mp-ferdousi-ahmed-mishti-to-resign",
-  "headline": "BNP MP Ferdousy Ahmed ordered to resign over Radda health centre attack",
-  "topic": "mp ferdousy ahmed resignation",
-  "source": "Jamuna TV, bdnews24.com, Dhaka Tribune, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-10-01T08:07:58Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "8183be1747630a5b",
-  "url": "https://www.jamuna.tv/national/665247",
-  "headline": "BNP MP Ferdousy Ahmed ordered to resign over Radda health centre attack",
-  "topic": "mp ferdousy ahmed resignation",
-  "source": "Jamuna TV, bdnews24.com, Dhaka Tribune, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-10-01T08:07:58Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "95ea3b5bc84fed62",
-  "url": "https://www.prothomalo.com/politics/iilxt7gbez",
-  "headline": "BNP MP Ferdousy Ahmed ordered to resign over Radda health centre attack",
-  "topic": "mp ferdousy ahmed resignation",
-  "source": "Jamuna TV, bdnews24.com, Dhaka Tribune, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-10-01T08:07:58Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "7033cf90188e4741",
-  "url": "https://www.thedailystar.net/news/governance/news/bnp-reserved-seat-mp-ferdousy-ahmed-asked-resign-4287726",
-  "headline": "BNP MP Ferdousy Ahmed ordered to resign over Radda health centre attack",
-  "topic": "mp ferdousy ahmed resignation",
-  "source": "Jamuna TV, bdnews24.com, Dhaka Tribune, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-10-01T08:07:58Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "79741ebe0e18145e",
   "url": "https://www.thedailystar.net/news/crime-justice/news/case-filed-over-dncc-trucks-set-fire-during-mirpur-eviction-drive-4287716",
   "headline": "3 DNCC trucks set on fire during Mirpur eviction drive",
@@ -8398,5 +8342,41 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "0101432ceaee2bcc",
+  "url": "https://bdnews24.com/bangladesh/ns23ech8y9",
+  "headline": "Illegal liquor seized from Fu-Wang and three other Dhaka establishments in NBR raids",
+  "topic": "NBR Raids Illegal Liquor",
+  "source": "Prothom Alo, bdnews24.com",
+  "status": "queued",
+  "at": "2026-10-04T00:07:15Z"
+ },
+ {
+  "title_hash": "4cc07509ce4c6f46",
+  "url": "https://www.prothomalo.com/bangladesh/capital/bdejh9iaa4",
+  "headline": "Illegal liquor seized from Fu-Wang and three other Dhaka establishments in NBR raids",
+  "topic": "NBR Raids Illegal Liquor",
+  "source": "Prothom Alo, bdnews24.com",
+  "status": "queued",
+  "at": "2026-10-04T00:07:15Z"
+ },
+ {
+  "title_hash": "cb06410a876de3b1",
+  "url": "https://bdnews24.com/cricket/yl7cxwlg0l",
+  "headline": "Shai Hope's unbeaten 162 leads West Indies to five-wicket victory over India, denying series sweep",
+  "topic": "Cricket West Indies India Upset",
+  "source": "Jamuna TV, bdnews24.com",
+  "status": "queued",
+  "at": "2026-10-04T00:07:15Z"
+ },
+ {
+  "title_hash": "2f9c154a19c86cdc",
+  "url": "https://www.jamuna.tv/sports/665407",
+  "headline": "Shai Hope's unbeaten 162 leads West Indies to five-wicket victory over India, denying series sweep",
+  "topic": "Cricket West Indies India Upset",
+  "source": "Jamuna TV, bdnews24.com",
+  "status": "queued",
+  "at": "2026-10-04T00:07:15Z"
  }
 ]
