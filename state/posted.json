@@ -1,47 +1,5 @@
 [
  {
-  "title_hash": "57b349a496269295",
-  "url": "https://bdnews24.com/bangladesh/4cg37t48qq",
-  "headline": "Jamaat leader Akhtaruzzaman arrested over airport assault and disorder",
-  "topic": "akhtaruzzaman airport arrest",
-  "source": "bdnews24.com, The Daily Star, Jamuna TV, Dhaka Tribune, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-02T15:12:24Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "9cfdeef6cecebc9f",
-  "url": "https://bdnews24.com/bangladesh/xu388xnc9y",
-  "headline": "bdnews24.com Editor-in-Chief Toufique Imrose Khalidi dies at 59",
-  "topic": "toufique imrose khalidi death",
-  "source": "bdnews24.com, The Daily Star, Jamuna TV, Dhaka Tribune, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-02T16:08:46Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "938f12bb88610f6a",
-  "url": "https://bdnews24.com/media-en/9kku0z0mc0",
-  "headline": "bdnews24.com Editor-in-Chief Toufique Imrose Khalidi dies at 59",
-  "topic": "toufique imrose khalidi death",
-  "source": "bdnews24.com, The Daily Star, Jamuna TV, Dhaka Tribune, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-02T16:08:46Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "afb64fdd5a0da9b5",
   "url": "https://www.thedailystar.net/news/bangladesh/obituary/news/toufique-imrose-khalidi-bdnews24com-editor-chief-dies-59-4288781",
   "headline": "bdnews24.com Editor-in-Chief Toufique Imrose Khalidi dies at 59",
@@ -8398,5 +8356,32 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "8357a35545b6ea22",
+  "url": "https://www.prothomalo.com/bangladesh/district/b7czzb2n86",
+  "headline": "RU Hall Provost removed from post following attacks on journalists",
+  "topic": "university-provost-removed-journalists-demand",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-05T23:08:44Z"
+ },
+ {
+  "title_hash": "eb182ff13f8ea370",
+  "url": "https://www.dhakatribune.com/bangladesh/421404/two-indian-nationals-shot-in-bsf-firing-at",
+  "headline": "2 Indian nationals shot by BSF after being mistaken for Bangladeshis",
+  "topic": "bsf-firing-bangladesh-india-border",
+  "source": "Jamuna TV, Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-10-05T23:08:44Z"
+ },
+ {
+  "title_hash": "191ed7aab5b30825",
+  "url": "https://www.jamuna.tv/all-bangladesh/665577",
+  "headline": "2 Indian nationals shot by BSF after being mistaken for Bangladeshis",
+  "topic": "bsf-firing-bangladesh-india-border",
+  "source": "Jamuna TV, Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-10-05T23:08:44Z"
  }
 ]
