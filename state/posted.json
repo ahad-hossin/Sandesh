@@ -1,75 +1,5 @@
 [
  {
-  "title_hash": "38723385102741ef",
-  "url": "https://www.dhakatribune.com/bangladesh/accidents/421164/7-killed-as-bus-hits-autorickshaw-in-mymensingh",
-  "headline": "7 killed as bus collides head-on with auto-rickshaw in Mymensingh",
-  "topic": "mymensingh road accident 7 dead",
-  "source": "The Daily Star, Dhaka Tribune, Jamuna TV, bdnews24.com, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-02T10:20:38Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "274546261db960b8",
-  "url": "https://www.jamuna.tv/all-bangladesh/665320",
-  "headline": "7 killed as bus collides head-on with auto-rickshaw in Mymensingh",
-  "topic": "mymensingh road accident 7 dead",
-  "source": "The Daily Star, Dhaka Tribune, Jamuna TV, bdnews24.com, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-02T10:20:38Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "5dc897bf8c075b8d",
-  "url": "https://bdnews24.com/bangladesh/f1w0vo78b7",
-  "headline": "7 killed as bus collides head-on with auto-rickshaw in Mymensingh",
-  "topic": "mymensingh road accident 7 dead",
-  "source": "The Daily Star, Dhaka Tribune, Jamuna TV, bdnews24.com, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-02T10:20:38Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "636905a197b40c30",
-  "url": "https://www.prothomalo.com/bangladesh/district/pq3cuk3nlt",
-  "headline": "7 killed as bus collides head-on with auto-rickshaw in Mymensingh",
-  "topic": "mymensingh road accident 7 dead",
-  "source": "The Daily Star, Dhaka Tribune, Jamuna TV, bdnews24.com, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-02T10:20:38Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "e27744d06b2d5468",
-  "url": "https://www.prothomalo.com/bangladesh/district/a5tazf6wri",
-  "headline": "10+ detained in Chittagong for Awami League procession",
-  "topic": "MP resigns over Radda scandal",
-  "source": "Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-02T11:11:26Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "d8cd7065666f2b86",
   "url": "https://www.prothomalo.com/video/bangladesh/05yqmnvtlw",
   "headline": "10+ detained in Chittagong for Awami League procession",
@@ -8398,5 +8328,50 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "6813e4bf5e3bd087",
+  "url": "https://bdnews24.com/health/6223z4mtv3",
+  "headline": "9 deaths in 24 hours: Dengue death toll rises to 271 this year",
+  "topic": "dengue deaths and hospitalizations rise",
+  "source": "bdnews24.com, Dhaka Tribune, Jamuna TV",
+  "status": "queued",
+  "at": "2026-10-05T12:10:13Z"
+ },
+ {
+  "title_hash": "3f11dbfedf25cd2b",
+  "url": "https://www.dhakatribune.com/bangladesh/health/421380/dengue-death-toll-rises-to-271-as-nine-more-die",
+  "headline": "9 deaths in 24 hours: Dengue death toll rises to 271 this year",
+  "topic": "dengue deaths and hospitalizations rise",
+  "source": "bdnews24.com, Dhaka Tribune, Jamuna TV",
+  "status": "queued",
+  "at": "2026-10-05T12:10:13Z"
+ },
+ {
+  "title_hash": "fd7d6c727ad16cea",
+  "url": "https://www.jamuna.tv/national/665552",
+  "headline": "9 deaths in 24 hours: Dengue death toll rises to 271 this year",
+  "topic": "dengue deaths and hospitalizations rise",
+  "source": "bdnews24.com, Dhaka Tribune, Jamuna TV",
+  "status": "queued",
+  "at": "2026-10-05T12:10:13Z"
+ },
+ {
+  "title_hash": "21289c954196c6d1",
+  "url": "https://bdnews24.com/health/b1iichqmxi",
+  "headline": "Measles Outbreak: Death toll reaches 1,128 in Bangladesh",
+  "topic": "measles outbreak deaths increase",
+  "source": "bdnews24.com, Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-10-05T12:10:13Z"
+ },
+ {
+  "title_hash": "919373626fa5eafa",
+  "url": "https://www.dhakatribune.com/bangladesh/health/421374/measles-outbreak-death-toll-reaches-1-128-as",
+  "headline": "Measles Outbreak: Death toll reaches 1,128 in Bangladesh",
+  "topic": "measles outbreak deaths increase",
+  "source": "bdnews24.com, Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-10-05T12:10:13Z"
  }
 ]
