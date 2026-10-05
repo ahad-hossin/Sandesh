@@ -8363,8 +8363,13 @@
   "headline": "RU Hall Provost removed from post following attacks on journalists",
   "topic": "university-provost-removed-journalists-demand",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-05T23:08:44Z"
+  "status": "failed",
+  "at": "2026-10-05T23:08:44Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "eb182ff13f8ea370",
@@ -8372,8 +8377,13 @@
   "headline": "2 Indian nationals shot by BSF after being mistaken for Bangladeshis",
   "topic": "bsf-firing-bangladesh-india-border",
   "source": "Jamuna TV, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-10-05T23:08:44Z"
+  "status": "failed",
+  "at": "2026-10-05T23:08:44Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "191ed7aab5b30825",
@@ -8381,7 +8391,12 @@
   "headline": "2 Indian nationals shot by BSF after being mistaken for Bangladeshis",
   "topic": "bsf-firing-bangladesh-india-border",
   "source": "Jamuna TV, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-10-05T23:08:44Z"
+  "status": "failed",
+  "at": "2026-10-05T23:08:44Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
