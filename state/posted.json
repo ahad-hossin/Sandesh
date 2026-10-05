@@ -1,61 +1,5 @@
 [
  {
-  "title_hash": "be0f1a82cc1a1afa",
-  "url": "https://www.prothomalo.com/business/7iz2y6xjb4",
-  "headline": "Bottled soybean oil supply drops again as companies seek price hikes",
-  "topic": "soybean oil price hike",
-  "source": "Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-02T03:08:40Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "14835fb29c077cba",
-  "url": "https://www.thedailystar.net/news/world/news/saudi-coalition-accuses-houthis-drone-attack-medina-4288531",
-  "headline": "Houthis attack power station in Medina providing electricity to Prophet's Mosque",
-  "topic": "houthis attack medina power station",
-  "source": "The Daily Star, bdnews24.com, Jamuna TV",
-  "status": "failed",
-  "at": "2026-10-02T04:09:36Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "e56cc95d4e4999f6",
-  "url": "https://bdnews24.com/world/middle-east/7ov74i905k",
-  "headline": "Houthis attack power station in Medina providing electricity to Prophet's Mosque",
-  "topic": "houthis attack medina power station",
-  "source": "The Daily Star, bdnews24.com, Jamuna TV",
-  "status": "failed",
-  "at": "2026-10-02T04:09:36Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "c4f28ca2d15367b8",
-  "url": "https://www.jamuna.tv/international/665307",
-  "headline": "Houthis attack power station in Medina providing electricity to Prophet's Mosque",
-  "topic": "houthis attack medina power station",
-  "source": "The Daily Star, bdnews24.com, Jamuna TV",
-  "status": "failed",
-  "at": "2026-10-02T04:09:36Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "697f27f41c85e9e4",
   "url": "https://bdnews24.com/world/asia-pacific/cmu4dxb5ch",
   "headline": "US-made F-16V fighter jets arrive in Taiwan to counter China",
@@ -8398,5 +8342,41 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "ca575171e2112a6f",
+  "url": "https://bdnews24.com/bangladesh/wjfci37qfp",
+  "headline": "RU administration to file case over attack on journalists and students",
+  "topic": "attack on journalists at RU",
+  "source": "bdnews24.com, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-05T07:08:41Z"
+ },
+ {
+  "title_hash": "65ca836d334bede6",
+  "url": "https://www.prothomalo.com/bangladesh/district/qmmxeijx1d",
+  "headline": "RU administration to file case over attack on journalists and students",
+  "topic": "attack on journalists at RU",
+  "source": "bdnews24.com, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-05T07:08:41Z"
+ },
+ {
+  "title_hash": "510b36f660d68235",
+  "url": "https://www.jamuna.tv/national/665516",
+  "headline": "Rain forecast for capital: Rain and thunderstorms likely in Dhaka",
+  "topic": "PM inaugurates World Habitat Day",
+  "source": "Jamuna TV",
+  "status": "queued",
+  "at": "2026-10-05T07:08:41Z"
+ },
+ {
+  "title_hash": "b8b5bc1180de5b43",
+  "url": "https://www.jamuna.tv/national/665506",
+  "headline": "Rain forecast for capital: Rain and thunderstorms likely in Dhaka",
+  "topic": "PM inaugurates World Habitat Day",
+  "source": "Jamuna TV",
+  "status": "queued",
+  "at": "2026-10-05T07:08:41Z"
  }
 ]
