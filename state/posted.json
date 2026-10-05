@@ -8335,8 +8335,13 @@
   "headline": "Bangladesh observes World Teachers' Day today, honouring 101 educators",
   "topic": "world teachers day",
   "source": "Jamuna TV, Prothom Alo, Dhaka Tribune, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-05T02:07:00Z"
+  "status": "failed",
+  "at": "2026-10-05T02:07:00Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "7b6200e667864555",
@@ -8344,8 +8349,13 @@
   "headline": "Bangladesh observes World Teachers' Day today, honouring 101 educators",
   "topic": "world teachers day",
   "source": "Jamuna TV, Prothom Alo, Dhaka Tribune, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-05T02:07:00Z"
+  "status": "failed",
+  "at": "2026-10-05T02:07:00Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "fb5d78d985812e8f",
@@ -8353,8 +8363,13 @@
   "headline": "Bangladesh observes World Teachers' Day today, honouring 101 educators",
   "topic": "world teachers day",
   "source": "Jamuna TV, Prothom Alo, Dhaka Tribune, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-05T02:07:00Z"
+  "status": "failed",
+  "at": "2026-10-05T02:07:00Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "787293cf2744389f",
@@ -8362,8 +8377,13 @@
   "headline": "Bangladesh observes World Teachers' Day today, honouring 101 educators",
   "topic": "world teachers day",
   "source": "Jamuna TV, Prothom Alo, Dhaka Tribune, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-05T02:07:00Z"
+  "status": "failed",
+  "at": "2026-10-05T02:07:00Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "8655561401968c62",
@@ -8371,7 +8391,12 @@
   "headline": "Man beaten to death in Pabna on suspicion of theft; police investigate",
   "topic": "pabna man beaten to death",
   "source": "Jamuna TV",
-  "status": "queued",
-  "at": "2026-10-05T02:07:00Z"
+  "status": "failed",
+  "at": "2026-10-05T02:07:00Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
