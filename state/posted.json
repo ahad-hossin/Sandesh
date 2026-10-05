@@ -8321,8 +8321,13 @@
   "headline": "Durga Puja: Shops and malls can stay open until 10pm",
   "topic": "durga puja shopping mall hours",
   "source": "Jamuna TV, bdnews24.com, Dhaka Tribune, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-05T17:08:41Z"
+  "status": "failed",
+  "at": "2026-10-05T17:08:41Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "ad5e8a8c7353d83f",
@@ -8330,8 +8335,13 @@
   "headline": "Durga Puja: Shops and malls can stay open until 10pm",
   "topic": "durga puja shopping mall hours",
   "source": "Jamuna TV, bdnews24.com, Dhaka Tribune, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-05T17:08:41Z"
+  "status": "failed",
+  "at": "2026-10-05T17:08:41Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "190897e8b769ad98",
@@ -8339,8 +8349,13 @@
   "headline": "Durga Puja: Shops and malls can stay open until 10pm",
   "topic": "durga puja shopping mall hours",
   "source": "Jamuna TV, bdnews24.com, Dhaka Tribune, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-05T17:08:41Z"
+  "status": "failed",
+  "at": "2026-10-05T17:08:41Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "c3f7e4d18221f1b2",
@@ -8348,8 +8363,13 @@
   "headline": "Durga Puja: Shops and malls can stay open until 10pm",
   "topic": "durga puja shopping mall hours",
   "source": "Jamuna TV, bdnews24.com, Dhaka Tribune, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-05T17:08:41Z"
+  "status": "failed",
+  "at": "2026-10-05T17:08:41Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "b848bc650e42e394",
@@ -8357,8 +8377,13 @@
   "headline": "Durga Puja: Shops and malls can stay open until 10pm",
   "topic": "durga puja shopping mall hours",
   "source": "Jamuna TV, bdnews24.com, Dhaka Tribune, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-05T17:08:41Z"
+  "status": "failed",
+  "at": "2026-10-05T17:08:41Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "eb182ff13f8ea370",
@@ -8366,7 +8391,12 @@
   "headline": "Two Indian nationals shot in BSF firing at Kurigram border",
   "topic": "bsf firing kurigram border",
   "source": "Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-10-05T17:08:41Z"
+  "status": "failed",
+  "at": "2026-10-05T17:08:41Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
