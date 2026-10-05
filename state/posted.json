@@ -1,75 +1,5 @@
 [
  {
-  "title_hash": "a08d4a4e935b9b75",
-  "url": "https://www.thedailystar.net/news/bangladesh/news/man-hurt-late-night-chaos-banglamotor-4288506",
-  "headline": "Banglamotor chaos: Expelled Jubo Dal leader detained after man injured",
-  "topic": "banglamotor altercation jubo dal",
-  "source": "The Daily Star, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-01T23:09:35Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "2f70764394fb1153",
-  "url": "https://bdnews24.com/bangladesh/lnt19vuf34",
-  "headline": "BRUR sacks 11 staff including 3 teachers over Abu Sayed killing",
-  "topic": "teachers sacked abu sayed death",
-  "source": "bdnews24.com, Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-10-01T23:09:35Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "f0a36048e5dffee3",
-  "url": "https://www.dhakatribune.com/bangladesh/campus1/421132/brur-expels-11-including-3-teachers-over-shaheed",
-  "headline": "BRUR sacks 11 staff including 3 teachers over Abu Sayed killing",
-  "topic": "teachers sacked abu sayed death",
-  "source": "bdnews24.com, Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-10-01T23:09:35Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "95696463d4b4b5d4",
-  "url": "https://www.dhakatribune.com/bangladesh/421136/bnp-draws-the-line-as-misty-forced-to-quit",
-  "headline": "MP Ferdousi Ahmed Misty resigns after PM's directive over Raadda health center attack",
-  "topic": "BNP MP Misty Resigns",
-  "source": "Dhaka Tribune, Prothom Alo, bdnews24.com, The Daily Star",
-  "status": "failed",
-  "at": "2026-10-02T00:09:18Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "c55e46595ae53a6a",
-  "url": "https://www.dhakatribune.com/bangladesh/parliament/421134/misty-is-out.-why-does-gazi-remain-an-mp",
-  "headline": "MP Ferdousi Ahmed Misty resigns after PM's directive over Raadda health center attack",
-  "topic": "BNP MP Misty Resigns",
-  "source": "Dhaka Tribune, Prothom Alo, bdnews24.com, The Daily Star",
-  "status": "failed",
-  "at": "2026-10-02T00:09:18Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "3eb93f4aa4c3458d",
   "url": "https://www.prothomalo.com/politics/hd3x55glj6",
   "headline": "MP Ferdousi Ahmed Misty resigns after PM's directive over Raadda health center attack",
@@ -8398,5 +8328,50 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "7da5720efac2857d",
+  "url": "https://www.dhakatribune.com/bangladesh/education/421336/govt-to-honour-101-teachers-on-world-teachers%E2%80%99-day",
+  "headline": "Bangladesh observes World Teachers' Day today, honouring 101 educators",
+  "topic": "world teachers day",
+  "source": "Jamuna TV, Prothom Alo, Dhaka Tribune, The Daily Star",
+  "status": "queued",
+  "at": "2026-10-05T02:07:00Z"
+ },
+ {
+  "title_hash": "7b6200e667864555",
+  "url": "https://www.jamuna.tv/national/665498",
+  "headline": "Bangladesh observes World Teachers' Day today, honouring 101 educators",
+  "topic": "world teachers day",
+  "source": "Jamuna TV, Prothom Alo, Dhaka Tribune, The Daily Star",
+  "status": "queued",
+  "at": "2026-10-05T02:07:00Z"
+ },
+ {
+  "title_hash": "fb5d78d985812e8f",
+  "url": "https://www.prothomalo.com/education/yqklt7u5lm",
+  "headline": "Bangladesh observes World Teachers' Day today, honouring 101 educators",
+  "topic": "world teachers day",
+  "source": "Jamuna TV, Prothom Alo, Dhaka Tribune, The Daily Star",
+  "status": "queued",
+  "at": "2026-10-05T02:07:00Z"
+ },
+ {
+  "title_hash": "787293cf2744389f",
+  "url": "https://www.thedailystar.net/opinion/views/news/teachers-must-be-the-pivot-change-our-education-system-4290501",
+  "headline": "Bangladesh observes World Teachers' Day today, honouring 101 educators",
+  "topic": "world teachers day",
+  "source": "Jamuna TV, Prothom Alo, Dhaka Tribune, The Daily Star",
+  "status": "queued",
+  "at": "2026-10-05T02:07:00Z"
+ },
+ {
+  "title_hash": "8655561401968c62",
+  "url": "https://www.jamuna.tv/all-bangladesh/665495",
+  "headline": "Man beaten to death in Pabna on suspicion of theft; police investigate",
+  "topic": "pabna man beaten to death",
+  "source": "Jamuna TV",
+  "status": "queued",
+  "at": "2026-10-05T02:07:00Z"
  }
 ]
