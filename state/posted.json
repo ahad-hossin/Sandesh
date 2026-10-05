@@ -8349,8 +8349,13 @@
   "headline": "RU administration to file case over attack on journalists and students",
   "topic": "attack on journalists at RU",
   "source": "bdnews24.com, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-05T07:08:41Z"
+  "status": "failed",
+  "at": "2026-10-05T07:08:41Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "65ca836d334bede6",
@@ -8358,8 +8363,13 @@
   "headline": "RU administration to file case over attack on journalists and students",
   "topic": "attack on journalists at RU",
   "source": "bdnews24.com, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-05T07:08:41Z"
+  "status": "failed",
+  "at": "2026-10-05T07:08:41Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "510b36f660d68235",
@@ -8367,8 +8377,13 @@
   "headline": "Rain forecast for capital: Rain and thunderstorms likely in Dhaka",
   "topic": "PM inaugurates World Habitat Day",
   "source": "Jamuna TV",
-  "status": "queued",
-  "at": "2026-10-05T07:08:41Z"
+  "status": "failed",
+  "at": "2026-10-05T07:08:41Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "b8b5bc1180de5b43",
@@ -8376,7 +8391,12 @@
   "headline": "Rain forecast for capital: Rain and thunderstorms likely in Dhaka",
   "topic": "PM inaugurates World Habitat Day",
   "source": "Jamuna TV",
-  "status": "queued",
-  "at": "2026-10-05T07:08:41Z"
+  "status": "failed",
+  "at": "2026-10-05T07:08:41Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
