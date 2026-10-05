@@ -1,47 +1,5 @@
 [
  {
-  "title_hash": "130ef92864beb2ad",
-  "url": "https://www.jamuna.tv/national/665317",
-  "headline": "Jamaat leader Akhtaruzzaman arrested over airport assault and disorder",
-  "topic": "akhtaruzzaman airport arrest",
-  "source": "bdnews24.com, The Daily Star, Jamuna TV, Dhaka Tribune, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-02T15:12:24Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "d7ad78fa60f5706b",
-  "url": "https://www.dhakatribune.com/bangladesh/421160/ex-lawmaker-akhtaruzzaman-sued-over-alleged",
-  "headline": "Jamaat leader Akhtaruzzaman arrested over airport assault and disorder",
-  "topic": "akhtaruzzaman airport arrest",
-  "source": "bdnews24.com, The Daily Star, Jamuna TV, Dhaka Tribune, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-02T15:12:24Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "ba2f6fe68d71893e",
-  "url": "https://www.thedailystar.net/news/crime-justice/news/i-will-grab-you-the-neck-and-throw-you-out-akhtaruzzaman-sued-over-alleged-assault-airport-official-4288641",
-  "headline": "Jamaat leader Akhtaruzzaman arrested over airport assault and disorder",
-  "topic": "akhtaruzzaman airport arrest",
-  "source": "bdnews24.com, The Daily Star, Jamuna TV, Dhaka Tribune, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-02T15:12:24Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "57b349a496269295",
   "url": "https://bdnews24.com/bangladesh/4cg37t48qq",
   "headline": "Jamaat leader Akhtaruzzaman arrested over airport assault and disorder",
@@ -8398,5 +8356,32 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "dfe924ee035a43e2",
+  "url": "https://www.thedailystar.net/news/crime-justice/news/pichchi-raja-fled-prison-van-dhaka-4291601",
+  "headline": "Accused in 30 cases fled prison van in Dhaka",
+  "topic": "pichchi raja escapes prison van",
+  "source": "The Daily Star",
+  "status": "queued",
+  "at": "2026-10-05T22:15:12Z"
+ },
+ {
+  "title_hash": "eb182ff13f8ea370",
+  "url": "https://www.dhakatribune.com/bangladesh/421404/two-indian-nationals-shot-in-bsf-firing-at",
+  "headline": "2 Indian nationals shot by BSF after being mistaken for Bangladeshis",
+  "topic": "bsf firing kurigram border",
+  "source": "Jamuna TV, Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-10-05T22:15:12Z"
+ },
+ {
+  "title_hash": "191ed7aab5b30825",
+  "url": "https://www.jamuna.tv/all-bangladesh/665577",
+  "headline": "2 Indian nationals shot by BSF after being mistaken for Bangladeshis",
+  "topic": "bsf firing kurigram border",
+  "source": "Jamuna TV, Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-10-05T22:15:12Z"
  }
 ]
