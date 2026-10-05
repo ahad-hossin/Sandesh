@@ -1,47 +1,5 @@
 [
  {
-  "title_hash": "7d40d89472b57d2f",
-  "url": "https://www.jamuna.tv/all-bangladesh/665291",
-  "headline": "Qawmi teacher accused of beating student, breaking leg in Meherpur",
-  "topic": "child beaten qawmi teacher",
-  "source": "Jamuna TV",
-  "status": "failed",
-  "at": "2026-10-02T02:07:19Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "62f49a5114cd1da9",
-  "url": "https://bdnews24.com/world/middle-east/3nilh5197x",
-  "headline": "Iran readies harder retaliation if attacked by US",
-  "topic": "us iran tensions",
-  "source": "bdnews24.com, Jamuna TV",
-  "status": "failed",
-  "at": "2026-10-02T03:08:40Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "3d929c77d62d6060",
-  "url": "https://www.jamuna.tv/international/665297",
-  "headline": "Iran readies harder retaliation if attacked by US",
-  "topic": "us iran tensions",
-  "source": "bdnews24.com, Jamuna TV",
-  "status": "failed",
-  "at": "2026-10-02T03:08:40Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "be0f1a82cc1a1afa",
   "url": "https://www.prothomalo.com/business/7iz2y6xjb4",
   "headline": "Bottled soybean oil supply drops again as companies seek price hikes",
@@ -8398,5 +8356,32 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "80baf25782db678e",
+  "url": "https://www.dhakatribune.com/bangladesh/dhaka/421347/dhaka-ranks-world%E2%80%99s-second-most-polluted-city",
+  "headline": "Air Quality Crisis: Dhaka ranks world’s second most polluted city",
+  "topic": "dhaka ranks world's second most polluted city",
+  "source": "Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-10-05T06:10:25Z"
+ },
+ {
+  "title_hash": "186eac9370cdfda4",
+  "url": "https://bdnews24.com/world/hm0n2lj5yt",
+  "headline": "Extreme heat putting pregnant women and newborns at risk, UN warns",
+  "topic": "extreme heat threatens pregnant women and newborns",
+  "source": "bdnews24.com, The Daily Star",
+  "status": "queued",
+  "at": "2026-10-05T06:10:25Z"
+ },
+ {
+  "title_hash": "d7284078a6124ea4",
+  "url": "https://www.thedailystar.net/news/world/news/extreme-heat-putting-pregnant-women-newborns-risk-un-climate-chief-4290801",
+  "headline": "Extreme heat putting pregnant women and newborns at risk, UN warns",
+  "topic": "extreme heat threatens pregnant women and newborns",
+  "source": "bdnews24.com, The Daily Star",
+  "status": "queued",
+  "at": "2026-10-05T06:10:25Z"
  }
 ]
