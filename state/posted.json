@@ -8321,8 +8321,13 @@
   "headline": "Police tighten security after BRAC University receives bomb threat via email",
   "topic": "brac university bomb threat",
   "source": "Prothom Alo, Dhaka Tribune, bdnews24.com",
-  "status": "queued",
-  "at": "2026-10-05T13:07:28Z"
+  "status": "failed",
+  "at": "2026-10-05T13:07:28Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "f6241be298cb6e4f",
@@ -8330,8 +8335,13 @@
   "headline": "Police tighten security after BRAC University receives bomb threat via email",
   "topic": "brac university bomb threat",
   "source": "Prothom Alo, Dhaka Tribune, bdnews24.com",
-  "status": "queued",
-  "at": "2026-10-05T13:07:28Z"
+  "status": "failed",
+  "at": "2026-10-05T13:07:28Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "5d2a599b2aa9f7fd",
@@ -8339,8 +8349,13 @@
   "headline": "Police tighten security after BRAC University receives bomb threat via email",
   "topic": "brac university bomb threat",
   "source": "Prothom Alo, Dhaka Tribune, bdnews24.com",
-  "status": "queued",
-  "at": "2026-10-05T13:07:28Z"
+  "status": "failed",
+  "at": "2026-10-05T13:07:28Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "6813e4bf5e3bd087",
@@ -8348,8 +8363,13 @@
   "headline": "9 deaths in 24 hours: Dengue death toll rises to 271 this year",
   "topic": "dengue death toll rise",
   "source": "bdnews24.com, Dhaka Tribune, Jamuna TV",
-  "status": "queued",
-  "at": "2026-10-05T13:07:28Z"
+  "status": "failed",
+  "at": "2026-10-05T13:07:28Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "3f11dbfedf25cd2b",
@@ -8357,8 +8377,13 @@
   "headline": "9 deaths in 24 hours: Dengue death toll rises to 271 this year",
   "topic": "dengue death toll rise",
   "source": "bdnews24.com, Dhaka Tribune, Jamuna TV",
-  "status": "queued",
-  "at": "2026-10-05T13:07:28Z"
+  "status": "failed",
+  "at": "2026-10-05T13:07:28Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "fd7d6c727ad16cea",
@@ -8366,7 +8391,12 @@
   "headline": "9 deaths in 24 hours: Dengue death toll rises to 271 this year",
   "topic": "dengue death toll rise",
   "source": "bdnews24.com, Dhaka Tribune, Jamuna TV",
-  "status": "queued",
-  "at": "2026-10-05T13:07:28Z"
+  "status": "failed",
+  "at": "2026-10-05T13:07:28Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
