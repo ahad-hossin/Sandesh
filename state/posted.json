@@ -1,47 +1,5 @@
 [
  {
-  "title_hash": "3a5feb6558ce6968",
-  "url": "https://www.thedailystar.net/news/crime-justice/news/expelled-jubo-dal-leader-taken-custody-after-banglamotor-altercation-leaves-man-injured-4288426",
-  "headline": "Banglamotor chaos: Expelled Jubo Dal leader detained after man injured",
-  "topic": "banglamotor altercation jubo dal",
-  "source": "The Daily Star, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-01T23:09:35Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "b48444c91a5e79d0",
-  "url": "https://www.jamuna.tv/national/665289",
-  "headline": "Banglamotor chaos: Expelled Jubo Dal leader detained after man injured",
-  "topic": "banglamotor altercation jubo dal",
-  "source": "The Daily Star, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-01T23:09:35Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "84faab21c14729ef",
-  "url": "https://www.prothomalo.com/bangladesh/crime/jk9dyzejbp",
-  "headline": "Banglamotor chaos: Expelled Jubo Dal leader detained after man injured",
-  "topic": "banglamotor altercation jubo dal",
-  "source": "The Daily Star, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-01T23:09:35Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "a08d4a4e935b9b75",
   "url": "https://www.thedailystar.net/news/bangladesh/news/man-hurt-late-night-chaos-banglamotor-4288506",
   "headline": "Banglamotor chaos: Expelled Jubo Dal leader detained after man injured",
@@ -8398,5 +8356,32 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "5959561d28ab24ae",
+  "url": "https://www.prothomalo.com/opinion/column/hm4m5jtkt1",
+  "headline": "Education Service Commission needed for quality teacher recruitment",
+  "topic": "Education Service Commission for Teacher Recruitment",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-05T01:07:11Z"
+ },
+ {
+  "title_hash": "36b2a4222ccf3ed3",
+  "url": "https://www.thedailystar.net/news/world/news/brazil-votes-nail-biter-polls-4290606",
+  "headline": "Brazilians vote in tight presidential election between Lula da Silva and Flavio Bolsonaro",
+  "topic": "Brazil Election Bolsonaro Son Ahead",
+  "source": "Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-10-05T01:07:11Z"
+ },
+ {
+  "title_hash": "0a67f285aafc81a4",
+  "url": "https://www.prothomalo.com/world/usa/zj8km5jrhm",
+  "headline": "Brazilians vote in tight presidential election between Lula da Silva and Flavio Bolsonaro",
+  "topic": "Brazil Election Bolsonaro Son Ahead",
+  "source": "Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-10-05T01:07:11Z"
  }
 ]
