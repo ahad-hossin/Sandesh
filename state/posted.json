@@ -8321,8 +8321,13 @@
   "headline": "Habiganj ASI withdrawn after video of bribery remarks goes viral",
   "topic": "habiganj asi bribery video viral",
   "source": "Jamuna TV, The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-06T11:13:08Z"
+  "status": "failed",
+  "at": "2026-10-06T11:13:08Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "3be9c42f56b3ca64",
@@ -8330,8 +8335,13 @@
   "headline": "Habiganj ASI withdrawn after video of bribery remarks goes viral",
   "topic": "habiganj asi bribery video viral",
   "source": "Jamuna TV, The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-06T11:13:08Z"
+  "status": "failed",
+  "at": "2026-10-06T11:13:08Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "7b2696f4f23fd6ab",
@@ -8339,8 +8349,13 @@
   "headline": "Habiganj ASI withdrawn after video of bribery remarks goes viral",
   "topic": "habiganj asi bribery video viral",
   "source": "Jamuna TV, The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-06T11:13:08Z"
+  "status": "failed",
+  "at": "2026-10-06T11:13:08Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "b60ea26a9b2bafed",
@@ -8348,8 +8363,13 @@
   "headline": "Habiganj ASI withdrawn after video of bribery remarks goes viral",
   "topic": "habiganj asi bribery video viral",
   "source": "Jamuna TV, The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-06T11:13:08Z"
+  "status": "failed",
+  "at": "2026-10-06T11:13:08Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "185c97caacd60fb5",
@@ -8357,8 +8377,13 @@
   "headline": "1,134 deaths recorded as measles outbreak kills 6 more children",
   "topic": "measles outbreak death toll rises",
   "source": "bdnews24.com, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-10-06T11:13:08Z"
+  "status": "failed",
+  "at": "2026-10-06T11:13:08Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "a6438af1429fe64d",
@@ -8366,7 +8391,12 @@
   "headline": "1,134 deaths recorded as measles outbreak kills 6 more children",
   "topic": "measles outbreak death toll rises",
   "source": "bdnews24.com, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-10-06T11:13:08Z"
+  "status": "failed",
+  "at": "2026-10-06T11:13:08Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
