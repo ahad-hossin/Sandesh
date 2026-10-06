@@ -8377,8 +8377,13 @@
   "headline": "Barguna student scores highest in Humanities for SSC, dreams of becoming a magistrate",
   "topic": "ssc examinee from barguna aims to be magistrate",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-06T15:07:11Z"
+  "status": "failed",
+  "at": "2026-10-06T15:07:11Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "52c9409c0a6889d5",
@@ -8386,7 +8391,12 @@
   "headline": "Chuadanga: Businessman beaten to death after being called to a house",
   "topic": "businessman beaten to death in chuadanga",
   "source": "Jamuna TV",
-  "status": "queued",
-  "at": "2026-10-06T15:07:11Z"
+  "status": "failed",
+  "at": "2026-10-06T15:07:11Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
