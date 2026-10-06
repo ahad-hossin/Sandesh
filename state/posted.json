@@ -1,75 +1,5 @@
 [
  {
-  "title_hash": "00018177c424b4e8",
-  "url": "https://bdnews24.com/bangladesh/u2vm4768qz",
-  "headline": "bdnews24.com Editor-in-Chief Toufique Imrose Khalidi dies at 59",
-  "topic": "toufique imrose khalidi death",
-  "source": "bdnews24.com, The Daily Star, Jamuna TV, Dhaka Tribune, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-02T16:08:46Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "d62def998b3b3807",
-  "url": "https://bdnews24.com/bangladesh/f304jkd86n",
-  "headline": "Jamaat leader Akhtaruzzaman arrested over alleged airport assault",
-  "topic": "akhtaruzzaman airport arrest",
-  "source": "bdnews24.com, Jamuna TV, The Daily Star, Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-10-02T16:08:46Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "73a1d26cf0219c1d",
-  "url": "https://www.jamuna.tv/national/665329",
-  "headline": "Jamaat leader Akhtaruzzaman arrested over alleged airport assault",
-  "topic": "akhtaruzzaman airport arrest",
-  "source": "bdnews24.com, Jamuna TV, The Daily Star, Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-10-02T16:08:46Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "34d9b92293963f04",
-  "url": "https://www.thedailystar.net/news/crime-justice/news/akhtaruzzaman-arrested-over-alleged-assault-disorder-dhaka-airport-4288736",
-  "headline": "Jamaat leader Akhtaruzzaman arrested over alleged airport assault",
-  "topic": "akhtaruzzaman airport arrest",
-  "source": "bdnews24.com, Jamuna TV, The Daily Star, Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-10-02T16:08:46Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "6a06120ad19ef858",
-  "url": "https://www.dhakatribune.com/bangladesh/crime/421181/case-filed-against-jamaat-leader-akhtaruzzaman",
-  "headline": "Jamaat leader Akhtaruzzaman arrested over alleged airport assault",
-  "topic": "akhtaruzzaman airport arrest",
-  "source": "bdnews24.com, Jamuna TV, The Daily Star, Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-10-02T16:08:46Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "81fe4e24573e64ae",
   "url": "https://bdnews24.com/bangladesh/07guyw22n6",
   "headline": "Jamaat leader Akhtaruzzaman arrested over alleged airport assault",
@@ -8398,5 +8328,50 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "9f5b3b6f6b6b249b",
+  "url": "https://www.dhakatribune.com/bangladesh/crime/421406/case-filed-over-attack-on-journalists-at-ru",
+  "headline": "RU Hall Provost withdrawn after attack on journalists; probe report due in 72 hours",
+  "topic": "rajshahi university journalists attack",
+  "source": "Jamuna TV, Prothom Alo, Dhaka Tribune, The Daily Star",
+  "status": "queued",
+  "at": "2026-10-06T01:06:59Z"
+ },
+ {
+  "title_hash": "24816bf3342bd8b5",
+  "url": "https://www.jamuna.tv/campus/665580",
+  "headline": "RU Hall Provost withdrawn after attack on journalists; probe report due in 72 hours",
+  "topic": "rajshahi university journalists attack",
+  "source": "Jamuna TV, Prothom Alo, Dhaka Tribune, The Daily Star",
+  "status": "queued",
+  "at": "2026-10-06T01:06:59Z"
+ },
+ {
+  "title_hash": "8357a35545b6ea22",
+  "url": "https://www.prothomalo.com/bangladesh/district/b7czzb2n86",
+  "headline": "RU Hall Provost withdrawn after attack on journalists; probe report due in 72 hours",
+  "topic": "rajshahi university journalists attack",
+  "source": "Jamuna TV, Prothom Alo, Dhaka Tribune, The Daily Star",
+  "status": "queued",
+  "at": "2026-10-06T01:06:59Z"
+ },
+ {
+  "title_hash": "6abe7dbf8e907f8f",
+  "url": "https://www.thedailystar.net/news/crime-justice/news/attack-ru-journos-7-jcd-men-identified-rus-case-names-none-4291561",
+  "headline": "RU Hall Provost withdrawn after attack on journalists; probe report due in 72 hours",
+  "topic": "rajshahi university journalists attack",
+  "source": "Jamuna TV, Prothom Alo, Dhaka Tribune, The Daily Star",
+  "status": "queued",
+  "at": "2026-10-06T01:06:59Z"
+ },
+ {
+  "title_hash": "115f49b058e910e7",
+  "url": "https://www.jamuna.tv/international/665579",
+  "headline": "UN Secretary-General to visit Pakistan for US-Iran mediation talks",
+  "topic": "un chief pakistan us iran mediation",
+  "source": "Jamuna TV",
+  "status": "queued",
+  "at": "2026-10-06T01:06:59Z"
  }
 ]
