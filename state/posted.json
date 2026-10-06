@@ -8335,8 +8335,13 @@
   "headline": "AQI 234: Dhaka ranks first globally in air pollution",
   "topic": "dhaka air pollution first globally",
   "source": "Dhaka Tribune, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-06T06:08:58Z"
+  "status": "failed",
+  "at": "2026-10-06T06:08:58Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "f3b990825f3d0748",
@@ -8344,8 +8349,13 @@
   "headline": "AQI 234: Dhaka ranks first globally in air pollution",
   "topic": "dhaka air pollution first globally",
   "source": "Dhaka Tribune, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-06T06:08:58Z"
+  "status": "failed",
+  "at": "2026-10-06T06:08:58Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "9a9b137399fe121e",
@@ -8353,8 +8363,13 @@
   "headline": "447 arrested in Dhaka in a day during police operations",
   "topic": "dmp arrests extortionists dhaka",
   "source": "bdnews24.com, Jamuna TV, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-06T06:08:58Z"
+  "status": "failed",
+  "at": "2026-10-06T06:08:58Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "999a182f14b25e28",
@@ -8362,8 +8377,13 @@
   "headline": "447 arrested in Dhaka in a day during police operations",
   "topic": "dmp arrests extortionists dhaka",
   "source": "bdnews24.com, Jamuna TV, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-06T06:08:58Z"
+  "status": "failed",
+  "at": "2026-10-06T06:08:58Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "9e973983ecaac02f",
@@ -8371,7 +8391,12 @@
   "headline": "447 arrested in Dhaka in a day during police operations",
   "topic": "dmp arrests extortionists dhaka",
   "source": "bdnews24.com, Jamuna TV, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-06T06:08:58Z"
+  "status": "failed",
+  "at": "2026-10-06T06:08:58Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
