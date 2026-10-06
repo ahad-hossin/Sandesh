@@ -8349,8 +8349,13 @@
   "headline": "Police ASI withdrew from station after claiming he joined police to take bribes",
   "topic": "police officer bribe comment",
   "source": "Prothom Alo, Jamuna TV",
-  "status": "queued",
-  "at": "2026-10-06T10:08:22Z"
+  "status": "failed",
+  "at": "2026-10-06T10:08:22Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "b60ea26a9b2bafed",
@@ -8358,8 +8363,13 @@
   "headline": "Police ASI withdrew from station after claiming he joined police to take bribes",
   "topic": "police officer bribe comment",
   "source": "Prothom Alo, Jamuna TV",
-  "status": "queued",
-  "at": "2026-10-06T10:08:22Z"
+  "status": "failed",
+  "at": "2026-10-06T10:08:22Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "cb8d8fd76d15306a",
@@ -8367,8 +8377,13 @@
   "headline": "Murder suspect accused escapes from Dhaka court for second time",
   "topic": "accused shariful escapes court",
   "source": "Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-06T10:08:22Z"
+  "status": "failed",
+  "at": "2026-10-06T10:08:22Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "399be04c55c65a46",
@@ -8376,7 +8391,12 @@
   "headline": "Murder suspect accused escapes from Dhaka court for second time",
   "topic": "accused shariful escapes court",
   "source": "Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-06T10:08:22Z"
+  "status": "failed",
+  "at": "2026-10-06T10:08:22Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
