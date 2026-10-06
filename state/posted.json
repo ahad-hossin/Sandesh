@@ -1,33 +1,5 @@
 [
  {
-  "title_hash": "1b4bc3c5c058cd49",
-  "url": "https://www.jamuna.tv/national/665335",
-  "headline": "bdnews24.com editor-in-chief Toufique Imrose Khalidi dies at 59",
-  "topic": "toufique imrose khalidi dies",
-  "source": "The Daily Star, Jamuna TV, Dhaka Tribune, bdnews24.com, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-02T17:09:50Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "b648e94896095a85",
-  "url": "https://www.dhakatribune.com/bangladesh/421188/bdnews24.com-editor-toufique-imrose-khalidi-passes",
-  "headline": "bdnews24.com editor-in-chief Toufique Imrose Khalidi dies at 59",
-  "topic": "toufique imrose khalidi dies",
-  "source": "The Daily Star, Jamuna TV, Dhaka Tribune, bdnews24.com, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-02T17:09:50Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "00018177c424b4e8",
   "url": "https://bdnews24.com/bangladesh/u2vm4768qz",
   "headline": "bdnews24.com editor-in-chief Toufique Imrose Khalidi dies at 59",
@@ -8398,5 +8370,23 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "366a6fb4f06232f2",
+  "url": "https://www.jamuna.tv/all-bangladesh/665584",
+  "headline": "154 arrested in Narayanganj, including 8 members of banned Awami League",
+  "topic": "Narayanganj arrests AL members",
+  "source": "Jamuna TV",
+  "status": "queued",
+  "at": "2026-10-06T03:09:30Z"
+ },
+ {
+  "title_hash": "4e416d8fc545959d",
+  "url": "https://www.prothomalo.com/bangladesh/vzv3oobfgc",
+  "headline": "Citizens suffer as birth certificates contain gibberish names",
+  "topic": "Birth certificate name errors",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-06T03:09:30Z"
  }
 ]
