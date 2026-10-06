@@ -1,61 +1,5 @@
 [
  {
-  "title_hash": "81fe4e24573e64ae",
-  "url": "https://bdnews24.com/bangladesh/07guyw22n6",
-  "headline": "Ex-MP Major (retd) Akhtaruzzaman arrested over airport assault and disorder",
-  "topic": "major akhtaruzzaman arrested",
-  "source": "Dhaka Tribune, Prothom Alo, Jamuna TV, bdnews24.com",
-  "status": "failed",
-  "at": "2026-10-02T18:08:45Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "e01be0d3f1003c04",
-  "url": "https://bdnews24.com/bangladesh/41hslus4fl",
-  "headline": "Ex-MP Major (retd) Akhtaruzzaman arrested over airport assault and disorder",
-  "topic": "major akhtaruzzaman arrested",
-  "source": "Dhaka Tribune, Prothom Alo, Jamuna TV, bdnews24.com",
-  "status": "failed",
-  "at": "2026-10-02T18:08:45Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "130ef92864beb2ad",
-  "url": "https://www.jamuna.tv/national/665317",
-  "headline": "Ex-MP Major (retd) Akhtaruzzaman arrested over airport assault and disorder",
-  "topic": "major akhtaruzzaman arrested",
-  "source": "Dhaka Tribune, Prothom Alo, Jamuna TV, bdnews24.com",
-  "status": "failed",
-  "at": "2026-10-02T18:08:45Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "d03c39aae27a859d",
-  "url": "https://www.prothomalo.com/bangladesh/g1rpkrjuwf",
-  "headline": "Ex-MP Major (retd) Akhtaruzzaman arrested over airport assault and disorder",
-  "topic": "major akhtaruzzaman arrested",
-  "source": "Dhaka Tribune, Prothom Alo, Jamuna TV, bdnews24.com",
-  "status": "failed",
-  "at": "2026-10-02T18:08:45Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "57b349a496269295",
   "url": "https://bdnews24.com/bangladesh/4cg37t48qq",
   "headline": "Ex-MP Major (retd) Akhtaruzzaman arrested over airport assault and disorder",
@@ -8398,5 +8342,41 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "7b2696f4f23fd6ab",
+  "url": "https://www.prothomalo.com/bangladesh/district/307774xidh",
+  "headline": "Police ASI withdrew from station after claiming he joined police to take bribes",
+  "topic": "police officer bribe comment",
+  "source": "Prothom Alo, Jamuna TV",
+  "status": "queued",
+  "at": "2026-10-06T10:08:22Z"
+ },
+ {
+  "title_hash": "b60ea26a9b2bafed",
+  "url": "https://www.jamuna.tv/all-bangladesh/665586",
+  "headline": "Police ASI withdrew from station after claiming he joined police to take bribes",
+  "topic": "police officer bribe comment",
+  "source": "Prothom Alo, Jamuna TV",
+  "status": "queued",
+  "at": "2026-10-06T10:08:22Z"
+ },
+ {
+  "title_hash": "cb8d8fd76d15306a",
+  "url": "https://www.jamuna.tv/national/665610",
+  "headline": "Murder suspect accused escapes from Dhaka court for second time",
+  "topic": "accused shariful escapes court",
+  "source": "Jamuna TV, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-06T10:08:22Z"
+ },
+ {
+  "title_hash": "399be04c55c65a46",
+  "url": "https://www.prothomalo.com/bangladesh/137r9bhlb3",
+  "headline": "Murder suspect accused escapes from Dhaka court for second time",
+  "topic": "accused shariful escapes court",
+  "source": "Jamuna TV, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-06T10:08:22Z"
  }
 ]
