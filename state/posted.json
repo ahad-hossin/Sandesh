@@ -1,61 +1,5 @@
 [
  {
-  "title_hash": "8eca3f8467f6018f",
-  "url": "https://bdnews24.com/bangladesh/4fupn8odcv",
-  "headline": "First uranium consignment arrives in Dhaka for Rooppur Nuclear Power Plant",
-  "topic": "rooppur nuclear plant uranium arrival",
-  "source": "The Daily Star, Jamuna TV, bdnews24.com",
-  "status": "failed",
-  "at": "2026-10-02T22:09:32Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "8daeeab53af37422",
-  "url": "https://www.thedailystar.net/news/bangladesh/news/first-uranium-consignment-arrives-dhaka-4289006",
-  "headline": "First uranium consignment arrives in Dhaka for Rooppur Nuclear Power Plant",
-  "topic": "rooppur nuclear plant uranium arrival",
-  "source": "The Daily Star, Jamuna TV, bdnews24.com",
-  "status": "failed",
-  "at": "2026-10-02T22:09:32Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "3fd99b884f8d3946",
-  "url": "https://www.dhakatribune.com/bangladesh/crime/421197/teen-gangs-a-growing-challenge-for-bangladesh",
-  "headline": "Teen gang leaders switch political patrons amid rising lawlessness in Chittagong",
-  "topic": "teen gang crime surge",
-  "source": "Prothom Alo, Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-10-02T22:09:32Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "68977f87361670bd",
-  "url": "https://www.prothomalo.com/bangladesh/district/k3plbadp50",
-  "headline": "Teen gang leaders switch political patrons amid rising lawlessness in Chittagong",
-  "topic": "teen gang crime surge",
-  "source": "Prothom Alo, Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-10-02T22:09:32Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "266e31a926a0dfb8",
   "url": "https://www.thedailystar.net/news/power-and-energy/news/uranium-rooppur-nuclear-power-plant-arrives-dhaka-russia-4288881",
   "headline": "First uranium consignment arrives in Dhaka from Russia",
@@ -8398,5 +8342,41 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "4102ac1a9b015ad9",
+  "url": "https://bdnews24.com/sport/sdq8i1cgek",
+  "headline": "Cristiano Ronaldo accuses coach of broken promises after leaving Portugal camp",
+  "topic": "ronaldo coach jesus conflict",
+  "source": "bdnews24.com, Jamuna TV, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-06T21:19:05Z"
+ },
+ {
+  "title_hash": "a2f1f9b6f9702a2a",
+  "url": "https://www.jamuna.tv/sports/665638",
+  "headline": "Cristiano Ronaldo accuses coach of broken promises after leaving Portugal camp",
+  "topic": "ronaldo coach jesus conflict",
+  "source": "bdnews24.com, Jamuna TV, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-06T21:19:05Z"
+ },
+ {
+  "title_hash": "2b2dd356fc816eef",
+  "url": "https://www.prothomalo.com/sports/football/ivry38fgto",
+  "headline": "Cristiano Ronaldo accuses coach of broken promises after leaving Portugal camp",
+  "topic": "ronaldo coach jesus conflict",
+  "source": "bdnews24.com, Jamuna TV, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-06T21:19:05Z"
+ },
+ {
+  "title_hash": "efae865a69610728",
+  "url": "https://www.prothomalo.com/bangladesh/crime/5114uxc71b",
+  "headline": "Child kidnappers abandon 6-year-old after failed sale attempt",
+  "topic": "kidnapped child rescued",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-06T21:19:05Z"
  }
 ]
