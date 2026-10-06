@@ -1,47 +1,5 @@
 [
  {
-  "title_hash": "d03c39aae27a859d",
-  "url": "https://www.prothomalo.com/bangladesh/g1rpkrjuwf",
-  "headline": "Jamaat demands Major (retd) Akhtaruzzaman's unconditional release after airport arrest",
-  "topic": "akhtaruzzaman airport arrest",
-  "source": "Jamuna TV, The Daily Star, bdnews24.com, Dhaka Tribune, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-02T17:09:50Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "d7ad78fa60f5706b",
-  "url": "https://www.dhakatribune.com/bangladesh/crime/421181/case-filed-against-jamaat-leader-akhtaruzzaman",
-  "headline": "Ex-MP Major (retd) Akhtaruzzaman arrested over airport assault and disorder",
-  "topic": "major akhtaruzzaman arrested",
-  "source": "Dhaka Tribune, Prothom Alo, Jamuna TV, bdnews24.com",
-  "status": "failed",
-  "at": "2026-10-02T18:08:45Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "c195645f5153484a",
-  "url": "https://www.prothomalo.com/video/bangladesh/e0hifivt2x",
-  "headline": "Ex-MP Major (retd) Akhtaruzzaman arrested over airport assault and disorder",
-  "topic": "major akhtaruzzaman arrested",
-  "source": "Dhaka Tribune, Prothom Alo, Jamuna TV, bdnews24.com",
-  "status": "failed",
-  "at": "2026-10-02T18:08:45Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "c9868051980406f5",
   "url": "https://www.prothomalo.com/video/bangladesh/su4dhifnpg",
   "headline": "Ex-MP Major (retd) Akhtaruzzaman arrested over airport assault and disorder",
@@ -8398,5 +8356,32 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "a698819269ba85fc",
+  "url": "https://www.thedailystar.net/culture/tv-film/news/tere-bin-star-wahaj-ali-spotted-dhaka-nusraat-faria-4291736",
+  "headline": "Pakistani star Wahaj Ali spotted in Dhaka with Nusraat Faria",
+  "topic": "wahaj ali in dhaka",
+  "source": "The Daily Star",
+  "status": "queued",
+  "at": "2026-10-06T07:11:02Z"
+ },
+ {
+  "title_hash": "6b2d4f9b613c8a96",
+  "url": "https://www.dhakatribune.com/bangladesh/nation/421429/infant-dies-at-noakhali-hospital-facility",
+  "headline": "Noakhali: Hospital vandalised after infant dies over alleged negligence",
+  "topic": "noakhali infant death hospital vandalised",
+  "source": "Dhaka Tribune, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-06T07:11:02Z"
+ },
+ {
+  "title_hash": "13e5a8f265cad20b",
+  "url": "https://www.prothomalo.com/bangladesh/district/mw6ylo2exn",
+  "headline": "Noakhali: Hospital vandalised after infant dies over alleged negligence",
+  "topic": "noakhali infant death hospital vandalised",
+  "source": "Dhaka Tribune, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-06T07:11:02Z"
  }
 ]
