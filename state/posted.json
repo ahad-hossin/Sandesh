@@ -1,75 +1,5 @@
 [
  {
-  "title_hash": "00018177c424b4e8",
-  "url": "https://bdnews24.com/bangladesh/u2vm4768qz",
-  "headline": "bdnews24.com editor-in-chief Toufique Imrose Khalidi dies at 59",
-  "topic": "toufique imrose khalidi dies",
-  "source": "The Daily Star, Jamuna TV, Dhaka Tribune, bdnews24.com, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-02T17:09:50Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "d1f9490b6d8700e9",
-  "url": "https://www.prothomalo.com/bangladesh/4nu7cr1sng",
-  "headline": "bdnews24.com editor-in-chief Toufique Imrose Khalidi dies at 59",
-  "topic": "toufique imrose khalidi dies",
-  "source": "The Daily Star, Jamuna TV, Dhaka Tribune, bdnews24.com, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-02T17:09:50Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "c4c3244cae9866ea",
-  "url": "https://www.thedailystar.net/news/politics/news/case-filed-investigation-jamaat-demands-freedom-fighter-akhtaruzzamans-unconditional-release-4288801",
-  "headline": "Jamaat demands Major (retd) Akhtaruzzaman's unconditional release after airport arrest",
-  "topic": "akhtaruzzaman airport arrest",
-  "source": "Jamuna TV, The Daily Star, bdnews24.com, Dhaka Tribune, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-02T17:09:50Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "f4e43f17f0b23e19",
-  "url": "https://www.jamuna.tv/politics/665342",
-  "headline": "Jamaat demands Major (retd) Akhtaruzzaman's unconditional release after airport arrest",
-  "topic": "akhtaruzzaman airport arrest",
-  "source": "Jamuna TV, The Daily Star, bdnews24.com, Dhaka Tribune, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-02T17:09:50Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "d62def998b3b3807",
-  "url": "https://bdnews24.com/bangladesh/f304jkd86n",
-  "headline": "Jamaat demands Major (retd) Akhtaruzzaman's unconditional release after airport arrest",
-  "topic": "akhtaruzzaman airport arrest",
-  "source": "Jamuna TV, The Daily Star, bdnews24.com, Dhaka Tribune, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-02T17:09:50Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "73a1d26cf0219c1d",
   "url": "https://www.jamuna.tv/national/665329",
   "headline": "Jamaat demands Major (retd) Akhtaruzzaman's unconditional release after airport arrest",
@@ -8398,5 +8328,50 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "58fc82ed21e39f11",
+  "url": "https://www.thedailystar.net/news/world/news/pakistan-turkiye-agree-activate-makkah-pact-deploy-forces-saudi-arabia-4291691",
+  "headline": "Pakistan, Turkiye to deploy military forces to Saudi Arabia under Makkah Pact",
+  "topic": "makkah pact military deployment",
+  "source": "Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-10-06T04:09:12Z"
+ },
+ {
+  "title_hash": "8e11d67bc7972d83",
+  "url": "https://www.prothomalo.com/world/pakistan/ncyvzrdll1",
+  "headline": "Pakistan, Turkiye to deploy military forces to Saudi Arabia under Makkah Pact",
+  "topic": "makkah pact military deployment",
+  "source": "Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-10-06T04:09:12Z"
+ },
+ {
+  "title_hash": "ca81ebb07ca7d313",
+  "url": "https://www.thedailystar.net/sports/football/news/special-moments-i-know-i-will-miss-4291661",
+  "headline": "End of an era: Messi prepares for final match for Argentina",
+  "topic": "messi final match monumentales",
+  "source": "The Daily Star, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-06T04:09:12Z"
+ },
+ {
+  "title_hash": "36d5513e5d8f71dc",
+  "url": "https://www.prothomalo.com/sports/football/6vx22wx0p4",
+  "headline": "End of an era: Messi prepares for final match for Argentina",
+  "topic": "messi final match monumentales",
+  "source": "The Daily Star, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-06T04:09:12Z"
+ },
+ {
+  "title_hash": "82920abb479423d1",
+  "url": "https://www.prothomalo.com/sports/football/2elibh8dgr",
+  "headline": "End of an era: Messi prepares for final match for Argentina",
+  "topic": "messi final match monumentales",
+  "source": "The Daily Star, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-06T04:09:12Z"
  }
 ]
