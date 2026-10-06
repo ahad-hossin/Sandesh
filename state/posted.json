@@ -8363,8 +8363,13 @@
   "headline": "Pakistani star Wahaj Ali spotted in Dhaka with Nusraat Faria",
   "topic": "wahaj ali in dhaka",
   "source": "The Daily Star",
-  "status": "queued",
-  "at": "2026-10-06T07:11:02Z"
+  "status": "failed",
+  "at": "2026-10-06T07:11:02Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "6b2d4f9b613c8a96",
@@ -8372,8 +8377,13 @@
   "headline": "Noakhali: Hospital vandalised after infant dies over alleged negligence",
   "topic": "noakhali infant death hospital vandalised",
   "source": "Dhaka Tribune, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-06T07:11:02Z"
+  "status": "failed",
+  "at": "2026-10-06T07:11:02Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "13e5a8f265cad20b",
@@ -8381,7 +8391,12 @@
   "headline": "Noakhali: Hospital vandalised after infant dies over alleged negligence",
   "topic": "noakhali infant death hospital vandalised",
   "source": "Dhaka Tribune, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-06T07:11:02Z"
+  "status": "failed",
+  "at": "2026-10-06T07:11:02Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
