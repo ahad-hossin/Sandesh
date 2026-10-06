@@ -8349,8 +8349,13 @@
   "headline": "Cristiano Ronaldo accuses coach of broken promises after leaving Portugal camp",
   "topic": "ronaldo coach jesus conflict",
   "source": "bdnews24.com, Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-06T21:19:05Z"
+  "status": "failed",
+  "at": "2026-10-06T21:19:05Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "a2f1f9b6f9702a2a",
@@ -8358,8 +8363,13 @@
   "headline": "Cristiano Ronaldo accuses coach of broken promises after leaving Portugal camp",
   "topic": "ronaldo coach jesus conflict",
   "source": "bdnews24.com, Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-06T21:19:05Z"
+  "status": "failed",
+  "at": "2026-10-06T21:19:05Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "2b2dd356fc816eef",
@@ -8367,8 +8377,13 @@
   "headline": "Cristiano Ronaldo accuses coach of broken promises after leaving Portugal camp",
   "topic": "ronaldo coach jesus conflict",
   "source": "bdnews24.com, Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-06T21:19:05Z"
+  "status": "failed",
+  "at": "2026-10-06T21:19:05Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "efae865a69610728",
@@ -8376,7 +8391,12 @@
   "headline": "Child kidnappers abandon 6-year-old after failed sale attempt",
   "topic": "kidnapped child rescued",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-06T21:19:05Z"
+  "status": "failed",
+  "at": "2026-10-06T21:19:05Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
