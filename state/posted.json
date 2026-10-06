@@ -1,33 +1,5 @@
 [
  {
-  "title_hash": "2ac12b7cbc418ae3",
-  "url": "https://bdnews24.com/media-en/8a0axbfdv7",
-  "headline": "bdnews24.com Editor Toufique Imrose Khalidi dies at 59 in London",
-  "topic": "toufique-imrose-khalidi-death",
-  "source": "bdnews24.com, Dhaka Tribune, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-02T20:10:41Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "3ccd46ce7ec09e4c",
-  "url": "https://www.dhakatribune.com/bangladesh/421201/president-khalidi%E2%80%99s-contributions-to-journalism",
-  "headline": "bdnews24.com Editor Toufique Imrose Khalidi dies at 59 in London",
-  "topic": "toufique-imrose-khalidi-death",
-  "source": "bdnews24.com, Dhaka Tribune, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-02T20:10:41Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "f13302c2beb2ef5e",
   "url": "https://bdnews24.com/bangladesh/ydn0vc4i7c",
   "headline": "bdnews24.com Editor Toufique Imrose Khalidi dies at 59 in London",
@@ -8398,5 +8370,23 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "e75af63d6fab6393",
+  "url": "https://www.prothomalo.com/bangladesh/district/r7fkjjlfm3",
+  "headline": "Barguna student scores highest in Humanities for SSC, dreams of becoming a magistrate",
+  "topic": "ssc examinee from barguna aims to be magistrate",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-06T15:07:11Z"
+ },
+ {
+  "title_hash": "52c9409c0a6889d5",
+  "url": "https://www.jamuna.tv/all-bangladesh/665625",
+  "headline": "Chuadanga: Businessman beaten to death after being called to a house",
+  "topic": "businessman beaten to death in chuadanga",
+  "source": "Jamuna TV",
+  "status": "queued",
+  "at": "2026-10-06T15:07:11Z"
  }
 ]
