@@ -8321,8 +8321,13 @@
   "headline": "RU hall provost withdrawn after attack on journalists; probe ordered within 72 hours",
   "topic": "Rajshahi University journalist attack",
   "source": "Jamuna TV, Prothom Alo, Dhaka Tribune, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-06T02:07:09Z"
+  "status": "failed",
+  "at": "2026-10-06T02:07:09Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "24816bf3342bd8b5",
@@ -8330,8 +8335,13 @@
   "headline": "RU hall provost withdrawn after attack on journalists; probe ordered within 72 hours",
   "topic": "Rajshahi University journalist attack",
   "source": "Jamuna TV, Prothom Alo, Dhaka Tribune, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-06T02:07:09Z"
+  "status": "failed",
+  "at": "2026-10-06T02:07:09Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "8917fbf910f53e47",
@@ -8339,8 +8349,13 @@
   "headline": "RU hall provost withdrawn after attack on journalists; probe ordered within 72 hours",
   "topic": "Rajshahi University journalist attack",
   "source": "Jamuna TV, Prothom Alo, Dhaka Tribune, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-06T02:07:09Z"
+  "status": "failed",
+  "at": "2026-10-06T02:07:09Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "6abe7dbf8e907f8f",
@@ -8348,8 +8363,13 @@
   "headline": "RU hall provost withdrawn after attack on journalists; probe ordered within 72 hours",
   "topic": "Rajshahi University journalist attack",
   "source": "Jamuna TV, Prothom Alo, Dhaka Tribune, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-06T02:07:09Z"
+  "status": "failed",
+  "at": "2026-10-06T02:07:09Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "ee538681c8fec07b",
@@ -8357,8 +8377,13 @@
   "headline": "32 killed as Nigerian military plane crashes in Ondo state during routine mission",
   "topic": "Nigeria military plane crash",
   "source": "Prothom Alo, bdnews24.com",
-  "status": "queued",
-  "at": "2026-10-06T02:07:09Z"
+  "status": "failed",
+  "at": "2026-10-06T02:07:09Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "3184da421dd9501d",
@@ -8366,7 +8391,12 @@
   "headline": "32 killed as Nigerian military plane crashes in Ondo state during routine mission",
   "topic": "Nigeria military plane crash",
   "source": "Prothom Alo, bdnews24.com",
-  "status": "queued",
-  "at": "2026-10-06T02:07:09Z"
+  "status": "failed",
+  "at": "2026-10-06T02:07:09Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
