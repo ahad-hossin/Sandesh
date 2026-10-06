@@ -8335,8 +8335,13 @@
   "headline": "RU provost removed after attack on journalists; investigation committee formed, report due in 3 days",
   "topic": "Rajshahi University provost relieved after journalist attack",
   "source": "Prothom Alo, Dhaka Tribune, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-06T00:09:23Z"
+  "status": "failed",
+  "at": "2026-10-06T00:09:23Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "8357a35545b6ea22",
@@ -8344,8 +8349,13 @@
   "headline": "RU provost removed after attack on journalists; investigation committee formed, report due in 3 days",
   "topic": "Rajshahi University provost relieved after journalist attack",
   "source": "Prothom Alo, Dhaka Tribune, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-06T00:09:23Z"
+  "status": "failed",
+  "at": "2026-10-06T00:09:23Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "6abe7dbf8e907f8f",
@@ -8353,8 +8363,13 @@
   "headline": "RU provost removed after attack on journalists; investigation committee formed, report due in 3 days",
   "topic": "Rajshahi University provost relieved after journalist attack",
   "source": "Prothom Alo, Dhaka Tribune, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-06T00:09:23Z"
+  "status": "failed",
+  "at": "2026-10-06T00:09:23Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "f85cc6cd1525bee3",
@@ -8362,8 +8377,13 @@
   "headline": "RU provost removed after attack on journalists; investigation committee formed, report due in 3 days",
   "topic": "Rajshahi University provost relieved after journalist attack",
   "source": "Prothom Alo, Dhaka Tribune, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-06T00:09:23Z"
+  "status": "failed",
+  "at": "2026-10-06T00:09:23Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "c64b60d01fc040a1",
@@ -8371,7 +8391,12 @@
   "headline": "ACC files new case against 7 including ex-Far East Life chairman over BDT 70.20 crore embezzlement",
   "topic": "ACC files new case against Far East ex-chairman and 7 others",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-06T00:09:23Z"
+  "status": "failed",
+  "at": "2026-10-06T00:09:23Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
