@@ -8377,8 +8377,13 @@
   "headline": "154 arrested in Narayanganj, including 8 members of banned Awami League",
   "topic": "Narayanganj arrests AL members",
   "source": "Jamuna TV",
-  "status": "queued",
-  "at": "2026-10-06T03:09:30Z"
+  "status": "failed",
+  "at": "2026-10-06T03:09:30Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "4e416d8fc545959d",
@@ -8386,7 +8391,12 @@
   "headline": "Citizens suffer as birth certificates contain gibberish names",
   "topic": "Birth certificate name errors",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-06T03:09:30Z"
+  "status": "failed",
+  "at": "2026-10-06T03:09:30Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
