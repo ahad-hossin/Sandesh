@@ -1,61 +1,5 @@
 [
  {
-  "title_hash": "998fa6d8f3daed2f",
-  "url": "https://bdnews24.com/bangladesh/1w8dxwlbd4",
-  "headline": "bdnews24.com Editor Toufique Imrose Khalidi passes away at 59",
-  "topic": "toufique imrose khalidi death",
-  "source": "Dhaka Tribune, Jamuna TV, bdnews24.com, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-02T18:08:45Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "00018177c424b4e8",
-  "url": "https://bdnews24.com/bangladesh/u2vm4768qz",
-  "headline": "bdnews24.com Editor Toufique Imrose Khalidi passes away at 59",
-  "topic": "toufique imrose khalidi death",
-  "source": "Dhaka Tribune, Jamuna TV, bdnews24.com, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-02T18:08:45Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "d1f9490b6d8700e9",
-  "url": "https://www.prothomalo.com/bangladesh/4nu7cr1sng",
-  "headline": "bdnews24.com Editor Toufique Imrose Khalidi passes away at 59",
-  "topic": "toufique imrose khalidi death",
-  "source": "Dhaka Tribune, Jamuna TV, bdnews24.com, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-02T18:08:45Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "8eca3f8467f6018f",
-  "url": "https://bdnews24.com/bangladesh/4fupn8odcv",
-  "headline": "Uranium shipment lands in Bangladesh for Rooppur Nuclear Power Plant",
-  "topic": "roppur nuclear plant uranium arrival",
-  "source": "Jamuna TV, bdnews24.com",
-  "status": "failed",
-  "at": "2026-10-02T19:08:25Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "9c42da19972fd681",
   "url": "https://www.jamuna.tv/national/665344",
   "headline": "Uranium shipment lands in Bangladesh for Rooppur Nuclear Power Plant",
@@ -8398,5 +8342,41 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "9b5786599a5cec8a",
+  "url": "https://bdnews24.com/health/7d4zguh4hx",
+  "headline": "10 die in a day: Dengue deaths hit record high for 2024",
+  "topic": "dengue deaths surge",
+  "source": "bdnews24.com, Jamuna TV",
+  "status": "queued",
+  "at": "2026-10-06T12:09:53Z"
+ },
+ {
+  "title_hash": "56df90923ba5b9be",
+  "url": "https://www.jamuna.tv/national/665615",
+  "headline": "10 die in a day: Dengue deaths hit record high for 2024",
+  "topic": "dengue deaths surge",
+  "source": "bdnews24.com, Jamuna TV",
+  "status": "queued",
+  "at": "2026-10-06T12:09:53Z"
+ },
+ {
+  "title_hash": "17e2052dbd4586cb",
+  "url": "https://www.dhakatribune.com/bangladesh/421463/dmp-tight-security-planned-across-dhaka-for-durga",
+  "headline": "DMP: Tight security planned across Dhaka for Durga Puja",
+  "topic": "dhaka security for durga puja",
+  "source": "Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-10-06T12:09:53Z"
+ },
+ {
+  "title_hash": "7b7b4f5bbc9c8327",
+  "url": "https://www.dhakatribune.com/bangladesh/court/421464/travel-ban-imposed-on-jubo-league-leader-anwarul",
+  "headline": "DMP: Tight security planned across Dhaka for Durga Puja",
+  "topic": "dhaka security for durga puja",
+  "source": "Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-10-06T12:09:53Z"
  }
 ]
