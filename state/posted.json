@@ -1,75 +1,5 @@
 [
  {
-  "title_hash": "f1d73416206d4d00",
-  "url": "https://bdnews24.com/media-en/9kku0z0mc0",
-  "headline": "bdnews24.com Editor Toufique Imrose Khalidi dies at 59 in London",
-  "topic": "toufique-imrose-khalidi-death",
-  "source": "bdnews24.com, Dhaka Tribune, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-02T20:10:41Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "998fa6d8f3daed2f",
-  "url": "https://bdnews24.com/bangladesh/1w8dxwlbd4",
-  "headline": "bdnews24.com Editor Toufique Imrose Khalidi dies at 59 in London",
-  "topic": "toufique-imrose-khalidi-death",
-  "source": "bdnews24.com, Dhaka Tribune, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-02T20:10:41Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "00018177c424b4e8",
-  "url": "https://bdnews24.com/bangladesh/u2vm4768qz",
-  "headline": "bdnews24.com Editor Toufique Imrose Khalidi dies at 59 in London",
-  "topic": "toufique-imrose-khalidi-death",
-  "source": "bdnews24.com, Dhaka Tribune, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-02T20:10:41Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "d1f9490b6d8700e9",
-  "url": "https://www.prothomalo.com/bangladesh/4nu7cr1sng",
-  "headline": "bdnews24.com Editor Toufique Imrose Khalidi dies at 59 in London",
-  "topic": "toufique-imrose-khalidi-death",
-  "source": "bdnews24.com, Dhaka Tribune, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-02T20:10:41Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "8eca3f8467f6018f",
-  "url": "https://bdnews24.com/bangladesh/4fupn8odcv",
-  "headline": "Uranium for Rooppur Nuclear Power Plant arrives in Bangladesh from Russia",
-  "topic": "rooppur-uranium-arrival",
-  "source": "Jamuna TV, bdnews24.com, The Daily Star",
-  "status": "failed",
-  "at": "2026-10-02T20:10:41Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "9c42da19972fd681",
   "url": "https://www.jamuna.tv/national/665344",
   "headline": "Uranium for Rooppur Nuclear Power Plant arrives in Bangladesh from Russia",
@@ -8398,5 +8328,50 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "0a965826ba4f5e92",
+  "url": "https://www.dhakatribune.com/bangladesh/421476/bank-card-atm-services-hit-as-millions-suffer",
+  "headline": "30 banks hit as digital services suspended until Oct 10",
+  "topic": "bangladesh-banks-digital-outage",
+  "source": "Prothom Alo, Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-10-06T17:08:54Z"
+ },
+ {
+  "title_hash": "1d80149cfbb0a9c7",
+  "url": "https://www.prothomalo.com/business/bank/gcpmqppulp",
+  "headline": "30 banks hit as digital services suspended until Oct 10",
+  "topic": "bangladesh-banks-digital-outage",
+  "source": "Prothom Alo, Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-10-06T17:08:54Z"
+ },
+ {
+  "title_hash": "c6102b260d9ae0bb",
+  "url": "https://bdnews24.com/bangladesh/k08uxczpo9",
+  "headline": "Shoe garland hung on Bir Sreshtha Hamidur Rahman sculpture in Jhenaidah",
+  "topic": "bir-shrestha-hamidur-rahman-sculpture-desecrated",
+  "source": "bdnews24.com, Dhaka Tribune, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-06T17:08:54Z"
+ },
+ {
+  "title_hash": "e1e6fba0105cf349",
+  "url": "https://www.dhakatribune.com/bangladesh/421488/shoe-garland-hung-on-bir-sreshtha-hamidur-rahman",
+  "headline": "Shoe garland hung on Bir Sreshtha Hamidur Rahman sculpture in Jhenaidah",
+  "topic": "bir-shrestha-hamidur-rahman-sculpture-desecrated",
+  "source": "bdnews24.com, Dhaka Tribune, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-06T17:08:54Z"
+ },
+ {
+  "title_hash": "cd6f19a0acc7ad74",
+  "url": "https://www.prothomalo.com/bangladesh/district/am6lhyrgw6",
+  "headline": "Shoe garland hung on Bir Sreshtha Hamidur Rahman sculpture in Jhenaidah",
+  "topic": "bir-shrestha-hamidur-rahman-sculpture-desecrated",
+  "source": "bdnews24.com, Dhaka Tribune, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-06T17:08:54Z"
  }
 ]
