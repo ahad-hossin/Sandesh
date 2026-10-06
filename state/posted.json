@@ -1,61 +1,5 @@
 [
  {
-  "title_hash": "73a1d26cf0219c1d",
-  "url": "https://www.jamuna.tv/national/665329",
-  "headline": "Jamaat demands Major (retd) Akhtaruzzaman's unconditional release after airport arrest",
-  "topic": "akhtaruzzaman airport arrest",
-  "source": "Jamuna TV, The Daily Star, bdnews24.com, Dhaka Tribune, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-02T17:09:50Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "df3ead20e6a55d26",
-  "url": "https://www.dhakatribune.com/bangladesh/dhaka/421184/altercation-at-the-airport-db-arrests-major",
-  "headline": "Jamaat demands Major (retd) Akhtaruzzaman's unconditional release after airport arrest",
-  "topic": "akhtaruzzaman airport arrest",
-  "source": "Jamuna TV, The Daily Star, bdnews24.com, Dhaka Tribune, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-02T17:09:50Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "6a06120ad19ef858",
-  "url": "https://www.dhakatribune.com/bangladesh/crime/421181/case-filed-against-jamaat-leader-akhtaruzzaman",
-  "headline": "Jamaat demands Major (retd) Akhtaruzzaman's unconditional release after airport arrest",
-  "topic": "akhtaruzzaman airport arrest",
-  "source": "Jamuna TV, The Daily Star, bdnews24.com, Dhaka Tribune, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-02T17:09:50Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "34d9b92293963f04",
-  "url": "https://www.thedailystar.net/news/crime-justice/news/akhtaruzzaman-arrested-over-alleged-assault-disorder-dhaka-airport-4288736",
-  "headline": "Jamaat demands Major (retd) Akhtaruzzaman's unconditional release after airport arrest",
-  "topic": "akhtaruzzaman airport arrest",
-  "source": "Jamuna TV, The Daily Star, bdnews24.com, Dhaka Tribune, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-02T17:09:50Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "81fe4e24573e64ae",
   "url": "https://bdnews24.com/bangladesh/07guyw22n6",
   "headline": "Jamaat demands Major (retd) Akhtaruzzaman's unconditional release after airport arrest",
@@ -8398,5 +8342,41 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "243204524c14a47f",
+  "url": "https://www.dhakatribune.com/bangladesh/health/421423/dengue-cases-surge-in-chittagong-21-deaths",
+  "headline": "21 deaths recorded as dengue cases surge in Chittagong this year",
+  "topic": "chittagong dengue surge",
+  "source": "Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-10-06T05:14:36Z"
+ },
+ {
+  "title_hash": "afd09397770af446",
+  "url": "https://bdnews24.com/sport/pazn5t8zpg",
+  "headline": "Olise brace as France thrash Belgium 4-1 in Nations League comeback",
+  "topic": "france thrashes belgium nations league",
+  "source": "Prothom Alo, bdnews24.com, The Daily Star",
+  "status": "queued",
+  "at": "2026-10-06T05:14:36Z"
+ },
+ {
+  "title_hash": "b67f8365adabe62d",
+  "url": "https://www.prothomalo.com/sports/football/9yi2wkfoj3",
+  "headline": "Olise brace as France thrash Belgium 4-1 in Nations League comeback",
+  "topic": "france thrashes belgium nations league",
+  "source": "Prothom Alo, bdnews24.com, The Daily Star",
+  "status": "queued",
+  "at": "2026-10-06T05:14:36Z"
+ },
+ {
+  "title_hash": "672006d3e6fdc753",
+  "url": "https://www.thedailystar.net/sports/football/news/exceptional-olise-powers-france-win-over-belgium-4291636",
+  "headline": "Olise brace as France thrash Belgium 4-1 in Nations League comeback",
+  "topic": "france thrashes belgium nations league",
+  "source": "Prothom Alo, bdnews24.com, The Daily Star",
+  "status": "queued",
+  "at": "2026-10-06T05:14:36Z"
  }
 ]
