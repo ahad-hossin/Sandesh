@@ -8335,8 +8335,13 @@
   "headline": "Pakistan, Turkiye to deploy military forces to Saudi Arabia under Makkah Pact",
   "topic": "makkah pact military deployment",
   "source": "Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-06T04:09:12Z"
+  "status": "failed",
+  "at": "2026-10-06T04:09:12Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "8e11d67bc7972d83",
@@ -8344,8 +8349,13 @@
   "headline": "Pakistan, Turkiye to deploy military forces to Saudi Arabia under Makkah Pact",
   "topic": "makkah pact military deployment",
   "source": "Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-06T04:09:12Z"
+  "status": "failed",
+  "at": "2026-10-06T04:09:12Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "ca81ebb07ca7d313",
@@ -8353,8 +8363,13 @@
   "headline": "End of an era: Messi prepares for final match for Argentina",
   "topic": "messi final match monumentales",
   "source": "The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-06T04:09:12Z"
+  "status": "failed",
+  "at": "2026-10-06T04:09:12Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "36d5513e5d8f71dc",
@@ -8362,8 +8377,13 @@
   "headline": "End of an era: Messi prepares for final match for Argentina",
   "topic": "messi final match monumentales",
   "source": "The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-06T04:09:12Z"
+  "status": "failed",
+  "at": "2026-10-06T04:09:12Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "82920abb479423d1",
@@ -8371,7 +8391,12 @@
   "headline": "End of an era: Messi prepares for final match for Argentina",
   "topic": "messi final match monumentales",
   "source": "The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-06T04:09:12Z"
+  "status": "failed",
+  "at": "2026-10-06T04:09:12Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
