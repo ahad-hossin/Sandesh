@@ -1,47 +1,5 @@
 [
  {
-  "title_hash": "c9868051980406f5",
-  "url": "https://www.prothomalo.com/video/bangladesh/su4dhifnpg",
-  "headline": "Ex-MP Major (retd) Akhtaruzzaman arrested over airport assault and disorder",
-  "topic": "major akhtaruzzaman arrested",
-  "source": "Dhaka Tribune, Prothom Alo, Jamuna TV, bdnews24.com",
-  "status": "failed",
-  "at": "2026-10-02T18:08:45Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "8941de6d2d7a860e",
-  "url": "https://www.prothomalo.com/politics/4sk3vd4nbr",
-  "headline": "Ex-MP Major (retd) Akhtaruzzaman arrested over airport assault and disorder",
-  "topic": "major akhtaruzzaman arrested",
-  "source": "Dhaka Tribune, Prothom Alo, Jamuna TV, bdnews24.com",
-  "status": "failed",
-  "at": "2026-10-02T18:08:45Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "73a1d26cf0219c1d",
-  "url": "https://www.jamuna.tv/national/665329",
-  "headline": "Ex-MP Major (retd) Akhtaruzzaman arrested over airport assault and disorder",
-  "topic": "major akhtaruzzaman arrested",
-  "source": "Dhaka Tribune, Prothom Alo, Jamuna TV, bdnews24.com",
-  "status": "failed",
-  "at": "2026-10-02T18:08:45Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "df3ead20e6a55d26",
   "url": "https://www.dhakatribune.com/bangladesh/dhaka/421184/altercation-at-the-airport-db-arrests-major",
   "headline": "Ex-MP Major (retd) Akhtaruzzaman arrested over airport assault and disorder",
@@ -8398,5 +8356,32 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "49ed33ae0c272bb7",
+  "url": "https://www.prothomalo.com/politics/si2phsgllu",
+  "headline": "Opposition MP alleges syndicates are exploiting consumers on essential goods",
+  "topic": "nahid islam price hike syndicate",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-06T08:08:43Z"
+ },
+ {
+  "title_hash": "9cbdcfc2147ea15d",
+  "url": "https://www.dhakatribune.com/bangladesh/dhaka/421427/dhaka-ranks-first-globally-in-air-pollution",
+  "headline": "2,430 Dengue cases reported in Chattogram in September alone",
+  "topic": "dhaka air pollution and health warning",
+  "source": "Dhaka Tribune, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-06T08:08:43Z"
+ },
+ {
+  "title_hash": "de8e88b24f203b31",
+  "url": "https://www.prothomalo.com/bangladesh/district/gqimf32eiv",
+  "headline": "2,430 Dengue cases reported in Chattogram in September alone",
+  "topic": "dhaka air pollution and health warning",
+  "source": "Dhaka Tribune, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-06T08:08:43Z"
  }
 ]
