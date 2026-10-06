@@ -1,33 +1,5 @@
 [
  {
-  "title_hash": "df3ead20e6a55d26",
-  "url": "https://www.dhakatribune.com/bangladesh/dhaka/421184/altercation-at-the-airport-db-arrests-major",
-  "headline": "Ex-MP Major (retd) Akhtaruzzaman arrested over airport assault and disorder",
-  "topic": "major akhtaruzzaman arrested",
-  "source": "Dhaka Tribune, Prothom Alo, Jamuna TV, bdnews24.com",
-  "status": "failed",
-  "at": "2026-10-02T18:08:45Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "d62def998b3b3807",
-  "url": "https://bdnews24.com/bangladesh/f304jkd86n",
-  "headline": "Ex-MP Major (retd) Akhtaruzzaman arrested over airport assault and disorder",
-  "topic": "major akhtaruzzaman arrested",
-  "source": "Dhaka Tribune, Prothom Alo, Jamuna TV, bdnews24.com",
-  "status": "failed",
-  "at": "2026-10-02T18:08:45Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "81fe4e24573e64ae",
   "url": "https://bdnews24.com/bangladesh/07guyw22n6",
   "headline": "Ex-MP Major (retd) Akhtaruzzaman arrested over airport assault and disorder",
@@ -8398,5 +8370,23 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "49ed33ae0c272bb7",
+  "url": "https://www.prothomalo.com/politics/si2phsgllu",
+  "headline": "Nahid Islam blames syndicates for price hikes of essentials",
+  "topic": "nahid islam commodity prices syndicate",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-06T09:07:49Z"
+ },
+ {
+  "title_hash": "690e2cc13bac63a3",
+  "url": "https://www.thedailystar.net/star-multimedia/news/preparations-send-10000-workers-malaysia-no-cost-who-can-apply-4291846",
+  "headline": "10,000 workers: Preparations to send workers to Malaysia at no cost underway",
+  "topic": "10000 workers to malaysia no cost",
+  "source": "The Daily Star",
+  "status": "queued",
+  "at": "2026-10-06T09:07:49Z"
  }
 ]
