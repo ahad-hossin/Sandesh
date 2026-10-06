@@ -8335,8 +8335,13 @@
   "headline": "RU Hall Provost withdrawn after attack on journalists; probe report due in 72 hours",
   "topic": "rajshahi university journalists attack",
   "source": "Jamuna TV, Prothom Alo, Dhaka Tribune, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-06T01:06:59Z"
+  "status": "failed",
+  "at": "2026-10-06T01:06:59Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "24816bf3342bd8b5",
@@ -8344,8 +8349,13 @@
   "headline": "RU Hall Provost withdrawn after attack on journalists; probe report due in 72 hours",
   "topic": "rajshahi university journalists attack",
   "source": "Jamuna TV, Prothom Alo, Dhaka Tribune, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-06T01:06:59Z"
+  "status": "failed",
+  "at": "2026-10-06T01:06:59Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "8357a35545b6ea22",
@@ -8353,8 +8363,13 @@
   "headline": "RU Hall Provost withdrawn after attack on journalists; probe report due in 72 hours",
   "topic": "rajshahi university journalists attack",
   "source": "Jamuna TV, Prothom Alo, Dhaka Tribune, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-06T01:06:59Z"
+  "status": "failed",
+  "at": "2026-10-06T01:06:59Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "6abe7dbf8e907f8f",
@@ -8362,8 +8377,13 @@
   "headline": "RU Hall Provost withdrawn after attack on journalists; probe report due in 72 hours",
   "topic": "rajshahi university journalists attack",
   "source": "Jamuna TV, Prothom Alo, Dhaka Tribune, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-06T01:06:59Z"
+  "status": "failed",
+  "at": "2026-10-06T01:06:59Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "115f49b058e910e7",
@@ -8371,7 +8391,12 @@
   "headline": "UN Secretary-General to visit Pakistan for US-Iran mediation talks",
   "topic": "un chief pakistan us iran mediation",
   "source": "Jamuna TV",
-  "status": "queued",
-  "at": "2026-10-06T01:06:59Z"
+  "status": "failed",
+  "at": "2026-10-06T01:06:59Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
