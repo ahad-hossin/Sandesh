@@ -1,61 +1,5 @@
 [
  {
-  "title_hash": "eb5691d1bb6aa18f",
-  "url": "https://www.jamuna.tv/national/665421",
-  "headline": "Army chief visits Australia and US on 9-day official tour",
-  "topic": "army chief visit australia us",
-  "source": "Jamuna TV, Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-10-04T06:09:00Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "ccfe651154eeec70",
-  "url": "https://bdnews24.com/bangladesh/nqdww5030t",
-  "headline": "Tk 162.5m gold: 80 gold bars found in Biman workers' shoes at Dhaka airport",
-  "topic": "gold bars found in biman workers shoes",
-  "source": "bdnews24.com, The Daily Star",
-  "status": "failed",
-  "at": "2026-10-04T07:09:08Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "275077612e6afd86",
-  "url": "https://www.thedailystar.net/news/crime-justice/news/80-gold-bars-seized-dhaka-airport-4290081",
-  "headline": "Tk 162.5m gold: 80 gold bars found in Biman workers' shoes at Dhaka airport",
-  "topic": "gold bars found in biman workers shoes",
-  "source": "bdnews24.com, The Daily Star",
-  "status": "failed",
-  "at": "2026-10-04T07:09:08Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "b0303b65b014c4a1",
-  "url": "https://www.thedailystar.net/sports/football/news/argentina-run-riot-the-monumental-thrashing-burkina-faso-7-0-4289976",
-  "headline": "7-0 victory: Argentina thrashes Burkina Faso at the Monumental",
-  "topic": "argentina thrashes burkina faso",
-  "source": "Prothom Alo, Jamuna TV, The Daily Star",
-  "status": "failed",
-  "at": "2026-10-04T07:09:08Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "780b18098ff6e932",
   "url": "https://www.prothomalo.com/sports/football/7yl4wngnou",
   "headline": "7-0 victory: Argentina thrashes Burkina Faso at the Monumental",
@@ -8398,5 +8342,41 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "bca50ddc966974ff",
+  "url": "https://www.dhakatribune.com/bangladesh/nation/421582/child-allegedly-sold-for-tk-2-lakh-5-arrested-in",
+  "headline": "5 arrested after 13-month-old child allegedly sold for Tk 2 lakh in Mymensingh",
+  "topic": "child sold for 2 lakh tk",
+  "source": "Dhaka Tribune, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-07T16:09:02Z"
+ },
+ {
+  "title_hash": "88d98844040922d5",
+  "url": "https://www.prothomalo.com/bangladesh/district/uirgm7eryf",
+  "headline": "5 arrested after 13-month-old child allegedly sold for Tk 2 lakh in Mymensingh",
+  "topic": "child sold for 2 lakh tk",
+  "source": "Dhaka Tribune, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-07T16:09:02Z"
+ },
+ {
+  "title_hash": "89d4151630de62dc",
+  "url": "https://www.prothomalo.com/bangladesh/yebhaabe-rkssaa-pel-baanlaadesher-syaattelaaitt",
+  "headline": "852m gap: Bangladesh Satellite-1 narrowly avoids collision with debris",
+  "topic": "bangladesh satellite saved",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-07T16:09:02Z"
+ },
+ {
+  "title_hash": "56da280346983f70",
+  "url": "https://www.prothomalo.com/bangladesh/cb196xvhrt",
+  "headline": "852m gap: Bangladesh Satellite-1 narrowly avoids collision with debris",
+  "topic": "bangladesh satellite saved",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-07T16:09:02Z"
  }
 ]
