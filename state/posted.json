@@ -8363,8 +8363,13 @@
   "headline": "Viral audio: Former OC Rakibul Islam's voice confirmed by DB",
   "topic": "viral audio sheikh hasina return",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-07T10:08:43Z"
+  "status": "failed",
+  "at": "2026-10-07T10:08:43Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "76578f4d52787f45",
@@ -8372,8 +8377,13 @@
   "headline": "MP Gazi Nazrul's bail plea rejected in second wife's death case",
   "topic": "gazi nazrul bail rejected",
   "source": "Prothom Alo, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-10-07T10:08:43Z"
+  "status": "failed",
+  "at": "2026-10-07T10:08:43Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "2431f6da83e9fa8e",
@@ -8381,7 +8391,12 @@
   "headline": "MP Gazi Nazrul's bail plea rejected in second wife's death case",
   "topic": "gazi nazrul bail rejected",
   "source": "Prothom Alo, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-10-07T10:08:43Z"
+  "status": "failed",
+  "at": "2026-10-07T10:08:43Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
