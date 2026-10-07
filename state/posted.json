@@ -1,47 +1,5 @@
 [
  {
-  "title_hash": "05c581e6c292010f",
-  "url": "https://www.prothomalo.com/sports/football/ehi46oo40k",
-  "headline": "Argentina thrash Burkina Faso 7-0 in dominant friendly display",
-  "topic": "Argentina beats Burkina Faso 7-0",
-  "source": "Jamuna TV, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-10-04T03:06:49Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "e940eec1cc9deb15",
-  "url": "https://www.prothomalo.com/business/personal-finance/nhigenktuq",
-  "headline": "Government employees to get 3 months' arrears with October salary, calculation starts tomorrow",
-  "topic": "Govt employees arrears with October salary",
-  "source": "Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-04T03:06:49Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "763ea4e3358b1bf4",
-  "url": "https://www.dhakatribune.com/bangladesh/dhaka/421269/dhaka-ranks-world-s-third-most-polluted-city",
-  "headline": "Air quality alert: Dhaka ranks world's third most polluted city on Sunday",
-  "topic": "Dhaka Air Pollution Third Worst",
-  "source": "Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-10-04T04:09:50Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "9162599ebe7deb23",
   "url": "https://www.dhakatribune.com/bangladesh/health/421263/dengue-cases-up-74%25-deaths-27%25-from-last-year",
   "headline": "250 dead as dengue cases surge 74% compared to last year",
@@ -8398,5 +8356,32 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "336ed2b77f54acc9",
+  "url": "https://bdnews24.com/economy/hotvno31ay",
+  "headline": "8.34%: Inflation rises again in September after fuel price hike",
+  "topic": "fuel price hike drives inflation",
+  "source": "bdnews24.com",
+  "status": "queued",
+  "at": "2026-10-07T13:10:48Z"
+ },
+ {
+  "title_hash": "8a481725e6b2d795",
+  "url": "https://www.jamuna.tv/international/665699",
+  "headline": "US loses 81 aircraft and drones in conflict with Iran",
+  "topic": "US loses 81 aircraft in Iran conflict",
+  "source": "Jamuna TV, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-07T13:10:48Z"
+ },
+ {
+  "title_hash": "93876470ba21e4f2",
+  "url": "https://www.prothomalo.com/world/usa/neu0e5ixbu",
+  "headline": "US loses 81 aircraft and drones in conflict with Iran",
+  "topic": "US loses 81 aircraft in Iran conflict",
+  "source": "Jamuna TV, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-07T13:10:48Z"
  }
 ]
