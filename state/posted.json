@@ -1,89 +1,5 @@
 [
  {
-  "title_hash": "db083744f6340a08",
-  "url": "https://www.jamuna.tv/national/665376",
-  "headline": "6 deaths, 1,608 hospitalizations in 24 hours as dengue surges",
-  "topic": "dengue cases and deaths surge",
-  "source": "Dhaka Tribune, Jamuna TV",
-  "status": "failed",
-  "at": "2026-10-03T21:14:59Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "9162599ebe7deb23",
-  "url": "https://www.dhakatribune.com/bangladesh/health/421263/dengue-cases-up-74%25-deaths-27%25-from-last-year",
-  "headline": "1,608 hospitalised as 6 more die of dengue in 24 hours",
-  "topic": "dengue cases and deaths surge",
-  "source": "Dhaka Tribune, The Daily Star, Jamuna TV, bdnews24.com",
-  "status": "failed",
-  "at": "2026-10-03T22:09:19Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "211574d74439de94",
-  "url": "https://www.thedailystar.net/news/bangladesh/news/six-more-die-dengue-1608-get-hospitalised-4289886",
-  "headline": "1,608 hospitalised as 6 more die of dengue in 24 hours",
-  "topic": "dengue cases and deaths surge",
-  "source": "Dhaka Tribune, The Daily Star, Jamuna TV, bdnews24.com",
-  "status": "failed",
-  "at": "2026-10-03T22:09:19Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "a2ec5d15f218f097",
-  "url": "https://www.dhakatribune.com/bangladesh/health/421234/dengue-six-more-die-as-1-948-hospitalized-in-24",
-  "headline": "1,608 hospitalised as 6 more die of dengue in 24 hours",
-  "topic": "dengue cases and deaths surge",
-  "source": "Dhaka Tribune, The Daily Star, Jamuna TV, bdnews24.com",
-  "status": "failed",
-  "at": "2026-10-03T22:09:19Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "db083744f6340a08",
-  "url": "https://www.jamuna.tv/national/665376",
-  "headline": "1,608 hospitalised as 6 more die of dengue in 24 hours",
-  "topic": "dengue cases and deaths surge",
-  "source": "Dhaka Tribune, The Daily Star, Jamuna TV, bdnews24.com",
-  "status": "failed",
-  "at": "2026-10-03T22:09:19Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "6122096d390b9186",
-  "url": "https://bdnews24.com/health/fvuxfg755p",
-  "headline": "1,608 hospitalised as 6 more die of dengue in 24 hours",
-  "topic": "dengue cases and deaths surge",
-  "source": "Dhaka Tribune, The Daily Star, Jamuna TV, bdnews24.com",
-  "status": "failed",
-  "at": "2026-10-03T22:09:19Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "6acb1004e817cd51",
   "url": "https://www.thedailystar.net/sports/cricket/news/155-not-out-shai-hope-leads-windies-record-chase-against-india-4289801",
   "headline": "162* not out: Shai Hope leads Windies to record chase against India",
@@ -8398,5 +8314,59 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "923cbef551a8857a",
+  "url": "https://www.thedailystar.net/news/accidents-and-fires/news/fire-destroys-century-old-jhalmal-cinema-hall-20-shops-mymensingh-4292666",
+  "headline": "Century-old Jhalmal Cinema Hall destroyed by fire in Mymensingh",
+  "topic": "mymensingh cinema hall fire",
+  "source": "The Daily Star, Prothom Alo, Dhaka Tribune, bdnews24.com",
+  "status": "queued",
+  "at": "2026-10-07T07:08:19Z"
+ },
+ {
+  "title_hash": "1eaf14ec9186452f",
+  "url": "https://www.prothomalo.com/bangladesh/district/4o6oghavtg",
+  "headline": "Century-old Jhalmal Cinema Hall destroyed by fire in Mymensingh",
+  "topic": "mymensingh cinema hall fire",
+  "source": "The Daily Star, Prothom Alo, Dhaka Tribune, bdnews24.com",
+  "status": "queued",
+  "at": "2026-10-07T07:08:19Z"
+ },
+ {
+  "title_hash": "ec2a816789fb99a8",
+  "url": "https://www.dhakatribune.com/bangladesh/421507/fire-guts-cinema-hall-20-shops-in-mymensingh",
+  "headline": "Century-old Jhalmal Cinema Hall destroyed by fire in Mymensingh",
+  "topic": "mymensingh cinema hall fire",
+  "source": "The Daily Star, Prothom Alo, Dhaka Tribune, bdnews24.com",
+  "status": "queued",
+  "at": "2026-10-07T07:08:19Z"
+ },
+ {
+  "title_hash": "007bb388150aa5c5",
+  "url": "https://bdnews24.com/bangladesh/32rr9sft0q",
+  "headline": "Century-old Jhalmal Cinema Hall destroyed by fire in Mymensingh",
+  "topic": "mymensingh cinema hall fire",
+  "source": "The Daily Star, Prothom Alo, Dhaka Tribune, bdnews24.com",
+  "status": "queued",
+  "at": "2026-10-07T07:08:19Z"
+ },
+ {
+  "title_hash": "0f86b2260ef9b748",
+  "url": "https://www.dhakatribune.com/bangladesh/crime/421508/police-officer-seen-helping-drug-dealer-raja",
+  "headline": "CCTV shows police officer helping drug dealer Raja escape in Dhaka",
+  "topic": "drug dealer raja escape",
+  "source": "Dhaka Tribune, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-07T07:08:19Z"
+ },
+ {
+  "title_hash": "d1b5f325fcf4491c",
+  "url": "https://www.prothomalo.com/bangladesh/district/wuuctwgdg1",
+  "headline": "CCTV shows police officer helping drug dealer Raja escape in Dhaka",
+  "topic": "drug dealer raja escape",
+  "source": "Dhaka Tribune, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-07T07:08:19Z"
  }
 ]
