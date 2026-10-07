@@ -1,47 +1,5 @@
 [
  {
-  "title_hash": "416c79c5d46c35b1",
-  "url": "https://www.prothomalo.com/business/personal-finance/srkaari-krmcaariiraa-tin-maaser-bkeyyaa-eksngge-paaben",
-  "headline": "Govt employees to get 3 months' arrears together",
-  "topic": "govt employees 3 month arrears",
-  "source": "Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-04T06:09:00Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "e940eec1cc9deb15",
-  "url": "https://www.prothomalo.com/business/personal-finance/nhigenktuq",
-  "headline": "Govt employees to get 3 months' arrears together",
-  "topic": "govt employees 3 month arrears",
-  "source": "Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-04T06:09:00Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "88030b7141b10280",
-  "url": "https://www.dhakatribune.com/bangladesh/foreign-affairs/421271/army-chief-leaves-dhaka-for-official-visit-to",
-  "headline": "Army chief visits Australia and US on 9-day official tour",
-  "topic": "army chief visit australia us",
-  "source": "Jamuna TV, Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-10-04T06:09:00Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "eb5691d1bb6aa18f",
   "url": "https://www.jamuna.tv/national/665421",
   "headline": "Army chief visits Australia and US on 9-day official tour",
@@ -8398,5 +8356,32 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "5247e5385f34d026",
+  "url": "https://www.dhakatribune.com/bangladesh/crime/421571/17-year-old-rakibul-abducted-for-ransom-killed-by",
+  "headline": "Student killed by friend for ransom, body found in carton in Nilphamari",
+  "topic": "rakibul abducted and killed by friend",
+  "source": "Dhaka Tribune, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-07T15:31:54Z"
+ },
+ {
+  "title_hash": "d3bc40671ca55328",
+  "url": "https://www.prothomalo.com/bangladesh/crime/9yof4fl3md",
+  "headline": "Student killed by friend for ransom, body found in carton in Nilphamari",
+  "topic": "rakibul abducted and killed by friend",
+  "source": "Dhaka Tribune, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-07T15:31:54Z"
+ },
+ {
+  "title_hash": "88d98844040922d5",
+  "url": "https://www.prothomalo.com/bangladesh/district/uirgm7eryf",
+  "headline": "5 arrested after 13-month-old baby sold for 2 lakh BDT in Mymensingh",
+  "topic": "baby sold for 2 lakh taka",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-07T15:31:54Z"
  }
 ]
