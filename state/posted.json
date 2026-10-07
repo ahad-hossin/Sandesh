@@ -8363,8 +8363,13 @@
   "headline": "UK arrests 3 over fake gay asylum claims involving Bangladeshis",
   "topic": "uk arrests gay asylum fraud bangladeshis",
   "source": "Prothom Alo, bdnews24.com",
-  "status": "queued",
-  "at": "2026-10-07T22:08:54Z"
+  "status": "failed",
+  "at": "2026-10-07T22:08:54Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "767e7d5363d394f1",
@@ -8372,8 +8377,13 @@
   "headline": "UK arrests 3 over fake gay asylum claims involving Bangladeshis",
   "topic": "uk arrests gay asylum fraud bangladeshis",
   "source": "Prothom Alo, bdnews24.com",
-  "status": "queued",
-  "at": "2026-10-07T22:08:54Z"
+  "status": "failed",
+  "at": "2026-10-07T22:08:54Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "68063179169a2456",
@@ -8381,7 +8391,12 @@
   "headline": "3 jailed after posing as CID officers to extort 1 million BDT from jewelry shop",
   "topic": "fake cid extortion gold shop",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-07T22:08:54Z"
+  "status": "failed",
+  "at": "2026-10-07T22:08:54Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
