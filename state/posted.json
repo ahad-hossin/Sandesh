@@ -8335,8 +8335,13 @@
   "headline": "MLA Humayun Kabir announces retirement from politics over vote looting claims",
   "topic": "humayun kobir quits politics",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-07T20:12:29Z"
+  "status": "failed",
+  "at": "2026-10-07T20:12:29Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "3fc97a6f98c423c4",
@@ -8344,8 +8349,13 @@
   "headline": "German tourist lost bag with laptop and camera in Natore",
   "topic": "german tourist bag stolen natore",
   "source": "Jamuna TV, Dhaka Tribune, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-07T20:12:29Z"
+  "status": "failed",
+  "at": "2026-10-07T20:12:29Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "cbece914fdb2f687",
@@ -8353,8 +8363,13 @@
   "headline": "German tourist lost bag with laptop and camera in Natore",
   "topic": "german tourist bag stolen natore",
   "source": "Jamuna TV, Dhaka Tribune, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-07T20:12:29Z"
+  "status": "failed",
+  "at": "2026-10-07T20:12:29Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "b43786e280eeaada",
@@ -8362,8 +8377,13 @@
   "headline": "German tourist lost bag with laptop and camera in Natore",
   "topic": "german tourist bag stolen natore",
   "source": "Jamuna TV, Dhaka Tribune, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-07T20:12:29Z"
+  "status": "failed",
+  "at": "2026-10-07T20:12:29Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "04aaa88d4ba6b47e",
@@ -8371,7 +8391,12 @@
   "headline": "German tourist lost bag with laptop and camera in Natore",
   "topic": "german tourist bag stolen natore",
   "source": "Jamuna TV, Dhaka Tribune, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-07T20:12:29Z"
+  "status": "failed",
+  "at": "2026-10-07T20:12:29Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
