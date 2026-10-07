@@ -8377,8 +8377,13 @@
   "headline": "MLA Humayun Kabir announces retirement from politics over vote looting claims",
   "topic": "humayun kabir quits politics",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-07T21:18:45Z"
+  "status": "failed",
+  "at": "2026-10-07T21:18:45Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "68063179169a2456",
@@ -8386,7 +8391,12 @@
   "headline": "3 fake CID officers jailed for demanding 10 lakh BDT extortion from jewelry shop",
   "topic": "cid impersonators gold shop extortion",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-07T21:18:45Z"
+  "status": "failed",
+  "at": "2026-10-07T21:18:45Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
