@@ -2,48 +2,6 @@
  {
   "title_hash": "01fb6757e143aea6",
   "url": "https://bdnews24.com/world/h4m1235l0g",
-  "headline": "Lula's lead over Bolsonaro narrows ahead of Brazil's first-round vote",
-  "topic": "brazil presidential election",
-  "source": "Prothom Alo, bdnews24.com",
-  "status": "failed",
-  "at": "2026-10-04T01:07:06Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "6f3447a628edb3e6",
-  "url": "https://www.prothomalo.com/world/south-america/q1ye1xbg6z",
-  "headline": "Lula's lead over Bolsonaro narrows ahead of Brazil's first-round vote",
-  "topic": "brazil presidential election",
-  "source": "Prothom Alo, bdnews24.com",
-  "status": "failed",
-  "at": "2026-10-04T01:07:06Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "8be4a2070541163f",
-  "url": "https://www.prothomalo.com/bangladesh/crime/3n3746gxyp",
-  "headline": "Man jailed for 10 months due to name mix-up; High Court orders investigation",
-  "topic": "Man jailed due to name similarity",
-  "source": "Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-04T02:07:29Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "01fb6757e143aea6",
-  "url": "https://bdnews24.com/world/h4m1235l0g",
   "headline": "Lula's lead over Bolsonaro narrows ahead of Brazil vote, runoff likely",
   "topic": "Brazil election Lula Bolsonaro",
   "source": "Jamuna TV, Prothom Alo, bdnews24.com",
@@ -8398,5 +8356,32 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "a27623f1e2e53d80",
+  "url": "https://www.prothomalo.com/bangladesh/crime/zy8khxirk7",
+  "headline": "Viral audio: Former OC Rakibul Islam's voice confirmed by DB",
+  "topic": "viral audio sheikh hasina return",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-07T10:08:43Z"
+ },
+ {
+  "title_hash": "76578f4d52787f45",
+  "url": "https://www.dhakatribune.com/bangladesh/court/421519/gazi-nazrul%E2%80%99s-bail-plea-rejected-in-second-wife%E2%80%99s",
+  "headline": "MP Gazi Nazrul's bail plea rejected in second wife's death case",
+  "topic": "gazi nazrul bail rejected",
+  "source": "Prothom Alo, Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-10-07T10:08:43Z"
+ },
+ {
+  "title_hash": "2431f6da83e9fa8e",
+  "url": "https://www.prothomalo.com/bangladesh/3286u3di6j",
+  "headline": "MP Gazi Nazrul's bail plea rejected in second wife's death case",
+  "topic": "gazi nazrul bail rejected",
+  "source": "Prothom Alo, Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-10-07T10:08:43Z"
  }
 ]
