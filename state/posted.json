@@ -8363,8 +8363,13 @@
   "headline": "8.34%: Inflation rises again in September after fuel price hike",
   "topic": "fuel price hike drives inflation",
   "source": "bdnews24.com",
-  "status": "queued",
-  "at": "2026-10-07T13:10:48Z"
+  "status": "failed",
+  "at": "2026-10-07T13:10:48Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "8a481725e6b2d795",
@@ -8372,8 +8377,13 @@
   "headline": "US loses 81 aircraft and drones in conflict with Iran",
   "topic": "US loses 81 aircraft in Iran conflict",
   "source": "Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-07T13:10:48Z"
+  "status": "failed",
+  "at": "2026-10-07T13:10:48Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "93876470ba21e4f2",
@@ -8381,7 +8391,12 @@
   "headline": "US loses 81 aircraft and drones in conflict with Iran",
   "topic": "US loses 81 aircraft in Iran conflict",
   "source": "Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-07T13:10:48Z"
+  "status": "failed",
+  "at": "2026-10-07T13:10:48Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
