@@ -1,47 +1,5 @@
 [
  {
-  "title_hash": "56df7c8b1697f0c8",
-  "url": "https://www.dhakatribune.com/bangladesh/health/421286/measles-outbreak-death-toll-reaches-1-125-as",
-  "headline": "1,125 dead as measles outbreak death toll reaches 1,125",
-  "topic": "measles outbreak death toll",
-  "source": "Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-10-04T10:08:35Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "6b2fa4655508b85e",
-  "url": "https://www.dhakatribune.com/bangladesh/dhaka/421284/80-gold-bars-recovered-from-airport-workers%E2%80%99-shoes",
-  "headline": "Tk 16.25 crore gold: 80 gold bars recovered from airport workers’ shoes",
-  "topic": "gold bars recovered airport shoes",
-  "source": "Dhaka Tribune, The Daily Star, bdnews24.com, Jamuna TV",
-  "status": "failed",
-  "at": "2026-10-04T11:10:53Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "275077612e6afd86",
-  "url": "https://www.thedailystar.net/news/crime-justice/news/80-gold-bars-seized-dhaka-airport-4290081",
-  "headline": "Tk 16.25 crore gold: 80 gold bars recovered from airport workers’ shoes",
-  "topic": "gold bars recovered airport shoes",
-  "source": "Dhaka Tribune, The Daily Star, bdnews24.com, Jamuna TV",
-  "status": "failed",
-  "at": "2026-10-04T11:10:53Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "ccfe651154eeec70",
   "url": "https://bdnews24.com/bangladesh/nqdww5030t",
   "headline": "Tk 16.25 crore gold: 80 gold bars recovered from airport workers’ shoes",
@@ -8398,5 +8356,32 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "6ec5fe3b4b004eea",
+  "url": "https://www.prothomalo.com/world/middle-east/30hg821elw",
+  "headline": "3 foreigners killed in attacks on two Saudi airports",
+  "topic": "saudi arabia airport attacks",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-07T23:11:24Z"
+ },
+ {
+  "title_hash": "1fd1f0a70490687d",
+  "url": "https://bdnews24.com/world/11jvuvbxoj",
+  "headline": "107 arrested as student protests erupt in Belgium over education costs",
+  "topic": "belgium student protests",
+  "source": "Prothom Alo, bdnews24.com",
+  "status": "queued",
+  "at": "2026-10-07T23:11:24Z"
+ },
+ {
+  "title_hash": "3cda1aa9eb4d555c",
+  "url": "https://www.prothomalo.com/world/europe/x1urhinsff",
+  "headline": "107 arrested as student protests erupt in Belgium over education costs",
+  "topic": "belgium student protests",
+  "source": "Prothom Alo, bdnews24.com",
+  "status": "queued",
+  "at": "2026-10-07T23:11:24Z"
  }
 ]
