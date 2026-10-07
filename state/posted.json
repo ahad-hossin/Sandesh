@@ -8349,8 +8349,13 @@
   "headline": "5 arrested after 13-month-old child allegedly sold for Tk 2 lakh in Mymensingh",
   "topic": "child sold for 2 lakh tk",
   "source": "Dhaka Tribune, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-07T16:09:02Z"
+  "status": "failed",
+  "at": "2026-10-07T16:09:02Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "88d98844040922d5",
@@ -8358,8 +8363,13 @@
   "headline": "5 arrested after 13-month-old child allegedly sold for Tk 2 lakh in Mymensingh",
   "topic": "child sold for 2 lakh tk",
   "source": "Dhaka Tribune, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-07T16:09:02Z"
+  "status": "failed",
+  "at": "2026-10-07T16:09:02Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "89d4151630de62dc",
@@ -8367,8 +8377,13 @@
   "headline": "852m gap: Bangladesh Satellite-1 narrowly avoids collision with debris",
   "topic": "bangladesh satellite saved",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-07T16:09:02Z"
+  "status": "failed",
+  "at": "2026-10-07T16:09:02Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "56da280346983f70",
@@ -8376,7 +8391,12 @@
   "headline": "852m gap: Bangladesh Satellite-1 narrowly avoids collision with debris",
   "topic": "bangladesh satellite saved",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-07T16:09:02Z"
+  "status": "failed",
+  "at": "2026-10-07T16:09:02Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
