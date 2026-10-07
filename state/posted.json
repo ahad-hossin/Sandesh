@@ -8335,8 +8335,13 @@
   "headline": "8 killed in 24 hours as dengue death toll hits 289 this year",
   "topic": "dengue deaths and infection rates",
   "source": "Jamuna TV, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-10-07T11:12:24Z"
+  "status": "failed",
+  "at": "2026-10-07T11:12:24Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "d2dd418a9dfbd425",
@@ -8344,8 +8349,13 @@
   "headline": "8 killed in 24 hours as dengue death toll hits 289 this year",
   "topic": "dengue deaths and infection rates",
   "source": "Jamuna TV, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-10-07T11:12:24Z"
+  "status": "failed",
+  "at": "2026-10-07T11:12:24Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "0e672fe9f9106494",
@@ -8353,8 +8363,13 @@
   "headline": "1,140 dead as measles outbreak worsens in Bangladesh",
   "topic": "measles outbreak and deaths",
   "source": "Prothom Alo, Dhaka Tribune, Jamuna TV",
-  "status": "queued",
-  "at": "2026-10-07T11:12:24Z"
+  "status": "failed",
+  "at": "2026-10-07T11:12:24Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "571f46d36b26af5d",
@@ -8362,8 +8377,13 @@
   "headline": "1,140 dead as measles outbreak worsens in Bangladesh",
   "topic": "measles outbreak and deaths",
   "source": "Prothom Alo, Dhaka Tribune, Jamuna TV",
-  "status": "queued",
-  "at": "2026-10-07T11:12:24Z"
+  "status": "failed",
+  "at": "2026-10-07T11:12:24Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "a6cc466f848b1e46",
@@ -8371,7 +8391,12 @@
   "headline": "1,140 dead as measles outbreak worsens in Bangladesh",
   "topic": "measles outbreak and deaths",
   "source": "Prothom Alo, Dhaka Tribune, Jamuna TV",
-  "status": "queued",
-  "at": "2026-10-07T11:12:24Z"
+  "status": "failed",
+  "at": "2026-10-07T11:12:24Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
