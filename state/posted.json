@@ -8335,8 +8335,13 @@
   "headline": "Messi plays final match for Argentina, scores and assists twice",
   "topic": "messi argentina farewell",
   "source": "bdnews24.com, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-07T14:15:32Z"
+  "status": "failed",
+  "at": "2026-10-07T14:15:32Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "31611eeba204985e",
@@ -8344,8 +8349,13 @@
   "headline": "Messi plays final match for Argentina, scores and assists twice",
   "topic": "messi argentina farewell",
   "source": "bdnews24.com, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-07T14:15:32Z"
+  "status": "failed",
+  "at": "2026-10-07T14:15:32Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "37028de6c0915173",
@@ -8353,8 +8363,13 @@
   "headline": "Messi plays final match for Argentina, scores and assists twice",
   "topic": "messi argentina farewell",
   "source": "bdnews24.com, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-07T14:15:32Z"
+  "status": "failed",
+  "at": "2026-10-07T14:15:32Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "6be251d16ad7e518",
@@ -8362,8 +8377,13 @@
   "headline": "723 tons of rice distributed as 22-day ban on ilish catching begins",
   "topic": "ilish catching ban",
   "source": "Dhaka Tribune, Jamuna TV",
-  "status": "queued",
-  "at": "2026-10-07T14:15:32Z"
+  "status": "failed",
+  "at": "2026-10-07T14:15:32Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "6e8b79d5ac030aff",
@@ -8371,7 +8391,12 @@
   "headline": "723 tons of rice distributed as 22-day ban on ilish catching begins",
   "topic": "ilish catching ban",
   "source": "Dhaka Tribune, Jamuna TV",
-  "status": "queued",
-  "at": "2026-10-07T14:15:32Z"
+  "status": "failed",
+  "at": "2026-10-07T14:15:32Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
