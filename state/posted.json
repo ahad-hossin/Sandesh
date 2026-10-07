@@ -1,75 +1,5 @@
 [
  {
-  "title_hash": "4cc07509ce4c6f46",
-  "url": "https://www.prothomalo.com/bangladesh/capital/bdejh9iaa4",
-  "headline": "Illegal liquor seized from Fu-Wang and three other Dhaka establishments in NBR raids",
-  "topic": "NBR Raids Illegal Liquor",
-  "source": "Prothom Alo, bdnews24.com",
-  "status": "failed",
-  "at": "2026-10-04T00:07:15Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "cb06410a876de3b1",
-  "url": "https://bdnews24.com/cricket/yl7cxwlg0l",
-  "headline": "Shai Hope's unbeaten 162 leads West Indies to five-wicket victory over India, denying series sweep",
-  "topic": "Cricket West Indies India Upset",
-  "source": "Jamuna TV, bdnews24.com",
-  "status": "failed",
-  "at": "2026-10-04T00:07:15Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "2f9c154a19c86cdc",
-  "url": "https://www.jamuna.tv/sports/665407",
-  "headline": "Shai Hope's unbeaten 162 leads West Indies to five-wicket victory over India, denying series sweep",
-  "topic": "Cricket West Indies India Upset",
-  "source": "Jamuna TV, bdnews24.com",
-  "status": "failed",
-  "at": "2026-10-04T00:07:15Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "581330aa82de94c8",
-  "url": "https://www.jamuna.tv/sports/665408",
-  "headline": "Spain extends winning streak with 3-1 victory over Czech Republic in Nations League",
-  "topic": "spain football win",
-  "source": "Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-04T01:07:06Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "72a8c713b52ef4c9",
-  "url": "https://www.prothomalo.com/sports/football/6cqioxymqh",
-  "headline": "Spain extends winning streak with 3-1 victory over Czech Republic in Nations League",
-  "topic": "spain football win",
-  "source": "Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-04T01:07:06Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "01fb6757e143aea6",
   "url": "https://bdnews24.com/world/h4m1235l0g",
   "headline": "Lula's lead over Bolsonaro narrows ahead of Brazil's first-round vote",
@@ -8398,5 +8328,50 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "c193a2e6e0a27fbe",
+  "url": "https://bdnews24.com/bangladesh/kch84n9g87",
+  "headline": "6 Kushtia murders: ICT to deliver verdict soon on 4 Awami League leaders",
+  "topic": "kushtia 6 murders verdict",
+  "source": "bdnews24.com, Jamuna TV",
+  "status": "queued",
+  "at": "2026-10-07T09:09:58Z"
+ },
+ {
+  "title_hash": "ff1b16aa77b20941",
+  "url": "https://www.jamuna.tv/national/665675",
+  "headline": "6 Kushtia murders: ICT to deliver verdict soon on 4 Awami League leaders",
+  "topic": "kushtia 6 murders verdict",
+  "source": "bdnews24.com, Jamuna TV",
+  "status": "queued",
+  "at": "2026-10-07T09:09:58Z"
+ },
+ {
+  "title_hash": "0f86b2260ef9b748",
+  "url": "https://www.dhakatribune.com/bangladesh/crime/421508/police-officer-seen-helping-drug-dealer-raja",
+  "headline": "CCTV shows police officer helping drug dealer Raja escape in Dhaka",
+  "topic": "picchi raja escape cctv",
+  "source": "Dhaka Tribune, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-07T09:09:58Z"
+ },
+ {
+  "title_hash": "335c51d378690129",
+  "url": "https://www.prothomalo.com/bangladesh/district/picci-raajaa-kiibhaabe-paaliyye-gelen",
+  "headline": "CCTV shows police officer helping drug dealer Raja escape in Dhaka",
+  "topic": "picchi raja escape cctv",
+  "source": "Dhaka Tribune, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-07T09:09:58Z"
+ },
+ {
+  "title_hash": "d1b5f325fcf4491c",
+  "url": "https://www.prothomalo.com/bangladesh/district/wuuctwgdg1",
+  "headline": "CCTV shows police officer helping drug dealer Raja escape in Dhaka",
+  "topic": "picchi raja escape cctv",
+  "source": "Dhaka Tribune, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-07T09:09:58Z"
  }
 ]
