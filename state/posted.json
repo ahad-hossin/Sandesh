@@ -1,33 +1,5 @@
 [
  {
-  "title_hash": "6b2fa4655508b85e",
-  "url": "https://www.dhakatribune.com/bangladesh/dhaka/421284/80-gold-bars-recovered-from-airport-workers%E2%80%99-shoes",
-  "headline": "Tk 16.25 crore gold seized: 80 gold bars found in shoes of airport staff",
-  "topic": "gold bars seized at dhaka airport",
-  "source": "Dhaka Tribune, The Daily Star, bdnews24.com, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-04T10:08:35Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "275077612e6afd86",
-  "url": "https://www.thedailystar.net/news/crime-justice/news/80-gold-bars-seized-dhaka-airport-4290081",
-  "headline": "Tk 16.25 crore gold seized: 80 gold bars found in shoes of airport staff",
-  "topic": "gold bars seized at dhaka airport",
-  "source": "Dhaka Tribune, The Daily Star, bdnews24.com, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-04T10:08:35Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "ccfe651154eeec70",
   "url": "https://bdnews24.com/bangladesh/nqdww5030t",
   "headline": "Tk 16.25 crore gold seized: 80 gold bars found in shoes of airport staff",
@@ -8398,5 +8370,23 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "0aa8a51e64dac92b",
+  "url": "https://www.prothomalo.com/world/india/wfiq9mpanw",
+  "headline": "MLA Humayun Kabir announces retirement from politics over vote looting claims",
+  "topic": "humayun kabir quits politics",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-07T21:18:45Z"
+ },
+ {
+  "title_hash": "68063179169a2456",
+  "url": "https://www.prothomalo.com/bangladesh/crime/3nan5mpg7e",
+  "headline": "3 fake CID officers jailed for demanding 10 lakh BDT extortion from jewelry shop",
+  "topic": "cid impersonators gold shop extortion",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-07T21:18:45Z"
  }
 ]
