@@ -1,75 +1,5 @@
 [
  {
-  "title_hash": "9162599ebe7deb23",
-  "url": "https://www.dhakatribune.com/bangladesh/health/421263/dengue-cases-up-74%25-deaths-27%25-from-last-year",
-  "headline": "250 dead as dengue cases surge 74% compared to last year",
-  "topic": "Bangladesh Dengue Cases Up",
-  "source": "Dhaka Tribune, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-04T04:09:50Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "b8c9cd8c44e1bb72",
-  "url": "https://www.prothomalo.com/opinion/editorial/v8z5xmjvtt",
-  "headline": "250 dead as dengue cases surge 74% compared to last year",
-  "topic": "Bangladesh Dengue Cases Up",
-  "source": "Dhaka Tribune, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-04T04:09:50Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "763ea4e3358b1bf4",
-  "url": "https://www.dhakatribune.com/bangladesh/dhaka/421269/dhaka-ranks-world-s-third-most-polluted-city",
-  "headline": "Sunday morning: Dhaka ranks world's third most polluted city",
-  "topic": "dhaka world third most polluted city",
-  "source": "Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-10-04T05:09:33Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "d12ab18766d4fe8d",
-  "url": "https://www.thedailystar.net/news/world/news/tennessee-prison-chief-resigns-after-failed-execution-christa-pike-4289996",
-  "headline": "Tennessee prison chief resigns after botched execution",
-  "topic": "tennessee prison chief resigns botched execution",
-  "source": "The Daily Star, Jamuna TV",
-  "status": "failed",
-  "at": "2026-10-04T05:09:33Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "942b11240b1446c4",
-  "url": "https://www.jamuna.tv/international/665411",
-  "headline": "Tennessee prison chief resigns after botched execution",
-  "topic": "tennessee prison chief resigns botched execution",
-  "source": "The Daily Star, Jamuna TV",
-  "status": "failed",
-  "at": "2026-10-04T05:09:33Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "416c79c5d46c35b1",
   "url": "https://www.prothomalo.com/business/personal-finance/srkaari-krmcaariiraa-tin-maaser-bkeyyaa-eksngge-paaben",
   "headline": "Govt employees to get 3 months' arrears together",
@@ -8398,5 +8328,50 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "1e0621eaf75d2191",
+  "url": "https://bdnews24.com/sport/i5agosl42b",
+  "headline": "Messi plays final match for Argentina, scores and assists twice",
+  "topic": "messi argentina farewell",
+  "source": "bdnews24.com, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-07T14:15:32Z"
+ },
+ {
+  "title_hash": "31611eeba204985e",
+  "url": "https://www.prothomalo.com/sports/football/h8j1fg4gqy",
+  "headline": "Messi plays final match for Argentina, scores and assists twice",
+  "topic": "messi argentina farewell",
+  "source": "bdnews24.com, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-07T14:15:32Z"
+ },
+ {
+  "title_hash": "37028de6c0915173",
+  "url": "https://www.prothomalo.com/sports/football/76xzk6u19b",
+  "headline": "Messi plays final match for Argentina, scores and assists twice",
+  "topic": "messi argentina farewell",
+  "source": "bdnews24.com, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-07T14:15:32Z"
+ },
+ {
+  "title_hash": "6be251d16ad7e518",
+  "url": "https://www.dhakatribune.com/bangladesh/421565/22-day-ban-on-ilish-catching-begins-at-midnight",
+  "headline": "723 tons of rice distributed as 22-day ban on ilish catching begins",
+  "topic": "ilish catching ban",
+  "source": "Dhaka Tribune, Jamuna TV",
+  "status": "queued",
+  "at": "2026-10-07T14:15:32Z"
+ },
+ {
+  "title_hash": "6e8b79d5ac030aff",
+  "url": "https://www.jamuna.tv/all-bangladesh/665670",
+  "headline": "723 tons of rice distributed as 22-day ban on ilish catching begins",
+  "topic": "ilish catching ban",
+  "source": "Dhaka Tribune, Jamuna TV",
+  "status": "queued",
+  "at": "2026-10-07T14:15:32Z"
  }
 ]
