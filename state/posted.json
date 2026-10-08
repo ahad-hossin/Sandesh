@@ -8377,8 +8377,13 @@
   "headline": "Tragedy in Dhamrai: Driver killed in head-on collision between bus and van",
   "topic": "driver killed in head-on collision in Dhamrai",
   "source": "Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-10-08T06:09:06Z"
+  "status": "failed",
+  "at": "2026-10-08T06:09:06Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "f6cf4f13c6db6e86",
@@ -8386,7 +8391,12 @@
   "headline": "New transport committee to end road extortion and mafia culture",
   "topic": "new committee to control road extortion",
   "source": "Jamuna TV",
-  "status": "queued",
-  "at": "2026-10-08T06:09:06Z"
+  "status": "failed",
+  "at": "2026-10-08T06:09:06Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
