@@ -1,61 +1,5 @@
 [
  {
-  "title_hash": "f471466ff815cc8e",
-  "url": "https://www.jamuna.tv/national/665478",
-  "headline": "Price of 12kg LPG jumps by Tk 252 amid supply crunch",
-  "topic": "lpg price hike",
-  "source": "Jamuna TV, The Daily Star",
-  "status": "failed",
-  "at": "2026-10-04T13:09:36Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "34760349c36bbb3d",
-  "url": "https://bdnews24.com/bangladesh/1vsh678eqh",
-  "headline": "1,125 dead as measles outbreak spreads across Bangladesh",
-  "topic": "measles deaths rise",
-  "source": "bdnews24.com, The Daily Star, Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-10-04T13:09:36Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "0f2a5045bca78872",
-  "url": "https://www.thedailystar.net/news/healthcare/disease/news/3-more-die-measles-symptoms-combined-toll-now-1125-4290291",
-  "headline": "1,125 dead as measles outbreak spreads across Bangladesh",
-  "topic": "measles deaths rise",
-  "source": "bdnews24.com, The Daily Star, Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-10-04T13:09:36Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "028bb462d331ecc4",
-  "url": "https://bdnews24.com/health/wht31gx2ia",
-  "headline": "1,125 dead as measles outbreak spreads across Bangladesh",
-  "topic": "measles deaths rise",
-  "source": "bdnews24.com, The Daily Star, Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-10-04T13:09:36Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "56df7c8b1697f0c8",
   "url": "https://www.dhakatribune.com/bangladesh/health/421286/measles-outbreak-death-toll-reaches-1-125-as",
   "headline": "1,125 dead as measles outbreak spreads across Bangladesh",
@@ -8398,5 +8342,41 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "404085499e38bb2c",
+  "url": "https://www.dhakatribune.com/bangladesh/government-affairs/421600/pm-chairs-meeting-on-dhaka-s-public-transport",
+  "headline": "PM chairs meeting on Dhaka's public transport management",
+  "topic": "pm meeting dhaka public transport",
+  "source": "Dhaka Tribune, Jamuna TV",
+  "status": "queued",
+  "at": "2026-10-08T07:16:10Z"
+ },
+ {
+  "title_hash": "e95013f980306392",
+  "url": "https://www.jamuna.tv/national/665739",
+  "headline": "PM chairs meeting on Dhaka's public transport management",
+  "topic": "pm meeting dhaka public transport",
+  "source": "Dhaka Tribune, Jamuna TV",
+  "status": "queued",
+  "at": "2026-10-08T07:16:10Z"
+ },
+ {
+  "title_hash": "46de446e0ae1a31a",
+  "url": "https://www.thedailystar.net/news/accidents-and-fires/news/2-rmg-workers-killed-pick-van-hits-motorcycle-chattogram-epz-4293501",
+  "headline": "Two RMG workers killed in Chattogram EPZ after pick-up van hits motorcycle",
+  "topic": "rupganj steel mill blast",
+  "source": "The Daily Star, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-08T07:16:10Z"
+ },
+ {
+  "title_hash": "f4508b6e960e7f6f",
+  "url": "https://www.prothomalo.com/bangladesh/district/ifeyhah8ml",
+  "headline": "Two RMG workers killed in Chattogram EPZ after pick-up van hits motorcycle",
+  "topic": "rupganj steel mill blast",
+  "source": "The Daily Star, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-08T07:16:10Z"
  }
 ]
