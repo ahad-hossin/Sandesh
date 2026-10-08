@@ -8349,8 +8349,13 @@
   "headline": "PM chairs meeting on Dhaka's public transport management",
   "topic": "pm meeting dhaka public transport",
   "source": "Dhaka Tribune, Jamuna TV",
-  "status": "queued",
-  "at": "2026-10-08T07:16:10Z"
+  "status": "failed",
+  "at": "2026-10-08T07:16:10Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "e95013f980306392",
@@ -8358,8 +8363,13 @@
   "headline": "PM chairs meeting on Dhaka's public transport management",
   "topic": "pm meeting dhaka public transport",
   "source": "Dhaka Tribune, Jamuna TV",
-  "status": "queued",
-  "at": "2026-10-08T07:16:10Z"
+  "status": "failed",
+  "at": "2026-10-08T07:16:10Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "46de446e0ae1a31a",
@@ -8367,8 +8377,13 @@
   "headline": "Two RMG workers killed in Chattogram EPZ after pick-up van hits motorcycle",
   "topic": "rupganj steel mill blast",
   "source": "The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-08T07:16:10Z"
+  "status": "failed",
+  "at": "2026-10-08T07:16:10Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "f4508b6e960e7f6f",
@@ -8376,7 +8391,12 @@
   "headline": "Two RMG workers killed in Chattogram EPZ after pick-up van hits motorcycle",
   "topic": "rupganj steel mill blast",
   "source": "The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-08T07:16:10Z"
+  "status": "failed",
+  "at": "2026-10-08T07:16:10Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
