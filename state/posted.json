@@ -8237,8 +8237,13 @@
   "headline": "19 million users' data leaked from Pathao, hackers demand $400k",
   "topic": "pathao data leak claim",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-08T20:09:01Z"
+  "status": "failed",
+  "at": "2026-10-08T20:09:01Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "426cf0e676d465b7",
@@ -8246,8 +8251,13 @@
   "headline": "Bangladesh signs 15-year deal with DP World to operate NCT",
   "topic": "dp world nct deal",
   "source": "Dhaka Tribune, Jamuna TV, bdnews24.com, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-08T20:09:01Z"
+  "status": "failed",
+  "at": "2026-10-08T20:09:01Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "4ae4ee1be825c9ae",
@@ -8255,8 +8265,13 @@
   "headline": "Bangladesh signs 15-year deal with DP World to operate NCT",
   "topic": "dp world nct deal",
   "source": "Dhaka Tribune, Jamuna TV, bdnews24.com, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-08T20:09:01Z"
+  "status": "failed",
+  "at": "2026-10-08T20:09:01Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "8dee8e8cd8419d21",
@@ -8264,8 +8279,13 @@
   "headline": "Bangladesh signs 15-year deal with DP World to operate NCT",
   "topic": "dp world nct deal",
   "source": "Dhaka Tribune, Jamuna TV, bdnews24.com, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-08T20:09:01Z"
+  "status": "failed",
+  "at": "2026-10-08T20:09:01Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "6b48c7e86ada10c5",
@@ -8273,8 +8293,13 @@
   "headline": "Bangladesh signs 15-year deal with DP World to operate NCT",
   "topic": "dp world nct deal",
   "source": "Dhaka Tribune, Jamuna TV, bdnews24.com, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-08T20:09:01Z"
+  "status": "failed",
+  "at": "2026-10-08T20:09:01Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "f7157ce42251584a",
@@ -8282,8 +8307,13 @@
   "headline": "Bangladesh signs 15-year deal with DP World to operate NCT",
   "topic": "dp world nct deal",
   "source": "Dhaka Tribune, Jamuna TV, bdnews24.com, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-08T20:09:01Z"
+  "status": "failed",
+  "at": "2026-10-08T20:09:01Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "c2a78b4c6a95027b",
@@ -8291,8 +8321,13 @@
   "headline": "Bangladesh signs 15-year deal with DP World to operate NCT",
   "topic": "dp world nct deal",
   "source": "Dhaka Tribune, Jamuna TV, bdnews24.com, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-08T20:09:01Z"
+  "status": "failed",
+  "at": "2026-10-08T20:09:01Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "32ce266d5f0564c9",
@@ -8300,8 +8335,13 @@
   "headline": "Bangladesh signs 15-year deal with DP World to operate NCT",
   "topic": "dp world nct deal",
   "source": "Dhaka Tribune, Jamuna TV, bdnews24.com, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-08T20:09:01Z"
+  "status": "failed",
+  "at": "2026-10-08T20:09:01Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "66ceeb34c4763604",
@@ -8309,8 +8349,13 @@
   "headline": "Bangladesh signs 15-year deal with DP World to operate NCT",
   "topic": "dp world nct deal",
   "source": "Dhaka Tribune, Jamuna TV, bdnews24.com, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-08T20:09:01Z"
+  "status": "failed",
+  "at": "2026-10-08T20:09:01Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "6d852d0547f755b9",
@@ -8318,8 +8363,13 @@
   "headline": "Bangladesh signs 15-year deal with DP World to operate NCT",
   "topic": "dp world nct deal",
   "source": "Dhaka Tribune, Jamuna TV, bdnews24.com, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-08T20:09:01Z"
+  "status": "failed",
+  "at": "2026-10-08T20:09:01Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "46fbd47338c89ace",
@@ -8327,8 +8377,13 @@
   "headline": "Bangladesh signs 15-year deal with DP World to operate NCT",
   "topic": "dp world nct deal",
   "source": "Dhaka Tribune, Jamuna TV, bdnews24.com, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-08T20:09:01Z"
+  "status": "failed",
+  "at": "2026-10-08T20:09:01Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "bc2cfe1490a3a701",
@@ -8336,7 +8391,12 @@
   "headline": "Bangladesh signs 15-year deal with DP World to operate NCT",
   "topic": "dp world nct deal",
   "source": "Dhaka Tribune, Jamuna TV, bdnews24.com, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-08T20:09:01Z"
+  "status": "failed",
+  "at": "2026-10-08T20:09:01Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
