@@ -8349,8 +8349,13 @@
   "headline": "Hackers claim 19 million Pathao users' data leaked and demand $400,000",
   "topic": "pathao data breach",
   "source": "Dhaka Tribune, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-08T23:09:25Z"
+  "status": "failed",
+  "at": "2026-10-08T23:09:25Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "bccf13c5cc2fcfc0",
@@ -8358,8 +8363,13 @@
   "headline": "Hackers claim 19 million Pathao users' data leaked and demand $400,000",
   "topic": "pathao data breach",
   "source": "Dhaka Tribune, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-08T23:09:25Z"
+  "status": "failed",
+  "at": "2026-10-08T23:09:25Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "7cb5365ce6a580cc",
@@ -8367,8 +8377,13 @@
   "headline": "Trump says US will not attack Iran before November midterms",
   "topic": "trump iran attack midterms",
   "source": "Prothom Alo, bdnews24.com",
-  "status": "queued",
-  "at": "2026-10-08T23:09:25Z"
+  "status": "failed",
+  "at": "2026-10-08T23:09:25Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "c5e6183648e05072",
@@ -8376,7 +8391,12 @@
   "headline": "Trump says US will not attack Iran before November midterms",
   "topic": "trump iran attack midterms",
   "source": "Prothom Alo, bdnews24.com",
-  "status": "queued",
-  "at": "2026-10-08T23:09:25Z"
+  "status": "failed",
+  "at": "2026-10-08T23:09:25Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
