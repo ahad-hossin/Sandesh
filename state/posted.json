@@ -1,89 +1,5 @@
 [
  {
-  "title_hash": "186eac9370cdfda4",
-  "url": "https://bdnews24.com/world/hm0n2lj5yt",
-  "headline": "Extreme heat putting pregnant women and newborns at risk, UN warns",
-  "topic": "extreme heat threatens pregnant women and newborns",
-  "source": "bdnews24.com, The Daily Star",
-  "status": "failed",
-  "at": "2026-10-05T06:10:25Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "d7284078a6124ea4",
-  "url": "https://www.thedailystar.net/news/world/news/extreme-heat-putting-pregnant-women-newborns-risk-un-climate-chief-4290801",
-  "headline": "Extreme heat putting pregnant women and newborns at risk, UN warns",
-  "topic": "extreme heat threatens pregnant women and newborns",
-  "source": "bdnews24.com, The Daily Star",
-  "status": "failed",
-  "at": "2026-10-05T06:10:25Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "ca575171e2112a6f",
-  "url": "https://bdnews24.com/bangladesh/wjfci37qfp",
-  "headline": "RU administration to file case over attack on journalists and students",
-  "topic": "attack on journalists at RU",
-  "source": "bdnews24.com, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-05T07:08:41Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "65ca836d334bede6",
-  "url": "https://www.prothomalo.com/bangladesh/district/qmmxeijx1d",
-  "headline": "RU administration to file case over attack on journalists and students",
-  "topic": "attack on journalists at RU",
-  "source": "bdnews24.com, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-05T07:08:41Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "510b36f660d68235",
-  "url": "https://www.jamuna.tv/national/665516",
-  "headline": "Rain forecast for capital: Rain and thunderstorms likely in Dhaka",
-  "topic": "PM inaugurates World Habitat Day",
-  "source": "Jamuna TV",
-  "status": "failed",
-  "at": "2026-10-05T07:08:41Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "b8b5bc1180de5b43",
-  "url": "https://www.jamuna.tv/national/665506",
-  "headline": "Rain forecast for capital: Rain and thunderstorms likely in Dhaka",
-  "topic": "PM inaugurates World Habitat Day",
-  "source": "Jamuna TV",
-  "status": "failed",
-  "at": "2026-10-05T07:08:41Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "f9972eeffa64da8b",
   "url": "https://www.dhakatribune.com/bangladesh/court/421355/appeal-filed-seeking-to-increase-inu-s-sentence",
   "headline": "Prosecution seeks death penalty for Hasanul Haq Inu in crimes against humanity case",
@@ -8398,5 +8314,59 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "36067efde6b6ae9f",
+  "url": "https://www.dhakatribune.com/bangladesh/crime/421663/hackers-claim-data-of-19m-pathao-users-demand",
+  "headline": "Hackers claim 19 million Pathao users' data leaked and demand $400,000",
+  "topic": "pathao data breach",
+  "source": "Dhaka Tribune, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-08T22:08:34Z"
+ },
+ {
+  "title_hash": "bccf13c5cc2fcfc0",
+  "url": "https://www.prothomalo.com/bangladesh/a7u6k9c50r",
+  "headline": "Hackers claim 19 million Pathao users' data leaked and demand $400,000",
+  "topic": "pathao data breach",
+  "source": "Dhaka Tribune, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-08T22:08:34Z"
+ },
+ {
+  "title_hash": "426cf0e676d465b7",
+  "url": "https://www.dhakatribune.com/bangladesh/421660/nct-deal-signed-amid-protests-police-action%C2%A0",
+  "headline": "DP World to operate Chittagong Port's NCT for 15 years amid protests",
+  "topic": "dp world nct deal",
+  "source": "Prothom Alo, Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-10-08T22:08:34Z"
+ },
+ {
+  "title_hash": "9f956a8c27042a28",
+  "url": "https://www.prothomalo.com/bangladesh/zhz5wvw7t9",
+  "headline": "DP World to operate Chittagong Port's NCT for 15 years amid protests",
+  "topic": "dp world nct deal",
+  "source": "Prothom Alo, Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-10-08T22:08:34Z"
+ },
+ {
+  "title_hash": "32ce266d5f0564c9",
+  "url": "https://www.dhakatribune.com/bangladesh/421627/police-disperse-protest-against-dp-world-deal-for",
+  "headline": "DP World to operate Chittagong Port's NCT for 15 years amid protests",
+  "topic": "dp world nct deal",
+  "source": "Prothom Alo, Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-10-08T22:08:34Z"
+ },
+ {
+  "title_hash": "6d852d0547f755b9",
+  "url": "https://www.dhakatribune.com/bangladesh/421617/bangladesh-signs-15-year-deal-with-dp-world-to",
+  "headline": "DP World to operate Chittagong Port's NCT for 15 years amid protests",
+  "topic": "dp world nct deal",
+  "source": "Prothom Alo, Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-10-08T22:08:34Z"
  }
 ]
