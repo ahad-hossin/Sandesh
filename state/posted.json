@@ -1,33 +1,5 @@
 [
  {
-  "title_hash": "1c34abb503a1e057",
-  "url": "https://www.jamuna.tv/national/665441",
-  "headline": "Jamaat leader Akhtaruzzaman sent to jail after bail denied in airport assault case",
-  "topic": "akhtaruzzaman jailed airport case",
-  "source": "Dhaka Tribune, Jamuna TV, The Daily Star, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-04T12:09:16Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "2a5bdac2cf7b49d6",
-  "url": "https://www.thedailystar.net/news/power-and-energy/news/12kg-lpg-price-jumps-tk-252-consumers-already-pay-far-above-official-rate-4290296",
-  "headline": "Price of 12kg LPG jumps by Tk 252 amid supply crunch",
-  "topic": "lpg price hike",
-  "source": "Jamuna TV, The Daily Star",
-  "status": "failed",
-  "at": "2026-10-04T13:09:36Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "f471466ff815cc8e",
   "url": "https://www.jamuna.tv/national/665478",
   "headline": "Price of 12kg LPG jumps by Tk 252 amid supply crunch",
@@ -8398,5 +8370,23 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "63aa995de1037343",
+  "url": "https://www.dhakatribune.com/bangladesh/421594/driver-killed-in-head-on-collision-between-bus",
+  "headline": "Tragedy in Dhamrai: Driver killed in head-on collision between bus and van",
+  "topic": "driver killed in head-on collision in Dhamrai",
+  "source": "Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-10-08T06:09:06Z"
+ },
+ {
+  "title_hash": "f6cf4f13c6db6e86",
+  "url": "https://www.jamuna.tv/national/665736",
+  "headline": "New transport committee to end road extortion and mafia culture",
+  "topic": "new committee to control road extortion",
+  "source": "Jamuna TV",
+  "status": "queued",
+  "at": "2026-10-08T06:09:06Z"
  }
 ]
