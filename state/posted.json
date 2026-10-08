@@ -8335,8 +8335,13 @@
   "headline": "BNP leaders take Rajshahi Medical University VC to campus from home",
   "topic": "ramebi vice-chancellor forced resignation case",
   "source": "Prothom Alo, Jamuna TV",
-  "status": "queued",
-  "at": "2026-10-08T09:09:57Z"
+  "status": "failed",
+  "at": "2026-10-08T09:09:57Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "4450ffa9b83474de",
@@ -8344,8 +8349,13 @@
   "headline": "BNP leaders take Rajshahi Medical University VC to campus from home",
   "topic": "ramebi vice-chancellor forced resignation case",
   "source": "Prothom Alo, Jamuna TV",
-  "status": "queued",
-  "at": "2026-10-08T09:09:57Z"
+  "status": "failed",
+  "at": "2026-10-08T09:09:57Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "18995911d6f0236d",
@@ -8353,8 +8363,13 @@
   "headline": "Government to set up separate heart disease centers across Bangladesh",
   "topic": "govt plans cardiac centers nationwide, foreign aid for safe water",
   "source": "Jamuna TV",
-  "status": "queued",
-  "at": "2026-10-08T09:09:57Z"
+  "status": "failed",
+  "at": "2026-10-08T09:09:57Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "96525178b78e7e50",
@@ -8362,8 +8377,13 @@
   "headline": "Government to set up separate heart disease centers across Bangladesh",
   "topic": "govt plans cardiac centers nationwide, foreign aid for safe water",
   "source": "Jamuna TV",
-  "status": "queued",
-  "at": "2026-10-08T09:09:57Z"
+  "status": "failed",
+  "at": "2026-10-08T09:09:57Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "e95013f980306392",
@@ -8371,7 +8391,12 @@
   "headline": "Government to set up separate heart disease centers across Bangladesh",
   "topic": "govt plans cardiac centers nationwide, foreign aid for safe water",
   "source": "Jamuna TV",
-  "status": "queued",
-  "at": "2026-10-08T09:09:57Z"
+  "status": "failed",
+  "at": "2026-10-08T09:09:57Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
