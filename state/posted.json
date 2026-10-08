@@ -1,61 +1,5 @@
 [
  {
-  "title_hash": "f9972eeffa64da8b",
-  "url": "https://www.dhakatribune.com/bangladesh/court/421355/appeal-filed-seeking-to-increase-inu-s-sentence",
-  "headline": "Prosecution seeks death penalty for Hasanul Haq Inu in crimes against humanity case",
-  "topic": "prosecution seeks death penalty for hasanul haq inu",
-  "source": "Dhaka Tribune, Jamuna TV, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-10-05T08:09:30Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "cb27ccf3cc88aefd",
-  "url": "https://www.jamuna.tv/national/665522",
-  "headline": "Prosecution seeks death penalty for Hasanul Haq Inu in crimes against humanity case",
-  "topic": "prosecution seeks death penalty for hasanul haq inu",
-  "source": "Dhaka Tribune, Jamuna TV, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-10-05T08:09:30Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "762d60e3cc23ca7a",
-  "url": "https://www.prothomalo.com/bangladesh/x9m5uat992",
-  "headline": "Prosecution seeks death penalty for Hasanul Haq Inu in crimes against humanity case",
-  "topic": "prosecution seeks death penalty for hasanul haq inu",
-  "source": "Dhaka Tribune, Jamuna TV, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-10-05T08:09:30Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "e9a82e327a2495e5",
-  "url": "https://www.thedailystar.net/news/crime-justice/news/prosecution-seeks-death-penalty-hasanul-haq-inu-4290926",
-  "headline": "Prosecution seeks death penalty for Hasanul Haq Inu in crimes against humanity case",
-  "topic": "prosecution seeks death penalty for hasanul haq inu",
-  "source": "Dhaka Tribune, Jamuna TV, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-10-05T08:09:30Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "67d9388c029d3e54",
   "url": "https://bdnews24.com/diaspora/3zrt1sss7z",
   "headline": "Italy to recruit 166,000 foreign workers in 2027, Bangladesh on list",
@@ -8398,5 +8342,41 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "36067efde6b6ae9f",
+  "url": "https://www.dhakatribune.com/bangladesh/crime/421663/hackers-claim-data-of-19m-pathao-users-demand",
+  "headline": "Hackers claim 19 million Pathao users' data leaked and demand $400,000",
+  "topic": "pathao data breach",
+  "source": "Dhaka Tribune, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-08T23:09:25Z"
+ },
+ {
+  "title_hash": "bccf13c5cc2fcfc0",
+  "url": "https://www.prothomalo.com/bangladesh/a7u6k9c50r",
+  "headline": "Hackers claim 19 million Pathao users' data leaked and demand $400,000",
+  "topic": "pathao data breach",
+  "source": "Dhaka Tribune, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-08T23:09:25Z"
+ },
+ {
+  "title_hash": "7cb5365ce6a580cc",
+  "url": "https://bdnews24.com/world/xxx5j2doo5",
+  "headline": "Trump says US will not attack Iran before November midterms",
+  "topic": "trump iran attack midterms",
+  "source": "Prothom Alo, bdnews24.com",
+  "status": "queued",
+  "at": "2026-10-08T23:09:25Z"
+ },
+ {
+  "title_hash": "c5e6183648e05072",
+  "url": "https://www.prothomalo.com/world/usa/99nrd6f49r",
+  "headline": "Trump says US will not attack Iran before November midterms",
+  "topic": "trump iran attack midterms",
+  "source": "Prothom Alo, bdnews24.com",
+  "status": "queued",
+  "at": "2026-10-08T23:09:25Z"
  }
 ]
