@@ -1,33 +1,5 @@
 [
  {
-  "title_hash": "1f6b827666e1ee56",
-  "url": "https://www.dhakatribune.com/bangladesh/politics/421293/jamaat-ameer-various-steps-taken-to-humiliate-a",
-  "headline": "Jamaat leader Akhtaruzzaman denied bail, sent to jail over airport incident",
-  "topic": "ex-mp akhtaruzzaman denied bail",
-  "source": "Dhaka Tribune, Jamuna TV, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-10-04T11:10:53Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "1bacbca5eb832ba9",
-  "url": "https://www.prothomalo.com/bangladesh/2a4jgvwghu",
-  "headline": "Jamaat leader Akhtaruzzaman denied bail, sent to jail over airport incident",
-  "topic": "ex-mp akhtaruzzaman denied bail",
-  "source": "Dhaka Tribune, Jamuna TV, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-10-04T11:10:53Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "6066d261afba6e2c",
   "url": "https://www.dhakatribune.com/bangladesh/court/421278/court-seeks-to-keep-akhtaruzzaman-in-jail-over",
   "headline": "Jamaat leader Akhtaruzzaman denied bail, sent to jail over airport incident",
@@ -8398,5 +8370,23 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "5e1dbf17f6490b71",
+  "url": "https://www.prothomalo.com/bangladesh/crime/jhe4maop3z",
+  "headline": "Youth group catches criminals in Tongi, sparking debate over civilian policing",
+  "topic": "youth group catches snatchers",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-08T02:06:50Z"
+ },
+ {
+  "title_hash": "bde1ae0db6986ea4",
+  "url": "https://www.prothomalo.com/chakri/chakri-news/sz9ojtjfts",
+  "headline": "Bangladesh Bank launches Tk 1,000 crore loan for overseas workers' skill development, up to Tk 10 lakh available",
+  "topic": "loan for expatriate worker skills",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-08T02:06:50Z"
  }
 ]
