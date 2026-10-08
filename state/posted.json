@@ -1,61 +1,5 @@
 [
  {
-  "title_hash": "6066d261afba6e2c",
-  "url": "https://www.dhakatribune.com/bangladesh/court/421278/court-seeks-to-keep-akhtaruzzaman-in-jail-over",
-  "headline": "Jamaat leader Akhtaruzzaman denied bail, sent to jail over airport incident",
-  "topic": "ex-mp akhtaruzzaman denied bail",
-  "source": "Dhaka Tribune, Jamuna TV, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-10-04T11:10:53Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "1c34abb503a1e057",
-  "url": "https://www.jamuna.tv/national/665441",
-  "headline": "Jamaat leader Akhtaruzzaman denied bail, sent to jail over airport incident",
-  "topic": "ex-mp akhtaruzzaman denied bail",
-  "source": "Dhaka Tribune, Jamuna TV, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-10-04T11:10:53Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "b82c82546e75854c",
-  "url": "https://www.thedailystar.net/news/politics/news/no-one-above-mistakes-jamaat-chief-akhtaruzzaman-4290011",
-  "headline": "Jamaat leader Akhtaruzzaman denied bail, sent to jail over airport incident",
-  "topic": "ex-mp akhtaruzzaman denied bail",
-  "source": "Dhaka Tribune, Jamuna TV, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-10-04T11:10:53Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "178bb961622cda71",
-  "url": "https://www.dhakatribune.com/bangladesh/power-energy/421302/12kg-lpg-cylinder-price-rises-to-tk-1-837",
-  "headline": "Price of 12kg LPG cylinder rises by Tk 252, now Tk 1,837",
-  "topic": "lpg price hike",
-  "source": "Prothom Alo, Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-10-04T12:09:16Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "bbab995b99364440",
   "url": "https://www.prothomalo.com/bangladesh/627c68dwrr",
   "headline": "Price of 12kg LPG cylinder rises by Tk 252, now Tk 1,837",
@@ -8398,5 +8342,41 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "ccf6918894d271e3",
+  "url": "https://www.prothomalo.com/business/economics/pfuxus4b1d",
+  "headline": "8 million Bangladeshis became poor in 4 years; 62 million more at risk, says World Bank",
+  "topic": "Bangladesh poverty increases, millions at risk",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-08T03:07:02Z"
+ },
+ {
+  "title_hash": "0e47a66c33409a54",
+  "url": "https://bdnews24.com/world/middle-east/1p5fc751h4",
+  "headline": "3 killed, 36 wounded in Houthi attacks on Saudi airports amid escalating Yemen conflict",
+  "topic": "Saudi airport attacks and Houthi conflict",
+  "source": "bdnews24.com, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-08T03:07:02Z"
+ },
+ {
+  "title_hash": "54d36b3152a90c02",
+  "url": "https://www.prothomalo.com/world/middle-east/1wmy6j5117",
+  "headline": "3 killed, 36 wounded in Houthi attacks on Saudi airports amid escalating Yemen conflict",
+  "topic": "Saudi airport attacks and Houthi conflict",
+  "source": "bdnews24.com, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-08T03:07:02Z"
+ },
+ {
+  "title_hash": "6ec5fe3b4b004eea",
+  "url": "https://www.prothomalo.com/world/middle-east/30hg821elw",
+  "headline": "3 killed, 36 wounded in Houthi attacks on Saudi airports amid escalating Yemen conflict",
+  "topic": "Saudi airport attacks and Houthi conflict",
+  "source": "bdnews24.com, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-08T03:07:02Z"
  }
 ]
