@@ -1,33 +1,5 @@
 [
  {
-  "title_hash": "ccfe651154eeec70",
-  "url": "https://bdnews24.com/bangladesh/nqdww5030t",
-  "headline": "Tk 16.25 crore gold: 80 gold bars recovered from airport workers’ shoes",
-  "topic": "gold bars recovered airport shoes",
-  "source": "Dhaka Tribune, The Daily Star, bdnews24.com, Jamuna TV",
-  "status": "failed",
-  "at": "2026-10-04T11:10:53Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "6fbdf4afa8dd7c3b",
-  "url": "https://www.jamuna.tv/national/665436",
-  "headline": "Tk 16.25 crore gold: 80 gold bars recovered from airport workers’ shoes",
-  "topic": "gold bars recovered airport shoes",
-  "source": "Dhaka Tribune, The Daily Star, bdnews24.com, Jamuna TV",
-  "status": "failed",
-  "at": "2026-10-04T11:10:53Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "5a4d66ef46ee8d25",
   "url": "https://www.dhakatribune.com/bangladesh/court/421299/ex-mp-akhtaruzzaman-denied-bail-sent-to-jail",
   "headline": "Jamaat leader Akhtaruzzaman denied bail, sent to jail over airport incident",
@@ -8398,5 +8370,23 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "6ec5fe3b4b004eea",
+  "url": "https://www.prothomalo.com/world/middle-east/30hg821elw",
+  "headline": "3 foreign nationals killed, 36 injured in attacks on two Saudi international airports",
+  "topic": "saudi airport attacks",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-08T00:07:24Z"
+ },
+ {
+  "title_hash": "d947939ffa50c27f",
+  "url": "https://www.prothomalo.com/bangladesh/8816zmfatw",
+  "headline": "Mother testifies about son's death and threat at ICT, implicates top leaders in July uprising case",
+  "topic": "al leader threatens martyr mother",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-08T00:07:24Z"
  }
 ]
