@@ -8349,8 +8349,13 @@
   "headline": "8 million Bangladeshis became poor in 4 years; 62 million more at risk, says World Bank",
   "topic": "Bangladesh poverty increases, millions at risk",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-08T03:07:02Z"
+  "status": "failed",
+  "at": "2026-10-08T03:07:02Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "0e47a66c33409a54",
@@ -8358,8 +8363,13 @@
   "headline": "3 killed, 36 wounded in Houthi attacks on Saudi airports amid escalating Yemen conflict",
   "topic": "Saudi airport attacks and Houthi conflict",
   "source": "bdnews24.com, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-08T03:07:02Z"
+  "status": "failed",
+  "at": "2026-10-08T03:07:02Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "54d36b3152a90c02",
@@ -8367,8 +8377,13 @@
   "headline": "3 killed, 36 wounded in Houthi attacks on Saudi airports amid escalating Yemen conflict",
   "topic": "Saudi airport attacks and Houthi conflict",
   "source": "bdnews24.com, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-08T03:07:02Z"
+  "status": "failed",
+  "at": "2026-10-08T03:07:02Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "6ec5fe3b4b004eea",
@@ -8376,7 +8391,12 @@
   "headline": "3 killed, 36 wounded in Houthi attacks on Saudi airports amid escalating Yemen conflict",
   "topic": "Saudi airport attacks and Houthi conflict",
   "source": "bdnews24.com, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-08T03:07:02Z"
+  "status": "failed",
+  "at": "2026-10-08T03:07:02Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
