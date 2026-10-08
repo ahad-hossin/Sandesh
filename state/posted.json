@@ -8377,8 +8377,13 @@
   "headline": "3 foreign nationals killed, 36 injured in attacks on two Saudi international airports",
   "topic": "saudi airport attacks",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-08T00:07:24Z"
+  "status": "failed",
+  "at": "2026-10-08T00:07:24Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "d947939ffa50c27f",
@@ -8386,7 +8391,12 @@
   "headline": "Mother testifies about son's death and threat at ICT, implicates top leaders in July uprising case",
   "topic": "al leader threatens martyr mother",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-08T00:07:24Z"
+  "status": "failed",
+  "at": "2026-10-08T00:07:24Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
