@@ -1,75 +1,5 @@
 [
  {
-  "title_hash": "63833b6d7e02f4b7",
-  "url": "https://www.thedailystar.net/news/crime-justice/news/akhtaruzzaman-sent-jail-after-remand-airport-assault-case-4290221",
-  "headline": "Courtroom chaos: Jamaat leader Akhtaruzzaman denied bail, sent to jail",
-  "topic": "akhtaruzzaman bail denied",
-  "source": "Prothom Alo, bdnews24.com, Jamuna TV, Dhaka Tribune, The Daily Star",
-  "status": "failed",
-  "at": "2026-10-04T15:09:21Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "6066d261afba6e2c",
-  "url": "https://www.dhakatribune.com/bangladesh/court/421278/court-seeks-to-keep-akhtaruzzaman-in-jail-over",
-  "headline": "Courtroom chaos: Jamaat leader Akhtaruzzaman denied bail, sent to jail",
-  "topic": "akhtaruzzaman bail denied",
-  "source": "Prothom Alo, bdnews24.com, Jamuna TV, Dhaka Tribune, The Daily Star",
-  "status": "failed",
-  "at": "2026-10-04T15:09:21Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "e8ebdadfe1343b84",
-  "url": "https://www.dhakatribune.com/bangladesh/power-energy/421334/lpg-price-hike-adds-to-consumer-woes-amid-supply",
-  "headline": "12kg LPG cylinder price rises by Tk 252 to Tk 1,837",
-  "topic": "lpg price hike",
-  "source": "Dhaka Tribune, bdnews24.com, The Daily Star",
-  "status": "failed",
-  "at": "2026-10-04T16:10:51Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "a2e4f83fd7c9a69a",
-  "url": "https://bdnews24.com/business/zkeavw7sdp",
-  "headline": "12kg LPG cylinder price rises by Tk 252 to Tk 1,837",
-  "topic": "lpg price hike",
-  "source": "Dhaka Tribune, bdnews24.com, The Daily Star",
-  "status": "failed",
-  "at": "2026-10-04T16:10:51Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "178bb961622cda71",
-  "url": "https://www.dhakatribune.com/bangladesh/power-energy/421302/12kg-lpg-cylinder-price-rises-to-tk-1-837",
-  "headline": "12kg LPG cylinder price rises by Tk 252 to Tk 1,837",
-  "topic": "lpg price hike",
-  "source": "Dhaka Tribune, bdnews24.com, The Daily Star",
-  "status": "failed",
-  "at": "2026-10-04T16:10:51Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "2a5bdac2cf7b49d6",
   "url": "https://www.thedailystar.net/news/power-and-energy/news/12kg-lpg-price-jumps-tk-252-consumers-already-pay-far-above-official-rate-4290296",
   "headline": "12kg LPG cylinder price rises by Tk 252 to Tk 1,837",
@@ -8398,5 +8328,50 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "404085499e38bb2c",
+  "url": "https://www.dhakatribune.com/bangladesh/government-affairs/421600/pm-chairs-meeting-on-dhaka-s-public-transport",
+  "headline": "PM chairs meeting on Dhaka's public transport management",
+  "topic": "pm_meeting_dhaka_transport",
+  "source": "Prothom Alo, Dhaka Tribune, Jamuna TV",
+  "status": "queued",
+  "at": "2026-10-08T10:09:13Z"
+ },
+ {
+  "title_hash": "4008edafb4d0ec08",
+  "url": "https://www.prothomalo.com/bangladesh/q3nuqq86d0",
+  "headline": "PM chairs meeting on Dhaka's public transport management",
+  "topic": "pm_meeting_dhaka_transport",
+  "source": "Prothom Alo, Dhaka Tribune, Jamuna TV",
+  "status": "queued",
+  "at": "2026-10-08T10:09:13Z"
+ },
+ {
+  "title_hash": "e95013f980306392",
+  "url": "https://www.jamuna.tv/national/665739",
+  "headline": "PM chairs meeting on Dhaka's public transport management",
+  "topic": "pm_meeting_dhaka_transport",
+  "source": "Prothom Alo, Dhaka Tribune, Jamuna TV",
+  "status": "queued",
+  "at": "2026-10-08T10:09:13Z"
+ },
+ {
+  "title_hash": "f7942efd4ec6b5a1",
+  "url": "https://www.prothomalo.com/bangladesh/district/omv8xyfdjn",
+  "headline": "2 days after restart, Jamuna Fertilizer plant shuts down again",
+  "topic": "jamuna_fertilizer_factory_closed",
+  "source": "Prothom Alo, Jamuna TV",
+  "status": "queued",
+  "at": "2026-10-08T10:09:13Z"
+ },
+ {
+  "title_hash": "341133ca3b717896",
+  "url": "https://www.jamuna.tv/all-bangladesh/665741",
+  "headline": "2 days after restart, Jamuna Fertilizer plant shuts down again",
+  "topic": "jamuna_fertilizer_factory_closed",
+  "source": "Prothom Alo, Jamuna TV",
+  "status": "queued",
+  "at": "2026-10-08T10:09:13Z"
  }
 ]
