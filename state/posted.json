@@ -1,33 +1,5 @@
 [
  {
-  "title_hash": "5a4d66ef46ee8d25",
-  "url": "https://www.dhakatribune.com/bangladesh/court/421299/ex-mp-akhtaruzzaman-denied-bail-sent-to-jail",
-  "headline": "Jamaat leader Akhtaruzzaman denied bail, sent to jail over airport incident",
-  "topic": "ex-mp akhtaruzzaman denied bail",
-  "source": "Dhaka Tribune, Jamuna TV, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-10-04T11:10:53Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "5216efb123e47b56",
-  "url": "https://www.jamuna.tv/national/665463",
-  "headline": "Jamaat leader Akhtaruzzaman denied bail, sent to jail over airport incident",
-  "topic": "ex-mp akhtaruzzaman denied bail",
-  "source": "Dhaka Tribune, Jamuna TV, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-10-04T11:10:53Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "1f6b827666e1ee56",
   "url": "https://www.dhakatribune.com/bangladesh/politics/421293/jamaat-ameer-various-steps-taken-to-humiliate-a",
   "headline": "Jamaat leader Akhtaruzzaman denied bail, sent to jail over airport incident",
@@ -8398,5 +8370,23 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "27a7f29f59315193",
+  "url": "https://www.prothomalo.com/world/n0v4qnfff5",
+  "headline": "WHO urges lifestyle changes over drugs for childhood obesity, new global guidelines state",
+  "topic": "child obesity lifestyle change",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-08T01:06:54Z"
+ },
+ {
+  "title_hash": "6ec5fe3b4b004eea",
+  "url": "https://www.prothomalo.com/world/middle-east/30hg821elw",
+  "headline": "3 foreign nationals killed, 36 injured in attacks on two Saudi international airports",
+  "topic": "Saudi airport attacks deaths",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-08T01:06:54Z"
  }
 ]
