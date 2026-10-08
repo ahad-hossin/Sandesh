@@ -8321,8 +8321,13 @@
   "headline": "2,500MW shortage: 35 power plants shut causing widespread load shedding",
   "topic": "power plant shutdowns due to fuel shortage",
   "source": "Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-10-08T12:07:32Z"
+  "status": "failed",
+  "at": "2026-10-08T12:07:32Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "c21e2a0241f36899",
@@ -8330,8 +8335,13 @@
   "headline": "2,500MW shortage: 35 power plants shut causing widespread load shedding",
   "topic": "power plant shutdowns due to fuel shortage",
   "source": "Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-10-08T12:07:32Z"
+  "status": "failed",
+  "at": "2026-10-08T12:07:32Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "82143c634f8e89b6",
@@ -8339,8 +8349,13 @@
   "headline": "Measles outbreak: 4 die in 24 hours as death toll hits 1,144",
   "topic": "measles outbreak deaths and hospitalizations",
   "source": "bdnews24.com, Jamuna TV, Prothom Alo, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-10-08T12:07:32Z"
+  "status": "failed",
+  "at": "2026-10-08T12:07:32Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "d305dff8c701e14d",
@@ -8348,8 +8363,13 @@
   "headline": "Measles outbreak: 4 die in 24 hours as death toll hits 1,144",
   "topic": "measles outbreak deaths and hospitalizations",
   "source": "bdnews24.com, Jamuna TV, Prothom Alo, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-10-08T12:07:32Z"
+  "status": "failed",
+  "at": "2026-10-08T12:07:32Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "3f9b77d664ced7b0",
@@ -8357,8 +8377,13 @@
   "headline": "Measles outbreak: 4 die in 24 hours as death toll hits 1,144",
   "topic": "measles outbreak deaths and hospitalizations",
   "source": "bdnews24.com, Jamuna TV, Prothom Alo, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-10-08T12:07:32Z"
+  "status": "failed",
+  "at": "2026-10-08T12:07:32Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "12f6924316a3c4b4",
@@ -8366,7 +8391,12 @@
   "headline": "Measles outbreak: 4 die in 24 hours as death toll hits 1,144",
   "topic": "measles outbreak deaths and hospitalizations",
   "source": "bdnews24.com, Jamuna TV, Prothom Alo, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-10-08T12:07:32Z"
+  "status": "failed",
+  "at": "2026-10-08T12:07:32Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
