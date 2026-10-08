@@ -8321,8 +8321,13 @@
   "headline": "Hackers claim 19 million Pathao users' data leaked and demand $400,000",
   "topic": "pathao data breach",
   "source": "Dhaka Tribune, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-08T22:08:34Z"
+  "status": "failed",
+  "at": "2026-10-08T22:08:34Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "bccf13c5cc2fcfc0",
@@ -8330,8 +8335,13 @@
   "headline": "Hackers claim 19 million Pathao users' data leaked and demand $400,000",
   "topic": "pathao data breach",
   "source": "Dhaka Tribune, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-08T22:08:34Z"
+  "status": "failed",
+  "at": "2026-10-08T22:08:34Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "426cf0e676d465b7",
@@ -8339,8 +8349,13 @@
   "headline": "DP World to operate Chittagong Port's NCT for 15 years amid protests",
   "topic": "dp world nct deal",
   "source": "Prothom Alo, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-10-08T22:08:34Z"
+  "status": "failed",
+  "at": "2026-10-08T22:08:34Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "9f956a8c27042a28",
@@ -8348,8 +8363,13 @@
   "headline": "DP World to operate Chittagong Port's NCT for 15 years amid protests",
   "topic": "dp world nct deal",
   "source": "Prothom Alo, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-10-08T22:08:34Z"
+  "status": "failed",
+  "at": "2026-10-08T22:08:34Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "32ce266d5f0564c9",
@@ -8357,8 +8377,13 @@
   "headline": "DP World to operate Chittagong Port's NCT for 15 years amid protests",
   "topic": "dp world nct deal",
   "source": "Prothom Alo, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-10-08T22:08:34Z"
+  "status": "failed",
+  "at": "2026-10-08T22:08:34Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "6d852d0547f755b9",
@@ -8366,7 +8391,12 @@
   "headline": "DP World to operate Chittagong Port's NCT for 15 years amid protests",
   "topic": "dp world nct deal",
   "source": "Prothom Alo, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-10-08T22:08:34Z"
+  "status": "failed",
+  "at": "2026-10-08T22:08:34Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
