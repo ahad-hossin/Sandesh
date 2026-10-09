@@ -8335,8 +8335,13 @@
   "headline": "Tk 30 million looted from bKash car in Sreepur; manager shot",
   "topic": "bkash manager shot 30 crore looted",
   "source": "Dhaka Tribune, bdnews24.com",
-  "status": "queued",
-  "at": "2026-10-09T19:09:35Z"
+  "status": "failed",
+  "at": "2026-10-09T19:09:35Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "6ca51e8c69802636",
@@ -8344,8 +8349,13 @@
   "headline": "Tk 30 million looted from bKash car in Sreepur; manager shot",
   "topic": "bkash manager shot 30 crore looted",
   "source": "Dhaka Tribune, bdnews24.com",
-  "status": "queued",
-  "at": "2026-10-09T19:09:35Z"
+  "status": "failed",
+  "at": "2026-10-09T19:09:35Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "79c65f0606485eb5",
@@ -8353,8 +8363,13 @@
   "headline": "250-run chase: West Indies beat India in record-breaking T20I",
   "topic": "west indies beat india in high scoring t20",
   "source": "Jamuna TV, The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-09T19:09:35Z"
+  "status": "failed",
+  "at": "2026-10-09T19:09:35Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "d5fb6d987d7a7b84",
@@ -8362,8 +8377,13 @@
   "headline": "250-run chase: West Indies beat India in record-breaking T20I",
   "topic": "west indies beat india in high scoring t20",
   "source": "Jamuna TV, The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-09T19:09:35Z"
+  "status": "failed",
+  "at": "2026-10-09T19:09:35Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "8dbd26d692856187",
@@ -8371,7 +8391,12 @@
   "headline": "250-run chase: West Indies beat India in record-breaking T20I",
   "topic": "west indies beat india in high scoring t20",
   "source": "Jamuna TV, The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-09T19:09:35Z"
+  "status": "failed",
+  "at": "2026-10-09T19:09:35Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
