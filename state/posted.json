@@ -1,47 +1,5 @@
 [
  {
-  "title_hash": "f9972eeffa64da8b",
-  "url": "https://www.dhakatribune.com/bangladesh/court/421355/appeal-filed-seeking-to-increase-inu-s-sentence",
-  "headline": "Prosecution seeks death penalty for Hasanul Haq Inu",
-  "topic": "death penalty seek for hasanul haq inu",
-  "source": "The Daily Star, Dhaka Tribune, bdnews24.com, Jamuna TV",
-  "status": "failed",
-  "at": "2026-10-05T10:08:49Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "d16a868e394fcfd3",
-  "url": "https://bdnews24.com/bangladesh/ks0nz6k2rp",
-  "headline": "Prosecution seeks death penalty for Hasanul Haq Inu",
-  "topic": "death penalty seek for hasanul haq inu",
-  "source": "The Daily Star, Dhaka Tribune, bdnews24.com, Jamuna TV",
-  "status": "failed",
-  "at": "2026-10-05T10:08:49Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "cb27ccf3cc88aefd",
-  "url": "https://www.jamuna.tv/national/665522",
-  "headline": "Prosecution seeks death penalty for Hasanul Haq Inu",
-  "topic": "death penalty seek for hasanul haq inu",
-  "source": "The Daily Star, Dhaka Tribune, bdnews24.com, Jamuna TV",
-  "status": "failed",
-  "at": "2026-10-05T10:08:49Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "e5773f8982734b7c",
   "url": "https://www.thedailystar.net/news/news/lpg-cylinders-sell-tk-3500-bandarban-town-against-govt-rate-tk-1850-4290981",
   "headline": "LPG cylinders sell for Tk 3,500 in Bandarban, nearly double govt rate",
@@ -8398,5 +8356,32 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "aaeccb450a522927",
+  "url": "https://www.jamuna.tv/sports/665782",
+  "headline": "Bangladesh faces Afghanistan in historic red-ball Test in UAE",
+  "topic": "bangladesh afghanistan cricket match",
+  "source": "Jamuna TV, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-09T03:06:55Z"
+ },
+ {
+  "title_hash": "0a15db6bbc155be0",
+  "url": "https://www.prothomalo.com/sports/cricket/lugnd1jp62",
+  "headline": "Bangladesh faces Afghanistan in historic red-ball Test in UAE",
+  "topic": "bangladesh afghanistan cricket match",
+  "source": "Jamuna TV, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-09T03:06:55Z"
+ },
+ {
+  "title_hash": "b92ddf1c3fcfdb74",
+  "url": "https://www.prothomalo.com/opinion/column/xm6vl3zkh6",
+  "headline": "Dengue vaccine now available in Australia, but Bangladesh, facing severe outbreak, awaits",
+  "topic": "dengue vaccine australia bangladesh",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-09T03:06:55Z"
  }
 ]
