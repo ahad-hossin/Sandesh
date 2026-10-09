@@ -1,33 +1,5 @@
 [
  {
-  "title_hash": "24816bf3342bd8b5",
-  "url": "https://www.jamuna.tv/campus/665580",
-  "headline": "RU hall provost withdrawn after attack on journalists; probe ordered within 72 hours",
-  "topic": "Rajshahi University journalist attack",
-  "source": "Jamuna TV, Prothom Alo, Dhaka Tribune, The Daily Star",
-  "status": "failed",
-  "at": "2026-10-06T02:07:09Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "8917fbf910f53e47",
-  "url": "https://www.prothomalo.com/bangladesh/district/b7czzb2n86",
-  "headline": "RU hall provost withdrawn after attack on journalists; probe ordered within 72 hours",
-  "topic": "Rajshahi University journalist attack",
-  "source": "Jamuna TV, Prothom Alo, Dhaka Tribune, The Daily Star",
-  "status": "failed",
-  "at": "2026-10-06T02:07:09Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "6abe7dbf8e907f8f",
   "url": "https://www.thedailystar.net/news/crime-justice/news/attack-ru-journos-7-jcd-men-identified-rus-case-names-none-4291561",
   "headline": "RU hall provost withdrawn after attack on journalists; probe ordered within 72 hours",
@@ -8398,5 +8370,23 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "e334bf5814d8983e",
+  "url": "https://www.dhakatribune.com/bangladesh/crime/421728/bkash-manager-shot-tk3-core-looted-in-sreepur",
+  "headline": "Tk3 crore looted: bKash manager shot in Sreepur",
+  "topic": "bKash manager shot, Tk3C looted in Sreepur",
+  "source": "Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-10-09T17:11:18Z"
+ },
+ {
+  "title_hash": "711218b9bd4867cc",
+  "url": "https://www.prothomalo.com/bangladesh/district/ih0eswqny1",
+  "headline": "Over Tk 3 crore stolen in armed robbery; one injured in firing",
+  "topic": "10 motorcycles, car shooting, Tk3C looted",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-09T17:11:18Z"
  }
 ]
