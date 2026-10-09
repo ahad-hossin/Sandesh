@@ -1,47 +1,5 @@
 [
  {
-  "title_hash": "5d2a599b2aa9f7fd",
-  "url": "https://bdnews24.com/campus/896puxcktu",
-  "headline": "Police tighten security after BRAC University receives bomb threat via email",
-  "topic": "brac university bomb threat",
-  "source": "Prothom Alo, Dhaka Tribune, bdnews24.com",
-  "status": "failed",
-  "at": "2026-10-05T13:07:28Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "6813e4bf5e3bd087",
-  "url": "https://bdnews24.com/health/6223z4mtv3",
-  "headline": "9 deaths in 24 hours: Dengue death toll rises to 271 this year",
-  "topic": "dengue death toll rise",
-  "source": "bdnews24.com, Dhaka Tribune, Jamuna TV",
-  "status": "failed",
-  "at": "2026-10-05T13:07:28Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "3f11dbfedf25cd2b",
-  "url": "https://www.dhakatribune.com/bangladesh/health/421380/dengue-death-toll-rises-to-271-as-nine-more-die",
-  "headline": "9 deaths in 24 hours: Dengue death toll rises to 271 this year",
-  "topic": "dengue death toll rise",
-  "source": "bdnews24.com, Dhaka Tribune, Jamuna TV",
-  "status": "failed",
-  "at": "2026-10-05T13:07:28Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "fd7d6c727ad16cea",
   "url": "https://www.jamuna.tv/national/665552",
   "headline": "9 deaths in 24 hours: Dengue death toll rises to 271 this year",
@@ -8398,5 +8356,32 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "79e569efd639a34b",
+  "url": "https://www.thedailystar.net/news/bangladesh/news/five-more-die-dengue-1935-get-hospitalised-4294116",
+  "headline": "1,935 hospitalised as five more die of dengue in 24 hours",
+  "topic": "dengue deaths update",
+  "source": "The Daily Star, bdnews24.com",
+  "status": "queued",
+  "at": "2026-10-09T08:15:22Z"
+ },
+ {
+  "title_hash": "70d7b9fd6c33964a",
+  "url": "https://bdnews24.com/health/1kmnepzzn1",
+  "headline": "1,935 hospitalised as five more die of dengue in 24 hours",
+  "topic": "dengue deaths update",
+  "source": "The Daily Star, bdnews24.com",
+  "status": "queued",
+  "at": "2026-10-09T08:15:22Z"
+ },
+ {
+  "title_hash": "1d16443313086305",
+  "url": "https://www.thedailystar.net/news/bangladesh/news/dhaka-get-two-franchise-bus-routes-7-days-4294151",
+  "headline": "Dhaka to launch two franchise bus routes in 7 days as part of city-wide overhaul",
+  "topic": "dhaka franchise bus routes",
+  "source": "The Daily Star",
+  "status": "queued",
+  "at": "2026-10-09T08:15:22Z"
  }
 ]
