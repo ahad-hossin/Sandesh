@@ -8335,8 +8335,13 @@
   "headline": "RU: Suspension recommended for 4 students after attack on journalists",
   "topic": "ru journalists attack suspension",
   "source": "Jamuna TV, Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-09T10:15:11Z"
+  "status": "failed",
+  "at": "2026-10-09T10:15:11Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "492ce46b987f0db3",
@@ -8344,8 +8349,13 @@
   "headline": "RU: Suspension recommended for 4 students after attack on journalists",
   "topic": "ru journalists attack suspension",
   "source": "Jamuna TV, Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-09T10:15:11Z"
+  "status": "failed",
+  "at": "2026-10-09T10:15:11Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "c27d8de8c2e09d82",
@@ -8353,8 +8363,13 @@
   "headline": "RU: Suspension recommended for 4 students after attack on journalists",
   "topic": "ru journalists attack suspension",
   "source": "Jamuna TV, Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-09T10:15:11Z"
+  "status": "failed",
+  "at": "2026-10-09T10:15:11Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "2cf1c8ffb262bbd0",
@@ -8362,8 +8377,13 @@
   "headline": "DNCC to repaint Metro Rail pillars with July graffiti",
   "topic": "dncc repaint july graffiti",
   "source": "Dhaka Tribune, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-09T10:15:11Z"
+  "status": "failed",
+  "at": "2026-10-09T10:15:11Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "a7b6a2337fb3974f",
@@ -8371,7 +8391,12 @@
   "headline": "DNCC to repaint Metro Rail pillars with July graffiti",
   "topic": "dncc repaint july graffiti",
   "source": "Dhaka Tribune, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-09T10:15:11Z"
+  "status": "failed",
+  "at": "2026-10-09T10:15:11Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
