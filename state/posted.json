@@ -8363,8 +8363,13 @@
   "headline": "Bangladesh faces Afghanistan in historic red-ball Test in UAE",
   "topic": "bangladesh afghanistan cricket match",
   "source": "Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-09T03:06:55Z"
+  "status": "failed",
+  "at": "2026-10-09T03:06:55Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "0a15db6bbc155be0",
@@ -8372,8 +8377,13 @@
   "headline": "Bangladesh faces Afghanistan in historic red-ball Test in UAE",
   "topic": "bangladesh afghanistan cricket match",
   "source": "Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-09T03:06:55Z"
+  "status": "failed",
+  "at": "2026-10-09T03:06:55Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "b92ddf1c3fcfdb74",
@@ -8381,7 +8391,12 @@
   "headline": "Dengue vaccine now available in Australia, but Bangladesh, facing severe outbreak, awaits",
   "topic": "dengue vaccine australia bangladesh",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-09T03:06:55Z"
+  "status": "failed",
+  "at": "2026-10-09T03:06:55Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
