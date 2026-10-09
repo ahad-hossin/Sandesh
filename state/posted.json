@@ -1,33 +1,5 @@
 [
  {
-  "title_hash": "82920abb479423d1",
-  "url": "https://www.prothomalo.com/sports/football/2elibh8dgr",
-  "headline": "End of an era: Messi prepares for final match for Argentina",
-  "topic": "messi final match monumentales",
-  "source": "The Daily Star, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-06T04:09:12Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "243204524c14a47f",
-  "url": "https://www.dhakatribune.com/bangladesh/health/421423/dengue-cases-surge-in-chittagong-21-deaths",
-  "headline": "21 deaths recorded as dengue cases surge in Chittagong this year",
-  "topic": "chittagong dengue surge",
-  "source": "Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-10-06T05:14:36Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "afd09397770af446",
   "url": "https://bdnews24.com/sport/pazn5t8zpg",
   "headline": "Olise brace as France thrash Belgium 4-1 in Nations League comeback",
@@ -8398,5 +8370,23 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "e334bf5814d8983e",
+  "url": "https://www.dhakatribune.com/bangladesh/crime/421728/bkash-manager-shot-tk3-core-looted-in-sreepur",
+  "headline": "bKash manager shot and Tk3C looted in Sreepur",
+  "topic": "bKash manager shot, money looted",
+  "source": "Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-10-09T20:09:33Z"
+ },
+ {
+  "title_hash": "1a60d4a9746a3a89",
+  "url": "https://www.dhakatribune.com/bangladesh/health/421730/world-mental-health-day",
+  "headline": "9 in 10 Bangladeshis with mental health conditions go untreated",
+  "topic": "mental health treatment gap in Bangladesh",
+  "source": "Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-10-09T20:09:33Z"
  }
 ]
