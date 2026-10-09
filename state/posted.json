@@ -8349,8 +8349,13 @@
   "headline": "Tigers opt to bat first in one-off Test against Afghanistan",
   "topic": "bangladesh vs afghanistan test",
   "source": "The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-09T07:08:25Z"
+  "status": "failed",
+  "at": "2026-10-09T07:08:25Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "6ac579cc1d878f76",
@@ -8358,8 +8363,13 @@
   "headline": "Tigers opt to bat first in one-off Test against Afghanistan",
   "topic": "bangladesh vs afghanistan test",
   "source": "The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-09T07:08:25Z"
+  "status": "failed",
+  "at": "2026-10-09T07:08:25Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "2cf2bf3ef3738712",
@@ -8367,8 +8377,13 @@
   "headline": "Gold prices rise by up to 2,216 taka per bhori in Bangladesh",
   "topic": "gold price hike",
   "source": "Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-09T07:08:25Z"
+  "status": "failed",
+  "at": "2026-10-09T07:08:25Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "5b46006eaf186345",
@@ -8376,7 +8391,12 @@
   "headline": "Gold prices rise by up to 2,216 taka per bhori in Bangladesh",
   "topic": "gold price hike",
   "source": "Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-09T07:08:25Z"
+  "status": "failed",
+  "at": "2026-10-09T07:08:25Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
