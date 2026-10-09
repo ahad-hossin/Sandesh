@@ -8335,8 +8335,13 @@
   "headline": "Market turmoil: Prices of fish, eggs, and vegetables surge in Dhaka",
   "topic": "market price hike and lpg crisis",
   "source": "Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-09T05:07:51Z"
+  "status": "failed",
+  "at": "2026-10-09T05:07:51Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "7016cecf5833b0b1",
@@ -8344,8 +8349,13 @@
   "headline": "Market turmoil: Prices of fish, eggs, and vegetables surge in Dhaka",
   "topic": "market price hike and lpg crisis",
   "source": "Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-09T05:07:51Z"
+  "status": "failed",
+  "at": "2026-10-09T05:07:51Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "9d92076009b9d1e7",
@@ -8353,8 +8363,13 @@
   "headline": "Market turmoil: Prices of fish, eggs, and vegetables surge in Dhaka",
   "topic": "market price hike and lpg crisis",
   "source": "Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-09T05:07:51Z"
+  "status": "failed",
+  "at": "2026-10-09T05:07:51Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "cadbaccf2a9089f7",
@@ -8362,8 +8377,13 @@
   "headline": "Market turmoil: Prices of fish, eggs, and vegetables surge in Dhaka",
   "topic": "market price hike and lpg crisis",
   "source": "Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-09T05:07:51Z"
+  "status": "failed",
+  "at": "2026-10-09T05:07:51Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "8a388ea2b6b69bd8",
@@ -8371,7 +8391,12 @@
   "headline": "Friday morning: Dhaka air 5th worst in world",
   "topic": "dhaka air quality worst",
   "source": "Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-10-09T05:07:51Z"
+  "status": "failed",
+  "at": "2026-10-09T05:07:51Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
