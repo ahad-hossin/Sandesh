@@ -1,61 +1,5 @@
 [
  {
-  "title_hash": "21289c954196c6d1",
-  "url": "https://bdnews24.com/health/b1iichqmxi",
-  "headline": "Measles Outbreak: Death toll reaches 1,128 in Bangladesh",
-  "topic": "measles outbreak deaths increase",
-  "source": "bdnews24.com, Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-10-05T12:10:13Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "919373626fa5eafa",
-  "url": "https://www.dhakatribune.com/bangladesh/health/421374/measles-outbreak-death-toll-reaches-1-128-as",
-  "headline": "Measles Outbreak: Death toll reaches 1,128 in Bangladesh",
-  "topic": "measles outbreak deaths increase",
-  "source": "bdnews24.com, Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-10-05T12:10:13Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "0b4052ace46fdbdb",
-  "url": "https://www.dhakatribune.com/bangladesh/campus1/421378/brac-university-receives-email-threatening-mass",
-  "headline": "Police tighten security after BRAC University receives bomb threat via email",
-  "topic": "brac university bomb threat",
-  "source": "Prothom Alo, Dhaka Tribune, bdnews24.com",
-  "status": "failed",
-  "at": "2026-10-05T13:07:28Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "f6241be298cb6e4f",
-  "url": "https://www.prothomalo.com/bangladesh/crime/w0455eu6i6",
-  "headline": "Police tighten security after BRAC University receives bomb threat via email",
-  "topic": "brac university bomb threat",
-  "source": "Prothom Alo, Dhaka Tribune, bdnews24.com",
-  "status": "failed",
-  "at": "2026-10-05T13:07:28Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "5d2a599b2aa9f7fd",
   "url": "https://bdnews24.com/campus/896puxcktu",
   "headline": "Police tighten security after BRAC University receives bomb threat via email",
@@ -8398,5 +8342,41 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "29a5d5ed66b808e2",
+  "url": "https://www.thedailystar.net/sports/cricket/news/tigers-opt-bat-one-test-against-afghanistan-4294311",
+  "headline": "Tigers opt to bat first in one-off Test against Afghanistan",
+  "topic": "bangladesh vs afghanistan test",
+  "source": "The Daily Star, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-09T07:08:25Z"
+ },
+ {
+  "title_hash": "6ac579cc1d878f76",
+  "url": "https://www.prothomalo.com/sports/cricket/zl72bxefan",
+  "headline": "Tigers opt to bat first in one-off Test against Afghanistan",
+  "topic": "bangladesh vs afghanistan test",
+  "source": "The Daily Star, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-09T07:08:25Z"
+ },
+ {
+  "title_hash": "2cf2bf3ef3738712",
+  "url": "https://www.jamuna.tv/economy/665792",
+  "headline": "Gold prices rise by up to 2,216 taka per bhori in Bangladesh",
+  "topic": "gold price hike",
+  "source": "Jamuna TV, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-09T07:08:25Z"
+ },
+ {
+  "title_hash": "5b46006eaf186345",
+  "url": "https://www.prothomalo.com/business/z8efcwple6",
+  "headline": "Gold prices rise by up to 2,216 taka per bhori in Bangladesh",
+  "topic": "gold price hike",
+  "source": "Jamuna TV, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-09T07:08:25Z"
  }
 ]
