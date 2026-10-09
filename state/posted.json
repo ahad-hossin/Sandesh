@@ -1,33 +1,5 @@
 [
  {
-  "title_hash": "e5773f8982734b7c",
-  "url": "https://www.thedailystar.net/news/news/lpg-cylinders-sell-tk-3500-bandarban-town-against-govt-rate-tk-1850-4290981",
-  "headline": "LPG cylinders sell for Tk 3,500 in Bandarban, nearly double govt rate",
-  "topic": "lpg price hike and shortage",
-  "source": "The Daily Star, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-05T11:09:18Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "b0313f8849f89fe1",
-  "url": "https://www.jamuna.tv/national/665547",
-  "headline": "LPG cylinders sell for Tk 3,500 in Bandarban, nearly double govt rate",
-  "topic": "lpg price hike and shortage",
-  "source": "The Daily Star, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-05T11:09:18Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "46006b4b0cc30a39",
   "url": "https://www.prothomalo.com/video/bangladesh/34x2z4ba39",
   "headline": "LPG cylinders sell for Tk 3,500 in Bandarban, nearly double govt rate",
@@ -8398,5 +8370,23 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "8a388ea2b6b69bd8",
+  "url": "https://www.dhakatribune.com/bangladesh/421666/dhaka-air-5th-worst-in-world-friday-morning",
+  "headline": "Friday morning: Dhaka air 5th worst in world",
+  "topic": "dhaka air pollution rank",
+  "source": "Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-10-09T04:09:06Z"
+ },
+ {
+  "title_hash": "78502727e840bf4e",
+  "url": "https://www.jamuna.tv/national/665788",
+  "headline": "Weather alert: Thunderstorms predicted for Dhaka as temperatures dip",
+  "topic": "dhaka rain forecast",
+  "source": "Jamuna TV",
+  "status": "queued",
+  "at": "2026-10-09T04:09:06Z"
  }
 ]
