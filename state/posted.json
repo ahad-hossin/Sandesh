@@ -8349,8 +8349,13 @@
   "headline": "Shai Hope century leads West Indies beat India by 6 wickets in record chase",
   "topic": "west indies beat india t20",
   "source": "The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-09T18:08:25Z"
+  "status": "failed",
+  "at": "2026-10-09T18:08:25Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "8dbd26d692856187",
@@ -8358,8 +8363,13 @@
   "headline": "Shai Hope century leads West Indies beat India by 6 wickets in record chase",
   "topic": "west indies beat india t20",
   "source": "The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-09T18:08:25Z"
+  "status": "failed",
+  "at": "2026-10-09T18:08:25Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "e334bf5814d8983e",
@@ -8367,8 +8377,13 @@
   "headline": "Tk3 crore looted in Sreepur: bKash agent's car shot at by gang",
   "topic": "bkash manager shot robbery",
   "source": "Dhaka Tribune, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-09T18:08:25Z"
+  "status": "failed",
+  "at": "2026-10-09T18:08:25Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "711218b9bd4867cc",
@@ -8376,7 +8391,12 @@
   "headline": "Tk3 crore looted in Sreepur: bKash agent's car shot at by gang",
   "topic": "bkash manager shot robbery",
   "source": "Dhaka Tribune, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-09T18:08:25Z"
+  "status": "failed",
+  "at": "2026-10-09T18:08:25Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
