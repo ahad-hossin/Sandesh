@@ -8363,8 +8363,13 @@
   "headline": "Hackers claim data of 19m Pathao users, demand $400,000",
   "topic": "Hackers claim Pathao user data, demand ransom",
   "source": "Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-10-09T01:07:33Z"
+  "status": "failed",
+  "at": "2026-10-09T01:07:33Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "8b9d4390bf8ab906",
@@ -8372,8 +8377,13 @@
   "headline": "US suspends Microsoft, Adobe, and 6 other tech giants from green card program over alleged fraud",
   "topic": "US bans green cards for Microsoft, Infosys, Tata",
   "source": "Prothom Alo, bdnews24.com",
-  "status": "queued",
-  "at": "2026-10-09T01:07:33Z"
+  "status": "failed",
+  "at": "2026-10-09T01:07:33Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "39ed08a7f80cd658",
@@ -8381,7 +8391,12 @@
   "headline": "US suspends Microsoft, Adobe, and 6 other tech giants from green card program over alleged fraud",
   "topic": "US bans green cards for Microsoft, Infosys, Tata",
   "source": "Prothom Alo, bdnews24.com",
-  "status": "queued",
-  "at": "2026-10-09T01:07:33Z"
+  "status": "failed",
+  "at": "2026-10-09T01:07:33Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
