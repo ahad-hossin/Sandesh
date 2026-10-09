@@ -1,75 +1,5 @@
 [
  {
-  "title_hash": "cdeeccbed392ba4a",
-  "url": "https://www.thedailystar.net/business/agriculture/news/hilsa-prices-rise-tk-250-300-kg-ahead-22-day-fishing-ban-4291076",
-  "headline": "Hilsa prices rise Tk 250-300 per kg ahead of 22-day fishing ban",
-  "topic": "Hilsa prices rise ahead of fishing ban",
-  "source": "The Daily Star",
-  "status": "failed",
-  "at": "2026-10-05T14:20:07Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "e5773f8982734b7c",
-  "url": "https://www.thedailystar.net/news/news/lpg-cylinders-sell-tk-3500-bandarban-town-against-govt-rate-tk-1850-4290981",
-  "headline": "Hilsa prices rise Tk 250-300 per kg ahead of 22-day fishing ban",
-  "topic": "Hilsa prices rise ahead of fishing ban",
-  "source": "The Daily Star",
-  "status": "failed",
-  "at": "2026-10-05T14:20:07Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "050fe948cf03dc70",
-  "url": "https://www.dhakatribune.com/bangladesh/421405/govt-clears-5-day-durga-puja-break-from-oct-20",
-  "headline": "Govt declares Nov 7 as a general holiday for National Revolution and Solidarity Day",
-  "topic": "durga puja holidays",
-  "source": "Jamuna TV, Dhaka Tribune, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-05T15:10:35Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "155d8412043aa09c",
-  "url": "https://www.jamuna.tv/national/665570",
-  "headline": "Govt declares Nov 7 as a general holiday for National Revolution and Solidarity Day",
-  "topic": "durga puja holidays",
-  "source": "Jamuna TV, Dhaka Tribune, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-05T15:10:35Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "260e2a961b405462",
-  "url": "https://www.jamuna.tv/national/665568",
-  "headline": "Govt declares Nov 7 as a general holiday for National Revolution and Solidarity Day",
-  "topic": "durga puja holidays",
-  "source": "Jamuna TV, Dhaka Tribune, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-05T15:10:35Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "2a7e237ed24ddb60",
   "url": "https://www.prothomalo.com/bangladesh/ghdpfal14u",
   "headline": "Govt declares Nov 7 as a general holiday for National Revolution and Solidarity Day",
@@ -8398,5 +8328,50 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "8dc6d1731922ecb9",
+  "url": "https://www.thedailystar.net/campus/news/attack-journalists-ru-probe-body-recommends-suspension-four-students-4294366",
+  "headline": "RU: Suspension recommended for 4 students after attack on journalists",
+  "topic": "ru journalists attack suspension",
+  "source": "Jamuna TV, Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-10-09T10:15:11Z"
+ },
+ {
+  "title_hash": "492ce46b987f0db3",
+  "url": "https://www.jamuna.tv/campus/665805",
+  "headline": "RU: Suspension recommended for 4 students after attack on journalists",
+  "topic": "ru journalists attack suspension",
+  "source": "Jamuna TV, Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-10-09T10:15:11Z"
+ },
+ {
+  "title_hash": "c27d8de8c2e09d82",
+  "url": "https://www.prothomalo.com/bangladesh/district/kp1tw7gf3e",
+  "headline": "RU: Suspension recommended for 4 students after attack on journalists",
+  "topic": "ru journalists attack suspension",
+  "source": "Jamuna TV, Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-10-09T10:15:11Z"
+ },
+ {
+  "title_hash": "2cf1c8ffb262bbd0",
+  "url": "https://www.dhakatribune.com/bangladesh/421681/dncc-launches-campaign-to-repaint-july-graffiti-on",
+  "headline": "DNCC to repaint Metro Rail pillars with July graffiti",
+  "topic": "dncc repaint july graffiti",
+  "source": "Dhaka Tribune, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-09T10:15:11Z"
+ },
+ {
+  "title_hash": "a7b6a2337fb3974f",
+  "url": "https://www.prothomalo.com/bangladesh/capital/5oa02iwuu1",
+  "headline": "DNCC to repaint Metro Rail pillars with July graffiti",
+  "topic": "dncc repaint july graffiti",
+  "source": "Dhaka Tribune, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-09T10:15:11Z"
  }
 ]
