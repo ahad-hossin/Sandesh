@@ -1,33 +1,5 @@
 [
  {
-  "title_hash": "39cd67e10c8d6928",
-  "url": "https://www.jamuna.tv/all-bangladesh/665504",
-  "headline": "Police SI helped convict 'Picchi Raja' escape by unlocking prison van",
-  "topic": "picchi raja police scandal",
-  "source": "Jamuna TV",
-  "status": "failed",
-  "at": "2026-10-05T10:08:49Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "e9a82e327a2495e5",
-  "url": "https://www.thedailystar.net/news/crime-justice/news/prosecution-seeks-death-penalty-hasanul-haq-inu-4290926",
-  "headline": "Prosecution seeks death penalty for Hasanul Haq Inu",
-  "topic": "death penalty seek for hasanul haq inu",
-  "source": "The Daily Star, Dhaka Tribune, bdnews24.com, Jamuna TV",
-  "status": "failed",
-  "at": "2026-10-05T10:08:49Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "f9972eeffa64da8b",
   "url": "https://www.dhakatribune.com/bangladesh/court/421355/appeal-filed-seeking-to-increase-inu-s-sentence",
   "headline": "Prosecution seeks death penalty for Hasanul Haq Inu",
@@ -8398,5 +8370,23 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "cadbaccf2a9089f7",
+  "url": "https://www.prothomalo.com/bangladesh/0snm2ubgar",
+  "headline": "LPG crisis persists, prices remain high in Bangladesh; 12kg cylinders Tk 500-600 above BERC rate",
+  "topic": "lp gas crisis and price hike",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-09T02:03:11Z"
+ },
+ {
+  "title_hash": "f4ce0e7959286f06",
+  "url": "https://www.prothomalo.com/chakri/employment/0islbh0o4a",
+  "headline": "Bangladesh Police announces nationwide constable recruitment across 64 districts; apply until October 30",
+  "topic": "constable recruitment 64 districts",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-09T02:03:11Z"
  }
 ]
