@@ -1,75 +1,5 @@
 [
  {
-  "title_hash": "46006b4b0cc30a39",
-  "url": "https://www.prothomalo.com/video/bangladesh/34x2z4ba39",
-  "headline": "LPG cylinders sell for Tk 3,500 in Bandarban, nearly double govt rate",
-  "topic": "lpg price hike and shortage",
-  "source": "The Daily Star, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-05T11:09:18Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "43e9501c6e20e823",
-  "url": "https://www.prothomalo.com/bangladesh/elpiji-daam-baarrl-bikri-hcche-aaro-beshite",
-  "headline": "LPG cylinders sell for Tk 3,500 in Bandarban, nearly double govt rate",
-  "topic": "lpg price hike and shortage",
-  "source": "The Daily Star, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-05T11:09:18Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "4bb1f629a45fb208",
-  "url": "https://www.jamuna.tv/all-bangladesh/665514",
-  "headline": "LPG cylinders sell for Tk 3,500 in Bandarban, nearly double govt rate",
-  "topic": "lpg price hike and shortage",
-  "source": "The Daily Star, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-05T11:09:18Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "523773451a319c1f",
-  "url": "https://bdnews24.com/health/ladqjys9nm",
-  "headline": "3 scientists win Nobel medicine prize for optogenetics",
-  "topic": "nobel prize medicine 2025",
-  "source": "bdnews24.com, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-05T11:09:18Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "6b07f3e2443cdbab",
-  "url": "https://www.jamuna.tv/international/665541",
-  "headline": "3 scientists win Nobel medicine prize for optogenetics",
-  "topic": "nobel prize medicine 2025",
-  "source": "bdnews24.com, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-05T11:09:18Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "32b08332ff7ac6be",
   "url": "https://www.bigganchinta.com/biology/zcxdn67h2u",
   "headline": "3 scientists win Nobel medicine prize for optogenetics",
@@ -8398,5 +8328,50 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "3a8ed134cca9d295",
+  "url": "https://www.jamuna.tv/economy/665791",
+  "headline": "Market turmoil: Prices of fish, eggs, and vegetables surge in Dhaka",
+  "topic": "market price hike and lpg crisis",
+  "source": "Jamuna TV, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-09T05:07:51Z"
+ },
+ {
+  "title_hash": "7016cecf5833b0b1",
+  "url": "https://www.prothomalo.com/bangladesh/elpiji-baajaare-snktt-kaatteni-daamo-baarrti",
+  "headline": "Market turmoil: Prices of fish, eggs, and vegetables surge in Dhaka",
+  "topic": "market price hike and lpg crisis",
+  "source": "Jamuna TV, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-09T05:07:51Z"
+ },
+ {
+  "title_hash": "9d92076009b9d1e7",
+  "url": "https://www.prothomalo.com/business/economics/2rew5376ve",
+  "headline": "Market turmoil: Prices of fish, eggs, and vegetables surge in Dhaka",
+  "topic": "market price hike and lpg crisis",
+  "source": "Jamuna TV, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-09T05:07:51Z"
+ },
+ {
+  "title_hash": "cadbaccf2a9089f7",
+  "url": "https://www.prothomalo.com/bangladesh/0snm2ubgar",
+  "headline": "Market turmoil: Prices of fish, eggs, and vegetables surge in Dhaka",
+  "topic": "market price hike and lpg crisis",
+  "source": "Jamuna TV, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-09T05:07:51Z"
+ },
+ {
+  "title_hash": "8a388ea2b6b69bd8",
+  "url": "https://www.dhakatribune.com/bangladesh/421666/dhaka-air-5th-worst-in-world-friday-morning",
+  "headline": "Friday morning: Dhaka air 5th worst in world",
+  "topic": "dhaka air quality worst",
+  "source": "Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-10-09T05:07:51Z"
  }
 ]
