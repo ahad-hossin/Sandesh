@@ -8363,8 +8363,13 @@
   "headline": "1,935 hospitalised as five more die of dengue in 24 hours",
   "topic": "dengue deaths update",
   "source": "The Daily Star, bdnews24.com",
-  "status": "queued",
-  "at": "2026-10-09T08:15:22Z"
+  "status": "failed",
+  "at": "2026-10-09T08:15:22Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "70d7b9fd6c33964a",
@@ -8372,8 +8377,13 @@
   "headline": "1,935 hospitalised as five more die of dengue in 24 hours",
   "topic": "dengue deaths update",
   "source": "The Daily Star, bdnews24.com",
-  "status": "queued",
-  "at": "2026-10-09T08:15:22Z"
+  "status": "failed",
+  "at": "2026-10-09T08:15:22Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "1d16443313086305",
@@ -8381,7 +8391,12 @@
   "headline": "Dhaka to launch two franchise bus routes in 7 days as part of city-wide overhaul",
   "topic": "dhaka franchise bus routes",
   "source": "The Daily Star",
-  "status": "queued",
-  "at": "2026-10-09T08:15:22Z"
+  "status": "failed",
+  "at": "2026-10-09T08:15:22Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
