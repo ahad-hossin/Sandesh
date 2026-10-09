@@ -1,61 +1,5 @@
 [
  {
-  "title_hash": "fd7d6c727ad16cea",
-  "url": "https://www.jamuna.tv/national/665552",
-  "headline": "9 deaths in 24 hours: Dengue death toll rises to 271 this year",
-  "topic": "dengue death toll rise",
-  "source": "bdnews24.com, Dhaka Tribune, Jamuna TV",
-  "status": "failed",
-  "at": "2026-10-05T13:07:28Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "12fea1ccbf348ae4",
-  "url": "https://www.prothomalo.com/technology/s16vx93k8n",
-  "headline": "27 nations join ASSOCIO Digital & AI Summit 2026 in Jakarta",
-  "topic": "new gini properties attack investigation",
-  "source": "Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-05T14:20:07Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "1009512847abab79",
-  "url": "https://www.prothomalo.com/bangladesh/crime/bbpwqfs46a",
-  "headline": "27 nations join ASSOCIO Digital & AI Summit 2026 in Jakarta",
-  "topic": "new gini properties attack investigation",
-  "source": "Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-05T14:20:07Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "dc238023e38d0252",
-  "url": "https://www.prothomalo.com/video/bangladesh/vyxw15vpo4",
-  "headline": "27 nations join ASSOCIO Digital & AI Summit 2026 in Jakarta",
-  "topic": "new gini properties attack investigation",
-  "source": "Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-05T14:20:07Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "cdeeccbed392ba4a",
   "url": "https://www.thedailystar.net/business/agriculture/news/hilsa-prices-rise-tk-250-300-kg-ahead-22-day-fishing-ban-4291076",
   "headline": "Hilsa prices rise Tk 250-300 per kg ahead of 22-day fishing ban",
@@ -8398,5 +8342,41 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "d734e0e55772ab1f",
+  "url": "https://www.prothomalo.com/bangladesh/district/djacnqxclg",
+  "headline": "NZ citizen returns home after losing son in Cox's Bazar boat tragedy",
+  "topic": "man builds boat for world tour, loses son in Cox's Bazar",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-09T09:10:29Z"
+ },
+ {
+  "title_hash": "7156b681fef10132",
+  "url": "https://www.prothomalo.com/video/bangladesh/h6c6wyxxxl",
+  "headline": "NZ citizen returns home after losing son in Cox's Bazar boat tragedy",
+  "topic": "man builds boat for world tour, loses son in Cox's Bazar",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-09T09:10:29Z"
+ },
+ {
+  "title_hash": "92672f5683de0a5e",
+  "url": "https://www.dhakatribune.com/bangladesh/421671/chittagong-opens-bangladesh-s-first-four-lane",
+  "headline": "Bangladesh's first four-lane cycle track opens in Chattogram",
+  "topic": "Chittagong opens Bangladesh's first four-lane cycle track",
+  "source": "Prothom Alo, Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-10-09T09:10:29Z"
+ },
+ {
+  "title_hash": "89780ac02d8e7e05",
+  "url": "https://www.prothomalo.com/bangladesh/district/1mv0uhcq4q",
+  "headline": "Bangladesh's first four-lane cycle track opens in Chattogram",
+  "topic": "Chittagong opens Bangladesh's first four-lane cycle track",
+  "source": "Prothom Alo, Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-10-09T09:10:29Z"
  }
 ]
