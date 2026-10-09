@@ -8349,8 +8349,13 @@
   "headline": "NZ citizen returns home after losing son in Cox's Bazar boat tragedy",
   "topic": "man builds boat for world tour, loses son in Cox's Bazar",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-09T09:10:29Z"
+  "status": "failed",
+  "at": "2026-10-09T09:10:29Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "7156b681fef10132",
@@ -8358,8 +8363,13 @@
   "headline": "NZ citizen returns home after losing son in Cox's Bazar boat tragedy",
   "topic": "man builds boat for world tour, loses son in Cox's Bazar",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-09T09:10:29Z"
+  "status": "failed",
+  "at": "2026-10-09T09:10:29Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "92672f5683de0a5e",
@@ -8367,8 +8377,13 @@
   "headline": "Bangladesh's first four-lane cycle track opens in Chattogram",
   "topic": "Chittagong opens Bangladesh's first four-lane cycle track",
   "source": "Prothom Alo, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-10-09T09:10:29Z"
+  "status": "failed",
+  "at": "2026-10-09T09:10:29Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "89780ac02d8e7e05",
@@ -8376,7 +8391,12 @@
   "headline": "Bangladesh's first four-lane cycle track opens in Chattogram",
   "topic": "Chittagong opens Bangladesh's first four-lane cycle track",
   "source": "Prothom Alo, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-10-09T09:10:29Z"
+  "status": "failed",
+  "at": "2026-10-09T09:10:29Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
