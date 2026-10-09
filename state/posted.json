@@ -1,47 +1,5 @@
 [
  {
-  "title_hash": "dbf761124fd7571f",
-  "url": "https://www.prothomalo.com/bangladesh/district/rg1mckuzjz",
-  "headline": "Man beaten to death over theft suspicion in Jessore",
-  "topic": "mob lynching in jashore",
-  "source": "Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-05T09:08:33Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "db44f3d9b2f3420b",
-  "url": "https://www.jamuna.tv/all-bangladesh/665538",
-  "headline": "Police SI helped convict 'Picchi Raja' escape by unlocking prison van",
-  "topic": "picchi raja police scandal",
-  "source": "Jamuna TV",
-  "status": "failed",
-  "at": "2026-10-05T10:08:49Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "38ef9496702083cd",
-  "url": "https://www.jamuna.tv/all-bangladesh/665531",
-  "headline": "Police SI helped convict 'Picchi Raja' escape by unlocking prison van",
-  "topic": "picchi raja police scandal",
-  "source": "Jamuna TV",
-  "status": "failed",
-  "at": "2026-10-05T10:08:49Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "39cd67e10c8d6928",
   "url": "https://www.jamuna.tv/all-bangladesh/665504",
   "headline": "Police SI helped convict 'Picchi Raja' escape by unlocking prison van",
@@ -8398,5 +8356,32 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "36067efde6b6ae9f",
+  "url": "https://www.dhakatribune.com/bangladesh/crime/421663/hackers-claim-data-of-19m-pathao-users-demand",
+  "headline": "Hackers claim data of 19m Pathao users, demand $400,000",
+  "topic": "Hackers claim Pathao user data, demand ransom",
+  "source": "Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-10-09T01:07:33Z"
+ },
+ {
+  "title_hash": "8b9d4390bf8ab906",
+  "url": "https://bdnews24.com/technology/j9itira7i7",
+  "headline": "US suspends Microsoft, Adobe, and 6 other tech giants from green card program over alleged fraud",
+  "topic": "US bans green cards for Microsoft, Infosys, Tata",
+  "source": "Prothom Alo, bdnews24.com",
+  "status": "queued",
+  "at": "2026-10-09T01:07:33Z"
+ },
+ {
+  "title_hash": "39ed08a7f80cd658",
+  "url": "https://www.prothomalo.com/world/usa/mutzd43vcw",
+  "headline": "US suspends Microsoft, Adobe, and 6 other tech giants from green card program over alleged fraud",
+  "topic": "US bans green cards for Microsoft, Infosys, Tata",
+  "source": "Prothom Alo, bdnews24.com",
+  "status": "queued",
+  "at": "2026-10-09T01:07:33Z"
  }
 ]
