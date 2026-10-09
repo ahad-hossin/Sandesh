@@ -8377,8 +8377,13 @@
   "headline": "bKash manager shot and Tk3C looted in Sreepur",
   "topic": "bKash manager shot, money looted",
   "source": "Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-10-09T20:09:33Z"
+  "status": "failed",
+  "at": "2026-10-09T20:09:33Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "1a60d4a9746a3a89",
@@ -8386,7 +8391,12 @@
   "headline": "9 in 10 Bangladeshis with mental health conditions go untreated",
   "topic": "mental health treatment gap in Bangladesh",
   "source": "Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-10-09T20:09:33Z"
+  "status": "failed",
+  "at": "2026-10-09T20:09:33Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
