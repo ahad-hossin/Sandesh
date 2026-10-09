@@ -1,61 +1,5 @@
 [
  {
-  "title_hash": "6abe7dbf8e907f8f",
-  "url": "https://www.thedailystar.net/news/crime-justice/news/attack-ru-journos-7-jcd-men-identified-rus-case-names-none-4291561",
-  "headline": "RU hall provost withdrawn after attack on journalists; probe ordered within 72 hours",
-  "topic": "Rajshahi University journalist attack",
-  "source": "Jamuna TV, Prothom Alo, Dhaka Tribune, The Daily Star",
-  "status": "failed",
-  "at": "2026-10-06T02:07:09Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "ee538681c8fec07b",
-  "url": "https://bdnews24.com/aviation/hp1anu92ok",
-  "headline": "32 killed as Nigerian military plane crashes in Ondo state during routine mission",
-  "topic": "Nigeria military plane crash",
-  "source": "Prothom Alo, bdnews24.com",
-  "status": "failed",
-  "at": "2026-10-06T02:07:09Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "3184da421dd9501d",
-  "url": "https://www.prothomalo.com/world/africa/i87oxbzohv",
-  "headline": "32 killed as Nigerian military plane crashes in Ondo state during routine mission",
-  "topic": "Nigeria military plane crash",
-  "source": "Prothom Alo, bdnews24.com",
-  "status": "failed",
-  "at": "2026-10-06T02:07:09Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "366a6fb4f06232f2",
-  "url": "https://www.jamuna.tv/all-bangladesh/665584",
-  "headline": "154 arrested in Narayanganj, including 8 members of banned Awami League",
-  "topic": "Narayanganj arrests AL members",
-  "source": "Jamuna TV",
-  "status": "failed",
-  "at": "2026-10-06T03:09:30Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "4e416d8fc545959d",
   "url": "https://www.prothomalo.com/bangladesh/vzv3oobfgc",
   "headline": "Citizens suffer as birth certificates contain gibberish names",
@@ -8398,5 +8342,41 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "79c65f0606485eb5",
+  "url": "https://www.thedailystar.net/sports/cricket/news/hope-the-hero-windies-pull-record-250-chase-against-india-4294601",
+  "headline": "Shai Hope century leads West Indies beat India by 6 wickets in record chase",
+  "topic": "west indies beat india t20",
+  "source": "The Daily Star, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-09T18:08:25Z"
+ },
+ {
+  "title_hash": "8dbd26d692856187",
+  "url": "https://www.prothomalo.com/sports/cricket/yns5rb9raz",
+  "headline": "Shai Hope century leads West Indies beat India by 6 wickets in record chase",
+  "topic": "west indies beat india t20",
+  "source": "The Daily Star, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-09T18:08:25Z"
+ },
+ {
+  "title_hash": "e334bf5814d8983e",
+  "url": "https://www.dhakatribune.com/bangladesh/crime/421728/bkash-manager-shot-tk3-core-looted-in-sreepur",
+  "headline": "Tk3 crore looted in Sreepur: bKash agent's car shot at by gang",
+  "topic": "bkash manager shot robbery",
+  "source": "Dhaka Tribune, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-09T18:08:25Z"
+ },
+ {
+  "title_hash": "711218b9bd4867cc",
+  "url": "https://www.prothomalo.com/bangladesh/district/ih0eswqny1",
+  "headline": "Tk3 crore looted in Sreepur: bKash agent's car shot at by gang",
+  "topic": "bkash manager shot robbery",
+  "source": "Dhaka Tribune, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-09T18:08:25Z"
  }
 ]
