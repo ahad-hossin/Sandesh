@@ -8335,8 +8335,13 @@
   "headline": "Cristiano Ronaldo provisionally suspended by Portugal after team walkout",
   "topic": "ronaldo suspended portugal walkout",
   "source": "bdnews24.com, Jamuna TV, Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-10T16:09:54Z"
+  "status": "failed",
+  "at": "2026-10-10T16:09:54Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "aa81676666793743",
@@ -8344,8 +8349,13 @@
   "headline": "Cristiano Ronaldo provisionally suspended by Portugal after team walkout",
   "topic": "ronaldo suspended portugal walkout",
   "source": "bdnews24.com, Jamuna TV, Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-10T16:09:54Z"
+  "status": "failed",
+  "at": "2026-10-10T16:09:54Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "3a3f54169f813b7d",
@@ -8353,8 +8363,13 @@
   "headline": "Cristiano Ronaldo provisionally suspended by Portugal after team walkout",
   "topic": "ronaldo suspended portugal walkout",
   "source": "bdnews24.com, Jamuna TV, Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-10T16:09:54Z"
+  "status": "failed",
+  "at": "2026-10-10T16:09:54Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "9a88b92b80635ad6",
@@ -8362,8 +8377,13 @@
   "headline": "Cristiano Ronaldo provisionally suspended by Portugal after team walkout",
   "topic": "ronaldo suspended portugal walkout",
   "source": "bdnews24.com, Jamuna TV, Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-10T16:09:54Z"
+  "status": "failed",
+  "at": "2026-10-10T16:09:54Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "dd69270b3d8b3c03",
@@ -8371,7 +8391,12 @@
   "headline": "Elon Musk announces Starlink Mobile now available in Bangladesh",
   "topic": "starlink mobile bangladesh",
   "source": "The Daily Star",
-  "status": "queued",
-  "at": "2026-10-10T16:09:54Z"
+  "status": "failed",
+  "at": "2026-10-10T16:09:54Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
