@@ -1,61 +1,5 @@
 [
  {
-  "title_hash": "1269ff387601d782",
-  "url": "https://bdnews24.com/campus/473602lvyr",
-  "headline": "Rajshahi Medical University VC allegedly forced to resign by Jubo Dal activists",
-  "topic": "student protests in france, rajshahi medical vc resigns",
-  "source": "Prothom Alo, bdnews24.com, Jamuna TV",
-  "status": "failed",
-  "at": "2026-10-06T14:09:37Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "33334df2cbd4b7fe",
-  "url": "https://www.prothomalo.com/world/europe/3gyvooi4is",
-  "headline": "Rajshahi Medical University VC allegedly forced to resign by Jubo Dal activists",
-  "topic": "student protests in france, rajshahi medical vc resigns",
-  "source": "Prothom Alo, bdnews24.com, Jamuna TV",
-  "status": "failed",
-  "at": "2026-10-06T14:09:37Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "6f871697ac89751a",
-  "url": "https://www.jamuna.tv/campus/665611",
-  "headline": "Rajshahi Medical University VC allegedly forced to resign by Jubo Dal activists",
-  "topic": "student protests in france, rajshahi medical vc resigns",
-  "source": "Prothom Alo, bdnews24.com, Jamuna TV",
-  "status": "failed",
-  "at": "2026-10-06T14:09:37Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "e75af63d6fab6393",
-  "url": "https://www.prothomalo.com/bangladesh/district/r7fkjjlfm3",
-  "headline": "Barguna student scores highest in Humanities for SSC, dreams of becoming a magistrate",
-  "topic": "ssc examinee from barguna aims to be magistrate",
-  "source": "Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-06T15:07:11Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "52c9409c0a6889d5",
   "url": "https://www.jamuna.tv/all-bangladesh/665625",
   "headline": "Chuadanga: Businessman beaten to death after being called to a house",
@@ -8398,5 +8342,41 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "69d7f5d7cda4386a",
+  "url": "https://www.jamuna.tv/national/665834",
+  "headline": "Mahalaya marks start of Durga Puja festivities in Bangladesh",
+  "topic": "mahalaya marks start of devi paksha",
+  "source": "Jamuna TV, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-10T04:12:23Z"
+ },
+ {
+  "title_hash": "fe0994cbefd99073",
+  "url": "https://www.jamuna.tv/national/665828",
+  "headline": "Mahalaya marks start of Durga Puja festivities in Bangladesh",
+  "topic": "mahalaya marks start of devi paksha",
+  "source": "Jamuna TV, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-10T04:12:23Z"
+ },
+ {
+  "title_hash": "c0be5b8f837320f7",
+  "url": "https://www.prothomalo.com/bangladesh/jhi359qt16",
+  "headline": "Mahalaya marks start of Durga Puja festivities in Bangladesh",
+  "topic": "mahalaya marks start of devi paksha",
+  "source": "Jamuna TV, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-10T04:12:23Z"
+ },
+ {
+  "title_hash": "c82a521d3d18bf70",
+  "url": "https://bdnews24.com/world/866abqsose",
+  "headline": "Trump lifts sanctions on Russian fuel to lower global diesel prices",
+  "topic": "trump putin diesel deal",
+  "source": "bdnews24.com",
+  "status": "queued",
+  "at": "2026-10-10T04:12:23Z"
  }
 ]
