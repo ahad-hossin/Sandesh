@@ -8349,8 +8349,13 @@
   "headline": "Cocktail explodes near PM's Office in Tejgaon late night, no casualties reported",
   "topic": "Cocktail explosion PMO",
   "source": "Jamuna TV",
-  "status": "queued",
-  "at": "2026-10-10T01:07:18Z"
+  "status": "failed",
+  "at": "2026-10-10T01:07:18Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "e334bf5814d8983e",
@@ -8358,8 +8363,13 @@
   "headline": "bKash manager shot, Tk 3 crore looted in Sreepur, Gazipur",
   "topic": "bKash manager shot, money looted",
   "source": "Jamuna TV, Dhaka Tribune, bdnews24.com",
-  "status": "queued",
-  "at": "2026-10-10T01:07:18Z"
+  "status": "failed",
+  "at": "2026-10-10T01:07:18Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "af7c943724c32166",
@@ -8367,8 +8377,13 @@
   "headline": "bKash manager shot, Tk 3 crore looted in Sreepur, Gazipur",
   "topic": "bKash manager shot, money looted",
   "source": "Jamuna TV, Dhaka Tribune, bdnews24.com",
-  "status": "queued",
-  "at": "2026-10-10T01:07:18Z"
+  "status": "failed",
+  "at": "2026-10-10T01:07:18Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "6ca51e8c69802636",
@@ -8376,7 +8391,12 @@
   "headline": "bKash manager shot, Tk 3 crore looted in Sreepur, Gazipur",
   "topic": "bKash manager shot, money looted",
   "source": "Jamuna TV, Dhaka Tribune, bdnews24.com",
-  "status": "queued",
-  "at": "2026-10-10T01:07:18Z"
+  "status": "failed",
+  "at": "2026-10-10T01:07:18Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
