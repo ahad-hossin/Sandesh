@@ -8307,8 +8307,13 @@
   "headline": "Two crude bombs thrown outside Prime Minister’s Office in Dhaka",
   "topic": "crude bomb explodes outside PMO",
   "source": "Jamuna TV, bdnews24.com, Dhaka Tribune, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-10T10:11:12Z"
+  "status": "failed",
+  "at": "2026-10-10T10:11:12Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "8546d07c8381bd2d",
@@ -8316,8 +8321,13 @@
   "headline": "Two crude bombs thrown outside Prime Minister’s Office in Dhaka",
   "topic": "crude bomb explodes outside PMO",
   "source": "Jamuna TV, bdnews24.com, Dhaka Tribune, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-10T10:11:12Z"
+  "status": "failed",
+  "at": "2026-10-10T10:11:12Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "126e5b934aee20a4",
@@ -8325,8 +8335,13 @@
   "headline": "Two crude bombs thrown outside Prime Minister’s Office in Dhaka",
   "topic": "crude bomb explodes outside PMO",
   "source": "Jamuna TV, bdnews24.com, Dhaka Tribune, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-10T10:11:12Z"
+  "status": "failed",
+  "at": "2026-10-10T10:11:12Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "a205b5ef301c443c",
@@ -8334,8 +8349,13 @@
   "headline": "Two crude bombs thrown outside Prime Minister’s Office in Dhaka",
   "topic": "crude bomb explodes outside PMO",
   "source": "Jamuna TV, bdnews24.com, Dhaka Tribune, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-10T10:11:12Z"
+  "status": "failed",
+  "at": "2026-10-10T10:11:12Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "63698025cada3598",
@@ -8343,8 +8363,13 @@
   "headline": "BGB returns fire after BSF shooting leaves Bangladeshi injured",
   "topic": "youth development exam paper leak",
   "source": "The Daily Star",
-  "status": "queued",
-  "at": "2026-10-10T10:11:12Z"
+  "status": "failed",
+  "at": "2026-10-10T10:11:12Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "106eff7b5aac218c",
@@ -8352,8 +8377,13 @@
   "headline": "BGB returns fire after BSF shooting leaves Bangladeshi injured",
   "topic": "youth development exam paper leak",
   "source": "The Daily Star",
-  "status": "queued",
-  "at": "2026-10-10T10:11:12Z"
+  "status": "failed",
+  "at": "2026-10-10T10:11:12Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "dcd2625560f72309",
@@ -8361,7 +8391,12 @@
   "headline": "BGB returns fire after BSF shooting leaves Bangladeshi injured",
   "topic": "youth development exam paper leak",
   "source": "The Daily Star",
-  "status": "queued",
-  "at": "2026-10-10T10:11:12Z"
+  "status": "failed",
+  "at": "2026-10-10T10:11:12Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
