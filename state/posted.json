@@ -8321,8 +8321,13 @@
   "headline": "Army warns against misleading information targeting force and chief",
   "topic": "army warns against propaganda targeting force",
   "source": "Jamuna TV, Dhaka Tribune, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-10T19:08:22Z"
+  "status": "failed",
+  "at": "2026-10-10T19:08:22Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "a41dff0f2d2f84bc",
@@ -8330,8 +8335,13 @@
   "headline": "Army warns against misleading information targeting force and chief",
   "topic": "army warns against propaganda targeting force",
   "source": "Jamuna TV, Dhaka Tribune, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-10T19:08:22Z"
+  "status": "failed",
+  "at": "2026-10-10T19:08:22Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "7c2603b524055d0c",
@@ -8339,8 +8349,13 @@
   "headline": "Army warns against misleading information targeting force and chief",
   "topic": "army warns against propaganda targeting force",
   "source": "Jamuna TV, Dhaka Tribune, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-10T19:08:22Z"
+  "status": "failed",
+  "at": "2026-10-10T19:08:22Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "20dea60bfaa611ed",
@@ -8348,8 +8363,13 @@
   "headline": "BNP activists to stay vigilant during Durga Puja to ensure peace",
   "topic": "bnp to ensure security during durga puja",
   "source": "Dhaka Tribune, Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-10T19:08:22Z"
+  "status": "failed",
+  "at": "2026-10-10T19:08:22Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "5046c17dbcb4a701",
@@ -8357,8 +8377,13 @@
   "headline": "BNP activists to stay vigilant during Durga Puja to ensure peace",
   "topic": "bnp to ensure security during durga puja",
   "source": "Dhaka Tribune, Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-10T19:08:22Z"
+  "status": "failed",
+  "at": "2026-10-10T19:08:22Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "dbe4843160b49180",
@@ -8366,7 +8391,12 @@
   "headline": "BNP activists to stay vigilant during Durga Puja to ensure peace",
   "topic": "bnp to ensure security during durga puja",
   "source": "Dhaka Tribune, Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-10T19:08:22Z"
+  "status": "failed",
+  "at": "2026-10-10T19:08:22Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
