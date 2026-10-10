@@ -8335,8 +8335,13 @@
   "headline": "Durga Puja festivities begin with Mahalaya observance across Bangladesh",
   "topic": "mahalaya_durga_puja_begin",
   "source": "Dhaka Tribune, Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-10T05:09:34Z"
+  "status": "failed",
+  "at": "2026-10-10T05:09:34Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "69d7f5d7cda4386a",
@@ -8344,8 +8349,13 @@
   "headline": "Durga Puja festivities begin with Mahalaya observance across Bangladesh",
   "topic": "mahalaya_durga_puja_begin",
   "source": "Dhaka Tribune, Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-10T05:09:34Z"
+  "status": "failed",
+  "at": "2026-10-10T05:09:34Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "fe0994cbefd99073",
@@ -8353,8 +8363,13 @@
   "headline": "Durga Puja festivities begin with Mahalaya observance across Bangladesh",
   "topic": "mahalaya_durga_puja_begin",
   "source": "Dhaka Tribune, Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-10T05:09:34Z"
+  "status": "failed",
+  "at": "2026-10-10T05:09:34Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "c0be5b8f837320f7",
@@ -8362,8 +8377,13 @@
   "headline": "Durga Puja festivities begin with Mahalaya observance across Bangladesh",
   "topic": "mahalaya_durga_puja_begin",
   "source": "Dhaka Tribune, Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-10T05:09:34Z"
+  "status": "failed",
+  "at": "2026-10-10T05:09:34Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "89d44ffd484b7032",
@@ -8371,7 +8391,12 @@
   "headline": "CNG driver raped and killed 15-year-old student in Comilla",
   "topic": "cumilla_student_rape_murder",
   "source": "Jamuna TV",
-  "status": "queued",
-  "at": "2026-10-10T05:09:34Z"
+  "status": "failed",
+  "at": "2026-10-10T05:09:34Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
