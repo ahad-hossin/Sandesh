@@ -8335,8 +8335,13 @@
   "headline": "Dozens wounded as Houthi missile hits Riyadh airport",
   "topic": "riyadh airport attack",
   "source": "Jamuna TV, The Daily Star, bdnews24.com",
-  "status": "queued",
-  "at": "2026-10-10T17:10:36Z"
+  "status": "failed",
+  "at": "2026-10-10T17:10:36Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "11e7c8ff2d47f88b",
@@ -8344,8 +8349,13 @@
   "headline": "Dozens wounded as Houthi missile hits Riyadh airport",
   "topic": "riyadh airport attack",
   "source": "Jamuna TV, The Daily Star, bdnews24.com",
-  "status": "queued",
-  "at": "2026-10-10T17:10:36Z"
+  "status": "failed",
+  "at": "2026-10-10T17:10:36Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "0f163d97f2795dea",
@@ -8353,8 +8363,13 @@
   "headline": "Dozens wounded as Houthi missile hits Riyadh airport",
   "topic": "riyadh airport attack",
   "source": "Jamuna TV, The Daily Star, bdnews24.com",
-  "status": "queued",
-  "at": "2026-10-10T17:10:36Z"
+  "status": "failed",
+  "at": "2026-10-10T17:10:36Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "c0cc863d236a74ad",
@@ -8362,8 +8377,13 @@
   "headline": "Biman suspends Dhaka-Riyadh flights until further notice",
   "topic": "biman suspends riyadh flights",
   "source": "Dhaka Tribune, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-10T17:10:36Z"
+  "status": "failed",
+  "at": "2026-10-10T17:10:36Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "0aa33f0c7ffc71a7",
@@ -8371,7 +8391,12 @@
   "headline": "Biman suspends Dhaka-Riyadh flights until further notice",
   "topic": "biman suspends riyadh flights",
   "source": "Dhaka Tribune, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-10T17:10:36Z"
+  "status": "failed",
+  "at": "2026-10-10T17:10:36Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
