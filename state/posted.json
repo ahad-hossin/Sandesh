@@ -1,75 +1,5 @@
 [
  {
-  "title_hash": "3d55b6196115e314",
-  "url": "https://www.jamuna.tv/sports/665629",
-  "headline": "Messi delivers master class in final Argentina match, scores goal, assists two in 3-0 win",
-  "topic": "messi argentina farewell match",
-  "source": "bdnews24.com, Prothom Alo, Jamuna TV",
-  "status": "failed",
-  "at": "2026-10-07T03:06:50Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "c211e53d35bf44f5",
-  "url": "https://www.prothomalo.com/sports/football/xi1stw4j5y",
-  "headline": "Messi delivers master class in final Argentina match, scores goal, assists two in 3-0 win",
-  "topic": "messi argentina farewell match",
-  "source": "bdnews24.com, Prothom Alo, Jamuna TV",
-  "status": "failed",
-  "at": "2026-10-07T03:06:50Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "f0f201810a282fe7",
-  "url": "https://www.prothomalo.com/sports/football/qinzue311r",
-  "headline": "Messi delivers master class in final Argentina match, scores goal, assists two in 3-0 win",
-  "topic": "messi argentina farewell match",
-  "source": "bdnews24.com, Prothom Alo, Jamuna TV",
-  "status": "failed",
-  "at": "2026-10-07T03:06:50Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "e1e6fba0105cf349",
-  "url": "https://www.dhakatribune.com/bangladesh/421488/shoe-garland-hung-on-bir-sreshtha-hamidur-rahman",
-  "headline": "Shoe garland hung on Bir Shrestha Hamidur Rahman sculpture in Jhenaidah, sparking anger",
-  "topic": "bir sreshtha hamidur rahman sculpture desecrated",
-  "source": "Dhaka Tribune, bdnews24.com",
-  "status": "failed",
-  "at": "2026-10-07T03:06:50Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "c6102b260d9ae0bb",
-  "url": "https://bdnews24.com/bangladesh/k08uxczpo9",
-  "headline": "Shoe garland hung on Bir Shrestha Hamidur Rahman sculpture in Jhenaidah, sparking anger",
-  "topic": "bir sreshtha hamidur rahman sculpture desecrated",
-  "source": "Dhaka Tribune, bdnews24.com",
-  "status": "failed",
-  "at": "2026-10-07T03:06:50Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "6cb03b9d1b2ceee8",
   "url": "https://bdnews24.com/sport/3fml9xlez5",
   "headline": "Lionel Messi bids emotional farewell to Argentina in final international match",
@@ -8398,5 +8328,50 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "4eb31fcdb206a4e5",
+  "url": "https://bdnews24.com/sport/5lujqmdngv",
+  "headline": "Cristiano Ronaldo provisionally suspended by Portugal after team walkout",
+  "topic": "ronaldo suspended portugal walkout",
+  "source": "bdnews24.com, Jamuna TV, Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-10-10T16:09:54Z"
+ },
+ {
+  "title_hash": "aa81676666793743",
+  "url": "https://www.jamuna.tv/sports/665888",
+  "headline": "Cristiano Ronaldo provisionally suspended by Portugal after team walkout",
+  "topic": "ronaldo suspended portugal walkout",
+  "source": "bdnews24.com, Jamuna TV, Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-10-10T16:09:54Z"
+ },
+ {
+  "title_hash": "3a3f54169f813b7d",
+  "url": "https://www.prothomalo.com/sports/football/b4l1q7gkm1",
+  "headline": "Cristiano Ronaldo provisionally suspended by Portugal after team walkout",
+  "topic": "ronaldo suspended portugal walkout",
+  "source": "bdnews24.com, Jamuna TV, Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-10-10T16:09:54Z"
+ },
+ {
+  "title_hash": "9a88b92b80635ad6",
+  "url": "https://www.thedailystar.net/sports/football/news/portugal-suspend-ronaldo-after-national-team-walkout-4295161",
+  "headline": "Cristiano Ronaldo provisionally suspended by Portugal after team walkout",
+  "topic": "ronaldo suspended portugal walkout",
+  "source": "bdnews24.com, Jamuna TV, Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-10-10T16:09:54Z"
+ },
+ {
+  "title_hash": "dd69270b3d8b3c03",
+  "url": "https://www.thedailystar.net/business/news/musk-shares-starlink-mobile-launch-bangladesh-4295211",
+  "headline": "Elon Musk announces Starlink Mobile now available in Bangladesh",
+  "topic": "starlink mobile bangladesh",
+  "source": "The Daily Star",
+  "status": "queued",
+  "at": "2026-10-10T16:09:54Z"
  }
 ]
