@@ -1,75 +1,5 @@
 [
  {
-  "title_hash": "52c9409c0a6889d5",
-  "url": "https://www.jamuna.tv/all-bangladesh/665625",
-  "headline": "Chuadanga: Businessman beaten to death after being called to a house",
-  "topic": "businessman beaten to death in chuadanga",
-  "source": "Jamuna TV",
-  "status": "failed",
-  "at": "2026-10-06T15:07:11Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "e1e6fba0105cf349",
-  "url": "https://www.dhakatribune.com/bangladesh/421488/shoe-garland-hung-on-bir-sreshtha-hamidur-rahman",
-  "headline": "Shoe garland hung on Bir Sreshtha Hamidur Rahman sculpture in Jhenaidah",
-  "topic": "bir sreshtha hamidur rahman sculpture desecrated",
-  "source": "Dhaka Tribune, bdnews24.com, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-06T16:12:02Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "c6102b260d9ae0bb",
-  "url": "https://bdnews24.com/bangladesh/k08uxczpo9",
-  "headline": "Shoe garland hung on Bir Sreshtha Hamidur Rahman sculpture in Jhenaidah",
-  "topic": "bir sreshtha hamidur rahman sculpture desecrated",
-  "source": "Dhaka Tribune, bdnews24.com, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-06T16:12:02Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "cd6f19a0acc7ad74",
-  "url": "https://www.prothomalo.com/bangladesh/district/am6lhyrgw6",
-  "headline": "Shoe garland hung on Bir Sreshtha Hamidur Rahman sculpture in Jhenaidah",
-  "topic": "bir sreshtha hamidur rahman sculpture desecrated",
-  "source": "Dhaka Tribune, bdnews24.com, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-06T16:12:02Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "79ff212a08d6a79b",
-  "url": "https://www.dhakatribune.com/bangladesh/nation/421482/three-die-of-dengue-in-khulna-in-24-hours-302",
-  "headline": "Govt considering dengue vaccination in long term, but not now",
-  "topic": "dengue surge and vaccine plans",
-  "source": "Dhaka Tribune, Jamuna TV, bdnews24.com",
-  "status": "failed",
-  "at": "2026-10-06T16:12:02Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "da54069fb0398cc2",
   "url": "https://www.jamuna.tv/national/665617",
   "headline": "Govt considering dengue vaccination in long term, but not now",
@@ -8398,5 +8328,50 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "8dbbaab8f3534ff5",
+  "url": "https://www.dhakatribune.com/bangladesh/421734/durga-puja-festivities-begin-with-observance-of",
+  "headline": "Durga Puja festivities begin with Mahalaya observance across Bangladesh",
+  "topic": "mahalaya_durga_puja_begin",
+  "source": "Dhaka Tribune, Jamuna TV, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-10T05:09:34Z"
+ },
+ {
+  "title_hash": "69d7f5d7cda4386a",
+  "url": "https://www.jamuna.tv/national/665834",
+  "headline": "Durga Puja festivities begin with Mahalaya observance across Bangladesh",
+  "topic": "mahalaya_durga_puja_begin",
+  "source": "Dhaka Tribune, Jamuna TV, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-10T05:09:34Z"
+ },
+ {
+  "title_hash": "fe0994cbefd99073",
+  "url": "https://www.jamuna.tv/national/665828",
+  "headline": "Durga Puja festivities begin with Mahalaya observance across Bangladesh",
+  "topic": "mahalaya_durga_puja_begin",
+  "source": "Dhaka Tribune, Jamuna TV, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-10T05:09:34Z"
+ },
+ {
+  "title_hash": "c0be5b8f837320f7",
+  "url": "https://www.prothomalo.com/bangladesh/jhi359qt16",
+  "headline": "Durga Puja festivities begin with Mahalaya observance across Bangladesh",
+  "topic": "mahalaya_durga_puja_begin",
+  "source": "Dhaka Tribune, Jamuna TV, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-10T05:09:34Z"
+ },
+ {
+  "title_hash": "89d44ffd484b7032",
+  "url": "https://www.jamuna.tv/all-bangladesh/665837",
+  "headline": "CNG driver raped and killed 15-year-old student in Comilla",
+  "topic": "cumilla_student_rape_murder",
+  "source": "Jamuna TV",
+  "status": "queued",
+  "at": "2026-10-10T05:09:34Z"
  }
 ]
