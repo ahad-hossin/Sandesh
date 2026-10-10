@@ -8349,8 +8349,13 @@
   "headline": "Mahalaya marks start of Durga Puja festivities in Bangladesh",
   "topic": "mahalaya marks start of devi paksha",
   "source": "Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-10T04:12:23Z"
+  "status": "failed",
+  "at": "2026-10-10T04:12:23Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "fe0994cbefd99073",
@@ -8358,8 +8363,13 @@
   "headline": "Mahalaya marks start of Durga Puja festivities in Bangladesh",
   "topic": "mahalaya marks start of devi paksha",
   "source": "Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-10T04:12:23Z"
+  "status": "failed",
+  "at": "2026-10-10T04:12:23Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "c0be5b8f837320f7",
@@ -8367,8 +8377,13 @@
   "headline": "Mahalaya marks start of Durga Puja festivities in Bangladesh",
   "topic": "mahalaya marks start of devi paksha",
   "source": "Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-10T04:12:23Z"
+  "status": "failed",
+  "at": "2026-10-10T04:12:23Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "c82a521d3d18bf70",
@@ -8376,7 +8391,12 @@
   "headline": "Trump lifts sanctions on Russian fuel to lower global diesel prices",
   "topic": "trump putin diesel deal",
   "source": "bdnews24.com",
-  "status": "queued",
-  "at": "2026-10-10T04:12:23Z"
+  "status": "failed",
+  "at": "2026-10-10T04:12:23Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
