@@ -1,61 +1,5 @@
 [
  {
-  "title_hash": "b60ea26a9b2bafed",
-  "url": "https://www.jamuna.tv/all-bangladesh/665586",
-  "headline": "Habiganj ASI withdrawn after video of bribery remarks goes viral",
-  "topic": "habiganj asi bribery video viral",
-  "source": "Jamuna TV, The Daily Star, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-06T11:13:08Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "185c97caacd60fb5",
-  "url": "https://bdnews24.com/health/7776epqxh3",
-  "headline": "1,134 deaths recorded as measles outbreak kills 6 more children",
-  "topic": "measles outbreak death toll rises",
-  "source": "bdnews24.com, Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-10-06T11:13:08Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "a6438af1429fe64d",
-  "url": "https://www.dhakatribune.com/bangladesh/health/421448/measles-outbreak-death-toll-rises-to-1-134-as-6",
-  "headline": "1,134 deaths recorded as measles outbreak kills 6 more children",
-  "topic": "measles outbreak death toll rises",
-  "source": "bdnews24.com, Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-10-06T11:13:08Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "9b5786599a5cec8a",
-  "url": "https://bdnews24.com/health/7d4zguh4hx",
-  "headline": "10 die in a day: Dengue deaths hit record high for 2024",
-  "topic": "dengue deaths surge",
-  "source": "bdnews24.com, Jamuna TV",
-  "status": "failed",
-  "at": "2026-10-06T12:09:53Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "56df90923ba5b9be",
   "url": "https://www.jamuna.tv/national/665615",
   "headline": "10 die in a day: Dengue deaths hit record high for 2024",
@@ -8398,5 +8342,41 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "8a3e711affb57b3a",
+  "url": "https://www.jamuna.tv/national/665827",
+  "headline": "Cocktail explodes near PM's Office in Tejgaon late night, no casualties reported",
+  "topic": "Cocktail explosion PMO",
+  "source": "Jamuna TV",
+  "status": "queued",
+  "at": "2026-10-10T01:07:18Z"
+ },
+ {
+  "title_hash": "e334bf5814d8983e",
+  "url": "https://www.dhakatribune.com/bangladesh/crime/421728/bkash-manager-shot-tk3-core-looted-in-sreepur",
+  "headline": "bKash manager shot, Tk 3 crore looted in Sreepur, Gazipur",
+  "topic": "bKash manager shot, money looted",
+  "source": "Jamuna TV, Dhaka Tribune, bdnews24.com",
+  "status": "queued",
+  "at": "2026-10-10T01:07:18Z"
+ },
+ {
+  "title_hash": "af7c943724c32166",
+  "url": "https://www.jamuna.tv/all-bangladesh/665829",
+  "headline": "bKash manager shot, Tk 3 crore looted in Sreepur, Gazipur",
+  "topic": "bKash manager shot, money looted",
+  "source": "Jamuna TV, Dhaka Tribune, bdnews24.com",
+  "status": "queued",
+  "at": "2026-10-10T01:07:18Z"
+ },
+ {
+  "title_hash": "6ca51e8c69802636",
+  "url": "https://bdnews24.com/bangladesh/lcel9jpahr",
+  "headline": "bKash manager shot, Tk 3 crore looted in Sreepur, Gazipur",
+  "topic": "bKash manager shot, money looted",
+  "source": "Jamuna TV, Dhaka Tribune, bdnews24.com",
+  "status": "queued",
+  "at": "2026-10-10T01:07:18Z"
  }
 ]
