@@ -1,61 +1,5 @@
 [
  {
-  "title_hash": "56df90923ba5b9be",
-  "url": "https://www.jamuna.tv/national/665615",
-  "headline": "10 die in a day: Dengue deaths hit record high for 2024",
-  "topic": "dengue deaths surge",
-  "source": "bdnews24.com, Jamuna TV",
-  "status": "failed",
-  "at": "2026-10-06T12:09:53Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "17e2052dbd4586cb",
-  "url": "https://www.dhakatribune.com/bangladesh/421463/dmp-tight-security-planned-across-dhaka-for-durga",
-  "headline": "DMP: Tight security planned across Dhaka for Durga Puja",
-  "topic": "dhaka security for durga puja",
-  "source": "Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-10-06T12:09:53Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "7b7b4f5bbc9c8327",
-  "url": "https://www.dhakatribune.com/bangladesh/court/421464/travel-ban-imposed-on-jubo-league-leader-anwarul",
-  "headline": "DMP: Tight security planned across Dhaka for Durga Puja",
-  "topic": "dhaka security for durga puja",
-  "source": "Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-10-06T12:09:53Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "5e02c852d88f6306",
-  "url": "https://www.thedailystar.net/news/healthcare/disease/news/10-dengue-deaths-mark-deadliest-day-the-year-bangladesh-4291996",
-  "headline": "10 deaths in 24 hours: Dengue toll hits deadliest day of the year in Bangladesh",
-  "topic": "deadliest day dengue deaths",
-  "source": "The Daily Star, Dhaka Tribune, Jamuna TV, bdnews24.com, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-06T13:09:25Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "15cd4ecf1c2028c7",
   "url": "https://www.dhakatribune.com/bangladesh/health/421466/dengue-death-toll-rises-to-281-as-ten-more-die-in",
   "headline": "10 deaths in 24 hours: Dengue toll hits deadliest day of the year in Bangladesh",
@@ -8398,5 +8342,41 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "8a3e711affb57b3a",
+  "url": "https://www.jamuna.tv/national/665827",
+  "headline": "Cocktail bomb explodes near PM's office in Tejgaon late Friday night; no casualties reported",
+  "topic": "PMO cocktail blast",
+  "source": "Jamuna TV",
+  "status": "queued",
+  "at": "2026-10-10T02:06:58Z"
+ },
+ {
+  "title_hash": "e334bf5814d8983e",
+  "url": "https://www.dhakatribune.com/bangladesh/crime/421728/bkash-manager-shot-tk3-core-looted-in-sreepur",
+  "headline": "bKash manager shot, Tk 2.5 crore looted in Sreepur ambush",
+  "topic": "bKash manager shot and robbed Gazipur",
+  "source": "Dhaka Tribune, Jamuna TV, bdnews24.com",
+  "status": "queued",
+  "at": "2026-10-10T02:06:58Z"
+ },
+ {
+  "title_hash": "af7c943724c32166",
+  "url": "https://www.jamuna.tv/all-bangladesh/665829",
+  "headline": "bKash manager shot, Tk 2.5 crore looted in Sreepur ambush",
+  "topic": "bKash manager shot and robbed Gazipur",
+  "source": "Dhaka Tribune, Jamuna TV, bdnews24.com",
+  "status": "queued",
+  "at": "2026-10-10T02:06:58Z"
+ },
+ {
+  "title_hash": "6ca51e8c69802636",
+  "url": "https://bdnews24.com/bangladesh/lcel9jpahr",
+  "headline": "bKash manager shot, Tk 2.5 crore looted in Sreepur ambush",
+  "topic": "bKash manager shot and robbed Gazipur",
+  "source": "Dhaka Tribune, Jamuna TV, bdnews24.com",
+  "status": "queued",
+  "at": "2026-10-10T02:06:58Z"
  }
 ]
