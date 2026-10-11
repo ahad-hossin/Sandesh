@@ -1,61 +1,5 @@
 [
  {
-  "title_hash": "70d7b9fd6c33964a",
-  "url": "https://bdnews24.com/health/1kmnepzzn1",
-  "headline": "1,935 hospitalised as five more die of dengue in 24 hours",
-  "topic": "dengue deaths update",
-  "source": "The Daily Star, bdnews24.com",
-  "status": "failed",
-  "at": "2026-10-09T08:15:22Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "1d16443313086305",
-  "url": "https://www.thedailystar.net/news/bangladesh/news/dhaka-get-two-franchise-bus-routes-7-days-4294151",
-  "headline": "Dhaka to launch two franchise bus routes in 7 days as part of city-wide overhaul",
-  "topic": "dhaka franchise bus routes",
-  "source": "The Daily Star",
-  "status": "failed",
-  "at": "2026-10-09T08:15:22Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "d734e0e55772ab1f",
-  "url": "https://www.prothomalo.com/bangladesh/district/djacnqxclg",
-  "headline": "NZ citizen returns home after losing son in Cox's Bazar boat tragedy",
-  "topic": "man builds boat for world tour, loses son in Cox's Bazar",
-  "source": "Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-09T09:10:29Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "7156b681fef10132",
-  "url": "https://www.prothomalo.com/video/bangladesh/h6c6wyxxxl",
-  "headline": "NZ citizen returns home after losing son in Cox's Bazar boat tragedy",
-  "topic": "man builds boat for world tour, loses son in Cox's Bazar",
-  "source": "Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-09T09:10:29Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "92672f5683de0a5e",
   "url": "https://www.dhakatribune.com/bangladesh/421671/chittagong-opens-bangladesh-s-first-four-lane",
   "headline": "Bangladesh's first four-lane cycle track opens in Chattogram",
@@ -8398,5 +8342,41 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "fb75338856f9ecc0",
+  "url": "https://www.prothomalo.com/video/international/je9hmbca6y",
+  "headline": "12 killed, including 2 Bangladeshis, in Houthi missile attack on Riyadh airport",
+  "topic": "riyadh airport attack kills 12, including 2 Bangladeshis",
+  "source": "Prothom Alo, Jamuna TV",
+  "status": "queued",
+  "at": "2026-10-11T17:09:55Z"
+ },
+ {
+  "title_hash": "83565dd5d4c88b68",
+  "url": "https://www.jamuna.tv/international/665977",
+  "headline": "12 killed, including 2 Bangladeshis, in Houthi missile attack on Riyadh airport",
+  "topic": "riyadh airport attack kills 12, including 2 Bangladeshis",
+  "source": "Prothom Alo, Jamuna TV",
+  "status": "queued",
+  "at": "2026-10-11T17:09:55Z"
+ },
+ {
+  "title_hash": "8a31fe53572ef362",
+  "url": "https://www.thedailystar.net/business/economy/aviation/news/govt-plans-international-airport-trishal-feasibility-study-soon-aviation-minister-4296211",
+  "headline": "Govt to build international airport in Trishal, Mymensingh",
+  "topic": "govt plans international airport in trishal",
+  "source": "The Daily Star, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-11T17:09:55Z"
+ },
+ {
+  "title_hash": "4daf6fe22839134d",
+  "url": "https://www.prothomalo.com/video/bangladesh/9s4gwj0ut2",
+  "headline": "Govt to build international airport in Trishal, Mymensingh",
+  "topic": "govt plans international airport in trishal",
+  "source": "The Daily Star, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-11T17:09:55Z"
  }
 ]
