@@ -1,75 +1,5 @@
 [
  {
-  "title_hash": "93876470ba21e4f2",
-  "url": "https://www.prothomalo.com/world/usa/neu0e5ixbu",
-  "headline": "US loses 81 aircraft and drones in conflict with Iran",
-  "topic": "US loses 81 aircraft in Iran conflict",
-  "source": "Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-07T13:10:48Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "1e0621eaf75d2191",
-  "url": "https://bdnews24.com/sport/i5agosl42b",
-  "headline": "Messi plays final match for Argentina, scores and assists twice",
-  "topic": "messi argentina farewell",
-  "source": "bdnews24.com, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-07T14:15:32Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "31611eeba204985e",
-  "url": "https://www.prothomalo.com/sports/football/h8j1fg4gqy",
-  "headline": "Messi plays final match for Argentina, scores and assists twice",
-  "topic": "messi argentina farewell",
-  "source": "bdnews24.com, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-07T14:15:32Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "37028de6c0915173",
-  "url": "https://www.prothomalo.com/sports/football/76xzk6u19b",
-  "headline": "Messi plays final match for Argentina, scores and assists twice",
-  "topic": "messi argentina farewell",
-  "source": "bdnews24.com, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-07T14:15:32Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "6be251d16ad7e518",
-  "url": "https://www.dhakatribune.com/bangladesh/421565/22-day-ban-on-ilish-catching-begins-at-midnight",
-  "headline": "723 tons of rice distributed as 22-day ban on ilish catching begins",
-  "topic": "ilish catching ban",
-  "source": "Dhaka Tribune, Jamuna TV",
-  "status": "failed",
-  "at": "2026-10-07T14:15:32Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "6e8b79d5ac030aff",
   "url": "https://www.jamuna.tv/all-bangladesh/665670",
   "headline": "723 tons of rice distributed as 22-day ban on ilish catching begins",
@@ -8398,5 +8328,50 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "85a59f728ddfbb20",
+  "url": "https://www.thedailystar.net/news/world/news/two-bangladeshis-among-12-killed-riyadh-airport-attack-300-more-injured-4295676",
+  "headline": "12 killed, 2 Bangladeshis among them, 309 injured in Riyadh airport attack blamed on Houthis",
+  "topic": "riyadh airport attack bangladeshis killed",
+  "source": "Jamuna TV, The Daily Star, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-11T02:06:57Z"
+ },
+ {
+  "title_hash": "f3a7668d4b98d679",
+  "url": "https://www.jamuna.tv/international/665897",
+  "headline": "12 killed, 2 Bangladeshis among them, 309 injured in Riyadh airport attack blamed on Houthis",
+  "topic": "riyadh airport attack bangladeshis killed",
+  "source": "Jamuna TV, The Daily Star, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-11T02:06:57Z"
+ },
+ {
+  "title_hash": "3f3433f827b8cbbd",
+  "url": "https://www.prothomalo.com/world/middle-east/nejho89ry1",
+  "headline": "12 killed, 2 Bangladeshis among them, 309 injured in Riyadh airport attack blamed on Houthis",
+  "topic": "riyadh airport attack bangladeshis killed",
+  "source": "Jamuna TV, The Daily Star, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-11T02:06:57Z"
+ },
+ {
+  "title_hash": "7dc8e33f8c59f3d0",
+  "url": "https://www.prothomalo.com/world/middle-east/zt26faogqn",
+  "headline": "12 killed, 2 Bangladeshis among them, 309 injured in Riyadh airport attack blamed on Houthis",
+  "topic": "riyadh airport attack bangladeshis killed",
+  "source": "Jamuna TV, The Daily Star, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-11T02:06:57Z"
+ },
+ {
+  "title_hash": "59dc819522d02aba",
+  "url": "https://www.prothomalo.com/bangladesh/9883mp60t4",
+  "headline": "Tania stops her child marriage after scoring GPA-5 in SSC, defying family pressure",
+  "topic": "girl prevents child marriage",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-11T02:06:57Z"
  }
 ]
