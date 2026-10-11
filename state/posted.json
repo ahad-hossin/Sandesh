@@ -8349,8 +8349,13 @@
   "headline": "12 killed, including 2 Bangladeshis, in Houthi missile attack on Riyadh airport",
   "topic": "riyadh airport attack kills 12, including 2 Bangladeshis",
   "source": "Prothom Alo, Jamuna TV",
-  "status": "queued",
-  "at": "2026-10-11T17:09:55Z"
+  "status": "failed",
+  "at": "2026-10-11T17:09:55Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "83565dd5d4c88b68",
@@ -8358,8 +8363,13 @@
   "headline": "12 killed, including 2 Bangladeshis, in Houthi missile attack on Riyadh airport",
   "topic": "riyadh airport attack kills 12, including 2 Bangladeshis",
   "source": "Prothom Alo, Jamuna TV",
-  "status": "queued",
-  "at": "2026-10-11T17:09:55Z"
+  "status": "failed",
+  "at": "2026-10-11T17:09:55Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "8a31fe53572ef362",
@@ -8367,8 +8377,13 @@
   "headline": "Govt to build international airport in Trishal, Mymensingh",
   "topic": "govt plans international airport in trishal",
   "source": "The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-11T17:09:55Z"
+  "status": "failed",
+  "at": "2026-10-11T17:09:55Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "4daf6fe22839134d",
@@ -8376,7 +8391,12 @@
   "headline": "Govt to build international airport in Trishal, Mymensingh",
   "topic": "govt plans international airport in trishal",
   "source": "The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-11T17:09:55Z"
+  "status": "failed",
+  "at": "2026-10-11T17:09:55Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
