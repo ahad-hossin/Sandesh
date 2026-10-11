@@ -8349,8 +8349,13 @@
   "headline": "Govt decides in principle to relocate Secretariat to Agargaon",
   "topic": "secretariat relocation agargaon",
   "source": "The Daily Star",
-  "status": "queued",
-  "at": "2026-10-11T23:12:29Z"
+  "status": "failed",
+  "at": "2026-10-11T23:12:29Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "66474c7b84a951f3",
@@ -8358,8 +8363,13 @@
   "headline": "Govt decides in principle to relocate Secretariat to Agargaon",
   "topic": "secretariat relocation agargaon",
   "source": "The Daily Star",
-  "status": "queued",
-  "at": "2026-10-11T23:12:29Z"
+  "status": "failed",
+  "at": "2026-10-11T23:12:29Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "6d3b13581e8b47ac",
@@ -8367,8 +8377,13 @@
   "headline": "Bangladesh's foreign debt hits record $114.98 billion as public liabilities surge",
   "topic": "foreign debt record",
   "source": "bdnews24.com, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-11T23:12:29Z"
+  "status": "failed",
+  "at": "2026-10-11T23:12:29Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "cb5f7604e07de077",
@@ -8376,7 +8391,12 @@
   "headline": "Bangladesh's foreign debt hits record $114.98 billion as public liabilities surge",
   "topic": "foreign debt record",
   "source": "bdnews24.com, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-11T23:12:29Z"
+  "status": "failed",
+  "at": "2026-10-11T23:12:29Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
