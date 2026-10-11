@@ -1,89 +1,5 @@
 [
  {
-  "title_hash": "88d98844040922d5",
-  "url": "https://www.prothomalo.com/bangladesh/district/uirgm7eryf",
-  "headline": "5 arrested after 13-month-old child allegedly sold for Tk 2 lakh in Mymensingh",
-  "topic": "child sold for 2 lakh tk",
-  "source": "Dhaka Tribune, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-07T16:09:02Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "89d4151630de62dc",
-  "url": "https://www.prothomalo.com/bangladesh/yebhaabe-rkssaa-pel-baanlaadesher-syaattelaaitt",
-  "headline": "852m gap: Bangladesh Satellite-1 narrowly avoids collision with debris",
-  "topic": "bangladesh satellite saved",
-  "source": "Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-07T16:09:02Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "56da280346983f70",
-  "url": "https://www.prothomalo.com/bangladesh/cb196xvhrt",
-  "headline": "852m gap: Bangladesh Satellite-1 narrowly avoids collision with debris",
-  "topic": "bangladesh satellite saved",
-  "source": "Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-07T16:09:02Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "b2fc54dc69f6cdf3",
-  "url": "https://bdnews24.com/business/xfrc3v10jp",
-  "headline": "Biman Bangladesh Airlines signs deal to buy 10 aircraft from Airbus",
-  "topic": "biman airbus deal",
-  "source": "Jamuna TV, bdnews24.com, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-07T18:09:57Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "2cc02c89d8aceabc",
-  "url": "https://www.jamuna.tv/national/665710",
-  "headline": "Biman Bangladesh Airlines signs deal to buy 10 aircraft from Airbus",
-  "topic": "biman airbus deal",
-  "source": "Jamuna TV, bdnews24.com, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-07T18:09:57Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "385528d44b71220b",
-  "url": "https://www.prothomalo.com/bangladesh/k95e0mf22q",
-  "headline": "Biman Bangladesh Airlines signs deal to buy 10 aircraft from Airbus",
-  "topic": "biman airbus deal",
-  "source": "Jamuna TV, bdnews24.com, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-07T18:09:57Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "3fc97a6f98c423c4",
   "url": "https://www.dhakatribune.com/bangladesh/nation/421585/german-tourist-stranded-after-belongings-go",
   "headline": "German tourist loses bag with laptop and camera at Natore railway station",
@@ -8398,5 +8314,59 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "1deb126154aaf374",
+  "url": "https://bdnews24.com/world/we0iknbo7v",
+  "headline": "Two Bangladeshis among 12 dead in Houthi attack on Riyadh airport, 309 wounded",
+  "topic": "riyadh airport attack bangladeshis killed",
+  "source": "bdnews24.com, Jamuna TV, Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-10-11T04:07:11Z"
+ },
+ {
+  "title_hash": "3835d478f7ae2657",
+  "url": "https://www.jamuna.tv/international/665897",
+  "headline": "Two Bangladeshis among 12 dead in Houthi attack on Riyadh airport, 309 wounded",
+  "topic": "riyadh airport attack bangladeshis killed",
+  "source": "bdnews24.com, Jamuna TV, Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-10-11T04:07:11Z"
+ },
+ {
+  "title_hash": "8fdbd8107399565c",
+  "url": "https://www.prothomalo.com/world/middle-east/saudir-bimaanbndre-haamlaa-dui-baanlaadeshi-niht",
+  "headline": "Two Bangladeshis among 12 dead in Houthi attack on Riyadh airport, 309 wounded",
+  "topic": "riyadh airport attack bangladeshis killed",
+  "source": "bdnews24.com, Jamuna TV, Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-10-11T04:07:11Z"
+ },
+ {
+  "title_hash": "85a59f728ddfbb20",
+  "url": "https://www.thedailystar.net/news/world/news/two-bangladeshis-among-12-killed-riyadh-airport-attack-300-more-injured-4295676",
+  "headline": "Two Bangladeshis among 12 dead in Houthi attack on Riyadh airport, 309 wounded",
+  "topic": "riyadh airport attack bangladeshis killed",
+  "source": "bdnews24.com, Jamuna TV, Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-10-11T04:07:11Z"
+ },
+ {
+  "title_hash": "3f3433f827b8cbbd",
+  "url": "https://www.prothomalo.com/world/middle-east/nejho89ry1",
+  "headline": "Two Bangladeshis among 12 dead in Houthi attack on Riyadh airport, 309 wounded",
+  "topic": "riyadh airport attack bangladeshis killed",
+  "source": "bdnews24.com, Jamuna TV, Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-10-11T04:07:11Z"
+ },
+ {
+  "title_hash": "a7acefb118237f70",
+  "url": "https://www.dhakatribune.com/bangladesh/dhaka/421813/dhaka-ranks-6th-most-polluted-city",
+  "headline": "Air quality crisis: Dhaka ranks 6th most polluted city globally",
+  "topic": "dhaka air pollution ranking",
+  "source": "Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-10-11T04:07:11Z"
  }
 ]
