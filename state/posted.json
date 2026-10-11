@@ -1,61 +1,5 @@
 [
  {
-  "title_hash": "01c8cb31e74882ff",
-  "url": "https://www.prothomalo.com/sports/cricket/vcx5l0dnzs",
-  "headline": "Bangladesh 317/8 after Day 1 in Abu Dhabi Test vs Afghanistan",
-  "topic": "bangladesh cricket team score first day",
-  "source": "Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-09T15:10:33Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "18dafd23f96de4c9",
-  "url": "https://www.jamuna.tv/sports/665815",
-  "headline": "317/8: Bangladesh score 317 for 8 on Day 1 vs Afghanistan",
-  "topic": "bangladesh cricket team score first day",
-  "source": "Jamuna TV",
-  "status": "failed",
-  "at": "2026-10-09T15:10:33Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "93f347f621bb8c54",
-  "url": "https://bdnews24.com/politics/7dzvamdpfz",
-  "headline": "700 auto-rickshaws: Jamaat demands proof of DNCC chief’s claim",
-  "topic": "jamaat auto-rickshaw controversy",
-  "source": "Jamuna TV, bdnews24.com, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-09T16:08:59Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "6fadc13e46ab0d20",
-  "url": "https://www.jamuna.tv/politics/665822",
-  "headline": "700 auto-rickshaws: Jamaat demands proof of DNCC chief’s claim",
-  "topic": "jamaat auto-rickshaw controversy",
-  "source": "Jamuna TV, bdnews24.com, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-09T16:08:59Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "ef060e15d3aba8c7",
   "url": "https://www.prothomalo.com/politics/rvu81nln5z",
   "headline": "700 auto-rickshaws: Jamaat demands proof of DNCC chief’s claim",
@@ -8398,5 +8342,41 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "7a24eb33260761dd",
+  "url": "https://www.thedailystar.net/news/governance/news/government-decides-principle-relocate-secretariat-agargaon-4296431",
+  "headline": "Govt decides in principle to relocate Secretariat to Agargaon",
+  "topic": "secretariat relocation agargaon",
+  "source": "The Daily Star",
+  "status": "queued",
+  "at": "2026-10-11T23:12:29Z"
+ },
+ {
+  "title_hash": "66474c7b84a951f3",
+  "url": "https://www.thedailystar.net/news/bangladesh/news/govt-decides-relocate-secretariat-agargaon-4296561",
+  "headline": "Govt decides in principle to relocate Secretariat to Agargaon",
+  "topic": "secretariat relocation agargaon",
+  "source": "The Daily Star",
+  "status": "queued",
+  "at": "2026-10-11T23:12:29Z"
+ },
+ {
+  "title_hash": "6d3b13581e8b47ac",
+  "url": "https://bdnews24.com/economy/gcvg77ywac",
+  "headline": "Bangladesh's foreign debt hits record $114.98 billion as public liabilities surge",
+  "topic": "foreign debt record",
+  "source": "bdnews24.com, The Daily Star",
+  "status": "queued",
+  "at": "2026-10-11T23:12:29Z"
+ },
+ {
+  "title_hash": "cb5f7604e07de077",
+  "url": "https://www.thedailystar.net/business/economy/news/foreign-debt-rises-11498b-4296366",
+  "headline": "Bangladesh's foreign debt hits record $114.98 billion as public liabilities surge",
+  "topic": "foreign debt record",
+  "source": "bdnews24.com, The Daily Star",
+  "status": "queued",
+  "at": "2026-10-11T23:12:29Z"
  }
 ]
