@@ -1,75 +1,5 @@
 [
  {
-  "title_hash": "6e8b79d5ac030aff",
-  "url": "https://www.jamuna.tv/all-bangladesh/665670",
-  "headline": "723 tons of rice distributed as 22-day ban on ilish catching begins",
-  "topic": "ilish catching ban",
-  "source": "Dhaka Tribune, Jamuna TV",
-  "status": "failed",
-  "at": "2026-10-07T14:15:32Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "5247e5385f34d026",
-  "url": "https://www.dhakatribune.com/bangladesh/crime/421571/17-year-old-rakibul-abducted-for-ransom-killed-by",
-  "headline": "Student killed by friend for ransom, body found in carton in Nilphamari",
-  "topic": "rakibul abducted and killed by friend",
-  "source": "Dhaka Tribune, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-07T15:31:54Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "d3bc40671ca55328",
-  "url": "https://www.prothomalo.com/bangladesh/crime/9yof4fl3md",
-  "headline": "Student killed by friend for ransom, body found in carton in Nilphamari",
-  "topic": "rakibul abducted and killed by friend",
-  "source": "Dhaka Tribune, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-07T15:31:54Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "88d98844040922d5",
-  "url": "https://www.prothomalo.com/bangladesh/district/uirgm7eryf",
-  "headline": "5 arrested after 13-month-old baby sold for 2 lakh BDT in Mymensingh",
-  "topic": "baby sold for 2 lakh taka",
-  "source": "Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-07T15:31:54Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "bca50ddc966974ff",
-  "url": "https://www.dhakatribune.com/bangladesh/nation/421582/child-allegedly-sold-for-tk-2-lakh-5-arrested-in",
-  "headline": "5 arrested after 13-month-old child allegedly sold for Tk 2 lakh in Mymensingh",
-  "topic": "child sold for 2 lakh tk",
-  "source": "Dhaka Tribune, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-07T16:09:02Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "88d98844040922d5",
   "url": "https://www.prothomalo.com/bangladesh/district/uirgm7eryf",
   "headline": "5 arrested after 13-month-old child allegedly sold for Tk 2 lakh in Mymensingh",
@@ -8398,5 +8328,50 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "85a59f728ddfbb20",
+  "url": "https://www.thedailystar.net/news/world/news/two-bangladeshis-among-12-killed-riyadh-airport-attack-300-more-injured-4295676",
+  "headline": "12 killed, 309 injured in Riyadh airport attack; 2 Bangladeshis among dead",
+  "topic": "riyadh airport attack bangladeshis killed",
+  "source": "Jamuna TV, The Daily Star, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-11T03:07:06Z"
+ },
+ {
+  "title_hash": "3835d478f7ae2657",
+  "url": "https://www.jamuna.tv/international/665897",
+  "headline": "12 killed, 309 injured in Riyadh airport attack; 2 Bangladeshis among dead",
+  "topic": "riyadh airport attack bangladeshis killed",
+  "source": "Jamuna TV, The Daily Star, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-11T03:07:06Z"
+ },
+ {
+  "title_hash": "3f3433f827b8cbbd",
+  "url": "https://www.prothomalo.com/world/middle-east/nejho89ry1",
+  "headline": "12 killed, 309 injured in Riyadh airport attack; 2 Bangladeshis among dead",
+  "topic": "riyadh airport attack bangladeshis killed",
+  "source": "Jamuna TV, The Daily Star, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-11T03:07:06Z"
+ },
+ {
+  "title_hash": "a7ab698fc35ea643",
+  "url": "https://www.thedailystar.net/news/world/news/us-gunman-shoots-dead-7-relatives-family-friend-4295681",
+  "headline": "US gunman kills 8 relatives and family friend including pregnant woman, 2 children",
+  "topic": "us mass shooting 8 killed",
+  "source": "Jamuna TV, The Daily Star",
+  "status": "queued",
+  "at": "2026-10-11T03:07:06Z"
+ },
+ {
+  "title_hash": "ab9b720656496745",
+  "url": "https://www.jamuna.tv/international/665898",
+  "headline": "US gunman kills 8 relatives and family friend including pregnant woman, 2 children",
+  "topic": "us mass shooting 8 killed",
+  "source": "Jamuna TV, The Daily Star",
+  "status": "queued",
+  "at": "2026-10-11T03:07:06Z"
  }
 ]
