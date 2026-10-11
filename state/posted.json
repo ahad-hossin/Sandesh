@@ -8335,8 +8335,13 @@
   "headline": "12 killed, 309 injured in Riyadh airport attack; 2 Bangladeshis among dead",
   "topic": "riyadh airport attack bangladeshis killed",
   "source": "Jamuna TV, The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-11T03:07:06Z"
+  "status": "failed",
+  "at": "2026-10-11T03:07:06Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "3835d478f7ae2657",
@@ -8344,8 +8349,13 @@
   "headline": "12 killed, 309 injured in Riyadh airport attack; 2 Bangladeshis among dead",
   "topic": "riyadh airport attack bangladeshis killed",
   "source": "Jamuna TV, The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-11T03:07:06Z"
+  "status": "failed",
+  "at": "2026-10-11T03:07:06Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "3f3433f827b8cbbd",
@@ -8353,8 +8363,13 @@
   "headline": "12 killed, 309 injured in Riyadh airport attack; 2 Bangladeshis among dead",
   "topic": "riyadh airport attack bangladeshis killed",
   "source": "Jamuna TV, The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-11T03:07:06Z"
+  "status": "failed",
+  "at": "2026-10-11T03:07:06Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "a7ab698fc35ea643",
@@ -8362,8 +8377,13 @@
   "headline": "US gunman kills 8 relatives and family friend including pregnant woman, 2 children",
   "topic": "us mass shooting 8 killed",
   "source": "Jamuna TV, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-11T03:07:06Z"
+  "status": "failed",
+  "at": "2026-10-11T03:07:06Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "ab9b720656496745",
@@ -8371,7 +8391,12 @@
   "headline": "US gunman kills 8 relatives and family friend including pregnant woman, 2 children",
   "topic": "us mass shooting 8 killed",
   "source": "Jamuna TV, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-11T03:07:06Z"
+  "status": "failed",
+  "at": "2026-10-11T03:07:06Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
