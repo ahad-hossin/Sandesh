@@ -8335,8 +8335,13 @@
   "headline": "12 killed, 2 Bangladeshis among them, 309 injured in Riyadh airport attack blamed on Houthis",
   "topic": "riyadh airport attack bangladeshis killed",
   "source": "Jamuna TV, The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-11T02:06:57Z"
+  "status": "failed",
+  "at": "2026-10-11T02:06:57Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "f3a7668d4b98d679",
@@ -8344,8 +8349,13 @@
   "headline": "12 killed, 2 Bangladeshis among them, 309 injured in Riyadh airport attack blamed on Houthis",
   "topic": "riyadh airport attack bangladeshis killed",
   "source": "Jamuna TV, The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-11T02:06:57Z"
+  "status": "failed",
+  "at": "2026-10-11T02:06:57Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "3f3433f827b8cbbd",
@@ -8353,8 +8363,13 @@
   "headline": "12 killed, 2 Bangladeshis among them, 309 injured in Riyadh airport attack blamed on Houthis",
   "topic": "riyadh airport attack bangladeshis killed",
   "source": "Jamuna TV, The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-11T02:06:57Z"
+  "status": "failed",
+  "at": "2026-10-11T02:06:57Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "7dc8e33f8c59f3d0",
@@ -8362,8 +8377,13 @@
   "headline": "12 killed, 2 Bangladeshis among them, 309 injured in Riyadh airport attack blamed on Houthis",
   "topic": "riyadh airport attack bangladeshis killed",
   "source": "Jamuna TV, The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-11T02:06:57Z"
+  "status": "failed",
+  "at": "2026-10-11T02:06:57Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "59dc819522d02aba",
@@ -8371,7 +8391,12 @@
   "headline": "Tania stops her child marriage after scoring GPA-5 in SSC, defying family pressure",
   "topic": "girl prevents child marriage",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-11T02:06:57Z"
+  "status": "failed",
+  "at": "2026-10-11T02:06:57Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
