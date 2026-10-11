@@ -8321,8 +8321,13 @@
   "headline": "Two Bangladeshis among 12 dead in Houthi attack on Riyadh airport, 309 wounded",
   "topic": "riyadh airport attack bangladeshis killed",
   "source": "bdnews24.com, Jamuna TV, Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-11T04:07:11Z"
+  "status": "failed",
+  "at": "2026-10-11T04:07:11Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "3835d478f7ae2657",
@@ -8330,8 +8335,13 @@
   "headline": "Two Bangladeshis among 12 dead in Houthi attack on Riyadh airport, 309 wounded",
   "topic": "riyadh airport attack bangladeshis killed",
   "source": "bdnews24.com, Jamuna TV, Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-11T04:07:11Z"
+  "status": "failed",
+  "at": "2026-10-11T04:07:11Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "8fdbd8107399565c",
@@ -8339,8 +8349,13 @@
   "headline": "Two Bangladeshis among 12 dead in Houthi attack on Riyadh airport, 309 wounded",
   "topic": "riyadh airport attack bangladeshis killed",
   "source": "bdnews24.com, Jamuna TV, Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-11T04:07:11Z"
+  "status": "failed",
+  "at": "2026-10-11T04:07:11Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "85a59f728ddfbb20",
@@ -8348,8 +8363,13 @@
   "headline": "Two Bangladeshis among 12 dead in Houthi attack on Riyadh airport, 309 wounded",
   "topic": "riyadh airport attack bangladeshis killed",
   "source": "bdnews24.com, Jamuna TV, Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-11T04:07:11Z"
+  "status": "failed",
+  "at": "2026-10-11T04:07:11Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "3f3433f827b8cbbd",
@@ -8357,8 +8377,13 @@
   "headline": "Two Bangladeshis among 12 dead in Houthi attack on Riyadh airport, 309 wounded",
   "topic": "riyadh airport attack bangladeshis killed",
   "source": "bdnews24.com, Jamuna TV, Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-11T04:07:11Z"
+  "status": "failed",
+  "at": "2026-10-11T04:07:11Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "a7acefb118237f70",
@@ -8366,7 +8391,12 @@
   "headline": "Air quality crisis: Dhaka ranks 6th most polluted city globally",
   "topic": "dhaka air pollution ranking",
   "source": "Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-10-11T04:07:11Z"
+  "status": "failed",
+  "at": "2026-10-11T04:07:11Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
