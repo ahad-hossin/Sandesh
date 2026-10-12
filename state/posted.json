@@ -8363,8 +8363,13 @@
   "headline": "4,851 passengers stranded as 28 Dhaka-Saudi flights cancelled",
   "topic": "dhaka saudi flight cancellations",
   "source": "bdnews24.com, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-10-12T11:10:34Z"
+  "status": "failed",
+  "at": "2026-10-12T11:10:34Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "ead442f866361abd",
@@ -8372,8 +8377,13 @@
   "headline": "4,851 passengers stranded as 28 Dhaka-Saudi flights cancelled",
   "topic": "dhaka saudi flight cancellations",
   "source": "bdnews24.com, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-10-12T11:10:34Z"
+  "status": "failed",
+  "at": "2026-10-12T11:10:34Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "e35ca114163a0bc9",
@@ -8381,7 +8391,12 @@
   "headline": "US academics Hall and Woodford win Nobel economics prize for stabilizing economies",
   "topic": "nobel prize in economics awarded",
   "source": "bdnews24.com",
-  "status": "queued",
-  "at": "2026-10-12T11:10:34Z"
+  "status": "failed",
+  "at": "2026-10-12T11:10:34Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
