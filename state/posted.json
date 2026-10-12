@@ -1,47 +1,5 @@
 [
  {
-  "title_hash": "558f863cb7a2480f",
-  "url": "https://www.thedailystar.net/news/crime-justice/news/cng-driver-confesses-rape-and-murder-15-year-old-cumilla-4294936",
-  "headline": "CNG driver raped and killed 15-year-old schoolgirl in Cumilla",
-  "topic": "cumilla schoolgirl rape murder",
-  "source": "The Daily Star, bdnews24.com, Prothom Alo, Jamuna TV",
-  "status": "failed",
-  "at": "2026-10-10T08:08:53Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "c7a7c928eac6b883",
-  "url": "https://bdnews24.com/bangladesh/41juoh9mgw",
-  "headline": "CNG driver raped and killed 15-year-old schoolgirl in Cumilla",
-  "topic": "cumilla schoolgirl rape murder",
-  "source": "The Daily Star, bdnews24.com, Prothom Alo, Jamuna TV",
-  "status": "failed",
-  "at": "2026-10-10T08:08:53Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "17478c0eccae2937",
-  "url": "https://www.prothomalo.com/bangladesh/district/75fspwjo6l",
-  "headline": "CNG driver raped and killed 15-year-old schoolgirl in Cumilla",
-  "topic": "cumilla schoolgirl rape murder",
-  "source": "The Daily Star, bdnews24.com, Prothom Alo, Jamuna TV",
-  "status": "failed",
-  "at": "2026-10-10T08:08:53Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "89d44ffd484b7032",
   "url": "https://www.jamuna.tv/all-bangladesh/665837",
   "headline": "CNG driver raped and killed 15-year-old schoolgirl in Cumilla",
@@ -8398,5 +8356,32 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "ecdbfe1b888b607b",
+  "url": "https://bdnews24.com/aviation/itc461h7zs",
+  "headline": "4,851 passengers stranded as 28 Dhaka-Saudi flights cancelled",
+  "topic": "dhaka saudi flight cancellations",
+  "source": "bdnews24.com, Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-10-12T11:10:34Z"
+ },
+ {
+  "title_hash": "ead442f866361abd",
+  "url": "https://www.dhakatribune.com/bangladesh/421924/18-more-flights-cancelled-4-851-passengers",
+  "headline": "4,851 passengers stranded as 28 Dhaka-Saudi flights cancelled",
+  "topic": "dhaka saudi flight cancellations",
+  "source": "bdnews24.com, Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-10-12T11:10:34Z"
+ },
+ {
+  "title_hash": "e35ca114163a0bc9",
+  "url": "https://bdnews24.com/economy/evyy3mjm7i",
+  "headline": "US academics Hall and Woodford win Nobel economics prize for stabilizing economies",
+  "topic": "nobel prize in economics awarded",
+  "source": "bdnews24.com",
+  "status": "queued",
+  "at": "2026-10-12T11:10:34Z"
  }
 ]
