@@ -8321,8 +8321,13 @@
   "headline": "Fire breaks out at Chawkbazar market, 5 units responding",
   "topic": "fire breaks out at Chawkbazar market",
   "source": "bdnews24.com, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-10-12T15:08:35Z"
+  "status": "failed",
+  "at": "2026-10-12T15:08:35Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "f3d1f994b1c08f1e",
@@ -8330,8 +8335,13 @@
   "headline": "Fire breaks out at Chawkbazar market, 5 units responding",
   "topic": "fire breaks out at Chawkbazar market",
   "source": "bdnews24.com, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-10-12T15:08:35Z"
+  "status": "failed",
+  "at": "2026-10-12T15:08:35Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "639d91c5dbf14173",
@@ -8339,8 +8349,13 @@
   "headline": "Fire breaks out at Chawkbazar market, 5 units responding",
   "topic": "fire breaks out at Chawkbazar market",
   "source": "bdnews24.com, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-10-12T15:08:35Z"
+  "status": "failed",
+  "at": "2026-10-12T15:08:35Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "b75fb0fe37be9dd6",
@@ -8348,8 +8363,13 @@
   "headline": "Two retired army officers remanded over alleged plot to destabilise Bangladesh",
   "topic": "two retired army officers arrested over alleged anti-state conspiracy",
   "source": "The Daily Star, bdnews24.com, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-10-12T15:08:35Z"
+  "status": "failed",
+  "at": "2026-10-12T15:08:35Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "58aedb08d478dc66",
@@ -8357,8 +8377,13 @@
   "headline": "Two retired army officers remanded over alleged plot to destabilise Bangladesh",
   "topic": "two retired army officers arrested over alleged anti-state conspiracy",
   "source": "The Daily Star, bdnews24.com, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-10-12T15:08:35Z"
+  "status": "failed",
+  "at": "2026-10-12T15:08:35Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "c47c56f80041d073",
@@ -8366,7 +8391,12 @@
   "headline": "Two retired army officers remanded over alleged plot to destabilise Bangladesh",
   "topic": "two retired army officers arrested over alleged anti-state conspiracy",
   "source": "The Daily Star, bdnews24.com, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-10-12T15:08:35Z"
+  "status": "failed",
+  "at": "2026-10-12T15:08:35Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
