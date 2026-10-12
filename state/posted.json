@@ -8321,8 +8321,13 @@
   "headline": "3,431 passengers stranded as 10 Dhaka flights cancelled due to Riyadh airport closure",
   "topic": "riyadh airport attack flight cancellations",
   "source": "The Daily Star, Dhaka Tribune, Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-12T09:08:24Z"
+  "status": "failed",
+  "at": "2026-10-12T09:08:24Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "89986f5dff6d9db1",
@@ -8330,8 +8335,13 @@
   "headline": "3,431 passengers stranded as 10 Dhaka flights cancelled due to Riyadh airport closure",
   "topic": "riyadh airport attack flight cancellations",
   "source": "The Daily Star, Dhaka Tribune, Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-12T09:08:24Z"
+  "status": "failed",
+  "at": "2026-10-12T09:08:24Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "b84101ff9c982bd6",
@@ -8339,8 +8349,13 @@
   "headline": "3,431 passengers stranded as 10 Dhaka flights cancelled due to Riyadh airport closure",
   "topic": "riyadh airport attack flight cancellations",
   "source": "The Daily Star, Dhaka Tribune, Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-12T09:08:24Z"
+  "status": "failed",
+  "at": "2026-10-12T09:08:24Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "fd3e51814cc08cba",
@@ -8348,8 +8363,13 @@
   "headline": "3,431 passengers stranded as 10 Dhaka flights cancelled due to Riyadh airport closure",
   "topic": "riyadh airport attack flight cancellations",
   "source": "The Daily Star, Dhaka Tribune, Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-12T09:08:24Z"
+  "status": "failed",
+  "at": "2026-10-12T09:08:24Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "dfd4a27b4aa98dfe",
@@ -8357,8 +8377,13 @@
   "headline": "2 Two Bangladeshis killed in Houthi attack at Saudi airport",
   "topic": "bangladeshis killed in riyadh attack",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-12T09:08:24Z"
+  "status": "failed",
+  "at": "2026-10-12T09:08:24Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "89b84e09b23f6296",
@@ -8366,7 +8391,12 @@
   "headline": "2 Two Bangladeshis killed in Houthi attack at Saudi airport",
   "topic": "bangladeshis killed in riyadh attack",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-12T09:08:24Z"
+  "status": "failed",
+  "at": "2026-10-12T09:08:24Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
