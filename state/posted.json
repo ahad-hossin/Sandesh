@@ -8335,8 +8335,13 @@
   "headline": "5,418 passengers stranded as 51 flights from Dhaka to Saudi Arabia cancelled",
   "topic": "riyadh airport attacks disrupt flights from dhaka",
   "source": "Dhaka Tribune, bdnews24.com",
-  "status": "queued",
-  "at": "2026-10-12T13:09:48Z"
+  "status": "failed",
+  "at": "2026-10-12T13:09:48Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "a47d9d4265cea543",
@@ -8344,8 +8349,13 @@
   "headline": "5,418 passengers stranded as 51 flights from Dhaka to Saudi Arabia cancelled",
   "topic": "riyadh airport attacks disrupt flights from dhaka",
   "source": "Dhaka Tribune, bdnews24.com",
-  "status": "queued",
-  "at": "2026-10-12T13:09:48Z"
+  "status": "failed",
+  "at": "2026-10-12T13:09:48Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "56da0e762b434a7d",
@@ -8353,8 +8363,13 @@
   "headline": "5,418 passengers stranded as 51 flights from Dhaka to Saudi Arabia cancelled",
   "topic": "riyadh airport attacks disrupt flights from dhaka",
   "source": "Dhaka Tribune, bdnews24.com",
-  "status": "queued",
-  "at": "2026-10-12T13:09:48Z"
+  "status": "failed",
+  "at": "2026-10-12T13:09:48Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "064c25534f349d1f",
@@ -8362,8 +8377,13 @@
   "headline": "5 units of Fire Service fire breaks out at a shop in Chawkbazar",
   "topic": "fire in chawkbazar shop",
   "source": "Dhaka Tribune, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-12T13:09:48Z"
+  "status": "failed",
+  "at": "2026-10-12T13:09:48Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "629a3e1c27fc5f83",
@@ -8371,7 +8391,12 @@
   "headline": "5 units of Fire Service fire breaks out at a shop in Chawkbazar",
   "topic": "fire in chawkbazar shop",
   "source": "Dhaka Tribune, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-12T13:09:48Z"
+  "status": "failed",
+  "at": "2026-10-12T13:09:48Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
