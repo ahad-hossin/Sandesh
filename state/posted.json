@@ -8363,8 +8363,13 @@
   "headline": "Fire breaks out at Secretariat building, quickly extinguished by staff",
   "topic": "fire breaks out at secretariat building",
   "source": "bdnews24.com",
-  "status": "queued",
-  "at": "2026-10-13T18:08:16Z"
+  "status": "failed",
+  "at": "2026-10-13T18:08:16Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "c4119fd9ef60bd06",
@@ -8372,8 +8377,13 @@
   "headline": "Four injured in gas cylinder blast at Savar CNG station",
   "topic": "gas cylinder blast injures four at Savar CNG station",
   "source": "Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-10-13T18:08:16Z"
+  "status": "failed",
+  "at": "2026-10-13T18:08:16Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "9bc79b642bcb18b6",
@@ -8381,7 +8391,12 @@
   "headline": "Four injured in gas cylinder blast at Savar CNG station",
   "topic": "gas cylinder blast injures four at Savar CNG station",
   "source": "Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-10-13T18:08:16Z"
+  "status": "failed",
+  "at": "2026-10-13T18:08:16Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
