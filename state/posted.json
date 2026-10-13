@@ -8349,8 +8349,13 @@
   "headline": "Gold prices drop by 3,266 taka per bhori in Bangladesh",
   "topic": "gold price drop",
   "source": "Prothom Alo, Jamuna TV",
-  "status": "queued",
-  "at": "2026-10-13T07:11:23Z"
+  "status": "failed",
+  "at": "2026-10-13T07:11:23Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "e2cc4805b7982832",
@@ -8358,8 +8363,13 @@
   "headline": "Gold prices drop by 3,266 taka per bhori in Bangladesh",
   "topic": "gold price drop",
   "source": "Prothom Alo, Jamuna TV",
-  "status": "queued",
-  "at": "2026-10-13T07:11:23Z"
+  "status": "failed",
+  "at": "2026-10-13T07:11:23Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "9710f6b46da90188",
@@ -8367,8 +8377,13 @@
   "headline": "Crude bombs explode outside Madaripur judge's home",
   "topic": "old dhaka market fire",
   "source": "bdnews24.com, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-10-13T07:11:23Z"
+  "status": "failed",
+  "at": "2026-10-13T07:11:23Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "8ace2702ced08a4c",
@@ -8376,7 +8391,12 @@
   "headline": "Crude bombs explode outside Madaripur judge's home",
   "topic": "old dhaka market fire",
   "source": "bdnews24.com, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-10-13T07:11:23Z"
+  "status": "failed",
+  "at": "2026-10-13T07:11:23Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
