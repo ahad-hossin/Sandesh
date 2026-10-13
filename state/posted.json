@@ -8363,8 +8363,13 @@
   "headline": "Trump says Houthi rebels are misbehaving after Saudi airport attacks",
   "topic": "trump criticizes houthi behavior in yemen",
   "source": "Prothom Alo, Jamuna TV",
-  "status": "queued",
-  "at": "2026-10-13T05:11:25Z"
+  "status": "failed",
+  "at": "2026-10-13T05:11:25Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "bc3849f476a9852a",
@@ -8372,8 +8377,13 @@
   "headline": "Trump says Houthi rebels are misbehaving after Saudi airport attacks",
   "topic": "trump criticizes houthi behavior in yemen",
   "source": "Prothom Alo, Jamuna TV",
-  "status": "queued",
-  "at": "2026-10-13T05:11:25Z"
+  "status": "failed",
+  "at": "2026-10-13T05:11:25Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "60dc2b297617516a",
@@ -8381,7 +8391,12 @@
   "headline": "Tk 160 crore revenue loss: Benapole port to suspend trade for 8 days during Durga Puja",
   "topic": "benapole port suspends trade for durga puja",
   "source": "The Daily Star",
-  "status": "queued",
-  "at": "2026-10-13T05:11:25Z"
+  "status": "failed",
+  "at": "2026-10-13T05:11:25Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
