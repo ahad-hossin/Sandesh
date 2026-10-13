@@ -1,89 +1,5 @@
 [
  {
-  "title_hash": "5046c17dbcb4a701",
-  "url": "https://www.prothomalo.com/politics/tci0j5s1lg",
-  "headline": "BNP activists to stay vigilant at Durga Puja mandaps to ensure peace",
-  "topic": "bnp durga puja vigilance",
-  "source": "Jamuna TV, Dhaka Tribune, The Daily Star, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-10T21:08:32Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "c0cc863d236a74ad",
-  "url": "https://www.dhakatribune.com/bangladesh/421801/biman-bangladesh-suspends-dhaka-riyadh-flights",
-  "headline": "12 killed, 50 injured as Houthi attack hits Riyadh airport",
-  "topic": "riyadh airport blast",
-  "source": "Prothom Alo, Jamuna TV, Dhaka Tribune, bdnews24.com, The Daily Star",
-  "status": "failed",
-  "at": "2026-10-10T22:08:38Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "fa8cb3ba8fd5725b",
-  "url": "https://www.prothomalo.com/world/middle-east/zt26faogqn",
-  "headline": "12 killed, 50 injured as Houthi attack hits Riyadh airport",
-  "topic": "riyadh airport blast",
-  "source": "Prothom Alo, Jamuna TV, Dhaka Tribune, bdnews24.com, The Daily Star",
-  "status": "failed",
-  "at": "2026-10-10T22:08:38Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "11e7c8ff2d47f88b",
-  "url": "https://www.jamuna.tv/international/665894",
-  "headline": "12 killed, 50 injured as Houthi attack hits Riyadh airport",
-  "topic": "riyadh airport blast",
-  "source": "Prothom Alo, Jamuna TV, Dhaka Tribune, bdnews24.com, The Daily Star",
-  "status": "failed",
-  "at": "2026-10-10T22:08:38Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "ca7f657645cd89af",
-  "url": "https://bdnews24.com/aviation/u4q2gx4j16",
-  "headline": "12 killed, 50 injured as Houthi attack hits Riyadh airport",
-  "topic": "riyadh airport blast",
-  "source": "Prothom Alo, Jamuna TV, Dhaka Tribune, bdnews24.com, The Daily Star",
-  "status": "failed",
-  "at": "2026-10-10T22:08:38Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "0f163d97f2795dea",
-  "url": "https://bdnews24.com/world/utjzen427m",
-  "headline": "12 killed, 50 injured as Houthi attack hits Riyadh airport",
-  "topic": "riyadh airport blast",
-  "source": "Prothom Alo, Jamuna TV, Dhaka Tribune, bdnews24.com, The Daily Star",
-  "status": "failed",
-  "at": "2026-10-10T22:08:38Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "9e79af67f51a3ce2",
   "url": "https://www.thedailystar.net/news/world/middle-east/news/flights-cancelled-blast-rocks-riyadh-airport-4295531",
   "headline": "12 killed, 50 injured as Houthi attack hits Riyadh airport",
@@ -8398,5 +8314,59 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "1ada1feae274e779",
+  "url": "https://www.dhakatribune.com/bangladesh/421974/cuet-vc-breaks-lock-protesters-lock-him-inside",
+  "headline": "CUET VC locked in office for 15 hours amid student protests demanding former VC's reinstatement",
+  "topic": "cuet vc blocked by students",
+  "source": "Prothom Alo, Dhaka Tribune, The Daily Star",
+  "status": "queued",
+  "at": "2026-10-13T00:06:57Z"
+ },
+ {
+  "title_hash": "cfe308368f87445c",
+  "url": "https://www.prothomalo.com/bangladesh/6l1dz5tgdw",
+  "headline": "CUET VC locked in office for 15 hours amid student protests demanding former VC's reinstatement",
+  "topic": "cuet vc blocked by students",
+  "source": "Prothom Alo, Dhaka Tribune, The Daily Star",
+  "status": "queued",
+  "at": "2026-10-13T00:06:57Z"
+ },
+ {
+  "title_hash": "49f504b60fe8a976",
+  "url": "https://www.dhakatribune.com/bangladesh/nation/421962/tension-grips-cuet-as-new-vc-enters-office-after",
+  "headline": "CUET VC locked in office for 15 hours amid student protests demanding former VC's reinstatement",
+  "topic": "cuet vc blocked by students",
+  "source": "Prothom Alo, Dhaka Tribune, The Daily Star",
+  "status": "queued",
+  "at": "2026-10-13T00:06:57Z"
+ },
+ {
+  "title_hash": "62a6d43ee56edf4a",
+  "url": "https://www.thedailystar.net/news/bangladesh/news/cuet-focus-students-lock-new-vc-his-office-4297426",
+  "headline": "CUET VC locked in office for 15 hours amid student protests demanding former VC's reinstatement",
+  "topic": "cuet vc blocked by students",
+  "source": "Prothom Alo, Dhaka Tribune, The Daily Star",
+  "status": "queued",
+  "at": "2026-10-13T00:06:57Z"
+ },
+ {
+  "title_hash": "e4c2d87a1f8d03ef",
+  "url": "https://bdnews24.com/world/dcpdakdhqk",
+  "headline": "Russia strikes 6 Ukraine energy targets despite Trump's truce claim; 25+ killed/wounded in attacks",
+  "topic": "russia hits ukraine energy sites",
+  "source": "bdnews24.com, The Daily Star",
+  "status": "queued",
+  "at": "2026-10-13T00:06:57Z"
+ },
+ {
+  "title_hash": "ca50353259e78ff8",
+  "url": "https://www.thedailystar.net/news/world/news/russia-hits-energy-targets-despite-trump-ceasefire-4297341",
+  "headline": "Russia strikes 6 Ukraine energy targets despite Trump's truce claim; 25+ killed/wounded in attacks",
+  "topic": "russia hits ukraine energy sites",
+  "source": "bdnews24.com, The Daily Star",
+  "status": "queued",
+  "at": "2026-10-13T00:06:57Z"
  }
 ]
