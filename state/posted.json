@@ -8377,8 +8377,13 @@
   "headline": "3rd day in a row: Houthi missiles target Riyadh",
   "topic": "yemen houthi missile attack on saudi capital riyadh",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-13T04:09:04Z"
+  "status": "failed",
+  "at": "2026-10-13T04:09:04Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "4a7f61087d59ac5e",
@@ -8386,7 +8391,12 @@
   "headline": "Former CJ SK Sinha describes himself as 'floating man' in Canada",
   "topic": "former chief justice sk sinha claims permanent residency in canada",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-13T04:09:04Z"
+  "status": "failed",
+  "at": "2026-10-13T04:09:04Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
