@@ -8335,8 +8335,13 @@
   "headline": "UK accuses Iran's IRGC of plotting attack on Fairford airbase, sanctions two citizens",
   "topic": "iran uk airbase attack conspiracy",
   "source": "Jamuna TV",
-  "status": "queued",
-  "at": "2026-10-13T01:07:03Z"
+  "status": "failed",
+  "at": "2026-10-13T01:07:03Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "1ada1feae274e779",
@@ -8344,8 +8349,13 @@
   "headline": "CUET VC locked in office for 15 hours by protesting students demanding former VC's reinstatement",
   "topic": "cuet vc locked by students",
   "source": "Prothom Alo, Dhaka Tribune, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-13T01:07:03Z"
+  "status": "failed",
+  "at": "2026-10-13T01:07:03Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "cfe308368f87445c",
@@ -8353,8 +8363,13 @@
   "headline": "CUET VC locked in office for 15 hours by protesting students demanding former VC's reinstatement",
   "topic": "cuet vc locked by students",
   "source": "Prothom Alo, Dhaka Tribune, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-13T01:07:03Z"
+  "status": "failed",
+  "at": "2026-10-13T01:07:03Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "49f504b60fe8a976",
@@ -8362,8 +8377,13 @@
   "headline": "CUET VC locked in office for 15 hours by protesting students demanding former VC's reinstatement",
   "topic": "cuet vc locked by students",
   "source": "Prothom Alo, Dhaka Tribune, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-13T01:07:03Z"
+  "status": "failed",
+  "at": "2026-10-13T01:07:03Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "62a6d43ee56edf4a",
@@ -8371,7 +8391,12 @@
   "headline": "CUET VC locked in office for 15 hours by protesting students demanding former VC's reinstatement",
   "topic": "cuet vc locked by students",
   "source": "Prothom Alo, Dhaka Tribune, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-13T01:07:03Z"
+  "status": "failed",
+  "at": "2026-10-13T01:07:03Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
