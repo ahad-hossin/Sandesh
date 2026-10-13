@@ -1,61 +1,5 @@
 [
  {
-  "title_hash": "11e7c8ff2d47f88b",
-  "url": "https://www.jamuna.tv/international/665894",
-  "headline": "Two Bangladeshis among 12 killed in Riyadh airport attack, 309 injured",
-  "topic": "riyadh airport attack bangladeshis killed",
-  "source": "Prothom Alo, Jamuna TV, Dhaka Tribune, bdnews24.com, The Daily Star",
-  "status": "failed",
-  "at": "2026-10-11T01:06:41Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "ca7f657645cd89af",
-  "url": "https://bdnews24.com/aviation/u4q2gx4j16",
-  "headline": "Two Bangladeshis among 12 killed in Riyadh airport attack, 309 injured",
-  "topic": "riyadh airport attack bangladeshis killed",
-  "source": "Prothom Alo, Jamuna TV, Dhaka Tribune, bdnews24.com, The Daily Star",
-  "status": "failed",
-  "at": "2026-10-11T01:06:41Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "0f163d97f2795dea",
-  "url": "https://bdnews24.com/world/utjzen427m",
-  "headline": "Two Bangladeshis among 12 killed in Riyadh airport attack, 309 injured",
-  "topic": "riyadh airport attack bangladeshis killed",
-  "source": "Prothom Alo, Jamuna TV, Dhaka Tribune, bdnews24.com, The Daily Star",
-  "status": "failed",
-  "at": "2026-10-11T01:06:41Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "9e79af67f51a3ce2",
-  "url": "https://www.thedailystar.net/news/world/middle-east/news/flights-cancelled-blast-rocks-riyadh-airport-4295531",
-  "headline": "Two Bangladeshis among 12 killed in Riyadh airport attack, 309 injured",
-  "topic": "riyadh airport attack bangladeshis killed",
-  "source": "Prothom Alo, Jamuna TV, Dhaka Tribune, bdnews24.com, The Daily Star",
-  "status": "failed",
-  "at": "2026-10-11T01:06:41Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "85a59f728ddfbb20",
   "url": "https://www.thedailystar.net/news/world/news/two-bangladeshis-among-12-killed-riyadh-airport-attack-300-more-injured-4295676",
   "headline": "Two Bangladeshis among 12 killed in Riyadh airport attack, 309 injured",
@@ -8398,5 +8342,41 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "8706b717c54062ee",
+  "url": "https://www.prothomalo.com/business/industry/vq37o5z4ig",
+  "headline": "Gold prices drop by 3,266 taka per bhori in Bangladesh",
+  "topic": "gold price drop",
+  "source": "Prothom Alo, Jamuna TV",
+  "status": "queued",
+  "at": "2026-10-13T07:11:23Z"
+ },
+ {
+  "title_hash": "e2cc4805b7982832",
+  "url": "https://www.jamuna.tv/economy/666078",
+  "headline": "Gold prices drop by 3,266 taka per bhori in Bangladesh",
+  "topic": "gold price drop",
+  "source": "Prothom Alo, Jamuna TV",
+  "status": "queued",
+  "at": "2026-10-13T07:11:23Z"
+ },
+ {
+  "title_hash": "9710f6b46da90188",
+  "url": "https://bdnews24.com/bangladesh/qhxe8okg18",
+  "headline": "Crude bombs explode outside Madaripur judge's home",
+  "topic": "old dhaka market fire",
+  "source": "bdnews24.com, Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-10-13T07:11:23Z"
+ },
+ {
+  "title_hash": "8ace2702ced08a4c",
+  "url": "https://www.dhakatribune.com/bangladesh/dhaka/421985/old-dhaka-market-fire-under-control-after-12",
+  "headline": "Crude bombs explode outside Madaripur judge's home",
+  "topic": "old dhaka market fire",
+  "source": "bdnews24.com, Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-10-13T07:11:23Z"
  }
 ]
