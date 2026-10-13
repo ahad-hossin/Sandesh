@@ -1,47 +1,5 @@
 [
  {
-  "title_hash": "2f9ba6fe3fc5c9b1",
-  "url": "https://bdnews24.com/neighbours/ciind17twr",
-  "headline": "Four remain in custody as India releases thousands detained in voter roll protest crackdown",
-  "topic": "delhi protests detentions",
-  "source": "bdnews24.com, Prothom Alo, Jamuna TV, The Daily Star",
-  "status": "failed",
-  "at": "2026-10-11T00:07:18Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "c55231fdce688c63",
-  "url": "https://www.prothomalo.com/world/india/wg84hqwrrh",
-  "headline": "Four remain in custody as India releases thousands detained in voter roll protest crackdown",
-  "topic": "delhi protests detentions",
-  "source": "bdnews24.com, Prothom Alo, Jamuna TV, The Daily Star",
-  "status": "failed",
-  "at": "2026-10-11T00:07:18Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "59b651441af893f8",
-  "url": "https://www.prothomalo.com/world/india/l3ix5gw5wb",
-  "headline": "Four remain in custody as India releases thousands detained in voter roll protest crackdown",
-  "topic": "delhi protests detentions",
-  "source": "bdnews24.com, Prothom Alo, Jamuna TV, The Daily Star",
-  "status": "failed",
-  "at": "2026-10-11T00:07:18Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "0c2f76eef1c6c377",
   "url": "https://www.prothomalo.com/world/india/0v243e0tk9",
   "headline": "Four remain in custody as India releases thousands detained in voter roll protest crackdown",
@@ -8398,5 +8356,32 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "b1b5e95966467789",
+  "url": "https://www.prothomalo.com/world/middle-east/vgy0717570",
+  "headline": "Trump says Houthi rebels are misbehaving after Saudi airport attacks",
+  "topic": "trump criticizes houthi behavior in yemen",
+  "source": "Prothom Alo, Jamuna TV",
+  "status": "queued",
+  "at": "2026-10-13T05:11:25Z"
+ },
+ {
+  "title_hash": "bc3849f476a9852a",
+  "url": "https://www.jamuna.tv/international/666069",
+  "headline": "Trump says Houthi rebels are misbehaving after Saudi airport attacks",
+  "topic": "trump criticizes houthi behavior in yemen",
+  "source": "Prothom Alo, Jamuna TV",
+  "status": "queued",
+  "at": "2026-10-13T05:11:25Z"
+ },
+ {
+  "title_hash": "60dc2b297617516a",
+  "url": "https://www.thedailystar.net/business/news/benapole-port-suspend-trade-eight-days-during-durga-puja-4297511",
+  "headline": "Tk 160 crore revenue loss: Benapole port to suspend trade for 8 days during Durga Puja",
+  "topic": "benapole port suspends trade for durga puja",
+  "source": "The Daily Star",
+  "status": "queued",
+  "at": "2026-10-13T05:11:25Z"
  }
 ]
