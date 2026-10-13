@@ -1,47 +1,5 @@
 [
  {
-  "title_hash": "c2d7271846247ab8",
-  "url": "https://www.prothomalo.com/bangladesh/saudite-htaahtder-pricyy-jaanaar-cessttaa-clche-mntrnnaalyy",
-  "headline": "2 Bangladeshis among 12 killed in Houthi attack on Riyadh airport",
-  "topic": "houthi attack riyadh airport",
-  "source": "The Daily Star, Dhaka Tribune, bdnews24.com, Prothom Alo, Jamuna TV",
-  "status": "failed",
-  "at": "2026-10-11T08:08:05Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "c50d2e8121ab1cb5",
-  "url": "https://www.jamuna.tv/international/665918",
-  "headline": "2 Bangladeshis among 12 killed in Houthi attack on Riyadh airport",
-  "topic": "houthi attack riyadh airport",
-  "source": "The Daily Star, Dhaka Tribune, bdnews24.com, Prothom Alo, Jamuna TV",
-  "status": "failed",
-  "at": "2026-10-11T08:08:05Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "85a8d4732f083b62",
-  "url": "https://bdnews24.com/bangladesh/ozrddy3fc6",
-  "headline": "2 Bangladeshis among 12 killed in Houthi attack on Riyadh airport",
-  "topic": "houthi attack riyadh airport",
-  "source": "The Daily Star, Dhaka Tribune, bdnews24.com, Prothom Alo, Jamuna TV",
-  "status": "failed",
-  "at": "2026-10-11T08:08:05Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "881bcbc26d394777",
   "url": "https://www.jamuna.tv/international/665917",
   "headline": "2 Bangladeshis among 12 killed in Houthi attack on Riyadh airport",
@@ -8398,5 +8356,32 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "e232274478f07405",
+  "url": "https://bdnews24.com/bangladesh/vhh6sxuq8t",
+  "headline": "Fire breaks out at Secretariat building, quickly extinguished by staff",
+  "topic": "fire breaks out at secretariat building",
+  "source": "bdnews24.com",
+  "status": "queued",
+  "at": "2026-10-13T18:08:16Z"
+ },
+ {
+  "title_hash": "c4119fd9ef60bd06",
+  "url": "https://www.dhakatribune.com/bangladesh/accidents/422055/four-injured-in-gas-cylinder-blast-at-savar-cng",
+  "headline": "Four injured in gas cylinder blast at Savar CNG station",
+  "topic": "gas cylinder blast injures four at Savar CNG station",
+  "source": "Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-10-13T18:08:16Z"
+ },
+ {
+  "title_hash": "9bc79b642bcb18b6",
+  "url": "https://www.dhakatribune.com/bangladesh/foreign-affairs/422052/bangladesh-saudi-arabia-discuss-upcoming-oic",
+  "headline": "Four injured in gas cylinder blast at Savar CNG station",
+  "topic": "gas cylinder blast injures four at Savar CNG station",
+  "source": "Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-10-13T18:08:16Z"
  }
 ]
