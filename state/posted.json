@@ -1,47 +1,5 @@
 [
  {
-  "title_hash": "3f3433f827b8cbbd",
-  "url": "https://www.prothomalo.com/world/middle-east/nejho89ry1",
-  "headline": "Two Bangladeshis among 12 dead in Houthi attack on Riyadh airport, 309 wounded",
-  "topic": "riyadh airport attack bangladeshis killed",
-  "source": "bdnews24.com, Jamuna TV, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-10-11T04:07:11Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "a7acefb118237f70",
-  "url": "https://www.dhakatribune.com/bangladesh/dhaka/421813/dhaka-ranks-6th-most-polluted-city",
-  "headline": "Air quality crisis: Dhaka ranks 6th most polluted city globally",
-  "topic": "dhaka air pollution ranking",
-  "source": "Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-10-11T04:07:11Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "ac45be4b51e245e0",
-  "url": "https://www.dhakatribune.com/bangladesh/foreign-affairs/421818/bangladesh-strongly-condemns-houthi-attack-on",
-  "headline": "2 Bangladeshis killed as Houthi attack hits Riyadh airport",
-  "topic": "houthi attack riyadh airport",
-  "source": "Dhaka Tribune, Prothom Alo, Jamuna TV, bdnews24.com, The Daily Star",
-  "status": "failed",
-  "at": "2026-10-11T05:07:35Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "5355ddd07ebc82e4",
   "url": "https://www.dhakatribune.com/bangladesh/foreign-affairs/421815/five-dhaka-flights-cancelled-after-riyadh-airport",
   "headline": "2 Bangladeshis killed as Houthi attack hits Riyadh airport",
@@ -8398,5 +8356,32 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "b5a3d792d014f2fe",
+  "url": "https://bdnews24.com/world/americas/j7br9lw9p5",
+  "headline": "Tupac murder: Ex-gang leader faces life sentence for 1996 shooting",
+  "topic": "tupac murder ex-gang leader faces life sentence",
+  "source": "bdnews24.com",
+  "status": "queued",
+  "at": "2026-10-13T10:11:26Z"
+ },
+ {
+  "title_hash": "cd66fe38c94cdef8",
+  "url": "https://www.thedailystar.net/news/governance/news/harassment-yunus-us-awami-league-terror-zahed-4297666",
+  "headline": "Govt calls harassment of Dr Yunus in US 'Awami terror', vows legal action",
+  "topic": "zahed comments on yunis harassment in us",
+  "source": "The Daily Star, Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-10-13T10:11:26Z"
+ },
+ {
+  "title_hash": "9230997f789b5944",
+  "url": "https://www.dhakatribune.com/bangladesh/421990/zahed-legal-action-to-be-taken-over-harassment-of",
+  "headline": "Govt calls harassment of Dr Yunus in US 'Awami terror', vows legal action",
+  "topic": "zahed comments on yunis harassment in us",
+  "source": "The Daily Star, Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-10-13T10:11:26Z"
  }
 ]
