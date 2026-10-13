@@ -1,61 +1,5 @@
 [
  {
-  "title_hash": "5355ddd07ebc82e4",
-  "url": "https://www.dhakatribune.com/bangladesh/foreign-affairs/421815/five-dhaka-flights-cancelled-after-riyadh-airport",
-  "headline": "2 Bangladeshis killed as Houthi attack hits Riyadh airport",
-  "topic": "houthi attack riyadh airport",
-  "source": "Dhaka Tribune, Prothom Alo, Jamuna TV, bdnews24.com, The Daily Star",
-  "status": "failed",
-  "at": "2026-10-11T05:07:35Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "449f47678789a483",
-  "url": "https://www.prothomalo.com/bangladesh/4wpdubx2zz",
-  "headline": "2 Bangladeshis killed as Houthi attack hits Riyadh airport",
-  "topic": "houthi attack riyadh airport",
-  "source": "Dhaka Tribune, Prothom Alo, Jamuna TV, bdnews24.com, The Daily Star",
-  "status": "failed",
-  "at": "2026-10-11T05:07:35Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "5975434e39d64e95",
-  "url": "https://www.prothomalo.com/video/s2wtsxad7c",
-  "headline": "2 Bangladeshis killed as Houthi attack hits Riyadh airport",
-  "topic": "houthi attack riyadh airport",
-  "source": "Dhaka Tribune, Prothom Alo, Jamuna TV, bdnews24.com, The Daily Star",
-  "status": "failed",
-  "at": "2026-10-11T05:07:35Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "3835d478f7ae2657",
-  "url": "https://www.jamuna.tv/international/665897",
-  "headline": "2 Bangladeshis killed as Houthi attack hits Riyadh airport",
-  "topic": "houthi attack riyadh airport",
-  "source": "Dhaka Tribune, Prothom Alo, Jamuna TV, bdnews24.com, The Daily Star",
-  "status": "failed",
-  "at": "2026-10-11T05:07:35Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "1deb126154aaf374",
   "url": "https://bdnews24.com/world/we0iknbo7v",
   "headline": "2 Bangladeshis killed as Houthi attack hits Riyadh airport",
@@ -8398,5 +8342,41 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "c8ebe400568d23dc",
+  "url": "https://www.dhakatribune.com/bangladesh/health/422000/dengue-claims-9-more-lives-1-954-hospitalized-in",
+  "headline": "Dengue claims 9 more lives in 24hrs, total deaths reach 316 this year",
+  "topic": "dengue deaths and hospitalizations rise",
+  "source": "Dhaka Tribune, Jamuna TV",
+  "status": "queued",
+  "at": "2026-10-13T11:09:21Z"
+ },
+ {
+  "title_hash": "7cb02ca1cffc1efd",
+  "url": "https://www.jamuna.tv/national/666101",
+  "headline": "Dengue claims 9 more lives in 24hrs, total deaths reach 316 this year",
+  "topic": "dengue deaths and hospitalizations rise",
+  "source": "Dhaka Tribune, Jamuna TV",
+  "status": "queued",
+  "at": "2026-10-13T11:09:21Z"
+ },
+ {
+  "title_hash": "a05f67425a6b9e11",
+  "url": "https://www.dhakatribune.com/bangladesh/health/421998/measles-outbreak-death-toll-reaches-1-170-as-six",
+  "headline": "Measles outbreak: Death toll reaches 1,170 as six more die in 24 hours",
+  "topic": "measles outbreak and deaths",
+  "source": "Dhaka Tribune, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-13T11:09:21Z"
+ },
+ {
+  "title_hash": "f1708cffa7a8e532",
+  "url": "https://www.prothomalo.com/bangladesh/ioemhisqjw",
+  "headline": "Measles outbreak: Death toll reaches 1,170 as six more die in 24 hours",
+  "topic": "measles outbreak and deaths",
+  "source": "Dhaka Tribune, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-13T11:09:21Z"
  }
 ]
