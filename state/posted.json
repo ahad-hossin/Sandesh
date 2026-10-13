@@ -8321,8 +8321,13 @@
   "headline": "Awami League leaders harass Muhammad Yunus at New York airport",
   "topic": "al leaders harass yunis in new york",
   "source": "Prothom Alo, Jamuna TV, bdnews24.com",
-  "status": "queued",
-  "at": "2026-10-13T08:13:00Z"
+  "status": "failed",
+  "at": "2026-10-13T08:13:00Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "ec6254bcd48217c1",
@@ -8330,8 +8335,13 @@
   "headline": "Awami League leaders harass Muhammad Yunus at New York airport",
   "topic": "al leaders harass yunis in new york",
   "source": "Prothom Alo, Jamuna TV, bdnews24.com",
-  "status": "queued",
-  "at": "2026-10-13T08:13:00Z"
+  "status": "failed",
+  "at": "2026-10-13T08:13:00Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "ac2556fa5da021e2",
@@ -8339,8 +8349,13 @@
   "headline": "Awami League leaders harass Muhammad Yunus at New York airport",
   "topic": "al leaders harass yunis in new york",
   "source": "Prothom Alo, Jamuna TV, bdnews24.com",
-  "status": "queued",
-  "at": "2026-10-13T08:13:00Z"
+  "status": "failed",
+  "at": "2026-10-13T08:13:00Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "348f8b28e2341420",
@@ -8348,8 +8363,13 @@
   "headline": "Awami League leaders harass Muhammad Yunus at New York airport",
   "topic": "al leaders harass yunis in new york",
   "source": "Prothom Alo, Jamuna TV, bdnews24.com",
-  "status": "queued",
-  "at": "2026-10-13T08:13:00Z"
+  "status": "failed",
+  "at": "2026-10-13T08:13:00Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "9710f6b46da90188",
@@ -8357,8 +8377,13 @@
   "headline": "Crude bombs explode outside Madaripur judge's home",
   "topic": "bombs go off outside madaripur judge's home",
   "source": "bdnews24.com, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-13T08:13:00Z"
+  "status": "failed",
+  "at": "2026-10-13T08:13:00Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "f8ad642c9f1ffce3",
@@ -8366,7 +8391,12 @@
   "headline": "Crude bombs explode outside Madaripur judge's home",
   "topic": "bombs go off outside madaripur judge's home",
   "source": "bdnews24.com, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-13T08:13:00Z"
+  "status": "failed",
+  "at": "2026-10-13T08:13:00Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
