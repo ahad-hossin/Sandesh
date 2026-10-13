@@ -1,75 +1,5 @@
 [
  {
-  "title_hash": "9e79af67f51a3ce2",
-  "url": "https://www.thedailystar.net/news/world/middle-east/news/flights-cancelled-blast-rocks-riyadh-airport-4295531",
-  "headline": "12 killed, 50 injured as Houthi attack hits Riyadh airport",
-  "topic": "riyadh airport blast",
-  "source": "Prothom Alo, Jamuna TV, Dhaka Tribune, bdnews24.com, The Daily Star",
-  "status": "failed",
-  "at": "2026-10-10T22:08:38Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "2f9ba6fe3fc5c9b1",
-  "url": "https://bdnews24.com/neighbours/ciind17twr",
-  "headline": "Around 3,000 people detained in Delhi over voter list protests",
-  "topic": "delhi protests voter rolls",
-  "source": "Prothom Alo, bdnews24.com, Jamuna TV, The Daily Star",
-  "status": "failed",
-  "at": "2026-10-10T22:08:38Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "c55231fdce688c63",
-  "url": "https://www.prothomalo.com/world/india/wg84hqwrrh",
-  "headline": "Around 3,000 people detained in Delhi over voter list protests",
-  "topic": "delhi protests voter rolls",
-  "source": "Prothom Alo, bdnews24.com, Jamuna TV, The Daily Star",
-  "status": "failed",
-  "at": "2026-10-10T22:08:38Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "59b651441af893f8",
-  "url": "https://www.prothomalo.com/world/india/l3ix5gw5wb",
-  "headline": "Around 3,000 people detained in Delhi over voter list protests",
-  "topic": "delhi protests voter rolls",
-  "source": "Prothom Alo, bdnews24.com, Jamuna TV, The Daily Star",
-  "status": "failed",
-  "at": "2026-10-10T22:08:38Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "0c2f76eef1c6c377",
-  "url": "https://www.prothomalo.com/world/india/0v243e0tk9",
-  "headline": "Around 3,000 people detained in Delhi over voter list protests",
-  "topic": "delhi protests voter rolls",
-  "source": "Prothom Alo, bdnews24.com, Jamuna TV, The Daily Star",
-  "status": "failed",
-  "at": "2026-10-10T22:08:38Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "e29af967b1feb8f6",
   "url": "https://bdnews24.com/neighbours/qxs2py8wz5",
   "headline": "Around 3,000 people detained in Delhi over voter list protests",
@@ -8398,5 +8328,50 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "928c11470e8e8698",
+  "url": "https://www.jamuna.tv/international/666061",
+  "headline": "UK accuses Iran's IRGC of plotting attack on Fairford airbase, sanctions two citizens",
+  "topic": "iran uk airbase attack conspiracy",
+  "source": "Jamuna TV",
+  "status": "queued",
+  "at": "2026-10-13T01:07:03Z"
+ },
+ {
+  "title_hash": "1ada1feae274e779",
+  "url": "https://www.dhakatribune.com/bangladesh/421974/cuet-vc-breaks-lock-protesters-lock-him-inside",
+  "headline": "CUET VC locked in office for 15 hours by protesting students demanding former VC's reinstatement",
+  "topic": "cuet vc locked by students",
+  "source": "Prothom Alo, Dhaka Tribune, The Daily Star",
+  "status": "queued",
+  "at": "2026-10-13T01:07:03Z"
+ },
+ {
+  "title_hash": "cfe308368f87445c",
+  "url": "https://www.prothomalo.com/bangladesh/6l1dz5tgdw",
+  "headline": "CUET VC locked in office for 15 hours by protesting students demanding former VC's reinstatement",
+  "topic": "cuet vc locked by students",
+  "source": "Prothom Alo, Dhaka Tribune, The Daily Star",
+  "status": "queued",
+  "at": "2026-10-13T01:07:03Z"
+ },
+ {
+  "title_hash": "49f504b60fe8a976",
+  "url": "https://www.dhakatribune.com/bangladesh/nation/421962/tension-grips-cuet-as-new-vc-enters-office-after",
+  "headline": "CUET VC locked in office for 15 hours by protesting students demanding former VC's reinstatement",
+  "topic": "cuet vc locked by students",
+  "source": "Prothom Alo, Dhaka Tribune, The Daily Star",
+  "status": "queued",
+  "at": "2026-10-13T01:07:03Z"
+ },
+ {
+  "title_hash": "62a6d43ee56edf4a",
+  "url": "https://www.thedailystar.net/news/bangladesh/news/cuet-focus-students-lock-new-vc-his-office-4297426",
+  "headline": "CUET VC locked in office for 15 hours by protesting students demanding former VC's reinstatement",
+  "topic": "cuet vc locked by students",
+  "source": "Prothom Alo, Dhaka Tribune, The Daily Star",
+  "status": "queued",
+  "at": "2026-10-13T01:07:03Z"
  }
 ]
