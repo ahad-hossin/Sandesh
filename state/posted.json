@@ -8349,8 +8349,13 @@
   "headline": "Dengue claims 9 more lives in 24hrs, total deaths reach 316 this year",
   "topic": "dengue deaths and hospitalizations rise",
   "source": "Dhaka Tribune, Jamuna TV",
-  "status": "queued",
-  "at": "2026-10-13T11:09:21Z"
+  "status": "failed",
+  "at": "2026-10-13T11:09:21Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "7cb02ca1cffc1efd",
@@ -8358,8 +8363,13 @@
   "headline": "Dengue claims 9 more lives in 24hrs, total deaths reach 316 this year",
   "topic": "dengue deaths and hospitalizations rise",
   "source": "Dhaka Tribune, Jamuna TV",
-  "status": "queued",
-  "at": "2026-10-13T11:09:21Z"
+  "status": "failed",
+  "at": "2026-10-13T11:09:21Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "a05f67425a6b9e11",
@@ -8367,8 +8377,13 @@
   "headline": "Measles outbreak: Death toll reaches 1,170 as six more die in 24 hours",
   "topic": "measles outbreak and deaths",
   "source": "Dhaka Tribune, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-13T11:09:21Z"
+  "status": "failed",
+  "at": "2026-10-13T11:09:21Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "f1708cffa7a8e532",
@@ -8376,7 +8391,12 @@
   "headline": "Measles outbreak: Death toll reaches 1,170 as six more die in 24 hours",
   "topic": "measles outbreak and deaths",
   "source": "Dhaka Tribune, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-13T11:09:21Z"
+  "status": "failed",
+  "at": "2026-10-13T11:09:21Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
