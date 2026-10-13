@@ -8363,8 +8363,13 @@
   "headline": "Tupac murder: Ex-gang leader faces life sentence for 1996 shooting",
   "topic": "tupac murder ex-gang leader faces life sentence",
   "source": "bdnews24.com",
-  "status": "queued",
-  "at": "2026-10-13T10:11:26Z"
+  "status": "failed",
+  "at": "2026-10-13T10:11:26Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "cd66fe38c94cdef8",
@@ -8372,8 +8377,13 @@
   "headline": "Govt calls harassment of Dr Yunus in US 'Awami terror', vows legal action",
   "topic": "zahed comments on yunis harassment in us",
   "source": "The Daily Star, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-10-13T10:11:26Z"
+  "status": "failed",
+  "at": "2026-10-13T10:11:26Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "9230997f789b5944",
@@ -8381,7 +8391,12 @@
   "headline": "Govt calls harassment of Dr Yunus in US 'Awami terror', vows legal action",
   "topic": "zahed comments on yunis harassment in us",
   "source": "The Daily Star, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-10-13T10:11:26Z"
+  "status": "failed",
+  "at": "2026-10-13T10:11:26Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
