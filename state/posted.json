@@ -8377,8 +8377,13 @@
   "headline": "Bangladesh faces slowest growth, highest inflation in South Asia, IMF warns",
   "topic": "Bangladesh IMF Economic Outlook",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-14T04:07:30Z"
+  "status": "failed",
+  "at": "2026-10-14T04:07:30Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "e16b6ece0cf8b8d7",
@@ -8386,7 +8391,12 @@
   "headline": "37 hours later, Chawkbazar fire fully extinguished",
   "topic": "Chawkbazar Fire Extinguished",
   "source": "bdnews24.com",
-  "status": "queued",
-  "at": "2026-10-14T04:07:30Z"
+  "status": "failed",
+  "at": "2026-10-14T04:07:30Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
