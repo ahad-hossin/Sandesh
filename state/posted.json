@@ -1,75 +1,5 @@
 [
  {
-  "title_hash": "5bd382c5d8d72bb1",
-  "url": "https://www.prothomalo.com/bangladesh/q57445ljrt",
-  "headline": "12 killed, 300 injured as Houthi attack hits Riyadh airport",
-  "topic": "riyadh airport houthi attack",
-  "source": "The Daily Star, Dhaka Tribune, bdnews24.com, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-11T09:10:01Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "e741afe2088da8bd",
-  "url": "https://www.thedailystar.net/news/world/news/two-bangladeshis-among-12-killed-riyadh-airport-attack-300-more-injured-4295676",
-  "headline": "12 killed, 300 injured as Houthi attack hits Riyadh airport",
-  "topic": "riyadh airport houthi attack",
-  "source": "The Daily Star, Dhaka Tribune, bdnews24.com, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-11T09:10:01Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "ba15082cfd919ac7",
-  "url": "https://www.thedailystar.net/sports/cricket/news/hasans-hattrick-headlines-afghan-collapse-tigers-take-150-run-lead-lunch-4295861",
-  "headline": "Hasan Mahmud claims historic Test hattrick against Afghanistan",
-  "topic": "hasan mahmud test hattrick",
-  "source": "The Daily Star, Jamuna TV, bdnews24.com, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-11T10:08:57Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "93aaf26d17b8fc2a",
-  "url": "https://www.jamuna.tv/sports/665934",
-  "headline": "Hasan Mahmud claims historic Test hattrick against Afghanistan",
-  "topic": "hasan mahmud test hattrick",
-  "source": "The Daily Star, Jamuna TV, bdnews24.com, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-11T10:08:57Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "9f8475554595d3bd",
-  "url": "https://bdnews24.com/cricket/fcyr1gqq4v",
-  "headline": "Hasan Mahmud claims historic Test hattrick against Afghanistan",
-  "topic": "hasan mahmud test hattrick",
-  "source": "The Daily Star, Jamuna TV, bdnews24.com, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-11T10:08:57Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "03d2a23b087ed2be",
   "url": "https://www.thedailystar.net/sports/cricket/news/hasan-becomes-first-bangladesh-pacer-claim-test-hat-trick-4295811",
   "headline": "Hasan Mahmud claims historic Test hattrick against Afghanistan",
@@ -8398,5 +8328,50 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "d04bfb3a5195e61d",
+  "url": "https://www.dhakatribune.com/bangladesh/422064/86-saudi-bound-flights-cancelled-13-490",
+  "headline": "86 Saudi-bound flights cancelled at Dhaka airport, affecting 13,490 passengers",
+  "topic": "saudi bound flights cancelled",
+  "source": "Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-10-14T05:08:16Z"
+ },
+ {
+  "title_hash": "dbaaa0467f1f1f81",
+  "url": "https://www.thedailystar.net/news/world/news/saudi-says-houthi-attacks-sparked-aramco-fire-wounded-4-riyadh-4298361",
+  "headline": "Saudi Arabia reports Houthi attacks on Aramco facility, debris wounds 4 in Riyadh",
+  "topic": "saudi aramco facility attacked",
+  "source": "Jamuna TV, The Daily Star, bdnews24.com, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-14T05:08:16Z"
+ },
+ {
+  "title_hash": "25f548f86a786d00",
+  "url": "https://www.jamuna.tv/videos/666143",
+  "headline": "Saudi Arabia reports Houthi attacks on Aramco facility, debris wounds 4 in Riyadh",
+  "topic": "saudi aramco facility attacked",
+  "source": "Jamuna TV, The Daily Star, bdnews24.com, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-14T05:08:16Z"
+ },
+ {
+  "title_hash": "cdca237ddd8fdb71",
+  "url": "https://bdnews24.com/world/middle-east/ilao1tdy7u",
+  "headline": "Saudi Arabia reports Houthi attacks on Aramco facility, debris wounds 4 in Riyadh",
+  "topic": "saudi aramco facility attacked",
+  "source": "Jamuna TV, The Daily Star, bdnews24.com, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-14T05:08:16Z"
+ },
+ {
+  "title_hash": "ea8a6b1e2ad9487a",
+  "url": "https://www.prothomalo.com/video/international/3biux4qg3d",
+  "headline": "Saudi Arabia reports Houthi attacks on Aramco facility, debris wounds 4 in Riyadh",
+  "topic": "saudi aramco facility attacked",
+  "source": "Jamuna TV, The Daily Star, bdnews24.com, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-14T05:08:16Z"
  }
 ]
