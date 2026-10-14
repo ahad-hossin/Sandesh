@@ -8377,8 +8377,13 @@
   "headline": "Youth Development to hold exam with same committee despite question paper leak, sparking concerns",
   "topic": "youth development exam paper leak",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-14T02:07:06Z"
+  "status": "failed",
+  "at": "2026-10-14T02:07:06Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "7defc6e7eb7896d9",
@@ -8386,7 +8391,12 @@
   "headline": "Hilsa catch drops 12% in 2 years; public involvement crucial for conservation",
   "topic": "hilsa fish protection",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-14T02:07:06Z"
+  "status": "failed",
+  "at": "2026-10-14T02:07:06Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
