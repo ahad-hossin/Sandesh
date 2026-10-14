@@ -1,33 +1,5 @@
 [
  {
-  "title_hash": "fe4f7eac2208185f",
-  "url": "https://www.thedailystar.net/news/bangladesh/diplomacy/news/bangladesh-condemns-houthi-attack-riyadh-airport-killed-two-nationals-4295831",
-  "headline": "12 killed, 300 injured as Houthi attack hits Riyadh airport",
-  "topic": "riyadh airport houthi attack",
-  "source": "The Daily Star, Dhaka Tribune, bdnews24.com, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-11T09:10:01Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "3f1b87b60b49b8e8",
-  "url": "https://bdnews24.com/aviation/glx00spkje",
-  "headline": "12 killed, 300 injured as Houthi attack hits Riyadh airport",
-  "topic": "riyadh airport houthi attack",
-  "source": "The Daily Star, Dhaka Tribune, bdnews24.com, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-11T09:10:01Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "85a8d4732f083b62",
   "url": "https://bdnews24.com/bangladesh/ozrddy3fc6",
   "headline": "12 killed, 300 injured as Houthi attack hits Riyadh airport",
@@ -8398,5 +8370,23 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "d4c29d13df1417fb",
+  "url": "https://www.prothomalo.com/bangladesh/lc2l7dfibr",
+  "headline": "Youth Development to hold exam with same committee despite question paper leak, sparking concerns",
+  "topic": "youth development exam paper leak",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-14T02:07:06Z"
+ },
+ {
+  "title_hash": "7defc6e7eb7896d9",
+  "url": "https://www.prothomalo.com/opinion/column/aiftw5z0o3",
+  "headline": "Hilsa catch drops 12% in 2 years; public involvement crucial for conservation",
+  "topic": "hilsa fish protection",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-14T02:07:06Z"
  }
 ]
