@@ -1,89 +1,5 @@
 [
  {
-  "title_hash": "3835d478f7ae2657",
-  "url": "https://www.jamuna.tv/international/665897",
-  "headline": "12 killed, 300 injured in Houthi attack on Riyadh airport",
-  "topic": "riyadh airport houthi attack",
-  "source": "Dhaka Tribune, Jamuna TV, The Daily Star, bdnews24.com, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-11T10:08:57Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "751720ebe725be35",
-  "url": "https://www.prothomalo.com/opinion/column/pnub1ix25q",
-  "headline": "12 killed, 300 injured in Houthi attack on Riyadh airport",
-  "topic": "riyadh airport houthi attack",
-  "source": "Dhaka Tribune, Jamuna TV, The Daily Star, bdnews24.com, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-11T10:08:57Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "e741afe2088da8bd",
-  "url": "https://www.thedailystar.net/news/world/news/two-bangladeshis-among-12-killed-riyadh-airport-attack-300-more-injured-4295676",
-  "headline": "12 killed, 300 injured in Houthi attack on Riyadh airport",
-  "topic": "riyadh airport houthi attack",
-  "source": "Dhaka Tribune, Jamuna TV, The Daily Star, bdnews24.com, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-11T10:08:57Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "321031a68a90e7fa",
-  "url": "https://bdnews24.com/bangladesh/7ic5nfq1sl",
-  "headline": "12 killed as Houthi attack hits Riyadh airport in Saudi Arabia",
-  "topic": "saudi airport attack impacts flights and Bangladeshis",
-  "source": "Prothom Alo, bdnews24.com, Dhaka Tribune, The Daily Star, Jamuna TV",
-  "status": "failed",
-  "at": "2026-10-11T11:11:44Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "ee4680c433d7760a",
-  "url": "https://www.prothomalo.com/video/international/wd6nvgjy3i",
-  "headline": "12 killed as Houthi attack hits Riyadh airport in Saudi Arabia",
-  "topic": "saudi airport attack impacts flights and Bangladeshis",
-  "source": "Prothom Alo, bdnews24.com, Dhaka Tribune, The Daily Star, Jamuna TV",
-  "status": "failed",
-  "at": "2026-10-11T11:11:44Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "ac45be4b51e245e0",
-  "url": "https://www.dhakatribune.com/bangladesh/foreign-affairs/421818/bangladesh-strongly-condemns-houthi-attack-on",
-  "headline": "12 killed as Houthi attack hits Riyadh airport in Saudi Arabia",
-  "topic": "saudi airport attack impacts flights and Bangladeshis",
-  "source": "Prothom Alo, bdnews24.com, Dhaka Tribune, The Daily Star, Jamuna TV",
-  "status": "failed",
-  "at": "2026-10-11T11:11:44Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "5355ddd07ebc82e4",
   "url": "https://www.dhakatribune.com/bangladesh/foreign-affairs/421815/five-dhaka-flights-cancelled-after-riyadh-airport",
   "headline": "12 killed as Houthi attack hits Riyadh airport in Saudi Arabia",
@@ -8398,5 +8314,59 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "a8a869fff2d803fd",
+  "url": "https://bdnews24.com/bangladesh/07e2ou2qsb",
+  "headline": "20 Bangladeshis killed in Russia-Ukraine war after being trafficked",
+  "topic": "bangladeshis killed in russia-ukraine war",
+  "source": "Prothom Alo, bdnews24.com, The Daily Star, Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-10-14T17:06:47Z"
+ },
+ {
+  "title_hash": "4da68c9f2b5b1dcf",
+  "url": "https://www.prothomalo.com/video/bangladesh/x1gjy0bohz",
+  "headline": "20 Bangladeshis killed in Russia-Ukraine war after being trafficked",
+  "topic": "bangladeshis killed in russia-ukraine war",
+  "source": "Prothom Alo, bdnews24.com, The Daily Star, Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-10-14T17:06:47Z"
+ },
+ {
+  "title_hash": "3ef589ee8c321081",
+  "url": "https://www.thedailystar.net/news/news/20-bangladeshis-trafficked-russia-killed-invasion-ukraine-srb-4298676",
+  "headline": "20 Bangladeshis killed in Russia-Ukraine war after being trafficked",
+  "topic": "bangladeshis killed in russia-ukraine war",
+  "source": "Prothom Alo, bdnews24.com, The Daily Star, Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-10-14T17:06:47Z"
+ },
+ {
+  "title_hash": "9eb9c2c8737316cd",
+  "url": "https://www.dhakatribune.com/bangladesh/422084/20-bangladeshis-killed-in-russia-ukraine-war-after",
+  "headline": "20 Bangladeshis killed in Russia-Ukraine war after being trafficked",
+  "topic": "bangladeshis killed in russia-ukraine war",
+  "source": "Prothom Alo, bdnews24.com, The Daily Star, Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-10-14T17:06:47Z"
+ },
+ {
+  "title_hash": "e092cfa1da1e7a1e",
+  "url": "https://www.thedailystar.net/news/crime-justice/news/ransom-demand-video-sent-family-3-days-after-3-schoolgirls-go-missing-bandarban-4298791",
+  "headline": "Tk 3 lakh ransom demand after three schoolgirls go missing in Bandarban",
+  "topic": "bandarban schoolgirls missing",
+  "source": "The Daily Star, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-14T17:06:47Z"
+ },
+ {
+  "title_hash": "ae607b0ddfd7c66c",
+  "url": "https://www.prothomalo.com/bangladesh/district/sc60hbmete",
+  "headline": "Tk 3 lakh ransom demand after three schoolgirls go missing in Bandarban",
+  "topic": "bandarban schoolgirls missing",
+  "source": "The Daily Star, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-14T17:06:47Z"
  }
 ]
