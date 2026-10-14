@@ -8321,8 +8321,13 @@
   "headline": "Fire erupts at drug factory in Tongi; 19 fire engines battle blaze",
   "topic": "fire at tongi drug factory",
   "source": "Dhaka Tribune, bdnews24.com, The Daily Star, Jamuna TV",
-  "status": "queued",
-  "at": "2026-10-14T08:08:27Z"
+  "status": "failed",
+  "at": "2026-10-14T08:08:27Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "9744930214200ea4",
@@ -8330,8 +8335,13 @@
   "headline": "Fire erupts at drug factory in Tongi; 19 fire engines battle blaze",
   "topic": "fire at tongi drug factory",
   "source": "Dhaka Tribune, bdnews24.com, The Daily Star, Jamuna TV",
-  "status": "queued",
-  "at": "2026-10-14T08:08:27Z"
+  "status": "failed",
+  "at": "2026-10-14T08:08:27Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "140195a6780b0497",
@@ -8339,8 +8349,13 @@
   "headline": "Fire erupts at drug factory in Tongi; 19 fire engines battle blaze",
   "topic": "fire at tongi drug factory",
   "source": "Dhaka Tribune, bdnews24.com, The Daily Star, Jamuna TV",
-  "status": "queued",
-  "at": "2026-10-14T08:08:27Z"
+  "status": "failed",
+  "at": "2026-10-14T08:08:27Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "4381fba2a160a46e",
@@ -8348,8 +8363,13 @@
   "headline": "Fire erupts at drug factory in Tongi; 19 fire engines battle blaze",
   "topic": "fire at tongi drug factory",
   "source": "Dhaka Tribune, bdnews24.com, The Daily Star, Jamuna TV",
-  "status": "queued",
-  "at": "2026-10-14T08:08:27Z"
+  "status": "failed",
+  "at": "2026-10-14T08:08:27Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "9872f2f80280f72b",
@@ -8357,8 +8377,13 @@
   "headline": "Garment workers block roads in Uttara for third day, demanding Tk 30,000 minimum wage",
   "topic": "garment workers demand wage hike",
   "source": "bdnews24.com, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-14T08:08:27Z"
+  "status": "failed",
+  "at": "2026-10-14T08:08:27Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "82da28a3080c03af",
@@ -8366,7 +8391,12 @@
   "headline": "Garment workers block roads in Uttara for third day, demanding Tk 30,000 minimum wage",
   "topic": "garment workers demand wage hike",
   "source": "bdnews24.com, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-14T08:08:27Z"
+  "status": "failed",
+  "at": "2026-10-14T08:08:27Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
