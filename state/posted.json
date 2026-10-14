@@ -8349,8 +8349,13 @@
   "headline": "20 Bangladeshis killed in Russia-Ukraine war after being trafficked",
   "topic": "bangladeshis killed in russia war",
   "source": "bdnews24.com, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-14T16:07:29Z"
+  "status": "failed",
+  "at": "2026-10-14T16:07:29Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "3ef589ee8c321081",
@@ -8358,8 +8363,13 @@
   "headline": "20 Bangladeshis killed in Russia-Ukraine war after being trafficked",
   "topic": "bangladeshis killed in russia war",
   "source": "bdnews24.com, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-14T16:07:29Z"
+  "status": "failed",
+  "at": "2026-10-14T16:07:29Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "a259e8015b31171c",
@@ -8367,8 +8377,13 @@
   "headline": "Spend 30-60 mins twice a week: PM urges people to clean areas to prevent dengue",
   "topic": "pm dengue cleaning urge",
   "source": "Dhaka Tribune, Jamuna TV",
-  "status": "queued",
-  "at": "2026-10-14T16:07:29Z"
+  "status": "failed",
+  "at": "2026-10-14T16:07:29Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "a65e4f1df0e3e31e",
@@ -8376,7 +8391,12 @@
   "headline": "Spend 30-60 mins twice a week: PM urges people to clean areas to prevent dengue",
   "topic": "pm dengue cleaning urge",
   "source": "Dhaka Tribune, Jamuna TV",
-  "status": "queued",
-  "at": "2026-10-14T16:07:29Z"
+  "status": "failed",
+  "at": "2026-10-14T16:07:29Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
