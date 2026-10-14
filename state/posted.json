@@ -1,61 +1,5 @@
 [
  {
-  "title_hash": "9e1e7ffc43d3cad6",
-  "url": "https://www.dhakatribune.com/bangladesh/health/421865/dengue-four-more-die-2-193-hospitalized-in-24",
-  "headline": "Dengue crisis: Dengue death toll crosses 300 as 2,193 hospitalised in 24 hours",
-  "topic": "dengue death toll 300",
-  "source": "Dhaka Tribune, The Daily Star, Jamuna TV",
-  "status": "failed",
-  "at": "2026-10-11T13:07:51Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "8ba868286d6b7244",
-  "url": "https://www.thedailystar.net/news/healthcare/disease/news/dengue-death-toll-crosses-300-4-die-2193-hospitalised-24-hours-4295986",
-  "headline": "Dengue crisis: Dengue death toll crosses 300 as 2,193 hospitalised in 24 hours",
-  "topic": "dengue death toll 300",
-  "source": "Dhaka Tribune, The Daily Star, Jamuna TV",
-  "status": "failed",
-  "at": "2026-10-11T13:07:51Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "8b4b56986a3f4099",
-  "url": "https://www.jamuna.tv/national/665952",
-  "headline": "Dengue crisis: Dengue death toll crosses 300 as 2,193 hospitalised in 24 hours",
-  "topic": "dengue death toll 300",
-  "source": "Dhaka Tribune, The Daily Star, Jamuna TV",
-  "status": "failed",
-  "at": "2026-10-11T13:07:51Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "a05e84dc1ec80351",
-  "url": "https://www.dhakatribune.com/bangladesh/421847/saudi-bound-bangladeshis-stranded-as-airport",
-  "headline": "8 flights cancelled as Houthi attack hits Riyadh airport",
-  "topic": "riyadh airport attack bangladeshis",
-  "source": "Dhaka Tribune, Prothom Alo, The Daily Star, Jamuna TV",
-  "status": "failed",
-  "at": "2026-10-11T14:08:03Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "e669607a81815ef5",
   "url": "https://www.prothomalo.com/bangladesh/capital/6fmq9c2u06",
   "headline": "8 flights cancelled as Houthi attack hits Riyadh airport",
@@ -8398,5 +8342,41 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "94c7e6c06edc848b",
+  "url": "https://www.thedailystar.net/sports/cricket/news/australia-whitewash-pushes-bangladesh-down-ninth-4299081",
+  "headline": "Australia whitewash: Bangladesh women slip to ninth in ICC ODI rankings",
+  "topic": "australia whitewash bangladesh",
+  "source": "The Daily Star",
+  "status": "queued",
+  "at": "2026-10-14T22:07:11Z"
+ },
+ {
+  "title_hash": "262c349e4d1e0953",
+  "url": "https://www.thedailystar.net/news/bangladesh/news/20-out-30-bangladeshis-trafficked-russia-killed-4299056",
+  "headline": "20 Bangladeshis killed in Russia-Ukraine war after being trafficked",
+  "topic": "bangladeshis killed russia war",
+  "source": "The Daily Star, Prothom Alo, bdnews24.com",
+  "status": "queued",
+  "at": "2026-10-14T22:07:11Z"
+ },
+ {
+  "title_hash": "4564e09294ca37e4",
+  "url": "https://www.prothomalo.com/video/bangladesh/48y3ltjgtg",
+  "headline": "20 Bangladeshis killed in Russia-Ukraine war after being trafficked",
+  "topic": "bangladeshis killed russia war",
+  "source": "The Daily Star, Prothom Alo, bdnews24.com",
+  "status": "queued",
+  "at": "2026-10-14T22:07:11Z"
+ },
+ {
+  "title_hash": "a8a869fff2d803fd",
+  "url": "https://bdnews24.com/bangladesh/07e2ou2qsb",
+  "headline": "20 Bangladeshis killed in Russia-Ukraine war after being trafficked",
+  "topic": "bangladeshis killed russia war",
+  "source": "The Daily Star, Prothom Alo, bdnews24.com",
+  "status": "queued",
+  "at": "2026-10-14T22:07:11Z"
  }
 ]
