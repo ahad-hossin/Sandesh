@@ -8335,8 +8335,13 @@
   "headline": "86 Saudi-bound flights cancelled at Dhaka airport, affecting 13,490 passengers",
   "topic": "saudi bound flights cancelled",
   "source": "Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-10-14T05:08:16Z"
+  "status": "failed",
+  "at": "2026-10-14T05:08:16Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "dbaaa0467f1f1f81",
@@ -8344,8 +8349,13 @@
   "headline": "Saudi Arabia reports Houthi attacks on Aramco facility, debris wounds 4 in Riyadh",
   "topic": "saudi aramco facility attacked",
   "source": "Jamuna TV, The Daily Star, bdnews24.com, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-14T05:08:16Z"
+  "status": "failed",
+  "at": "2026-10-14T05:08:16Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "25f548f86a786d00",
@@ -8353,8 +8363,13 @@
   "headline": "Saudi Arabia reports Houthi attacks on Aramco facility, debris wounds 4 in Riyadh",
   "topic": "saudi aramco facility attacked",
   "source": "Jamuna TV, The Daily Star, bdnews24.com, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-14T05:08:16Z"
+  "status": "failed",
+  "at": "2026-10-14T05:08:16Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "cdca237ddd8fdb71",
@@ -8362,8 +8377,13 @@
   "headline": "Saudi Arabia reports Houthi attacks on Aramco facility, debris wounds 4 in Riyadh",
   "topic": "saudi aramco facility attacked",
   "source": "Jamuna TV, The Daily Star, bdnews24.com, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-14T05:08:16Z"
+  "status": "failed",
+  "at": "2026-10-14T05:08:16Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "ea8a6b1e2ad9487a",
@@ -8371,7 +8391,12 @@
   "headline": "Saudi Arabia reports Houthi attacks on Aramco facility, debris wounds 4 in Riyadh",
   "topic": "saudi aramco facility attacked",
   "source": "Jamuna TV, The Daily Star, bdnews24.com, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-14T05:08:16Z"
+  "status": "failed",
+  "at": "2026-10-14T05:08:16Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
