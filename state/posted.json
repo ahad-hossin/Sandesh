@@ -1,61 +1,5 @@
 [
  {
-  "title_hash": "1deb126154aaf374",
-  "url": "https://bdnews24.com/world/we0iknbo7v",
-  "headline": "12 killed, 300 injured in Houthi attack on Riyadh airport",
-  "topic": "riyadh airport houthi attack",
-  "source": "Dhaka Tribune, Jamuna TV, The Daily Star, bdnews24.com, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-11T10:08:57Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "c2d7271846247ab8",
-  "url": "https://www.prothomalo.com/bangladesh/saudite-htaahtder-pricyy-jaanaar-cessttaa-clche-mntrnnaalyy",
-  "headline": "12 killed, 300 injured in Houthi attack on Riyadh airport",
-  "topic": "riyadh airport houthi attack",
-  "source": "Dhaka Tribune, Jamuna TV, The Daily Star, bdnews24.com, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-11T10:08:57Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "1bc780234400b05a",
-  "url": "https://www.jamuna.tv/national/665909",
-  "headline": "12 killed, 300 injured in Houthi attack on Riyadh airport",
-  "topic": "riyadh airport houthi attack",
-  "source": "Dhaka Tribune, Jamuna TV, The Daily Star, bdnews24.com, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-11T10:08:57Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "f2aa1c17189882e5",
-  "url": "https://www.jamuna.tv/national/665907",
-  "headline": "12 killed, 300 injured in Houthi attack on Riyadh airport",
-  "topic": "riyadh airport houthi attack",
-  "source": "Dhaka Tribune, Jamuna TV, The Daily Star, bdnews24.com, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-11T10:08:57Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "3835d478f7ae2657",
   "url": "https://www.jamuna.tv/international/665897",
   "headline": "12 killed, 300 injured in Houthi attack on Riyadh airport",
@@ -8398,5 +8342,41 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "a8a869fff2d803fd",
+  "url": "https://bdnews24.com/bangladesh/07e2ou2qsb",
+  "headline": "20 Bangladeshis killed in Russia-Ukraine war after being trafficked",
+  "topic": "bangladeshis killed in russia war",
+  "source": "bdnews24.com, The Daily Star",
+  "status": "queued",
+  "at": "2026-10-14T16:07:29Z"
+ },
+ {
+  "title_hash": "3ef589ee8c321081",
+  "url": "https://www.thedailystar.net/news/news/20-bangladeshis-trafficked-russia-killed-invasion-ukraine-srb-4298676",
+  "headline": "20 Bangladeshis killed in Russia-Ukraine war after being trafficked",
+  "topic": "bangladeshis killed in russia war",
+  "source": "bdnews24.com, The Daily Star",
+  "status": "queued",
+  "at": "2026-10-14T16:07:29Z"
+ },
+ {
+  "title_hash": "a259e8015b31171c",
+  "url": "https://www.dhakatribune.com/bangladesh/422130/pm-urges-people-to-spend-30-60-minutes-twice-a",
+  "headline": "Spend 30-60 mins twice a week: PM urges people to clean areas to prevent dengue",
+  "topic": "pm dengue cleaning urge",
+  "source": "Dhaka Tribune, Jamuna TV",
+  "status": "queued",
+  "at": "2026-10-14T16:07:29Z"
+ },
+ {
+  "title_hash": "a65e4f1df0e3e31e",
+  "url": "https://www.jamuna.tv/national/666199",
+  "headline": "Spend 30-60 mins twice a week: PM urges people to clean areas to prevent dengue",
+  "topic": "pm dengue cleaning urge",
+  "source": "Dhaka Tribune, Jamuna TV",
+  "status": "queued",
+  "at": "2026-10-14T16:07:29Z"
  }
 ]
