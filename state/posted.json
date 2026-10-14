@@ -1,61 +1,5 @@
 [
  {
-  "title_hash": "5355ddd07ebc82e4",
-  "url": "https://www.dhakatribune.com/bangladesh/foreign-affairs/421815/five-dhaka-flights-cancelled-after-riyadh-airport",
-  "headline": "12 killed as Houthi attack hits Riyadh airport in Saudi Arabia",
-  "topic": "saudi airport attack impacts flights and Bangladeshis",
-  "source": "Prothom Alo, bdnews24.com, Dhaka Tribune, The Daily Star, Jamuna TV",
-  "status": "failed",
-  "at": "2026-10-11T11:11:44Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "fe4f7eac2208185f",
-  "url": "https://www.thedailystar.net/news/bangladesh/diplomacy/news/bangladesh-condemns-houthi-attack-riyadh-airport-killed-two-nationals-4295831",
-  "headline": "12 killed as Houthi attack hits Riyadh airport in Saudi Arabia",
-  "topic": "saudi airport attack impacts flights and Bangladeshis",
-  "source": "Prothom Alo, bdnews24.com, Dhaka Tribune, The Daily Star, Jamuna TV",
-  "status": "failed",
-  "at": "2026-10-11T11:11:44Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "1deb126154aaf374",
-  "url": "https://bdnews24.com/world/we0iknbo7v",
-  "headline": "12 killed as Houthi attack hits Riyadh airport in Saudi Arabia",
-  "topic": "saudi airport attack impacts flights and Bangladeshis",
-  "source": "Prothom Alo, bdnews24.com, Dhaka Tribune, The Daily Star, Jamuna TV",
-  "status": "failed",
-  "at": "2026-10-11T11:11:44Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "1bc780234400b05a",
-  "url": "https://www.jamuna.tv/national/665909",
-  "headline": "12 killed as Houthi attack hits Riyadh airport in Saudi Arabia",
-  "topic": "saudi airport attack impacts flights and Bangladeshis",
-  "source": "Prothom Alo, bdnews24.com, Dhaka Tribune, The Daily Star, Jamuna TV",
-  "status": "failed",
-  "at": "2026-10-11T11:11:44Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "f2aa1c17189882e5",
   "url": "https://www.jamuna.tv/national/665907",
   "headline": "12 killed as Houthi attack hits Riyadh airport in Saudi Arabia",
@@ -8398,5 +8342,41 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "a8a869fff2d803fd",
+  "url": "https://bdnews24.com/bangladesh/07e2ou2qsb",
+  "headline": "20 Bangladeshis killed in Russia-Ukraine war after being lured by fake jobs",
+  "topic": "bangladeshis killed in russia-ukraine war",
+  "source": "bdnews24.com, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-14T18:07:11Z"
+ },
+ {
+  "title_hash": "4da68c9f2b5b1dcf",
+  "url": "https://www.prothomalo.com/video/bangladesh/x1gjy0bohz",
+  "headline": "20 Bangladeshis killed in Russia-Ukraine war after being lured by fake jobs",
+  "topic": "bangladeshis killed in russia-ukraine war",
+  "source": "bdnews24.com, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-14T18:07:11Z"
+ },
+ {
+  "title_hash": "7980d62cf2902ab3",
+  "url": "https://www.jamuna.tv/all-bangladesh/666203",
+  "headline": "Internal rift in Comilla Jamayet: Car vandalized, cocktails exploded over leadership dispute",
+  "topic": "cumilla jamaat internal conflict",
+  "source": "Jamuna TV, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-14T18:07:11Z"
+ },
+ {
+  "title_hash": "112629e37af24b5d",
+  "url": "https://www.prothomalo.com/bangladesh/district/5ti6vxm282",
+  "headline": "Internal rift in Comilla Jamayet: Car vandalized, cocktails exploded over leadership dispute",
+  "topic": "cumilla jamaat internal conflict",
+  "source": "Jamuna TV, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-14T18:07:11Z"
  }
 ]
