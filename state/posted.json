@@ -8321,8 +8321,13 @@
   "headline": "20 Bangladeshis killed in Russia-Ukraine war after being trafficked",
   "topic": "bangladeshis killed in russia-ukraine war",
   "source": "Prothom Alo, bdnews24.com, The Daily Star, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-10-14T17:06:47Z"
+  "status": "failed",
+  "at": "2026-10-14T17:06:47Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "4da68c9f2b5b1dcf",
@@ -8330,8 +8335,13 @@
   "headline": "20 Bangladeshis killed in Russia-Ukraine war after being trafficked",
   "topic": "bangladeshis killed in russia-ukraine war",
   "source": "Prothom Alo, bdnews24.com, The Daily Star, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-10-14T17:06:47Z"
+  "status": "failed",
+  "at": "2026-10-14T17:06:47Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "3ef589ee8c321081",
@@ -8339,8 +8349,13 @@
   "headline": "20 Bangladeshis killed in Russia-Ukraine war after being trafficked",
   "topic": "bangladeshis killed in russia-ukraine war",
   "source": "Prothom Alo, bdnews24.com, The Daily Star, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-10-14T17:06:47Z"
+  "status": "failed",
+  "at": "2026-10-14T17:06:47Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "9eb9c2c8737316cd",
@@ -8348,8 +8363,13 @@
   "headline": "20 Bangladeshis killed in Russia-Ukraine war after being trafficked",
   "topic": "bangladeshis killed in russia-ukraine war",
   "source": "Prothom Alo, bdnews24.com, The Daily Star, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-10-14T17:06:47Z"
+  "status": "failed",
+  "at": "2026-10-14T17:06:47Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "e092cfa1da1e7a1e",
@@ -8357,8 +8377,13 @@
   "headline": "Tk 3 lakh ransom demand after three schoolgirls go missing in Bandarban",
   "topic": "bandarban schoolgirls missing",
   "source": "The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-14T17:06:47Z"
+  "status": "failed",
+  "at": "2026-10-14T17:06:47Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "ae607b0ddfd7c66c",
@@ -8366,7 +8391,12 @@
   "headline": "Tk 3 lakh ransom demand after three schoolgirls go missing in Bandarban",
   "topic": "bandarban schoolgirls missing",
   "source": "The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-14T17:06:47Z"
+  "status": "failed",
+  "at": "2026-10-14T17:06:47Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
