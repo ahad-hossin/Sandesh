@@ -1,75 +1,5 @@
 [
  {
-  "title_hash": "03d2a23b087ed2be",
-  "url": "https://www.thedailystar.net/sports/cricket/news/hasan-becomes-first-bangladesh-pacer-claim-test-hat-trick-4295811",
-  "headline": "Hasan Mahmud claims historic Test hattrick against Afghanistan",
-  "topic": "hasan mahmud test hattrick",
-  "source": "The Daily Star, Jamuna TV, bdnews24.com, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-11T10:08:57Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "1ade97bfed45eaba",
-  "url": "https://www.prothomalo.com/sports/cricket/6rc5okwuq9",
-  "headline": "Hasan Mahmud claims historic Test hattrick against Afghanistan",
-  "topic": "hasan mahmud test hattrick",
-  "source": "The Daily Star, Jamuna TV, bdnews24.com, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-11T10:08:57Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "7f2b6b5b817fafe4",
-  "url": "https://www.dhakatribune.com/bangladesh/foreign-affairs/421835/pm-monitoring-situation-of-bangladeshis-in-saudi",
-  "headline": "12 killed, 300 injured in Houthi attack on Riyadh airport",
-  "topic": "riyadh airport houthi attack",
-  "source": "Dhaka Tribune, Jamuna TV, The Daily Star, bdnews24.com, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-11T10:08:57Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "e7e34ddd872609f8",
-  "url": "https://www.jamuna.tv/national/665939",
-  "headline": "12 killed, 300 injured in Houthi attack on Riyadh airport",
-  "topic": "riyadh airport houthi attack",
-  "source": "Dhaka Tribune, Jamuna TV, The Daily Star, bdnews24.com, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-11T10:08:57Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "ac45be4b51e245e0",
-  "url": "https://www.dhakatribune.com/bangladesh/foreign-affairs/421818/bangladesh-strongly-condemns-houthi-attack-on",
-  "headline": "12 killed, 300 injured in Houthi attack on Riyadh airport",
-  "topic": "riyadh airport houthi attack",
-  "source": "Dhaka Tribune, Jamuna TV, The Daily Star, bdnews24.com, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-11T10:08:57Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "5355ddd07ebc82e4",
   "url": "https://www.dhakatribune.com/bangladesh/foreign-affairs/421815/five-dhaka-flights-cancelled-after-riyadh-airport",
   "headline": "12 killed, 300 injured in Houthi attack on Riyadh airport",
@@ -8398,5 +8328,50 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "d198358a11e4cbdf",
+  "url": "https://www.dhakatribune.com/bangladesh/422069/fire-breaks-out-at-drug-international-factory-in",
+  "headline": "Fire breaks out at drug factory in Tongi, thick smoke billows",
+  "topic": "fire at tongi drug factory",
+  "source": "Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-10-14T07:08:14Z"
+ },
+ {
+  "title_hash": "9744930214200ea4",
+  "url": "https://bdnews24.com/bangladesh/wv1o4misyv",
+  "headline": "Fire engulfs Tongi pharmaceutical factory; 19 fire engines battle blaze",
+  "topic": "fire at tongi pharmaceutical factory",
+  "source": "bdnews24.com, The Daily Star, Jamuna TV, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-14T07:08:14Z"
+ },
+ {
+  "title_hash": "140195a6780b0497",
+  "url": "https://www.thedailystar.net/news/accidents-and-fires/news/fire-breaks-out-tongi-pharmaceutical-factory-4298411",
+  "headline": "Fire engulfs Tongi pharmaceutical factory; 19 fire engines battle blaze",
+  "topic": "fire at tongi pharmaceutical factory",
+  "source": "bdnews24.com, The Daily Star, Jamuna TV, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-14T07:08:14Z"
+ },
+ {
+  "title_hash": "2f457d4c7e02bd2e",
+  "url": "https://www.jamuna.tv/all-bangladesh/666148",
+  "headline": "Fire engulfs Tongi pharmaceutical factory; 19 fire engines battle blaze",
+  "topic": "fire at tongi pharmaceutical factory",
+  "source": "bdnews24.com, The Daily Star, Jamuna TV, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-14T07:08:14Z"
+ },
+ {
+  "title_hash": "6295338348ddbf2d",
+  "url": "https://www.prothomalo.com/bangladesh/district/2rmxxobg0l",
+  "headline": "Fire engulfs Tongi pharmaceutical factory; 19 fire engines battle blaze",
+  "topic": "fire at tongi pharmaceutical factory",
+  "source": "bdnews24.com, The Daily Star, Jamuna TV, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-14T07:08:14Z"
  }
 ]
