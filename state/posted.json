@@ -8349,8 +8349,13 @@
   "headline": "20 Bangladeshis killed in Russia-Ukraine war after being lured by fake jobs",
   "topic": "bangladeshis killed in russia-ukraine war",
   "source": "bdnews24.com, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-14T18:07:11Z"
+  "status": "failed",
+  "at": "2026-10-14T18:07:11Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "4da68c9f2b5b1dcf",
@@ -8358,8 +8363,13 @@
   "headline": "20 Bangladeshis killed in Russia-Ukraine war after being lured by fake jobs",
   "topic": "bangladeshis killed in russia-ukraine war",
   "source": "bdnews24.com, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-14T18:07:11Z"
+  "status": "failed",
+  "at": "2026-10-14T18:07:11Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "7980d62cf2902ab3",
@@ -8367,8 +8377,13 @@
   "headline": "Internal rift in Comilla Jamayet: Car vandalized, cocktails exploded over leadership dispute",
   "topic": "cumilla jamaat internal conflict",
   "source": "Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-14T18:07:11Z"
+  "status": "failed",
+  "at": "2026-10-14T18:07:11Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "112629e37af24b5d",
@@ -8376,7 +8391,12 @@
   "headline": "Internal rift in Comilla Jamayet: Car vandalized, cocktails exploded over leadership dispute",
   "topic": "cumilla jamaat internal conflict",
   "source": "Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-14T18:07:11Z"
+  "status": "failed",
+  "at": "2026-10-14T18:07:11Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
