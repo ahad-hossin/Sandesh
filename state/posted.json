@@ -8321,8 +8321,13 @@
   "headline": "4 arrested after man beaten to death in Chattogram’s Bakalia",
   "topic": "bangladesh global hunger index ranking",
   "source": "The Daily Star",
-  "status": "queued",
-  "at": "2026-10-15T13:10:00Z"
+  "status": "failed",
+  "at": "2026-10-15T13:10:00Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "a81f49ecdacafbbc",
@@ -8330,8 +8335,13 @@
   "headline": "4 arrested after man beaten to death in Chattogram’s Bakalia",
   "topic": "bangladesh global hunger index ranking",
   "source": "The Daily Star",
-  "status": "queued",
-  "at": "2026-10-15T13:10:00Z"
+  "status": "failed",
+  "at": "2026-10-15T13:10:00Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "f526c308eaf9db16",
@@ -8339,8 +8349,13 @@
   "headline": "15,000+ passengers stranded as 103 Dhaka-Saudi flights cancelled",
   "topic": "biman suspends saudi flights",
   "source": "Dhaka Tribune, Prothom Alo, bdnews24.com",
-  "status": "queued",
-  "at": "2026-10-15T13:10:00Z"
+  "status": "failed",
+  "at": "2026-10-15T13:10:00Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "de3694da32c61f3c",
@@ -8348,8 +8363,13 @@
   "headline": "15,000+ passengers stranded as 103 Dhaka-Saudi flights cancelled",
   "topic": "biman suspends saudi flights",
   "source": "Dhaka Tribune, Prothom Alo, bdnews24.com",
-  "status": "queued",
-  "at": "2026-10-15T13:10:00Z"
+  "status": "failed",
+  "at": "2026-10-15T13:10:00Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "0983941d49759071",
@@ -8357,8 +8377,13 @@
   "headline": "15,000+ passengers stranded as 103 Dhaka-Saudi flights cancelled",
   "topic": "biman suspends saudi flights",
   "source": "Dhaka Tribune, Prothom Alo, bdnews24.com",
-  "status": "queued",
-  "at": "2026-10-15T13:10:00Z"
+  "status": "failed",
+  "at": "2026-10-15T13:10:00Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "3c87f33ef80a49ba",
@@ -8366,7 +8391,12 @@
   "headline": "15,000+ passengers stranded as 103 Dhaka-Saudi flights cancelled",
   "topic": "biman suspends saudi flights",
   "source": "Dhaka Tribune, Prothom Alo, bdnews24.com",
-  "status": "queued",
-  "at": "2026-10-15T13:10:00Z"
+  "status": "failed",
+  "at": "2026-10-15T13:10:00Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
