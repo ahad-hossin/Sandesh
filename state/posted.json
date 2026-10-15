@@ -1,33 +1,5 @@
 [
  {
-  "title_hash": "e5ecdf589f3598fd",
-  "url": "https://www.jamuna.tv/national/665969",
-  "headline": "2 Bangladeshis killed, 4 in ICU after Houthi attack on Riyadh airport",
-  "topic": "bangladeshis killed in riyadh airport attack",
-  "source": "Prothom Alo, Jamuna TV, The Daily Star",
-  "status": "failed",
-  "at": "2026-10-11T15:08:41Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "4de600b6ebc85431",
-  "url": "https://www.prothomalo.com/bangladesh/3gmhbt9j1e",
-  "headline": "2 Bangladeshis killed, 4 in ICU after Houthi attack on Riyadh airport",
-  "topic": "bangladeshis killed in riyadh airport attack",
-  "source": "Prothom Alo, Jamuna TV, The Daily Star",
-  "status": "failed",
-  "at": "2026-10-11T15:08:41Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "893e311c7d073b70",
   "url": "https://www.prothomalo.com/video/international/2zo3klirhu",
   "headline": "2 Bangladeshis killed, 4 in ICU after Houthi attack on Riyadh airport",
@@ -8398,5 +8370,23 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "bd9ba912791393be",
+  "url": "https://www.dhakatribune.com/bangladesh/dhaka/422148/cng-driver-injured-in-cocktail-blast-outside-july",
+  "headline": "CNG driver injured in cocktail blast outside July Memorial Museum",
+  "topic": "cng driver injured in cocktail blast",
+  "source": "Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-10-15T04:09:55Z"
+ },
+ {
+  "title_hash": "76608284ce936d9d",
+  "url": "https://www.thedailystar.net/news/world/news/death-toll-tropical-storm-rachel-rises-8-mexico-4299161",
+  "headline": "8 dead as Tropical Storm Rachel hits Mexico's Pacific coast",
+  "topic": "tropical storm rachel death toll rises to 8",
+  "source": "The Daily Star",
+  "status": "queued",
+  "at": "2026-10-15T04:09:55Z"
  }
 ]
