@@ -1,75 +1,5 @@
 [
  {
-  "title_hash": "20d8a7eae12a77f3",
-  "url": "https://www.thedailystar.net/news/bangladesh/news/step-towards-justice-the-pain-remains-4296426",
-  "headline": "Charges framed over July killings of 11, including water distributor Mugdho",
-  "topic": "mugdho killing trial",
-  "source": "Prothom Alo, The Daily Star, bdnews24.com",
-  "status": "failed",
-  "at": "2026-10-11T21:10:40Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "69dd590e86804742",
-  "url": "https://www.prothomalo.com/bangladesh/xfchr4pw1m",
-  "headline": "Charges framed over July killings of 11, including water distributor Mugdho",
-  "topic": "mugdho killing trial",
-  "source": "Prothom Alo, The Daily Star, bdnews24.com",
-  "status": "failed",
-  "at": "2026-10-11T21:10:40Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "7b082da59b680c22",
-  "url": "https://bdnews24.com/bangladesh/uoxejmd7hn",
-  "headline": "Charges framed over July killings of 11, including water distributor Mugdho",
-  "topic": "mugdho killing trial",
-  "source": "Prothom Alo, The Daily Star, bdnews24.com",
-  "status": "failed",
-  "at": "2026-10-11T21:10:40Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "2b3339da2992cf85",
-  "url": "https://www.dhakatribune.com/bangladesh/421899/two-bangladeshis-killed-24-injured-in-riyadh",
-  "headline": "2 Bangladeshis dead, 24 injured in Riyadh airport missile strike",
-  "topic": "riyadh airport attack bangladeshis",
-  "source": "Dhaka Tribune, Jamuna TV, Prothom Alo, bdnews24.com",
-  "status": "failed",
-  "at": "2026-10-11T22:10:40Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "4e4eb84e0c9321fd",
-  "url": "https://www.jamuna.tv/national/665981",
-  "headline": "2 Bangladeshis dead, 24 injured in Riyadh airport missile strike",
-  "topic": "riyadh airport attack bangladeshis",
-  "source": "Dhaka Tribune, Jamuna TV, Prothom Alo, bdnews24.com",
-  "status": "failed",
-  "at": "2026-10-11T22:10:40Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "242d5a747ab75c68",
   "url": "https://www.prothomalo.com/world/middle-east/fw2xte5dav",
   "headline": "2 Bangladeshis dead, 24 injured in Riyadh airport missile strike",
@@ -8398,5 +8328,50 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "0068a849d47287e6",
+  "url": "https://www.dhakatribune.com/bangladesh/foreign-affairs/422156/two-bangladeshis-executed-in-saudi-arabia",
+  "headline": "Two Bangladeshis executed in Saudi Arabia for unknown crimes",
+  "topic": "two bangladeshis executed in saudi arabia",
+  "source": "Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-10-15T14:08:19Z"
+ },
+ {
+  "title_hash": "de27b938d9cbd9aa",
+  "url": "https://bdnews24.com/aviation/hvwlx622dn",
+  "headline": "2 Bangladeshis killed in Saudi airport attacks; flights suspended",
+  "topic": "biman suspends saudi flights",
+  "source": "bdnews24.com, Dhaka Tribune, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-15T14:08:19Z"
+ },
+ {
+  "title_hash": "d2d691aa04f90ffe",
+  "url": "https://www.dhakatribune.com/bangladesh/foreign-affairs/422189/decision-on-dammam-riyadh-flights-announced",
+  "headline": "2 Bangladeshis killed in Saudi airport attacks; flights suspended",
+  "topic": "biman suspends saudi flights",
+  "source": "bdnews24.com, Dhaka Tribune, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-15T14:08:19Z"
+ },
+ {
+  "title_hash": "ed58effa92aa0eff",
+  "url": "https://www.prothomalo.com/bangladesh/so6oouo68t",
+  "headline": "2 Bangladeshis killed in Saudi airport attacks; flights suspended",
+  "topic": "biman suspends saudi flights",
+  "source": "bdnews24.com, Dhaka Tribune, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-15T14:08:19Z"
+ },
+ {
+  "title_hash": "95127b24f97abf17",
+  "url": "https://bdnews24.com/bangladesh/61ajy3dyvr",
+  "headline": "2 Bangladeshis killed in Saudi airport attacks; flights suspended",
+  "topic": "biman suspends saudi flights",
+  "source": "bdnews24.com, Dhaka Tribune, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-15T14:08:19Z"
  }
 ]
