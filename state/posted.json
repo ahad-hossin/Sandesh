@@ -8321,8 +8321,13 @@
   "headline": "15,000+ passengers affected as 103 Dhaka-Saudi flights cancelled",
   "topic": "saudi flights cancelled affecting passengers",
   "source": "Dhaka Tribune, Jamuna TV, bdnews24.com",
-  "status": "queued",
-  "at": "2026-10-15T09:08:09Z"
+  "status": "failed",
+  "at": "2026-10-15T09:08:09Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "7f8525758bb7cd35",
@@ -8330,8 +8335,13 @@
   "headline": "15,000+ passengers affected as 103 Dhaka-Saudi flights cancelled",
   "topic": "saudi flights cancelled affecting passengers",
   "source": "Dhaka Tribune, Jamuna TV, bdnews24.com",
-  "status": "queued",
-  "at": "2026-10-15T09:08:09Z"
+  "status": "failed",
+  "at": "2026-10-15T09:08:09Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "0983941d49759071",
@@ -8339,8 +8349,13 @@
   "headline": "15,000+ passengers affected as 103 Dhaka-Saudi flights cancelled",
   "topic": "saudi flights cancelled affecting passengers",
   "source": "Dhaka Tribune, Jamuna TV, bdnews24.com",
-  "status": "queued",
-  "at": "2026-10-15T09:08:09Z"
+  "status": "failed",
+  "at": "2026-10-15T09:08:09Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "d75ac5e518b60065",
@@ -8348,8 +8363,13 @@
   "headline": "28 dead as school roof collapse kills students in Pakistan",
   "topic": "pakistan school roof collapse kills dozens",
   "source": "The Daily Star, bdnews24.com, Jamuna TV",
-  "status": "queued",
-  "at": "2026-10-15T09:08:09Z"
+  "status": "failed",
+  "at": "2026-10-15T09:08:09Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "21503229c567f721",
@@ -8357,8 +8377,13 @@
   "headline": "28 dead as school roof collapse kills students in Pakistan",
   "topic": "pakistan school roof collapse kills dozens",
   "source": "The Daily Star, bdnews24.com, Jamuna TV",
-  "status": "queued",
-  "at": "2026-10-15T09:08:09Z"
+  "status": "failed",
+  "at": "2026-10-15T09:08:09Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "a6769d76f3422afc",
@@ -8366,7 +8391,12 @@
   "headline": "28 dead as school roof collapse kills students in Pakistan",
   "topic": "pakistan school roof collapse kills dozens",
   "source": "The Daily Star, bdnews24.com, Jamuna TV",
-  "status": "queued",
-  "at": "2026-10-15T09:08:09Z"
+  "status": "failed",
+  "at": "2026-10-15T09:08:09Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
