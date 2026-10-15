@@ -8363,8 +8363,13 @@
   "headline": "Journalist shot dead by attackers in Netrokona",
   "topic": "journalist shot dead in Netrokona",
   "source": "bdnews24.com, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-10-15T18:09:42Z"
+  "status": "failed",
+  "at": "2026-10-15T18:09:42Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "706b5b68aec16d6b",
@@ -8372,8 +8377,13 @@
   "headline": "Journalist shot dead by attackers in Netrokona",
   "topic": "journalist shot dead in Netrokona",
   "source": "bdnews24.com, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-10-15T18:09:42Z"
+  "status": "failed",
+  "at": "2026-10-15T18:09:42Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "470f7883d76cef11",
@@ -8381,7 +8391,12 @@
   "headline": "Mob killed Shamim after dragging him from hospital; alleged instigator still free",
   "topic": "mob kills man after dragging from hospital",
   "source": "Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-10-15T18:09:42Z"
+  "status": "failed",
+  "at": "2026-10-15T18:09:42Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
