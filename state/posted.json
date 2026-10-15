@@ -1,47 +1,5 @@
 [
  {
-  "title_hash": "950597bba8ed92b0",
-  "url": "https://www.prothomalo.com/bangladesh/45y72odq7l",
-  "headline": "Rooppur Nuclear Plant: Unit-1 begins first nuclear fission reaction",
-  "topic": "rooppur nuclear reaction",
-  "source": "The Daily Star, Dhaka Tribune, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-11T14:08:03Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "11f45343421adaa5",
-  "url": "https://www.thedailystar.net/news/news/4-bangladeshis-icu-after-attack-riyadh-airport-shama-obaed-says-4295981",
-  "headline": "2 Bangladeshis killed, 4 in ICU after Houthi attack on Riyadh airport",
-  "topic": "bangladeshis killed in riyadh airport attack",
-  "source": "Prothom Alo, Jamuna TV, The Daily Star",
-  "status": "failed",
-  "at": "2026-10-11T15:08:41Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "46a97fc6d3ff1cc5",
-  "url": "https://www.prothomalo.com/bangladesh/district/pgaee625jz",
-  "headline": "2 Bangladeshis killed, 4 in ICU after Houthi attack on Riyadh airport",
-  "topic": "bangladeshis killed in riyadh airport attack",
-  "source": "Prothom Alo, Jamuna TV, The Daily Star",
-  "status": "failed",
-  "at": "2026-10-11T15:08:41Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "e5ecdf589f3598fd",
   "url": "https://www.jamuna.tv/national/665969",
   "headline": "2 Bangladeshis killed, 4 in ICU after Houthi attack on Riyadh airport",
@@ -8398,5 +8356,32 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "2b41a2fc682dd76e",
+  "url": "https://www.prothomalo.com/world/middle-east/ken-hutider-haamlaa-tthekaate-paarche-naa-saudi",
+  "headline": "Billions spent, yet Saudi Arabia struggles to stop Houthi attacks",
+  "topic": "saudi arabia houthi attacks",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-15T03:09:22Z"
+ },
+ {
+  "title_hash": "06829fe655106448",
+  "url": "https://www.prothomalo.com/world/middle-east/a8va8xbczm",
+  "headline": "Billions spent, yet Saudi Arabia struggles to stop Houthi attacks",
+  "topic": "saudi arabia houthi attacks",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-15T03:09:22Z"
+ },
+ {
+  "title_hash": "05675ff225afabb4",
+  "url": "https://www.prothomalo.com/education/gyeib3qecm",
+  "headline": "4 lakh students drop out of secondary education in one year",
+  "topic": "decline in secondary school students",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-15T03:09:22Z"
  }
 ]
