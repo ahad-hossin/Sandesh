@@ -8363,8 +8363,13 @@
   "headline": "4.28kg of kush seized: Indian national arrested at Dhaka airport",
   "topic": "indian national arrested dhaka airport kush",
   "source": "Dhaka Tribune, bdnews24.com",
-  "status": "queued",
-  "at": "2026-10-15T05:08:20Z"
+  "status": "failed",
+  "at": "2026-10-15T05:08:20Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "1a4b94ab3a831bf0",
@@ -8372,8 +8377,13 @@
   "headline": "4.28kg of kush seized: Indian national arrested at Dhaka airport",
   "topic": "indian national arrested dhaka airport kush",
   "source": "Dhaka Tribune, bdnews24.com",
-  "status": "queued",
-  "at": "2026-10-15T05:08:20Z"
+  "status": "failed",
+  "at": "2026-10-15T05:08:20Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "60e46196fedb1f3a",
@@ -8381,7 +8391,12 @@
   "headline": "Two babies stolen from Cox's Bazar hospital in 20 days",
   "topic": "two babies stolen cox's bazar hospital 20 days",
   "source": "bdnews24.com",
-  "status": "queued",
-  "at": "2026-10-15T05:08:20Z"
+  "status": "failed",
+  "at": "2026-10-15T05:08:20Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
