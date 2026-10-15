@@ -8307,8 +8307,13 @@
   "headline": "5 bullets found in body of journalist shot dead in Netrokona",
   "topic": "journalist shot dead netrokona",
   "source": "Dhaka Tribune, Jamuna TV, Prothom Alo, bdnews24.com",
-  "status": "queued",
-  "at": "2026-10-15T20:16:06Z"
+  "status": "failed",
+  "at": "2026-10-15T20:16:06Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "59a73d7617869568",
@@ -8316,8 +8321,13 @@
   "headline": "5 bullets found in body of journalist shot dead in Netrokona",
   "topic": "journalist shot dead netrokona",
   "source": "Dhaka Tribune, Jamuna TV, Prothom Alo, bdnews24.com",
-  "status": "queued",
-  "at": "2026-10-15T20:16:06Z"
+  "status": "failed",
+  "at": "2026-10-15T20:16:06Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "faddab8d7273f7c5",
@@ -8325,8 +8335,13 @@
   "headline": "5 bullets found in body of journalist shot dead in Netrokona",
   "topic": "journalist shot dead netrokona",
   "source": "Dhaka Tribune, Jamuna TV, Prothom Alo, bdnews24.com",
-  "status": "queued",
-  "at": "2026-10-15T20:16:06Z"
+  "status": "failed",
+  "at": "2026-10-15T20:16:06Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "706b5b68aec16d6b",
@@ -8334,8 +8349,13 @@
   "headline": "5 bullets found in body of journalist shot dead in Netrokona",
   "topic": "journalist shot dead netrokona",
   "source": "Dhaka Tribune, Jamuna TV, Prothom Alo, bdnews24.com",
-  "status": "queued",
-  "at": "2026-10-15T20:16:06Z"
+  "status": "failed",
+  "at": "2026-10-15T20:16:06Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "8115ffe9bb88fb09",
@@ -8343,8 +8363,13 @@
   "headline": "10 die in 24 hours as dengue surge overwhelms hospitals",
   "topic": "dengue surge bangladesh",
   "source": "The Daily Star, Jamuna TV",
-  "status": "queued",
-  "at": "2026-10-15T20:16:06Z"
+  "status": "failed",
+  "at": "2026-10-15T20:16:06Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "458c94af02826e06",
@@ -8352,8 +8377,13 @@
   "headline": "10 die in 24 hours as dengue surge overwhelms hospitals",
   "topic": "dengue surge bangladesh",
   "source": "The Daily Star, Jamuna TV",
-  "status": "queued",
-  "at": "2026-10-15T20:16:06Z"
+  "status": "failed",
+  "at": "2026-10-15T20:16:06Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "61b74c6028c998f7",
@@ -8361,7 +8391,12 @@
   "headline": "10 die in 24 hours as dengue surge overwhelms hospitals",
   "topic": "dengue surge bangladesh",
   "source": "The Daily Star, Jamuna TV",
-  "status": "queued",
-  "at": "2026-10-15T20:16:06Z"
+  "status": "failed",
+  "at": "2026-10-15T20:16:06Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
