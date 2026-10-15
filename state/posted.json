@@ -8321,8 +8321,13 @@
   "headline": "CNG driver injured in cocktail blast outside July Memorial Museum",
   "topic": "blast outside july memorial museum",
   "source": "bdnews24.com, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-10-15T06:09:03Z"
+  "status": "failed",
+  "at": "2026-10-15T06:09:03Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "bd9ba912791393be",
@@ -8330,8 +8335,13 @@
   "headline": "CNG driver injured in cocktail blast outside July Memorial Museum",
   "topic": "blast outside july memorial museum",
   "source": "bdnews24.com, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-10-15T06:09:03Z"
+  "status": "failed",
+  "at": "2026-10-15T06:09:03Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "0de0bdf00339b67b",
@@ -8339,8 +8349,13 @@
   "headline": "1,702 candidates appointed to different cadres under 45th BCS",
   "topic": "45th bcs results",
   "source": "Dhaka Tribune, Jamuna TV, The Daily Star, bdnews24.com",
-  "status": "queued",
-  "at": "2026-10-15T06:09:03Z"
+  "status": "failed",
+  "at": "2026-10-15T06:09:03Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "fe67f5525e8e473e",
@@ -8348,8 +8363,13 @@
   "headline": "1,702 candidates appointed to different cadres under 45th BCS",
   "topic": "45th bcs results",
   "source": "Dhaka Tribune, Jamuna TV, The Daily Star, bdnews24.com",
-  "status": "queued",
-  "at": "2026-10-15T06:09:03Z"
+  "status": "failed",
+  "at": "2026-10-15T06:09:03Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "ca944abb78a23ea5",
@@ -8357,8 +8377,13 @@
   "headline": "1,702 candidates appointed to different cadres under 45th BCS",
   "topic": "45th bcs results",
   "source": "Dhaka Tribune, Jamuna TV, The Daily Star, bdnews24.com",
-  "status": "queued",
-  "at": "2026-10-15T06:09:03Z"
+  "status": "failed",
+  "at": "2026-10-15T06:09:03Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "354d69046713c2b8",
@@ -8366,7 +8391,12 @@
   "headline": "1,702 candidates appointed to different cadres under 45th BCS",
   "topic": "45th bcs results",
   "source": "Dhaka Tribune, Jamuna TV, The Daily Star, bdnews24.com",
-  "status": "queued",
-  "at": "2026-10-15T06:09:03Z"
+  "status": "failed",
+  "at": "2026-10-15T06:09:03Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
