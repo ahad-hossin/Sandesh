@@ -1,47 +1,5 @@
 [
  {
-  "title_hash": "17e4e76d47ed097e",
-  "url": "https://www.prothomalo.com/photo/bangladesh/jaqbzorfa0",
-  "headline": "8 flights cancelled as Houthi attack hits Riyadh airport",
-  "topic": "riyadh airport attack bangladeshis",
-  "source": "Dhaka Tribune, Prothom Alo, The Daily Star, Jamuna TV",
-  "status": "failed",
-  "at": "2026-10-11T14:08:03Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "e7e34ddd872609f8",
-  "url": "https://www.jamuna.tv/national/665939",
-  "headline": "8 flights cancelled as Houthi attack hits Riyadh airport",
-  "topic": "riyadh airport attack bangladeshis",
-  "source": "Dhaka Tribune, Prothom Alo, The Daily Star, Jamuna TV",
-  "status": "failed",
-  "at": "2026-10-11T14:08:03Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "e629edfc407ae7c8",
-  "url": "https://www.prothomalo.com/video/bangladesh/kv4bie73fl",
-  "headline": "8 flights cancelled as Houthi attack hits Riyadh airport",
-  "topic": "riyadh airport attack bangladeshis",
-  "source": "Dhaka Tribune, Prothom Alo, The Daily Star, Jamuna TV",
-  "status": "failed",
-  "at": "2026-10-11T14:08:03Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "3fc58f7278bdea93",
   "url": "https://www.thedailystar.net/news/power-and-energy/news/rooppur-unit-1-begins-first-nuclear-fission-reaction-4296001",
   "headline": "Rooppur Nuclear Plant: Unit-1 begins first nuclear fission reaction",
@@ -8398,5 +8356,32 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "94c7e6c06edc848b",
+  "url": "https://www.thedailystar.net/sports/cricket/news/australia-whitewash-pushes-bangladesh-down-ninth-4299081",
+  "headline": "Bangladesh women's cricket team drops to ninth in ODI rankings after Australia whitewash",
+  "topic": "bangladesh cricket whitewash australia",
+  "source": "The Daily Star",
+  "status": "queued",
+  "at": "2026-10-15T01:09:09Z"
+ },
+ {
+  "title_hash": "3cec1cd0d18cf233",
+  "url": "https://www.thedailystar.net/sports/football/news/real-madrid-comeback-stuns-roma-mourinho-enjoys-happy-reunion-4299111",
+  "headline": "3 late goals stun Roma as Real Madrid complete astonishing 4-3 comeback",
+  "topic": "real madrid comeback roma",
+  "source": "The Daily Star, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-15T01:09:09Z"
+ },
+ {
+  "title_hash": "8e27e9e5ac81ecbb",
+  "url": "https://www.prothomalo.com/sports/football/j4e7ql2pto",
+  "headline": "3 late goals stun Roma as Real Madrid complete astonishing 4-3 comeback",
+  "topic": "real madrid comeback roma",
+  "source": "The Daily Star, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-15T01:09:09Z"
  }
 ]
