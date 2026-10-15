@@ -1,47 +1,5 @@
 [
  {
-  "title_hash": "68660abec391d5fc",
-  "url": "https://www.prothomalo.com/bangladesh/riyyaad-bimaanbndre-haamlaa-2-baanlaadeshi-niht",
-  "headline": "8 flights cancelled as Houthi attack hits Riyadh airport",
-  "topic": "riyadh airport attack bangladeshis",
-  "source": "Dhaka Tribune, Prothom Alo, The Daily Star, Jamuna TV",
-  "status": "failed",
-  "at": "2026-10-11T14:08:03Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "7f2b6b5b817fafe4",
-  "url": "https://www.dhakatribune.com/bangladesh/foreign-affairs/421835/pm-monitoring-situation-of-bangladeshis-in-saudi",
-  "headline": "8 flights cancelled as Houthi attack hits Riyadh airport",
-  "topic": "riyadh airport attack bangladeshis",
-  "source": "Dhaka Tribune, Prothom Alo, The Daily Star, Jamuna TV",
-  "status": "failed",
-  "at": "2026-10-11T14:08:03Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "5355ddd07ebc82e4",
-  "url": "https://www.dhakatribune.com/bangladesh/foreign-affairs/421815/five-dhaka-flights-cancelled-after-riyadh-airport",
-  "headline": "8 flights cancelled as Houthi attack hits Riyadh airport",
-  "topic": "riyadh airport attack bangladeshis",
-  "source": "Dhaka Tribune, Prothom Alo, The Daily Star, Jamuna TV",
-  "status": "failed",
-  "at": "2026-10-11T14:08:03Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "17e4e76d47ed097e",
   "url": "https://www.prothomalo.com/photo/bangladesh/jaqbzorfa0",
   "headline": "8 flights cancelled as Houthi attack hits Riyadh airport",
@@ -8398,5 +8356,32 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "152141f43de61baf",
+  "url": "https://www.dhakatribune.com/bangladesh/422142/load-shedding-worsens-in-21-southwestern",
+  "headline": "Load-shedding worsens in 21 southwestern districts, deficit hits 116MW",
+  "topic": "bangladesh load shedding worsens",
+  "source": "Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-10-15T00:07:46Z"
+ },
+ {
+  "title_hash": "354d69046713c2b8",
+  "url": "https://bdnews24.com/bangladesh/mhl915eebo",
+  "headline": "1,702 candidates appointed through 45th BCS final gazette",
+  "topic": "45th bcs appointments gazette",
+  "source": "bdnews24.com, The Daily Star",
+  "status": "queued",
+  "at": "2026-10-15T00:07:46Z"
+ },
+ {
+  "title_hash": "ca944abb78a23ea5",
+  "url": "https://www.thedailystar.net/news/governance/news/45th-bcs-1702-appointed-gazette-4298981",
+  "headline": "1,702 candidates appointed through 45th BCS final gazette",
+  "topic": "45th bcs appointments gazette",
+  "source": "bdnews24.com, The Daily Star",
+  "status": "queued",
+  "at": "2026-10-15T00:07:46Z"
  }
 ]
