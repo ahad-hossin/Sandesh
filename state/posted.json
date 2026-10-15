@@ -8335,8 +8335,13 @@
   "headline": "5 bullets found in body as journalist shot dead in Netrokona",
   "topic": "journalist shot dead netrokona",
   "source": "Jamuna TV, Dhaka Tribune, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-15T17:12:22Z"
+  "status": "failed",
+  "at": "2026-10-15T17:12:22Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "59a73d7617869568",
@@ -8344,8 +8349,13 @@
   "headline": "5 bullets found in body as journalist shot dead in Netrokona",
   "topic": "journalist shot dead netrokona",
   "source": "Jamuna TV, Dhaka Tribune, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-15T17:12:22Z"
+  "status": "failed",
+  "at": "2026-10-15T17:12:22Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "11686d5bac01ca8f",
@@ -8353,8 +8363,13 @@
   "headline": "5 bullets found in body as journalist shot dead in Netrokona",
   "topic": "journalist shot dead netrokona",
   "source": "Jamuna TV, Dhaka Tribune, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-15T17:12:22Z"
+  "status": "failed",
+  "at": "2026-10-15T17:12:22Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "2f99432e5d41b6b8",
@@ -8362,8 +8377,13 @@
   "headline": "Youth beaten to death in Satkhira after Facebook live incites crowd",
   "topic": "youth beaten to death satkhira",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-15T17:12:22Z"
+  "status": "failed",
+  "at": "2026-10-15T17:12:22Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "9bc493ed20f8e459",
@@ -8371,7 +8391,12 @@
   "headline": "Youth beaten to death in Satkhira after Facebook live incites crowd",
   "topic": "youth beaten to death satkhira",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-15T17:12:22Z"
+  "status": "failed",
+  "at": "2026-10-15T17:12:22Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
