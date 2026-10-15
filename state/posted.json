@@ -1,47 +1,5 @@
 [
  {
-  "title_hash": "5db415044c0fc4fd",
-  "url": "https://www.dhakatribune.com/bangladesh/421892/minister-orders-action-against-passenger",
-  "headline": "NCP announces programs to ensure harmony during Durga Puja, protest price hikes",
-  "topic": "Durga Puja preparations and security",
-  "source": "Dhaka Tribune, Prothom Alo, bdnews24.com",
-  "status": "failed",
-  "at": "2026-10-12T00:07:20Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "077f5ce28b56e19c",
-  "url": "https://www.prothomalo.com/politics/8bmxbacw2u",
-  "headline": "NCP announces programs to ensure harmony during Durga Puja, protest price hikes",
-  "topic": "Durga Puja preparations and security",
-  "source": "Dhaka Tribune, Prothom Alo, bdnews24.com",
-  "status": "failed",
-  "at": "2026-10-12T00:07:20Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "539139d197a96323",
-  "url": "https://www.dhakatribune.com/bangladesh/421886/yasser-asks-authorities-to-ensure-tight-security",
-  "headline": "NCP announces programs to ensure harmony during Durga Puja, protest price hikes",
-  "topic": "Durga Puja preparations and security",
-  "source": "Dhaka Tribune, Prothom Alo, bdnews24.com",
-  "status": "failed",
-  "at": "2026-10-12T00:07:20Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "4ab07d997a4e67d9",
   "url": "https://www.dhakatribune.com/bangladesh/421882/bangladesh-railway-to-run-three-pairs-of-special",
   "headline": "NCP announces programs to ensure harmony during Durga Puja, protest price hikes",
@@ -8398,5 +8356,32 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "706b5b68aec16d6b",
+  "url": "https://bdnews24.com/bangladesh/g27omrulpu",
+  "headline": "Journalist shot dead by attackers in Netrokona",
+  "topic": "journalist shot dead in Netrokona",
+  "source": "bdnews24.com, Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-10-15T18:09:42Z"
+ },
+ {
+  "title_hash": "706b5b68aec16d6b",
+  "url": "https://www.dhakatribune.com/bangladesh/crime/422225/journalist-shot-dead-in-netrokona",
+  "headline": "Journalist shot dead by attackers in Netrokona",
+  "topic": "journalist shot dead in Netrokona",
+  "source": "bdnews24.com, Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-10-15T18:09:42Z"
+ },
+ {
+  "title_hash": "470f7883d76cef11",
+  "url": "https://www.dhakatribune.com/bangladesh/422229/mob-killed-shamim-after-dragging-him-from",
+  "headline": "Mob killed Shamim after dragging him from hospital; alleged instigator still free",
+  "topic": "mob kills man after dragging from hospital",
+  "source": "Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-10-15T18:09:42Z"
  }
 ]
