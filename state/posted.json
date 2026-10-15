@@ -1,47 +1,5 @@
 [
  {
-  "title_hash": "3fc58f7278bdea93",
-  "url": "https://www.thedailystar.net/news/power-and-energy/news/rooppur-unit-1-begins-first-nuclear-fission-reaction-4296001",
-  "headline": "Rooppur Nuclear Plant: Unit-1 begins first nuclear fission reaction",
-  "topic": "rooppur nuclear reaction",
-  "source": "The Daily Star, Dhaka Tribune, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-11T14:08:03Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "c83288b66c7bcb1b",
-  "url": "https://www.dhakatribune.com/bangladesh/power-energy/421859/rooppur-nuclear-plant-achieves-first-nuclear",
-  "headline": "Rooppur Nuclear Plant: Unit-1 begins first nuclear fission reaction",
-  "topic": "rooppur nuclear reaction",
-  "source": "The Daily Star, Dhaka Tribune, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-11T14:08:03Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "0bff49e3df779624",
-  "url": "https://www.jamuna.tv/national/665957",
-  "headline": "Rooppur Nuclear Plant: Unit-1 begins first nuclear fission reaction",
-  "topic": "rooppur nuclear reaction",
-  "source": "The Daily Star, Dhaka Tribune, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-11T14:08:03Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "950597bba8ed92b0",
   "url": "https://www.prothomalo.com/bangladesh/45y72odq7l",
   "headline": "Rooppur Nuclear Plant: Unit-1 begins first nuclear fission reaction",
@@ -8398,5 +8356,32 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "dd9b71cd784175f1",
+  "url": "https://www.thedailystar.net/news/world/middle-east/news/houthi-attack-sparks-fire-ksa-aramco-facility-4299046",
+  "headline": "Houthi attack sparks fire at Saudi Aramco facility, Riyadh rattled by explosions",
+  "topic": "saudi houthi attacks defense failure",
+  "source": "Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-10-15T02:07:02Z"
+ },
+ {
+  "title_hash": "06829fe655106448",
+  "url": "https://www.prothomalo.com/world/middle-east/a8va8xbczm",
+  "headline": "Houthi attack sparks fire at Saudi Aramco facility, Riyadh rattled by explosions",
+  "topic": "saudi houthi attacks defense failure",
+  "source": "Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-10-15T02:07:02Z"
+ },
+ {
+  "title_hash": "b3abd3293799c8ed",
+  "url": "https://www.prothomalo.com/opinion/column/rlcmdf1lm3",
+  "headline": "Trump's Middle East policy risks fueling Shia-Sunni conflict",
+  "topic": "trump middle east shia sunni conflict",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-15T02:07:02Z"
  }
 ]
