@@ -8363,8 +8363,13 @@
   "headline": "Load-shedding worsens in 21 southwestern districts, deficit hits 116MW",
   "topic": "bangladesh load shedding worsens",
   "source": "Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-10-15T00:07:46Z"
+  "status": "failed",
+  "at": "2026-10-15T00:07:46Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "354d69046713c2b8",
@@ -8372,8 +8377,13 @@
   "headline": "1,702 candidates appointed through 45th BCS final gazette",
   "topic": "45th bcs appointments gazette",
   "source": "bdnews24.com, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-15T00:07:46Z"
+  "status": "failed",
+  "at": "2026-10-15T00:07:46Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "ca944abb78a23ea5",
@@ -8381,7 +8391,12 @@
   "headline": "1,702 candidates appointed through 45th BCS final gazette",
   "topic": "45th bcs appointments gazette",
   "source": "bdnews24.com, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-15T00:07:46Z"
+  "status": "failed",
+  "at": "2026-10-15T00:07:46Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
