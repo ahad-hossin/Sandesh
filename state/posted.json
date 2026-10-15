@@ -1,47 +1,5 @@
 [
  {
-  "title_hash": "893e311c7d073b70",
-  "url": "https://www.prothomalo.com/video/international/2zo3klirhu",
-  "headline": "2 Bangladeshis killed, 4 in ICU after Houthi attack on Riyadh airport",
-  "topic": "bangladeshis killed in riyadh airport attack",
-  "source": "Prothom Alo, Jamuna TV, The Daily Star",
-  "status": "failed",
-  "at": "2026-10-11T15:08:41Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "44858380189ce25e",
-  "url": "https://www.prothomalo.com/world/middle-east/iwhrc6o0u7",
-  "headline": "2 Bangladeshis killed, 4 in ICU after Houthi attack on Riyadh airport",
-  "topic": "bangladeshis killed in riyadh airport attack",
-  "source": "Prothom Alo, Jamuna TV, The Daily Star",
-  "status": "failed",
-  "at": "2026-10-11T15:08:41Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "68660abec391d5fc",
-  "url": "https://www.prothomalo.com/bangladesh/riyyaad-bimaanbndre-haamlaa-2-baanlaadeshi-niht",
-  "headline": "2 Bangladeshis killed, 4 in ICU after Houthi attack on Riyadh airport",
-  "topic": "bangladeshis killed in riyadh airport attack",
-  "source": "Prothom Alo, Jamuna TV, The Daily Star",
-  "status": "failed",
-  "at": "2026-10-11T15:08:41Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "e7e34ddd872609f8",
   "url": "https://www.jamuna.tv/national/665939",
   "headline": "2 Bangladeshis killed, 4 in ICU after Houthi attack on Riyadh airport",
@@ -8398,5 +8356,32 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "7454161ce33f5722",
+  "url": "https://www.dhakatribune.com/bangladesh/crime/422150/indian-national-arrested-at-dhaka-airport-with",
+  "headline": "4.28kg of kush seized: Indian national arrested at Dhaka airport",
+  "topic": "indian national arrested dhaka airport kush",
+  "source": "Dhaka Tribune, bdnews24.com",
+  "status": "queued",
+  "at": "2026-10-15T05:08:20Z"
+ },
+ {
+  "title_hash": "1a4b94ab3a831bf0",
+  "url": "https://bdnews24.com/bangladesh/q5taobedtl",
+  "headline": "4.28kg of kush seized: Indian national arrested at Dhaka airport",
+  "topic": "indian national arrested dhaka airport kush",
+  "source": "Dhaka Tribune, bdnews24.com",
+  "status": "queued",
+  "at": "2026-10-15T05:08:20Z"
+ },
+ {
+  "title_hash": "60e46196fedb1f3a",
+  "url": "https://bdnews24.com/bangladesh/e749sdqbcb",
+  "headline": "Two babies stolen from Cox's Bazar hospital in 20 days",
+  "topic": "two babies stolen cox's bazar hospital 20 days",
+  "source": "bdnews24.com",
+  "status": "queued",
+  "at": "2026-10-15T05:08:20Z"
  }
 ]
