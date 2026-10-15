@@ -8363,8 +8363,13 @@
   "headline": "Bangladesh women's cricket team drops to ninth in ODI rankings after Australia whitewash",
   "topic": "bangladesh cricket whitewash australia",
   "source": "The Daily Star",
-  "status": "queued",
-  "at": "2026-10-15T01:09:09Z"
+  "status": "failed",
+  "at": "2026-10-15T01:09:09Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "3cec1cd0d18cf233",
@@ -8372,8 +8377,13 @@
   "headline": "3 late goals stun Roma as Real Madrid complete astonishing 4-3 comeback",
   "topic": "real madrid comeback roma",
   "source": "The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-15T01:09:09Z"
+  "status": "failed",
+  "at": "2026-10-15T01:09:09Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "8e27e9e5ac81ecbb",
@@ -8381,7 +8391,12 @@
   "headline": "3 late goals stun Roma as Real Madrid complete astonishing 4-3 comeback",
   "topic": "real madrid comeback roma",
   "source": "The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-15T01:09:09Z"
+  "status": "failed",
+  "at": "2026-10-15T01:09:09Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
