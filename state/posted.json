@@ -1,33 +1,5 @@
 [
  {
-  "title_hash": "4e4eb84e0c9321fd",
-  "url": "https://www.jamuna.tv/national/665981",
-  "headline": "2 Bangladeshis killed, 24 injured in Houthi attack on Riyadh airport",
-  "topic": "riyadh airport attack bangladeshis affected",
-  "source": "Prothom Alo, Dhaka Tribune, Jamuna TV, bdnews24.com, The Daily Star",
-  "status": "failed",
-  "at": "2026-10-12T01:06:48Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "242d5a747ab75c68",
-  "url": "https://www.prothomalo.com/world/middle-east/fw2xte5dav",
-  "headline": "2 Bangladeshis killed, 24 injured in Houthi attack on Riyadh airport",
-  "topic": "riyadh airport attack bangladeshis affected",
-  "source": "Prothom Alo, Dhaka Tribune, Jamuna TV, bdnews24.com, The Daily Star",
-  "status": "failed",
-  "at": "2026-10-12T01:06:48Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "51c22b1e770f6b6c",
   "url": "https://www.jamuna.tv/international/665977",
   "headline": "2 Bangladeshis killed, 24 injured in Houthi attack on Riyadh airport",
@@ -8398,5 +8370,23 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "80e02b008ea04785",
+  "url": "https://www.prothomalo.com/bangladesh/capital/7tzvo5bsab",
+  "headline": "Cocktails thrown at NCP office in Banglamotor",
+  "topic": "cocktail blast banglamotor",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-15T22:32:39Z"
+ },
+ {
+  "title_hash": "5db4bce7d8421f7c",
+  "url": "https://www.prothomalo.com/bangladesh/ocdbk9cibt",
+  "headline": "6 six people arrested for Youth Development exam leak",
+  "topic": "youth development question leak arrests",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-15T22:32:39Z"
  }
 ]
