@@ -1,89 +1,5 @@
 [
  {
-  "title_hash": "3fc58f7278bdea93",
-  "url": "https://www.thedailystar.net/news/power-and-energy/news/rooppur-unit-1-begins-first-nuclear-fission-reaction-4296001",
-  "headline": "Rooppur Nuclear Plant: First nuclear reaction begins in Unit 1",
-  "topic": "rooppur nuclear reaction",
-  "source": "bdnews24.com, Jamuna TV, Dhaka Tribune, The Daily Star",
-  "status": "failed",
-  "at": "2026-10-11T16:08:50Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "fb75338856f9ecc0",
-  "url": "https://www.prothomalo.com/video/international/je9hmbca6y",
-  "headline": "12 killed, including 2 Bangladeshis, in Houthi missile attack on Riyadh airport",
-  "topic": "riyadh airport attack kills 12, including 2 Bangladeshis",
-  "source": "Prothom Alo, Jamuna TV",
-  "status": "failed",
-  "at": "2026-10-11T17:09:55Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "83565dd5d4c88b68",
-  "url": "https://www.jamuna.tv/international/665977",
-  "headline": "12 killed, including 2 Bangladeshis, in Houthi missile attack on Riyadh airport",
-  "topic": "riyadh airport attack kills 12, including 2 Bangladeshis",
-  "source": "Prothom Alo, Jamuna TV",
-  "status": "failed",
-  "at": "2026-10-11T17:09:55Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "8a31fe53572ef362",
-  "url": "https://www.thedailystar.net/business/economy/aviation/news/govt-plans-international-airport-trishal-feasibility-study-soon-aviation-minister-4296211",
-  "headline": "Govt to build international airport in Trishal, Mymensingh",
-  "topic": "govt plans international airport in trishal",
-  "source": "The Daily Star, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-11T17:09:55Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "4daf6fe22839134d",
-  "url": "https://www.prothomalo.com/video/bangladesh/9s4gwj0ut2",
-  "headline": "Govt to build international airport in Trishal, Mymensingh",
-  "topic": "govt plans international airport in trishal",
-  "source": "The Daily Star, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-11T17:09:55Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "6b74c4f399283b33",
-  "url": "https://bdnews24.com/world/oqqy8ibkdz",
-  "headline": "Riyadh airport hit by unidentified projectile causing fire, day after 12 killed",
-  "topic": "riyadh airport houthi attack",
-  "source": "Jamuna TV, bdnews24.com, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-11T18:10:25Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "83565dd5d4c88b68",
   "url": "https://www.jamuna.tv/international/665977",
   "headline": "Riyadh airport hit by unidentified projectile causing fire, day after 12 killed",
@@ -8398,5 +8314,59 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "3c87f33ef80a49ba",
+  "url": "https://www.dhakatribune.com/bangladesh/foreign-affairs/422162/103-dhaka-saudi-flights-cancelled-over-15-000",
+  "headline": "15,000+ passengers affected as 103 Dhaka-Saudi flights cancelled",
+  "topic": "saudi flights cancelled affecting passengers",
+  "source": "Dhaka Tribune, Jamuna TV, bdnews24.com",
+  "status": "queued",
+  "at": "2026-10-15T09:08:09Z"
+ },
+ {
+  "title_hash": "7f8525758bb7cd35",
+  "url": "https://www.jamuna.tv/international/666239",
+  "headline": "15,000+ passengers affected as 103 Dhaka-Saudi flights cancelled",
+  "topic": "saudi flights cancelled affecting passengers",
+  "source": "Dhaka Tribune, Jamuna TV, bdnews24.com",
+  "status": "queued",
+  "at": "2026-10-15T09:08:09Z"
+ },
+ {
+  "title_hash": "0983941d49759071",
+  "url": "https://bdnews24.com/aviation/vi47beuyh8",
+  "headline": "15,000+ passengers affected as 103 Dhaka-Saudi flights cancelled",
+  "topic": "saudi flights cancelled affecting passengers",
+  "source": "Dhaka Tribune, Jamuna TV, bdnews24.com",
+  "status": "queued",
+  "at": "2026-10-15T09:08:09Z"
+ },
+ {
+  "title_hash": "d75ac5e518b60065",
+  "url": "https://www.thedailystar.net/news/world/south-asia/news/pakistan-school-roof-collapse-kills-27-students-one-teacher-4299336",
+  "headline": "28 dead as school roof collapse kills students in Pakistan",
+  "topic": "pakistan school roof collapse kills dozens",
+  "source": "The Daily Star, bdnews24.com, Jamuna TV",
+  "status": "queued",
+  "at": "2026-10-15T09:08:09Z"
+ },
+ {
+  "title_hash": "21503229c567f721",
+  "url": "https://bdnews24.com/world/south-asia/uuqux35rw6",
+  "headline": "28 dead as school roof collapse kills students in Pakistan",
+  "topic": "pakistan school roof collapse kills dozens",
+  "source": "The Daily Star, bdnews24.com, Jamuna TV",
+  "status": "queued",
+  "at": "2026-10-15T09:08:09Z"
+ },
+ {
+  "title_hash": "a6769d76f3422afc",
+  "url": "https://www.jamuna.tv/international/666235",
+  "headline": "28 dead as school roof collapse kills students in Pakistan",
+  "topic": "pakistan school roof collapse kills dozens",
+  "source": "The Daily Star, bdnews24.com, Jamuna TV",
+  "status": "queued",
+  "at": "2026-10-15T09:08:09Z"
  }
 ]
