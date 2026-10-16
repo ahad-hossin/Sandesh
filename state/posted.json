@@ -1,61 +1,5 @@
 [
  {
-  "title_hash": "1d3397b73c15a49f",
-  "url": "https://www.thedailystar.net/news/crime-justice/news/two-retired-army-officers-arrested-terrorism-cyber-security-cases-4296616",
-  "headline": "Two retired army officers arrested in Dhaka under Anti-Terrorism and Cyber Security Acts",
-  "topic": "Retired army officers arrested",
-  "source": "Jamuna TV, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-10-12T04:07:00Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "10a4e1babee76af2",
-  "url": "https://www.jamuna.tv/national/665987",
-  "headline": "Two retired army officers arrested in Dhaka under Anti-Terrorism and Cyber Security Acts",
-  "topic": "Retired army officers arrested",
-  "source": "Jamuna TV, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-10-12T04:07:00Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "c2bf0ee95dc7ec2b",
-  "url": "https://www.prothomalo.com/bangladesh/o19fpl717f",
-  "headline": "Two retired army officers arrested in Dhaka under Anti-Terrorism and Cyber Security Acts",
-  "topic": "Retired army officers arrested",
-  "source": "Jamuna TV, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-10-12T04:07:00Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "89986f5dff6d9db1",
-  "url": "https://www.dhakatribune.com/bangladesh/421905/nine-dhaka-flights-cancelled-leaving-3-012",
-  "headline": "2 Bangladeshis killed, 24 injured in attack on Riyadh airport",
-  "topic": "Saudi airport attack Bangladeshis killed injured flights cancelled",
-  "source": "Dhaka Tribune, Prothom Alo, Jamuna TV, bdnews24.com, The Daily Star",
-  "status": "failed",
-  "at": "2026-10-12T05:09:31Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "2675956aaa59699b",
   "url": "https://www.prothomalo.com/video/bangladesh/dn4vaogalu",
   "headline": "2 Bangladeshis killed, 24 injured in attack on Riyadh airport",
@@ -8398,5 +8342,41 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "59ce0432bf88db2f",
+  "url": "https://www.dhakatribune.com/bangladesh/422252/eighteen-passenger-railway-coaches-arrive-from",
+  "headline": "First batch of 18 new railway coaches arrive from India",
+  "topic": "india railway coaches arrival",
+  "source": "Dhaka Tribune, Jamuna TV, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-16T13:24:28Z"
+ },
+ {
+  "title_hash": "269aefcf507e628c",
+  "url": "https://www.jamuna.tv/all-bangladesh/666306",
+  "headline": "First batch of 18 new railway coaches arrive from India",
+  "topic": "india railway coaches arrival",
+  "source": "Dhaka Tribune, Jamuna TV, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-16T13:24:28Z"
+ },
+ {
+  "title_hash": "a99326280e707954",
+  "url": "https://www.prothomalo.com/bangladesh/district/umbzatcqfa",
+  "headline": "First batch of 18 new railway coaches arrive from India",
+  "topic": "india railway coaches arrival",
+  "source": "Dhaka Tribune, Jamuna TV, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-16T13:24:28Z"
+ },
+ {
+  "title_hash": "1e463eae05f322e5",
+  "url": "https://www.dhakatribune.com/bangladesh/422234/18-railway-coaches-made-in-india-set-to-arrive",
+  "headline": "First batch of 18 new railway coaches arrive from India",
+  "topic": "india railway coaches arrival",
+  "source": "Dhaka Tribune, Jamuna TV, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-16T13:24:28Z"
  }
 ]
