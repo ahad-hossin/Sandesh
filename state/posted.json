@@ -8321,8 +8321,13 @@
   "headline": "Two teenage girls killed in hit-and-run in Dhaka's Shyamoli",
   "topic": "shyamoli road accident",
   "source": "Dhaka Tribune, bdnews24.com, Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-16T08:22:13Z"
+  "status": "failed",
+  "at": "2026-10-16T08:22:13Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "a316407f89392780",
@@ -8330,8 +8335,13 @@
   "headline": "Two teenage girls killed in hit-and-run in Dhaka's Shyamoli",
   "topic": "shyamoli road accident",
   "source": "Dhaka Tribune, bdnews24.com, Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-16T08:22:13Z"
+  "status": "failed",
+  "at": "2026-10-16T08:22:13Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "a274339b5683324c",
@@ -8339,8 +8349,13 @@
   "headline": "Two teenage girls killed in hit-and-run in Dhaka's Shyamoli",
   "topic": "shyamoli road accident",
   "source": "Dhaka Tribune, bdnews24.com, Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-16T08:22:13Z"
+  "status": "failed",
+  "at": "2026-10-16T08:22:13Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "a0a5ef8f6a609555",
@@ -8348,8 +8363,13 @@
   "headline": "Two teenage girls killed in hit-and-run in Dhaka's Shyamoli",
   "topic": "shyamoli road accident",
   "source": "Dhaka Tribune, bdnews24.com, Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-16T08:22:13Z"
+  "status": "failed",
+  "at": "2026-10-16T08:22:13Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "201752547bc5918e",
@@ -8357,8 +8377,13 @@
   "headline": "Saudi Arabia executes 2 Bangladeshis for ‘immoral act’ in Makkah mosque",
   "topic": "bangladeshis executed saudi arabia",
   "source": "Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-16T08:22:13Z"
+  "status": "failed",
+  "at": "2026-10-16T08:22:13Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "f87e5a9bf4fd20df",
@@ -8366,7 +8391,12 @@
   "headline": "Saudi Arabia executes 2 Bangladeshis for ‘immoral act’ in Makkah mosque",
   "topic": "bangladeshis executed saudi arabia",
   "source": "Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-16T08:22:13Z"
+  "status": "failed",
+  "at": "2026-10-16T08:22:13Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
