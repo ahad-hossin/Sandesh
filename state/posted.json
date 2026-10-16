@@ -1,47 +1,5 @@
 [
  {
-  "title_hash": "e5ecdf589f3598fd",
-  "url": "https://www.jamuna.tv/national/665969",
-  "headline": "2 Bangladeshis killed, 24 injured in Houthi attack on Riyadh airport",
-  "topic": "riyadh airport attack bangladeshis affected",
-  "source": "Prothom Alo, Dhaka Tribune, Jamuna TV, bdnews24.com, The Daily Star",
-  "status": "failed",
-  "at": "2026-10-12T01:06:48Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "a05e84dc1ec80351",
-  "url": "https://www.dhakatribune.com/bangladesh/421847/saudi-bound-bangladeshis-stranded-as-airport",
-  "headline": "2 Bangladeshis killed, 24 injured in Houthi attack on Riyadh airport",
-  "topic": "riyadh airport attack bangladeshis affected",
-  "source": "Prothom Alo, Dhaka Tribune, Jamuna TV, bdnews24.com, The Daily Star",
-  "status": "failed",
-  "at": "2026-10-12T01:06:48Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "dcb908d6774c0e64",
-  "url": "https://www.thedailystar.net/news/world/middle-east/news/riyadh-airport-hit-fresh-houthi-strike-4296501",
-  "headline": "2 Bangladeshis killed, 24 injured in Houthi attack on Riyadh airport",
-  "topic": "riyadh airport attack bangladeshis affected",
-  "source": "Prothom Alo, Dhaka Tribune, Jamuna TV, bdnews24.com, The Daily Star",
-  "status": "failed",
-  "at": "2026-10-12T01:06:48Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "bb6a869e138fbcd1",
   "url": "https://www.thedailystar.net/news/world/middle-east/news/2-bangladeshis-killed-riyadh-airport-strike-4296506",
   "headline": "2 Bangladeshis killed, 24 injured in Houthi attack on Riyadh airport",
@@ -8398,5 +8356,32 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "80e02b008ea04785",
+  "url": "https://www.jamuna.tv/national/666281",
+  "headline": "Cocktail explosion outside NCP office in Dhaka's Bangla Motor; two unexploded devices defused",
+  "topic": "cocktail blast banglamotor",
+  "source": "Jamuna TV, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-16T01:08:26Z"
+ },
+ {
+  "title_hash": "80e02b008ea04785",
+  "url": "https://www.prothomalo.com/bangladesh/capital/7tzvo5bsab",
+  "headline": "Cocktail explosion outside NCP office in Dhaka's Bangla Motor; two unexploded devices defused",
+  "topic": "cocktail blast banglamotor",
+  "source": "Jamuna TV, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-16T01:08:26Z"
+ },
+ {
+  "title_hash": "b827178dfb1c7eef",
+  "url": "https://www.jamuna.tv/national/666280",
+  "headline": "Dhaka markets and museums to remain closed on Friday, plan your trips accordingly",
+  "topic": "dhaka markets closed friday",
+  "source": "Jamuna TV",
+  "status": "queued",
+  "at": "2026-10-16T01:08:26Z"
  }
 ]
