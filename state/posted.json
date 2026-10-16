@@ -8321,8 +8321,13 @@
   "headline": "1,181 hospitalized in 24h as 4 more die of dengue",
   "topic": "dengue-deaths-hospitalizations-update",
   "source": "Dhaka Tribune, Jamuna TV, The Daily Star, bdnews24.com, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-16T14:22:57Z"
+  "status": "failed",
+  "at": "2026-10-16T14:22:57Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "b25e40e46f36ec18",
@@ -8330,8 +8335,13 @@
   "headline": "1,181 hospitalized in 24h as 4 more die of dengue",
   "topic": "dengue-deaths-hospitalizations-update",
   "source": "Dhaka Tribune, Jamuna TV, The Daily Star, bdnews24.com, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-16T14:22:57Z"
+  "status": "failed",
+  "at": "2026-10-16T14:22:57Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "44954b8b29579dd2",
@@ -8339,8 +8349,13 @@
   "headline": "1,181 hospitalized in 24h as 4 more die of dengue",
   "topic": "dengue-deaths-hospitalizations-update",
   "source": "Dhaka Tribune, Jamuna TV, The Daily Star, bdnews24.com, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-16T14:22:57Z"
+  "status": "failed",
+  "at": "2026-10-16T14:22:57Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "1bc3b8a6380b50cd",
@@ -8348,8 +8363,13 @@
   "headline": "1,181 hospitalized in 24h as 4 more die of dengue",
   "topic": "dengue-deaths-hospitalizations-update",
   "source": "Dhaka Tribune, Jamuna TV, The Daily Star, bdnews24.com, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-16T14:22:57Z"
+  "status": "failed",
+  "at": "2026-10-16T14:22:57Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "d2a79cc7bbb5b7d3",
@@ -8357,8 +8377,13 @@
   "headline": "1,181 hospitalized in 24h as 4 more die of dengue",
   "topic": "dengue-deaths-hospitalizations-update",
   "source": "Dhaka Tribune, Jamuna TV, The Daily Star, bdnews24.com, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-16T14:22:57Z"
+  "status": "failed",
+  "at": "2026-10-16T14:22:57Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "d141829e47468601",
@@ -8366,7 +8391,12 @@
   "headline": "16,620 passengers stranded as 107 flights to Saudi Arabia cancelled",
   "topic": "saudi-flights-cancelled-passengers-stranded",
   "source": "Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-10-16T14:22:57Z"
+  "status": "failed",
+  "at": "2026-10-16T14:22:57Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
