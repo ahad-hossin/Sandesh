@@ -8377,8 +8377,13 @@
   "headline": "Groom dies day before wedding in Gaibandha, celebrations turn to mourning",
   "topic": "Groom dies before wedding",
   "source": "Jamuna TV",
-  "status": "queued",
-  "at": "2026-10-16T00:08:41Z"
+  "status": "failed",
+  "at": "2026-10-16T00:08:41Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "80e02b008ea04785",
@@ -8386,7 +8391,12 @@
   "headline": "Cocktail explosion in front of NCP office in Bangla Motor, Dhaka",
   "topic": "Cocktail blast at NCP office",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-16T00:08:41Z"
+  "status": "failed",
+  "at": "2026-10-16T00:08:41Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
