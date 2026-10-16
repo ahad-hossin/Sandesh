@@ -1,33 +1,5 @@
 [
  {
-  "title_hash": "6873e2b8ae200479",
-  "url": "https://www.thedailystar.net/news/transport/news/riyadh-airport-closure-cancels-10-flights-dhaka-affects-3431-passengers-4296731",
-  "headline": "3,431 passengers stranded as 10 Dhaka flights cancelled due to Riyadh airport closure",
-  "topic": "riyadh airport attack flight cancellations",
-  "source": "The Daily Star, Dhaka Tribune, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-12T09:08:24Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "89986f5dff6d9db1",
-  "url": "https://www.dhakatribune.com/bangladesh/421905/nine-dhaka-flights-cancelled-leaving-3-012",
-  "headline": "3,431 passengers stranded as 10 Dhaka flights cancelled due to Riyadh airport closure",
-  "topic": "riyadh airport attack flight cancellations",
-  "source": "The Daily Star, Dhaka Tribune, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-12T09:08:24Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "b84101ff9c982bd6",
   "url": "https://www.jamuna.tv/national/665999",
   "headline": "3,431 passengers stranded as 10 Dhaka flights cancelled due to Riyadh airport closure",
@@ -8398,5 +8370,23 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "78340f618f80b7db",
+  "url": "https://bdnews24.com/bangladesh/lh6d9vrr9g",
+  "headline": "President, PM send Durga Puja greetings to all citizens",
+  "topic": "president pm send durga puja greetings",
+  "source": "bdnews24.com",
+  "status": "queued",
+  "at": "2026-10-16T23:14:04Z"
+ },
+ {
+  "title_hash": "85686e0eb511dd13",
+  "url": "https://www.thedailystar.net/news/crime-justice/news/man-shot-death-rajbari-4300391",
+  "headline": "Man shot to death in Rajbari by motorcycle-borne attackers",
+  "topic": "man shot to death rajbari",
+  "source": "The Daily Star",
+  "status": "queued",
+  "at": "2026-10-16T23:14:04Z"
  }
 ]
