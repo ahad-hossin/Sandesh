@@ -1,61 +1,5 @@
 [
  {
-  "title_hash": "34d4c7f552fafcc7",
-  "url": "https://www.prothomalo.com/video/bangladesh/fojj3ahj75",
-  "headline": "Aminul, who farmed and broke bricks to study, is now a BCS cadre",
-  "topic": "BCS cadre success story",
-  "source": "Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-12T02:07:11Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "c2bf0ee95dc7ec2b",
-  "url": "https://www.prothomalo.com/bangladesh/o19fpl717f",
-  "headline": "Two former army officers arrested in Dhaka under anti-terrorism and cyber security laws",
-  "topic": "former army officers arrested",
-  "source": "Prothom Alo, Jamuna TV",
-  "status": "failed",
-  "at": "2026-10-12T03:06:57Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "10a4e1babee76af2",
-  "url": "https://www.jamuna.tv/national/665987",
-  "headline": "Two former army officers arrested in Dhaka under anti-terrorism and cyber security laws",
-  "topic": "former army officers arrested",
-  "source": "Prothom Alo, Jamuna TV",
-  "status": "failed",
-  "at": "2026-10-12T03:06:57Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "2b3339da2992cf85",
-  "url": "https://www.dhakatribune.com/bangladesh/421899/two-bangladeshis-killed-24-injured-in-riyadh",
-  "headline": "2 Bangladeshis killed, 24 injured in Houthi strikes on Riyadh airport",
-  "topic": "bangladeshis injured riyadh airport attack",
-  "source": "Dhaka Tribune, The Daily Star, Jamuna TV, bdnews24.com, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-12T03:06:57Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "b1714bb41a883b3e",
   "url": "https://www.thedailystar.net/news/world/news/riyadh-airport-hit-fresh-houthi-strike-day-after-deadly-attack-4296576",
   "headline": "2 Bangladeshis killed, 24 injured in Houthi strikes on Riyadh airport",
@@ -8398,5 +8342,41 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "47faeca0dd71a472",
+  "url": "https://www.dhakatribune.com/bangladesh/422238/2-bangladesh-policemen-detained-by-bsf-along",
+  "headline": "2 Bangladesh police officers detained by BSF after crossing border",
+  "topic": "bangladesh police detained bsf",
+  "source": "Dhaka Tribune, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-16T07:17:10Z"
+ },
+ {
+  "title_hash": "97b574a01e24d4b3",
+  "url": "https://www.prothomalo.com/bangladesh/district/ap389k7kri",
+  "headline": "2 Bangladesh police officers detained by BSF after crossing border",
+  "topic": "bangladesh police detained bsf",
+  "source": "Dhaka Tribune, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-16T07:17:10Z"
+ },
+ {
+  "title_hash": "b51e3ee7f4c7617a",
+  "url": "https://www.dhakatribune.com/bangladesh/422240/two-arrested-over-mob-killing-in-satkhira-prime",
+  "headline": "Over 200 named in case after man lynched over blasphemy allegations in Satkhira",
+  "topic": "satkhira mob killing arrest",
+  "source": "Dhaka Tribune, Jamuna TV",
+  "status": "queued",
+  "at": "2026-10-16T07:17:10Z"
+ },
+ {
+  "title_hash": "c3981f6d7ece6177",
+  "url": "https://www.jamuna.tv/all-bangladesh/666285",
+  "headline": "Over 200 named in case after man lynched over blasphemy allegations in Satkhira",
+  "topic": "satkhira mob killing arrest",
+  "source": "Dhaka Tribune, Jamuna TV",
+  "status": "queued",
+  "at": "2026-10-16T07:17:10Z"
  }
 ]
