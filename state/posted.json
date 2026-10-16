@@ -8363,8 +8363,13 @@
   "headline": "Durga Puja festivities begin with Maha Shasthi at 33,165 mandaps across Bangladesh",
   "topic": "durga puja begins",
   "source": "Jamuna TV, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-16T03:06:54Z"
+  "status": "failed",
+  "at": "2026-10-16T03:06:54Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "a327569d203b6b70",
@@ -8372,8 +8377,13 @@
   "headline": "Durga Puja festivities begin with Maha Shasthi at 33,165 mandaps across Bangladesh",
   "topic": "durga puja begins",
   "source": "Jamuna TV, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-16T03:06:54Z"
+  "status": "failed",
+  "at": "2026-10-16T03:06:54Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "30a4bf237702f5ec",
@@ -8381,7 +8391,12 @@
   "headline": "Most vegetables now cost over BDT 80/kg in Dhaka markets as winter approaches",
   "topic": "high vegetable prices bangladesh",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-16T03:06:54Z"
+  "status": "failed",
+  "at": "2026-10-16T03:06:54Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
