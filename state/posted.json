@@ -8349,8 +8349,13 @@
   "headline": "2 Bangladesh police officers detained by BSF after crossing border",
   "topic": "bangladesh police detained bsf",
   "source": "Dhaka Tribune, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-16T07:17:10Z"
+  "status": "failed",
+  "at": "2026-10-16T07:17:10Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "97b574a01e24d4b3",
@@ -8358,8 +8363,13 @@
   "headline": "2 Bangladesh police officers detained by BSF after crossing border",
   "topic": "bangladesh police detained bsf",
   "source": "Dhaka Tribune, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-16T07:17:10Z"
+  "status": "failed",
+  "at": "2026-10-16T07:17:10Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "b51e3ee7f4c7617a",
@@ -8367,8 +8377,13 @@
   "headline": "Over 200 named in case after man lynched over blasphemy allegations in Satkhira",
   "topic": "satkhira mob killing arrest",
   "source": "Dhaka Tribune, Jamuna TV",
-  "status": "queued",
-  "at": "2026-10-16T07:17:10Z"
+  "status": "failed",
+  "at": "2026-10-16T07:17:10Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "c3981f6d7ece6177",
@@ -8376,7 +8391,12 @@
   "headline": "Over 200 named in case after man lynched over blasphemy allegations in Satkhira",
   "topic": "satkhira mob killing arrest",
   "source": "Dhaka Tribune, Jamuna TV",
-  "status": "queued",
-  "at": "2026-10-16T07:17:10Z"
+  "status": "failed",
+  "at": "2026-10-16T07:17:10Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
