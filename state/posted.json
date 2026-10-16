@@ -8307,8 +8307,13 @@
   "headline": "ASK demands impartial probe into journalist's killing in Netrokona",
   "topic": "journalist alif killing probe",
   "source": "Prothom Alo, Dhaka Tribune, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-16T21:10:56Z"
+  "status": "failed",
+  "at": "2026-10-16T21:10:56Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "63f38ad3b1611ab1",
@@ -8316,8 +8321,13 @@
   "headline": "ASK demands impartial probe into journalist's killing in Netrokona",
   "topic": "journalist alif killing probe",
   "source": "Prothom Alo, Dhaka Tribune, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-16T21:10:56Z"
+  "status": "failed",
+  "at": "2026-10-16T21:10:56Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "6cd45f2c94f07648",
@@ -8325,8 +8335,13 @@
   "headline": "ASK demands impartial probe into journalist's killing in Netrokona",
   "topic": "journalist alif killing probe",
   "source": "Prothom Alo, Dhaka Tribune, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-16T21:10:56Z"
+  "status": "failed",
+  "at": "2026-10-16T21:10:56Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "d4bd7f2ea4f834cc",
@@ -8334,8 +8349,13 @@
   "headline": "ASK demands impartial probe into journalist's killing in Netrokona",
   "topic": "journalist alif killing probe",
   "source": "Prothom Alo, Dhaka Tribune, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-16T21:10:56Z"
+  "status": "failed",
+  "at": "2026-10-16T21:10:56Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "c6668ef06ebcd438",
@@ -8343,8 +8363,13 @@
   "headline": "FB posts incite mob killing of young man in Satkhira",
   "topic": "satkhira mob killing shamim",
   "source": "Jamuna TV, Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-16T21:10:56Z"
+  "status": "failed",
+  "at": "2026-10-16T21:10:56Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "314da0e58d9da418",
@@ -8352,8 +8377,13 @@
   "headline": "FB posts incite mob killing of young man in Satkhira",
   "topic": "satkhira mob killing shamim",
   "source": "Jamuna TV, Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-16T21:10:56Z"
+  "status": "failed",
+  "at": "2026-10-16T21:10:56Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "703578f2980c2740",
@@ -8361,7 +8391,12 @@
   "headline": "FB posts incite mob killing of young man in Satkhira",
   "topic": "satkhira mob killing shamim",
   "source": "Jamuna TV, Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-16T21:10:56Z"
+  "status": "failed",
+  "at": "2026-10-16T21:10:56Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
