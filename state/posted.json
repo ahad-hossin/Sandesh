@@ -1,47 +1,5 @@
 [
  {
-  "title_hash": "2b3339da2992cf85",
-  "url": "https://www.dhakatribune.com/bangladesh/421899/two-bangladeshis-killed-24-injured-in-riyadh",
-  "headline": "2 Bangladeshis killed, 24 injured in Houthi strike on Riyadh airport",
-  "topic": "Saudi airport attack Bangladeshis",
-  "source": "The Daily Star, Dhaka Tribune, Prothom Alo, Jamuna TV, bdnews24.com",
-  "status": "failed",
-  "at": "2026-10-12T02:07:11Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "36d8a3171b9b8fbe",
-  "url": "https://www.prothomalo.com/world/middle-east/igfcy3f84x",
-  "headline": "2 Bangladeshis killed, 24 injured in Houthi strike on Riyadh airport",
-  "topic": "Saudi airport attack Bangladeshis",
-  "source": "The Daily Star, Dhaka Tribune, Prothom Alo, Jamuna TV, bdnews24.com",
-  "status": "failed",
-  "at": "2026-10-12T02:07:11Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "b1714bb41a883b3e",
-  "url": "https://www.thedailystar.net/news/world/news/riyadh-airport-hit-fresh-houthi-strike-day-after-deadly-attack-4296576",
-  "headline": "2 Bangladeshis killed, 24 injured in Houthi strike on Riyadh airport",
-  "topic": "Saudi airport attack Bangladeshis",
-  "source": "The Daily Star, Dhaka Tribune, Prothom Alo, Jamuna TV, bdnews24.com",
-  "status": "failed",
-  "at": "2026-10-12T02:07:11Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "4e4eb84e0c9321fd",
   "url": "https://www.jamuna.tv/national/665981",
   "headline": "2 Bangladeshis killed, 24 injured in Houthi strike on Riyadh airport",
@@ -8398,5 +8356,32 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "54ceddfa6289862d",
+  "url": "https://www.thedailystar.net/news/bangladesh/news/durga-puja-festivities-begin-maha-shasthi-today-4300051",
+  "headline": "Durga Puja festivities begin with Maha Shasthi at 33,165 mandaps across Bangladesh",
+  "topic": "durga puja begins",
+  "source": "Jamuna TV, The Daily Star",
+  "status": "queued",
+  "at": "2026-10-16T03:06:54Z"
+ },
+ {
+  "title_hash": "a327569d203b6b70",
+  "url": "https://www.jamuna.tv/national/666282",
+  "headline": "Durga Puja festivities begin with Maha Shasthi at 33,165 mandaps across Bangladesh",
+  "topic": "durga puja begins",
+  "source": "Jamuna TV, The Daily Star",
+  "status": "queued",
+  "at": "2026-10-16T03:06:54Z"
+ },
+ {
+  "title_hash": "30a4bf237702f5ec",
+  "url": "https://www.prothomalo.com/business/dnv2x7vq2x",
+  "headline": "Most vegetables now cost over BDT 80/kg in Dhaka markets as winter approaches",
+  "topic": "high vegetable prices bangladesh",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-16T03:06:54Z"
  }
 ]
