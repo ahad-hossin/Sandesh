@@ -8363,8 +8363,13 @@
   "headline": "Cocktail explosion outside NCP office in Dhaka's Bangla Motor; two unexploded devices defused",
   "topic": "cocktail blast banglamotor",
   "source": "Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-16T01:08:26Z"
+  "status": "failed",
+  "at": "2026-10-16T01:08:26Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "80e02b008ea04785",
@@ -8372,8 +8377,13 @@
   "headline": "Cocktail explosion outside NCP office in Dhaka's Bangla Motor; two unexploded devices defused",
   "topic": "cocktail blast banglamotor",
   "source": "Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-16T01:08:26Z"
+  "status": "failed",
+  "at": "2026-10-16T01:08:26Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "b827178dfb1c7eef",
@@ -8381,7 +8391,12 @@
   "headline": "Dhaka markets and museums to remain closed on Friday, plan your trips accordingly",
   "topic": "dhaka markets closed friday",
   "source": "Jamuna TV",
-  "status": "queued",
-  "at": "2026-10-16T01:08:26Z"
+  "status": "failed",
+  "at": "2026-10-16T01:08:26Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
