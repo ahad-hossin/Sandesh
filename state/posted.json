@@ -1,19 +1,5 @@
 [
  {
-  "title_hash": "4e4eb84e0c9321fd",
-  "url": "https://www.jamuna.tv/national/665981",
-  "headline": "2 Bangladeshis killed, 24 injured in Houthi strike on Riyadh airport",
-  "topic": "Saudi airport attack Bangladeshis",
-  "source": "The Daily Star, Dhaka Tribune, Prothom Alo, Jamuna TV, bdnews24.com",
-  "status": "failed",
-  "at": "2026-10-12T02:07:11Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "c8d151701cccbf1d",
   "url": "https://bdnews24.com/world/oqqy8ibkdz",
   "headline": "2 Bangladeshis killed, 24 injured in Houthi strike on Riyadh airport",
@@ -8398,5 +8384,14 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "ac7d49fc5f4f5724",
+  "url": "https://www.dhakatribune.com/bangladesh/dhaka/422233/dhaka-air-quality-turns-%E2%80%98unhealthy%E2%80%99-ranks-4th",
+  "headline": "Dhaka air quality turns ‘unhealthy’, ranks 4th most polluted city",
+  "topic": "dhaka air quality unhealthy",
+  "source": "Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-10-16T04:25:05Z"
  }
 ]
