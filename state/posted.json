@@ -8321,8 +8321,13 @@
   "headline": "ASK demands impartial probe into journalist's killing in Netrokona",
   "topic": "ask calls for probe journalist killing",
   "source": "Prothom Alo, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-10-16T20:07:59Z"
+  "status": "failed",
+  "at": "2026-10-16T20:07:59Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "63f38ad3b1611ab1",
@@ -8330,8 +8335,13 @@
   "headline": "ASK demands impartial probe into journalist's killing in Netrokona",
   "topic": "ask calls for probe journalist killing",
   "source": "Prothom Alo, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-10-16T20:07:59Z"
+  "status": "failed",
+  "at": "2026-10-16T20:07:59Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "d4bd7f2ea4f834cc",
@@ -8339,8 +8349,13 @@
   "headline": "ASK demands impartial probe into journalist's killing in Netrokona",
   "topic": "ask calls for probe journalist killing",
   "source": "Prothom Alo, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-10-16T20:07:59Z"
+  "status": "failed",
+  "at": "2026-10-16T20:07:59Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "85686e0eb511dd13",
@@ -8348,8 +8363,13 @@
   "headline": "Man with 14 criminal cases shot dead in Rajbari",
   "topic": "man shot dead in rajbari",
   "source": "Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-16T20:07:59Z"
+  "status": "failed",
+  "at": "2026-10-16T20:07:59Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "17da73053d60651d",
@@ -8357,8 +8377,13 @@
   "headline": "Man with 14 criminal cases shot dead in Rajbari",
   "topic": "man shot dead in rajbari",
   "source": "Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-16T20:07:59Z"
+  "status": "failed",
+  "at": "2026-10-16T20:07:59Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "171869d948b9f0fd",
@@ -8366,7 +8391,12 @@
   "headline": "Man with 14 criminal cases shot dead in Rajbari",
   "topic": "man shot dead in rajbari",
   "source": "Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-16T20:07:59Z"
+  "status": "failed",
+  "at": "2026-10-16T20:07:59Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
