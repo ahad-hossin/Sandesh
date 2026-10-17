@@ -8377,8 +8377,13 @@
   "headline": "Former additional secretary found dead at Officers Club in Dhaka",
   "topic": "Former Secretary Found Dead",
   "source": "Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-10-17T04:07:10Z"
+  "status": "failed",
+  "at": "2026-10-17T04:07:10Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "79c0c3db4b324965",
@@ -8386,7 +8391,12 @@
   "headline": "Petrobangla recruits for 753 posts in 9th & 10th grade, apply online by Nov 17, 2026.",
   "topic": "Petrobangla Job Recruitment",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-17T04:07:10Z"
+  "status": "failed",
+  "at": "2026-10-17T04:07:10Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
