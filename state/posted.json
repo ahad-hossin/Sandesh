@@ -8307,8 +8307,13 @@
   "headline": "Youth arrested for journalist Alif's murder in Netrokona",
   "topic": "netrokona journalist murder arrest",
   "source": "The Daily Star, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-10-17T23:12:50Z"
+  "status": "failed",
+  "at": "2026-10-17T23:12:50Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "9177fe444ed1abec",
@@ -8316,8 +8321,13 @@
   "headline": "Youth arrested for journalist Alif's murder in Netrokona",
   "topic": "netrokona journalist murder arrest",
   "source": "The Daily Star, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-10-17T23:12:50Z"
+  "status": "failed",
+  "at": "2026-10-17T23:12:50Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "35f63d81c319471a",
@@ -8325,8 +8335,13 @@
   "headline": "Youth arrested for journalist Alif's murder in Netrokona",
   "topic": "netrokona journalist murder arrest",
   "source": "The Daily Star, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-10-17T23:12:50Z"
+  "status": "failed",
+  "at": "2026-10-17T23:12:50Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "82325ed6dd98145b",
@@ -8334,8 +8349,13 @@
   "headline": "Youth arrested for journalist Alif's murder in Netrokona",
   "topic": "netrokona journalist murder arrest",
   "source": "The Daily Star, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-10-17T23:12:50Z"
+  "status": "failed",
+  "at": "2026-10-17T23:12:50Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "d4d57c23863a1694",
@@ -8343,8 +8363,13 @@
   "headline": "Satkhira: Prime accused in mob killing arrested",
   "topic": "satkhira mob killing arrest",
   "source": "The Daily Star, Jamuna TV",
-  "status": "queued",
-  "at": "2026-10-17T23:12:50Z"
+  "status": "failed",
+  "at": "2026-10-17T23:12:50Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "7102fe3a97338be0",
@@ -8352,8 +8377,13 @@
   "headline": "Satkhira: Prime accused in mob killing arrested",
   "topic": "satkhira mob killing arrest",
   "source": "The Daily Star, Jamuna TV",
-  "status": "queued",
-  "at": "2026-10-17T23:12:50Z"
+  "status": "failed",
+  "at": "2026-10-17T23:12:50Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "f0f3fc59840e08f7",
@@ -8361,7 +8391,12 @@
   "headline": "Satkhira: Prime accused in mob killing arrested",
   "topic": "satkhira mob killing arrest",
   "source": "The Daily Star, Jamuna TV",
-  "status": "queued",
-  "at": "2026-10-17T23:12:50Z"
+  "status": "failed",
+  "at": "2026-10-17T23:12:50Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
