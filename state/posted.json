@@ -8377,8 +8377,13 @@
   "headline": "Bangladesh's per capita income rises to $3,020, but poverty also increases",
   "topic": "bangladesh economic struggle",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-17T03:07:02Z"
+  "status": "failed",
+  "at": "2026-10-17T03:07:02Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "bcc640cb71919eae",
@@ -8386,7 +8391,12 @@
   "headline": "20 Bangladeshi men trafficked to Russia-Ukraine war died as 'baits' on front lines, investigation reveals",
   "topic": "bangladesh workers trafficked",
   "source": "The Daily Star",
-  "status": "queued",
-  "at": "2026-10-17T03:07:02Z"
+  "status": "failed",
+  "at": "2026-10-17T03:07:02Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
