@@ -1,33 +1,5 @@
 [
  {
-  "title_hash": "b84101ff9c982bd6",
-  "url": "https://www.jamuna.tv/national/665999",
-  "headline": "3,431 passengers stranded as 10 Dhaka flights cancelled due to Riyadh airport closure",
-  "topic": "riyadh airport attack flight cancellations",
-  "source": "The Daily Star, Dhaka Tribune, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-12T09:08:24Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "fd3e51814cc08cba",
-  "url": "https://www.prothomalo.com/bangladesh/luy1k5evd6",
-  "headline": "3,431 passengers stranded as 10 Dhaka flights cancelled due to Riyadh airport closure",
-  "topic": "riyadh airport attack flight cancellations",
-  "source": "The Daily Star, Dhaka Tribune, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-12T09:08:24Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "dfd4a27b4aa98dfe",
   "url": "https://www.prothomalo.com/video/bangladesh/6eekfoo0lf",
   "headline": "2 Two Bangladeshis killed in Houthi attack at Saudi airport",
@@ -8398,5 +8370,23 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "926642249e1b95a2",
+  "url": "https://www.thedailystar.net/sports/cricket/news/if-we-play-good-cricket-why-not-litton-backs-tigers-go-all-the-way-tri-series-4300426",
+  "headline": "Litton backs Tigers to win tri-series despite recent batting struggles",
+  "topic": "cricket tri series bangladesh",
+  "source": "The Daily Star",
+  "status": "queued",
+  "at": "2026-10-17T00:06:58Z"
+ },
+ {
+  "title_hash": "48ca45a9e035ed94",
+  "url": "https://www.prothomalo.com/bangladesh/4g9d9z9zq1",
+  "headline": "Former Additional Secretary dies after fall from under-construction building at Officers Club Dhaka",
+  "topic": "ex official mysterious death",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-17T00:06:58Z"
  }
 ]
