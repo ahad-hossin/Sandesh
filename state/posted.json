@@ -8335,8 +8335,13 @@
   "headline": "5 killed as fire guts Cox's Bazar resort",
   "topic": "Coxs Bazar Resort Fire Deaths",
   "source": "Jamuna TV, bdnews24.com, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-17T05:10:03Z"
+  "status": "failed",
+  "at": "2026-10-17T05:10:03Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "8d213a8ad81acf6a",
@@ -8344,8 +8349,13 @@
   "headline": "5 killed as fire guts Cox's Bazar resort",
   "topic": "Coxs Bazar Resort Fire Deaths",
   "source": "Jamuna TV, bdnews24.com, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-17T05:10:03Z"
+  "status": "failed",
+  "at": "2026-10-17T05:10:03Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "a6d258fc01420c5b",
@@ -8353,8 +8363,13 @@
   "headline": "5 killed as fire guts Cox's Bazar resort",
   "topic": "Coxs Bazar Resort Fire Deaths",
   "source": "Jamuna TV, bdnews24.com, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-17T05:10:03Z"
+  "status": "failed",
+  "at": "2026-10-17T05:10:03Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "9b21e4e187f2c43b",
@@ -8362,8 +8377,13 @@
   "headline": "335 lives lost: PM Tarique Rahman visits hospitals to assess dengue situation",
   "topic": "PM Visits Dengue Hospitals",
   "source": "bdnews24.com, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-17T05:10:03Z"
+  "status": "failed",
+  "at": "2026-10-17T05:10:03Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "0efa19fd358dd06f",
@@ -8371,7 +8391,12 @@
   "headline": "335 lives lost: PM Tarique Rahman visits hospitals to assess dengue situation",
   "topic": "PM Visits Dengue Hospitals",
   "source": "bdnews24.com, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-17T05:10:03Z"
+  "status": "failed",
+  "at": "2026-10-17T05:10:03Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
