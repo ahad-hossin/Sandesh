@@ -8335,8 +8335,13 @@
   "headline": "18 dead, 37 injured in stampede at Kolkata Puja pandal",
   "topic": "kolkata puja stampede kills 17-18",
   "source": "Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-17T21:09:06Z"
+  "status": "failed",
+  "at": "2026-10-17T21:09:06Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "aa3b96aad2989e74",
@@ -8344,8 +8349,13 @@
   "headline": "18 dead, 37 injured in stampede at Kolkata Puja pandal",
   "topic": "kolkata puja stampede kills 17-18",
   "source": "Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-17T21:09:06Z"
+  "status": "failed",
+  "at": "2026-10-17T21:09:06Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "d4d57c23863a1694",
@@ -8353,8 +8363,13 @@
   "headline": "Satkhira: Prime accused Amini arrested in mob killing case",
   "topic": "satkhira mob killing prime accused arrested",
   "source": "The Daily Star, Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-17T21:09:06Z"
+  "status": "failed",
+  "at": "2026-10-17T21:09:06Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "7102fe3a97338be0",
@@ -8362,8 +8377,13 @@
   "headline": "Satkhira: Prime accused Amini arrested in mob killing case",
   "topic": "satkhira mob killing prime accused arrested",
   "source": "The Daily Star, Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-17T21:09:06Z"
+  "status": "failed",
+  "at": "2026-10-17T21:09:06Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "c497b3153b0a40cc",
@@ -8371,7 +8391,12 @@
   "headline": "Satkhira: Prime accused Amini arrested in mob killing case",
   "topic": "satkhira mob killing prime accused arrested",
   "source": "The Daily Star, Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-17T21:09:06Z"
+  "status": "failed",
+  "at": "2026-10-17T21:09:06Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
