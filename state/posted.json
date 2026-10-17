@@ -8321,8 +8321,13 @@
   "headline": "17 police injured as garment workers clash with police in Uttara",
   "topic": "measles outbreak in bangladesh",
   "source": "The Daily Star, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-10-17T11:14:30Z"
+  "status": "failed",
+  "at": "2026-10-17T11:14:30Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "f0c75e055227f633",
@@ -8330,8 +8335,13 @@
   "headline": "17 police injured as garment workers clash with police in Uttara",
   "topic": "measles outbreak in bangladesh",
   "source": "The Daily Star, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-10-17T11:14:30Z"
+  "status": "failed",
+  "at": "2026-10-17T11:14:30Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "608002edc270bb49",
@@ -8339,8 +8349,13 @@
   "headline": "17 police injured as garment workers clash with police in Uttara",
   "topic": "measles outbreak in bangladesh",
   "source": "The Daily Star, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-10-17T11:14:30Z"
+  "status": "failed",
+  "at": "2026-10-17T11:14:30Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "a5328ff7fdbbcb48",
@@ -8348,8 +8363,13 @@
   "headline": "Doctor suspended after PM catches him smoking at children's hospital",
   "topic": "pm catches doctor smoking at hospital",
   "source": "Jamuna TV, bdnews24.com, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-17T11:14:30Z"
+  "status": "failed",
+  "at": "2026-10-17T11:14:30Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "d9ad56c2eb96c3d0",
@@ -8357,8 +8377,13 @@
   "headline": "Doctor suspended after PM catches him smoking at children's hospital",
   "topic": "pm catches doctor smoking at hospital",
   "source": "Jamuna TV, bdnews24.com, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-17T11:14:30Z"
+  "status": "failed",
+  "at": "2026-10-17T11:14:30Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "c2d3351fdc36089d",
@@ -8366,7 +8391,12 @@
   "headline": "Doctor suspended after PM catches him smoking at children's hospital",
   "topic": "pm catches doctor smoking at hospital",
   "source": "Jamuna TV, bdnews24.com, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-17T11:14:30Z"
+  "status": "failed",
+  "at": "2026-10-17T11:14:30Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
