@@ -1,75 +1,5 @@
 [
  {
-  "title_hash": "396019b04c0dc342",
-  "url": "https://bdnews24.com/campus/cjkh6mtqgn",
-  "headline": "CUET staff and teachers announce work abstention demanding new VC's removal",
-  "topic": "cuet vc protest",
-  "source": "The Daily Star, bdnews24.com, Prothom Alo, Jamuna TV",
-  "status": "failed",
-  "at": "2026-10-12T12:08:20Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "14ce8fbfa35487be",
-  "url": "https://www.dhakatribune.com/bangladesh/421945/%E2%80%98my-2-00am-flight-never-took-off-i%E2%80%99m-still-at",
-  "headline": "5,418 passengers stranded as 51 flights from Dhaka to Saudi Arabia cancelled",
-  "topic": "riyadh airport attacks disrupt flights from dhaka",
-  "source": "Dhaka Tribune, bdnews24.com",
-  "status": "failed",
-  "at": "2026-10-12T13:09:48Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "a47d9d4265cea543",
-  "url": "https://www.dhakatribune.com/bangladesh/421924/18-more-flights-cancelled-4-851-passengers",
-  "headline": "5,418 passengers stranded as 51 flights from Dhaka to Saudi Arabia cancelled",
-  "topic": "riyadh airport attacks disrupt flights from dhaka",
-  "source": "Dhaka Tribune, bdnews24.com",
-  "status": "failed",
-  "at": "2026-10-12T13:09:48Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "56da0e762b434a7d",
-  "url": "https://bdnews24.com/aviation/4ubd3oh67n",
-  "headline": "5,418 passengers stranded as 51 flights from Dhaka to Saudi Arabia cancelled",
-  "topic": "riyadh airport attacks disrupt flights from dhaka",
-  "source": "Dhaka Tribune, bdnews24.com",
-  "status": "failed",
-  "at": "2026-10-12T13:09:48Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "064c25534f349d1f",
-  "url": "https://www.dhakatribune.com/bangladesh/dhaka/421944/fire-breaks-out-at-a-shop-in-chawkbazar",
-  "headline": "5 units of Fire Service fire breaks out at a shop in Chawkbazar",
-  "topic": "fire in chawkbazar shop",
-  "source": "Dhaka Tribune, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-12T13:09:48Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "629a3e1c27fc5f83",
   "url": "https://www.prothomalo.com/bangladesh/capital/62euqwn1ym",
   "headline": "5 units of Fire Service fire breaks out at a shop in Chawkbazar",
@@ -8398,5 +8328,50 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "57ca9665fc9a7ba5",
+  "url": "https://bdnews24.com/bangladesh/qtigeqwqmh",
+  "headline": "5 killed as fire guts Cox's Bazar resort",
+  "topic": "Coxs Bazar Resort Fire Deaths",
+  "source": "Jamuna TV, bdnews24.com, The Daily Star",
+  "status": "queued",
+  "at": "2026-10-17T05:10:03Z"
+ },
+ {
+  "title_hash": "8d213a8ad81acf6a",
+  "url": "https://www.jamuna.tv/all-bangladesh/666335",
+  "headline": "5 killed as fire guts Cox's Bazar resort",
+  "topic": "Coxs Bazar Resort Fire Deaths",
+  "source": "Jamuna TV, bdnews24.com, The Daily Star",
+  "status": "queued",
+  "at": "2026-10-17T05:10:03Z"
+ },
+ {
+  "title_hash": "a6d258fc01420c5b",
+  "url": "https://www.thedailystar.net/news/accidents-and-fires/news/five-killed-fire-coxs-bazar-resort-4300671",
+  "headline": "5 killed as fire guts Cox's Bazar resort",
+  "topic": "Coxs Bazar Resort Fire Deaths",
+  "source": "Jamuna TV, bdnews24.com, The Daily Star",
+  "status": "queued",
+  "at": "2026-10-17T05:10:03Z"
+ },
+ {
+  "title_hash": "9b21e4e187f2c43b",
+  "url": "https://bdnews24.com/health/9rwcca45yk",
+  "headline": "335 lives lost: PM Tarique Rahman visits hospitals to assess dengue situation",
+  "topic": "PM Visits Dengue Hospitals",
+  "source": "bdnews24.com, The Daily Star",
+  "status": "queued",
+  "at": "2026-10-17T05:10:03Z"
+ },
+ {
+  "title_hash": "0efa19fd358dd06f",
+  "url": "https://www.thedailystar.net/news/news/pm-visits-hospitals-educational-institutions-assess-the-dengue-situation-4300676",
+  "headline": "335 lives lost: PM Tarique Rahman visits hospitals to assess dengue situation",
+  "topic": "PM Visits Dengue Hospitals",
+  "source": "bdnews24.com, The Daily Star",
+  "status": "queued",
+  "at": "2026-10-17T05:10:03Z"
  }
 ]
