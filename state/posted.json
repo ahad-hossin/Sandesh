@@ -1,33 +1,5 @@
 [
  {
-  "title_hash": "ab4ca8940ef55862",
-  "url": "https://www.thedailystar.net/campus/news/cuet-students-lock-building-vc-inside-demand-his-resignation-4296796",
-  "headline": "CUET staff and teachers announce work abstention demanding new VC's removal",
-  "topic": "cuet vc protest",
-  "source": "The Daily Star, bdnews24.com, Prothom Alo, Jamuna TV",
-  "status": "failed",
-  "at": "2026-10-12T12:08:20Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "369d7446d772f64d",
-  "url": "https://www.prothomalo.com/bangladesh/district/3qwr5dq8nt",
-  "headline": "CUET staff and teachers announce work abstention demanding new VC's removal",
-  "topic": "cuet vc protest",
-  "source": "The Daily Star, bdnews24.com, Prothom Alo, Jamuna TV",
-  "status": "failed",
-  "at": "2026-10-12T12:08:20Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "40d3d631f05b3d40",
   "url": "https://www.prothomalo.com/video/bangladesh/a6ok21v8eo",
   "headline": "CUET staff and teachers announce work abstention demanding new VC's removal",
@@ -8398,5 +8370,23 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "8041175d6736f7c9",
+  "url": "https://www.prothomalo.com/opinion/column/qph8rph6ew",
+  "headline": "Bangladesh's per capita income rises to $3,020, but poverty also increases",
+  "topic": "bangladesh economic struggle",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-17T03:07:02Z"
+ },
+ {
+  "title_hash": "bcc640cb71919eae",
+  "url": "https://www.thedailystar.net/opinion/views/blowin-the-wind/news/bangladesh-must-answer-workers-trafficked-war-4300386",
+  "headline": "20 Bangladeshi men trafficked to Russia-Ukraine war died as 'baits' on front lines, investigation reveals",
+  "topic": "bangladesh workers trafficked",
+  "source": "The Daily Star",
+  "status": "queued",
+  "at": "2026-10-17T03:07:02Z"
  }
 ]
