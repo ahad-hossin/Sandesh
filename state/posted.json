@@ -1,33 +1,5 @@
 [
  {
-  "title_hash": "40d3d631f05b3d40",
-  "url": "https://www.prothomalo.com/video/bangladesh/a6ok21v8eo",
-  "headline": "CUET staff and teachers announce work abstention demanding new VC's removal",
-  "topic": "cuet vc protest",
-  "source": "The Daily Star, bdnews24.com, Prothom Alo, Jamuna TV",
-  "status": "failed",
-  "at": "2026-10-12T12:08:20Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "b916534310f1f244",
-  "url": "https://www.jamuna.tv/campus/666021",
-  "headline": "CUET staff and teachers announce work abstention demanding new VC's removal",
-  "topic": "cuet vc protest",
-  "source": "The Daily Star, bdnews24.com, Prothom Alo, Jamuna TV",
-  "status": "failed",
-  "at": "2026-10-12T12:08:20Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "396019b04c0dc342",
   "url": "https://bdnews24.com/campus/cjkh6mtqgn",
   "headline": "CUET staff and teachers announce work abstention demanding new VC's removal",
@@ -8398,5 +8370,23 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "1ca04d995350ea1b",
+  "url": "https://www.dhakatribune.com/bangladesh/dhaka/422294/former-additional-secretary-found-dead-at-officers",
+  "headline": "Former additional secretary found dead at Officers Club in Dhaka",
+  "topic": "Former Secretary Found Dead",
+  "source": "Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-10-17T04:07:10Z"
+ },
+ {
+  "title_hash": "79c0c3db4b324965",
+  "url": "https://www.prothomalo.com/chakri/chakri-suggestion/3gj3wulgre",
+  "headline": "Petrobangla recruits for 753 posts in 9th & 10th grade, apply online by Nov 17, 2026.",
+  "topic": "Petrobangla Job Recruitment",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-17T04:07:10Z"
  }
 ]
