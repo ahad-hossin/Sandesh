@@ -1,89 +1,5 @@
 [
  {
-  "title_hash": "7f8525758bb7cd35",
-  "url": "https://www.jamuna.tv/international/666239",
-  "headline": "15,000+ passengers affected as 103 Dhaka-Saudi flights cancelled",
-  "topic": "saudi flights cancelled affecting passengers",
-  "source": "Dhaka Tribune, Jamuna TV, bdnews24.com",
-  "status": "failed",
-  "at": "2026-10-15T09:08:09Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "0983941d49759071",
-  "url": "https://bdnews24.com/aviation/vi47beuyh8",
-  "headline": "15,000+ passengers affected as 103 Dhaka-Saudi flights cancelled",
-  "topic": "saudi flights cancelled affecting passengers",
-  "source": "Dhaka Tribune, Jamuna TV, bdnews24.com",
-  "status": "failed",
-  "at": "2026-10-15T09:08:09Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "d75ac5e518b60065",
-  "url": "https://www.thedailystar.net/news/world/south-asia/news/pakistan-school-roof-collapse-kills-27-students-one-teacher-4299336",
-  "headline": "28 dead as school roof collapse kills students in Pakistan",
-  "topic": "pakistan school roof collapse kills dozens",
-  "source": "The Daily Star, bdnews24.com, Jamuna TV",
-  "status": "failed",
-  "at": "2026-10-15T09:08:09Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "21503229c567f721",
-  "url": "https://bdnews24.com/world/south-asia/uuqux35rw6",
-  "headline": "28 dead as school roof collapse kills students in Pakistan",
-  "topic": "pakistan school roof collapse kills dozens",
-  "source": "The Daily Star, bdnews24.com, Jamuna TV",
-  "status": "failed",
-  "at": "2026-10-15T09:08:09Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "a6769d76f3422afc",
-  "url": "https://www.jamuna.tv/international/666235",
-  "headline": "28 dead as school roof collapse kills students in Pakistan",
-  "topic": "pakistan school roof collapse kills dozens",
-  "source": "The Daily Star, bdnews24.com, Jamuna TV",
-  "status": "failed",
-  "at": "2026-10-15T09:08:09Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "3c87f33ef80a49ba",
-  "url": "https://www.dhakatribune.com/bangladesh/foreign-affairs/422162/103-dhaka-saudi-flights-cancelled-over-15-000",
-  "headline": "15,000+ passengers affected as 103 Dhaka-Saudi flights cancelled",
-  "topic": "saudi flights cancelled passengers affected",
-  "source": "Dhaka Tribune, bdnews24.com, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-15T10:09:57Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "0983941d49759071",
   "url": "https://bdnews24.com/aviation/vi47beuyh8",
   "headline": "15,000+ passengers affected as 103 Dhaka-Saudi flights cancelled",
@@ -8398,5 +8314,59 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "82ce9f18b90809d6",
+  "url": "https://www.dhakatribune.com/bangladesh/422431/pm-orders-ishraque-to-resign-from-cabinet",
+  "headline": "Ishraque Hossain calls reports of resignation order a rumor",
+  "topic": "pm asks state minister ishraque to resign",
+  "source": "Jamuna TV, Dhaka Tribune, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-18T19:10:17Z"
+ },
+ {
+  "title_hash": "4c2a517bb5a97f46",
+  "url": "https://www.jamuna.tv/national/666434",
+  "headline": "Ishraque Hossain calls reports of resignation order a rumor",
+  "topic": "pm asks state minister ishraque to resign",
+  "source": "Jamuna TV, Dhaka Tribune, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-18T19:10:17Z"
+ },
+ {
+  "title_hash": "6048a12b32a7f419",
+  "url": "https://www.jamuna.tv/national/666433",
+  "headline": "Ishraque Hossain calls reports of resignation order a rumor",
+  "topic": "pm asks state minister ishraque to resign",
+  "source": "Jamuna TV, Dhaka Tribune, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-18T19:10:17Z"
+ },
+ {
+  "title_hash": "5531778f07e93f41",
+  "url": "https://www.prothomalo.com/video/bangladesh/jic9ofciqg",
+  "headline": "Ishraque Hossain calls reports of resignation order a rumor",
+  "topic": "pm asks state minister ishraque to resign",
+  "source": "Jamuna TV, Dhaka Tribune, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-18T19:10:17Z"
+ },
+ {
+  "title_hash": "4654819e8449e020",
+  "url": "https://www.prothomalo.com/politics/i14ud6c8bk",
+  "headline": "Ishraque Hossain calls reports of resignation order a rumor",
+  "topic": "pm asks state minister ishraque to resign",
+  "source": "Jamuna TV, Dhaka Tribune, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-18T19:10:17Z"
+ },
+ {
+  "title_hash": "696b1db009302985",
+  "url": "https://www.thedailystar.net/news/crime-justice/news/acc-approves-charge-sheet-against-saima-wazed-4302036",
+  "headline": "ACC approves charge sheet against Saima Wazed over WHO post",
+  "topic": "acc charge sheet against saima wazed",
+  "source": "The Daily Star",
+  "status": "queued",
+  "at": "2026-10-18T19:10:17Z"
  }
 ]
