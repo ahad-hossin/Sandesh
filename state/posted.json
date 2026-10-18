@@ -1,33 +1,5 @@
 [
  {
-  "title_hash": "1579b03835daac2f",
-  "url": "https://www.prothomalo.com/sports/football/s5i5fvb15p",
-  "headline": "Tresoldi hattrick helps Brugge stun Inter Milan 4-3 in Champions League thriller",
-  "topic": "Champions League results",
-  "source": "The Daily Star, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-14T01:08:10Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "45958d847fbaa7a2",
-  "url": "https://www.thedailystar.net/sports/football/news/yamal-stays-cool-boiling-galatasaray-lift-barca-victory-4298286",
-  "headline": "Tresoldi hattrick helps Brugge stun Inter Milan 4-3 in Champions League thriller",
-  "topic": "Champions League results",
-  "source": "The Daily Star, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-14T01:08:10Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "200151f8da0235f0",
   "url": "https://www.thedailystar.net/sports/football/news/arsenal-cruise-past-lille-champions-league-4298276",
   "headline": "Tresoldi hattrick helps Brugge stun Inter Milan 4-3 in Champions League thriller",
@@ -8398,5 +8370,23 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "f87e73824c2a7b45",
+  "url": "https://www.prothomalo.com/bangladesh/crime/9woxtitqug",
+  "headline": "Youth Development exam questions sold for 10 lakh Taka; 7 arrested in paper leak scam",
+  "topic": "youth development exam leak",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-18T03:07:01Z"
+ },
+ {
+  "title_hash": "6d7198098b7a61a8",
+  "url": "https://www.prothomalo.com/bangladesh/district/xuhh7q801u",
+  "headline": "Tk 4 crore Hilsa sold daily in Barisal despite ongoing ban",
+  "topic": "illegal hilsa trade",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-18T03:07:01Z"
  }
 ]
