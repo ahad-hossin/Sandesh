@@ -8377,8 +8377,13 @@
   "headline": "Youth Development exam questions sold for 10 lakh Taka; 7 arrested in paper leak scam",
   "topic": "youth development exam leak",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-18T03:07:01Z"
+  "status": "failed",
+  "at": "2026-10-18T03:07:01Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "6d7198098b7a61a8",
@@ -8386,7 +8391,12 @@
   "headline": "Tk 4 crore Hilsa sold daily in Barisal despite ongoing ban",
   "topic": "illegal hilsa trade",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-18T03:07:01Z"
+  "status": "failed",
+  "at": "2026-10-18T03:07:01Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
