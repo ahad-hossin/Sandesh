@@ -8349,8 +8349,13 @@
   "headline": "State Minister Ishraque Hossain brandishes firearm during anti-drug drive",
   "topic": "state minister carries firearm in anti-drug operation",
   "source": "Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-18T07:09:01Z"
+  "status": "failed",
+  "at": "2026-10-18T07:09:01Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "06c72ca2d2bac989",
@@ -8358,8 +8363,13 @@
   "headline": "State Minister Ishraque Hossain brandishes firearm during anti-drug drive",
   "topic": "state minister carries firearm in anti-drug operation",
   "source": "Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-18T07:09:01Z"
+  "status": "failed",
+  "at": "2026-10-18T07:09:01Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "8d622a7e6f1aad54",
@@ -8367,8 +8377,13 @@
   "headline": "PM Tarique Rahman: National interest and sovereignty to define Bangladesh's future",
   "topic": "pm stresses national interest and sovereignty",
   "source": "bdnews24.com, Jamuna TV",
-  "status": "queued",
-  "at": "2026-10-18T07:09:01Z"
+  "status": "failed",
+  "at": "2026-10-18T07:09:01Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "dadba3dd9a3f9922",
@@ -8376,7 +8391,12 @@
   "headline": "PM Tarique Rahman: National interest and sovereignty to define Bangladesh's future",
   "topic": "pm stresses national interest and sovereignty",
   "source": "bdnews24.com, Jamuna TV",
-  "status": "queued",
-  "at": "2026-10-18T07:09:01Z"
+  "status": "failed",
+  "at": "2026-10-18T07:09:01Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
