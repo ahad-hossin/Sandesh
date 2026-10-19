@@ -1,89 +1,5 @@
 [
  {
-  "title_hash": "0efa19fd358dd06f",
-  "url": "https://www.thedailystar.net/news/news/pm-visits-hospitals-educational-institutions-assess-the-dengue-situation-4300676",
-  "headline": "335 lives lost: PM Tarique Rahman visits hospitals to assess dengue situation",
-  "topic": "PM Visits Dengue Hospitals",
-  "source": "bdnews24.com, The Daily Star",
-  "status": "failed",
-  "at": "2026-10-17T05:10:03Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "a6d258fc01420c5b",
-  "url": "https://www.dhakatribune.com/bangladesh/nation/422299/five-killed-in-fire-at-cox%E2%80%99s-bazar-resort",
-  "headline": "6 killed in fire at Cox’s Bazar resort",
-  "topic": "cox's bazar resort fire",
-  "source": "Dhaka Tribune, The Daily Star, bdnews24.com, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-17T06:09:01Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "6febc33fbe71cfcc",
-  "url": "https://www.thedailystar.net/news/accidents-and-fires/news/five-killed-fire-coxs-bazar-resort-4300671",
-  "headline": "6 killed in fire at Cox’s Bazar resort",
-  "topic": "cox's bazar resort fire",
-  "source": "Dhaka Tribune, The Daily Star, bdnews24.com, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-17T06:09:01Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "d6b6ccf562f5a41a",
-  "url": "https://bdnews24.com/bangladesh/qtigeqwqmh",
-  "headline": "6 killed in fire at Cox’s Bazar resort",
-  "topic": "cox's bazar resort fire",
-  "source": "Dhaka Tribune, The Daily Star, bdnews24.com, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-17T06:09:01Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "8d213a8ad81acf6a",
-  "url": "https://www.jamuna.tv/all-bangladesh/666335",
-  "headline": "6 killed in fire at Cox’s Bazar resort",
-  "topic": "cox's bazar resort fire",
-  "source": "Dhaka Tribune, The Daily Star, bdnews24.com, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-17T06:09:01Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "f98ee029558e4f0b",
-  "url": "https://www.prothomalo.com/bangladesh/district/9xrhpv9ky0",
-  "headline": "6 killed in fire at Cox’s Bazar resort",
-  "topic": "cox's bazar resort fire",
-  "source": "Dhaka Tribune, The Daily Star, bdnews24.com, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-17T06:09:01Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "62d8bf46457e9308",
   "url": "https://www.dhakatribune.com/bangladesh/health/422296/pm-visits-hospitals-educational-institutions-to",
   "headline": "PM Tarique Rahman visits hospitals and schools to assess dengue situation in Dhaka",
@@ -8398,5 +8314,59 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "a7115c755acdfd3c",
+  "url": "https://www.thedailystar.net/news/healthcare/disease/news/4-die-dengue-1851-hospitalised-24-hours-4302571",
+  "headline": "4 die of dengue in 24 hours, 1,851 hospitalised",
+  "topic": "dengue death toll rise",
+  "source": "The Daily Star, Dhaka Tribune, Jamuna TV",
+  "status": "queued",
+  "at": "2026-10-19T13:11:27Z"
+ },
+ {
+  "title_hash": "c1b6e2105c9b4d72",
+  "url": "https://www.dhakatribune.com/bangladesh/health/422479/dengue-death-toll-reaches-352-as-4-more-die",
+  "headline": "4 die of dengue in 24 hours, 1,851 hospitalised",
+  "topic": "dengue death toll rise",
+  "source": "The Daily Star, Dhaka Tribune, Jamuna TV",
+  "status": "queued",
+  "at": "2026-10-19T13:11:27Z"
+ },
+ {
+  "title_hash": "9ebf86cbe2e9ed23",
+  "url": "https://www.jamuna.tv/health/666464",
+  "headline": "4 die of dengue in 24 hours, 1,851 hospitalised",
+  "topic": "dengue death toll rise",
+  "source": "The Daily Star, Dhaka Tribune, Jamuna TV",
+  "status": "queued",
+  "at": "2026-10-19T13:11:27Z"
+ },
+ {
+  "title_hash": "cabd290c34a07865",
+  "url": "https://www.dhakatribune.com/bangladesh/health/422469/measles-outbreak-death-toll-reaches-1-201-as-five",
+  "headline": "1,201 dead as measles outbreak toll tops 1,200 in Bangladesh",
+  "topic": "measles outbreak deaths",
+  "source": "Dhaka Tribune, bdnews24.com, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-19T13:11:27Z"
+ },
+ {
+  "title_hash": "f22fb63032e9524e",
+  "url": "https://bdnews24.com/health/k88ee1cl0b",
+  "headline": "1,201 dead as measles outbreak toll tops 1,200 in Bangladesh",
+  "topic": "measles outbreak deaths",
+  "source": "Dhaka Tribune, bdnews24.com, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-19T13:11:27Z"
+ },
+ {
+  "title_hash": "03ef02488a0177a5",
+  "url": "https://www.prothomalo.com/bangladesh/1n3md8qpf3",
+  "headline": "1,201 dead as measles outbreak toll tops 1,200 in Bangladesh",
+  "topic": "measles outbreak deaths",
+  "source": "Dhaka Tribune, bdnews24.com, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-19T13:11:27Z"
  }
 ]
