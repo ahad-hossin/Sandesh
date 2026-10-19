@@ -8363,8 +8363,13 @@
   "headline": "Ishraque Hossain to formally resign as State Minister for Liberation War Affairs today",
   "topic": "ishraque announces resignation",
   "source": "Jamuna TV, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-19T03:07:16Z"
+  "status": "failed",
+  "at": "2026-10-19T03:07:16Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "66650a16f1a59fae",
@@ -8372,8 +8377,13 @@
   "headline": "Ishraque Hossain to formally resign as State Minister for Liberation War Affairs today",
   "topic": "ishraque announces resignation",
   "source": "Jamuna TV, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-19T03:07:16Z"
+  "status": "failed",
+  "at": "2026-10-19T03:07:16Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "3d351245501ad47a",
@@ -8381,7 +8391,12 @@
   "headline": "Widespread exam fraud leaves job seekers distraught as merit is overshadowed by money in Bangladesh",
   "topic": "job exam paper leak",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-19T03:07:16Z"
+  "status": "failed",
+  "at": "2026-10-19T03:07:16Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
