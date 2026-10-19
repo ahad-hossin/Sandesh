@@ -1,33 +1,5 @@
 [
  {
-  "title_hash": "a6d258fc01420c5b",
-  "url": "https://www.thedailystar.net/news/accidents-and-fires/news/five-killed-fire-coxs-bazar-resort-4300671",
-  "headline": "5 killed as fire guts Cox's Bazar resort",
-  "topic": "Coxs Bazar Resort Fire Deaths",
-  "source": "Jamuna TV, bdnews24.com, The Daily Star",
-  "status": "failed",
-  "at": "2026-10-17T05:10:03Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "9b21e4e187f2c43b",
-  "url": "https://bdnews24.com/health/9rwcca45yk",
-  "headline": "335 lives lost: PM Tarique Rahman visits hospitals to assess dengue situation",
-  "topic": "PM Visits Dengue Hospitals",
-  "source": "bdnews24.com, The Daily Star",
-  "status": "failed",
-  "at": "2026-10-17T05:10:03Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "0efa19fd358dd06f",
   "url": "https://www.thedailystar.net/news/news/pm-visits-hospitals-educational-institutions-assess-the-dengue-situation-4300676",
   "headline": "335 lives lost: PM Tarique Rahman visits hospitals to assess dengue situation",
@@ -8398,5 +8370,23 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "cabd290c34a07865",
+  "url": "https://www.dhakatribune.com/bangladesh/health/422469/measles-outbreak-death-toll-reaches-1-201-as-five",
+  "headline": "1,201 dead as measles outbreak death toll rises",
+  "topic": "measles outbreak: death toll reaches 1201",
+  "source": "Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-10-19T12:15:38Z"
+ },
+ {
+  "title_hash": "2e8d93bf17dd6b8a",
+  "url": "https://www.jamuna.tv/national/666463",
+  "headline": "5 children died with measles symptoms in 24 hours",
+  "topic": "five deaths from measles symptoms in 24 hours",
+  "source": "Jamuna TV",
+  "status": "queued",
+  "at": "2026-10-19T12:15:38Z"
  }
 ]
