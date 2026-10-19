@@ -8377,8 +8377,13 @@
   "headline": "Bill Gates features Bangladeshi scientist Firdausi Qadri in video on cholera vaccine",
   "topic": "bill gates video on ferdousi qadri",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-19T02:06:58Z"
+  "status": "failed",
+  "at": "2026-10-19T02:06:58Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "eb7c6ddb1d849ba3",
@@ -8386,7 +8391,12 @@
   "headline": "Measles vaccine for 6 months to 9-year-olds recommended within 2 weeks on priority",
   "topic": "measles vaccine for children",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-19T02:06:58Z"
+  "status": "failed",
+  "at": "2026-10-19T02:06:58Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
