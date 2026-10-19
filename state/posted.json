@@ -1,61 +1,5 @@
 [
  {
-  "title_hash": "506e0cfbc7160f7c",
-  "url": "https://www.dhakatribune.com/bangladesh/422223/puja-udjapan-parishad-reports-34-attacks-ahead-of",
-  "headline": "Durga Puja begins Friday: 34 attacks reported ahead of festival",
-  "topic": "durga puja security and pandals",
-  "source": "Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-10-15T16:08:31Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "ce39b9c7e5053a9d",
-  "url": "https://www.dhakatribune.com/bangladesh/nation/422221/record-964-durga-puja-pandals-in-rangpur",
-  "headline": "Durga Puja begins Friday: 34 attacks reported ahead of festival",
-  "topic": "durga puja security and pandals",
-  "source": "Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-10-15T16:08:31Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "b8b8975ea7a2bf90",
-  "url": "https://www.dhakatribune.com/bangladesh/422217/durga-puja-begins-friday-in-bangladesh",
-  "headline": "Durga Puja begins Friday: 34 attacks reported ahead of festival",
-  "topic": "durga puja security and pandals",
-  "source": "Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-10-15T16:08:31Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "27e100191691cb53",
-  "url": "https://www.dhakatribune.com/bangladesh/422200/durga-puja-bgb-setting-up-18-base-camps-for",
-  "headline": "Durga Puja begins Friday: 34 attacks reported ahead of festival",
-  "topic": "durga puja security and pandals",
-  "source": "Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-10-15T16:08:31Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "706b5b68aec16d6b",
   "url": "https://www.dhakatribune.com/bangladesh/crime/422225/journalist-shot-dead-in-netrokona",
   "headline": "5 bullets found in body as journalist shot dead in Netrokona",
@@ -8398,5 +8342,41 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "18ad68c0094690ba",
+  "url": "https://www.kishoralo.com/feature/x9hyzn60t6",
+  "headline": "Bill Gates features Bangladeshi scientist Firdausi Qadri in new video on cholera vaccine",
+  "topic": "Bill Gates video Firdausi Qadri",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-19T01:07:17Z"
+ },
+ {
+  "title_hash": "c30f29bda15b0815",
+  "url": "https://www.dhakatribune.com/bangladesh/422405/durga-puja-maha-ashtami-to-be-celebrated-across",
+  "headline": "Maha Ashtami and Kumari Puja celebrated across Bangladesh today as part of Sharadiya Durga Utsav",
+  "topic": "Durga Puja Maha Ashtami",
+  "source": "Jamuna TV, Prothom Alo, Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-10-19T01:07:17Z"
+ },
+ {
+  "title_hash": "2017dc8b26cca126",
+  "url": "https://www.jamuna.tv/national/666437",
+  "headline": "Maha Ashtami and Kumari Puja celebrated across Bangladesh today as part of Sharadiya Durga Utsav",
+  "topic": "Durga Puja Maha Ashtami",
+  "source": "Jamuna TV, Prothom Alo, Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-10-19T01:07:17Z"
+ },
+ {
+  "title_hash": "990cd3f10c10d380",
+  "url": "https://www.prothomalo.com/photo/bangladesh/lf4en70s1h",
+  "headline": "Maha Ashtami and Kumari Puja celebrated across Bangladesh today as part of Sharadiya Durga Utsav",
+  "topic": "Durga Puja Maha Ashtami",
+  "source": "Jamuna TV, Prothom Alo, Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-10-19T01:07:17Z"
  }
 ]
