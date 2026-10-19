@@ -1,33 +1,5 @@
 [
  {
-  "title_hash": "706b5b68aec16d6b",
-  "url": "https://www.dhakatribune.com/bangladesh/crime/422225/journalist-shot-dead-in-netrokona",
-  "headline": "5 bullets found in body as journalist shot dead in Netrokona",
-  "topic": "journalist shot dead netrokona",
-  "source": "Jamuna TV, Dhaka Tribune, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-15T17:12:22Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "59a73d7617869568",
-  "url": "https://www.jamuna.tv/all-bangladesh/666273",
-  "headline": "5 bullets found in body as journalist shot dead in Netrokona",
-  "topic": "journalist shot dead netrokona",
-  "source": "Jamuna TV, Dhaka Tribune, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-15T17:12:22Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "11686d5bac01ca8f",
   "url": "https://www.prothomalo.com/bangladesh/district/gs0u5mrj5g",
   "headline": "5 bullets found in body as journalist shot dead in Netrokona",
@@ -8398,5 +8370,23 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "18ad68c0094690ba",
+  "url": "https://www.kishoralo.com/feature/x9hyzn60t6",
+  "headline": "Bill Gates features Bangladeshi scientist Firdausi Qadri in video on cholera vaccine",
+  "topic": "bill gates video on ferdousi qadri",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-19T02:06:58Z"
+ },
+ {
+  "title_hash": "eb7c6ddb1d849ba3",
+  "url": "https://www.prothomalo.com/bangladesh/twvlikqhey",
+  "headline": "Measles vaccine for 6 months to 9-year-olds recommended within 2 weeks on priority",
+  "topic": "measles vaccine for children",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-19T02:06:58Z"
  }
 ]
