@@ -8335,8 +8335,13 @@
   "headline": "30-day ban and £215 fine: Ronaldo suspended after Portugal camp walkout",
   "topic": "ronaldo 30-day suspension",
   "source": "The Daily Star, Jamuna TV, bdnews24.com",
-  "status": "queued",
-  "at": "2026-10-19T23:13:05Z"
+  "status": "failed",
+  "at": "2026-10-19T23:13:05Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "16c87f3fbcfa6b77",
@@ -8344,8 +8349,13 @@
   "headline": "30-day ban and £215 fine: Ronaldo suspended after Portugal camp walkout",
   "topic": "ronaldo 30-day suspension",
   "source": "The Daily Star, Jamuna TV, bdnews24.com",
-  "status": "queued",
-  "at": "2026-10-19T23:13:05Z"
+  "status": "failed",
+  "at": "2026-10-19T23:13:05Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "b25784dc4cc509df",
@@ -8353,8 +8363,13 @@
   "headline": "30-day ban and £215 fine: Ronaldo suspended after Portugal camp walkout",
   "topic": "ronaldo 30-day suspension",
   "source": "The Daily Star, Jamuna TV, bdnews24.com",
-  "status": "queued",
-  "at": "2026-10-19T23:13:05Z"
+  "status": "failed",
+  "at": "2026-10-19T23:13:05Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "2556bd40dc0a4fef",
@@ -8362,8 +8377,13 @@
   "headline": "187 killed in mob violence in nine months, HRSS report",
   "topic": "hrss mob violence report",
   "source": "Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-19T23:13:05Z"
+  "status": "failed",
+  "at": "2026-10-19T23:13:05Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "2816127a1aa98ea4",
@@ -8371,7 +8391,12 @@
   "headline": "187 killed in mob violence in nine months, HRSS report",
   "topic": "hrss mob violence report",
   "source": "Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-19T23:13:05Z"
+  "status": "failed",
+  "at": "2026-10-19T23:13:05Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
