@@ -1,47 +1,5 @@
 [
  {
-  "title_hash": "11686d5bac01ca8f",
-  "url": "https://www.prothomalo.com/bangladesh/district/gs0u5mrj5g",
-  "headline": "5 bullets found in body as journalist shot dead in Netrokona",
-  "topic": "journalist shot dead netrokona",
-  "source": "Jamuna TV, Dhaka Tribune, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-15T17:12:22Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "2f99432e5d41b6b8",
-  "url": "https://www.prothomalo.com/bangladesh/district/y1bfawjnlp",
-  "headline": "Youth beaten to death in Satkhira after Facebook live incites crowd",
-  "topic": "youth beaten to death satkhira",
-  "source": "Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-15T17:12:22Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "9bc493ed20f8e459",
-  "url": "https://www.prothomalo.com/politics/hc33nkxakr",
-  "headline": "Youth beaten to death in Satkhira after Facebook live incites crowd",
-  "topic": "youth beaten to death satkhira",
-  "source": "Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-15T17:12:22Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "706b5b68aec16d6b",
   "url": "https://bdnews24.com/bangladesh/g27omrulpu",
   "headline": "Journalist shot dead by attackers in Netrokona",
@@ -8398,5 +8356,32 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "59a6ad4148becf65",
+  "url": "https://www.thedailystar.net/news/politics/news/ishraque-announce-resignation-state-minister-today-4302301",
+  "headline": "Ishraque Hossain to formally resign as State Minister for Liberation War Affairs today",
+  "topic": "ishraque announces resignation",
+  "source": "Jamuna TV, The Daily Star",
+  "status": "queued",
+  "at": "2026-10-19T03:07:16Z"
+ },
+ {
+  "title_hash": "66650a16f1a59fae",
+  "url": "https://www.jamuna.tv/national/666441",
+  "headline": "Ishraque Hossain to formally resign as State Minister for Liberation War Affairs today",
+  "topic": "ishraque announces resignation",
+  "source": "Jamuna TV, The Daily Star",
+  "status": "queued",
+  "at": "2026-10-19T03:07:16Z"
+ },
+ {
+  "title_hash": "3d351245501ad47a",
+  "url": "https://www.prothomalo.com/chakri/chakri-news/ijsw2452l0",
+  "headline": "Widespread exam fraud leaves job seekers distraught as merit is overshadowed by money in Bangladesh",
+  "topic": "job exam paper leak",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-19T03:07:16Z"
  }
 ]
