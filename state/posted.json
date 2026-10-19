@@ -8349,8 +8349,13 @@
   "headline": "Bill Gates features Bangladeshi scientist Firdausi Qadri in new video on cholera vaccine",
   "topic": "Bill Gates video Firdausi Qadri",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-19T01:07:17Z"
+  "status": "failed",
+  "at": "2026-10-19T01:07:17Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "c30f29bda15b0815",
@@ -8358,8 +8363,13 @@
   "headline": "Maha Ashtami and Kumari Puja celebrated across Bangladesh today as part of Sharadiya Durga Utsav",
   "topic": "Durga Puja Maha Ashtami",
   "source": "Jamuna TV, Prothom Alo, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-10-19T01:07:17Z"
+  "status": "failed",
+  "at": "2026-10-19T01:07:17Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "2017dc8b26cca126",
@@ -8367,8 +8377,13 @@
   "headline": "Maha Ashtami and Kumari Puja celebrated across Bangladesh today as part of Sharadiya Durga Utsav",
   "topic": "Durga Puja Maha Ashtami",
   "source": "Jamuna TV, Prothom Alo, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-10-19T01:07:17Z"
+  "status": "failed",
+  "at": "2026-10-19T01:07:17Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "990cd3f10c10d380",
@@ -8376,7 +8391,12 @@
   "headline": "Maha Ashtami and Kumari Puja celebrated across Bangladesh today as part of Sharadiya Durga Utsav",
   "topic": "Durga Puja Maha Ashtami",
   "source": "Jamuna TV, Prothom Alo, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-10-19T01:07:17Z"
+  "status": "failed",
+  "at": "2026-10-19T01:07:17Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
