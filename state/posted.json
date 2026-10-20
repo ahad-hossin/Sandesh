@@ -1,61 +1,5 @@
 [
  {
-  "title_hash": "74931efae769636a",
-  "url": "https://www.prothomalo.com/video/bangladesh/yunllper22",
-  "headline": "10 killed as fire guts Cox's Bazar resort, DU and Jagannath university students among dead",
-  "topic": "cox's bazar resort fire",
-  "source": "Prothom Alo, bdnews24.com, The Daily Star, Jamuna TV, Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-10-17T15:08:39Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "cf3b0d9b654b6793",
-  "url": "https://www.jamuna.tv/all-bangladesh/666348",
-  "headline": "10 killed as fire guts Cox's Bazar resort, DU and Jagannath university students among dead",
-  "topic": "cox's bazar resort fire",
-  "source": "Prothom Alo, bdnews24.com, The Daily Star, Jamuna TV, Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-10-17T15:08:39Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "c63aaa40dcc22a75",
-  "url": "https://www.dhakatribune.com/bangladesh/nation/422306/fire-service-cox%E2%80%99s-bazar-resort-lacked-fire",
-  "headline": "10 killed as fire guts Cox's Bazar resort, DU and Jagannath university students among dead",
-  "topic": "cox's bazar resort fire",
-  "source": "Prothom Alo, bdnews24.com, The Daily Star, Jamuna TV, Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-10-17T15:08:39Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "cf737b0507c28f37",
-  "url": "https://www.dhakatribune.com/bangladesh/nation/422304/how-fire-started-at-tup-tup-resort-in-cox%E2%80%99s-bazar",
-  "headline": "10 killed as fire guts Cox's Bazar resort, DU and Jagannath university students among dead",
-  "topic": "cox's bazar resort fire",
-  "source": "Prothom Alo, bdnews24.com, The Daily Star, Jamuna TV, Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-10-17T15:08:39Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "22835bdb73c09d95",
   "url": "https://www.jamuna.tv/all-bangladesh/666345",
   "headline": "10 killed as fire guts Cox's Bazar resort, DU and Jagannath university students among dead",
@@ -8398,5 +8342,41 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "c524221220844844",
+  "url": "https://bdnews24.com/bangladesh/qvgi7lmxxn",
+  "headline": "14 killed as bus and truck collide head-on in Natore, 26 injured",
+  "topic": "natore bus truck collision 14 dead",
+  "source": "bdnews24.com, Jamuna TV, The Daily Star, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-20T04:22:28Z"
+ },
+ {
+  "title_hash": "53fbf36bc333536b",
+  "url": "https://www.jamuna.tv/all-bangladesh/666492",
+  "headline": "14 killed as bus and truck collide head-on in Natore, 26 injured",
+  "topic": "natore bus truck collision 14 dead",
+  "source": "bdnews24.com, Jamuna TV, The Daily Star, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-20T04:22:28Z"
+ },
+ {
+  "title_hash": "ea374210f7a58f87",
+  "url": "https://www.thedailystar.net/news/accidents-and-fires/news/10-killed-natore-bus-truck-collision-4303106",
+  "headline": "14 killed as bus and truck collide head-on in Natore, 26 injured",
+  "topic": "natore bus truck collision 14 dead",
+  "source": "bdnews24.com, Jamuna TV, The Daily Star, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-20T04:22:28Z"
+ },
+ {
+  "title_hash": "7c2af3f5f179d4a6",
+  "url": "https://www.prothomalo.com/bangladesh/district/k4g0d6qrt2",
+  "headline": "14 killed as bus and truck collide head-on in Natore, 26 injured",
+  "topic": "natore bus truck collision 14 dead",
+  "source": "bdnews24.com, Jamuna TV, The Daily Star, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-20T04:22:28Z"
  }
 ]
