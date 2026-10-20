@@ -8321,8 +8321,13 @@
   "headline": "14 killed in bus-truck collision in Natore",
   "topic": "natore bus truck collision",
   "source": "The Daily Star, Jamuna TV, bdnews24.com, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-20T06:12:43Z"
+  "status": "failed",
+  "at": "2026-10-20T06:12:43Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "53fbf36bc333536b",
@@ -8330,8 +8335,13 @@
   "headline": "14 killed in bus-truck collision in Natore",
   "topic": "natore bus truck collision",
   "source": "The Daily Star, Jamuna TV, bdnews24.com, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-20T06:12:43Z"
+  "status": "failed",
+  "at": "2026-10-20T06:12:43Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "c524221220844844",
@@ -8339,8 +8349,13 @@
   "headline": "14 killed in bus-truck collision in Natore",
   "topic": "natore bus truck collision",
   "source": "The Daily Star, Jamuna TV, bdnews24.com, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-20T06:12:43Z"
+  "status": "failed",
+  "at": "2026-10-20T06:12:43Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "76e7ba0f3cc7b095",
@@ -8348,8 +8363,13 @@
   "headline": "14 killed in bus-truck collision in Natore",
   "topic": "natore bus truck collision",
   "source": "The Daily Star, Jamuna TV, bdnews24.com, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-20T06:12:43Z"
+  "status": "failed",
+  "at": "2026-10-20T06:12:43Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "3f549047c770804b",
@@ -8357,8 +8377,13 @@
   "headline": "Around 50 vehicles robbed by armed gang on Cox’s Bazar road",
   "topic": "coxs bazar road robbery",
   "source": "Dhaka Tribune, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-20T06:12:43Z"
+  "status": "failed",
+  "at": "2026-10-20T06:12:43Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "fd6874f816b820d2",
@@ -8366,7 +8391,12 @@
   "headline": "Around 50 vehicles robbed by armed gang on Cox’s Bazar road",
   "topic": "coxs bazar road robbery",
   "source": "Dhaka Tribune, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-20T06:12:43Z"
+  "status": "failed",
+  "at": "2026-10-20T06:12:43Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
