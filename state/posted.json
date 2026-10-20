@@ -8335,8 +8335,13 @@
   "headline": "30 Bangladeshis return home from Cambodian detention centre",
   "topic": "bangladeshis return from cambodian detention center",
   "source": "bdnews24.com, Jamuna TV",
-  "status": "queued",
-  "at": "2026-10-20T10:13:34Z"
+  "status": "failed",
+  "at": "2026-10-20T10:13:34Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "94f4b2475d9e577d",
@@ -8344,8 +8349,13 @@
   "headline": "30 Bangladeshis return home from Cambodian detention centre",
   "topic": "bangladeshis return from cambodian detention center",
   "source": "bdnews24.com, Jamuna TV",
-  "status": "queued",
-  "at": "2026-10-20T10:13:34Z"
+  "status": "failed",
+  "at": "2026-10-20T10:13:34Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "a57612e63be2399e",
@@ -8353,8 +8363,13 @@
   "headline": "PM Tarique Rahman makes first official visit to Rajshahi",
   "topic": "pm tarique calls for unity of all faiths",
   "source": "Prothom Alo, Dhaka Tribune, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-20T10:13:34Z"
+  "status": "failed",
+  "at": "2026-10-20T10:13:34Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "816030622e24ab4b",
@@ -8362,8 +8377,13 @@
   "headline": "PM Tarique Rahman makes first official visit to Rajshahi",
   "topic": "pm tarique calls for unity of all faiths",
   "source": "Prothom Alo, Dhaka Tribune, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-20T10:13:34Z"
+  "status": "failed",
+  "at": "2026-10-20T10:13:34Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "a57612e63be2399e",
@@ -8371,7 +8391,12 @@
   "headline": "PM Tarique Rahman makes first official visit to Rajshahi",
   "topic": "pm tarique calls for unity of all faiths",
   "source": "Prothom Alo, Dhaka Tribune, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-20T10:13:34Z"
+  "status": "failed",
+  "at": "2026-10-20T10:13:34Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
