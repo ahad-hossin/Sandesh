@@ -8349,8 +8349,13 @@
   "headline": "Bollywood actor Tiger Shroff was not the original target of shooting",
   "topic": "tiger shroff shooting",
   "source": "Prothom Alo, bdnews24.com",
-  "status": "queued",
-  "at": "2026-10-20T20:14:22Z"
+  "status": "failed",
+  "at": "2026-10-20T20:14:22Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "67c05210f41d8449",
@@ -8358,8 +8363,13 @@
   "headline": "Bollywood actor Tiger Shroff was not the original target of shooting",
   "topic": "tiger shroff shooting",
   "source": "Prothom Alo, bdnews24.com",
-  "status": "queued",
-  "at": "2026-10-20T20:14:22Z"
+  "status": "failed",
+  "at": "2026-10-20T20:14:22Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "224d9fed00100076",
@@ -8367,8 +8377,13 @@
   "headline": "Rent dispute: AJR Courier office vandalised and looted in Dhaka’s Hazaribagh",
   "topic": "ajr courier vandalised",
   "source": "The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-20T20:14:22Z"
+  "status": "failed",
+  "at": "2026-10-20T20:14:22Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "0622a15b57d6a71b",
@@ -8376,7 +8391,12 @@
   "headline": "Rent dispute: AJR Courier office vandalised and looted in Dhaka’s Hazaribagh",
   "topic": "ajr courier vandalised",
   "source": "The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-20T20:14:22Z"
+  "status": "failed",
+  "at": "2026-10-20T20:14:22Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
