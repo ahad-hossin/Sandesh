@@ -1,61 +1,5 @@
 [
  {
-  "title_hash": "e652a514608d7c42",
-  "url": "https://www.dhakatribune.com/bangladesh/422353/10-killed-cox%E2%80%99s-bazar-resort-operated-without",
-  "headline": "10 killed as blaze rips through Inani resort in Cox’s Bazar",
-  "topic": "inani resort fire",
-  "source": "The Daily Star, bdnews24.com, Prothom Alo, Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-10-17T22:10:19Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "b36d5de897bc83cf",
-  "url": "https://www.thedailystar.net/news/bangladesh/news/arms-brandishing-ishraques-anti-drug-drive-stirs-outrage-4301326",
-  "headline": "Minister Ishraque Hossain carrying firearm during anti-drug raid sparks outrage",
-  "topic": "ishraque hossain armed raid",
-  "source": "The Daily Star, bdnews24.com, Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-10-17T22:10:19Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "92fe535285c00038",
-  "url": "https://bdnews24.com/bangladesh/pvg0pwtiyd",
-  "headline": "Minister Ishraque Hossain carrying firearm during anti-drug raid sparks outrage",
-  "topic": "ishraque hossain armed raid",
-  "source": "The Daily Star, bdnews24.com, Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-10-17T22:10:19Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "625b135e0b82f98c",
-  "url": "https://www.dhakatribune.com/bangladesh/422352/what-does-the-firearms-policy-say-about-ishraque",
-  "headline": "Minister Ishraque Hossain carrying firearm during anti-drug raid sparks outrage",
-  "topic": "ishraque hossain armed raid",
-  "source": "The Daily Star, bdnews24.com, Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-10-17T22:10:19Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "afab5947b6722e7e",
   "url": "https://www.dhakatribune.com/bangladesh/422349/ishraque-police-inaction-drove-me-to-armed",
   "headline": "Minister Ishraque Hossain carrying firearm during anti-drug raid sparks outrage",
@@ -8398,5 +8342,41 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "8f14a6f8dfe67124",
+  "url": "https://bdnews24.com/neighbours/jja0rkpb27",
+  "headline": "Bollywood actor Tiger Shroff was not the original target of shooting",
+  "topic": "tiger shroff shooting",
+  "source": "Prothom Alo, bdnews24.com",
+  "status": "queued",
+  "at": "2026-10-20T20:14:22Z"
+ },
+ {
+  "title_hash": "67c05210f41d8449",
+  "url": "https://www.prothomalo.com/world/india/jrfyjb495g",
+  "headline": "Bollywood actor Tiger Shroff was not the original target of shooting",
+  "topic": "tiger shroff shooting",
+  "source": "Prothom Alo, bdnews24.com",
+  "status": "queued",
+  "at": "2026-10-20T20:14:22Z"
+ },
+ {
+  "title_hash": "224d9fed00100076",
+  "url": "https://www.thedailystar.net/news/crime-justice/news/ajr-courier-office-dhakas-hazaribagh-vandalised-looted-over-alleged-rent-demand-4303686",
+  "headline": "Rent dispute: AJR Courier office vandalised and looted in Dhaka’s Hazaribagh",
+  "topic": "ajr courier vandalised",
+  "source": "The Daily Star, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-20T20:14:22Z"
+ },
+ {
+  "title_hash": "0622a15b57d6a71b",
+  "url": "https://www.prothomalo.com/bangladesh/crime/ux4a5qmmfa",
+  "headline": "Rent dispute: AJR Courier office vandalised and looted in Dhaka’s Hazaribagh",
+  "topic": "ajr courier vandalised",
+  "source": "The Daily Star, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-20T20:14:22Z"
  }
 ]
