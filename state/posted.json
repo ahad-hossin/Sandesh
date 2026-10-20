@@ -8307,8 +8307,13 @@
   "headline": "10 killed in bus-truck collision in Natore, over 20 injured",
   "topic": "natore bus truck collision",
   "source": "Jamuna TV, Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-20T02:07:10Z"
+  "status": "failed",
+  "at": "2026-10-20T02:07:10Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "08244847fb328eb4",
@@ -8316,8 +8321,13 @@
   "headline": "10 killed in bus-truck collision in Natore, over 20 injured",
   "topic": "natore bus truck collision",
   "source": "Jamuna TV, Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-20T02:07:10Z"
+  "status": "failed",
+  "at": "2026-10-20T02:07:10Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "b5d0f34abf2446a2",
@@ -8325,8 +8335,13 @@
   "headline": "10 killed in bus-truck collision in Natore, over 20 injured",
   "topic": "natore bus truck collision",
   "source": "Jamuna TV, Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-20T02:07:10Z"
+  "status": "failed",
+  "at": "2026-10-20T02:07:10Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "c5344780bd3ec0ba",
@@ -8334,8 +8349,13 @@
   "headline": "Prime Minister Tarique Rahman calls for unity among all religions to build Bangladesh",
   "topic": "pm three district visit",
   "source": "Jamuna TV, The Daily Star, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-10-20T02:07:10Z"
+  "status": "failed",
+  "at": "2026-10-20T02:07:10Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "95f904598cb7a4e9",
@@ -8343,8 +8363,13 @@
   "headline": "Prime Minister Tarique Rahman calls for unity among all religions to build Bangladesh",
   "topic": "pm three district visit",
   "source": "Jamuna TV, The Daily Star, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-10-20T02:07:10Z"
+  "status": "failed",
+  "at": "2026-10-20T02:07:10Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "4459c259068dffd4",
@@ -8352,8 +8377,13 @@
   "headline": "Prime Minister Tarique Rahman calls for unity among all religions to build Bangladesh",
   "topic": "pm three district visit",
   "source": "Jamuna TV, The Daily Star, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-10-20T02:07:10Z"
+  "status": "failed",
+  "at": "2026-10-20T02:07:10Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "844e683eb583bc0e",
@@ -8361,7 +8391,12 @@
   "headline": "Prime Minister Tarique Rahman calls for unity among all religions to build Bangladesh",
   "topic": "pm three district visit",
   "source": "Jamuna TV, The Daily Star, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-10-20T02:07:10Z"
+  "status": "failed",
+  "at": "2026-10-20T02:07:10Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
