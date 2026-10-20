@@ -1,47 +1,5 @@
 [
  {
-  "title_hash": "7c3f913029035965",
-  "url": "https://bdnews24.com/bangladesh/taeuo8qjh9",
-  "headline": "10 killed in Cox’s Bazar resort fire; family of four still missing, resort lacked clearances",
-  "topic": "Cox's Bazar resort fire",
-  "source": "Dhaka Tribune, bdnews24.com, The Daily Star",
-  "status": "failed",
-  "at": "2026-10-18T00:08:14Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "c04beb6d4449d43d",
-  "url": "https://www.thedailystar.net/news/accidents-and-fires/news/if-had-minute-or-two-i-couldve-saved-my-wife-4301306",
-  "headline": "10 killed in Cox’s Bazar resort fire; family of four still missing, resort lacked clearances",
-  "topic": "Cox's Bazar resort fire",
-  "source": "Dhaka Tribune, bdnews24.com, The Daily Star",
-  "status": "failed",
-  "at": "2026-10-18T00:08:14Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "f017950689a29370",
-  "url": "https://www.thedailystar.net/news/accidents-and-fires/news/least-10-killed-blaze-rips-through-inani-resort-4301316",
-  "headline": "10 killed in Cox’s Bazar resort fire; family of four still missing, resort lacked clearances",
-  "topic": "Cox's Bazar resort fire",
-  "source": "Dhaka Tribune, bdnews24.com, The Daily Star",
-  "status": "failed",
-  "at": "2026-10-18T00:08:14Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "a4e74aa9bd144fec",
   "url": "https://bdnews24.com/bangladesh/tcgtuxbh0z",
   "headline": "10 killed in Cox’s Bazar resort fire; family of four still missing, resort lacked clearances",
@@ -8398,5 +8356,32 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "2cd50c25bd87d630",
+  "url": "https://www.thedailystar.net/sports/football/news/foden-hattrick-fuels-man-city-rout-aek-athens-4303846",
+  "headline": "Phil Foden scores hattrick in Man City's 5-1 rout of AEK Athens",
+  "topic": "foden hattrick man city",
+  "source": "The Daily Star, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-20T23:08:12Z"
+ },
+ {
+  "title_hash": "b88d0aba2244ba0c",
+  "url": "https://www.prothomalo.com/sports/football/r507o8wa4r",
+  "headline": "Phil Foden scores hattrick in Man City's 5-1 rout of AEK Athens",
+  "topic": "foden hattrick man city",
+  "source": "The Daily Star, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-20T23:08:12Z"
+ },
+ {
+  "title_hash": "33ca62783545a41f",
+  "url": "https://www.thedailystar.net/sports/football/news/liverpool-strike-back-beat-villarreal-seven-goal-thriller-4303831",
+  "headline": "7-goal thriller: Liverpool beat Villarreal 4-3 after trailing by two",
+  "topic": "liverpool beat villarreal",
+  "source": "The Daily Star",
+  "status": "queued",
+  "at": "2026-10-20T23:08:12Z"
  }
 ]
