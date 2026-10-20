@@ -1,75 +1,5 @@
 [
  {
-  "title_hash": "afab5947b6722e7e",
-  "url": "https://www.dhakatribune.com/bangladesh/422349/ishraque-police-inaction-drove-me-to-armed",
-  "headline": "Minister Ishraque Hossain carrying firearm during anti-drug raid sparks outrage",
-  "topic": "ishraque hossain armed raid",
-  "source": "The Daily Star, bdnews24.com, Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-10-17T22:10:19Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "13755735069cbfed",
-  "url": "https://www.thedailystar.net/news/crime-justice/news/youth-arrested-over-journalist-alif-murder-netrokona-4301231",
-  "headline": "Youth arrested for journalist Alif's murder in Netrokona",
-  "topic": "netrokona journalist murder arrest",
-  "source": "The Daily Star, Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-10-17T23:12:50Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "9177fe444ed1abec",
-  "url": "https://www.dhakatribune.com/bangladesh/crime/422356/journalist%E2%80%99s-murder-raises-questions-over-ignored",
-  "headline": "Youth arrested for journalist Alif's murder in Netrokona",
-  "topic": "netrokona journalist murder arrest",
-  "source": "The Daily Star, Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-10-17T23:12:50Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "35f63d81c319471a",
-  "url": "https://www.thedailystar.net/news/crime-justice/news/slain-journalist-warned-sp-threat-life-4301321",
-  "headline": "Youth arrested for journalist Alif's murder in Netrokona",
-  "topic": "netrokona journalist murder arrest",
-  "source": "The Daily Star, Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-10-17T23:12:50Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "82325ed6dd98145b",
-  "url": "https://www.dhakatribune.com/bangladesh/422344/blast-calls-for-swift-probe-justice-over-killing",
-  "headline": "Youth arrested for journalist Alif's murder in Netrokona",
-  "topic": "netrokona journalist murder arrest",
-  "source": "The Daily Star, Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-10-17T23:12:50Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "d4d57c23863a1694",
   "url": "https://www.thedailystar.net/news/crime-justice/news/prime-accused-amini-satkhira-mob-killing-case-arrested-4301126",
   "headline": "Satkhira: Prime accused in mob killing arrested",
@@ -8398,5 +8328,50 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "c1c89a224e299812",
+  "url": "https://www.dhakatribune.com/bangladesh/accidents/422562/natore-bus-crash-supervisor-was-driving-as",
+  "headline": "14 killed, 30 injured in bus-truck collision in Natore",
+  "topic": "natore bus crash deaths",
+  "source": "Prothom Alo, Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-10-20T21:09:02Z"
+ },
+ {
+  "title_hash": "974f487cb365e1dd",
+  "url": "https://www.prothomalo.com/bangladesh/ldtre3t8ut",
+  "headline": "14 killed, 30 injured in bus-truck collision in Natore",
+  "topic": "natore bus crash deaths",
+  "source": "Prothom Alo, Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-10-20T21:09:02Z"
+ },
+ {
+  "title_hash": "0e3a7c8e5046163a",
+  "url": "https://www.dhakatribune.com/bangladesh/nation/422535/14-killed-at-least-30-injured-in-bus-truck",
+  "headline": "14 killed, 30 injured in bus-truck collision in Natore",
+  "topic": "natore bus crash deaths",
+  "source": "Prothom Alo, Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-10-20T21:09:02Z"
+ },
+ {
+  "title_hash": "224d9fed00100076",
+  "url": "https://www.thedailystar.net/news/crime-justice/news/ajr-courier-office-dhakas-hazaribagh-vandalised-looted-over-alleged-rent-demand-4303686",
+  "headline": "Dhaka courier office vandalised and looted over rent demand",
+  "topic": "hazaribagh courier office vandalised",
+  "source": "The Daily Star, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-20T21:09:02Z"
+ },
+ {
+  "title_hash": "0622a15b57d6a71b",
+  "url": "https://www.prothomalo.com/bangladesh/crime/ux4a5qmmfa",
+  "headline": "Dhaka courier office vandalised and looted over rent demand",
+  "topic": "hazaribagh courier office vandalised",
+  "source": "The Daily Star, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-20T21:09:02Z"
  }
 ]
