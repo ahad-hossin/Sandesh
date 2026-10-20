@@ -1,33 +1,5 @@
 [
  {
-  "title_hash": "bf05a177c8ff2eee",
-  "url": "https://bdnews24.com/bangladesh/2uyf9znqfc",
-  "headline": "10 killed as blaze rips through Inani resort in Cox’s Bazar",
-  "topic": "inani resort fire",
-  "source": "The Daily Star, bdnews24.com, Prothom Alo, Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-10-17T22:10:19Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "8a3bb11599fb5a9c",
-  "url": "https://www.prothomalo.com/bangladesh/district/542ky6fnob",
-  "headline": "10 killed as blaze rips through Inani resort in Cox’s Bazar",
-  "topic": "inani resort fire",
-  "source": "The Daily Star, bdnews24.com, Prothom Alo, Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-10-17T22:10:19Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "e652a514608d7c42",
   "url": "https://www.dhakatribune.com/bangladesh/422353/10-killed-cox%E2%80%99s-bazar-resort-operated-without",
   "headline": "10 killed as blaze rips through Inani resort in Cox’s Bazar",
@@ -8398,5 +8370,23 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "ffc278cb7e3036ed",
+  "url": "https://www.dhakatribune.com/bangladesh/crime/422573/db-uncovers-drug-den-police-dig-house-84-detained",
+  "headline": "84 detained as DB uncovers drug den at DIG’s house",
+  "topic": "bangladesh drug den raid DIG house",
+  "source": "Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-10-20T19:08:14Z"
+ },
+ {
+  "title_hash": "6c2059425a13cd05",
+  "url": "https://www.prothomalo.com/bangladesh/h6u3ma35zs",
+  "headline": "Freedom fighter and artist Saida Kamal buried with state honors",
+  "topic": "artist Saida Kamal funeral state honors",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-20T19:08:14Z"
  }
 ]
