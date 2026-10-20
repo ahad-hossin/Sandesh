@@ -8349,8 +8349,13 @@
   "headline": "14 killed as bus and truck collide head-on in Natore, 26 injured",
   "topic": "natore bus truck collision 14 dead",
   "source": "bdnews24.com, Jamuna TV, The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-20T04:22:28Z"
+  "status": "failed",
+  "at": "2026-10-20T04:22:28Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "53fbf36bc333536b",
@@ -8358,8 +8363,13 @@
   "headline": "14 killed as bus and truck collide head-on in Natore, 26 injured",
   "topic": "natore bus truck collision 14 dead",
   "source": "bdnews24.com, Jamuna TV, The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-20T04:22:28Z"
+  "status": "failed",
+  "at": "2026-10-20T04:22:28Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "ea374210f7a58f87",
@@ -8367,8 +8377,13 @@
   "headline": "14 killed as bus and truck collide head-on in Natore, 26 injured",
   "topic": "natore bus truck collision 14 dead",
   "source": "bdnews24.com, Jamuna TV, The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-20T04:22:28Z"
+  "status": "failed",
+  "at": "2026-10-20T04:22:28Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "7c2af3f5f179d4a6",
@@ -8376,7 +8391,12 @@
   "headline": "14 killed as bus and truck collide head-on in Natore, 26 injured",
   "topic": "natore bus truck collision 14 dead",
   "source": "bdnews24.com, Jamuna TV, The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-20T04:22:28Z"
+  "status": "failed",
+  "at": "2026-10-20T04:22:28Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
