@@ -8321,8 +8321,13 @@
   "headline": "84 held as police officer's rented house used for drug parties in Dhaka",
   "topic": "raid on additional dig property",
   "source": "bdnews24.com, The Daily Star, Jamuna TV",
-  "status": "queued",
-  "at": "2026-10-20T14:10:15Z"
+  "status": "failed",
+  "at": "2026-10-20T14:10:15Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "e3396e599a0273e5",
@@ -8330,8 +8335,13 @@
   "headline": "84 held as police officer's rented house used for drug parties in Dhaka",
   "topic": "raid on additional dig property",
   "source": "bdnews24.com, The Daily Star, Jamuna TV",
-  "status": "queued",
-  "at": "2026-10-20T14:10:15Z"
+  "status": "failed",
+  "at": "2026-10-20T14:10:15Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "2329cfffda5f461b",
@@ -8339,8 +8349,13 @@
   "headline": "84 held as police officer's rented house used for drug parties in Dhaka",
   "topic": "raid on additional dig property",
   "source": "bdnews24.com, The Daily Star, Jamuna TV",
-  "status": "queued",
-  "at": "2026-10-20T14:10:15Z"
+  "status": "failed",
+  "at": "2026-10-20T14:10:15Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "77fad1115e4fbdff",
@@ -8348,8 +8363,13 @@
   "headline": "14 killed in bus-truck collision in Natore",
   "topic": "natore road crash",
   "source": "Dhaka Tribune, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-20T14:10:15Z"
+  "status": "failed",
+  "at": "2026-10-20T14:10:15Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "0e3a7c8e5046163a",
@@ -8357,8 +8377,13 @@
   "headline": "14 killed in bus-truck collision in Natore",
   "topic": "natore road crash",
   "source": "Dhaka Tribune, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-20T14:10:15Z"
+  "status": "failed",
+  "at": "2026-10-20T14:10:15Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "9f8bdbfbe944d55e",
@@ -8366,7 +8391,12 @@
   "headline": "14 killed in bus-truck collision in Natore",
   "topic": "natore road crash",
   "source": "Dhaka Tribune, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-20T14:10:15Z"
+  "status": "failed",
+  "at": "2026-10-20T14:10:15Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
