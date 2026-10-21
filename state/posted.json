@@ -8321,8 +8321,13 @@
   "headline": "85 detained as police raid 'drug parties' at addl DIG's house in Dhaka",
   "topic": "dig police drug parties",
   "source": "bdnews24.com, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-21T22:10:52Z"
+  "status": "failed",
+  "at": "2026-10-21T22:10:52Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "2e06b43ad343ad19",
@@ -8330,8 +8335,13 @@
   "headline": "85 detained as police raid 'drug parties' at addl DIG's house in Dhaka",
   "topic": "dig police drug parties",
   "source": "bdnews24.com, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-21T22:10:52Z"
+  "status": "failed",
+  "at": "2026-10-21T22:10:52Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "24b01180aba8e1be",
@@ -8339,8 +8349,13 @@
   "headline": "Global alert: Websites go dark worldwide to fix critical PHP security flaws",
   "topic": "global website cyber attack",
   "source": "Prothom Alo, bdnews24.com, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-21T22:10:52Z"
+  "status": "failed",
+  "at": "2026-10-21T22:10:52Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "7dbd54a18015cdff",
@@ -8348,8 +8363,13 @@
   "headline": "Global alert: Websites go dark worldwide to fix critical PHP security flaws",
   "topic": "global website cyber attack",
   "source": "Prothom Alo, bdnews24.com, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-21T22:10:52Z"
+  "status": "failed",
+  "at": "2026-10-21T22:10:52Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "9978a3ab64b38510",
@@ -8357,8 +8377,13 @@
   "headline": "Global alert: Websites go dark worldwide to fix critical PHP security flaws",
   "topic": "global website cyber attack",
   "source": "Prothom Alo, bdnews24.com, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-21T22:10:52Z"
+  "status": "failed",
+  "at": "2026-10-21T22:10:52Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "51d056e37ab16609",
@@ -8366,7 +8391,12 @@
   "headline": "Global alert: Websites go dark worldwide to fix critical PHP security flaws",
   "topic": "global website cyber attack",
   "source": "Prothom Alo, bdnews24.com, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-21T22:10:52Z"
+  "status": "failed",
+  "at": "2026-10-21T22:10:52Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
