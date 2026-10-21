@@ -8335,8 +8335,13 @@
   "headline": "Foden hat-trick fuels Manchester City's 5-1 rout of AEK Athens in Champions League",
   "topic": "champions league man city liverpool wins",
   "source": "The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-21T01:07:11Z"
+  "status": "failed",
+  "at": "2026-10-21T01:07:11Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "33ca62783545a41f",
@@ -8344,8 +8349,13 @@
   "headline": "Foden hat-trick fuels Manchester City's 5-1 rout of AEK Athens in Champions League",
   "topic": "champions league man city liverpool wins",
   "source": "The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-21T01:07:11Z"
+  "status": "failed",
+  "at": "2026-10-21T01:07:11Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "b88d0aba2244ba0c",
@@ -8353,8 +8363,13 @@
   "headline": "Foden hat-trick fuels Manchester City's 5-1 rout of AEK Athens in Champions League",
   "topic": "champions league man city liverpool wins",
   "source": "The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-21T01:07:11Z"
+  "status": "failed",
+  "at": "2026-10-21T01:07:11Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "9ce5e19eee68d81a",
@@ -8362,8 +8377,13 @@
   "headline": "PSG secure dramatic 4-2 victory over Barcelona with late strikes in Champions League clash",
   "topic": "champions league psg barcelona",
   "source": "The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-21T01:07:11Z"
+  "status": "failed",
+  "at": "2026-10-21T01:07:11Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "e76fc856f66e9b28",
@@ -8371,7 +8391,12 @@
   "headline": "PSG secure dramatic 4-2 victory over Barcelona with late strikes in Champions League clash",
   "topic": "champions league psg barcelona",
   "source": "The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-21T01:07:11Z"
+  "status": "failed",
+  "at": "2026-10-21T01:07:11Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
