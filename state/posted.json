@@ -8349,8 +8349,13 @@
   "headline": "Former army member among 6 arrested as police rescue kidnapped shopkeeper",
   "topic": "bangladeshi scam victims return from myanmar",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-21T14:09:50Z"
+  "status": "failed",
+  "at": "2026-10-21T14:09:50Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "9f84592980c8c771",
@@ -8358,8 +8363,13 @@
   "headline": "Former army member among 6 arrested as police rescue kidnapped shopkeeper",
   "topic": "bangladeshi scam victims return from myanmar",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-21T14:09:50Z"
+  "status": "failed",
+  "at": "2026-10-21T14:09:50Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "097cb30ffe137f04",
@@ -8367,8 +8377,13 @@
   "headline": "Tourists urged to leave as Sajek road blockade resumes",
   "topic": "sajek road blockade announced",
   "source": "Dhaka Tribune, Jamuna TV",
-  "status": "queued",
-  "at": "2026-10-21T14:09:50Z"
+  "status": "failed",
+  "at": "2026-10-21T14:09:50Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "6fb3f26b021fded0",
@@ -8376,7 +8391,12 @@
   "headline": "Tourists urged to leave as Sajek road blockade resumes",
   "topic": "sajek road blockade announced",
   "source": "Dhaka Tribune, Jamuna TV",
-  "status": "queued",
-  "at": "2026-10-21T14:09:50Z"
+  "status": "failed",
+  "at": "2026-10-21T14:09:50Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
