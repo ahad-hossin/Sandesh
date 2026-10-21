@@ -8321,8 +8321,13 @@
   "headline": "RMCH intern doctors halt work over five-point demand",
   "topic": "rmch intern doctors strike",
   "source": "Dhaka Tribune, Jamuna TV",
-  "status": "queued",
-  "at": "2026-10-21T07:07:44Z"
+  "status": "failed",
+  "at": "2026-10-21T07:07:44Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "cab610676a787cb4",
@@ -8330,8 +8335,13 @@
   "headline": "RMCH intern doctors halt work over five-point demand",
   "topic": "rmch intern doctors strike",
   "source": "Dhaka Tribune, Jamuna TV",
-  "status": "queued",
-  "at": "2026-10-21T07:07:44Z"
+  "status": "failed",
+  "at": "2026-10-21T07:07:44Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "c51c9c1ea4352dc9",
@@ -8339,8 +8349,13 @@
   "headline": "Over 300,000 US visas revoked by Trump administration in second term",
   "topic": "trump revokes 300k visas",
   "source": "The Daily Star, Jamuna TV, bdnews24.com, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-21T07:07:44Z"
+  "status": "failed",
+  "at": "2026-10-21T07:07:44Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "dc3c13313553fd17",
@@ -8348,8 +8363,13 @@
   "headline": "Over 300,000 US visas revoked by Trump administration in second term",
   "topic": "trump revokes 300k visas",
   "source": "The Daily Star, Jamuna TV, bdnews24.com, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-21T07:07:44Z"
+  "status": "failed",
+  "at": "2026-10-21T07:07:44Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "f09c659a5050e9b8",
@@ -8357,8 +8377,13 @@
   "headline": "Over 300,000 US visas revoked by Trump administration in second term",
   "topic": "trump revokes 300k visas",
   "source": "The Daily Star, Jamuna TV, bdnews24.com, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-21T07:07:44Z"
+  "status": "failed",
+  "at": "2026-10-21T07:07:44Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "5fcfdb3930d03804",
@@ -8366,7 +8391,12 @@
   "headline": "Over 300,000 US visas revoked by Trump administration in second term",
   "topic": "trump revokes 300k visas",
   "source": "The Daily Star, Jamuna TV, bdnews24.com, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-21T07:07:44Z"
+  "status": "failed",
+  "at": "2026-10-21T07:07:44Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
