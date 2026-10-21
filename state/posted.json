@@ -1,61 +1,5 @@
 [
  {
-  "title_hash": "7efaf93a439ab251",
-  "url": "https://www.prothomalo.com/bangladesh/district/6ty75awg5l",
-  "headline": "10 killed in Cox's Bazar fire: Police sue resort owner and manager",
-  "topic": "coxs bazar resort fire case",
-  "source": "Jamuna TV, Dhaka Tribune, The Daily Star, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-18T09:10:36Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "38061c70f238997a",
-  "url": "https://www.prothomalo.com/bangladesh/district/kksbaajaare-risortte-aagun-oraa-kothaayy-haariyye-gel",
-  "headline": "10 killed in Cox's Bazar fire: Police sue resort owner and manager",
-  "topic": "coxs bazar resort fire case",
-  "source": "Jamuna TV, Dhaka Tribune, The Daily Star, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-18T09:10:36Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "ee8fd78cbd15713e",
-  "url": "https://www.thedailystar.net/news/news/drew-licensed-gun-self-defence-during-anti-drug-drive-ishraque-4301646",
-  "headline": "State Minister Ishraque drew licensed gun in self-defence during anti-drug drive",
-  "topic": "ishraque_armed_anti_drug_drive",
-  "source": "The Daily Star, bdnews24.com, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-18T10:08:26Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "938c62b64033acd6",
-  "url": "https://bdnews24.com/bangladesh/kq5pmop8hc",
-  "headline": "State Minister Ishraque drew licensed gun in self-defence during anti-drug drive",
-  "topic": "ishraque_armed_anti_drug_drive",
-  "source": "The Daily Star, bdnews24.com, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-18T10:08:26Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "01f829c2c72a7e74",
   "url": "https://www.jamuna.tv/national/666403",
   "headline": "State Minister Ishraque drew licensed gun in self-defence during anti-drug drive",
@@ -8398,5 +8342,41 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "74531bae27dff73a",
+  "url": "https://www.dhakatribune.com/bangladesh/422614/saudi-restrictions-disrupt-134-flights-from",
+  "headline": "Over 20,000 passengers stranded as 134 flights from Bangladesh disrupted",
+  "topic": "saudi restrictions flight cancellations",
+  "source": "Prothom Alo, Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-10-21T15:10:25Z"
+ },
+ {
+  "title_hash": "728cfa285ecf3b7b",
+  "url": "https://www.prothomalo.com/bangladesh/dkyvyuxu1j",
+  "headline": "Over 20,000 passengers stranded as 134 flights from Bangladesh disrupted",
+  "topic": "saudi restrictions flight cancellations",
+  "source": "Prothom Alo, Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-10-21T15:10:25Z"
+ },
+ {
+  "title_hash": "fa145ccd78a50d7e",
+  "url": "https://www.dhakatribune.com/bangladesh/nation/422624/3-tourists-die-2-missing-after-being-swept-away",
+  "headline": "3 tourists dead, 2 missing after drowning at Himchari beach",
+  "topic": "himchari beach tourist deaths",
+  "source": "Prothom Alo, Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-10-21T15:10:25Z"
+ },
+ {
+  "title_hash": "6e444d3092739843",
+  "url": "https://www.prothomalo.com/bangladesh/district/0038e4ky47",
+  "headline": "3 tourists dead, 2 missing after drowning at Himchari beach",
+  "topic": "himchari beach tourist deaths",
+  "source": "Prothom Alo, Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-10-21T15:10:25Z"
  }
 ]
