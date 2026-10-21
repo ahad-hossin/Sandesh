@@ -1,61 +1,5 @@
 [
  {
-  "title_hash": "ffb7408305bf46f2",
-  "url": "https://www.thedailystar.net/news/bangladesh/news/17-killed-kolkata-durga-puja-stampede-4301361",
-  "headline": "19 dead in Kolkata Durga Puja stampede after exit gate collapse",
-  "topic": "kolkata durga puja stampede",
-  "source": "Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-10-18T06:10:16Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "1fd3f01e9945598d",
-  "url": "https://www.dhakatribune.com/bangladesh/nation/422363/case-filed-against-tup-tup-resort-owner-manager",
-  "headline": "10 killed in Cox's Bazar resort fire; Police sue resort owner, manager",
-  "topic": "coxs bazar resort fire",
-  "source": "Dhaka Tribune, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-10-18T06:10:16Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "38061c70f238997a",
-  "url": "https://www.prothomalo.com/bangladesh/district/kksbaajaare-risortte-aagun-oraa-kothaayy-haariyye-gel",
-  "headline": "10 killed in Cox's Bazar resort fire; Police sue resort owner, manager",
-  "topic": "coxs bazar resort fire",
-  "source": "Dhaka Tribune, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-10-18T06:10:16Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "b5705a7c0ed77bf5",
-  "url": "https://www.prothomalo.com/bangladesh/district/tp1i3ocrgh",
-  "headline": "10 killed in Cox's Bazar resort fire; Police sue resort owner, manager",
-  "topic": "coxs bazar resort fire",
-  "source": "Dhaka Tribune, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-10-18T06:10:16Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "c99c8cda563e77d6",
   "url": "https://www.prothomalo.com/bangladesh/jn2onjz795",
   "headline": "10 killed in Cox's Bazar resort fire; Police sue resort owner, manager",
@@ -8398,5 +8342,41 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "c8b338bbb4acd1fb",
+  "url": "https://www.jamuna.tv/sports/666575",
+  "headline": "Must-win game: Bangladesh face Afghanistan to keep final hopes alive",
+  "topic": "bangladesh vs afghanistan cricket",
+  "source": "Jamuna TV, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-21T08:08:25Z"
+ },
+ {
+  "title_hash": "96c949170d15bdaa",
+  "url": "https://www.prothomalo.com/sports/cricket/6o0ph8went",
+  "headline": "Must-win game: Bangladesh face Afghanistan to keep final hopes alive",
+  "topic": "bangladesh vs afghanistan cricket",
+  "source": "Jamuna TV, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-21T08:08:25Z"
+ },
+ {
+  "title_hash": "b32f9384be179e48",
+  "url": "https://bdnews24.com/business/heozz2x8du",
+  "headline": "From Nov 1, food business registration and licensing mandatory in Bangladesh",
+  "topic": "food business license mandatory",
+  "source": "bdnews24.com, Jamuna TV",
+  "status": "queued",
+  "at": "2026-10-21T08:08:25Z"
+ },
+ {
+  "title_hash": "6ae528d7e7d1c794",
+  "url": "https://www.jamuna.tv/national/666565",
+  "headline": "From Nov 1, food business registration and licensing mandatory in Bangladesh",
+  "topic": "food business license mandatory",
+  "source": "bdnews24.com, Jamuna TV",
+  "status": "queued",
+  "at": "2026-10-21T08:08:25Z"
  }
 ]
