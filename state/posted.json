@@ -1,47 +1,5 @@
 [
  {
-  "title_hash": "82325ed6dd98145b",
-  "url": "https://www.dhakatribune.com/bangladesh/422344/blast-calls-for-swift-probe-justice-over-killing",
-  "headline": "Youth arrested in Netrokona over journalist Alif Fakir's murder",
-  "topic": "Netrokona journalist murder arrest",
-  "source": "The Daily Star, Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-10-18T01:07:04Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "35f63d81c319471a",
-  "url": "https://www.thedailystar.net/news/crime-justice/news/slain-journalist-warned-sp-threat-life-4301321",
-  "headline": "Youth arrested in Netrokona over journalist Alif Fakir's murder",
-  "topic": "Netrokona journalist murder arrest",
-  "source": "The Daily Star, Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-10-18T01:07:04Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "41e2fc4e9759b547",
-  "url": "https://www.thedailystar.net/sports/cricket/news/batters-should-have-won-match-us-taskin-4301296",
-  "headline": "Bangladesh suffers 99-run defeat against Zimbabwe in UAE Tri-Series opener",
-  "topic": "Bangladesh cricket defeat Taskin",
-  "source": "The Daily Star, bdnews24.com, Jamuna TV",
-  "status": "failed",
-  "at": "2026-10-18T02:07:38Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "6b7126e7cbc66a74",
   "url": "https://bdnews24.com/cricket/cqbdzuof12",
   "headline": "Bangladesh suffers 99-run defeat against Zimbabwe in UAE Tri-Series opener",
@@ -8398,5 +8356,32 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "a8905f1feb42ad7d",
+  "url": "https://www.prothomalo.com/bangladesh/mkf2is07uv",
+  "headline": "54 Bangladeshis died in Russia-Ukraine war after going for jobs; families left in despair",
+  "topic": "bangladeshis dying russia ukraine war",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-21T02:06:59Z"
+ },
+ {
+  "title_hash": "f8a72588b41ba4a0",
+  "url": "https://www.jamuna.tv/national/666550",
+  "headline": "Bijoya Dashami marks the formal end of this year's Sharadiya Durga Puja celebrations",
+  "topic": "bijoya dashami celebration",
+  "source": "Jamuna TV, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-21T02:06:59Z"
+ },
+ {
+  "title_hash": "012b51b64e6179c2",
+  "url": "https://www.prothomalo.com/entertainment/tv/mle6agf5zg",
+  "headline": "Bijoya Dashami marks the formal end of this year's Sharadiya Durga Puja celebrations",
+  "topic": "bijoya dashami celebration",
+  "source": "Jamuna TV, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-21T02:06:59Z"
  }
 ]
