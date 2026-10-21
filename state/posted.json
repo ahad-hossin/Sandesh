@@ -1,61 +1,5 @@
 [
  {
-  "title_hash": "cd17664c4611027b",
-  "url": "https://www.thedailystar.net/news/governance/news/cabinet-approves-bangladesh-secretariat-relocation-sher-e-bangla-nagar-4301836",
-  "headline": "Cabinet approves Secretariat relocation to Sher-e-Bangla Nagar by 2029",
-  "topic": "secretariat_relocation_sher_e_bangla_nagar",
-  "source": "Dhaka Tribune, bdnews24.com, Jamuna TV, The Daily Star, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-18T15:10:29Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "a3925e511cb37a88",
-  "url": "https://www.prothomalo.com/bangladesh/scibaalyy-yaacche-sherebaanlaa-ngre",
-  "headline": "Cabinet approves Secretariat relocation to Sher-e-Bangla Nagar by 2029",
-  "topic": "secretariat_relocation_sher_e_bangla_nagar",
-  "source": "Dhaka Tribune, bdnews24.com, Jamuna TV, The Daily Star, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-18T15:10:29Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "532c9f29a8873fe7",
-  "url": "https://www.prothomalo.com/bangladesh/yc6ps9gnyo",
-  "headline": "Cabinet approves Secretariat relocation to Sher-e-Bangla Nagar by 2029",
-  "topic": "secretariat_relocation_sher_e_bangla_nagar",
-  "source": "Dhaka Tribune, bdnews24.com, Jamuna TV, The Daily Star, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-18T15:10:29Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "e0245e70e9d6623c",
-  "url": "https://www.dhakatribune.com/bangladesh/422414/amar-ekushey-book-fair-2027-to-begin-on-january-7",
-  "headline": "Jan 7: Amar Ekushey Book Fair to begin next year",
-  "topic": "amar_ekushey_book_fair_2027_dates",
-  "source": "Dhaka Tribune, The Daily Star, Jamuna TV, bdnews24.com",
-  "status": "failed",
-  "at": "2026-10-18T15:10:29Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "0c72f969fb979299",
   "url": "https://www.thedailystar.net/news/news/amar-ekushey-book-fair-be-held-jan-7-feb-6-next-year-4301856",
   "headline": "Jan 7: Amar Ekushey Book Fair to begin next year",
@@ -8398,5 +8342,41 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "fc709427206a350c",
+  "url": "https://bdnews24.com/bangladesh/476ygx1kxs",
+  "headline": "85 detained as police raid 'drug parties' at addl DIG's house in Dhaka",
+  "topic": "drug parties at addl dig house",
+  "source": "bdnews24.com, The Daily Star",
+  "status": "queued",
+  "at": "2026-10-21T23:08:24Z"
+ },
+ {
+  "title_hash": "2e06b43ad343ad19",
+  "url": "https://www.thedailystar.net/news/crime-justice/news/drug-parties-addl-digs-house-under-polices-nose-nearly-year-4304541",
+  "headline": "85 detained as police raid 'drug parties' at addl DIG's house in Dhaka",
+  "topic": "drug parties at addl dig house",
+  "source": "bdnews24.com, The Daily Star",
+  "status": "queued",
+  "at": "2026-10-21T23:08:24Z"
+ },
+ {
+  "title_hash": "8e6c749efd9c9927",
+  "url": "https://bdnews24.com/cricket/z5eypuu9mn",
+  "headline": "7-wicket loss to Afghanistan: Bangladesh bow out of tri-series",
+  "topic": "bangladesh out of tri-series",
+  "source": "Jamuna TV, bdnews24.com",
+  "status": "queued",
+  "at": "2026-10-21T23:08:24Z"
+ },
+ {
+  "title_hash": "8dea3ef6c14058cc",
+  "url": "https://www.jamuna.tv/sports/666609",
+  "headline": "7-wicket loss to Afghanistan: Bangladesh bow out of tri-series",
+  "topic": "bangladesh out of tri-series",
+  "source": "Jamuna TV, bdnews24.com",
+  "status": "queued",
+  "at": "2026-10-21T23:08:24Z"
  }
 ]
