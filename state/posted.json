@@ -8363,8 +8363,13 @@
   "headline": "$25 billion: Meta ordered to pay massive fine over user privacy",
   "topic": "meta fined $25bn for privacy violations",
   "source": "Prothom Alo, bdnews24.com",
-  "status": "queued",
-  "at": "2026-10-21T21:09:43Z"
+  "status": "failed",
+  "at": "2026-10-21T21:09:43Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "8523dc08b3f351d7",
@@ -8372,8 +8377,13 @@
   "headline": "$25 billion: Meta ordered to pay massive fine over user privacy",
   "topic": "meta fined $25bn for privacy violations",
   "source": "Prothom Alo, bdnews24.com",
-  "status": "queued",
-  "at": "2026-10-21T21:09:43Z"
+  "status": "failed",
+  "at": "2026-10-21T21:09:43Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "7dbd54a18015cdff",
@@ -8381,7 +8391,12 @@
   "headline": "70% of websites at risk: Global sites shut down over PHP security flaw",
   "topic": "websites shut down globally due to cyberattack fears",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-21T21:09:43Z"
+  "status": "failed",
+  "at": "2026-10-21T21:09:43Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
