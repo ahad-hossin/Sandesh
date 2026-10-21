@@ -8349,8 +8349,13 @@
   "headline": "Over 20,000 passengers stranded as 134 flights from Bangladesh disrupted",
   "topic": "saudi restrictions flight cancellations",
   "source": "Prothom Alo, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-10-21T15:10:25Z"
+  "status": "failed",
+  "at": "2026-10-21T15:10:25Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "728cfa285ecf3b7b",
@@ -8358,8 +8363,13 @@
   "headline": "Over 20,000 passengers stranded as 134 flights from Bangladesh disrupted",
   "topic": "saudi restrictions flight cancellations",
   "source": "Prothom Alo, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-10-21T15:10:25Z"
+  "status": "failed",
+  "at": "2026-10-21T15:10:25Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "fa145ccd78a50d7e",
@@ -8367,8 +8377,13 @@
   "headline": "3 tourists dead, 2 missing after drowning at Himchari beach",
   "topic": "himchari beach tourist deaths",
   "source": "Prothom Alo, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-10-21T15:10:25Z"
+  "status": "failed",
+  "at": "2026-10-21T15:10:25Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "6e444d3092739843",
@@ -8376,7 +8391,12 @@
   "headline": "3 tourists dead, 2 missing after drowning at Himchari beach",
   "topic": "himchari beach tourist deaths",
   "source": "Prothom Alo, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-10-21T15:10:25Z"
+  "status": "failed",
+  "at": "2026-10-21T15:10:25Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
