@@ -8377,8 +8377,13 @@
   "headline": "Air Quality Alert: Dhaka ranks 9th most polluted city globally",
   "topic": "dhaka most polluted city",
   "source": "Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-10-21T06:09:13Z"
+  "status": "failed",
+  "at": "2026-10-21T06:09:13Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "c3fc0dcd61ee549e",
@@ -8386,7 +8391,12 @@
   "headline": "7,963 children killed in road accidents in 6.5 years",
   "topic": "child road accident deaths",
   "source": "Jamuna TV",
-  "status": "queued",
-  "at": "2026-10-21T06:09:13Z"
+  "status": "failed",
+  "at": "2026-10-21T06:09:13Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
