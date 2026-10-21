@@ -8335,8 +8335,13 @@
   "headline": "Air Quality: Dhaka ranks 9th most polluted city worldwide",
   "topic": "dhaka world most polluted city",
   "source": "Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-10-21T05:08:51Z"
+  "status": "failed",
+  "at": "2026-10-21T05:08:51Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "f09c659a5050e9b8",
@@ -8344,8 +8349,13 @@
   "headline": "Over 300,000: Trump administration has revoked over 300,000 visas",
   "topic": "trump revokes 300k visas",
   "source": "Jamuna TV, bdnews24.com, Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-21T05:08:51Z"
+  "status": "failed",
+  "at": "2026-10-21T05:08:51Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "dc3c13313553fd17",
@@ -8353,8 +8363,13 @@
   "headline": "Over 300,000: Trump administration has revoked over 300,000 visas",
   "topic": "trump revokes 300k visas",
   "source": "Jamuna TV, bdnews24.com, Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-21T05:08:51Z"
+  "status": "failed",
+  "at": "2026-10-21T05:08:51Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "5fcfdb3930d03804",
@@ -8362,8 +8377,13 @@
   "headline": "Over 300,000: Trump administration has revoked over 300,000 visas",
   "topic": "trump revokes 300k visas",
   "source": "Jamuna TV, bdnews24.com, Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-21T05:08:51Z"
+  "status": "failed",
+  "at": "2026-10-21T05:08:51Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "c51c9c1ea4352dc9",
@@ -8371,7 +8391,12 @@
   "headline": "Over 300,000: Trump administration has revoked over 300,000 visas",
   "topic": "trump revokes 300k visas",
   "source": "Jamuna TV, bdnews24.com, Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-21T05:08:51Z"
+  "status": "failed",
+  "at": "2026-10-21T05:08:51Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
