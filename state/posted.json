@@ -1,75 +1,5 @@
 [
  {
-  "title_hash": "a4e74aa9bd144fec",
-  "url": "https://bdnews24.com/bangladesh/tcgtuxbh0z",
-  "headline": "10 killed in Cox’s Bazar resort fire; family of four still missing, resort lacked clearances",
-  "topic": "Cox's Bazar resort fire",
-  "source": "Dhaka Tribune, bdnews24.com, The Daily Star",
-  "status": "failed",
-  "at": "2026-10-18T00:08:14Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "b25efc548bb7e54e",
-  "url": "https://bdnews24.com/media-en/image/msqdeovi7h",
-  "headline": "10 killed in Cox’s Bazar resort fire; family of four still missing, resort lacked clearances",
-  "topic": "Cox's Bazar resort fire",
-  "source": "Dhaka Tribune, bdnews24.com, The Daily Star",
-  "status": "failed",
-  "at": "2026-10-18T00:08:14Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "e652a514608d7c42",
-  "url": "https://www.dhakatribune.com/bangladesh/422353/10-killed-cox%E2%80%99s-bazar-resort-operated-without",
-  "headline": "10 killed in Cox's Bazar resort fire; family of four still missing",
-  "topic": "Cox Bazar resort deadly fire",
-  "source": "Dhaka Tribune, bdnews24.com, The Daily Star",
-  "status": "failed",
-  "at": "2026-10-18T01:07:04Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "bf05a177c8ff2eee",
-  "url": "https://bdnews24.com/bangladesh/2uyf9znqfc",
-  "headline": "10 killed in Cox's Bazar resort fire; family of four still missing",
-  "topic": "Cox Bazar resort deadly fire",
-  "source": "Dhaka Tribune, bdnews24.com, The Daily Star",
-  "status": "failed",
-  "at": "2026-10-18T01:07:04Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "c04beb6d4449d43d",
-  "url": "https://www.thedailystar.net/news/accidents-and-fires/news/if-had-minute-or-two-i-couldve-saved-my-wife-4301306",
-  "headline": "10 killed in Cox's Bazar resort fire; family of four still missing",
-  "topic": "Cox Bazar resort deadly fire",
-  "source": "Dhaka Tribune, bdnews24.com, The Daily Star",
-  "status": "failed",
-  "at": "2026-10-18T01:07:04Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "f017950689a29370",
   "url": "https://www.thedailystar.net/news/accidents-and-fires/news/least-10-killed-blaze-rips-through-inani-resort-4301316",
   "headline": "10 killed in Cox's Bazar resort fire; family of four still missing",
@@ -8398,5 +8328,50 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "ba391570443c5b3b",
+  "url": "https://www.prothomalo.com/religion/islam/qvv9mu9exa",
+  "headline": "Prophet Muhammad's diplomatic success marked by the 'Year of Delegations' in 9th Hijri",
+  "topic": "prophet muhammad diplomatic success",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-21T00:08:23Z"
+ },
+ {
+  "title_hash": "c1c89a224e299812",
+  "url": "https://www.dhakatribune.com/bangladesh/accidents/422562/natore-bus-crash-supervisor-was-driving-as",
+  "headline": "14 killed, 32 injured in Natore bus-truck collision; supervisor reportedly driving",
+  "topic": "natore bus crash 14 dead",
+  "source": "Prothom Alo, Dhaka Tribune, The Daily Star",
+  "status": "queued",
+  "at": "2026-10-21T00:08:23Z"
+ },
+ {
+  "title_hash": "974f487cb365e1dd",
+  "url": "https://www.prothomalo.com/bangladesh/ldtre3t8ut",
+  "headline": "14 killed, 32 injured in Natore bus-truck collision; supervisor reportedly driving",
+  "topic": "natore bus crash 14 dead",
+  "source": "Prothom Alo, Dhaka Tribune, The Daily Star",
+  "status": "queued",
+  "at": "2026-10-21T00:08:23Z"
+ },
+ {
+  "title_hash": "77fad1115e4fbdff",
+  "url": "https://www.dhakatribune.com/bangladesh/accidents/422556/five-shariatpur-traders-among-14-killed-in-natore",
+  "headline": "14 killed, 32 injured in Natore bus-truck collision; supervisor reportedly driving",
+  "topic": "natore bus crash 14 dead",
+  "source": "Prothom Alo, Dhaka Tribune, The Daily Star",
+  "status": "queued",
+  "at": "2026-10-21T00:08:23Z"
+ },
+ {
+  "title_hash": "4db8a378d7860c2d",
+  "url": "https://www.thedailystar.net/news/accidents-and-fires/news/natore-crash-kills-12-helper-drove-driver-slept-4303781",
+  "headline": "14 killed, 32 injured in Natore bus-truck collision; supervisor reportedly driving",
+  "topic": "natore bus crash 14 dead",
+  "source": "Prothom Alo, Dhaka Tribune, The Daily Star",
+  "status": "queued",
+  "at": "2026-10-21T00:08:23Z"
  }
 ]
