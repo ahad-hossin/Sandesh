@@ -1,61 +1,5 @@
 [
  {
-  "title_hash": "413cb1d3eb42c4a3",
-  "url": "https://www.jamuna.tv/all-bangladesh/666409",
-  "headline": "10 killed in Cox's Bazar fire: Police sue resort owner and manager",
-  "topic": "coxs bazar resort fire case",
-  "source": "Jamuna TV, Dhaka Tribune, The Daily Star, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-18T09:10:36Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "86412f1904fe64c5",
-  "url": "https://www.jamuna.tv/all-bangladesh/666406",
-  "headline": "10 killed in Cox's Bazar fire: Police sue resort owner and manager",
-  "topic": "coxs bazar resort fire case",
-  "source": "Jamuna TV, Dhaka Tribune, The Daily Star, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-18T09:10:36Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "9769a1d84a1ab282",
-  "url": "https://www.thedailystar.net/news/crime-justice/news/police-sue-resort-owner-manager-over-fire-killed-10-coxs-bazar-4301521",
-  "headline": "10 killed in Cox's Bazar fire: Police sue resort owner and manager",
-  "topic": "coxs bazar resort fire case",
-  "source": "Jamuna TV, Dhaka Tribune, The Daily Star, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-18T09:10:36Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "c8197dd773253b3c",
-  "url": "https://www.prothomalo.com/opinion/column/3chq51y8ow",
-  "headline": "10 killed in Cox's Bazar fire: Police sue resort owner and manager",
-  "topic": "coxs bazar resort fire case",
-  "source": "Jamuna TV, Dhaka Tribune, The Daily Star, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-18T09:10:36Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "7efaf93a439ab251",
   "url": "https://www.prothomalo.com/bangladesh/district/6ty75awg5l",
   "headline": "10 killed in Cox's Bazar fire: Police sue resort owner and manager",
@@ -8398,5 +8342,41 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "74261dbf300914c1",
+  "url": "https://www.prothomalo.com/bangladesh/district/yrcovrmg2t",
+  "headline": "Former army member among 6 arrested as police rescue kidnapped shopkeeper",
+  "topic": "bangladeshi scam victims return from myanmar",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-21T14:09:50Z"
+ },
+ {
+  "title_hash": "9f84592980c8c771",
+  "url": "https://www.prothomalo.com/bangladesh/tlb4veze25",
+  "headline": "Former army member among 6 arrested as police rescue kidnapped shopkeeper",
+  "topic": "bangladeshi scam victims return from myanmar",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-21T14:09:50Z"
+ },
+ {
+  "title_hash": "097cb30ffe137f04",
+  "url": "https://www.dhakatribune.com/bangladesh/422616/sajek-strike-called-again-tourists-urged-to-leave",
+  "headline": "Tourists urged to leave as Sajek road blockade resumes",
+  "topic": "sajek road blockade announced",
+  "source": "Dhaka Tribune, Jamuna TV",
+  "status": "queued",
+  "at": "2026-10-21T14:09:50Z"
+ },
+ {
+  "title_hash": "6fb3f26b021fded0",
+  "url": "https://www.jamuna.tv/all-bangladesh/666599",
+  "headline": "Tourists urged to leave as Sajek road blockade resumes",
+  "topic": "sajek road blockade announced",
+  "source": "Dhaka Tribune, Jamuna TV",
+  "status": "queued",
+  "at": "2026-10-21T14:09:50Z"
  }
 ]
