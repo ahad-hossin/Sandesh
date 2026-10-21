@@ -8349,8 +8349,13 @@
   "headline": "85 detained as police raid 'drug parties' at addl DIG's house in Dhaka",
   "topic": "drug parties at addl dig house",
   "source": "bdnews24.com, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-21T23:08:24Z"
+  "status": "failed",
+  "at": "2026-10-21T23:08:24Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "2e06b43ad343ad19",
@@ -8358,8 +8363,13 @@
   "headline": "85 detained as police raid 'drug parties' at addl DIG's house in Dhaka",
   "topic": "drug parties at addl dig house",
   "source": "bdnews24.com, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-21T23:08:24Z"
+  "status": "failed",
+  "at": "2026-10-21T23:08:24Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "8e6c749efd9c9927",
@@ -8367,8 +8377,13 @@
   "headline": "7-wicket loss to Afghanistan: Bangladesh bow out of tri-series",
   "topic": "bangladesh out of tri-series",
   "source": "Jamuna TV, bdnews24.com",
-  "status": "queued",
-  "at": "2026-10-21T23:08:24Z"
+  "status": "failed",
+  "at": "2026-10-21T23:08:24Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "8dea3ef6c14058cc",
@@ -8376,7 +8391,12 @@
   "headline": "7-wicket loss to Afghanistan: Bangladesh bow out of tri-series",
   "topic": "bangladesh out of tri-series",
   "source": "Jamuna TV, bdnews24.com",
-  "status": "queued",
-  "at": "2026-10-21T23:08:24Z"
+  "status": "failed",
+  "at": "2026-10-21T23:08:24Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
