@@ -1,89 +1,5 @@
 [
  {
-  "title_hash": "70509d3457e9f952",
-  "url": "https://www.jamuna.tv/international/666387",
-  "headline": "1,200 arrested as France protests turn violent, 150 police injured amid arson & looting",
-  "topic": "France protests violence",
-  "source": "Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-18T02:07:38Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "976f8470d1ab5496",
-  "url": "https://www.prothomalo.com/world/europe/rgzkt7hk27",
-  "headline": "1,200 arrested as France protests turn violent, 150 police injured amid arson & looting",
-  "topic": "France protests violence",
-  "source": "Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-18T02:07:38Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "f87e73824c2a7b45",
-  "url": "https://www.prothomalo.com/bangladesh/crime/9woxtitqug",
-  "headline": "Youth Development exam questions sold for 10 lakh Taka; 7 arrested in paper leak scam",
-  "topic": "youth development exam leak",
-  "source": "Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-18T03:07:01Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "6d7198098b7a61a8",
-  "url": "https://www.prothomalo.com/bangladesh/district/xuhh7q801u",
-  "headline": "Tk 4 crore Hilsa sold daily in Barisal despite ongoing ban",
-  "topic": "illegal hilsa trade",
-  "source": "Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-18T03:07:01Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "20846595502de2c6",
-  "url": "https://www.thedailystar.net/news/world/india/news/kolkata-stampede-death-toll-rises-19-cm-announces-rs-25-lakh-compensation-4301426",
-  "headline": "19 dead in Kolkata Durga Puja stampede; CM announces Rs 2.5 lakh compensation, PM Modi offers aid",
-  "topic": "kolkata puja stampede",
-  "source": "The Daily Star, Jamuna TV, bdnews24.com",
-  "status": "failed",
-  "at": "2026-10-18T04:07:14Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "dbef81f5b95a3d40",
-  "url": "https://www.jamuna.tv/international/666379",
-  "headline": "19 dead in Kolkata Durga Puja stampede; CM announces Rs 2.5 lakh compensation, PM Modi offers aid",
-  "topic": "kolkata puja stampede",
-  "source": "The Daily Star, Jamuna TV, bdnews24.com",
-  "status": "failed",
-  "at": "2026-10-18T04:07:14Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "739076a4de352cbe",
   "url": "https://bdnews24.com/neighbours/6boxqnemch",
   "headline": "19 dead in Kolkata Durga Puja stampede; CM announces Rs 2.5 lakh compensation, PM Modi offers aid",
@@ -8398,5 +8314,59 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "c2ec8afc2412aee5",
+  "url": "https://www.dhakatribune.com/bangladesh/422583/bijoya-dashami-wednesday-as-durga-puja-concludes",
+  "headline": "Bijoya Dashami: Durga Puja concludes with idol immersion on Wednesday",
+  "topic": "Bijoya Dashami concludes",
+  "source": "Dhaka Tribune, Jamuna TV, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-21T04:08:22Z"
+ },
+ {
+  "title_hash": "5bd53b360981dbc0",
+  "url": "https://www.jamuna.tv/all-bangladesh/666555",
+  "headline": "Bijoya Dashami: Durga Puja concludes with idol immersion on Wednesday",
+  "topic": "Bijoya Dashami concludes",
+  "source": "Dhaka Tribune, Jamuna TV, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-21T04:08:22Z"
+ },
+ {
+  "title_hash": "08b728c4642e6f11",
+  "url": "https://www.prothomalo.com/opinion/editorial/3u5diwbhrs",
+  "headline": "Bijoya Dashami: Durga Puja concludes with idol immersion on Wednesday",
+  "topic": "Bijoya Dashami concludes",
+  "source": "Dhaka Tribune, Jamuna TV, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-21T04:08:22Z"
+ },
+ {
+  "title_hash": "f8a72588b41ba4a0",
+  "url": "https://www.jamuna.tv/national/666550",
+  "headline": "Bijoya Dashami: Durga Puja concludes with idol immersion on Wednesday",
+  "topic": "Bijoya Dashami concludes",
+  "source": "Dhaka Tribune, Jamuna TV, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-21T04:08:22Z"
+ },
+ {
+  "title_hash": "6f9564fe9c5b30d9",
+  "url": "https://www.prothomalo.com/bangladesh/3nhjismc6y",
+  "headline": "Bijoya Dashami: Durga Puja concludes with idol immersion on Wednesday",
+  "topic": "Bijoya Dashami concludes",
+  "source": "Dhaka Tribune, Jamuna TV, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-21T04:08:22Z"
+ },
+ {
+  "title_hash": "808c31c4c0fc37b9",
+  "url": "https://www.jamuna.tv/all-bangladesh/666557",
+  "headline": "Teenager beaten to death over theft accusation in Jessore",
+  "topic": "Boy beaten to death Jashore",
+  "source": "Jamuna TV",
+  "status": "queued",
+  "at": "2026-10-21T04:08:22Z"
  }
 ]
