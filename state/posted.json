@@ -1,75 +1,5 @@
 [
  {
-  "title_hash": "f017950689a29370",
-  "url": "https://www.thedailystar.net/news/accidents-and-fires/news/least-10-killed-blaze-rips-through-inani-resort-4301316",
-  "headline": "10 killed in Cox's Bazar resort fire; family of four still missing",
-  "topic": "Cox Bazar resort deadly fire",
-  "source": "Dhaka Tribune, bdnews24.com, The Daily Star",
-  "status": "failed",
-  "at": "2026-10-18T01:07:04Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "7c3f913029035965",
-  "url": "https://bdnews24.com/bangladesh/taeuo8qjh9",
-  "headline": "10 killed in Cox's Bazar resort fire; family of four still missing",
-  "topic": "Cox Bazar resort deadly fire",
-  "source": "Dhaka Tribune, bdnews24.com, The Daily Star",
-  "status": "failed",
-  "at": "2026-10-18T01:07:04Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "a4e74aa9bd144fec",
-  "url": "https://bdnews24.com/bangladesh/tcgtuxbh0z",
-  "headline": "10 killed in Cox's Bazar resort fire; family of four still missing",
-  "topic": "Cox Bazar resort deadly fire",
-  "source": "Dhaka Tribune, bdnews24.com, The Daily Star",
-  "status": "failed",
-  "at": "2026-10-18T01:07:04Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "13755735069cbfed",
-  "url": "https://www.thedailystar.net/news/crime-justice/news/youth-arrested-over-journalist-alif-murder-netrokona-4301231",
-  "headline": "Youth arrested in Netrokona over journalist Alif Fakir's murder",
-  "topic": "Netrokona journalist murder arrest",
-  "source": "The Daily Star, Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-10-18T01:07:04Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "9177fe444ed1abec",
-  "url": "https://www.dhakatribune.com/bangladesh/crime/422356/journalist%E2%80%99s-murder-raises-questions-over-ignored",
-  "headline": "Youth arrested in Netrokona over journalist Alif Fakir's murder",
-  "topic": "Netrokona journalist murder arrest",
-  "source": "The Daily Star, Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-10-18T01:07:04Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "82325ed6dd98145b",
   "url": "https://www.dhakatribune.com/bangladesh/422344/blast-calls-for-swift-probe-justice-over-killing",
   "headline": "Youth arrested in Netrokona over journalist Alif Fakir's murder",
@@ -8398,5 +8328,50 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "2cd50c25bd87d630",
+  "url": "https://www.thedailystar.net/sports/football/news/foden-hattrick-fuels-man-city-rout-aek-athens-4303846",
+  "headline": "Foden hat-trick fuels Manchester City's 5-1 rout of AEK Athens in Champions League",
+  "topic": "champions league man city liverpool wins",
+  "source": "The Daily Star, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-21T01:07:11Z"
+ },
+ {
+  "title_hash": "33ca62783545a41f",
+  "url": "https://www.thedailystar.net/sports/football/news/liverpool-strike-back-beat-villarreal-seven-goal-thriller-4303831",
+  "headline": "Foden hat-trick fuels Manchester City's 5-1 rout of AEK Athens in Champions League",
+  "topic": "champions league man city liverpool wins",
+  "source": "The Daily Star, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-21T01:07:11Z"
+ },
+ {
+  "title_hash": "b88d0aba2244ba0c",
+  "url": "https://www.prothomalo.com/sports/football/r507o8wa4r",
+  "headline": "Foden hat-trick fuels Manchester City's 5-1 rout of AEK Athens in Champions League",
+  "topic": "champions league man city liverpool wins",
+  "source": "The Daily Star, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-21T01:07:11Z"
+ },
+ {
+  "title_hash": "9ce5e19eee68d81a",
+  "url": "https://www.thedailystar.net/sports/football/news/psg-strike-late-get-better-yamal-and-barca-4303826",
+  "headline": "PSG secure dramatic 4-2 victory over Barcelona with late strikes in Champions League clash",
+  "topic": "champions league psg barcelona",
+  "source": "The Daily Star, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-21T01:07:11Z"
+ },
+ {
+  "title_hash": "e76fc856f66e9b28",
+  "url": "https://www.prothomalo.com/sports/football/2ejjzcmv9z",
+  "headline": "PSG secure dramatic 4-2 victory over Barcelona with late strikes in Champions League clash",
+  "topic": "champions league psg barcelona",
+  "source": "The Daily Star, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-21T01:07:11Z"
  }
 ]
