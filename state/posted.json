@@ -1,47 +1,5 @@
 [
  {
-  "title_hash": "8b53b40e10db25c9",
-  "url": "https://www.prothomalo.com/bangladesh/sje14x8tfx",
-  "headline": "Dhaka seeks explanation after 2 Bangladeshis executed in Makkah",
-  "topic": "makkah executions bangladeshis",
-  "source": "The Daily Star, bdnews24.com, Jamuna TV, Prothom Alo, Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-10-18T13:08:53Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "ba5db6aab94114c8",
-  "url": "https://www.dhakatribune.com/bangladesh/health/422402/dengue-six-more-die-2088-hospitalized-in-24",
-  "headline": "2,088 hospitalised as 6 more die of dengue in 24 hours",
-  "topic": "dengue death toll october",
-  "source": "Dhaka Tribune, The Daily Star, bdnews24.com, Jamuna TV",
-  "status": "failed",
-  "at": "2026-10-18T13:08:53Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "5b94d80d6da2d3ee",
-  "url": "https://www.thedailystar.net/news/healthcare/disease/news/6-more-die-dengue-2088-hospitalised-24-hours-4301746",
-  "headline": "2,088 hospitalised as 6 more die of dengue in 24 hours",
-  "topic": "dengue death toll october",
-  "source": "Dhaka Tribune, The Daily Star, bdnews24.com, Jamuna TV",
-  "status": "failed",
-  "at": "2026-10-18T13:08:53Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "cb5309261f0a427f",
   "url": "https://bdnews24.com/bangladesh/4u9rhn4hgi",
   "headline": "2,088 hospitalised as 6 more die of dengue in 24 hours",
@@ -8398,5 +8356,32 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "57e5daeb10258cc2",
+  "url": "https://bdnews24.com/technology/fw1zm2trd4",
+  "headline": "$25 billion: Meta ordered to pay massive fine over user privacy",
+  "topic": "meta fined $25bn for privacy violations",
+  "source": "Prothom Alo, bdnews24.com",
+  "status": "queued",
+  "at": "2026-10-21T21:09:43Z"
+ },
+ {
+  "title_hash": "8523dc08b3f351d7",
+  "url": "https://www.prothomalo.com/world/rx7bp02bzh",
+  "headline": "$25 billion: Meta ordered to pay massive fine over user privacy",
+  "topic": "meta fined $25bn for privacy violations",
+  "source": "Prothom Alo, bdnews24.com",
+  "status": "queued",
+  "at": "2026-10-21T21:09:43Z"
+ },
+ {
+  "title_hash": "7dbd54a18015cdff",
+  "url": "https://www.prothomalo.com/world/48c8bk3g4s",
+  "headline": "70% of websites at risk: Global sites shut down over PHP security flaw",
+  "topic": "websites shut down globally due to cyberattack fears",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-21T21:09:43Z"
  }
 ]
