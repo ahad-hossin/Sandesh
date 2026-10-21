@@ -1,47 +1,5 @@
 [
  {
-  "title_hash": "6b7126e7cbc66a74",
-  "url": "https://bdnews24.com/cricket/cqbdzuof12",
-  "headline": "Bangladesh suffers 99-run defeat against Zimbabwe in UAE Tri-Series opener",
-  "topic": "Bangladesh cricket defeat Taskin",
-  "source": "The Daily Star, bdnews24.com, Jamuna TV",
-  "status": "failed",
-  "at": "2026-10-18T02:07:38Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "90db79625640c2ad",
-  "url": "https://www.jamuna.tv/sports/666382",
-  "headline": "Bangladesh suffers 99-run defeat against Zimbabwe in UAE Tri-Series opener",
-  "topic": "Bangladesh cricket defeat Taskin",
-  "source": "The Daily Star, bdnews24.com, Jamuna TV",
-  "status": "failed",
-  "at": "2026-10-18T02:07:38Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "032c64ed095b0c1d",
-  "url": "https://www.jamuna.tv/sports/666376",
-  "headline": "Bangladesh suffers 99-run defeat against Zimbabwe in UAE Tri-Series opener",
-  "topic": "Bangladesh cricket defeat Taskin",
-  "source": "The Daily Star, bdnews24.com, Jamuna TV",
-  "status": "failed",
-  "at": "2026-10-18T02:07:38Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "70509d3457e9f952",
   "url": "https://www.jamuna.tv/international/666387",
   "headline": "1,200 arrested as France protests turn violent, 150 police injured amid arson & looting",
@@ -8398,5 +8356,32 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "5bd53b360981dbc0",
+  "url": "https://www.jamuna.tv/all-bangladesh/666555",
+  "headline": "Bijoya Dashami today as religious rituals mark end of Durga Puja across Bangladesh",
+  "topic": "Bijoya Dashami Celebrations",
+  "source": "Jamuna TV",
+  "status": "queued",
+  "at": "2026-10-21T03:07:15Z"
+ },
+ {
+  "title_hash": "f8a72588b41ba4a0",
+  "url": "https://www.jamuna.tv/national/666550",
+  "headline": "Bijoya Dashami today as religious rituals mark end of Durga Puja across Bangladesh",
+  "topic": "Bijoya Dashami Celebrations",
+  "source": "Jamuna TV",
+  "status": "queued",
+  "at": "2026-10-21T03:07:15Z"
+ },
+ {
+  "title_hash": "a8905f1feb42ad7d",
+  "url": "https://www.prothomalo.com/bangladesh/mkf2is07uv",
+  "headline": "54 Bangladeshis die in Russia-Ukraine war after going for jobs, many more missing",
+  "topic": "Bangladeshi Deaths in Russia War",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-21T03:07:15Z"
  }
 ]
