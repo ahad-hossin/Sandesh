@@ -8349,8 +8349,13 @@
   "headline": "16,000+ police deployed as idol immersion ceremonies take place at 33 points in Dhaka",
   "topic": "durga puja idol immersion security",
   "source": "Jamuna TV",
-  "status": "queued",
-  "at": "2026-10-21T11:10:33Z"
+  "status": "failed",
+  "at": "2026-10-21T11:10:33Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "1c93365d76fc196c",
@@ -8358,8 +8363,13 @@
   "headline": "16,000+ police deployed as idol immersion ceremonies take place at 33 points in Dhaka",
   "topic": "durga puja idol immersion security",
   "source": "Jamuna TV",
-  "status": "queued",
-  "at": "2026-10-21T11:10:33Z"
+  "status": "failed",
+  "at": "2026-10-21T11:10:33Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "4c359f6d7c389169",
@@ -8367,8 +8377,13 @@
   "headline": "Tk 28.11bn spent: Govt scraps Gazipur BRT project after 14 years",
   "topic": "gazipur brt project scrapped",
   "source": "bdnews24.com, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-10-21T11:10:33Z"
+  "status": "failed",
+  "at": "2026-10-21T11:10:33Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "dc98cbf39e33ee3e",
@@ -8376,7 +8391,12 @@
   "headline": "Tk 28.11bn spent: Govt scraps Gazipur BRT project after 14 years",
   "topic": "gazipur brt project scrapped",
   "source": "bdnews24.com, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-10-21T11:10:33Z"
+  "status": "failed",
+  "at": "2026-10-21T11:10:33Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
