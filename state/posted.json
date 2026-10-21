@@ -8349,8 +8349,13 @@
   "headline": "BBS launches first-ever survey of ethnic minorities to map socioeconomic status",
   "topic": "bangladesh conducts first-ever survey of ethnic minorities",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-21T19:09:40Z"
+  "status": "failed",
+  "at": "2026-10-21T19:09:40Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "e6cf83aecf6a0407",
@@ -8358,8 +8363,13 @@
   "headline": "BBS launches first-ever survey of ethnic minorities to map socioeconomic status",
   "topic": "bangladesh conducts first-ever survey of ethnic minorities",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-21T19:09:40Z"
+  "status": "failed",
+  "at": "2026-10-21T19:09:40Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "1f71d7df93026bf8",
@@ -8367,8 +8377,13 @@
   "headline": "3 tourists die, 2 missing after swimming in Cox’s Bazar",
   "topic": "three tourists die, two missing after swimming in Cox's Bazar sea",
   "source": "The Daily Star, Jamuna TV",
-  "status": "queued",
-  "at": "2026-10-21T19:09:40Z"
+  "status": "failed",
+  "at": "2026-10-21T19:09:40Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "e704f04e4a3a8206",
@@ -8376,7 +8391,12 @@
   "headline": "3 tourists die, 2 missing after swimming in Cox’s Bazar",
   "topic": "three tourists die, two missing after swimming in Cox's Bazar sea",
   "source": "The Daily Star, Jamuna TV",
-  "status": "queued",
-  "at": "2026-10-21T19:09:40Z"
+  "status": "failed",
+  "at": "2026-10-21T19:09:40Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
