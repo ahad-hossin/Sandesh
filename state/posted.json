@@ -8363,8 +8363,13 @@
   "headline": "Bijoya Dashami today as religious rituals mark end of Durga Puja across Bangladesh",
   "topic": "Bijoya Dashami Celebrations",
   "source": "Jamuna TV",
-  "status": "queued",
-  "at": "2026-10-21T03:07:15Z"
+  "status": "failed",
+  "at": "2026-10-21T03:07:15Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "f8a72588b41ba4a0",
@@ -8372,8 +8377,13 @@
   "headline": "Bijoya Dashami today as religious rituals mark end of Durga Puja across Bangladesh",
   "topic": "Bijoya Dashami Celebrations",
   "source": "Jamuna TV",
-  "status": "queued",
-  "at": "2026-10-21T03:07:15Z"
+  "status": "failed",
+  "at": "2026-10-21T03:07:15Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "a8905f1feb42ad7d",
@@ -8381,7 +8391,12 @@
   "headline": "54 Bangladeshis die in Russia-Ukraine war after going for jobs, many more missing",
   "topic": "Bangladeshi Deaths in Russia War",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-21T03:07:15Z"
+  "status": "failed",
+  "at": "2026-10-21T03:07:15Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
