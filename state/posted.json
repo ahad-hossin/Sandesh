@@ -1,75 +1,5 @@
 [
  {
-  "title_hash": "739076a4de352cbe",
-  "url": "https://bdnews24.com/neighbours/6boxqnemch",
-  "headline": "19 dead in Kolkata Durga Puja stampede; CM announces Rs 2.5 lakh compensation, PM Modi offers aid",
-  "topic": "kolkata puja stampede",
-  "source": "The Daily Star, Jamuna TV, bdnews24.com",
-  "status": "failed",
-  "at": "2026-10-18T04:07:14Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "ffb7408305bf46f2",
-  "url": "https://www.thedailystar.net/news/bangladesh/news/17-killed-kolkata-durga-puja-stampede-4301361",
-  "headline": "19 dead in Kolkata Durga Puja stampede; CM announces Rs 2.5 lakh compensation, PM Modi offers aid",
-  "topic": "kolkata puja stampede",
-  "source": "The Daily Star, Jamuna TV, bdnews24.com",
-  "status": "failed",
-  "at": "2026-10-18T04:07:14Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "1b04989f712ff201",
-  "url": "https://www.prothomalo.com/bangladesh/district/4mki94l52l",
-  "headline": "BNP leader alleges 'laptops eaten up' by party insiders, questions fertilizer dealership in Joypurhat",
-  "topic": "bnp leader facebook post corruption claim",
-  "source": "Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-18T04:07:14Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "bf05a177c8ff2eee",
-  "url": "https://bdnews24.com/bangladesh/2uyf9znqfc",
-  "headline": "10 killed in Inani resort fire; family of 4 still missing",
-  "topic": "inani resort fire 10 dead",
-  "source": "Prothom Alo, bdnews24.com, The Daily Star",
-  "status": "failed",
-  "at": "2026-10-18T05:08:23Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "b310c0fcebcb846c",
-  "url": "https://www.prothomalo.com/bangladesh/district/tp1i3ocrgh",
-  "headline": "10 killed in Inani resort fire; family of 4 still missing",
-  "topic": "inani resort fire 10 dead",
-  "source": "Prothom Alo, bdnews24.com, The Daily Star",
-  "status": "failed",
-  "at": "2026-10-18T05:08:23Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "c99c8cda563e77d6",
   "url": "https://www.prothomalo.com/bangladesh/jn2onjz795",
   "headline": "10 killed in Inani resort fire; family of 4 still missing",
@@ -8398,5 +8328,50 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "dcd9f154d83a876e",
+  "url": "https://www.dhakatribune.com/bangladesh/dhaka/422585/dhaka-ranks-9th-among-world%E2%80%99s-most-polluted-cities",
+  "headline": "Air Quality: Dhaka ranks 9th most polluted city worldwide",
+  "topic": "dhaka world most polluted city",
+  "source": "Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-10-21T05:08:51Z"
+ },
+ {
+  "title_hash": "f09c659a5050e9b8",
+  "url": "https://bdnews24.com/world/americas/g0ctq3mi9m",
+  "headline": "Over 300,000: Trump administration has revoked over 300,000 visas",
+  "topic": "trump revokes 300k visas",
+  "source": "Jamuna TV, bdnews24.com, Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-10-21T05:08:51Z"
+ },
+ {
+  "title_hash": "dc3c13313553fd17",
+  "url": "https://www.jamuna.tv/international/666556",
+  "headline": "Over 300,000: Trump administration has revoked over 300,000 visas",
+  "topic": "trump revokes 300k visas",
+  "source": "Jamuna TV, bdnews24.com, Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-10-21T05:08:51Z"
+ },
+ {
+  "title_hash": "5fcfdb3930d03804",
+  "url": "https://www.prothomalo.com/world/usa/wrrjv29x3f",
+  "headline": "Over 300,000: Trump administration has revoked over 300,000 visas",
+  "topic": "trump revokes 300k visas",
+  "source": "Jamuna TV, bdnews24.com, Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-10-21T05:08:51Z"
+ },
+ {
+  "title_hash": "c51c9c1ea4352dc9",
+  "url": "https://www.thedailystar.net/news/world/news/trump-administration-says-it-has-revoked-over-300000-visas-4303951",
+  "headline": "Over 300,000: Trump administration has revoked over 300,000 visas",
+  "topic": "trump revokes 300k visas",
+  "source": "Jamuna TV, bdnews24.com, Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-10-21T05:08:51Z"
  }
 ]
