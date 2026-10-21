@@ -1,33 +1,5 @@
 [
  {
-  "title_hash": "c99c8cda563e77d6",
-  "url": "https://www.prothomalo.com/bangladesh/jn2onjz795",
-  "headline": "10 killed in Inani resort fire; family of 4 still missing",
-  "topic": "inani resort fire 10 dead",
-  "source": "Prothom Alo, bdnews24.com, The Daily Star",
-  "status": "failed",
-  "at": "2026-10-18T05:08:23Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "c04beb6d4449d43d",
-  "url": "https://www.thedailystar.net/news/accidents-and-fires/news/if-had-minute-or-two-i-couldve-saved-my-wife-4301306",
-  "headline": "10 killed in Inani resort fire; family of 4 still missing",
-  "topic": "inani resort fire 10 dead",
-  "source": "Prothom Alo, bdnews24.com, The Daily Star",
-  "status": "failed",
-  "at": "2026-10-18T05:08:23Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "f017950689a29370",
   "url": "https://www.thedailystar.net/news/accidents-and-fires/news/least-10-killed-blaze-rips-through-inani-resort-4301316",
   "headline": "10 killed in Inani resort fire; family of 4 still missing",
@@ -8398,5 +8370,23 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "dcd9f154d83a876e",
+  "url": "https://www.dhakatribune.com/bangladesh/dhaka/422585/dhaka-ranks-9th-among-world%E2%80%99s-most-polluted-cities",
+  "headline": "Air Quality Alert: Dhaka ranks 9th most polluted city globally",
+  "topic": "dhaka most polluted city",
+  "source": "Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-10-21T06:09:13Z"
+ },
+ {
+  "title_hash": "c3fc0dcd61ee549e",
+  "url": "https://www.jamuna.tv/national/666564",
+  "headline": "7,963 children killed in road accidents in 6.5 years",
+  "topic": "child road accident deaths",
+  "source": "Jamuna TV",
+  "status": "queued",
+  "at": "2026-10-21T06:09:13Z"
  }
 ]
