@@ -8321,8 +8321,13 @@
   "headline": "Protocol breach: Rajshahi Divisional Commissioner removed after viral video",
   "topic": "rajshahi divisional commissioner removed viral video",
   "source": "bdnews24.com, Dhaka Tribune, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-21T09:08:18Z"
+  "status": "failed",
+  "at": "2026-10-21T09:08:18Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "a3c6c5b52bba57ba",
@@ -8330,8 +8335,13 @@
   "headline": "Protocol breach: Rajshahi Divisional Commissioner removed after viral video",
   "topic": "rajshahi divisional commissioner removed viral video",
   "source": "bdnews24.com, Dhaka Tribune, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-21T09:08:18Z"
+  "status": "failed",
+  "at": "2026-10-21T09:08:18Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "32605ade9995c1f5",
@@ -8339,8 +8349,13 @@
   "headline": "Protocol breach: Rajshahi Divisional Commissioner removed after viral video",
   "topic": "rajshahi divisional commissioner removed viral video",
   "source": "bdnews24.com, Dhaka Tribune, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-21T09:08:18Z"
+  "status": "failed",
+  "at": "2026-10-21T09:08:18Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "c4bf3160c6cfd500",
@@ -8348,8 +8363,13 @@
   "headline": "3 family members critically burned in Tongi gas blast",
   "topic": "tongi gas cylinder explosion",
   "source": "Dhaka Tribune, Jamuna TV, bdnews24.com",
-  "status": "queued",
-  "at": "2026-10-21T09:08:18Z"
+  "status": "failed",
+  "at": "2026-10-21T09:08:18Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "8f16428828cf8581",
@@ -8357,8 +8377,13 @@
   "headline": "3 family members critically burned in Tongi gas blast",
   "topic": "tongi gas cylinder explosion",
   "source": "Dhaka Tribune, Jamuna TV, bdnews24.com",
-  "status": "queued",
-  "at": "2026-10-21T09:08:18Z"
+  "status": "failed",
+  "at": "2026-10-21T09:08:18Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "2c52ce3ca2fb7789",
@@ -8366,7 +8391,12 @@
   "headline": "3 family members critically burned in Tongi gas blast",
   "topic": "tongi gas cylinder explosion",
   "source": "Dhaka Tribune, Jamuna TV, bdnews24.com",
-  "status": "queued",
-  "at": "2026-10-21T09:08:18Z"
+  "status": "failed",
+  "at": "2026-10-21T09:08:18Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
