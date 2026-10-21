@@ -1,61 +1,5 @@
 [
  {
-  "title_hash": "c99c8cda563e77d6",
-  "url": "https://www.prothomalo.com/bangladesh/jn2onjz795",
-  "headline": "10 killed in Cox's Bazar resort fire: Police sue resort owner, manager arrested",
-  "topic": "coxs bazar resort fire",
-  "source": "Dhaka Tribune, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-10-18T08:08:48Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "28dcb265e121a0db",
-  "url": "https://www.thedailystar.net/news/news/dmp-orders-probe-ishraques-display-firearms-during-anti-drug-drive-4301586",
-  "headline": "DMP orders probe into State Minister Ishraque's display of firearms",
-  "topic": "ishraque hossain firearms controversy",
-  "source": "Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-10-18T08:08:48Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "26940a6a0c62d914",
-  "url": "https://www.prothomalo.com/bangladesh/dc0pb2whll",
-  "headline": "DMP orders probe into State Minister Ishraque's display of firearms",
-  "topic": "ishraque hossain firearms controversy",
-  "source": "Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-10-18T08:08:48Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "b36d5de897bc83cf",
-  "url": "https://www.thedailystar.net/news/bangladesh/news/arms-brandishing-ishraques-anti-drug-drive-stirs-outrage-4301326",
-  "headline": "DMP orders probe into State Minister Ishraque's display of firearms",
-  "topic": "ishraque hossain firearms controversy",
-  "source": "Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-10-18T08:08:48Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "28dcb265e121a0db",
   "url": "https://www.thedailystar.net/news/news/dmp-orders-probe-ishraques-display-firearms-during-anti-drug-drive-4301586",
   "headline": "DMP probe into State Minister Ishraque's use of firearms during anti-drug drive",
@@ -8398,5 +8342,41 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "e99f8475bc55f225",
+  "url": "https://www.jamuna.tv/national/666589",
+  "headline": "16,000+ police deployed as idol immersion ceremonies take place at 33 points in Dhaka",
+  "topic": "durga puja idol immersion security",
+  "source": "Jamuna TV",
+  "status": "queued",
+  "at": "2026-10-21T11:10:33Z"
+ },
+ {
+  "title_hash": "1c93365d76fc196c",
+  "url": "https://www.jamuna.tv/health/666583",
+  "headline": "16,000+ police deployed as idol immersion ceremonies take place at 33 points in Dhaka",
+  "topic": "durga puja idol immersion security",
+  "source": "Jamuna TV",
+  "status": "queued",
+  "at": "2026-10-21T11:10:33Z"
+ },
+ {
+  "title_hash": "4c359f6d7c389169",
+  "url": "https://bdnews24.com/bangladesh/geln2u4nqa",
+  "headline": "Tk 28.11bn spent: Govt scraps Gazipur BRT project after 14 years",
+  "topic": "gazipur brt project scrapped",
+  "source": "bdnews24.com, Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-10-21T11:10:33Z"
+ },
+ {
+  "title_hash": "dc98cbf39e33ee3e",
+  "url": "https://www.dhakatribune.com/bangladesh/422598/tk2-811cr-spent-no-buses-run-as-govt-scraps",
+  "headline": "Tk 28.11bn spent: Govt scraps Gazipur BRT project after 14 years",
+  "topic": "gazipur brt project scrapped",
+  "source": "bdnews24.com, Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-10-21T11:10:33Z"
  }
 ]
