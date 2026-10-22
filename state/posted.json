@@ -1,61 +1,5 @@
 [
  {
-  "title_hash": "0ef49ab341cfe4de",
-  "url": "https://www.prothomalo.com/bangladesh/dupure-pdtyaager-ghossnnaa-deben-prtimntrii-ishraak",
-  "headline": "Ishraque Hossain to resign as State Minister today at 2pm",
-  "topic": "ishraque hossain resignation",
-  "source": "Dhaka Tribune, Jamuna TV, The Daily Star, bdnews24.com, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-19T07:09:37Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "8a8a39158c15edca",
-  "url": "https://www.prothomalo.com/bangladesh/mgu4o4lfwl",
-  "headline": "Ishraque Hossain to resign as State Minister today at 2pm",
-  "topic": "ishraque hossain resignation",
-  "source": "Dhaka Tribune, Jamuna TV, The Daily Star, bdnews24.com, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-19T07:09:37Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "fbe457eb0bf01fa2",
-  "url": "https://www.prothomalo.com/bangladesh/bdey25exfn",
-  "headline": "Ishraque Hossain to resign as State Minister today at 2pm",
-  "topic": "ishraque hossain resignation",
-  "source": "Dhaka Tribune, Jamuna TV, The Daily Star, bdnews24.com, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-19T07:09:37Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "3b9338e4901c975b",
-  "url": "https://www.dhakatribune.com/bangladesh/422446/pm-inaugurates-july-memorial-renovated-osmani",
-  "headline": "PM inaugurates July Memorial and renovated Osmani Udyan in Dhaka",
-  "topic": "pm inaugurates july memorial",
-  "source": "Dhaka Tribune, Prothom Alo, Jamuna TV, The Daily Star",
-  "status": "failed",
-  "at": "2026-10-19T07:09:37Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "d4a44f9e4c33ef11",
   "url": "https://www.prothomalo.com/bangladesh/capital/fvahzp5ap1",
   "headline": "PM inaugurates July Memorial and renovated Osmani Udyan in Dhaka",
@@ -8353,5 +8297,41 @@
   "source": "Prothom Alo, bdnews24.com, Jamuna TV, Dhaka Tribune",
   "status": "queued",
   "at": "2026-10-22T17:08:33Z"
+ },
+ {
+  "title_hash": "a8c6529db94042e9",
+  "url": "https://bdnews24.com/economy/825yo5dp8f",
+  "headline": "$6.36bn boost: Japan to arrange private investments in Bangladesh",
+  "topic": "japan investment bangladesh",
+  "source": "bdnews24.com, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-22T18:11:49Z"
+ },
+ {
+  "title_hash": "7e68aa800e043663",
+  "url": "https://www.prothomalo.com/bangladesh/30bfznkol2",
+  "headline": "$6.36bn boost: Japan to arrange private investments in Bangladesh",
+  "topic": "japan investment bangladesh",
+  "source": "bdnews24.com, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-22T18:11:49Z"
+ },
+ {
+  "title_hash": "dcc23630e9c5a43b",
+  "url": "https://bdnews24.com/bangladesh/zffcx2s1h4",
+  "headline": "5 tourists killed in Cox's Bazar drowning after strong currents sweep them away",
+  "topic": "coxs bazar tourist death",
+  "source": "bdnews24.com, Jamuna TV",
+  "status": "queued",
+  "at": "2026-10-22T18:11:49Z"
+ },
+ {
+  "title_hash": "dab5a066a2d77bc3",
+  "url": "https://www.jamuna.tv/all-bangladesh/666661",
+  "headline": "5 tourists killed in Cox's Bazar drowning after strong currents sweep them away",
+  "topic": "coxs bazar tourist death",
+  "source": "bdnews24.com, Jamuna TV",
+  "status": "queued",
+  "at": "2026-10-22T18:11:49Z"
  }
 ]
