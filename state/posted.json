@@ -1,47 +1,5 @@
 [
  {
-  "title_hash": "d4a44f9e4c33ef11",
-  "url": "https://www.prothomalo.com/bangladesh/capital/fvahzp5ap1",
-  "headline": "PM inaugurates July Memorial and renovated Osmani Udyan in Dhaka",
-  "topic": "pm inaugurates july memorial",
-  "source": "Dhaka Tribune, Prothom Alo, Jamuna TV, The Daily Star",
-  "status": "failed",
-  "at": "2026-10-19T07:09:37Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "2761bf2e620bf9ef",
-  "url": "https://www.jamuna.tv/national/666446",
-  "headline": "PM inaugurates July Memorial and renovated Osmani Udyan in Dhaka",
-  "topic": "pm inaugurates july memorial",
-  "source": "Dhaka Tribune, Prothom Alo, Jamuna TV, The Daily Star",
-  "status": "failed",
-  "at": "2026-10-19T07:09:37Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "3b9338e4901c975b",
-  "url": "https://www.thedailystar.net/news/governance/news/pm-inaugurates-july-memorial-renovated-osmani-udyan-4302331",
-  "headline": "PM inaugurates July Memorial and renovated Osmani Udyan in Dhaka",
-  "topic": "pm inaugurates july memorial",
-  "source": "Dhaka Tribune, Prothom Alo, Jamuna TV, The Daily Star",
-  "status": "failed",
-  "at": "2026-10-19T07:09:37Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "93e42ea3f437f371",
   "url": "https://www.dhakatribune.com/bangladesh/politics/422440/ishraque-to-announce-resignation-decision-at-2pm",
   "headline": "Ishraque Hossain to announce resignation as state minister today",
@@ -8353,5 +8311,32 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "e9d65471a64b9913",
+  "url": "https://www.jamuna.tv/campus/666668",
+  "headline": "RU student Chesi Tripura dies after road accident",
+  "topic": "rubi student chesi tripura death",
+  "source": "Jamuna TV",
+  "status": "queued",
+  "at": "2026-10-22T19:09:08Z"
+ },
+ {
+  "title_hash": "f06fe9e0179dfe28",
+  "url": "https://bdnews24.com/economy/825yo5dp8f",
+  "headline": "Japan to arrange $6.36bn private investment in Bangladesh",
+  "topic": "japan investment bangladesh",
+  "source": "bdnews24.com, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-22T19:09:08Z"
+ },
+ {
+  "title_hash": "7e68aa800e043663",
+  "url": "https://www.prothomalo.com/bangladesh/30bfznkol2",
+  "headline": "Japan to arrange $6.36bn private investment in Bangladesh",
+  "topic": "japan investment bangladesh",
+  "source": "bdnews24.com, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-22T19:09:08Z"
  }
 ]
