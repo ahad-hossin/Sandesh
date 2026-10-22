@@ -8304,8 +8304,13 @@
   "headline": "$6.36bn boost: Japan to arrange private investments in Bangladesh",
   "topic": "japan investment bangladesh",
   "source": "bdnews24.com, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-22T18:11:49Z"
+  "status": "failed",
+  "at": "2026-10-22T18:11:49Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "7e68aa800e043663",
@@ -8313,8 +8318,13 @@
   "headline": "$6.36bn boost: Japan to arrange private investments in Bangladesh",
   "topic": "japan investment bangladesh",
   "source": "bdnews24.com, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-22T18:11:49Z"
+  "status": "failed",
+  "at": "2026-10-22T18:11:49Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "dcc23630e9c5a43b",
@@ -8322,8 +8332,13 @@
   "headline": "5 tourists killed in Cox's Bazar drowning after strong currents sweep them away",
   "topic": "coxs bazar tourist death",
   "source": "bdnews24.com, Jamuna TV",
-  "status": "queued",
-  "at": "2026-10-22T18:11:49Z"
+  "status": "failed",
+  "at": "2026-10-22T18:11:49Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "dab5a066a2d77bc3",
@@ -8331,7 +8346,12 @@
   "headline": "5 tourists killed in Cox's Bazar drowning after strong currents sweep them away",
   "topic": "coxs bazar tourist death",
   "source": "bdnews24.com, Jamuna TV",
-  "status": "queued",
-  "at": "2026-10-22T18:11:49Z"
+  "status": "failed",
+  "at": "2026-10-22T18:11:49Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
