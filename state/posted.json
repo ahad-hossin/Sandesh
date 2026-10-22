@@ -1,61 +1,5 @@
 [
  {
-  "title_hash": "0ef49ab341cfe4de",
-  "url": "https://www.prothomalo.com/bangladesh/dupure-pdtyaager-ghossnnaa-deben-prtimntrii-ishraak",
-  "headline": "State Minister Ishraque Hossain to announce resignation at 2 PM today",
-  "topic": "ishraque-resignation",
-  "source": "Dhaka Tribune, Prothom Alo, Jamuna TV, The Daily Star, bdnews24.com",
-  "status": "failed",
-  "at": "2026-10-19T06:10:13Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "8a8a39158c15edca",
-  "url": "https://www.prothomalo.com/bangladesh/mgu4o4lfwl",
-  "headline": "State Minister Ishraque Hossain to announce resignation at 2 PM today",
-  "topic": "ishraque-resignation",
-  "source": "Dhaka Tribune, Prothom Alo, Jamuna TV, The Daily Star, bdnews24.com",
-  "status": "failed",
-  "at": "2026-10-19T06:10:13Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "fbe457eb0bf01fa2",
-  "url": "https://www.prothomalo.com/bangladesh/bdey25exfn",
-  "headline": "State Minister Ishraque Hossain to announce resignation at 2 PM today",
-  "topic": "ishraque-resignation",
-  "source": "Dhaka Tribune, Prothom Alo, Jamuna TV, The Daily Star, bdnews24.com",
-  "status": "failed",
-  "at": "2026-10-19T06:10:13Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "989847f2f57d5f47",
-  "url": "https://bdnews24.com/bangladesh/tf5uc5elwf",
-  "headline": "Police recover bomb-like device near Lalon Shah shrine in Kushtia",
-  "topic": "bomb-found-lalon-shrine",
-  "source": "Prothom Alo, bdnews24.com, The Daily Star",
-  "status": "failed",
-  "at": "2026-10-19T06:10:13Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "69686ae1c6358b03",
   "url": "https://www.prothomalo.com/bangladesh/district/61ddojy6q9",
   "headline": "Police recover bomb-like device near Lalon Shah shrine in Kushtia",
@@ -8398,5 +8342,41 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "c7a1ee5d8e3b86ad",
+  "url": "https://bdnews24.com/bangladesh/qv9tsmhioa",
+  "headline": "Cyber threat: Bangladesh Bank takes website offline as precaution",
+  "topic": "bb-website-offline-cyber-fears",
+  "source": "bdnews24.com, Jamuna TV",
+  "status": "queued",
+  "at": "2026-10-22T16:08:50Z"
+ },
+ {
+  "title_hash": "77370be95ff4361d",
+  "url": "https://www.jamuna.tv/economy/666659",
+  "headline": "Cyber threat: Bangladesh Bank takes website offline as precaution",
+  "topic": "bb-website-offline-cyber-fears",
+  "source": "bdnews24.com, Jamuna TV",
+  "status": "queued",
+  "at": "2026-10-22T16:08:50Z"
+ },
+ {
+  "title_hash": "2d63434adc5761a0",
+  "url": "https://bdnews24.com/world/xkke66ivxn",
+  "headline": "Magnitude 7 earthquake strikes Tibet, China",
+  "topic": "tibet-magnitude-7-earthquake",
+  "source": "Jamuna TV, bdnews24.com",
+  "status": "queued",
+  "at": "2026-10-22T16:08:50Z"
+ },
+ {
+  "title_hash": "bd88888a7455ad82",
+  "url": "https://www.jamuna.tv/international/666662",
+  "headline": "Magnitude 7 earthquake strikes Tibet, China",
+  "topic": "tibet-magnitude-7-earthquake",
+  "source": "Jamuna TV, bdnews24.com",
+  "status": "queued",
+  "at": "2026-10-22T16:08:50Z"
  }
 ]

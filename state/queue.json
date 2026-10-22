@@ -1,1 +1,73 @@
-[]
+[
+ {
+  "topic": "bb-website-offline-cyber-fears",
+  "headline_marked": "Cyber threat: [[Bangladesh Bank takes website offline]] as precaution",
+  "headline": "Cyber threat: Bangladesh Bank takes website offline as precaution",
+  "summary": "The central bank moved to protect its systems against potential global cyberattacks following security warnings from the European Union.",
+  "category": "TECH",
+  "template": "impact",
+  "details": [
+   "Bangladesh Bank has taken its website offline as a precautionary measure against potential global cyberattacks. Central bank spokesperson Arief Hossain Khan confirmed the move on Thursday.",
+   "The decision follows advice from the European Union's cybersecurity agency, which identified two severe security flaws in PHP, a widely used programming language.",
+   "The EU agency advised temporarily shutting down vulnerable websites if security updates cannot be applied quickly. The PHP development team has since announced emergency patches to resolve these vulnerabilities.",
+   "The BGD e-Gov CIRT, the state agency responsible for cybersecurity alerts, identified these critical vulnerabilities as \"PHP2Shell,\" which could allow unauthorized individuals to breach security systems.",
+   "While the central bank took this action, other financial regulators including the BSEC, DSE, and IDRA have kept their websites operational.",
+   "Similar precautionary measures have been reported in several European government agencies, which also took their websites offline due to the same flaws."
+  ],
+  "caption": "Bangladesh Bank's website is down. The reason? A global cyber threat known as 'PHP2Shell'.\n\nBangladesh Bank has taken its website offline as a precautionary measure against potential global cyberattacks. Central bank spokesperson Arief Hossain Khan confirmed the move on Thursday.\n\nThe decision follows advice from the European Union's cybersecurity agency, which identified two severe security flaws in PHP, a widely used programming language.\n\nThe EU agency advised temporarily shutting down vulnerable websites if security updates cannot be applied quickly. The PHP development team has since announced emergency patches to resolve these vulnerabilities.\n\nThe BGD e-Gov CIRT, the state agency responsible for cybersecurity alerts, identified these critical vulnerabilities as \"PHP2Shell,\" which could allow unauthorized individuals to breach security systems.\n\nWhile the central bank took this action, other financial regulators including the BSEC, DSE, and IDRA have kept their websites operational.\n\nSimilar precautionary measures have been reported in several European government agencies, which also took their websites offline due to the same flaws.\n\n#BangladeshBank #CyberSecurity #TechNews #PHP2Shell #Bangladesh\n\nSource: bdnews24.com, Jamuna TV",
+  "tweet": "Bangladesh Bank has taken its website offline as a precaution against global cyberattacks following 'PHP2Shell' vulnerabilities. #CyberSecurity #BangladeshBank #TechNews",
+  "story_risk": "clean",
+  "location": "Dhaka",
+  "photo_credit": "bdnews24.com",
+  "source": "bdnews24.com, Jamuna TV",
+  "url": "https://bdnews24.com/bangladesh/qv9tsmhioa",
+  "orig_title": "BB takes website offline over cyber fears",
+  "cluster_urls": [
+   "https://bdnews24.com/bangladesh/qv9tsmhioa",
+   "https://www.jamuna.tv/economy/666659"
+  ],
+  "cluster_titles": [
+   "BB takes website offline over cyber fears",
+   "সাইবার নিরাপত্তাঝুঁকিতে বাংলাদেশ ব্যাংকের ওয়েবসাইট বন্ধ"
+  ],
+  "image_files": [
+   "20261022-2208-0-cyber-threat-bangladesh-bank-takes-website-o.png",
+   "20261022-2208-0-cyber-threat-bangladesh-bank-takes-website-o-d1.png",
+   "20261022-2208-0-cyber-threat-bangladesh-bank-takes-website-o-d2.png"
+  ]
+ },
+ {
+  "topic": "tibet-magnitude-7-earthquake",
+  "headline_marked": "Magnitude 7 [[earthquake strikes Tibet]], China",
+  "headline": "Magnitude 7 earthquake strikes Tibet, China",
+  "summary": "The quake hit a high-altitude county in Nagqu, northern Tibet, at a depth of 10 km.",
+  "category": "WORLD",
+  "template": "breaking",
+  "details": [
+   "An earthquake of magnitude 7 struck China's Tibet on Thursday night, according to the China Earthquake Networks Center (CENC).",
+   "The epicenter was located in a high-altitude county in Nagqu, northern Tibet, at a depth of 10 km (6.21 miles).",
+   "Data from the CENC showed that the average elevation within 5km of the epicenter was approximately 4,864 metres.",
+   "The tremor was clearly felt in the local area, though the epicenter was roughly 400 km away from the Tibetan capital of Lhasa."
+  ],
+  "caption": "A magnitude 7 earthquake has struck northern Tibet.\n\nAn earthquake of magnitude 7 struck China's Tibet on Thursday night, according to the China Earthquake Networks Center (CENC).\n\nThe epicenter was located in a high-altitude county in Nagqu, northern Tibet, at a depth of 10 km (6.21 miles).\n\nData from the CENC showed that the average elevation within 5km of the epicenter was approximately 4,864 metres.\n\nThe tremor was clearly felt in the local area, though the epicenter was roughly 400 km away from the Tibetan capital of Lhasa.\n\n#Tibet #Earthquake #China #NaturalDisaster #WorldNews\n\nSource: Jamuna TV, bdnews24.com",
+  "tweet": "A magnitude 7 earthquake has struck northern Tibet. The quake hit a high-altitude county in Nagqu at a depth of 10 km. #Tibet #Earthquake #China",
+  "story_risk": "sensitive",
+  "location": "Nagqu",
+  "photo_credit": "bdnews24.com",
+  "source": "Jamuna TV, bdnews24.com",
+  "url": "https://bdnews24.com/world/xkke66ivxn",
+  "orig_title": "Magnitude-7 earthquake strikes Tibet",
+  "cluster_urls": [
+   "https://www.jamuna.tv/international/666662",
+   "https://bdnews24.com/world/xkke66ivxn"
+  ],
+  "cluster_titles": [
+   "তিব্বতে ৭ মাত্রার ভূমিকম্প অনুভূত",
+   "Magnitude-7 earthquake strikes Tibet"
+  ],
+  "image_files": [
+   "20261022-2208-1-magnitude-7-earthquake-strikes-tibet-china.png",
+   "20261022-2208-1-magnitude-7-earthquake-strikes-tibet-china-d1.png"
+  ]
+ }
+]
