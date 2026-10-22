@@ -8318,8 +8318,13 @@
   "headline": "RU student Chesi Tripura dies after road accident",
   "topic": "rubi student chesi tripura death",
   "source": "Jamuna TV",
-  "status": "queued",
-  "at": "2026-10-22T19:09:08Z"
+  "status": "failed",
+  "at": "2026-10-22T19:09:08Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "f06fe9e0179dfe28",
@@ -8327,8 +8332,13 @@
   "headline": "Japan to arrange $6.36bn private investment in Bangladesh",
   "topic": "japan investment bangladesh",
   "source": "bdnews24.com, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-22T19:09:08Z"
+  "status": "failed",
+  "at": "2026-10-22T19:09:08Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "7e68aa800e043663",
@@ -8336,7 +8346,12 @@
   "headline": "Japan to arrange $6.36bn private investment in Bangladesh",
   "topic": "japan investment bangladesh",
   "source": "bdnews24.com, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-22T19:09:08Z"
+  "status": "failed",
+  "at": "2026-10-22T19:09:08Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
