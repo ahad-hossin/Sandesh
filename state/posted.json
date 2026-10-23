@@ -8245,8 +8245,13 @@
   "headline": "Tongi gas leak: Teenager dies after parents in fire",
   "topic": "tongi gas cylinder blast girl dies",
   "source": "Dhaka Tribune, The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-23T14:18:45Z"
+  "status": "failed",
+  "at": "2026-10-23T14:18:45Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "fb77664800aa7fbe",
@@ -8254,8 +8259,13 @@
   "headline": "Tongi gas leak: Teenager dies after parents in fire",
   "topic": "tongi gas cylinder blast girl dies",
   "source": "Dhaka Tribune, The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-23T14:18:45Z"
+  "status": "failed",
+  "at": "2026-10-23T14:18:45Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "2085e5417ed24851",
@@ -8263,8 +8273,13 @@
   "headline": "Tongi gas leak: Teenager dies after parents in fire",
   "topic": "tongi gas cylinder blast girl dies",
   "source": "Dhaka Tribune, The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-23T14:18:45Z"
+  "status": "failed",
+  "at": "2026-10-23T14:18:45Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "381a069f50a5e286",
@@ -8272,8 +8287,13 @@
   "headline": "3 killed in ambulance-bus collision in Faridpur",
   "topic": "ambulance bus collision kills three",
   "source": "The Daily Star, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-10-23T14:18:45Z"
+  "status": "failed",
+  "at": "2026-10-23T14:18:45Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "a8eb9840ed801756",
@@ -8281,7 +8301,12 @@
   "headline": "3 killed in ambulance-bus collision in Faridpur",
   "topic": "ambulance bus collision kills three",
   "source": "The Daily Star, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-10-23T14:18:45Z"
+  "status": "failed",
+  "at": "2026-10-23T14:18:45Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
