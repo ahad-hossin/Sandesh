@@ -8273,8 +8273,13 @@
   "headline": "Crude bomb explodes in front of old Ramna Police Station",
   "topic": "ramna police station bomb blast",
   "source": "Dhaka Tribune, bdnews24.com",
-  "status": "queued",
-  "at": "2026-10-23T19:24:25Z"
+  "status": "failed",
+  "at": "2026-10-23T19:24:25Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "90e67e455722c658",
@@ -8282,8 +8287,13 @@
   "headline": "Crude bomb explodes in front of old Ramna Police Station",
   "topic": "ramna police station bomb blast",
   "source": "Dhaka Tribune, bdnews24.com",
-  "status": "queued",
-  "at": "2026-10-23T19:24:25Z"
+  "status": "failed",
+  "at": "2026-10-23T19:24:25Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "ac61ff7610b8709d",
@@ -8291,7 +8301,12 @@
   "headline": "£15M flat in London frozen by UK High Court for former Land Minister's brother",
   "topic": "former land minister brother flat seized london",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-23T19:24:25Z"
+  "status": "failed",
+  "at": "2026-10-23T19:24:25Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
