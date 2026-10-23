@@ -1,47 +1,5 @@
 [
  {
-  "title_hash": "c6f79750ae81c63c",
-  "url": "https://bdnews24.com/bangladesh/v470199nec",
-  "headline": "Controversy: Ishraque Hossain resigns as state minister to avoid party embarrassment",
-  "topic": "ishraque-resigns-state-minister",
-  "source": "Dhaka Tribune, bdnews24.com, The Daily Star, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-19T10:11:30Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "80bbc974582ea8a8",
-  "url": "https://www.thedailystar.net/news/news/the-alarming-vigilantism-ishraque-hossain-4302411",
-  "headline": "Controversy: Ishraque Hossain resigns as state minister to avoid party embarrassment",
-  "topic": "ishraque-resigns-state-minister",
-  "source": "Dhaka Tribune, bdnews24.com, The Daily Star, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-19T10:11:30Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "1c33511b06d84ba0",
-  "url": "https://www.prothomalo.com/politics/1e68t6pn4b",
-  "headline": "Controversy: Ishraque Hossain resigns as state minister to avoid party embarrassment",
-  "topic": "ishraque-resigns-state-minister",
-  "source": "Dhaka Tribune, bdnews24.com, The Daily Star, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-19T10:11:30Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "66650a16f1a59fae",
   "url": "https://www.jamuna.tv/national/666441",
   "headline": "Controversy: Ishraque Hossain resigns as state minister to avoid party embarrassment",
@@ -8353,5 +8311,32 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "3d725e68c364cecf",
+  "url": "https://www.prothomalo.com/education/69gytnxx9z",
+  "headline": "Secondary textbook printing lags as new academic year approaches; 4 new books await approval",
+  "topic": "textbook printing progress",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-23T03:09:00Z"
+ },
+ {
+  "title_hash": "b652abc75412bd55",
+  "url": "https://www.thedailystar.net/news/bangladesh/news/gunshots-shatter-sajek-serenity-4305446",
+  "headline": "3,000 tourists stranded in Sajek after clashes and reported gunfight; 7 security personnel injured",
+  "topic": "sajek clashes tourists stranded",
+  "source": "The Daily Star, Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-10-23T03:09:00Z"
+ },
+ {
+  "title_hash": "1b0ebce44c497136",
+  "url": "https://www.dhakatribune.com/bangladesh/nation/422713/rangamati-khagrachhari-roads-and-waterways-to",
+  "headline": "3,000 tourists stranded in Sajek after clashes and reported gunfight; 7 security personnel injured",
+  "topic": "sajek clashes tourists stranded",
+  "source": "The Daily Star, Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-10-23T03:09:00Z"
  }
 ]
