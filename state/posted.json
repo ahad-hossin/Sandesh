@@ -1,33 +1,5 @@
 [
  {
-  "title_hash": "cae68cf36e3ee90c",
-  "url": "https://www.prothomalo.com/bangladesh/prtimntriir-pd-chaarraar-ghossnnaa-ishraaker",
-  "headline": "Controversy: Ishraque Hossain resigns as state minister to avoid party embarrassment",
-  "topic": "ishraque-resigns-state-minister",
-  "source": "Dhaka Tribune, bdnews24.com, The Daily Star, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-19T10:11:30Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "93e42ea3f437f371",
-  "url": "https://www.dhakatribune.com/bangladesh/politics/422440/ishraque-to-announce-resignation-decision-at-2pm",
-  "headline": "Controversy: Ishraque Hossain resigns as state minister to avoid party embarrassment",
-  "topic": "ishraque-resigns-state-minister",
-  "source": "Dhaka Tribune, bdnews24.com, The Daily Star, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-19T10:11:30Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "c6f79750ae81c63c",
   "url": "https://bdnews24.com/bangladesh/v470199nec",
   "headline": "Controversy: Ishraque Hossain resigns as state minister to avoid party embarrassment",
@@ -8353,5 +8325,23 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "b55b1ef39d8596f1",
+  "url": "https://www.thedailystar.net/news/crime-justice/news/jubo-dal-leader-hacked-death-narayanganj-4305506",
+  "headline": "Jubo Dal leader hacked to death in Narayanganj",
+  "topic": "jubo dal leader murdered narayanganj",
+  "source": "The Daily Star",
+  "status": "queued",
+  "at": "2026-10-23T02:10:13Z"
+ },
+ {
+  "title_hash": "842b882f9c16d1f5",
+  "url": "https://www.thedailystar.net/news/crime-justice/news/mob-kills-paralysed-man-city-hospital-4305481",
+  "headline": "Mob kills paralysed man at Dhaka hospital over child kidnapping suspicion",
+  "topic": "paralysed man mob killing hospital",
+  "source": "The Daily Star",
+  "status": "queued",
+  "at": "2026-10-23T02:10:13Z"
  }
 ]
