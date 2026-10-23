@@ -8290,8 +8290,13 @@
   "headline": "1,207 deaths as measles outbreak hits Bangladesh",
   "topic": "measles outbreak death toll rises",
   "source": "Dhaka Tribune, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-23T10:19:40Z"
+  "status": "failed",
+  "at": "2026-10-23T10:19:40Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "fade9436f5f0d40e",
@@ -8299,8 +8304,13 @@
   "headline": "1,207 deaths as measles outbreak hits Bangladesh",
   "topic": "measles outbreak death toll rises",
   "source": "Dhaka Tribune, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-23T10:19:40Z"
+  "status": "failed",
+  "at": "2026-10-23T10:19:40Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "4a8d9fc10accfa9a",
@@ -8308,8 +8318,13 @@
   "headline": "7,500 Bangladeshis held in Saudi prisons, says State Minister Shama",
   "topic": "thousands of Bangladeshis imprisoned in Saudi Arabia",
   "source": "bdnews24.com, The Daily Star, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-10-23T10:19:40Z"
+  "status": "failed",
+  "at": "2026-10-23T10:19:40Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "a090c826d2d92134",
@@ -8317,8 +8332,13 @@
   "headline": "7,500 Bangladeshis held in Saudi prisons, says State Minister Shama",
   "topic": "thousands of Bangladeshis imprisoned in Saudi Arabia",
   "source": "bdnews24.com, The Daily Star, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-10-23T10:19:40Z"
+  "status": "failed",
+  "at": "2026-10-23T10:19:40Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "4c4774ba40d4b0b6",
@@ -8326,7 +8346,12 @@
   "headline": "7,500 Bangladeshis held in Saudi prisons, says State Minister Shama",
   "topic": "thousands of Bangladeshis imprisoned in Saudi Arabia",
   "source": "bdnews24.com, The Daily Star, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-10-23T10:19:40Z"
+  "status": "failed",
+  "at": "2026-10-23T10:19:40Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
