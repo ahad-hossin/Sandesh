@@ -8259,8 +8259,13 @@
   "headline": "22,000 passengers affected as 141 Saudi Arabia-bound flights disrupted",
   "topic": "saudi flights disrupted houthi attacks",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-23T20:10:37Z"
+  "status": "failed",
+  "at": "2026-10-23T20:10:37Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "a916ab1f830ae4a2",
@@ -8268,8 +8273,13 @@
   "headline": "Father and 2-year-old daughter killed in Chattogram road crash",
   "topic": "ctg road crash bus torched",
   "source": "The Daily Star, bdnews24.com, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-23T20:10:37Z"
+  "status": "failed",
+  "at": "2026-10-23T20:10:37Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "21b5651304335cc0",
@@ -8277,8 +8287,13 @@
   "headline": "Father and 2-year-old daughter killed in Chattogram road crash",
   "topic": "ctg road crash bus torched",
   "source": "The Daily Star, bdnews24.com, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-23T20:10:37Z"
+  "status": "failed",
+  "at": "2026-10-23T20:10:37Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "92633211d816d5b9",
@@ -8286,7 +8301,12 @@
   "headline": "Father and 2-year-old daughter killed in Chattogram road crash",
   "topic": "ctg road crash bus torched",
   "source": "The Daily Star, bdnews24.com, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-23T20:10:37Z"
+  "status": "failed",
+  "at": "2026-10-23T20:10:37Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
