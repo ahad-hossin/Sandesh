@@ -1,47 +1,5 @@
 [
  {
-  "title_hash": "cabd290c34a07865",
-  "url": "https://www.dhakatribune.com/bangladesh/health/422469/measles-outbreak-death-toll-reaches-1-201-as-five",
-  "headline": "1,201 dead as measles outbreak death toll rises",
-  "topic": "measles outbreak: death toll reaches 1201",
-  "source": "Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-10-19T12:15:38Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "2e8d93bf17dd6b8a",
-  "url": "https://www.jamuna.tv/national/666463",
-  "headline": "5 children died with measles symptoms in 24 hours",
-  "topic": "five deaths from measles symptoms in 24 hours",
-  "source": "Jamuna TV",
-  "status": "failed",
-  "at": "2026-10-19T12:15:38Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "a7115c755acdfd3c",
-  "url": "https://www.thedailystar.net/news/healthcare/disease/news/4-die-dengue-1851-hospitalised-24-hours-4302571",
-  "headline": "4 die of dengue in 24 hours, 1,851 hospitalised",
-  "topic": "dengue death toll rise",
-  "source": "The Daily Star, Dhaka Tribune, Jamuna TV",
-  "status": "failed",
-  "at": "2026-10-19T13:11:27Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "c1b6e2105c9b4d72",
   "url": "https://www.dhakatribune.com/bangladesh/health/422479/dengue-death-toll-reaches-352-as-4-more-die",
   "headline": "4 die of dengue in 24 hours, 1,851 hospitalised",
@@ -8353,5 +8311,32 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "a090c826d2d92134",
+  "url": "https://www.thedailystar.net/news/bangladesh/diplomacy/news/around-7500-bangladeshis-held-saudi-prisons-shama-obaed-4305636",
+  "headline": "7,500 Bangladeshis held in Saudi prisons, says State Minister",
+  "topic": "vegetable gardens on dhaka landfill",
+  "source": "The Daily Star",
+  "status": "queued",
+  "at": "2026-10-23T09:10:05Z"
+ },
+ {
+  "title_hash": "4c4774ba40d4b0b6",
+  "url": "https://www.dhakatribune.com/bangladesh/422729/shama-around-7-500-bangladeshis-imprisoned-in",
+  "headline": "Green shift: Vegetable gardens take root on Dhaka’s landfill",
+  "topic": "7500 bangladeshis imprisoned in saudi arabia",
+  "source": "Dhaka Tribune, bdnews24.com",
+  "status": "queued",
+  "at": "2026-10-23T09:10:05Z"
+ },
+ {
+  "title_hash": "4943e7a4f5b58d7c",
+  "url": "https://bdnews24.com/image/aswpcutbqb",
+  "headline": "Green shift: Vegetable gardens take root on Dhaka’s landfill",
+  "topic": "7500 bangladeshis imprisoned in saudi arabia",
+  "source": "Dhaka Tribune, bdnews24.com",
+  "status": "queued",
+  "at": "2026-10-23T09:10:05Z"
  }
 ]
