@@ -8273,8 +8273,13 @@
   "headline": "Five killed and seven injured in separate road accidents in Faridpur",
   "topic": "faridpur road accidents kill five",
   "source": "Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-10-23T15:09:37Z"
+  "status": "failed",
+  "at": "2026-10-23T15:09:37Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "0b417aab86ef123e",
@@ -8282,8 +8287,13 @@
   "headline": "Tragedy in Bhola: Two girls drown in pond",
   "topic": "two girls drown in bhola pond",
   "source": "Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-10-23T15:09:37Z"
+  "status": "failed",
+  "at": "2026-10-23T15:09:37Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "0b417aab86ef123e",
@@ -8291,7 +8301,12 @@
   "headline": "Tragedy in Bhola: Two girls drown in pond",
   "topic": "two girls drown in bhola pond",
   "source": "Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-10-23T15:09:37Z"
+  "status": "failed",
+  "at": "2026-10-23T15:09:37Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
