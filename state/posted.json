@@ -8276,8 +8276,13 @@
   "headline": "7,500 Bangladeshis imprisoned in Saudi Arabia, says State Minister",
   "topic": "bangladeshis imprisoned saudi arabia",
   "source": "Prothom Alo, Dhaka Tribune, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-23T06:09:09Z"
+  "status": "failed",
+  "at": "2026-10-23T06:09:09Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "a82900a38b2f33c2",
@@ -8285,8 +8290,13 @@
   "headline": "7,500 Bangladeshis imprisoned in Saudi Arabia, says State Minister",
   "topic": "bangladeshis imprisoned saudi arabia",
   "source": "Prothom Alo, Dhaka Tribune, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-23T06:09:09Z"
+  "status": "failed",
+  "at": "2026-10-23T06:09:09Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "9e68ac815c490983",
@@ -8294,8 +8304,13 @@
   "headline": "7,500 Bangladeshis imprisoned in Saudi Arabia, says State Minister",
   "topic": "bangladeshis imprisoned saudi arabia",
   "source": "Prothom Alo, Dhaka Tribune, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-23T06:09:09Z"
+  "status": "failed",
+  "at": "2026-10-23T06:09:09Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "3c98fe45f8a478c1",
@@ -8303,8 +8318,13 @@
   "headline": "Japan to arrange $6.35 billion in private investment for Bangladesh",
   "topic": "japan investment bangladesh",
   "source": "Dhaka Tribune, Jamuna TV, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-23T06:09:09Z"
+  "status": "failed",
+  "at": "2026-10-23T06:09:09Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "f6390b242db47c11",
@@ -8312,8 +8332,13 @@
   "headline": "Japan to arrange $6.35 billion in private investment for Bangladesh",
   "topic": "japan investment bangladesh",
   "source": "Dhaka Tribune, Jamuna TV, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-23T06:09:09Z"
+  "status": "failed",
+  "at": "2026-10-23T06:09:09Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "2a2d4b78770a0d70",
@@ -8321,7 +8346,12 @@
   "headline": "Japan to arrange $6.35 billion in private investment for Bangladesh",
   "topic": "japan investment bangladesh",
   "source": "Dhaka Tribune, Jamuna TV, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-23T06:09:09Z"
+  "status": "failed",
+  "at": "2026-10-23T06:09:09Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
