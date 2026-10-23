@@ -8318,8 +8318,13 @@
   "headline": "Secondary textbook printing lags as new academic year approaches; 4 new books await approval",
   "topic": "textbook printing progress",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-23T03:09:00Z"
+  "status": "failed",
+  "at": "2026-10-23T03:09:00Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "b652abc75412bd55",
@@ -8327,8 +8332,13 @@
   "headline": "3,000 tourists stranded in Sajek after clashes and reported gunfight; 7 security personnel injured",
   "topic": "sajek clashes tourists stranded",
   "source": "The Daily Star, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-10-23T03:09:00Z"
+  "status": "failed",
+  "at": "2026-10-23T03:09:00Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "1b0ebce44c497136",
@@ -8336,7 +8346,12 @@
   "headline": "3,000 tourists stranded in Sajek after clashes and reported gunfight; 7 security personnel injured",
   "topic": "sajek clashes tourists stranded",
   "source": "The Daily Star, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-10-23T03:09:00Z"
+  "status": "failed",
+  "at": "2026-10-23T03:09:00Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
