@@ -8217,8 +8217,13 @@
   "headline": "Cox's Bazar hotel fire: 300 tourists evacuated safely from The Sea Princess",
   "topic": "coxs bazar hotel fire",
   "source": "Dhaka Tribune, bdnews24.com",
-  "status": "queued",
-  "at": "2026-10-23T16:10:41Z"
+  "status": "failed",
+  "at": "2026-10-23T16:10:41Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "f1c69f2f5bfec0db",
@@ -8226,8 +8231,13 @@
   "headline": "Cox's Bazar hotel fire: 300 tourists evacuated safely from The Sea Princess",
   "topic": "coxs bazar hotel fire",
   "source": "Dhaka Tribune, bdnews24.com",
-  "status": "queued",
-  "at": "2026-10-23T16:10:41Z"
+  "status": "failed",
+  "at": "2026-10-23T16:10:41Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "aaa24c8b9fbb1bc1",
@@ -8235,8 +8245,13 @@
   "headline": "One dead, 15 injured in head-on bus collision in Natore",
   "topic": "road accidents kill multiple",
   "source": "Dhaka Tribune, Jamuna TV, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-23T16:10:41Z"
+  "status": "failed",
+  "at": "2026-10-23T16:10:41Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "f7ecb95035441621",
@@ -8244,8 +8259,13 @@
   "headline": "One dead, 15 injured in head-on bus collision in Natore",
   "topic": "road accidents kill multiple",
   "source": "Dhaka Tribune, Jamuna TV, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-23T16:10:41Z"
+  "status": "failed",
+  "at": "2026-10-23T16:10:41Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "603140924782859e",
@@ -8253,8 +8273,13 @@
   "headline": "One dead, 15 injured in head-on bus collision in Natore",
   "topic": "road accidents kill multiple",
   "source": "Dhaka Tribune, Jamuna TV, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-23T16:10:41Z"
+  "status": "failed",
+  "at": "2026-10-23T16:10:41Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "3cb36b074b8d8e05",
@@ -8262,8 +8287,13 @@
   "headline": "One dead, 15 injured in head-on bus collision in Natore",
   "topic": "road accidents kill multiple",
   "source": "Dhaka Tribune, Jamuna TV, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-23T16:10:41Z"
+  "status": "failed",
+  "at": "2026-10-23T16:10:41Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "a8eb9840ed801756",
@@ -8271,7 +8301,12 @@
   "headline": "One dead, 15 injured in head-on bus collision in Natore",
   "topic": "road accidents kill multiple",
   "source": "Dhaka Tribune, Jamuna TV, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-23T16:10:41Z"
+  "status": "failed",
+  "at": "2026-10-23T16:10:41Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
