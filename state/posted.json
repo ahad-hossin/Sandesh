@@ -1,47 +1,5 @@
 [
  {
-  "title_hash": "d9dbf75900d18605",
-  "url": "https://www.prothomalo.com/politics/ishraaker-pdtyaag-astr-haate-saaphaai",
-  "headline": "Controversy: State Minister Ishraque Ahmed resigns after gun-in-hand 'drug drive'",
-  "topic": "ishraque hossain resignation",
-  "source": "Prothom Alo, Jamuna TV, bdnews24.com, Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-10-19T18:07:56Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "4e7aedb0c3dc1269",
-  "url": "https://www.dhakatribune.com/bangladesh/422488/ishraque-police-unequipped-carried-firearm-for",
-  "headline": "Controversy: State Minister Ishraque Ahmed resigns after gun-in-hand 'drug drive'",
-  "topic": "ishraque hossain resignation",
-  "source": "Prothom Alo, Jamuna TV, bdnews24.com, Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-10-19T18:07:56Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "661439e70b31d708",
-  "url": "https://www.jamuna.tv/national/666456",
-  "headline": "Controversy: State Minister Ishraque Ahmed resigns after gun-in-hand 'drug drive'",
-  "topic": "ishraque hossain resignation",
-  "source": "Prothom Alo, Jamuna TV, bdnews24.com, Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-10-19T18:07:56Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "52aa83b1fac8f429",
   "url": "https://www.jamuna.tv/national/666455",
   "headline": "Controversy: State Minister Ishraque Ahmed resigns after gun-in-hand 'drug drive'",
@@ -8308,5 +8266,32 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "ee3c6ae58ba05381",
+  "url": "https://www.prothomalo.com/bangladesh/gm3ugus9bd",
+  "headline": "France protests: Bangladeshi-owned shops looted in Paris",
+  "topic": "bangladeshis shops looted france",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-23T22:09:49Z"
+ },
+ {
+  "title_hash": "90cb6dfd257c4a51",
+  "url": "https://www.thedailystar.net/news/bangladesh/news/eerie-silence-sajek-4305956",
+  "headline": "Sajek Valley deserted as road blockade sparks violence",
+  "topic": "sajek valley panic",
+  "source": "The Daily Star",
+  "status": "queued",
+  "at": "2026-10-23T22:09:49Z"
+ },
+ {
+  "title_hash": "b078df795d6f3ba9",
+  "url": "https://www.thedailystar.net/business/industries/tourism/news/eerie-silence-sajek-valley-4305851",
+  "headline": "Sajek Valley deserted as road blockade sparks violence",
+  "topic": "sajek valley panic",
+  "source": "The Daily Star",
+  "status": "queued",
+  "at": "2026-10-23T22:09:49Z"
  }
 ]
