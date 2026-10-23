@@ -8290,8 +8290,13 @@
   "headline": "1,299 hospitalised as 3 more die of dengue in 24 hours",
   "topic": "dengue deaths hospitalised",
   "source": "bdnews24.com, Dhaka Tribune, Jamuna TV",
-  "status": "queued",
-  "at": "2026-10-23T12:09:02Z"
+  "status": "failed",
+  "at": "2026-10-23T12:09:02Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "a073a21c97c8ac33",
@@ -8299,8 +8304,13 @@
   "headline": "1,299 hospitalised as 3 more die of dengue in 24 hours",
   "topic": "dengue deaths hospitalised",
   "source": "bdnews24.com, Dhaka Tribune, Jamuna TV",
-  "status": "queued",
-  "at": "2026-10-23T12:09:02Z"
+  "status": "failed",
+  "at": "2026-10-23T12:09:02Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "b37530ea445ea625",
@@ -8308,8 +8318,13 @@
   "headline": "1,299 hospitalised as 3 more die of dengue in 24 hours",
   "topic": "dengue deaths hospitalised",
   "source": "bdnews24.com, Dhaka Tribune, Jamuna TV",
-  "status": "queued",
-  "at": "2026-10-23T12:09:02Z"
+  "status": "failed",
+  "at": "2026-10-23T12:09:02Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "1f95bd8bf2d6b013",
@@ -8317,8 +8332,13 @@
   "headline": "Jubo Mohila League leader found dead in Keraniganj flat",
   "topic": "jubo mohila league leader murdered",
   "source": "Prothom Alo, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-10-23T12:09:02Z"
+  "status": "failed",
+  "at": "2026-10-23T12:09:02Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "afb133ff18f08eb7",
@@ -8326,7 +8346,12 @@
   "headline": "Jubo Mohila League leader found dead in Keraniganj flat",
   "topic": "jubo mohila league leader murdered",
   "source": "Prothom Alo, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-10-23T12:09:02Z"
+  "status": "failed",
+  "at": "2026-10-23T12:09:02Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
