@@ -8304,8 +8304,13 @@
   "headline": "State Minister Mir Shah Alam criticizes opposition for 'fake' religious politics",
   "topic": "jubo mohila league leader slaughtered",
   "source": "Dhaka Tribune, Jamuna TV",
-  "status": "queued",
-  "at": "2026-10-23T11:10:32Z"
+  "status": "failed",
+  "at": "2026-10-23T11:10:32Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "07465e04c0a35a87",
@@ -8313,8 +8318,13 @@
   "headline": "State Minister Mir Shah Alam criticizes opposition for 'fake' religious politics",
   "topic": "jubo mohila league leader slaughtered",
   "source": "Dhaka Tribune, Jamuna TV",
-  "status": "queued",
-  "at": "2026-10-23T11:10:32Z"
+  "status": "failed",
+  "at": "2026-10-23T11:10:32Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "4a8d9fc10accfa9a",
@@ -8322,8 +8332,13 @@
   "headline": "7,500 Bangladeshis held in Saudi prisons, says State Minister",
   "topic": "newborn found in bushes",
   "source": "Prothom Alo, bdnews24.com",
-  "status": "queued",
-  "at": "2026-10-23T11:10:32Z"
+  "status": "failed",
+  "at": "2026-10-23T11:10:32Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "471d3cf7508df272",
@@ -8331,7 +8346,12 @@
   "headline": "7,500 Bangladeshis held in Saudi prisons, says State Minister",
   "topic": "newborn found in bushes",
   "source": "Prothom Alo, bdnews24.com",
-  "status": "queued",
-  "at": "2026-10-23T11:10:32Z"
+  "status": "failed",
+  "at": "2026-10-23T11:10:32Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
