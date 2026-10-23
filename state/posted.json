@@ -8273,8 +8273,13 @@
   "headline": "France protests: Bangladeshi-owned shops looted in Paris",
   "topic": "bangladeshis shops looted france",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-23T22:09:49Z"
+  "status": "failed",
+  "at": "2026-10-23T22:09:49Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "90cb6dfd257c4a51",
@@ -8282,8 +8287,13 @@
   "headline": "Sajek Valley deserted as road blockade sparks violence",
   "topic": "sajek valley panic",
   "source": "The Daily Star",
-  "status": "queued",
-  "at": "2026-10-23T22:09:49Z"
+  "status": "failed",
+  "at": "2026-10-23T22:09:49Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "b078df795d6f3ba9",
@@ -8291,7 +8301,12 @@
   "headline": "Sajek Valley deserted as road blockade sparks violence",
   "topic": "sajek valley panic",
   "source": "The Daily Star",
-  "status": "queued",
-  "at": "2026-10-23T22:09:49Z"
+  "status": "failed",
+  "at": "2026-10-23T22:09:49Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
