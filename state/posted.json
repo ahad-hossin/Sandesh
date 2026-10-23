@@ -1,75 +1,5 @@
 [
  {
-  "title_hash": "f13038d377567878",
-  "url": "https://www.thedailystar.net/news/politics/news/ishraque-says-he-voluntarily-sought-resignation-focus-anti-drug-drive-4302496",
-  "headline": "State Minister Ishraque announces resignation to focus on anti-drug drive",
-  "topic": "ishraque resignation",
-  "source": "Dhaka Tribune, Prothom Alo, Jamuna TV, The Daily Star, bdnews24.com",
-  "status": "failed",
-  "at": "2026-10-19T14:08:51Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "661439e70b31d708",
-  "url": "https://www.jamuna.tv/national/666456",
-  "headline": "State Minister Ishraque announces resignation to focus on anti-drug drive",
-  "topic": "ishraque resignation",
-  "source": "Dhaka Tribune, Prothom Alo, Jamuna TV, The Daily Star, bdnews24.com",
-  "status": "failed",
-  "at": "2026-10-19T14:08:51Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "93e42ea3f437f371",
-  "url": "https://www.dhakatribune.com/bangladesh/politics/422440/ishraque-to-announce-resignation-decision-at-2pm",
-  "headline": "State Minister Ishraque announces resignation to focus on anti-drug drive",
-  "topic": "ishraque resignation",
-  "source": "Dhaka Tribune, Prothom Alo, Jamuna TV, The Daily Star, bdnews24.com",
-  "status": "failed",
-  "at": "2026-10-19T14:08:51Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "5a96c9e0ea084858",
-  "url": "https://bdnews24.com/politics/uq31aittdj",
-  "headline": "State Minister Ishraque announces resignation to focus on anti-drug drive",
-  "topic": "ishraque resignation",
-  "source": "Dhaka Tribune, Prothom Alo, Jamuna TV, The Daily Star, bdnews24.com",
-  "status": "failed",
-  "at": "2026-10-19T14:08:51Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "c6f79750ae81c63c",
-  "url": "https://bdnews24.com/bangladesh/v470199nec",
-  "headline": "State Minister Ishraque announces resignation to focus on anti-drug drive",
-  "topic": "ishraque resignation",
-  "source": "Dhaka Tribune, Prothom Alo, Jamuna TV, The Daily Star, bdnews24.com",
-  "status": "failed",
-  "at": "2026-10-19T14:08:51Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "6bbc347996a773a3",
   "url": "https://www.thedailystar.net/news/politics/news/ishraque-announces-resignation-state-minister-4302436",
   "headline": "State Minister Ishraque announces resignation to focus on anti-drug drive",
@@ -8353,5 +8283,50 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "b3f2a48f98283db6",
+  "url": "https://bdnews24.com/health/z9yndh6gfd",
+  "headline": "1,299 hospitalised as 3 more die of dengue in 24 hours",
+  "topic": "dengue deaths hospitalised",
+  "source": "bdnews24.com, Dhaka Tribune, Jamuna TV",
+  "status": "queued",
+  "at": "2026-10-23T12:09:02Z"
+ },
+ {
+  "title_hash": "a073a21c97c8ac33",
+  "url": "https://www.dhakatribune.com/bangladesh/health/422750/dengue-3-more-die-1-299-hospitalized-in-24hrs",
+  "headline": "1,299 hospitalised as 3 more die of dengue in 24 hours",
+  "topic": "dengue deaths hospitalised",
+  "source": "bdnews24.com, Dhaka Tribune, Jamuna TV",
+  "status": "queued",
+  "at": "2026-10-23T12:09:02Z"
+ },
+ {
+  "title_hash": "b37530ea445ea625",
+  "url": "https://www.jamuna.tv/national/666689",
+  "headline": "1,299 hospitalised as 3 more die of dengue in 24 hours",
+  "topic": "dengue deaths hospitalised",
+  "source": "bdnews24.com, Dhaka Tribune, Jamuna TV",
+  "status": "queued",
+  "at": "2026-10-23T12:09:02Z"
+ },
+ {
+  "title_hash": "1f95bd8bf2d6b013",
+  "url": "https://www.dhakatribune.com/bangladesh/crime/422745/jubo-mohila-league-leader-found-slaughtered-in",
+  "headline": "Jubo Mohila League leader found dead in Keraniganj flat",
+  "topic": "jubo mohila league leader murdered",
+  "source": "Prothom Alo, Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-10-23T12:09:02Z"
+ },
+ {
+  "title_hash": "afb133ff18f08eb7",
+  "url": "https://www.prothomalo.com/bangladesh/district/oyfs8cnz4y",
+  "headline": "Jubo Mohila League leader found dead in Keraniganj flat",
+  "topic": "jubo mohila league leader murdered",
+  "source": "Prothom Alo, Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-10-23T12:09:02Z"
  }
 ]
