@@ -1,47 +1,5 @@
 [
  {
-  "title_hash": "9757b1398177cbff",
-  "url": "https://www.prothomalo.com/bangladesh/district/0i9zqsztku",
-  "headline": "50-60 vehicles looted by masked gunmen in Cox's Bazar",
-  "topic": "coxs bazar masked lootings",
-  "source": "Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-19T17:12:25Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "f368c417b1c4f415",
-  "url": "https://bdnews24.com/media-en/image/g31f94ytu1",
-  "headline": "Controversy: State Minister Ishraque Ahmed resigns after gun-in-hand 'drug drive'",
-  "topic": "ishraque hossain resignation",
-  "source": "Prothom Alo, Jamuna TV, bdnews24.com, Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-10-19T18:07:56Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "abf35895022ec343",
-  "url": "https://www.prothomalo.com/video/bangladesh/b0y8nsh4q4",
-  "headline": "Controversy: State Minister Ishraque Ahmed resigns after gun-in-hand 'drug drive'",
-  "topic": "ishraque hossain resignation",
-  "source": "Prothom Alo, Jamuna TV, bdnews24.com, Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-10-19T18:07:56Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "1476b3e4c3120030",
   "url": "https://www.prothomalo.com/politics/7sfoihx8gr",
   "headline": "Controversy: State Minister Ishraque Ahmed resigns after gun-in-hand 'drug drive'",
@@ -8308,5 +8266,32 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "cb6f3bda5b29780e",
+  "url": "https://www.dhakatribune.com/bangladesh/422778/crude-bomb-explodes-in-front-of-old-ramna-police",
+  "headline": "Crude bomb explodes in front of old Ramna Police Station",
+  "topic": "ramna police station bomb blast",
+  "source": "Dhaka Tribune, bdnews24.com",
+  "status": "queued",
+  "at": "2026-10-23T19:24:25Z"
+ },
+ {
+  "title_hash": "90e67e455722c658",
+  "url": "https://bdnews24.com/bangladesh/rd5u7zo1vg",
+  "headline": "Crude bomb explodes in front of old Ramna Police Station",
+  "topic": "ramna police station bomb blast",
+  "source": "Dhaka Tribune, bdnews24.com",
+  "status": "queued",
+  "at": "2026-10-23T19:24:25Z"
+ },
+ {
+  "title_hash": "ac61ff7610b8709d",
+  "url": "https://www.prothomalo.com/business/economics/gxmpg9ok09",
+  "headline": "£15M flat in London frozen by UK High Court for former Land Minister's brother",
+  "topic": "former land minister brother flat seized london",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-23T19:24:25Z"
  }
 ]
