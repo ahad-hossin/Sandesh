@@ -1,61 +1,5 @@
 [
  {
-  "title_hash": "1476b3e4c3120030",
-  "url": "https://www.prothomalo.com/politics/7sfoihx8gr",
-  "headline": "Controversy: State Minister Ishraque Ahmed resigns after gun-in-hand 'drug drive'",
-  "topic": "ishraque hossain resignation",
-  "source": "Prothom Alo, Jamuna TV, bdnews24.com, Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-10-19T18:07:56Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "6d764b0d1147d55b",
-  "url": "https://www.jamuna.tv/politics/666478",
-  "headline": "Controversy: State Minister Ishraque Ahmed resigns after gun-in-hand 'drug drive'",
-  "topic": "ishraque hossain resignation",
-  "source": "Prothom Alo, Jamuna TV, bdnews24.com, Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-10-19T18:07:56Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "7845b4a85d829786",
-  "url": "https://www.prothomalo.com/video/bangladesh/hrx7gh2xfp",
-  "headline": "Controversy: State Minister Ishraque Ahmed resigns after gun-in-hand 'drug drive'",
-  "topic": "ishraque hossain resignation",
-  "source": "Prothom Alo, Jamuna TV, bdnews24.com, Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-10-19T18:07:56Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "48e63d0bd90ef4f4",
-  "url": "https://www.dhakatribune.com/bangladesh/422492/nasiruddin-ishraque-a-victim-of-home-minister-s",
-  "headline": "Controversy: State Minister Ishraque Ahmed resigns after gun-in-hand 'drug drive'",
-  "topic": "ishraque hossain resignation",
-  "source": "Prothom Alo, Jamuna TV, bdnews24.com, Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-10-19T18:07:56Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "d9dbf75900d18605",
   "url": "https://www.prothomalo.com/politics/ishraaker-pdtyaag-astr-haate-saaphaai",
   "headline": "Controversy: State Minister Ishraque Ahmed resigns after gun-in-hand 'drug drive'",
@@ -8308,5 +8252,41 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "9ab4ceacae143e2f",
+  "url": "https://www.prothomalo.com/bangladesh/pnpe4lbhe7",
+  "headline": "22,000 passengers affected as 141 Saudi Arabia-bound flights disrupted",
+  "topic": "saudi flights disrupted houthi attacks",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-23T20:10:37Z"
+ },
+ {
+  "title_hash": "a916ab1f830ae4a2",
+  "url": "https://www.thedailystar.net/news/accidents-and-fires/news/father-2-year-old-daughter-killed-ctg-road-crash-4305896",
+  "headline": "Father and 2-year-old daughter killed in Chattogram road crash",
+  "topic": "ctg road crash bus torched",
+  "source": "The Daily Star, bdnews24.com, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-23T20:10:37Z"
+ },
+ {
+  "title_hash": "21b5651304335cc0",
+  "url": "https://bdnews24.com/bangladesh/otjjkvwl7j",
+  "headline": "Father and 2-year-old daughter killed in Chattogram road crash",
+  "topic": "ctg road crash bus torched",
+  "source": "The Daily Star, bdnews24.com, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-23T20:10:37Z"
+ },
+ {
+  "title_hash": "92633211d816d5b9",
+  "url": "https://www.prothomalo.com/bangladesh/district/3qi1u4rmqu",
+  "headline": "Father and 2-year-old daughter killed in Chattogram road crash",
+  "topic": "ctg road crash bus torched",
+  "source": "The Daily Star, bdnews24.com, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-23T20:10:37Z"
  }
 ]
