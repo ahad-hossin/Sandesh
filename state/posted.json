@@ -8290,8 +8290,13 @@
   "headline": "MP Rumeen Farhana and OC of Sarail Police Station clash over security and corruption",
   "topic": "rumeen farhana sarail police confrontation",
   "source": "The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-23T07:09:33Z"
+  "status": "failed",
+  "at": "2026-10-23T07:09:33Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "efd3709a3851ebd7",
@@ -8299,8 +8304,13 @@
   "headline": "MP Rumeen Farhana and OC of Sarail Police Station clash over security and corruption",
   "topic": "rumeen farhana sarail police confrontation",
   "source": "The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-23T07:09:33Z"
+  "status": "failed",
+  "at": "2026-10-23T07:09:33Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "fffcaaee315f39ef",
@@ -8308,8 +8318,13 @@
   "headline": "35 Bangladeshis repatriated from Italy, Greece and Cyprus",
   "topic": "bangladeshis repatriated from europe",
   "source": "Prothom Alo, Jamuna TV, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-23T07:09:33Z"
+  "status": "failed",
+  "at": "2026-10-23T07:09:33Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "c80ad104f5c82c31",
@@ -8317,8 +8332,13 @@
   "headline": "35 Bangladeshis repatriated from Italy, Greece and Cyprus",
   "topic": "bangladeshis repatriated from europe",
   "source": "Prothom Alo, Jamuna TV, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-23T07:09:33Z"
+  "status": "failed",
+  "at": "2026-10-23T07:09:33Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "5a3a0bcba4173634",
@@ -8326,7 +8346,12 @@
   "headline": "35 Bangladeshis repatriated from Italy, Greece and Cyprus",
   "topic": "bangladeshis repatriated from europe",
   "source": "Prothom Alo, Jamuna TV, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-23T07:09:33Z"
+  "status": "failed",
+  "at": "2026-10-23T07:09:33Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
