@@ -1,47 +1,5 @@
 [
  {
-  "title_hash": "15aa002a4bfe9f3b",
-  "url": "https://www.prothomalo.com/video/bangladesh/ohrgebq7bc",
-  "headline": "Controversy: State Minister Ishraque Ahmed resigns after gun-in-hand drug drive",
-  "topic": "ishraque hossain resignation",
-  "source": "bdnews24.com, Prothom Alo, Jamuna TV, Dhaka Tribune, The Daily Star",
-  "status": "failed",
-  "at": "2026-10-19T15:08:58Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "5a96c9e0ea084858",
-  "url": "https://bdnews24.com/politics/uq31aittdj",
-  "headline": "Controversy: State Minister Ishraque Ahmed resigns after gun-in-hand drug drive",
-  "topic": "ishraque hossain resignation",
-  "source": "bdnews24.com, Prothom Alo, Jamuna TV, Dhaka Tribune, The Daily Star",
-  "status": "failed",
-  "at": "2026-10-19T15:08:58Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "6f7c4da031562e1b",
-  "url": "https://www.dhakatribune.com/bangladesh/politics/422459/ishraque-party-did-not-want-this-i-am-resigning",
-  "headline": "Controversy: State Minister Ishraque Ahmed resigns after gun-in-hand drug drive",
-  "topic": "ishraque hossain resignation",
-  "source": "bdnews24.com, Prothom Alo, Jamuna TV, Dhaka Tribune, The Daily Star",
-  "status": "failed",
-  "at": "2026-10-19T15:08:58Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "f13038d377567878",
   "url": "https://www.thedailystar.net/news/politics/news/ishraque-says-he-voluntarily-sought-resignation-focus-anti-drug-drive-4302496",
   "headline": "Controversy: State Minister Ishraque Ahmed resigns after gun-in-hand drug drive",
@@ -8308,5 +8266,32 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "603140924782859e",
+  "url": "https://www.dhakatribune.com/bangladesh/accidents/422770/five-killed-seven-injured-in-separate-road",
+  "headline": "Five killed and seven injured in separate road accidents in Faridpur",
+  "topic": "faridpur road accidents kill five",
+  "source": "Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-10-23T15:09:37Z"
+ },
+ {
+  "title_hash": "0b417aab86ef123e",
+  "url": "https://www.dhakatribune.com/bangladesh/422764/two-girls-drown-in-bhola-pond",
+  "headline": "Tragedy in Bhola: Two girls drown in pond",
+  "topic": "two girls drown in bhola pond",
+  "source": "Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-10-23T15:09:37Z"
+ },
+ {
+  "title_hash": "0b417aab86ef123e",
+  "url": "https://www.dhakatribune.com/bangladesh/nation/422763/two-girls-drown-in-bhola-pond",
+  "headline": "Tragedy in Bhola: Two girls drown in pond",
+  "topic": "two girls drown in bhola pond",
+  "source": "Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-10-23T15:09:37Z"
  }
 ]
