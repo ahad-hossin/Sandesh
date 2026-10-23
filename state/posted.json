@@ -1,89 +1,5 @@
 [
  {
-  "title_hash": "f1f9f5c5a760cc5b",
-  "url": "https://www.prothomalo.com/chakri/chakri-news/xy5z3zwz2h",
-  "headline": "New deal: Japan to recruit Bangladeshi workers from April 1",
-  "topic": "japan-recruits-bangladeshi-workers",
-  "source": "Jamuna TV, bdnews24.com, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-19T10:11:30Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "f22fb63032e9524e",
-  "url": "https://bdnews24.com/health/k88ee1cl0b",
-  "headline": "Over 1,200 suspected measles deaths reported in Bangladesh",
-  "topic": "measles death toll rises",
-  "source": "Jamuna TV, bdnews24.com",
-  "status": "failed",
-  "at": "2026-10-19T11:13:56Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "2e8d93bf17dd6b8a",
-  "url": "https://www.jamuna.tv/national/666463",
-  "headline": "Over 1,200 suspected measles deaths reported in Bangladesh",
-  "topic": "measles death toll rises",
-  "source": "Jamuna TV, bdnews24.com",
-  "status": "failed",
-  "at": "2026-10-19T11:13:56Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "f13038d377567878",
-  "url": "https://www.thedailystar.net/news/politics/news/ishraque-says-he-voluntarily-sought-resignation-focus-anti-drug-drive-4302496",
-  "headline": "Ishraque Hossain resigns as state minister to lead anti-drug drive",
-  "topic": "ishraque hossain resigns as state minister",
-  "source": "The Daily Star, Dhaka Tribune, Prothom Alo, Jamuna TV, bdnews24.com",
-  "status": "failed",
-  "at": "2026-10-19T11:13:56Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "6f7c4da031562e1b",
-  "url": "https://www.dhakatribune.com/bangladesh/politics/422459/ishraque-party-did-not-want-this-i-am-resigning",
-  "headline": "Ishraque Hossain resigns as state minister to lead anti-drug drive",
-  "topic": "ishraque hossain resigns as state minister",
-  "source": "The Daily Star, Dhaka Tribune, Prothom Alo, Jamuna TV, bdnews24.com",
-  "status": "failed",
-  "at": "2026-10-19T11:13:56Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "afc96ae7d5f97b89",
-  "url": "https://www.prothomalo.com/video/bangladesh/nk4kwpzt99",
-  "headline": "Ishraque Hossain resigns as state minister to lead anti-drug drive",
-  "topic": "ishraque hossain resigns as state minister",
-  "source": "The Daily Star, Dhaka Tribune, Prothom Alo, Jamuna TV, bdnews24.com",
-  "status": "failed",
-  "at": "2026-10-19T11:13:56Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "a6b215d81d780768",
   "url": "https://www.jamuna.tv/national/666457",
   "headline": "Ishraque Hossain resigns as state minister to lead anti-drug drive",
@@ -8353,5 +8269,59 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "4c4774ba40d4b0b6",
+  "url": "https://www.dhakatribune.com/bangladesh/422729/shama-around-7-500-bangladeshis-imprisoned-in",
+  "headline": "7,500 Bangladeshis imprisoned in Saudi Arabia, says State Minister",
+  "topic": "bangladeshis imprisoned saudi arabia",
+  "source": "Prothom Alo, Dhaka Tribune, The Daily Star",
+  "status": "queued",
+  "at": "2026-10-23T06:09:09Z"
+ },
+ {
+  "title_hash": "a82900a38b2f33c2",
+  "url": "https://www.prothomalo.com/bangladesh/0z7gd3plgv",
+  "headline": "7,500 Bangladeshis imprisoned in Saudi Arabia, says State Minister",
+  "topic": "bangladeshis imprisoned saudi arabia",
+  "source": "Prothom Alo, Dhaka Tribune, The Daily Star",
+  "status": "queued",
+  "at": "2026-10-23T06:09:09Z"
+ },
+ {
+  "title_hash": "9e68ac815c490983",
+  "url": "https://www.thedailystar.net/news/bangladesh/diplomacy/news/bangladesh-seeks-saudi-visa-iqama-extensions-workers-affected-conflict-shama-obaed-4305636",
+  "headline": "7,500 Bangladeshis imprisoned in Saudi Arabia, says State Minister",
+  "topic": "bangladeshis imprisoned saudi arabia",
+  "source": "Prothom Alo, Dhaka Tribune, The Daily Star",
+  "status": "queued",
+  "at": "2026-10-23T06:09:09Z"
+ },
+ {
+  "title_hash": "3c98fe45f8a478c1",
+  "url": "https://www.dhakatribune.com/bangladesh/foreign-affairs/422728/japan-to-arrange-6.35-billion-in-private",
+  "headline": "Japan to arrange $6.35 billion in private investment for Bangladesh",
+  "topic": "japan investment bangladesh",
+  "source": "Dhaka Tribune, Jamuna TV, The Daily Star",
+  "status": "queued",
+  "at": "2026-10-23T06:09:09Z"
+ },
+ {
+  "title_hash": "f6390b242db47c11",
+  "url": "https://www.jamuna.tv/international/666676",
+  "headline": "Japan to arrange $6.35 billion in private investment for Bangladesh",
+  "topic": "japan investment bangladesh",
+  "source": "Dhaka Tribune, Jamuna TV, The Daily Star",
+  "status": "queued",
+  "at": "2026-10-23T06:09:09Z"
+ },
+ {
+  "title_hash": "2a2d4b78770a0d70",
+  "url": "https://www.thedailystar.net/news/bangladesh/diplomacy/news/japan-arrange-635b-private-investment-4305461",
+  "headline": "Japan to arrange $6.35 billion in private investment for Bangladesh",
+  "topic": "japan investment bangladesh",
+  "source": "Dhaka Tribune, Jamuna TV, The Daily Star",
+  "status": "queued",
+  "at": "2026-10-23T06:09:09Z"
  }
 ]
