@@ -1,47 +1,5 @@
 [
  {
-  "title_hash": "66650a16f1a59fae",
-  "url": "https://www.jamuna.tv/national/666441",
-  "headline": "Controversy: Ishraque Hossain resigns as state minister to avoid party embarrassment",
-  "topic": "ishraque-resigns-state-minister",
-  "source": "Dhaka Tribune, bdnews24.com, The Daily Star, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-19T10:11:30Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "1759a4795a2651db",
-  "url": "https://www.prothomalo.com/video/bangladesh/iend5zwxg9",
-  "headline": "Controversy: Ishraque Hossain resigns as state minister to avoid party embarrassment",
-  "topic": "ishraque-resigns-state-minister",
-  "source": "Dhaka Tribune, bdnews24.com, The Daily Star, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-19T10:11:30Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "9583fb8eeff2a4f6",
-  "url": "https://bdnews24.com/bangladesh/zkbw5v9f07",
-  "headline": "Controversy: Ishraque Hossain resigns as state minister to avoid party embarrassment",
-  "topic": "ishraque-resigns-state-minister",
-  "source": "Dhaka Tribune, bdnews24.com, The Daily Star, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-19T10:11:30Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "59a6ad4148becf65",
   "url": "https://www.thedailystar.net/news/politics/news/ishraque-announce-resignation-state-minister-today-4302301",
   "headline": "Controversy: Ishraque Hossain resigns as state minister to avoid party embarrassment",
@@ -8353,5 +8311,32 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "24396bcc8e1f1346",
+  "url": "https://www.prothomalo.com/bangladesh/district/laqweup99a",
+  "headline": "MP Rumin Farhana clashes with Sarail Police Chief over security and corruption",
+  "topic": "mp rumin farhana oc altercation",
+  "source": "Prothom Alo, Jamuna TV",
+  "status": "queued",
+  "at": "2026-10-23T04:09:25Z"
+ },
+ {
+  "title_hash": "fe52cf11456ce5e4",
+  "url": "https://www.jamuna.tv/all-bangladesh/666672",
+  "headline": "MP Rumin Farhana clashes with Sarail Police Chief over security and corruption",
+  "topic": "mp rumin farhana oc altercation",
+  "source": "Prothom Alo, Jamuna TV",
+  "status": "queued",
+  "at": "2026-10-23T04:09:25Z"
+ },
+ {
+  "title_hash": "c4e501713d6069cf",
+  "url": "https://www.prothomalo.com/world/europe/vv3tzb3yhw",
+  "headline": "France detects first human infection of Schmallenberg virus",
+  "topic": "shamonda virus human death",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-23T04:09:25Z"
  }
 ]
