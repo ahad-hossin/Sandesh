@@ -8332,8 +8332,13 @@
   "headline": "Jubo Dal leader hacked to death in Narayanganj",
   "topic": "jubo dal leader murdered narayanganj",
   "source": "The Daily Star",
-  "status": "queued",
-  "at": "2026-10-23T02:10:13Z"
+  "status": "failed",
+  "at": "2026-10-23T02:10:13Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "842b882f9c16d1f5",
@@ -8341,7 +8346,12 @@
   "headline": "Mob kills paralysed man at Dhaka hospital over child kidnapping suspicion",
   "topic": "paralysed man mob killing hospital",
   "source": "The Daily Star",
-  "status": "queued",
-  "at": "2026-10-23T02:10:13Z"
+  "status": "failed",
+  "at": "2026-10-23T02:10:13Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
