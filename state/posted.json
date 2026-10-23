@@ -8245,8 +8245,13 @@
   "headline": "France to deploy 70,000 police to prevent repeat of riots",
   "topic": "france protests bangladeshis shops looted",
   "source": "Prothom Alo, bdnews24.com, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-23T23:15:28Z"
+  "status": "failed",
+  "at": "2026-10-23T23:15:28Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "ee3c6ae58ba05381",
@@ -8254,8 +8259,13 @@
   "headline": "France to deploy 70,000 police to prevent repeat of riots",
   "topic": "france protests bangladeshis shops looted",
   "source": "Prothom Alo, bdnews24.com, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-23T23:15:28Z"
+  "status": "failed",
+  "at": "2026-10-23T23:15:28Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "d079b867357b326e",
@@ -8263,8 +8273,13 @@
   "headline": "France to deploy 70,000 police to prevent repeat of riots",
   "topic": "france protests bangladeshis shops looted",
   "source": "Prothom Alo, bdnews24.com, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-23T23:15:28Z"
+  "status": "failed",
+  "at": "2026-10-23T23:15:28Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "45a5452141b8a94b",
@@ -8272,8 +8287,13 @@
   "headline": "France to deploy 70,000 police to prevent repeat of riots",
   "topic": "france protests bangladeshis shops looted",
   "source": "Prothom Alo, bdnews24.com, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-23T23:15:28Z"
+  "status": "failed",
+  "at": "2026-10-23T23:15:28Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "9ab4ceacae143e2f",
@@ -8281,7 +8301,12 @@
   "headline": "22,000 passengers affected as 141 flights to Saudi Arabia disrupted",
   "topic": "saudi flights disrupted houthi attacks",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-23T23:15:28Z"
+  "status": "failed",
+  "at": "2026-10-23T23:15:28Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
