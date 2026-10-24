@@ -1,61 +1,5 @@
 [
  {
-  "title_hash": "4e7aedb0c3dc1269",
-  "url": "https://www.dhakatribune.com/bangladesh/422488/ishraque-police-unequipped-carried-firearm-for",
-  "headline": "Lawmaker Ishraque Hossain resigns as state minister after firearm controversy",
-  "topic": "ishraque hossain resignation",
-  "source": "The Daily Star, Prothom Alo, bdnews24.com, Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-10-19T22:09:12Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "8094508509db0bcb",
-  "url": "https://bdnews24.com/politics/qahzjjcsk7",
-  "headline": "Lawmaker Ishraque Hossain resigns as state minister after firearm controversy",
-  "topic": "ishraque hossain resignation",
-  "source": "The Daily Star, Prothom Alo, bdnews24.com, Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-10-19T22:09:12Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "8ea8ed321e7e281a",
-  "url": "https://www.thedailystar.net/sports/football/news/ronaldo-handed-30-day-suspension-and-ps215-fine-after-portugal-camp-walkout-4302941",
-  "headline": "30-day ban and £215 fine: Ronaldo suspended after Portugal camp walkout",
-  "topic": "ronaldo 30-day suspension",
-  "source": "The Daily Star, Jamuna TV, bdnews24.com",
-  "status": "failed",
-  "at": "2026-10-19T23:13:05Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "16c87f3fbcfa6b77",
-  "url": "https://www.jamuna.tv/sports/666489",
-  "headline": "30-day ban and £215 fine: Ronaldo suspended after Portugal camp walkout",
-  "topic": "ronaldo 30-day suspension",
-  "source": "The Daily Star, Jamuna TV, bdnews24.com",
-  "status": "failed",
-  "at": "2026-10-19T23:13:05Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "b25784dc4cc509df",
   "url": "https://bdnews24.com/sport/2vchs9quqf",
   "headline": "30-day ban and £215 fine: Ronaldo suspended after Portugal camp walkout",
@@ -8308,5 +8252,41 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "a022983484031fdf",
+  "url": "https://www.prothomalo.com/business/world-business/cj0k907e2t",
+  "headline": "Oil prices hit 6-month high amid fears of US strikes on Iran",
+  "topic": "oil prices surge amid iran tensions",
+  "source": "Prothom Alo, Jamuna TV",
+  "status": "queued",
+  "at": "2026-10-24T07:11:50Z"
+ },
+ {
+  "title_hash": "f8b6e61c3f341deb",
+  "url": "https://www.jamuna.tv/international/666713",
+  "headline": "Oil prices hit 6-month high amid fears of US strikes on Iran",
+  "topic": "oil prices surge amid iran tensions",
+  "source": "Prothom Alo, Jamuna TV",
+  "status": "queued",
+  "at": "2026-10-24T07:11:50Z"
+ },
+ {
+  "title_hash": "f0e002051d07fcb6",
+  "url": "https://www.thedailystar.net/news/crime-justice/news/5-bangladeshis-charged-canadian-visa-fraud-probe-4306191",
+  "headline": "209 Bangladeshis involved in visa fraud scheme in Canada",
+  "topic": "bangladeshis charged in canadian visa fraud",
+  "source": "The Daily Star, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-24T07:11:50Z"
+ },
+ {
+  "title_hash": "bf7684fb1095d158",
+  "url": "https://nagorik.prothomalo.com/durporobash/d2rpy8qwuq",
+  "headline": "209 Bangladeshis involved in visa fraud scheme in Canada",
+  "topic": "bangladeshis charged in canadian visa fraud",
+  "source": "The Daily Star, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-24T07:11:50Z"
  }
 ]
