@@ -1,89 +1,5 @@
 [
  {
-  "title_hash": "95f904598cb7a4e9",
-  "url": "https://www.jamuna.tv/national/666491",
-  "headline": "PM visits Durga Puja mandaps in 3 districts on Mahanavami",
-  "topic": "pm visit durga puja mandaps",
-  "source": "Jamuna TV, Dhaka Tribune, The Daily Star, bdnews24.com, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-20T05:11:10Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "b12a9764f74108f8",
-  "url": "https://bdnews24.com/bangladesh/3455h3zma5",
-  "headline": "PM visits Durga Puja mandaps in 3 districts on Mahanavami",
-  "topic": "pm visit durga puja mandaps",
-  "source": "Jamuna TV, Dhaka Tribune, The Daily Star, bdnews24.com, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-20T05:11:10Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "900ee16db697daee",
-  "url": "https://bdnews24.com/bangladesh/nifnelo0h8",
-  "headline": "PM visits Durga Puja mandaps in 3 districts on Mahanavami",
-  "topic": "pm visit durga puja mandaps",
-  "source": "Jamuna TV, Dhaka Tribune, The Daily Star, bdnews24.com, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-20T05:11:10Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "9410c366df463e81",
-  "url": "https://www.prothomalo.com/bangladesh/ge6cnyr6rn",
-  "headline": "PM visits Durga Puja mandaps in 3 districts on Mahanavami",
-  "topic": "pm visit durga puja mandaps",
-  "source": "Jamuna TV, Dhaka Tribune, The Daily Star, bdnews24.com, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-20T05:11:10Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "ea374210f7a58f87",
-  "url": "https://www.thedailystar.net/news/accidents-and-fires/news/10-killed-natore-bus-truck-collision-4303106",
-  "headline": "14 killed in bus-truck collision in Natore",
-  "topic": "natore bus truck collision",
-  "source": "The Daily Star, Jamuna TV, bdnews24.com, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-20T06:12:43Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "53fbf36bc333536b",
-  "url": "https://www.jamuna.tv/all-bangladesh/666492",
-  "headline": "14 killed in bus-truck collision in Natore",
-  "topic": "natore bus truck collision",
-  "source": "The Daily Star, Jamuna TV, bdnews24.com, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-20T06:12:43Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "c524221220844844",
   "url": "https://bdnews24.com/bangladesh/qvgi7lmxxn",
   "headline": "14 killed in bus-truck collision in Natore",
@@ -8308,5 +8224,59 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "18eb3b47a6ec81a1",
+  "url": "https://www.dhakatribune.com/bangladesh/nation/422818/chhatra-league-jubo-league-activists-attack",
+  "headline": "2 police injured as banned Chhatra League and Jubo League activists attack in Gopalganj",
+  "topic": "banned activists attack police",
+  "source": "Dhaka Tribune, Jamuna TV, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-24T14:09:54Z"
+ },
+ {
+  "title_hash": "f61016de9316c49a",
+  "url": "https://www.jamuna.tv/all-bangladesh/666754",
+  "headline": "2 police injured as banned Chhatra League and Jubo League activists attack in Gopalganj",
+  "topic": "banned activists attack police",
+  "source": "Dhaka Tribune, Jamuna TV, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-24T14:09:54Z"
+ },
+ {
+  "title_hash": "18e2a828aecb3b3e",
+  "url": "https://www.prothomalo.com/video/bangladesh/bjaw4tzi01",
+  "headline": "2 police injured as banned Chhatra League and Jubo League activists attack in Gopalganj",
+  "topic": "banned activists attack police",
+  "source": "Dhaka Tribune, Jamuna TV, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-24T14:09:54Z"
+ },
+ {
+  "title_hash": "6ed647516190cbf3",
+  "url": "https://www.dhakatribune.com/bangladesh/health/422803/dengue-5-more-die-1-898-hospitalized-in-24-hrs",
+  "headline": "1,898 hospitalized in 24 hours as 6 more die from dengue",
+  "topic": "dengue deaths hospitalized",
+  "source": "Dhaka Tribune, bdnews24.com, Jamuna TV",
+  "status": "queued",
+  "at": "2026-10-24T14:09:54Z"
+ },
+ {
+  "title_hash": "71b2e25ec2a81ee8",
+  "url": "https://bdnews24.com/health/9ng4w15qw3",
+  "headline": "1,898 hospitalized in 24 hours as 6 more die from dengue",
+  "topic": "dengue deaths hospitalized",
+  "source": "Dhaka Tribune, bdnews24.com, Jamuna TV",
+  "status": "queued",
+  "at": "2026-10-24T14:09:54Z"
+ },
+ {
+  "title_hash": "3f118eb05424895a",
+  "url": "https://www.jamuna.tv/national/666737",
+  "headline": "1,898 hospitalized in 24 hours as 6 more die from dengue",
+  "topic": "dengue deaths hospitalized",
+  "source": "Dhaka Tribune, bdnews24.com, Jamuna TV",
+  "status": "queued",
+  "at": "2026-10-24T14:09:54Z"
  }
 ]
