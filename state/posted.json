@@ -1,75 +1,5 @@
 [
  {
-  "title_hash": "fd6874f816b820d2",
-  "url": "https://www.thedailystar.net/news/crime-justice/news/passengers-say-around-50-vehicles-robbed-coxs-bazar-road-4303176",
-  "headline": "Around 50 vehicles robbed on Cox’s Bazar road",
-  "topic": "coxs bazar road robbery",
-  "source": "The Daily Star, Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-10-20T07:08:58Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "3f549047c770804b",
-  "url": "https://www.dhakatribune.com/bangladesh/nation/422521/armed-robbers-loot-50%E2%80%9360-vehicles-on-cox%E2%80%99s-bazar",
-  "headline": "Around 50 vehicles robbed on Cox’s Bazar road",
-  "topic": "coxs bazar road robbery",
-  "source": "The Daily Star, Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-10-20T07:08:58Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "9d802934f4a3c488",
-  "url": "https://bdnews24.com/world/dcg4jrtddr",
-  "headline": "12 killed, 30 injured in head-on bus-truck collision in Natore",
-  "topic": "natore bus truck crash",
-  "source": "Prothom Alo, Jamuna TV, bdnews24.com, The Daily Star",
-  "status": "failed",
-  "at": "2026-10-20T07:08:58Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "5b41741064d54f53",
-  "url": "https://www.prothomalo.com/video/bangladesh/vnu011xv1v",
-  "headline": "12 killed, 30 injured in head-on bus-truck collision in Natore",
-  "topic": "natore bus truck crash",
-  "source": "Prothom Alo, Jamuna TV, bdnews24.com, The Daily Star",
-  "status": "failed",
-  "at": "2026-10-20T07:08:58Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "53fbf36bc333536b",
-  "url": "https://www.jamuna.tv/all-bangladesh/666492",
-  "headline": "12 killed, 30 injured in head-on bus-truck collision in Natore",
-  "topic": "natore bus truck crash",
-  "source": "Prothom Alo, Jamuna TV, bdnews24.com, The Daily Star",
-  "status": "failed",
-  "at": "2026-10-20T07:08:58Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "c59b1ec99dff52e8",
   "url": "https://www.prothomalo.com/bangladesh/district/55xb1hokge",
   "headline": "12 killed, 30 injured in head-on bus-truck collision in Natore",
@@ -8308,5 +8238,50 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "3595b2b14b600e79",
+  "url": "https://bdnews24.com/education/e5i6mte96m",
+  "headline": "Oct 29: HSC and equivalent results to be published",
+  "topic": "hsc results date",
+  "source": "Prothom Alo, bdnews24.com",
+  "status": "queued",
+  "at": "2026-10-24T18:06:56Z"
+ },
+ {
+  "title_hash": "ffedb7bcc292034e",
+  "url": "https://www.prothomalo.com/education/eicessir-phl-prkaash-29-akttobr",
+  "headline": "Oct 29: HSC and equivalent results to be published",
+  "topic": "hsc results date",
+  "source": "Prothom Alo, bdnews24.com",
+  "status": "queued",
+  "at": "2026-10-24T18:06:56Z"
+ },
+ {
+  "title_hash": "ffedb7bcc292034e",
+  "url": "https://www.prothomalo.com/bangladesh/crmxjekpw9",
+  "headline": "Oct 29: HSC and equivalent results to be published",
+  "topic": "hsc results date",
+  "source": "Prothom Alo, bdnews24.com",
+  "status": "queued",
+  "at": "2026-10-24T18:06:56Z"
+ },
+ {
+  "title_hash": "ac18c62cf0d5e7d1",
+  "url": "https://www.prothomalo.com/bangladesh/district/pibdk7k7lw",
+  "headline": "Tension in Pirojpur as witness against Saidi is buried",
+  "topic": "saidi case witness death tension",
+  "source": "Prothom Alo, Jamuna TV",
+  "status": "queued",
+  "at": "2026-10-24T18:06:56Z"
+ },
+ {
+  "title_hash": "7a790aed73dd6645",
+  "url": "https://www.jamuna.tv/all-bangladesh/666757",
+  "headline": "Tension in Pirojpur as witness against Saidi is buried",
+  "topic": "saidi case witness death tension",
+  "source": "Prothom Alo, Jamuna TV",
+  "status": "queued",
+  "at": "2026-10-24T18:06:56Z"
  }
 ]
