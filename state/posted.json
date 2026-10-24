@@ -8245,8 +8245,13 @@
   "headline": "6 madrasas in 16 days: Child sexual abuse allegations spark outrage across Bangladesh",
   "topic": "madrasa child abuse outrage",
   "source": "The Daily Star",
-  "status": "queued",
-  "at": "2026-10-24T23:07:49Z"
+  "status": "failed",
+  "at": "2026-10-24T23:07:49Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "96378f438af719fa",
@@ -8254,8 +8259,13 @@
   "headline": "6 madrasas in 16 days: Child sexual abuse allegations spark outrage across Bangladesh",
   "topic": "madrasa child abuse outrage",
   "source": "The Daily Star",
-  "status": "queued",
-  "at": "2026-10-24T23:07:49Z"
+  "status": "failed",
+  "at": "2026-10-24T23:07:49Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "313a78d27913cdad",
@@ -8263,8 +8273,13 @@
   "headline": "Japan eyes $6.35 billion private investment in Bangladesh, including car plants",
   "topic": "japan investment cars loans",
   "source": "The Daily Star",
-  "status": "queued",
-  "at": "2026-10-24T23:07:49Z"
+  "status": "failed",
+  "at": "2026-10-24T23:07:49Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "57304dd0a6e41b93",
@@ -8272,8 +8287,13 @@
   "headline": "Japan eyes $6.35 billion private investment in Bangladesh, including car plants",
   "topic": "japan investment cars loans",
   "source": "The Daily Star",
-  "status": "queued",
-  "at": "2026-10-24T23:07:49Z"
+  "status": "failed",
+  "at": "2026-10-24T23:07:49Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "ff00fcfdec656a61",
@@ -8281,7 +8301,12 @@
   "headline": "Japan eyes $6.35 billion private investment in Bangladesh, including car plants",
   "topic": "japan investment cars loans",
   "source": "The Daily Star",
-  "status": "queued",
-  "at": "2026-10-24T23:07:49Z"
+  "status": "failed",
+  "at": "2026-10-24T23:07:49Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
