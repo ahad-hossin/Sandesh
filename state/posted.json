@@ -8231,8 +8231,13 @@
   "headline": "Oct 29: HSC and equivalent results to be published",
   "topic": "hsc results date",
   "source": "Prothom Alo, bdnews24.com",
-  "status": "queued",
-  "at": "2026-10-24T19:11:34Z"
+  "status": "failed",
+  "at": "2026-10-24T19:11:34Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "70b17558fb82cbca",
@@ -8240,8 +8245,13 @@
   "headline": "Oct 29: HSC and equivalent results to be published",
   "topic": "hsc results date",
   "source": "Prothom Alo, bdnews24.com",
-  "status": "queued",
-  "at": "2026-10-24T19:11:34Z"
+  "status": "failed",
+  "at": "2026-10-24T19:11:34Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "ffedb7bcc292034e",
@@ -8249,8 +8259,13 @@
   "headline": "Oct 29: HSC and equivalent results to be published",
   "topic": "hsc results date",
   "source": "Prothom Alo, bdnews24.com",
-  "status": "queued",
-  "at": "2026-10-24T19:11:34Z"
+  "status": "failed",
+  "at": "2026-10-24T19:11:34Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "ffedb7bcc292034e",
@@ -8258,8 +8273,13 @@
   "headline": "Oct 29: HSC and equivalent results to be published",
   "topic": "hsc results date",
   "source": "Prothom Alo, bdnews24.com",
-  "status": "queued",
-  "at": "2026-10-24T19:11:34Z"
+  "status": "failed",
+  "at": "2026-10-24T19:11:34Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "0cd866c187adf791",
@@ -8267,8 +8287,13 @@
   "headline": "Police find primary evidence of sexual abuse of 7-year-old girl at Tongi madrasah",
   "topic": "tongi madrasa child abuse",
   "source": "Dhaka Tribune, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-24T19:11:34Z"
+  "status": "failed",
+  "at": "2026-10-24T19:11:34Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "45b1b1d58011bab4",
@@ -8276,7 +8301,12 @@
   "headline": "Police find primary evidence of sexual abuse of 7-year-old girl at Tongi madrasah",
   "topic": "tongi madrasa child abuse",
   "source": "Dhaka Tribune, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-24T19:11:34Z"
+  "status": "failed",
+  "at": "2026-10-24T19:11:34Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
