@@ -8231,8 +8231,13 @@
   "headline": "Unknown assailants fire shots at singer Asif Akbar's car in Dhaka",
   "topic": "singer asif akbar's car shot at",
   "source": "The Daily Star, bdnews24.com",
-  "status": "queued",
-  "at": "2026-10-24T06:09:10Z"
+  "status": "failed",
+  "at": "2026-10-24T06:09:10Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "a9512648c4794493",
@@ -8240,8 +8245,13 @@
   "headline": "Unknown assailants fire shots at singer Asif Akbar's car in Dhaka",
   "topic": "singer asif akbar's car shot at",
   "source": "The Daily Star, bdnews24.com",
-  "status": "queued",
-  "at": "2026-10-24T06:09:10Z"
+  "status": "failed",
+  "at": "2026-10-24T06:09:10Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "911fead99625e51f",
@@ -8249,8 +8259,13 @@
   "headline": "3 killed as bus plunges into ditch on Dhaka-Mawa Expressway",
   "topic": "bus plunges into ditch on dhaka-mawa expressway killing 3",
   "source": "Dhaka Tribune, Prothom Alo, bdnews24.com, Jamuna TV",
-  "status": "queued",
-  "at": "2026-10-24T06:09:10Z"
+  "status": "failed",
+  "at": "2026-10-24T06:09:10Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "6d0cba6ba3a54ebd",
@@ -8258,8 +8273,13 @@
   "headline": "3 killed as bus plunges into ditch on Dhaka-Mawa Expressway",
   "topic": "bus plunges into ditch on dhaka-mawa expressway killing 3",
   "source": "Dhaka Tribune, Prothom Alo, bdnews24.com, Jamuna TV",
-  "status": "queued",
-  "at": "2026-10-24T06:09:10Z"
+  "status": "failed",
+  "at": "2026-10-24T06:09:10Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "70e19739b103b722",
@@ -8267,8 +8287,13 @@
   "headline": "3 killed as bus plunges into ditch on Dhaka-Mawa Expressway",
   "topic": "bus plunges into ditch on dhaka-mawa expressway killing 3",
   "source": "Dhaka Tribune, Prothom Alo, bdnews24.com, Jamuna TV",
-  "status": "queued",
-  "at": "2026-10-24T06:09:10Z"
+  "status": "failed",
+  "at": "2026-10-24T06:09:10Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "a876610c56cdfbf4",
@@ -8276,7 +8301,12 @@
   "headline": "3 killed as bus plunges into ditch on Dhaka-Mawa Expressway",
   "topic": "bus plunges into ditch on dhaka-mawa expressway killing 3",
   "source": "Dhaka Tribune, Prothom Alo, bdnews24.com, Jamuna TV",
-  "status": "queued",
-  "at": "2026-10-24T06:09:10Z"
+  "status": "failed",
+  "at": "2026-10-24T06:09:10Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
