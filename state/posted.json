@@ -1,75 +1,5 @@
 [
  {
-  "title_hash": "a57612e63be2399e",
-  "url": "https://www.dhakatribune.com/bangladesh/422524/pm-tarique-calls-for-unity-of-all-faiths-to-build",
-  "headline": "PM Tarique Rahman makes first official visit to Rajshahi",
-  "topic": "pm tarique calls for unity of all faiths",
-  "source": "Prothom Alo, Dhaka Tribune, The Daily Star",
-  "status": "failed",
-  "at": "2026-10-20T10:13:34Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "816030622e24ab4b",
-  "url": "https://www.prothomalo.com/bangladesh/district/tacho0o8z0",
-  "headline": "PM Tarique Rahman makes first official visit to Rajshahi",
-  "topic": "pm tarique calls for unity of all faiths",
-  "source": "Prothom Alo, Dhaka Tribune, The Daily Star",
-  "status": "failed",
-  "at": "2026-10-20T10:13:34Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "a57612e63be2399e",
-  "url": "https://www.thedailystar.net/news/governance/news/pm-tarique-calls-unity-all-faiths-build-desired-bangladesh-4303201",
-  "headline": "PM Tarique Rahman makes first official visit to Rajshahi",
-  "topic": "pm tarique calls for unity of all faiths",
-  "source": "Prothom Alo, Dhaka Tribune, The Daily Star",
-  "status": "failed",
-  "at": "2026-10-20T10:13:34Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "fc42575dc313b451",
-  "url": "https://www.dhakatribune.com/bangladesh/foreign-affairs/422552/30-bangladeshis-return-home-after-release-from",
-  "headline": "30 Bangladeshis return home after release from Cambodia detention centre",
-  "topic": "bangladeshis released from cambodian detention",
-  "source": "Dhaka Tribune, Jamuna TV, bdnews24.com",
-  "status": "failed",
-  "at": "2026-10-20T12:13:11Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "94f4b2475d9e577d",
-  "url": "https://www.jamuna.tv/national/666517",
-  "headline": "30 Bangladeshis return home after release from Cambodia detention centre",
-  "topic": "bangladeshis released from cambodian detention",
-  "source": "Dhaka Tribune, Jamuna TV, bdnews24.com",
-  "status": "failed",
-  "at": "2026-10-20T12:13:11Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "9cea31696ab472b0",
   "url": "https://bdnews24.com/bangladesh/9h268k2m2a",
   "headline": "30 Bangladeshis return home after release from Cambodia detention centre",
@@ -8308,5 +8238,50 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "5283ef37858a4cde",
+  "url": "https://www.thedailystar.net/news/crime-justice/news/sexual-assaults-madrasa-children-spark-outrage-4306651",
+  "headline": "6 madrasas in 16 days: Child sexual abuse allegations spark outrage across Bangladesh",
+  "topic": "madrasa child abuse outrage",
+  "source": "The Daily Star",
+  "status": "queued",
+  "at": "2026-10-24T23:07:49Z"
+ },
+ {
+  "title_hash": "96378f438af719fa",
+  "url": "https://www.thedailystar.net/news/politics/news/ensure-justice-child-abuse-not-mob-justice-hefazat-4306621",
+  "headline": "6 madrasas in 16 days: Child sexual abuse allegations spark outrage across Bangladesh",
+  "topic": "madrasa child abuse outrage",
+  "source": "The Daily Star",
+  "status": "queued",
+  "at": "2026-10-24T23:07:49Z"
+ },
+ {
+  "title_hash": "313a78d27913cdad",
+  "url": "https://www.thedailystar.net/business/economy/news/japan-eyes-bangladesh-place-make-cars-4306476",
+  "headline": "Japan eyes $6.35 billion private investment in Bangladesh, including car plants",
+  "topic": "japan investment cars loans",
+  "source": "The Daily Star",
+  "status": "queued",
+  "at": "2026-10-24T23:07:49Z"
+ },
+ {
+  "title_hash": "57304dd0a6e41b93",
+  "url": "https://www.thedailystar.net/news/bangladesh/diplomacy/news/dhaka-tokyo-likely-ink-2b-loan-deals-4306661",
+  "headline": "Japan eyes $6.35 billion private investment in Bangladesh, including car plants",
+  "topic": "japan investment cars loans",
+  "source": "The Daily Star",
+  "status": "queued",
+  "at": "2026-10-24T23:07:49Z"
+ },
+ {
+  "title_hash": "ff00fcfdec656a61",
+  "url": "https://www.thedailystar.net/slow-reads/geopolitical-insights/news/tarique-rahmans-japan-visit-the-next-frontier-bangladesh-japan-relations-4306441",
+  "headline": "Japan eyes $6.35 billion private investment in Bangladesh, including car plants",
+  "topic": "japan investment cars loans",
+  "source": "The Daily Star",
+  "status": "queued",
+  "at": "2026-10-24T23:07:49Z"
  }
 ]
