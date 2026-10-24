@@ -8273,8 +8273,13 @@
   "headline": "Singer Asif Akbar's car targeted with gunfire in Mogbazar, Dhaka; he was not present",
   "topic": "singer asif akbar car shot at",
   "source": "Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-24T04:08:09Z"
+  "status": "failed",
+  "at": "2026-10-24T04:08:09Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "e7e8f7e68de65713",
@@ -8282,8 +8287,13 @@
   "headline": "Singer Asif Akbar's car targeted with gunfire in Mogbazar, Dhaka; he was not present",
   "topic": "singer asif akbar car shot at",
   "source": "Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-24T04:08:09Z"
+  "status": "failed",
+  "at": "2026-10-24T04:08:09Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "2bbbd6b312e96bab",
@@ -8291,7 +8301,12 @@
   "headline": "Shops return to 8 PM closing as Durga Puja holiday hours end",
   "topic": "shops markets return normal hours",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-24T04:08:09Z"
+  "status": "failed",
+  "at": "2026-10-24T04:08:09Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
