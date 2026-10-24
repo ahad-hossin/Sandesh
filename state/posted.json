@@ -8231,8 +8231,13 @@
   "headline": "Gunman kills one, wounds 4 near Paris in vehicle shooting, terror probe launched",
   "topic": "france unrest bangladeshi shops looted",
   "source": "The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-24T00:08:16Z"
+  "status": "failed",
+  "at": "2026-10-24T00:08:16Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "ee3c6ae58ba05381",
@@ -8240,8 +8245,13 @@
   "headline": "Gunman kills one, wounds 4 near Paris in vehicle shooting, terror probe launched",
   "topic": "france unrest bangladeshi shops looted",
   "source": "The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-24T00:08:16Z"
+  "status": "failed",
+  "at": "2026-10-24T00:08:16Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "d079b867357b326e",
@@ -8249,8 +8259,13 @@
   "headline": "Gunman kills one, wounds 4 near Paris in vehicle shooting, terror probe launched",
   "topic": "france unrest bangladeshi shops looted",
   "source": "The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-24T00:08:16Z"
+  "status": "failed",
+  "at": "2026-10-24T00:08:16Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "45a5452141b8a94b",
@@ -8258,8 +8273,13 @@
   "headline": "Gunman kills one, wounds 4 near Paris in vehicle shooting, terror probe launched",
   "topic": "france unrest bangladeshi shops looted",
   "source": "The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-24T00:08:16Z"
+  "status": "failed",
+  "at": "2026-10-24T00:08:16Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "21b5651304335cc0",
@@ -8267,8 +8287,13 @@
   "headline": "Two killed in Ctg road crash, bus torched by protesters",
   "topic": "ctg road crash bus torched",
   "source": "bdnews24.com, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-24T00:08:16Z"
+  "status": "failed",
+  "at": "2026-10-24T00:08:16Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "a916ab1f830ae4a2",
@@ -8276,7 +8301,12 @@
   "headline": "Two killed in Ctg road crash, bus torched by protesters",
   "topic": "ctg road crash bus torched",
   "source": "bdnews24.com, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-24T00:08:16Z"
+  "status": "failed",
+  "at": "2026-10-24T00:08:16Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
