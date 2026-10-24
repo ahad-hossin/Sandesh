@@ -1,33 +1,5 @@
 [
  {
-  "title_hash": "9cea31696ab472b0",
-  "url": "https://bdnews24.com/bangladesh/9h268k2m2a",
-  "headline": "30 Bangladeshis return home from Cambodian detention centre",
-  "topic": "bangladeshis return from cambodian detention center",
-  "source": "bdnews24.com, Jamuna TV",
-  "status": "failed",
-  "at": "2026-10-20T10:13:34Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "94f4b2475d9e577d",
-  "url": "https://www.jamuna.tv/national/666517",
-  "headline": "30 Bangladeshis return home from Cambodian detention centre",
-  "topic": "bangladeshis return from cambodian detention center",
-  "source": "bdnews24.com, Jamuna TV",
-  "status": "failed",
-  "at": "2026-10-20T10:13:34Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "a57612e63be2399e",
   "url": "https://www.dhakatribune.com/bangladesh/422524/pm-tarique-calls-for-unity-of-all-faiths-to-build",
   "headline": "PM Tarique Rahman makes first official visit to Rajshahi",
@@ -8308,5 +8280,23 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "606b372b2eaf78a8",
+  "url": "https://www.thedailystar.net/business/economy/news/bangladesh-retains-eus-top-denim-supplier-spot-4306486",
+  "headline": "1 in 3 denim trousers in EU are Bangladesh-made, leading supplier spot retained",
+  "topic": "bangladesh eu denim supplier",
+  "source": "The Daily Star",
+  "status": "queued",
+  "at": "2026-10-24T22:10:04Z"
+ },
+ {
+  "title_hash": "206eaf93837e0de3",
+  "url": "https://www.thedailystar.net/business/economy/news/bsec-reopens-direct-listing-route-private-companies-4306496",
+  "headline": "BSEC reopens direct listing route for private companies",
+  "topic": "bsec direct listing private companies",
+  "source": "The Daily Star",
+  "status": "queued",
+  "at": "2026-10-24T22:10:04Z"
  }
 ]
