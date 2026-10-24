@@ -8259,8 +8259,13 @@
   "headline": "300 tourists evacuated as fire breaks out at The Sea Princess Hotel in Cox's Bazar",
   "topic": "coxs bazar hotel fire",
   "source": "Jamuna TV, Dhaka Tribune, bdnews24.com",
-  "status": "queued",
-  "at": "2026-10-24T02:07:04Z"
+  "status": "failed",
+  "at": "2026-10-24T02:07:04Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "940ba460a5115481",
@@ -8268,8 +8273,13 @@
   "headline": "300 tourists evacuated as fire breaks out at The Sea Princess Hotel in Cox's Bazar",
   "topic": "coxs bazar hotel fire",
   "source": "Jamuna TV, Dhaka Tribune, bdnews24.com",
-  "status": "queued",
-  "at": "2026-10-24T02:07:04Z"
+  "status": "failed",
+  "at": "2026-10-24T02:07:04Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "f1c69f2f5bfec0db",
@@ -8277,8 +8287,13 @@
   "headline": "300 tourists evacuated as fire breaks out at The Sea Princess Hotel in Cox's Bazar",
   "topic": "coxs bazar hotel fire",
   "source": "Jamuna TV, Dhaka Tribune, bdnews24.com",
-  "status": "queued",
-  "at": "2026-10-24T02:07:04Z"
+  "status": "failed",
+  "at": "2026-10-24T02:07:04Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "25d9682412cbb0bd",
@@ -8286,7 +8301,12 @@
   "headline": "16 killed as 7.0-magnitude quake strikes remote Tibet region in China, dozens injured",
   "topic": "tibet earthquake",
   "source": "The Daily Star",
-  "status": "queued",
-  "at": "2026-10-24T02:07:04Z"
+  "status": "failed",
+  "at": "2026-10-24T02:07:04Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
