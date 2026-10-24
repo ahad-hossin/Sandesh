@@ -8245,8 +8245,13 @@
   "headline": "Oct 29: HSC and equivalent results to be published",
   "topic": "hsc results date",
   "source": "Prothom Alo, bdnews24.com",
-  "status": "queued",
-  "at": "2026-10-24T18:06:56Z"
+  "status": "failed",
+  "at": "2026-10-24T18:06:56Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "ffedb7bcc292034e",
@@ -8254,8 +8259,13 @@
   "headline": "Oct 29: HSC and equivalent results to be published",
   "topic": "hsc results date",
   "source": "Prothom Alo, bdnews24.com",
-  "status": "queued",
-  "at": "2026-10-24T18:06:56Z"
+  "status": "failed",
+  "at": "2026-10-24T18:06:56Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "ffedb7bcc292034e",
@@ -8263,8 +8273,13 @@
   "headline": "Oct 29: HSC and equivalent results to be published",
   "topic": "hsc results date",
   "source": "Prothom Alo, bdnews24.com",
-  "status": "queued",
-  "at": "2026-10-24T18:06:56Z"
+  "status": "failed",
+  "at": "2026-10-24T18:06:56Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "ac18c62cf0d5e7d1",
@@ -8272,8 +8287,13 @@
   "headline": "Tension in Pirojpur as witness against Saidi is buried",
   "topic": "saidi case witness death tension",
   "source": "Prothom Alo, Jamuna TV",
-  "status": "queued",
-  "at": "2026-10-24T18:06:56Z"
+  "status": "failed",
+  "at": "2026-10-24T18:06:56Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "7a790aed73dd6645",
@@ -8281,7 +8301,12 @@
   "headline": "Tension in Pirojpur as witness against Saidi is buried",
   "topic": "saidi case witness death tension",
   "source": "Prothom Alo, Jamuna TV",
-  "status": "queued",
-  "at": "2026-10-24T18:06:56Z"
+  "status": "failed",
+  "at": "2026-10-24T18:06:56Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
