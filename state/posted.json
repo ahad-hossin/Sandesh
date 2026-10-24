@@ -1,47 +1,5 @@
 [
  {
-  "title_hash": "8ab8e2e89e0bc86c",
-  "url": "https://www.thedailystar.net/sports/cricket/news/tigers-must-win-big-against-afghanistan-and-overcome-the-nrr-mountain-reach-tri-series-final-4302976",
-  "headline": "Afghanistan's 158-run victory over Zimbabwe leaves Bangladesh needing massive win for final",
-  "topic": "afghanistan beats zimbabwe",
-  "source": "The Daily Star, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-19T21:12:09Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "a5d20974da02b8e3",
-  "url": "https://www.jamuna.tv/sports/666490",
-  "headline": "Afghanistan's 158-run victory over Zimbabwe leaves Bangladesh needing massive win for final",
-  "topic": "afghanistan beats zimbabwe",
-  "source": "The Daily Star, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-19T21:12:09Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "01d1648eda59518c",
-  "url": "https://www.prothomalo.com/sports/cricket/husme6xzxx",
-  "headline": "Afghanistan's 158-run victory over Zimbabwe leaves Bangladesh needing massive win for final",
-  "topic": "afghanistan beats zimbabwe",
-  "source": "The Daily Star, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-19T21:12:09Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "58952d4fe8055083",
   "url": "https://bdnews24.com/politics/mk6aeysj5y",
   "headline": "BNP signals zero tolerance: Minister resigns after firearm video",
@@ -8308,5 +8266,32 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "d275db78e629418d",
+  "url": "https://www.jamuna.tv/national/666708",
+  "headline": "Singer Asif Akbar's car targeted with gunfire in Mogbazar, Dhaka; he was not present",
+  "topic": "singer asif akbar car shot at",
+  "source": "Jamuna TV, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-24T04:08:09Z"
+ },
+ {
+  "title_hash": "e7e8f7e68de65713",
+  "url": "https://www.prothomalo.com/bangladesh/crime/9oqup16mms",
+  "headline": "Singer Asif Akbar's car targeted with gunfire in Mogbazar, Dhaka; he was not present",
+  "topic": "singer asif akbar car shot at",
+  "source": "Jamuna TV, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-24T04:08:09Z"
+ },
+ {
+  "title_hash": "2bbbd6b312e96bab",
+  "url": "https://www.prothomalo.com/bangladesh/nm26nf0lc3",
+  "headline": "Shops return to 8 PM closing as Durga Puja holiday hours end",
+  "topic": "shops markets return normal hours",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-24T04:08:09Z"
  }
 ]
