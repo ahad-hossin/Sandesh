@@ -1,33 +1,5 @@
 [
  {
-  "title_hash": "7213c03e4f51fa37",
-  "url": "https://www.prothomalo.com/sports/football/67koufdd1q",
-  "headline": "30-day ban for Ronaldo over national team camp exit",
-  "topic": "ronaldo 30 day ban",
-  "source": "Jamuna TV, bdnews24.com, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-10-19T19:08:24Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "8ea8ed321e7e281a",
-  "url": "https://www.thedailystar.net/sports/football/news/ronaldo-handed-30-day-suspension-and-ps215-fine-after-portugal-camp-walkout-4302941",
-  "headline": "30-day ban for Ronaldo over national team camp exit",
-  "topic": "ronaldo 30 day ban",
-  "source": "Jamuna TV, bdnews24.com, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-10-19T19:08:24Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "8ab8e2e89e0bc86c",
   "url": "https://www.thedailystar.net/sports/cricket/news/tigers-must-win-big-against-afghanistan-and-overcome-the-nrr-mountain-reach-tri-series-final-4302976",
   "headline": "Afghanistan's 158-run victory over Zimbabwe leaves Bangladesh needing massive win for final",
@@ -8308,5 +8280,23 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "d275db78e629418d",
+  "url": "https://www.jamuna.tv/national/666708",
+  "headline": "Miscreants fire shots at Asif Akbar's car in Maghbazar, singer unharmed as he was not present",
+  "topic": "asif akbar car shot",
+  "source": "Jamuna TV",
+  "status": "queued",
+  "at": "2026-10-24T03:06:50Z"
+ },
+ {
+  "title_hash": "2bbbd6b312e96bab",
+  "url": "https://www.prothomalo.com/bangladesh/nm26nf0lc3",
+  "headline": "Shops, malls return to 8 PM closing time after temporary Durga Puja extension",
+  "topic": "shop mall hours revert",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-24T03:06:50Z"
  }
 ]
