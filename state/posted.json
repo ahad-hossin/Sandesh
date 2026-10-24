@@ -1,61 +1,5 @@
 [
  {
-  "title_hash": "ea374210f7a58f87",
-  "url": "https://www.thedailystar.net/news/accidents-and-fires/news/10-killed-natore-bus-truck-collision-4303106",
-  "headline": "14 killed as bus and truck collide head-on in Natore, 26 injured",
-  "topic": "natore bus truck collision 14 dead",
-  "source": "bdnews24.com, Jamuna TV, The Daily Star, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-20T04:22:28Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "7c2af3f5f179d4a6",
-  "url": "https://www.prothomalo.com/bangladesh/district/k4g0d6qrt2",
-  "headline": "14 killed as bus and truck collide head-on in Natore, 26 injured",
-  "topic": "natore bus truck collision 14 dead",
-  "source": "bdnews24.com, Jamuna TV, The Daily Star, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-20T04:22:28Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "ea374210f7a58f87",
-  "url": "https://www.thedailystar.net/news/accidents-and-fires/news/10-killed-natore-bus-truck-collision-4303106",
-  "headline": "14 killed as bus crashes into sand-laden truck in Natore",
-  "topic": "natore bus truck collision",
-  "source": "Prothom Alo, The Daily Star, Jamuna TV, bdnews24.com",
-  "status": "failed",
-  "at": "2026-10-20T05:11:10Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "76e7ba0f3cc7b095",
-  "url": "https://www.prothomalo.com/bangladesh/district/naattore-baas-ttraak-snghrss-niht-antt-13",
-  "headline": "14 killed as bus crashes into sand-laden truck in Natore",
-  "topic": "natore bus truck collision",
-  "source": "Prothom Alo, The Daily Star, Jamuna TV, bdnews24.com",
-  "status": "failed",
-  "at": "2026-10-20T05:11:10Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "53fbf36bc333536b",
   "url": "https://www.jamuna.tv/all-bangladesh/666492",
   "headline": "14 killed as bus crashes into sand-laden truck in Natore",
@@ -8308,5 +8252,41 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "8ae091b5b3799c19",
+  "url": "https://bdnews24.com/world/1cyl16ay3b",
+  "headline": "Kim Jong Un crosses into China via new bridge in Dandong",
+  "topic": "kim jong un crosses into china",
+  "source": "bdnews24.com, Jamuna TV",
+  "status": "queued",
+  "at": "2026-10-24T11:08:45Z"
+ },
+ {
+  "title_hash": "624f9e081f962bcb",
+  "url": "https://www.jamuna.tv/international/666734",
+  "headline": "Kim Jong Un crosses into China via new bridge in Dandong",
+  "topic": "kim jong un crosses into china",
+  "source": "bdnews24.com, Jamuna TV",
+  "status": "queued",
+  "at": "2026-10-24T11:08:45Z"
+ },
+ {
+  "title_hash": "63e106add9e15000",
+  "url": "https://www.thedailystar.net/news/accidents-and-fires/news/fire-gazipur-carton-factory-under-control-4306251",
+  "headline": "9 Fire Service units control blaze at Gazipur carton factory",
+  "topic": "fire at gazipur carton factory",
+  "source": "Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-10-24T11:08:45Z"
+ },
+ {
+  "title_hash": "603618dc1c05264c",
+  "url": "https://www.prothomalo.com/video/bangladesh/uagm3yhwe8",
+  "headline": "9 Fire Service units control blaze at Gazipur carton factory",
+  "topic": "fire at gazipur carton factory",
+  "source": "Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-10-24T11:08:45Z"
  }
 ]
