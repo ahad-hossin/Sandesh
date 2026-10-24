@@ -1,75 +1,5 @@
 [
  {
-  "title_hash": "1476b3e4c3120030",
-  "url": "https://www.prothomalo.com/politics/7sfoihx8gr",
-  "headline": "State Minister Ishraque Hossain resigns after firearm controversy",
-  "topic": "ishraque resignation controversy",
-  "source": "Prothom Alo, bdnews24.com, Jamuna TV, Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-10-19T19:08:24Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "7845b4a85d829786",
-  "url": "https://www.prothomalo.com/video/bangladesh/hrx7gh2xfp",
-  "headline": "State Minister Ishraque Hossain resigns after firearm controversy",
-  "topic": "ishraque resignation controversy",
-  "source": "Prothom Alo, bdnews24.com, Jamuna TV, Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-10-19T19:08:24Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "4e7aedb0c3dc1269",
-  "url": "https://www.dhakatribune.com/bangladesh/422488/ishraque-police-unequipped-carried-firearm-for",
-  "headline": "State Minister Ishraque Hossain resigns after firearm controversy",
-  "topic": "ishraque resignation controversy",
-  "source": "Prothom Alo, bdnews24.com, Jamuna TV, Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-10-19T19:08:24Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "d9dbf75900d18605",
-  "url": "https://www.prothomalo.com/politics/ishraaker-pdtyaag-astr-haate-saaphaai",
-  "headline": "State Minister Ishraque Hossain resigns after firearm controversy",
-  "topic": "ishraque resignation controversy",
-  "source": "Prothom Alo, bdnews24.com, Jamuna TV, Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-10-19T19:08:24Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "661439e70b31d708",
-  "url": "https://www.jamuna.tv/national/666456",
-  "headline": "State Minister Ishraque Hossain resigns after firearm controversy",
-  "topic": "ishraque resignation controversy",
-  "source": "Prothom Alo, bdnews24.com, Jamuna TV, Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-10-19T19:08:24Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "52aa83b1fac8f429",
   "url": "https://www.jamuna.tv/national/666455",
   "headline": "State Minister Ishraque Hossain resigns after firearm controversy",
@@ -8308,5 +8238,50 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "e9865b447c43bc4b",
+  "url": "https://www.dhakatribune.com/bangladesh/accidents/422774/fire-breaks-out-at-cox%E2%80%99s-bazar-hotel-300-tourists",
+  "headline": "300 tourists evacuated as fire breaks out at The Sea Princess Hotel in Cox's Bazar",
+  "topic": "cox bazar hotel fire evacuation",
+  "source": "Jamuna TV, Dhaka Tribune, bdnews24.com",
+  "status": "queued",
+  "at": "2026-10-24T01:09:43Z"
+ },
+ {
+  "title_hash": "940ba460a5115481",
+  "url": "https://www.jamuna.tv/all-bangladesh/666703",
+  "headline": "300 tourists evacuated as fire breaks out at The Sea Princess Hotel in Cox's Bazar",
+  "topic": "cox bazar hotel fire evacuation",
+  "source": "Jamuna TV, Dhaka Tribune, bdnews24.com",
+  "status": "queued",
+  "at": "2026-10-24T01:09:43Z"
+ },
+ {
+  "title_hash": "f1c69f2f5bfec0db",
+  "url": "https://bdnews24.com/bangladesh/tj5s3h173z",
+  "headline": "300 tourists evacuated as fire breaks out at The Sea Princess Hotel in Cox's Bazar",
+  "topic": "cox bazar hotel fire evacuation",
+  "source": "Jamuna TV, Dhaka Tribune, bdnews24.com",
+  "status": "queued",
+  "at": "2026-10-24T01:09:43Z"
+ },
+ {
+  "title_hash": "21b5651304335cc0",
+  "url": "https://bdnews24.com/bangladesh/otjjkvwl7j",
+  "headline": "Bus torched after two killed in Chattogram road crash, highway blocked for 90 minutes",
+  "topic": "chittagong road crash father daughter killed",
+  "source": "bdnews24.com, The Daily Star",
+  "status": "queued",
+  "at": "2026-10-24T01:09:43Z"
+ },
+ {
+  "title_hash": "a916ab1f830ae4a2",
+  "url": "https://www.thedailystar.net/news/accidents-and-fires/news/father-2-year-old-daughter-killed-ctg-road-crash-4305896",
+  "headline": "Bus torched after two killed in Chattogram road crash, highway blocked for 90 minutes",
+  "topic": "chittagong road crash father daughter killed",
+  "source": "bdnews24.com, The Daily Star",
+  "status": "queued",
+  "at": "2026-10-24T01:09:43Z"
  }
 ]
