@@ -8287,8 +8287,13 @@
   "headline": "HSC results to be published October 29",
   "topic": "hsc exam results to be published on october 29",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-24T17:13:01Z"
+  "status": "failed",
+  "at": "2026-10-24T17:13:01Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "39357d04fae84e4e",
@@ -8296,7 +8301,12 @@
   "headline": "BDT 8.8 million found in donation boxes of Hazrat Shahjalal (R) shrine",
   "topic": "8.8 million taka found in Shahjalal shrine donation box",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-24T17:13:01Z"
+  "status": "failed",
+  "at": "2026-10-24T17:13:01Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
