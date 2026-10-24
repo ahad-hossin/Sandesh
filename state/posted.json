@@ -8287,8 +8287,13 @@
   "headline": "1 in 3 denim trousers in EU are Bangladesh-made, leading supplier spot retained",
   "topic": "bangladesh eu denim supplier",
   "source": "The Daily Star",
-  "status": "queued",
-  "at": "2026-10-24T22:10:04Z"
+  "status": "failed",
+  "at": "2026-10-24T22:10:04Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "206eaf93837e0de3",
@@ -8296,7 +8301,12 @@
   "headline": "BSEC reopens direct listing route for private companies",
   "topic": "bsec direct listing private companies",
   "source": "The Daily Star",
-  "status": "queued",
-  "at": "2026-10-24T22:10:04Z"
+  "status": "failed",
+  "at": "2026-10-24T22:10:04Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
