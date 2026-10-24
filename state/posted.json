@@ -8259,8 +8259,13 @@
   "headline": "Kim Jong Un crosses into China via new bridge in Dandong",
   "topic": "kim jong un crosses into china",
   "source": "bdnews24.com, Jamuna TV",
-  "status": "queued",
-  "at": "2026-10-24T11:08:45Z"
+  "status": "failed",
+  "at": "2026-10-24T11:08:45Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "624f9e081f962bcb",
@@ -8268,8 +8273,13 @@
   "headline": "Kim Jong Un crosses into China via new bridge in Dandong",
   "topic": "kim jong un crosses into china",
   "source": "bdnews24.com, Jamuna TV",
-  "status": "queued",
-  "at": "2026-10-24T11:08:45Z"
+  "status": "failed",
+  "at": "2026-10-24T11:08:45Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "63e106add9e15000",
@@ -8277,8 +8287,13 @@
   "headline": "9 Fire Service units control blaze at Gazipur carton factory",
   "topic": "fire at gazipur carton factory",
   "source": "Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-24T11:08:45Z"
+  "status": "failed",
+  "at": "2026-10-24T11:08:45Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "603618dc1c05264c",
@@ -8286,7 +8301,12 @@
   "headline": "9 Fire Service units control blaze at Gazipur carton factory",
   "topic": "fire at gazipur carton factory",
   "source": "Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-24T11:08:45Z"
+  "status": "failed",
+  "at": "2026-10-24T11:08:45Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
