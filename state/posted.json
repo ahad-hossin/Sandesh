@@ -1,61 +1,5 @@
 [
  {
-  "title_hash": "52aa83b1fac8f429",
-  "url": "https://www.jamuna.tv/national/666455",
-  "headline": "State Minister Ishraque Hossain resigns after firearm controversy",
-  "topic": "ishraque resignation controversy",
-  "source": "Prothom Alo, bdnews24.com, Jamuna TV, Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-10-19T19:08:24Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "6f7c4da031562e1b",
-  "url": "https://www.dhakatribune.com/bangladesh/politics/422459/ishraque-party-did-not-want-this-i-am-resigning",
-  "headline": "State Minister Ishraque Hossain resigns after firearm controversy",
-  "topic": "ishraque resignation controversy",
-  "source": "Prothom Alo, bdnews24.com, Jamuna TV, Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-10-19T19:08:24Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "b25784dc4cc509df",
-  "url": "https://bdnews24.com/sport/2vchs9quqf",
-  "headline": "30-day ban for Ronaldo over national team camp exit",
-  "topic": "ronaldo 30 day ban",
-  "source": "Jamuna TV, bdnews24.com, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-10-19T19:08:24Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "16c87f3fbcfa6b77",
-  "url": "https://www.jamuna.tv/sports/666489",
-  "headline": "30-day ban for Ronaldo over national team camp exit",
-  "topic": "ronaldo 30 day ban",
-  "source": "Jamuna TV, bdnews24.com, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-10-19T19:08:24Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "7213c03e4f51fa37",
   "url": "https://www.prothomalo.com/sports/football/67koufdd1q",
   "headline": "30-day ban for Ronaldo over national team camp exit",
@@ -8308,5 +8252,41 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "e9865b447c43bc4b",
+  "url": "https://www.dhakatribune.com/bangladesh/accidents/422774/fire-breaks-out-at-cox%E2%80%99s-bazar-hotel-300-tourists",
+  "headline": "300 tourists evacuated as fire breaks out at The Sea Princess Hotel in Cox's Bazar",
+  "topic": "coxs bazar hotel fire",
+  "source": "Jamuna TV, Dhaka Tribune, bdnews24.com",
+  "status": "queued",
+  "at": "2026-10-24T02:07:04Z"
+ },
+ {
+  "title_hash": "940ba460a5115481",
+  "url": "https://www.jamuna.tv/all-bangladesh/666703",
+  "headline": "300 tourists evacuated as fire breaks out at The Sea Princess Hotel in Cox's Bazar",
+  "topic": "coxs bazar hotel fire",
+  "source": "Jamuna TV, Dhaka Tribune, bdnews24.com",
+  "status": "queued",
+  "at": "2026-10-24T02:07:04Z"
+ },
+ {
+  "title_hash": "f1c69f2f5bfec0db",
+  "url": "https://bdnews24.com/bangladesh/tj5s3h173z",
+  "headline": "300 tourists evacuated as fire breaks out at The Sea Princess Hotel in Cox's Bazar",
+  "topic": "coxs bazar hotel fire",
+  "source": "Jamuna TV, Dhaka Tribune, bdnews24.com",
+  "status": "queued",
+  "at": "2026-10-24T02:07:04Z"
+ },
+ {
+  "title_hash": "25d9682412cbb0bd",
+  "url": "https://www.thedailystar.net/news/world/china/news/16-killed-quake-strikes-chinas-remote-tibet-region-4306026",
+  "headline": "16 killed as 7.0-magnitude quake strikes remote Tibet region in China, dozens injured",
+  "topic": "tibet earthquake",
+  "source": "The Daily Star",
+  "status": "queued",
+  "at": "2026-10-24T02:07:04Z"
  }
 ]
