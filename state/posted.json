@@ -8259,8 +8259,13 @@
   "headline": "Oil prices hit 6-month high amid fears of US strikes on Iran",
   "topic": "oil prices surge amid iran tensions",
   "source": "Prothom Alo, Jamuna TV",
-  "status": "queued",
-  "at": "2026-10-24T07:11:50Z"
+  "status": "failed",
+  "at": "2026-10-24T07:11:50Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "f8b6e61c3f341deb",
@@ -8268,8 +8273,13 @@
   "headline": "Oil prices hit 6-month high amid fears of US strikes on Iran",
   "topic": "oil prices surge amid iran tensions",
   "source": "Prothom Alo, Jamuna TV",
-  "status": "queued",
-  "at": "2026-10-24T07:11:50Z"
+  "status": "failed",
+  "at": "2026-10-24T07:11:50Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "f0e002051d07fcb6",
@@ -8277,8 +8287,13 @@
   "headline": "209 Bangladeshis involved in visa fraud scheme in Canada",
   "topic": "bangladeshis charged in canadian visa fraud",
   "source": "The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-24T07:11:50Z"
+  "status": "failed",
+  "at": "2026-10-24T07:11:50Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "bf7684fb1095d158",
@@ -8286,7 +8301,12 @@
   "headline": "209 Bangladeshis involved in visa fraud scheme in Canada",
   "topic": "bangladeshis charged in canadian visa fraud",
   "source": "The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-24T07:11:50Z"
+  "status": "failed",
+  "at": "2026-10-24T07:11:50Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
