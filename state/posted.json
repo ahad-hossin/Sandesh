@@ -8231,8 +8231,13 @@
   "headline": "2 police injured as banned Chhatra League and Jubo League activists attack in Gopalganj",
   "topic": "banned activists attack police",
   "source": "Dhaka Tribune, Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-24T14:09:54Z"
+  "status": "failed",
+  "at": "2026-10-24T14:09:54Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "f61016de9316c49a",
@@ -8240,8 +8245,13 @@
   "headline": "2 police injured as banned Chhatra League and Jubo League activists attack in Gopalganj",
   "topic": "banned activists attack police",
   "source": "Dhaka Tribune, Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-24T14:09:54Z"
+  "status": "failed",
+  "at": "2026-10-24T14:09:54Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "18e2a828aecb3b3e",
@@ -8249,8 +8259,13 @@
   "headline": "2 police injured as banned Chhatra League and Jubo League activists attack in Gopalganj",
   "topic": "banned activists attack police",
   "source": "Dhaka Tribune, Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-24T14:09:54Z"
+  "status": "failed",
+  "at": "2026-10-24T14:09:54Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "6ed647516190cbf3",
@@ -8258,8 +8273,13 @@
   "headline": "1,898 hospitalized in 24 hours as 6 more die from dengue",
   "topic": "dengue deaths hospitalized",
   "source": "Dhaka Tribune, bdnews24.com, Jamuna TV",
-  "status": "queued",
-  "at": "2026-10-24T14:09:54Z"
+  "status": "failed",
+  "at": "2026-10-24T14:09:54Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "71b2e25ec2a81ee8",
@@ -8267,8 +8287,13 @@
   "headline": "1,898 hospitalized in 24 hours as 6 more die from dengue",
   "topic": "dengue deaths hospitalized",
   "source": "Dhaka Tribune, bdnews24.com, Jamuna TV",
-  "status": "queued",
-  "at": "2026-10-24T14:09:54Z"
+  "status": "failed",
+  "at": "2026-10-24T14:09:54Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "3f118eb05424895a",
@@ -8276,7 +8301,12 @@
   "headline": "1,898 hospitalized in 24 hours as 6 more die from dengue",
   "topic": "dengue deaths hospitalized",
   "source": "Dhaka Tribune, bdnews24.com, Jamuna TV",
-  "status": "queued",
-  "at": "2026-10-24T14:09:54Z"
+  "status": "failed",
+  "at": "2026-10-24T14:09:54Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
