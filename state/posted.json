@@ -1,33 +1,5 @@
 [
  {
-  "title_hash": "3f549047c770804b",
-  "url": "https://www.dhakatribune.com/bangladesh/nation/422521/armed-robbers-loot-50%E2%80%9360-vehicles-on-cox%E2%80%99s-bazar",
-  "headline": "Around 50 vehicles robbed by armed gang on Cox’s Bazar road",
-  "topic": "coxs bazar road robbery",
-  "source": "Dhaka Tribune, The Daily Star",
-  "status": "failed",
-  "at": "2026-10-20T06:12:43Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "fd6874f816b820d2",
-  "url": "https://www.thedailystar.net/news/crime-justice/news/passengers-say-around-50-vehicles-robbed-coxs-bazar-road-4303176",
-  "headline": "Around 50 vehicles robbed by armed gang on Cox’s Bazar road",
-  "topic": "coxs bazar road robbery",
-  "source": "Dhaka Tribune, The Daily Star",
-  "status": "failed",
-  "at": "2026-10-20T06:12:43Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "fd6874f816b820d2",
   "url": "https://www.thedailystar.net/news/crime-justice/news/passengers-say-around-50-vehicles-robbed-coxs-bazar-road-4303176",
   "headline": "Around 50 vehicles robbed on Cox’s Bazar road",
@@ -8308,5 +8280,23 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "ffedb7bcc292034e",
+  "url": "https://www.prothomalo.com/bangladesh/crmxjekpw9",
+  "headline": "HSC results to be published October 29",
+  "topic": "hsc exam results to be published on october 29",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-24T17:13:01Z"
+ },
+ {
+  "title_hash": "39357d04fae84e4e",
+  "url": "https://www.prothomalo.com/bangladesh/district/6ukoxq23c5",
+  "headline": "BDT 8.8 million found in donation boxes of Hazrat Shahjalal (R) shrine",
+  "topic": "8.8 million taka found in Shahjalal shrine donation box",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-24T17:13:01Z"
  }
 ]
