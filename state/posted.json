@@ -1,33 +1,5 @@
 [
  {
-  "title_hash": "c524221220844844",
-  "url": "https://bdnews24.com/bangladesh/qvgi7lmxxn",
-  "headline": "14 killed in bus-truck collision in Natore",
-  "topic": "natore bus truck collision",
-  "source": "The Daily Star, Jamuna TV, bdnews24.com, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-20T06:12:43Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "76e7ba0f3cc7b095",
-  "url": "https://www.prothomalo.com/bangladesh/district/naattore-baas-ttraak-snghrss-niht-antt-13",
-  "headline": "14 killed in bus-truck collision in Natore",
-  "topic": "natore bus truck collision",
-  "source": "The Daily Star, Jamuna TV, bdnews24.com, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-20T06:12:43Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "3f549047c770804b",
   "url": "https://www.dhakatribune.com/bangladesh/nation/422521/armed-robbers-loot-50%E2%80%9360-vehicles-on-cox%E2%80%99s-bazar",
   "headline": "Around 50 vehicles robbed by armed gang on Cox’s Bazar road",
@@ -8308,5 +8280,23 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "bfe16eb42b2919b0",
+  "url": "https://www.jamuna.tv/all-bangladesh/666761",
+  "headline": "Trader sold horse meat as beef in Khulna, gets 3 months jail",
+  "topic": "man arrested for selling horse meat as beef",
+  "source": "Jamuna TV",
+  "status": "queued",
+  "at": "2026-10-24T16:22:06Z"
+ },
+ {
+  "title_hash": "0918b8401df96bcb",
+  "url": "https://www.jamuna.tv/all-bangladesh/666760",
+  "headline": "Trader sold horse meat as beef in Khulna, gets 3 months jail",
+  "topic": "man arrested for selling horse meat as beef",
+  "source": "Jamuna TV",
+  "status": "queued",
+  "at": "2026-10-24T16:22:06Z"
  }
 ]
