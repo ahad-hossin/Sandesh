@@ -8245,8 +8245,13 @@
   "headline": "300 tourists evacuated as fire breaks out at The Sea Princess Hotel in Cox's Bazar",
   "topic": "cox bazar hotel fire evacuation",
   "source": "Jamuna TV, Dhaka Tribune, bdnews24.com",
-  "status": "queued",
-  "at": "2026-10-24T01:09:43Z"
+  "status": "failed",
+  "at": "2026-10-24T01:09:43Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "940ba460a5115481",
@@ -8254,8 +8259,13 @@
   "headline": "300 tourists evacuated as fire breaks out at The Sea Princess Hotel in Cox's Bazar",
   "topic": "cox bazar hotel fire evacuation",
   "source": "Jamuna TV, Dhaka Tribune, bdnews24.com",
-  "status": "queued",
-  "at": "2026-10-24T01:09:43Z"
+  "status": "failed",
+  "at": "2026-10-24T01:09:43Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "f1c69f2f5bfec0db",
@@ -8263,8 +8273,13 @@
   "headline": "300 tourists evacuated as fire breaks out at The Sea Princess Hotel in Cox's Bazar",
   "topic": "cox bazar hotel fire evacuation",
   "source": "Jamuna TV, Dhaka Tribune, bdnews24.com",
-  "status": "queued",
-  "at": "2026-10-24T01:09:43Z"
+  "status": "failed",
+  "at": "2026-10-24T01:09:43Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "21b5651304335cc0",
@@ -8272,8 +8287,13 @@
   "headline": "Bus torched after two killed in Chattogram road crash, highway blocked for 90 minutes",
   "topic": "chittagong road crash father daughter killed",
   "source": "bdnews24.com, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-24T01:09:43Z"
+  "status": "failed",
+  "at": "2026-10-24T01:09:43Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "a916ab1f830ae4a2",
@@ -8281,7 +8301,12 @@
   "headline": "Bus torched after two killed in Chattogram road crash, highway blocked for 90 minutes",
   "topic": "chittagong road crash father daughter killed",
   "source": "bdnews24.com, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-24T01:09:43Z"
+  "status": "failed",
+  "at": "2026-10-24T01:09:43Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
