@@ -1,61 +1,5 @@
 [
  {
-  "title_hash": "9f8bdbfbe944d55e",
-  "url": "https://www.thedailystar.net/news/accidents-and-fires/news/5-shariatpur-traders-among-12-killed-natore-road-crash-4303311",
-  "headline": "12 killed as bus crashes into sand-laden truck in Natore",
-  "topic": "deadly bus-truck collision in natore",
-  "source": "Dhaka Tribune, The Daily Star, Prothom Alo, Jamuna TV, bdnews24.com",
-  "status": "failed",
-  "at": "2026-10-20T12:13:11Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "071ad2f8c5f6ff6d",
-  "url": "https://www.prothomalo.com/bangladesh/district/zjygqo0bhd",
-  "headline": "12 killed as bus crashes into sand-laden truck in Natore",
-  "topic": "deadly bus-truck collision in natore",
-  "source": "Dhaka Tribune, The Daily Star, Prothom Alo, Jamuna TV, bdnews24.com",
-  "status": "failed",
-  "at": "2026-10-20T12:13:11Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "53fbf36bc333536b",
-  "url": "https://www.jamuna.tv/all-bangladesh/666492",
-  "headline": "12 killed as bus crashes into sand-laden truck in Natore",
-  "topic": "deadly bus-truck collision in natore",
-  "source": "Dhaka Tribune, The Daily Star, Prothom Alo, Jamuna TV, bdnews24.com",
-  "status": "failed",
-  "at": "2026-10-20T12:13:11Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "9d802934f4a3c488",
-  "url": "https://bdnews24.com/world/dcg4jrtddr",
-  "headline": "12 killed as bus crashes into sand-laden truck in Natore",
-  "topic": "deadly bus-truck collision in natore",
-  "source": "Dhaka Tribune, The Daily Star, Prothom Alo, Jamuna TV, bdnews24.com",
-  "status": "failed",
-  "at": "2026-10-20T12:13:11Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "77fad1115e4fbdff",
   "url": "https://www.dhakatribune.com/bangladesh/accidents/422556/five-shariatpur-traders-among-14-killed-in-natore",
   "headline": "14 killed in bus-truck collision in Natore",
@@ -8308,5 +8252,41 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "3595b2b14b600e79",
+  "url": "https://bdnews24.com/education/e5i6mte96m",
+  "headline": "HSC and equivalent exam results to be published on October 29",
+  "topic": "hsc exam results oct 29",
+  "source": "Jamuna TV, bdnews24.com, The Daily Star",
+  "status": "queued",
+  "at": "2026-10-25T01:06:57Z"
+ },
+ {
+  "title_hash": "eeb93c765c0e612b",
+  "url": "https://www.jamuna.tv/national/666764",
+  "headline": "HSC and equivalent exam results to be published on October 29",
+  "topic": "hsc exam results oct 29",
+  "source": "Jamuna TV, bdnews24.com, The Daily Star",
+  "status": "queued",
+  "at": "2026-10-25T01:06:57Z"
+ },
+ {
+  "title_hash": "eb7ef938755e2eec",
+  "url": "https://www.thedailystar.net/news/education/news/hsc-equivalent-exam-results-likely-oct-29-4306706",
+  "headline": "HSC and equivalent exam results to be published on October 29",
+  "topic": "hsc exam results oct 29",
+  "source": "Jamuna TV, bdnews24.com, The Daily Star",
+  "status": "queued",
+  "at": "2026-10-25T01:06:57Z"
+ },
+ {
+  "title_hash": "313a78d27913cdad",
+  "url": "https://www.thedailystar.net/business/economy/news/japan-eyes-bangladesh-place-make-cars-4306476",
+  "headline": "Japan eyes Bangladesh to make cars with $6.35 billion potential investment",
+  "topic": "japan invests car manufacturing bangladesh",
+  "source": "The Daily Star",
+  "status": "queued",
+  "at": "2026-10-25T01:06:57Z"
  }
 ]
