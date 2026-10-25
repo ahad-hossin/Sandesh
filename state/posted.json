@@ -8259,8 +8259,13 @@
   "headline": "Trump warns of military action against Iran again amid rising oil prices",
   "topic": "trump warns iran military action",
   "source": "Jamuna TV",
-  "status": "queued",
-  "at": "2026-10-25T03:08:05Z"
+  "status": "failed",
+  "at": "2026-10-25T03:08:05Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "57304dd0a6e41b93",
@@ -8268,8 +8273,13 @@
   "headline": "Bangladesh and Japan expected to ink $2 billion loan deals during PM's Tokyo visit, officials say",
   "topic": "pm japan visit dengue vaccine talks",
   "source": "The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-25T03:08:05Z"
+  "status": "failed",
+  "at": "2026-10-25T03:08:05Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "9729ba1edeb37dab",
@@ -8277,8 +8287,13 @@
   "headline": "Bangladesh and Japan expected to ink $2 billion loan deals during PM's Tokyo visit, officials say",
   "topic": "pm japan visit dengue vaccine talks",
   "source": "The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-25T03:08:05Z"
+  "status": "failed",
+  "at": "2026-10-25T03:08:05Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "3ccc130c8aaa33ba",
@@ -8286,7 +8301,12 @@
   "headline": "Bangladesh and Japan expected to ink $2 billion loan deals during PM's Tokyo visit, officials say",
   "topic": "pm japan visit dengue vaccine talks",
   "source": "The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-25T03:08:05Z"
+  "status": "failed",
+  "at": "2026-10-25T03:08:05Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
