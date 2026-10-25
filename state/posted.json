@@ -8231,8 +8231,13 @@
   "headline": "Bay depression may intensify into a severe cyclone by Oct 28",
   "topic": "bay depression cyclone risk",
   "source": "bdnews24.com, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-25T09:09:31Z"
+  "status": "failed",
+  "at": "2026-10-25T09:09:31Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "5c938363314ed34e",
@@ -8240,8 +8245,13 @@
   "headline": "Bay depression may intensify into a severe cyclone by Oct 28",
   "topic": "bay depression cyclone risk",
   "source": "bdnews24.com, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-25T09:09:31Z"
+  "status": "failed",
+  "at": "2026-10-25T09:09:31Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "6f8b76b9a9432a5d",
@@ -8249,8 +8259,13 @@
   "headline": "Madrasa teacher arrested for raping 9-year-old student in Lakshmipur",
   "topic": "madrasa sexual abuse outrage",
   "source": "Dhaka Tribune, Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-25T09:09:31Z"
+  "status": "failed",
+  "at": "2026-10-25T09:09:31Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "1b6f985690f62001",
@@ -8258,8 +8273,13 @@
   "headline": "Madrasa teacher arrested for raping 9-year-old student in Lakshmipur",
   "topic": "madrasa sexual abuse outrage",
   "source": "Dhaka Tribune, Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-25T09:09:31Z"
+  "status": "failed",
+  "at": "2026-10-25T09:09:31Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "96378f438af719fa",
@@ -8267,8 +8287,13 @@
   "headline": "Madrasa teacher arrested for raping 9-year-old student in Lakshmipur",
   "topic": "madrasa sexual abuse outrage",
   "source": "Dhaka Tribune, Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-25T09:09:31Z"
+  "status": "failed",
+  "at": "2026-10-25T09:09:31Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "5283ef37858a4cde",
@@ -8276,7 +8301,12 @@
   "headline": "Madrasa teacher arrested for raping 9-year-old student in Lakshmipur",
   "topic": "madrasa sexual abuse outrage",
   "source": "Dhaka Tribune, Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-25T09:09:31Z"
+  "status": "failed",
+  "at": "2026-10-25T09:09:31Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
