@@ -8259,8 +8259,13 @@
   "headline": "France protests: Nearly 1,000 arrested amid clashes over cost of living",
   "topic": "france protests arrests",
   "source": "Jamuna TV",
-  "status": "queued",
-  "at": "2026-10-25T07:10:45Z"
+  "status": "failed",
+  "at": "2026-10-25T07:10:45Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "7016caa26994c32a",
@@ -8268,8 +8273,13 @@
   "headline": "France protests: Nearly 1,000 arrested amid clashes over cost of living",
   "topic": "france protests arrests",
   "source": "Jamuna TV",
-  "status": "queued",
-  "at": "2026-10-25T07:10:45Z"
+  "status": "failed",
+  "at": "2026-10-25T07:10:45Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "763ea4e3358b1bf4",
@@ -8277,8 +8287,13 @@
   "headline": "Dhaka ranks world's 5th most polluted city Sunday morning",
   "topic": "dhaka air pollution",
   "source": "Dhaka Tribune, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-25T07:10:45Z"
+  "status": "failed",
+  "at": "2026-10-25T07:10:45Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "311f7e7998fc38b2",
@@ -8286,7 +8301,12 @@
   "headline": "Dhaka ranks world's 5th most polluted city Sunday morning",
   "topic": "dhaka air pollution",
   "source": "Dhaka Tribune, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-25T07:10:45Z"
+  "status": "failed",
+  "at": "2026-10-25T07:10:45Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
