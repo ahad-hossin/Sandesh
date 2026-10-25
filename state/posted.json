@@ -8217,8 +8217,13 @@
   "headline": "Gold prices drop by 7,173 taka per bhori in 4 days",
   "topic": "gold price drop and air pollution",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-25T06:09:36Z"
+  "status": "failed",
+  "at": "2026-10-25T06:09:36Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "311f7e7998fc38b2",
@@ -8226,8 +8231,13 @@
   "headline": "Gold prices drop by 7,173 taka per bhori in 4 days",
   "topic": "gold price drop and air pollution",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-25T06:09:36Z"
+  "status": "failed",
+  "at": "2026-10-25T06:09:36Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "8c9db13b08e29e1a",
@@ -8235,8 +8245,13 @@
   "headline": "3-day outage: Bangladesh Bank website back online after cyber alert",
   "topic": "bangladesh bank website restored",
   "source": "bdnews24.com, Jamuna TV, Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-25T06:09:36Z"
+  "status": "failed",
+  "at": "2026-10-25T06:09:36Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "32fc4e251af286d1",
@@ -8244,8 +8259,13 @@
   "headline": "3-day outage: Bangladesh Bank website back online after cyber alert",
   "topic": "bangladesh bank website restored",
   "source": "bdnews24.com, Jamuna TV, Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-25T06:09:36Z"
+  "status": "failed",
+  "at": "2026-10-25T06:09:36Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "7daba2c55b4bd4d0",
@@ -8253,8 +8273,13 @@
   "headline": "3-day outage: Bangladesh Bank website back online after cyber alert",
   "topic": "bangladesh bank website restored",
   "source": "bdnews24.com, Jamuna TV, Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-25T06:09:36Z"
+  "status": "failed",
+  "at": "2026-10-25T06:09:36Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "94c91722cc3bb0d7",
@@ -8262,8 +8287,13 @@
   "headline": "3-day outage: Bangladesh Bank website back online after cyber alert",
   "topic": "bangladesh bank website restored",
   "source": "bdnews24.com, Jamuna TV, Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-25T06:09:36Z"
+  "status": "failed",
+  "at": "2026-10-25T06:09:36Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "37f72bb53778220c",
@@ -8271,7 +8301,12 @@
   "headline": "3-day outage: Bangladesh Bank website back online after cyber alert",
   "topic": "bangladesh bank website restored",
   "source": "bdnews24.com, Jamuna TV, Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-25T06:09:36Z"
+  "status": "failed",
+  "at": "2026-10-25T06:09:36Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
