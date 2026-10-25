@@ -8231,8 +8231,13 @@
   "headline": "Plaintiff in Sayedee war crimes case buried at 2 AM after day-long tension in Pirojpur",
   "topic": "saidee case plaintiff body tension",
   "source": "Jamuna TV",
-  "status": "queued",
-  "at": "2026-10-25T04:07:04Z"
+  "status": "failed",
+  "at": "2026-10-25T04:07:04Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "57304dd0a6e41b93",
@@ -8240,8 +8245,13 @@
   "headline": "Bangladesh, Japan to sign $2B loan deals during PM Tarique Rahman's Tokyo visit",
   "topic": "pm tarique rahman japan visit",
   "source": "The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-25T04:07:04Z"
+  "status": "failed",
+  "at": "2026-10-25T04:07:04Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "b0635f1e3eb171c4",
@@ -8249,8 +8259,13 @@
   "headline": "Bangladesh, Japan to sign $2B loan deals during PM Tarique Rahman's Tokyo visit",
   "topic": "pm tarique rahman japan visit",
   "source": "The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-25T04:07:04Z"
+  "status": "failed",
+  "at": "2026-10-25T04:07:04Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "3ccc130c8aaa33ba",
@@ -8258,8 +8273,13 @@
   "headline": "Bangladesh, Japan to sign $2B loan deals during PM Tarique Rahman's Tokyo visit",
   "topic": "pm tarique rahman japan visit",
   "source": "The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-25T04:07:04Z"
+  "status": "failed",
+  "at": "2026-10-25T04:07:04Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "7ee3eed4e1c09f59",
@@ -8267,8 +8287,13 @@
   "headline": "Bangladesh, Japan to sign $2B loan deals during PM Tarique Rahman's Tokyo visit",
   "topic": "pm tarique rahman japan visit",
   "source": "The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-25T04:07:04Z"
+  "status": "failed",
+  "at": "2026-10-25T04:07:04Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "ff00fcfdec656a61",
@@ -8276,7 +8301,12 @@
   "headline": "Bangladesh, Japan to sign $2B loan deals during PM Tarique Rahman's Tokyo visit",
   "topic": "pm tarique rahman japan visit",
   "source": "The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-25T04:07:04Z"
+  "status": "failed",
+  "at": "2026-10-25T04:07:04Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
