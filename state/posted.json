@@ -1,61 +1,5 @@
 [
  {
-  "title_hash": "96c949170d15bdaa",
-  "url": "https://www.prothomalo.com/sports/cricket/6o0ph8went",
-  "headline": "Must-win game: Bangladesh face Afghanistan to keep final hopes alive",
-  "topic": "bangladesh vs afghanistan cricket",
-  "source": "Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-21T08:08:25Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "b32f9384be179e48",
-  "url": "https://bdnews24.com/business/heozz2x8du",
-  "headline": "From Nov 1, food business registration and licensing mandatory in Bangladesh",
-  "topic": "food business license mandatory",
-  "source": "bdnews24.com, Jamuna TV",
-  "status": "failed",
-  "at": "2026-10-21T08:08:25Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "6ae528d7e7d1c794",
-  "url": "https://www.jamuna.tv/national/666565",
-  "headline": "From Nov 1, food business registration and licensing mandatory in Bangladesh",
-  "topic": "food business license mandatory",
-  "source": "bdnews24.com, Jamuna TV",
-  "status": "failed",
-  "at": "2026-10-21T08:08:25Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "43a11e058700bd22",
-  "url": "https://bdnews24.com/bangladesh/1w5fg048oz",
-  "headline": "Protocol breach: Rajshahi Divisional Commissioner removed after viral video",
-  "topic": "rajshahi divisional commissioner removed viral video",
-  "source": "bdnews24.com, Dhaka Tribune, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-21T09:08:18Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "a3c6c5b52bba57ba",
   "url": "https://www.dhakatribune.com/bangladesh/nation/422591/rajshahi-divisional-commissioner-removed-after",
   "headline": "Protocol breach: Rajshahi Divisional Commissioner removed after viral video",
@@ -8308,5 +8252,41 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "3ae50d54c7313675",
+  "url": "https://bdnews24.com/bangladesh/fnnta9joul",
+  "headline": "PM Tarique Rahman leaves for Tokyo on 4-day state visit",
+  "topic": "pm heads to japan for four-day visit",
+  "source": "Jamuna TV, bdnews24.com, The Daily Star",
+  "status": "queued",
+  "at": "2026-10-25T21:09:19Z"
+ },
+ {
+  "title_hash": "df3fb411f9cc5b53",
+  "url": "https://www.jamuna.tv/national/666821",
+  "headline": "PM Tarique Rahman leaves for Tokyo on 4-day state visit",
+  "topic": "pm heads to japan for four-day visit",
+  "source": "Jamuna TV, bdnews24.com, The Daily Star",
+  "status": "queued",
+  "at": "2026-10-25T21:09:19Z"
+ },
+ {
+  "title_hash": "79b0f246795aec2f",
+  "url": "https://www.thedailystar.net/news/bangladesh/news/tarique-meet-takaichi-tomorrow-4307516",
+  "headline": "PM Tarique Rahman leaves for Tokyo on 4-day state visit",
+  "topic": "pm heads to japan for four-day visit",
+  "source": "Jamuna TV, bdnews24.com, The Daily Star",
+  "status": "queued",
+  "at": "2026-10-25T21:09:19Z"
+ },
+ {
+  "title_hash": "e48cc31ba81ac57d",
+  "url": "https://www.thedailystar.net/news/bangladesh/news/biman-extends-riyadh-dammam-flight-suspension-till-november-4-4307396",
+  "headline": "Biman extends Riyadh and Dammam flight suspension till Nov 4",
+  "topic": "biman extends saudi flight suspension",
+  "source": "The Daily Star",
+  "status": "queued",
+  "at": "2026-10-25T21:09:19Z"
  }
 ]
