@@ -1,61 +1,5 @@
 [
  {
-  "title_hash": "11e8119003079517",
-  "url": "https://bdnews24.com/health/8p0duu4s5i",
-  "headline": "1,366 hospitalized in a day as 5 more die of dengue",
-  "topic": "dengue deaths surge",
-  "source": "Dhaka Tribune, The Daily Star, bdnews24.com, Jamuna TV",
-  "status": "failed",
-  "at": "2026-10-20T13:10:31Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "4741f1acec63ed65",
-  "url": "https://www.jamuna.tv/national/666524",
-  "headline": "1,366 hospitalized in a day as 5 more die of dengue",
-  "topic": "dengue deaths surge",
-  "source": "Dhaka Tribune, The Daily Star, bdnews24.com, Jamuna TV",
-  "status": "failed",
-  "at": "2026-10-20T13:10:31Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "9c0c2d81d2babec4",
-  "url": "https://bdnews24.com/bangladesh/9nbt328ifm",
-  "headline": "84 held as police officer's rented house used for drug parties in Dhaka",
-  "topic": "raid on additional dig property",
-  "source": "bdnews24.com, The Daily Star, Jamuna TV",
-  "status": "failed",
-  "at": "2026-10-20T14:10:15Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "e3396e599a0273e5",
-  "url": "https://www.thedailystar.net/news/crime-justice/news/84-arrested-raid-over-alleged-drug-use-illegal-dj-parties-additional-digs-purbachal-property-4303386",
-  "headline": "84 held as police officer's rented house used for drug parties in Dhaka",
-  "topic": "raid on additional dig property",
-  "source": "bdnews24.com, The Daily Star, Jamuna TV",
-  "status": "failed",
-  "at": "2026-10-20T14:10:15Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "2329cfffda5f461b",
   "url": "https://www.jamuna.tv/national/666532",
   "headline": "84 held as police officer's rented house used for drug parties in Dhaka",
@@ -8308,5 +8252,41 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "015d6ee3abe14e64",
+  "url": "https://www.jamuna.tv/international/666767",
+  "headline": "Trump warns of military action against Iran again amid rising oil prices",
+  "topic": "trump warns iran military action",
+  "source": "Jamuna TV",
+  "status": "queued",
+  "at": "2026-10-25T03:08:05Z"
+ },
+ {
+  "title_hash": "57304dd0a6e41b93",
+  "url": "https://www.thedailystar.net/news/bangladesh/diplomacy/news/dhaka-tokyo-likely-ink-2b-loan-deals-4306661",
+  "headline": "Bangladesh and Japan expected to ink $2 billion loan deals during PM's Tokyo visit, officials say",
+  "topic": "pm japan visit dengue vaccine talks",
+  "source": "The Daily Star, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-25T03:08:05Z"
+ },
+ {
+  "title_hash": "9729ba1edeb37dab",
+  "url": "https://www.prothomalo.com/opinion/interview/tnn1of6c7e",
+  "headline": "Bangladesh and Japan expected to ink $2 billion loan deals during PM's Tokyo visit, officials say",
+  "topic": "pm japan visit dengue vaccine talks",
+  "source": "The Daily Star, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-25T03:08:05Z"
+ },
+ {
+  "title_hash": "3ccc130c8aaa33ba",
+  "url": "https://www.prothomalo.com/bangladesh/kpppa2rfxb",
+  "headline": "Bangladesh and Japan expected to ink $2 billion loan deals during PM's Tokyo visit, officials say",
+  "topic": "pm japan visit dengue vaccine talks",
+  "source": "The Daily Star, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-25T03:08:05Z"
  }
 ]
