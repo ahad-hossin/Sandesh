@@ -8287,8 +8287,13 @@
   "headline": "HSC, equivalent exam results to be published on October 29",
   "topic": "hsc exam results date",
   "source": "The Daily Star",
-  "status": "queued",
-  "at": "2026-10-25T00:07:56Z"
+  "status": "failed",
+  "at": "2026-10-25T00:07:56Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "f68a195f2047029e",
@@ -8296,7 +8301,12 @@
   "headline": "Hundreds of thousands protest across France over cost of living and education crisis; clashes reported",
   "topic": "student protest political unrest",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-25T00:07:56Z"
+  "status": "failed",
+  "at": "2026-10-25T00:07:56Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
