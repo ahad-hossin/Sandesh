@@ -8231,8 +8231,13 @@
   "headline": "PM Tarique Rahman leaves for Tokyo on 4-day state visit to Japan",
   "topic": "pm heads to japan for four-day visit",
   "source": "Prothom Alo, Jamuna TV, bdnews24.com",
-  "status": "queued",
-  "at": "2026-10-25T20:10:41Z"
+  "status": "failed",
+  "at": "2026-10-25T20:10:41Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "b925476592b87949",
@@ -8240,8 +8245,13 @@
   "headline": "PM Tarique Rahman leaves for Tokyo on 4-day state visit to Japan",
   "topic": "pm heads to japan for four-day visit",
   "source": "Prothom Alo, Jamuna TV, bdnews24.com",
-  "status": "queued",
-  "at": "2026-10-25T20:10:41Z"
+  "status": "failed",
+  "at": "2026-10-25T20:10:41Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "df3fb411f9cc5b53",
@@ -8249,8 +8259,13 @@
   "headline": "PM Tarique Rahman leaves for Tokyo on 4-day state visit to Japan",
   "topic": "pm heads to japan for four-day visit",
   "source": "Prothom Alo, Jamuna TV, bdnews24.com",
-  "status": "queued",
-  "at": "2026-10-25T20:10:41Z"
+  "status": "failed",
+  "at": "2026-10-25T20:10:41Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "a23a7bcb294dec3e",
@@ -8258,8 +8273,13 @@
   "headline": "Bay depression may develop into cyclone named Arnab",
   "topic": "deep depression in bay of bengal may turn into cyclone",
   "source": "Prothom Alo, bdnews24.com",
-  "status": "queued",
-  "at": "2026-10-25T20:10:41Z"
+  "status": "failed",
+  "at": "2026-10-25T20:10:41Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "f457f142e8f0932a",
@@ -8267,8 +8287,13 @@
   "headline": "Bay depression may develop into cyclone named Arnab",
   "topic": "deep depression in bay of bengal may turn into cyclone",
   "source": "Prothom Alo, bdnews24.com",
-  "status": "queued",
-  "at": "2026-10-25T20:10:41Z"
+  "status": "failed",
+  "at": "2026-10-25T20:10:41Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "9e8860d2dd54cf05",
@@ -8276,7 +8301,12 @@
   "headline": "Bay depression may develop into cyclone named Arnab",
   "topic": "deep depression in bay of bengal may turn into cyclone",
   "source": "Prothom Alo, bdnews24.com",
-  "status": "queued",
-  "at": "2026-10-25T20:10:41Z"
+  "status": "failed",
+  "at": "2026-10-25T20:10:41Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
