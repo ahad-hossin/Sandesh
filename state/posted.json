@@ -1,89 +1,5 @@
 [
  {
-  "title_hash": "a3c6c5b52bba57ba",
-  "url": "https://www.dhakatribune.com/bangladesh/nation/422591/rajshahi-divisional-commissioner-removed-after",
-  "headline": "Protocol breach: Rajshahi Divisional Commissioner removed after viral video",
-  "topic": "rajshahi divisional commissioner removed viral video",
-  "source": "bdnews24.com, Dhaka Tribune, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-21T09:08:18Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "32605ade9995c1f5",
-  "url": "https://www.prothomalo.com/bangladesh/pkns7xm5gz",
-  "headline": "Protocol breach: Rajshahi Divisional Commissioner removed after viral video",
-  "topic": "rajshahi divisional commissioner removed viral video",
-  "source": "bdnews24.com, Dhaka Tribune, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-21T09:08:18Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "c4bf3160c6cfd500",
-  "url": "https://www.dhakatribune.com/bangladesh/nation/422596/three-of-a-family-critically-burned-in-tongi-gas",
-  "headline": "3 family members critically burned in Tongi gas blast",
-  "topic": "tongi gas cylinder explosion",
-  "source": "Dhaka Tribune, Jamuna TV, bdnews24.com",
-  "status": "failed",
-  "at": "2026-10-21T09:08:18Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "8f16428828cf8581",
-  "url": "https://www.jamuna.tv/all-bangladesh/666576",
-  "headline": "3 family members critically burned in Tongi gas blast",
-  "topic": "tongi gas cylinder explosion",
-  "source": "Dhaka Tribune, Jamuna TV, bdnews24.com",
-  "status": "failed",
-  "at": "2026-10-21T09:08:18Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "2c52ce3ca2fb7789",
-  "url": "https://bdnews24.com/bangladesh/bfpyep08u9",
-  "headline": "3 family members critically burned in Tongi gas blast",
-  "topic": "tongi gas cylinder explosion",
-  "source": "Dhaka Tribune, Jamuna TV, bdnews24.com",
-  "status": "failed",
-  "at": "2026-10-21T09:08:18Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "43a11e058700bd22",
-  "url": "https://bdnews24.com/bangladesh/1w5fg048oz",
-  "headline": "Protocol breach: Rajshahi divisional commissioner removed after viral video",
-  "topic": "rajshahi divisional commissioner removed",
-  "source": "Prothom Alo, bdnews24.com, Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-10-21T10:05:47Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "32605ade9995c1f5",
   "url": "https://www.prothomalo.com/video/bangladesh/eqzzg7l6ii",
   "headline": "Protocol breach: Rajshahi divisional commissioner removed after viral video",
@@ -8308,5 +8224,59 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "3ae50d54c7313675",
+  "url": "https://bdnews24.com/bangladesh/fnnta9joul",
+  "headline": "PM Tarique Rahman leaves for Tokyo on 4-day state visit to Japan",
+  "topic": "pm visit japan",
+  "source": "Jamuna TV, bdnews24.com, Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-10-25T22:08:28Z"
+ },
+ {
+  "title_hash": "df3fb411f9cc5b53",
+  "url": "https://www.jamuna.tv/national/666821",
+  "headline": "PM Tarique Rahman leaves for Tokyo on 4-day state visit to Japan",
+  "topic": "pm visit japan",
+  "source": "Jamuna TV, bdnews24.com, Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-10-25T22:08:28Z"
+ },
+ {
+  "title_hash": "b925476592b87949",
+  "url": "https://www.prothomalo.com/bangladesh/8ftpwbotw3",
+  "headline": "PM Tarique Rahman leaves for Tokyo on 4-day state visit to Japan",
+  "topic": "pm visit japan",
+  "source": "Jamuna TV, bdnews24.com, Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-10-25T22:08:28Z"
+ },
+ {
+  "title_hash": "79b0f246795aec2f",
+  "url": "https://www.thedailystar.net/news/bangladesh/news/tarique-meet-takaichi-tomorrow-4307516",
+  "headline": "PM Tarique Rahman leaves for Tokyo on 4-day state visit to Japan",
+  "topic": "pm visit japan",
+  "source": "Jamuna TV, bdnews24.com, Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-10-25T22:08:28Z"
+ },
+ {
+  "title_hash": "b775995dbff0ecc5",
+  "url": "https://www.thedailystar.net/news/crime-justice/news/mob-kills-2-over-alleged-theft-4307496",
+  "headline": "Rangpur: Two killed in mob beating over alleged auto-rickshaw theft",
+  "topic": "mob kills 2 auto theft rangpur",
+  "source": "The Daily Star, Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-10-25T22:08:28Z"
+ },
+ {
+  "title_hash": "19fdb03e63824754",
+  "url": "https://www.dhakatribune.com/bangladesh/nation/422913/two-killed-in-mob-beating-over-alleged",
+  "headline": "Rangpur: Two killed in mob beating over alleged auto-rickshaw theft",
+  "topic": "mob kills 2 auto theft rangpur",
+  "source": "The Daily Star, Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-10-25T22:08:28Z"
  }
 ]
