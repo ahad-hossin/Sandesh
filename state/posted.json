@@ -1,33 +1,5 @@
 [
  {
-  "title_hash": "9cea31696ab472b0",
-  "url": "https://bdnews24.com/bangladesh/9h268k2m2a",
-  "headline": "30 Bangladeshis return home after release from Cambodia detention centre",
-  "topic": "bangladeshis released from cambodian detention",
-  "source": "Dhaka Tribune, Jamuna TV, bdnews24.com",
-  "status": "failed",
-  "at": "2026-10-20T12:13:11Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "0e3a7c8e5046163a",
-  "url": "https://www.dhakatribune.com/bangladesh/nation/422535/14-killed-at-least-30-injured-in-bus-truck",
-  "headline": "12 killed as bus crashes into sand-laden truck in Natore",
-  "topic": "deadly bus-truck collision in natore",
-  "source": "Dhaka Tribune, The Daily Star, Prothom Alo, Jamuna TV, bdnews24.com",
-  "status": "failed",
-  "at": "2026-10-20T12:13:11Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "9f8bdbfbe944d55e",
   "url": "https://www.thedailystar.net/news/accidents-and-fires/news/5-shariatpur-traders-among-12-killed-natore-road-crash-4303311",
   "headline": "12 killed as bus crashes into sand-laden truck in Natore",
@@ -8308,5 +8280,23 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "eb7ef938755e2eec",
+  "url": "https://www.thedailystar.net/news/education/news/hsc-equivalent-exam-results-likely-oct-29-4306706",
+  "headline": "HSC, equivalent exam results to be published on October 29",
+  "topic": "hsc exam results date",
+  "source": "The Daily Star",
+  "status": "queued",
+  "at": "2026-10-25T00:07:56Z"
+ },
+ {
+  "title_hash": "f68a195f2047029e",
+  "url": "https://www.prothomalo.com/world/europe/uqi1yu06hs",
+  "headline": "Hundreds of thousands protest across France over cost of living and education crisis; clashes reported",
+  "topic": "student protest political unrest",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-25T00:07:56Z"
  }
 ]
