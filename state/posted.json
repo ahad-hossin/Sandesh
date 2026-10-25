@@ -8259,8 +8259,13 @@
   "headline": "Bay depression may develop into cyclone Arnab",
   "topic": "bay depression cyclone arnab",
   "source": "bdnews24.com",
-  "status": "queued",
-  "at": "2026-10-25T13:07:36Z"
+  "status": "failed",
+  "at": "2026-10-25T13:07:36Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "9e8860d2dd54cf05",
@@ -8268,8 +8273,13 @@
   "headline": "Bay depression may develop into cyclone Arnab",
   "topic": "bay depression cyclone arnab",
   "source": "bdnews24.com",
-  "status": "queued",
-  "at": "2026-10-25T13:07:36Z"
+  "status": "failed",
+  "at": "2026-10-25T13:07:36Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "5145a98966ff64a4",
@@ -8277,8 +8287,13 @@
   "headline": "3 three men jailed for life for raping woman on moving bus",
   "topic": "bus rape life sentence",
   "source": "Jamuna TV, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-10-25T13:07:36Z"
+  "status": "failed",
+  "at": "2026-10-25T13:07:36Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "693973a8541c8a8a",
@@ -8286,7 +8301,12 @@
   "headline": "3 three men jailed for life for raping woman on moving bus",
   "topic": "bus rape life sentence",
   "source": "Jamuna TV, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-10-25T13:07:36Z"
+  "status": "failed",
+  "at": "2026-10-25T13:07:36Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
