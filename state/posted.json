@@ -1,61 +1,5 @@
 [
  {
-  "title_hash": "326e9636e48a8cd3",
-  "url": "https://www.dhakatribune.com/bangladesh/422571/pm-ousted-autocrat-opposition-faction-hatching",
-  "headline": "Tarique Rahman: Government will not interfere in local elections like previous regime",
-  "topic": "tarique rahman warnings unrest",
-  "source": "Prothom Alo, Dhaka Tribune, bdnews24.com, The Daily Star",
-  "status": "failed",
-  "at": "2026-10-20T22:08:17Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "d1512c40880c74a5",
-  "url": "https://www.prothomalo.com/politics/g02n8935rj",
-  "headline": "Tarique Rahman: Government will not interfere in local elections like previous regime",
-  "topic": "tarique rahman warnings unrest",
-  "source": "Prothom Alo, Dhaka Tribune, bdnews24.com, The Daily Star",
-  "status": "failed",
-  "at": "2026-10-20T22:08:17Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "f3dcf71d58cb5d5b",
-  "url": "https://bdnews24.com/bangladesh/xf079qce73",
-  "headline": "Tarique Rahman: Government will not interfere in local elections like previous regime",
-  "topic": "tarique rahman warnings unrest",
-  "source": "Prothom Alo, Dhaka Tribune, bdnews24.com, The Daily Star",
-  "status": "failed",
-  "at": "2026-10-20T22:08:17Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "e8ddbc40fccaa9dc",
-  "url": "https://www.thedailystar.net/news/bangladesh/news/ousted-autocrat-opposition-out-stir-unrest-4303766",
-  "headline": "Tarique Rahman: Government will not interfere in local elections like previous regime",
-  "topic": "tarique rahman warnings unrest",
-  "source": "Prothom Alo, Dhaka Tribune, bdnews24.com, The Daily Star",
-  "status": "failed",
-  "at": "2026-10-20T22:08:17Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "ab0bd942b9f3faf9",
   "url": "https://bdnews24.com/bangladesh/tmh9r5kvmh",
   "headline": "Tarique Rahman: Government will not interfere in local elections like previous regime",
@@ -8308,5 +8252,41 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "a23a7bcb294dec3e",
+  "url": "https://bdnews24.com/bangladesh/wfmye86len",
+  "headline": "Bay depression may develop into cyclone Arnab",
+  "topic": "bay depression cyclone arnab",
+  "source": "bdnews24.com",
+  "status": "queued",
+  "at": "2026-10-25T13:07:36Z"
+ },
+ {
+  "title_hash": "9e8860d2dd54cf05",
+  "url": "https://bdnews24.com/bangladesh/ivy1c5n221",
+  "headline": "Bay depression may develop into cyclone Arnab",
+  "topic": "bay depression cyclone arnab",
+  "source": "bdnews24.com",
+  "status": "queued",
+  "at": "2026-10-25T13:07:36Z"
+ },
+ {
+  "title_hash": "5145a98966ff64a4",
+  "url": "https://www.dhakatribune.com/bangladesh/court/422882/three-sentenced-to-life-for-rape-on-moving-bus-on",
+  "headline": "3 three men jailed for life for raping woman on moving bus",
+  "topic": "bus rape life sentence",
+  "source": "Jamuna TV, Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-10-25T13:07:36Z"
+ },
+ {
+  "title_hash": "693973a8541c8a8a",
+  "url": "https://www.jamuna.tv/all-bangladesh/666810",
+  "headline": "3 three men jailed for life for raping woman on moving bus",
+  "topic": "bus rape life sentence",
+  "source": "Jamuna TV, Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-10-25T13:07:36Z"
  }
 ]
