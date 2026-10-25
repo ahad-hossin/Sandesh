@@ -8259,8 +8259,13 @@
   "headline": "PM Tarique Rahman leaves for Tokyo on 4-day state visit",
   "topic": "pm heads to japan for four-day visit",
   "source": "Jamuna TV, bdnews24.com, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-25T21:09:19Z"
+  "status": "failed",
+  "at": "2026-10-25T21:09:19Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "df3fb411f9cc5b53",
@@ -8268,8 +8273,13 @@
   "headline": "PM Tarique Rahman leaves for Tokyo on 4-day state visit",
   "topic": "pm heads to japan for four-day visit",
   "source": "Jamuna TV, bdnews24.com, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-25T21:09:19Z"
+  "status": "failed",
+  "at": "2026-10-25T21:09:19Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "79b0f246795aec2f",
@@ -8277,8 +8287,13 @@
   "headline": "PM Tarique Rahman leaves for Tokyo on 4-day state visit",
   "topic": "pm heads to japan for four-day visit",
   "source": "Jamuna TV, bdnews24.com, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-25T21:09:19Z"
+  "status": "failed",
+  "at": "2026-10-25T21:09:19Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "e48cc31ba81ac57d",
@@ -8286,7 +8301,12 @@
   "headline": "Biman extends Riyadh and Dammam flight suspension till Nov 4",
   "topic": "biman extends saudi flight suspension",
   "source": "The Daily Star",
-  "status": "queued",
-  "at": "2026-10-25T21:09:19Z"
+  "status": "failed",
+  "at": "2026-10-25T21:09:19Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
