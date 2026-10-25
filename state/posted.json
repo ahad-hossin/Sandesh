@@ -8231,8 +8231,13 @@
   "headline": "Student placed on 7-day remand over 'sniper' comment on PM",
   "topic": "youth remanded sniper comment pm",
   "source": "Dhaka Tribune, bdnews24.com, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-25T11:08:50Z"
+  "status": "failed",
+  "at": "2026-10-25T11:08:50Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "8c39f0b4ac219ebd",
@@ -8240,8 +8245,13 @@
   "headline": "Student placed on 7-day remand over 'sniper' comment on PM",
   "topic": "youth remanded sniper comment pm",
   "source": "Dhaka Tribune, bdnews24.com, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-25T11:08:50Z"
+  "status": "failed",
+  "at": "2026-10-25T11:08:50Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "01909b7c722fe985",
@@ -8249,8 +8259,13 @@
   "headline": "Student placed on 7-day remand over 'sniper' comment on PM",
   "topic": "youth remanded sniper comment pm",
   "source": "Dhaka Tribune, bdnews24.com, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-25T11:08:50Z"
+  "status": "failed",
+  "at": "2026-10-25T11:08:50Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "2c9542b0432ac504",
@@ -8258,8 +8273,13 @@
   "headline": "Next election will be held under caretaker govt, says Home Minister",
   "topic": "next election caretaker govt",
   "source": "bdnews24.com, Dhaka Tribune, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-25T11:08:50Z"
+  "status": "failed",
+  "at": "2026-10-25T11:08:50Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "0e6e99f1397281da",
@@ -8267,8 +8287,13 @@
   "headline": "Next election will be held under caretaker govt, says Home Minister",
   "topic": "next election caretaker govt",
   "source": "bdnews24.com, Dhaka Tribune, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-25T11:08:50Z"
+  "status": "failed",
+  "at": "2026-10-25T11:08:50Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "7fcf29e1ec38c982",
@@ -8276,7 +8301,12 @@
   "headline": "Next election will be held under caretaker govt, says Home Minister",
   "topic": "next election caretaker govt",
   "source": "bdnews24.com, Dhaka Tribune, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-25T11:08:50Z"
+  "status": "failed",
+  "at": "2026-10-25T11:08:50Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
