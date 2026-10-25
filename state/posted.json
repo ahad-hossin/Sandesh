@@ -1,89 +1,5 @@
 [
  {
-  "title_hash": "cab610676a787cb4",
-  "url": "https://www.jamuna.tv/all-bangladesh/666551",
-  "headline": "RMCH intern doctors halt work over five-point demand",
-  "topic": "rmch intern doctors strike",
-  "source": "Dhaka Tribune, Jamuna TV",
-  "status": "failed",
-  "at": "2026-10-21T07:07:44Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "c51c9c1ea4352dc9",
-  "url": "https://www.thedailystar.net/news/world/news/trump-administration-says-it-has-revoked-over-300000-visas-4303951",
-  "headline": "Over 300,000 US visas revoked by Trump administration in second term",
-  "topic": "trump revokes 300k visas",
-  "source": "The Daily Star, Jamuna TV, bdnews24.com, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-21T07:07:44Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "dc3c13313553fd17",
-  "url": "https://www.jamuna.tv/international/666556",
-  "headline": "Over 300,000 US visas revoked by Trump administration in second term",
-  "topic": "trump revokes 300k visas",
-  "source": "The Daily Star, Jamuna TV, bdnews24.com, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-21T07:07:44Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "f09c659a5050e9b8",
-  "url": "https://bdnews24.com/world/americas/g0ctq3mi9m",
-  "headline": "Over 300,000 US visas revoked by Trump administration in second term",
-  "topic": "trump revokes 300k visas",
-  "source": "The Daily Star, Jamuna TV, bdnews24.com, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-21T07:07:44Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "5fcfdb3930d03804",
-  "url": "https://www.prothomalo.com/world/usa/wrrjv29x3f",
-  "headline": "Over 300,000 US visas revoked by Trump administration in second term",
-  "topic": "trump revokes 300k visas",
-  "source": "The Daily Star, Jamuna TV, bdnews24.com, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-21T07:07:44Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "c8b338bbb4acd1fb",
-  "url": "https://www.jamuna.tv/sports/666575",
-  "headline": "Must-win game: Bangladesh face Afghanistan to keep final hopes alive",
-  "topic": "bangladesh vs afghanistan cricket",
-  "source": "Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-21T08:08:25Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "96c949170d15bdaa",
   "url": "https://www.prothomalo.com/sports/cricket/6o0ph8went",
   "headline": "Must-win game: Bangladesh face Afghanistan to keep final hopes alive",
@@ -8308,5 +8224,59 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "3ae50d54c7313675",
+  "url": "https://bdnews24.com/bangladesh/fnnta9joul",
+  "headline": "PM Tarique Rahman leaves for Tokyo on 4-day state visit to Japan",
+  "topic": "pm heads to japan for four-day visit",
+  "source": "Prothom Alo, Jamuna TV, bdnews24.com",
+  "status": "queued",
+  "at": "2026-10-25T20:10:41Z"
+ },
+ {
+  "title_hash": "b925476592b87949",
+  "url": "https://www.prothomalo.com/bangladesh/8ftpwbotw3",
+  "headline": "PM Tarique Rahman leaves for Tokyo on 4-day state visit to Japan",
+  "topic": "pm heads to japan for four-day visit",
+  "source": "Prothom Alo, Jamuna TV, bdnews24.com",
+  "status": "queued",
+  "at": "2026-10-25T20:10:41Z"
+ },
+ {
+  "title_hash": "df3fb411f9cc5b53",
+  "url": "https://www.jamuna.tv/national/666821",
+  "headline": "PM Tarique Rahman leaves for Tokyo on 4-day state visit to Japan",
+  "topic": "pm heads to japan for four-day visit",
+  "source": "Prothom Alo, Jamuna TV, bdnews24.com",
+  "status": "queued",
+  "at": "2026-10-25T20:10:41Z"
+ },
+ {
+  "title_hash": "a23a7bcb294dec3e",
+  "url": "https://bdnews24.com/bangladesh/wfmye86len",
+  "headline": "Bay depression may develop into cyclone named Arnab",
+  "topic": "deep depression in bay of bengal may turn into cyclone",
+  "source": "Prothom Alo, bdnews24.com",
+  "status": "queued",
+  "at": "2026-10-25T20:10:41Z"
+ },
+ {
+  "title_hash": "f457f142e8f0932a",
+  "url": "https://www.prothomalo.com/video/bangladesh/x2f592b5p1",
+  "headline": "Bay depression may develop into cyclone named Arnab",
+  "topic": "deep depression in bay of bengal may turn into cyclone",
+  "source": "Prothom Alo, bdnews24.com",
+  "status": "queued",
+  "at": "2026-10-25T20:10:41Z"
+ },
+ {
+  "title_hash": "9e8860d2dd54cf05",
+  "url": "https://bdnews24.com/bangladesh/ivy1c5n221",
+  "headline": "Bay depression may develop into cyclone named Arnab",
+  "topic": "deep depression in bay of bengal may turn into cyclone",
+  "source": "Prothom Alo, bdnews24.com",
+  "status": "queued",
+  "at": "2026-10-25T20:10:41Z"
  }
 ]
