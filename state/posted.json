@@ -8231,8 +8231,13 @@
   "headline": "Youth remanded for 7 days over 'sniper' comment on PM's visit",
   "topic": "pm bus sniper comment remand",
   "source": "Prothom Alo, bdnews24.com, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-10-25T15:06:54Z"
+  "status": "failed",
+  "at": "2026-10-25T15:06:54Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "91ced770700e70cd",
@@ -8240,8 +8245,13 @@
   "headline": "Youth remanded for 7 days over 'sniper' comment on PM's visit",
   "topic": "pm bus sniper comment remand",
   "source": "Prothom Alo, bdnews24.com, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-10-25T15:06:54Z"
+  "status": "failed",
+  "at": "2026-10-25T15:06:54Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "55e64ac97aaf8e00",
@@ -8249,8 +8259,13 @@
   "headline": "Youth remanded for 7 days over 'sniper' comment on PM's visit",
   "topic": "pm bus sniper comment remand",
   "source": "Prothom Alo, bdnews24.com, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-10-25T15:06:54Z"
+  "status": "failed",
+  "at": "2026-10-25T15:06:54Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "a23a7bcb294dec3e",
@@ -8258,8 +8273,13 @@
   "headline": "Bay depression may develop into cyclone Arnab",
   "topic": "bay depression cyclone arnab",
   "source": "Prothom Alo, bdnews24.com",
-  "status": "queued",
-  "at": "2026-10-25T15:06:54Z"
+  "status": "failed",
+  "at": "2026-10-25T15:06:54Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "7f739633e679c57e",
@@ -8267,8 +8287,13 @@
   "headline": "Bay depression may develop into cyclone Arnab",
   "topic": "bay depression cyclone arnab",
   "source": "Prothom Alo, bdnews24.com",
-  "status": "queued",
-  "at": "2026-10-25T15:06:54Z"
+  "status": "failed",
+  "at": "2026-10-25T15:06:54Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "9e8860d2dd54cf05",
@@ -8276,7 +8301,12 @@
   "headline": "Bay depression may develop into cyclone Arnab",
   "topic": "bay depression cyclone arnab",
   "source": "Prothom Alo, bdnews24.com",
-  "status": "queued",
-  "at": "2026-10-25T15:06:54Z"
+  "status": "failed",
+  "at": "2026-10-25T15:06:54Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
