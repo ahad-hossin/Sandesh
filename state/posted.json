@@ -8231,8 +8231,13 @@
   "headline": "PM Tarique Rahman leaves for Tokyo on 4-day state visit to Japan",
   "topic": "pm visit japan",
   "source": "Jamuna TV, bdnews24.com, Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-25T22:08:28Z"
+  "status": "failed",
+  "at": "2026-10-25T22:08:28Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "df3fb411f9cc5b53",
@@ -8240,8 +8245,13 @@
   "headline": "PM Tarique Rahman leaves for Tokyo on 4-day state visit to Japan",
   "topic": "pm visit japan",
   "source": "Jamuna TV, bdnews24.com, Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-25T22:08:28Z"
+  "status": "failed",
+  "at": "2026-10-25T22:08:28Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "b925476592b87949",
@@ -8249,8 +8259,13 @@
   "headline": "PM Tarique Rahman leaves for Tokyo on 4-day state visit to Japan",
   "topic": "pm visit japan",
   "source": "Jamuna TV, bdnews24.com, Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-25T22:08:28Z"
+  "status": "failed",
+  "at": "2026-10-25T22:08:28Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "79b0f246795aec2f",
@@ -8258,8 +8273,13 @@
   "headline": "PM Tarique Rahman leaves for Tokyo on 4-day state visit to Japan",
   "topic": "pm visit japan",
   "source": "Jamuna TV, bdnews24.com, Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-25T22:08:28Z"
+  "status": "failed",
+  "at": "2026-10-25T22:08:28Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "b775995dbff0ecc5",
@@ -8267,8 +8287,13 @@
   "headline": "Rangpur: Two killed in mob beating over alleged auto-rickshaw theft",
   "topic": "mob kills 2 auto theft rangpur",
   "source": "The Daily Star, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-10-25T22:08:28Z"
+  "status": "failed",
+  "at": "2026-10-25T22:08:28Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "19fdb03e63824754",
@@ -8276,7 +8301,12 @@
   "headline": "Rangpur: Two killed in mob beating over alleged auto-rickshaw theft",
   "topic": "mob kills 2 auto theft rangpur",
   "source": "The Daily Star, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-10-25T22:08:28Z"
+  "status": "failed",
+  "at": "2026-10-25T22:08:28Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
