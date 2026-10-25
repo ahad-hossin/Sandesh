@@ -1,61 +1,5 @@
 [
  {
-  "title_hash": "e3396e599a0273e5",
-  "url": "https://www.thedailystar.net/news/crime-justice/news/84-arrested-raid-over-alleged-drug-use-illegal-dj-parties-additional-digs-purbachal-property-4303386",
-  "headline": "84 detained as drug den uncovered at Additional DIG's house",
-  "topic": "drug den busted at senior police officer's house",
-  "source": "Dhaka Tribune, Jamuna TV, Prothom Alo, bdnews24.com, The Daily Star",
-  "status": "failed",
-  "at": "2026-10-20T16:08:30Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "3b6c2365e3c86098",
-  "url": "https://www.dhakatribune.com/bangladesh/foreign-affairs/422578/jhenaidah-man-dies-in-latvia-after-alleged-torture",
-  "headline": "Saudi Arabia executes Bangladeshi woman over 'immoral act' allegations",
-  "topic": "bangladeshi workers executed in saudi arabia",
-  "source": "Dhaka Tribune, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-10-20T17:13:42Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "66aa1376ef276b14",
-  "url": "https://www.dhakatribune.com/bangladesh/foreign-affairs/422577/two-bangladeshis-executed-truth-saudi-arabia",
-  "headline": "Saudi Arabia executes Bangladeshi woman over 'immoral act' allegations",
-  "topic": "bangladeshi workers executed in saudi arabia",
-  "source": "Dhaka Tribune, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-10-20T17:13:42Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "820487155183ea5f",
-  "url": "https://www.dhakatribune.com/bangladesh/nation/422574/saudi-execution-family-disputes-identity-of",
-  "headline": "Saudi Arabia executes Bangladeshi woman over 'immoral act' allegations",
-  "topic": "bangladeshi workers executed in saudi arabia",
-  "source": "Dhaka Tribune, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-10-20T17:13:42Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "f77fce6b6736bb8a",
   "url": "https://www.prothomalo.com/bangladesh/district/saudite-suittir-mrtyudnndd-mirjaapure-shok",
   "headline": "Saudi Arabia executes Bangladeshi woman over 'immoral act' allegations",
@@ -8308,5 +8252,41 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "b39474c6157f5585",
+  "url": "https://www.jamuna.tv/international/666785",
+  "headline": "France protests: Nearly 1,000 arrested amid clashes over cost of living",
+  "topic": "france protests arrests",
+  "source": "Jamuna TV",
+  "status": "queued",
+  "at": "2026-10-25T07:10:45Z"
+ },
+ {
+  "title_hash": "7016caa26994c32a",
+  "url": "https://www.jamuna.tv/international/666765",
+  "headline": "France protests: Nearly 1,000 arrested amid clashes over cost of living",
+  "topic": "france protests arrests",
+  "source": "Jamuna TV",
+  "status": "queued",
+  "at": "2026-10-25T07:10:45Z"
+ },
+ {
+  "title_hash": "763ea4e3358b1bf4",
+  "url": "https://www.dhakatribune.com/bangladesh/dhaka/422850/dhaka-ranks-world-s-third-most-polluted-city",
+  "headline": "Dhaka ranks world's 5th most polluted city Sunday morning",
+  "topic": "dhaka air pollution",
+  "source": "Dhaka Tribune, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-25T07:10:45Z"
+ },
+ {
+  "title_hash": "311f7e7998fc38b2",
+  "url": "https://www.prothomalo.com/bangladesh/environment/zf3t6zqx3g",
+  "headline": "Dhaka ranks world's 5th most polluted city Sunday morning",
+  "topic": "dhaka air pollution",
+  "source": "Dhaka Tribune, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-25T07:10:45Z"
  }
 ]
