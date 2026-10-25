@@ -8259,8 +8259,13 @@
   "headline": "HSC and equivalent exam results to be published on October 29",
   "topic": "hsc exam results oct 29",
   "source": "Jamuna TV, bdnews24.com, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-25T01:06:57Z"
+  "status": "failed",
+  "at": "2026-10-25T01:06:57Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "eeb93c765c0e612b",
@@ -8268,8 +8273,13 @@
   "headline": "HSC and equivalent exam results to be published on October 29",
   "topic": "hsc exam results oct 29",
   "source": "Jamuna TV, bdnews24.com, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-25T01:06:57Z"
+  "status": "failed",
+  "at": "2026-10-25T01:06:57Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "eb7ef938755e2eec",
@@ -8277,8 +8287,13 @@
   "headline": "HSC and equivalent exam results to be published on October 29",
   "topic": "hsc exam results oct 29",
   "source": "Jamuna TV, bdnews24.com, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-25T01:06:57Z"
+  "status": "failed",
+  "at": "2026-10-25T01:06:57Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "313a78d27913cdad",
@@ -8286,7 +8301,12 @@
   "headline": "Japan eyes Bangladesh to make cars with $6.35 billion potential investment",
   "topic": "japan invests car manufacturing bangladesh",
   "source": "The Daily Star",
-  "status": "queued",
-  "at": "2026-10-25T01:06:57Z"
+  "status": "failed",
+  "at": "2026-10-25T01:06:57Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
