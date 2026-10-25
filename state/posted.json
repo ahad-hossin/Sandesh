@@ -8245,8 +8245,13 @@
   "headline": "Riyadh's King Khalid Airport partially reopens amid Houthi missile threats",
   "topic": "biman suspends saudi flights",
   "source": "Prothom Alo, bdnews24.com",
-  "status": "queued",
-  "at": "2026-10-25T16:19:54Z"
+  "status": "failed",
+  "at": "2026-10-25T16:19:54Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "51ec2338adec50e3",
@@ -8254,8 +8259,13 @@
   "headline": "Riyadh's King Khalid Airport partially reopens amid Houthi missile threats",
   "topic": "biman suspends saudi flights",
   "source": "Prothom Alo, bdnews24.com",
-  "status": "queued",
-  "at": "2026-10-25T16:19:54Z"
+  "status": "failed",
+  "at": "2026-10-25T16:19:54Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "89bf66cb01adc066",
@@ -8263,8 +8273,13 @@
   "headline": "Riyadh's King Khalid Airport partially reopens amid Houthi missile threats",
   "topic": "biman suspends saudi flights",
   "source": "Prothom Alo, bdnews24.com",
-  "status": "queued",
-  "at": "2026-10-25T16:19:54Z"
+  "status": "failed",
+  "at": "2026-10-25T16:19:54Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "19fdb03e63824754",
@@ -8272,8 +8287,13 @@
   "headline": "3 men get life imprisonment for gang-raping woman on moving bus",
   "topic": "mob beating over alleged theft",
   "source": "Dhaka Tribune, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-25T16:19:54Z"
+  "status": "failed",
+  "at": "2026-10-25T16:19:54Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "49924574da660b24",
@@ -8281,7 +8301,12 @@
   "headline": "3 men get life imprisonment for gang-raping woman on moving bus",
   "topic": "mob beating over alleged theft",
   "source": "Dhaka Tribune, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-25T16:19:54Z"
+  "status": "failed",
+  "at": "2026-10-25T16:19:54Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
