@@ -1,61 +1,5 @@
 [
  {
-  "title_hash": "7c40b549537cae92",
-  "url": "https://bdnews24.com/bangladesh/r4o1fzvzn6",
-  "headline": "3 carriages of Karnaphuli Express derail in Cumilla's Laksam",
-  "topic": "karnaphuli express train derailment",
-  "source": "bdnews24.com, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-21T10:05:47Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "ae8c3d800a37d3ae",
-  "url": "https://www.jamuna.tv/all-bangladesh/666579",
-  "headline": "3 carriages of Karnaphuli Express derail in Cumilla's Laksam",
-  "topic": "karnaphuli express train derailment",
-  "source": "bdnews24.com, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-21T10:05:47Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "24857df6a1892b11",
-  "url": "https://www.prothomalo.com/bangladesh/district/ssxxllnzwk",
-  "headline": "3 carriages of Karnaphuli Express derail in Cumilla's Laksam",
-  "topic": "karnaphuli express train derailment",
-  "source": "bdnews24.com, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-21T10:05:47Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "e99f8475bc55f225",
-  "url": "https://www.jamuna.tv/national/666589",
-  "headline": "16,000+ police deployed as idol immersion ceremonies take place at 33 points in Dhaka",
-  "topic": "durga puja idol immersion security",
-  "source": "Jamuna TV",
-  "status": "failed",
-  "at": "2026-10-21T11:10:33Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "1c93365d76fc196c",
   "url": "https://www.jamuna.tv/health/666583",
   "headline": "16,000+ police deployed as idol immersion ceremonies take place at 33 points in Dhaka",
@@ -8308,5 +8252,41 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "b3be941cfdb4b25f",
+  "url": "https://www.thedailystar.net/news/bangladesh/diplomacy/news/bangladeshis-executed-ksa-jeddah-mission-thought-theyre-serving-time-4307491",
+  "headline": "Jeddah mission thought executed Bangladeshis faced prison not death penalty, Foreign Ministry tells MPs",
+  "topic": "bangladeshis executed ksa sharia law",
+  "source": "Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-10-26T01:07:24Z"
+ },
+ {
+  "title_hash": "7a62ebe2d2ce6f0d",
+  "url": "https://www.prothomalo.com/religion/islam/zdbqflo91b",
+  "headline": "Jeddah mission thought executed Bangladeshis faced prison not death penalty, Foreign Ministry tells MPs",
+  "topic": "bangladeshis executed ksa sharia law",
+  "source": "Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-10-26T01:07:24Z"
+ },
+ {
+  "title_hash": "3e4276c0b898e474",
+  "url": "https://bdnews24.com/bangladesh/r3pt70zhtw",
+  "headline": "DGFI members among 6 arrested over alleged kidnapping of businessman in Dhaka",
+  "topic": "dgfi men held extortion",
+  "source": "bdnews24.com, The Daily Star",
+  "status": "queued",
+  "at": "2026-10-26T01:07:24Z"
+ },
+ {
+  "title_hash": "28c01dbc8986251a",
+  "url": "https://www.thedailystar.net/news/crime-justice/news/extortion-attempt-two-dgfi-men-among-6-held-4307506",
+  "headline": "DGFI members among 6 arrested over alleged kidnapping of businessman in Dhaka",
+  "topic": "dgfi men held extortion",
+  "source": "bdnews24.com, The Daily Star",
+  "status": "queued",
+  "at": "2026-10-26T01:07:24Z"
  }
 ]
