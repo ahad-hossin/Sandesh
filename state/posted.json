@@ -1,61 +1,5 @@
 [
  {
-  "title_hash": "48c28dd1c9ac1ca2",
-  "url": "https://www.thedailystar.net/news/crime-justice/news/man-beaten-death-over-child-abduction-suspicion-shaheed-suhrawardy-medical-college-hospital-4304966",
-  "headline": "Man beaten to death over child abduction suspicion at Dhaka hospital",
-  "topic": "man beaten to death at suhrawardy hospital",
-  "source": "Dhaka Tribune, Jamuna TV, bdnews24.com, The Daily Star",
-  "status": "failed",
-  "at": "2026-10-22T12:20:26Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "7e5b18d2ac4c4b32",
-  "url": "https://www.dhakatribune.com/bangladesh/nation/422679/six-law-enforcers-injured-as-gunfire-targets-sajek",
-  "headline": "6 law enforcers injured as gunfire targets Sajek tourist convoy",
-  "topic": "sajek tourist blockade gunfight",
-  "source": "Prothom Alo, Dhaka Tribune, The Daily Star, Jamuna TV, bdnews24.com",
-  "status": "failed",
-  "at": "2026-10-22T13:07:35Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "2f657a8edd0974a4",
-  "url": "https://www.prothomalo.com/video/bangladesh/u80qvc182q",
-  "headline": "6 law enforcers injured as gunfire targets Sajek tourist convoy",
-  "topic": "sajek tourist blockade gunfight",
-  "source": "Prothom Alo, Dhaka Tribune, The Daily Star, Jamuna TV, bdnews24.com",
-  "status": "failed",
-  "at": "2026-10-22T13:07:35Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "2e8f46da8a81b608",
-  "url": "https://www.thedailystar.net/news/politics/news/no-one-has-the-right-play-lives-ordinary-citizens-jamaat-ameer-sajek-blockade-4305026",
-  "headline": "6 law enforcers injured as gunfire targets Sajek tourist convoy",
-  "topic": "sajek tourist blockade gunfight",
-  "source": "Prothom Alo, Dhaka Tribune, The Daily Star, Jamuna TV, bdnews24.com",
-  "status": "failed",
-  "at": "2026-10-22T13:07:35Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "334760d88e3d78dd",
   "url": "https://www.jamuna.tv/politics/666642",
   "headline": "6 law enforcers injured as gunfire targets Sajek tourist convoy",
@@ -8308,5 +8252,41 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "1f27fb9256000dd2",
+  "url": "https://bdnews24.com/politics/dchlz1k91i",
+  "headline": "Paltan: CPB office attacked over alleged Awami League ties",
+  "topic": "cpb office attacked over alleged awami league ties",
+  "source": "bdnews24.com, Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-10-26T19:08:33Z"
+ },
+ {
+  "title_hash": "c23d14badff34670",
+  "url": "https://www.dhakatribune.com/bangladesh/422995/cpb-office-attacked-in-paltan",
+  "headline": "Paltan: CPB office attacked over alleged Awami League ties",
+  "topic": "cpb office attacked over alleged awami league ties",
+  "source": "bdnews24.com, Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-10-26T19:08:33Z"
+ },
+ {
+  "title_hash": "1f9de0ea0cf0918d",
+  "url": "https://www.jamuna.tv/all-bangladesh/666879",
+  "headline": "Former police officer taken into custody over Prophet Muhammad (PBUH) insults in Tahirpur",
+  "topic": "youth arrested for facebook post insulting prophet mohammad",
+  "source": "Jamuna TV",
+  "status": "queued",
+  "at": "2026-10-26T19:08:33Z"
+ },
+ {
+  "title_hash": "a3ed222d7ab29653",
+  "url": "https://www.jamuna.tv/all-bangladesh/666880",
+  "headline": "Former police officer taken into custody over Prophet Muhammad (PBUH) insults in Tahirpur",
+  "topic": "youth arrested for facebook post insulting prophet mohammad",
+  "source": "Jamuna TV",
+  "status": "queued",
+  "at": "2026-10-26T19:08:33Z"
  }
 ]
