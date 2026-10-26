@@ -8273,8 +8273,13 @@
   "headline": "Sheikh Hasina and 33 others indicted in truck driver killing case",
   "topic": "hasina indicted truck driver killing",
   "source": "The Daily Star",
-  "status": "queued",
-  "at": "2026-10-26T21:09:51Z"
+  "status": "failed",
+  "at": "2026-10-26T21:09:51Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "80ebc9ceba6d3ddc",
@@ -8282,8 +8287,13 @@
   "headline": "Winds up to 117kmph: Cyclone Arnab grows into severe storm",
   "topic": "cyclone arnab ports signal 3",
   "source": "bdnews24.com, Jamuna TV",
-  "status": "queued",
-  "at": "2026-10-26T21:09:51Z"
+  "status": "failed",
+  "at": "2026-10-26T21:09:51Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "1827cce9c9aa0888",
@@ -8291,7 +8301,12 @@
   "headline": "Winds up to 117kmph: Cyclone Arnab grows into severe storm",
   "topic": "cyclone arnab ports signal 3",
   "source": "bdnews24.com, Jamuna TV",
-  "status": "queued",
-  "at": "2026-10-26T21:09:51Z"
+  "status": "failed",
+  "at": "2026-10-26T21:09:51Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
