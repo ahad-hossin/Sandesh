@@ -8245,8 +8245,13 @@
   "headline": "Sheikh Hasina and 33 others indicted in truck driver killing case",
   "topic": "hasina indicted truck driver killing",
   "source": "The Daily Star",
-  "status": "queued",
-  "at": "2026-10-26T20:08:01Z"
+  "status": "failed",
+  "at": "2026-10-26T20:08:01Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "c23d14badff34670",
@@ -8254,8 +8259,13 @@
   "headline": "CPB activists attacked in Paltan over 'Joy Bangla' slogans",
   "topic": "cpb office attack paltan",
   "source": "Jamuna TV, Dhaka Tribune, Prothom Alo, bdnews24.com",
-  "status": "queued",
-  "at": "2026-10-26T20:08:01Z"
+  "status": "failed",
+  "at": "2026-10-26T20:08:01Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "1727479c3c9ebdd1",
@@ -8263,8 +8273,13 @@
   "headline": "CPB activists attacked in Paltan over 'Joy Bangla' slogans",
   "topic": "cpb office attack paltan",
   "source": "Jamuna TV, Dhaka Tribune, Prothom Alo, bdnews24.com",
-  "status": "queued",
-  "at": "2026-10-26T20:08:01Z"
+  "status": "failed",
+  "at": "2026-10-26T20:08:01Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "8d634acd26e558f0",
@@ -8272,8 +8287,13 @@
   "headline": "CPB activists attacked in Paltan over 'Joy Bangla' slogans",
   "topic": "cpb office attack paltan",
   "source": "Jamuna TV, Dhaka Tribune, Prothom Alo, bdnews24.com",
-  "status": "queued",
-  "at": "2026-10-26T20:08:01Z"
+  "status": "failed",
+  "at": "2026-10-26T20:08:01Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "1f27fb9256000dd2",
@@ -8281,7 +8301,12 @@
   "headline": "CPB activists attacked in Paltan over 'Joy Bangla' slogans",
   "topic": "cpb office attack paltan",
   "source": "Jamuna TV, Dhaka Tribune, Prothom Alo, bdnews24.com",
-  "status": "queued",
-  "at": "2026-10-26T20:08:01Z"
+  "status": "failed",
+  "at": "2026-10-26T20:08:01Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
