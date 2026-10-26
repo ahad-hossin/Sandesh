@@ -1,75 +1,5 @@
 [
  {
-  "title_hash": "779379f825676b58",
-  "url": "https://www.thedailystar.net/news/news/three-carriages-karnaphuli-commuter-derail-cumilla-4304086",
-  "headline": "3 carriages of Karnaphuli Commuter derail in Cumilla, suspending Dhaka-Chattogram route",
-  "topic": "karnaphuli commuter train derailment",
-  "source": "The Daily Star, Jamuna TV, bdnews24.com",
-  "status": "failed",
-  "at": "2026-10-21T13:19:47Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "ae8c3d800a37d3ae",
-  "url": "https://www.jamuna.tv/all-bangladesh/666579",
-  "headline": "3 carriages of Karnaphuli Commuter derail in Cumilla, suspending Dhaka-Chattogram route",
-  "topic": "karnaphuli commuter train derailment",
-  "source": "The Daily Star, Jamuna TV, bdnews24.com",
-  "status": "failed",
-  "at": "2026-10-21T13:19:47Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "7c40b549537cae92",
-  "url": "https://bdnews24.com/bangladesh/r4o1fzvzn6",
-  "headline": "3 carriages of Karnaphuli Commuter derail in Cumilla, suspending Dhaka-Chattogram route",
-  "topic": "karnaphuli commuter train derailment",
-  "source": "The Daily Star, Jamuna TV, bdnews24.com",
-  "status": "failed",
-  "at": "2026-10-21T13:19:47Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "74261dbf300914c1",
-  "url": "https://www.prothomalo.com/bangladesh/district/yrcovrmg2t",
-  "headline": "Former army member among 6 arrested as police rescue kidnapped shopkeeper",
-  "topic": "bangladeshi scam victims return from myanmar",
-  "source": "Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-21T14:09:50Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "9f84592980c8c771",
-  "url": "https://www.prothomalo.com/bangladesh/tlb4veze25",
-  "headline": "Former army member among 6 arrested as police rescue kidnapped shopkeeper",
-  "topic": "bangladeshi scam victims return from myanmar",
-  "source": "Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-21T14:09:50Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "097cb30ffe137f04",
   "url": "https://www.dhakatribune.com/bangladesh/422616/sajek-strike-called-again-tourists-urged-to-leave",
   "headline": "Tourists urged to leave as Sajek road blockade resumes",
@@ -8308,5 +8238,50 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "cffe84baf903a564",
+  "url": "https://www.prothomalo.com/business/personal-finance/tqnjgizh9d",
+  "headline": "Gas, electricity disconnection among 5 penalties for not filing income tax return",
+  "topic": "no tax return gas electricity cut",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-26T04:06:51Z"
+ },
+ {
+  "title_hash": "c19a3aaf727df8b9",
+  "url": "https://www.dhakatribune.com/bangladesh/foreign-affairs/422925/pm-arrives-in-tokyo-on-four-day-state-visit-to",
+  "headline": "PM Tarique Rahman arrives in Tokyo for four-day state visit to deepen Bangladesh-Japan ties",
+  "topic": "pm arrives japan state visit",
+  "source": "Dhaka Tribune, The Daily Star, bdnews24.com, Jamuna TV",
+  "status": "queued",
+  "at": "2026-10-26T04:06:51Z"
+ },
+ {
+  "title_hash": "3dec1fc3e62748d6",
+  "url": "https://www.thedailystar.net/news/bangladesh/diplomacy/news/pm-reaches-tokyo-four-day-official-visit-4307551",
+  "headline": "PM Tarique Rahman arrives in Tokyo for four-day state visit to deepen Bangladesh-Japan ties",
+  "topic": "pm arrives japan state visit",
+  "source": "Dhaka Tribune, The Daily Star, bdnews24.com, Jamuna TV",
+  "status": "queued",
+  "at": "2026-10-26T04:06:51Z"
+ },
+ {
+  "title_hash": "403e19d22c4c74b0",
+  "url": "https://bdnews24.com/bangladesh/qcymuciqzm",
+  "headline": "PM Tarique Rahman arrives in Tokyo for four-day state visit to deepen Bangladesh-Japan ties",
+  "topic": "pm arrives japan state visit",
+  "source": "Dhaka Tribune, The Daily Star, bdnews24.com, Jamuna TV",
+  "status": "queued",
+  "at": "2026-10-26T04:06:51Z"
+ },
+ {
+  "title_hash": "0a3aba48435ac955",
+  "url": "https://www.jamuna.tv/national/666825",
+  "headline": "PM Tarique Rahman arrives in Tokyo for four-day state visit to deepen Bangladesh-Japan ties",
+  "topic": "pm arrives japan state visit",
+  "source": "Dhaka Tribune, The Daily Star, bdnews24.com, Jamuna TV",
+  "status": "queued",
+  "at": "2026-10-26T04:06:51Z"
  }
 ]
