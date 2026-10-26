@@ -1,89 +1,5 @@
 [
  {
-  "title_hash": "cd8b654330f92b4f",
-  "url": "https://www.prothomalo.com/bangladesh/crime/m8nmls2iyc",
-  "headline": "20+ DJ parties monthly: Additional DIG's house raided for drug use",
-  "topic": "drug parties at additional dig house",
-  "source": "The Daily Star, bdnews24.com, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-21T20:07:16Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "57e5daeb10258cc2",
-  "url": "https://bdnews24.com/technology/fw1zm2trd4",
-  "headline": "$25 billion: Meta ordered to pay massive fine over user privacy",
-  "topic": "meta fined $25bn for privacy violations",
-  "source": "Prothom Alo, bdnews24.com",
-  "status": "failed",
-  "at": "2026-10-21T21:09:43Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "8523dc08b3f351d7",
-  "url": "https://www.prothomalo.com/world/rx7bp02bzh",
-  "headline": "$25 billion: Meta ordered to pay massive fine over user privacy",
-  "topic": "meta fined $25bn for privacy violations",
-  "source": "Prothom Alo, bdnews24.com",
-  "status": "failed",
-  "at": "2026-10-21T21:09:43Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "7dbd54a18015cdff",
-  "url": "https://www.prothomalo.com/world/48c8bk3g4s",
-  "headline": "70% of websites at risk: Global sites shut down over PHP security flaw",
-  "topic": "websites shut down globally due to cyberattack fears",
-  "source": "Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-21T21:09:43Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "fc709427206a350c",
-  "url": "https://bdnews24.com/bangladesh/476ygx1kxs",
-  "headline": "85 detained as police raid 'drug parties' at addl DIG's house in Dhaka",
-  "topic": "dig police drug parties",
-  "source": "bdnews24.com, The Daily Star",
-  "status": "failed",
-  "at": "2026-10-21T22:10:52Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "2e06b43ad343ad19",
-  "url": "https://www.thedailystar.net/news/crime-justice/news/drug-parties-addl-digs-house-under-polices-nose-nearly-year-4304541",
-  "headline": "85 detained as police raid 'drug parties' at addl DIG's house in Dhaka",
-  "topic": "dig police drug parties",
-  "source": "bdnews24.com, The Daily Star",
-  "status": "failed",
-  "at": "2026-10-21T22:10:52Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "24b01180aba8e1be",
   "url": "https://bdnews24.com/world/europe/nvv9x8pump",
   "headline": "Global alert: Websites go dark worldwide to fix critical PHP security flaws",
@@ -8308,5 +8224,59 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "5e36e3efaab21118",
+  "url": "https://bdnews24.com/bangladesh/rjjfgxj5rx",
+  "headline": "Cyclone Arnab forms over Bay, expected to cross India on Wednesday",
+  "topic": "cyclone arnab bay",
+  "source": "Prothom Alo, Jamuna TV, bdnews24.com, The Daily Star",
+  "status": "queued",
+  "at": "2026-10-26T12:15:05Z"
+ },
+ {
+  "title_hash": "2ad07d06c86d6fb8",
+  "url": "https://www.prothomalo.com/video/bangladesh/5b92risc61",
+  "headline": "Cyclone Arnab forms over Bay, expected to cross India on Wednesday",
+  "topic": "cyclone arnab bay",
+  "source": "Prothom Alo, Jamuna TV, bdnews24.com, The Daily Star",
+  "status": "queued",
+  "at": "2026-10-26T12:15:05Z"
+ },
+ {
+  "title_hash": "1bf411e320392e9a",
+  "url": "https://www.jamuna.tv/weather/666854",
+  "headline": "Cyclone Arnab forms over Bay, expected to cross India on Wednesday",
+  "topic": "cyclone arnab bay",
+  "source": "Prothom Alo, Jamuna TV, bdnews24.com, The Daily Star",
+  "status": "queued",
+  "at": "2026-10-26T12:15:05Z"
+ },
+ {
+  "title_hash": "27078f26ee543815",
+  "url": "https://www.thedailystar.net/news/environment/weather/news/cyclone-arnab-forms-over-bay-cross-india-wednesday-very-severe-storm-4307646",
+  "headline": "Cyclone Arnab forms over Bay, expected to cross India on Wednesday",
+  "topic": "cyclone arnab bay",
+  "source": "Prothom Alo, Jamuna TV, bdnews24.com, The Daily Star",
+  "status": "queued",
+  "at": "2026-10-26T12:15:05Z"
+ },
+ {
+  "title_hash": "9c0a446a24be194e",
+  "url": "https://www.dhakatribune.com/bangladesh/crime/422959/prime-suspect-arrested-over-shilpakala-academy",
+  "headline": "Shilpakala Academy bomb blast suspect arrested; police say he was linked to banned student group",
+  "topic": "shilpakala academy bomb blast arrest",
+  "source": "Dhaka Tribune, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-26T12:15:05Z"
+ },
+ {
+  "title_hash": "10d5dedc813c7e22",
+  "url": "https://www.prothomalo.com/bangladesh/crime/bsamc1470f",
+  "headline": "Shilpakala Academy bomb blast suspect arrested; police say he was linked to banned student group",
+  "topic": "shilpakala academy bomb blast arrest",
+  "source": "Dhaka Tribune, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-26T12:15:05Z"
  }
 ]
