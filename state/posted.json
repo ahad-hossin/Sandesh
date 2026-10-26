@@ -8273,8 +8273,13 @@
   "headline": "Home Minister: Next national election will be held under caretaker government",
   "topic": "next polls caretaker govt",
   "source": "The Daily Star",
-  "status": "queued",
-  "at": "2026-10-26T00:08:30Z"
+  "status": "failed",
+  "at": "2026-10-26T00:08:30Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "b3be941cfdb4b25f",
@@ -8282,8 +8287,13 @@
   "headline": "Bangladesh mission mistook death sentences for prison terms for two citizens executed in Saudi Arabia",
   "topic": "saudi execution sharia law",
   "source": "Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-26T00:08:30Z"
+  "status": "failed",
+  "at": "2026-10-26T00:08:30Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "7a62ebe2d2ce6f0d",
@@ -8291,7 +8301,12 @@
   "headline": "Bangladesh mission mistook death sentences for prison terms for two citizens executed in Saudi Arabia",
   "topic": "saudi execution sharia law",
   "source": "Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-26T00:08:30Z"
+  "status": "failed",
+  "at": "2026-10-26T00:08:30Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
