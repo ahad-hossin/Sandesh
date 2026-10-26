@@ -1,47 +1,5 @@
 [
  {
-  "title_hash": "178f642523a4e6c4",
-  "url": "https://www.prothomalo.com/bangladesh/district/8mm1k10ebd",
-  "headline": "Over 2,300 tourists evacuated from Sajek amid clashes and gunfire",
-  "topic": "sajek tourist evacuation gunfire",
-  "source": "Prothom Alo, The Daily Star, Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-10-22T14:08:49Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "7e5b18d2ac4c4b32",
-  "url": "https://www.dhakatribune.com/bangladesh/nation/422679/six-law-enforcers-injured-as-gunfire-targets-sajek",
-  "headline": "Over 2,300 tourists evacuated from Sajek amid clashes and gunfire",
-  "topic": "sajek tourist evacuation gunfire",
-  "source": "Prothom Alo, The Daily Star, Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-10-22T14:08:49Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "2f657a8edd0974a4",
-  "url": "https://www.prothomalo.com/video/bangladesh/u80qvc182q",
-  "headline": "Over 2,300 tourists evacuated from Sajek amid clashes and gunfire",
-  "topic": "sajek tourist evacuation gunfire",
-  "source": "Prothom Alo, The Daily Star, Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-10-22T14:08:49Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "8ae69a230f08aa6d",
   "url": "https://www.prothomalo.com/bangladesh/district/8n3sgbqei3",
   "headline": "Over 2,300 tourists evacuated from Sajek amid clashes and gunfire",
@@ -8308,5 +8266,32 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "e46d359fcb709c03",
+  "url": "https://www.thedailystar.net/news/bangladesh/news/truck-driver-killing-hasina-and-33-others-indicted-4308281",
+  "headline": "Sheikh Hasina and 33 others indicted in truck driver killing case",
+  "topic": "hasina indicted truck driver killing",
+  "source": "The Daily Star",
+  "status": "queued",
+  "at": "2026-10-26T23:09:48Z"
+ },
+ {
+  "title_hash": "80ebc9ceba6d3ddc",
+  "url": "https://bdnews24.com/bangladesh/2vddiebcjq",
+  "headline": "Winds up to 117kmph: Arnab grows into severe cyclone in Bay of Bengal",
+  "topic": "cyclone arnab bay of bengal",
+  "source": "bdnews24.com, Jamuna TV",
+  "status": "queued",
+  "at": "2026-10-26T23:09:48Z"
+ },
+ {
+  "title_hash": "1827cce9c9aa0888",
+  "url": "https://www.jamuna.tv/weather/666872",
+  "headline": "Winds up to 117kmph: Arnab grows into severe cyclone in Bay of Bengal",
+  "topic": "cyclone arnab bay of bengal",
+  "source": "bdnews24.com, Jamuna TV",
+  "status": "queued",
+  "at": "2026-10-26T23:09:48Z"
  }
 ]
