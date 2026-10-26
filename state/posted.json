@@ -1,33 +1,5 @@
 [
  {
-  "title_hash": "48c28dd1c9ac1ca2",
-  "url": "https://www.thedailystar.net/news/crime-justice/news/man-beaten-death-over-child-abduction-suspicion-shaheed-suhrawardy-medical-college-hospital-4304966",
-  "headline": "Man beaten to death over child theft suspicion at Dhaka hospital",
-  "topic": "child theft suspicion lynching suhrawardy hospital",
-  "source": "Jamuna TV, Dhaka Tribune, bdnews24.com, The Daily Star",
-  "status": "failed",
-  "at": "2026-10-22T13:07:35Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "0d7db7f2a320ea1e",
-  "url": "https://www.thedailystar.net/business/industries/tourism/news/over-2300-tourists-evacuated-sajek-amid-clashes-gunfire-4304931",
-  "headline": "Over 2,300 tourists evacuated from Sajek amid clashes and gunfire",
-  "topic": "sajek tourist evacuation gunfire",
-  "source": "Prothom Alo, The Daily Star, Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-10-22T14:08:49Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "178f642523a4e6c4",
   "url": "https://www.prothomalo.com/bangladesh/district/8mm1k10ebd",
   "headline": "Over 2,300 tourists evacuated from Sajek amid clashes and gunfire",
@@ -8308,5 +8280,23 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "e46d359fcb709c03",
+  "url": "https://www.thedailystar.net/news/bangladesh/news/truck-driver-killing-hasina-and-33-others-indicted-4308281",
+  "headline": "Truck driver killing: Sheikh Hasina and 33 others indicted",
+  "topic": "truck driver killing hasina indicted",
+  "source": "The Daily Star",
+  "status": "queued",
+  "at": "2026-10-26T22:09:03Z"
+ },
+ {
+  "title_hash": "11bfa16a031c5d3e",
+  "url": "https://www.prothomalo.com/bangladesh/4a7w0vdc6y",
+  "headline": "Italy protests erupt nationwide over cost of living, housing crisis",
+  "topic": "italy youth protests cost of living",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-26T22:09:03Z"
  }
 ]
