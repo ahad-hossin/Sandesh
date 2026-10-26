@@ -8259,8 +8259,13 @@
   "headline": "Paltan: CPB office attacked over alleged Awami League ties",
   "topic": "cpb office attacked over alleged awami league ties",
   "source": "bdnews24.com, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-10-26T19:08:33Z"
+  "status": "failed",
+  "at": "2026-10-26T19:08:33Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "c23d14badff34670",
@@ -8268,8 +8273,13 @@
   "headline": "Paltan: CPB office attacked over alleged Awami League ties",
   "topic": "cpb office attacked over alleged awami league ties",
   "source": "bdnews24.com, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-10-26T19:08:33Z"
+  "status": "failed",
+  "at": "2026-10-26T19:08:33Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "1f9de0ea0cf0918d",
@@ -8277,8 +8287,13 @@
   "headline": "Former police officer taken into custody over Prophet Muhammad (PBUH) insults in Tahirpur",
   "topic": "youth arrested for facebook post insulting prophet mohammad",
   "source": "Jamuna TV",
-  "status": "queued",
-  "at": "2026-10-26T19:08:33Z"
+  "status": "failed",
+  "at": "2026-10-26T19:08:33Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "a3ed222d7ab29653",
@@ -8286,7 +8301,12 @@
   "headline": "Former police officer taken into custody over Prophet Muhammad (PBUH) insults in Tahirpur",
   "topic": "youth arrested for facebook post insulting prophet mohammad",
   "source": "Jamuna TV",
-  "status": "queued",
-  "at": "2026-10-26T19:08:33Z"
+  "status": "failed",
+  "at": "2026-10-26T19:08:33Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
