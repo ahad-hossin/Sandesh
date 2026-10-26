@@ -1,47 +1,5 @@
 [
  {
-  "title_hash": "32605ade9995c1f5",
-  "url": "https://www.prothomalo.com/video/bangladesh/eqzzg7l6ii",
-  "headline": "Protocol breach: Rajshahi divisional commissioner removed after viral video",
-  "topic": "rajshahi divisional commissioner removed",
-  "source": "Prothom Alo, bdnews24.com, Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-10-21T10:05:47Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "e1eff22e5a031d83",
-  "url": "https://www.prothomalo.com/bangladesh/raassttraacaar-bhngg-raajshaahii-bibhaagiiyy-kmishnaarke-prtyaahaar",
-  "headline": "Protocol breach: Rajshahi divisional commissioner removed after viral video",
-  "topic": "rajshahi divisional commissioner removed",
-  "source": "Prothom Alo, bdnews24.com, Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-10-21T10:05:47Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "a3c6c5b52bba57ba",
-  "url": "https://www.dhakatribune.com/bangladesh/nation/422591/rajshahi-divisional-commissioner-removed-after",
-  "headline": "Protocol breach: Rajshahi divisional commissioner removed after viral video",
-  "topic": "rajshahi divisional commissioner removed",
-  "source": "Prothom Alo, bdnews24.com, Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-10-21T10:05:47Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "7c40b549537cae92",
   "url": "https://bdnews24.com/bangladesh/r4o1fzvzn6",
   "headline": "3 carriages of Karnaphuli Express derail in Cumilla's Laksam",
@@ -8308,5 +8266,32 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "4a7fb694d4addb81",
+  "url": "https://www.thedailystar.net/news/bangladesh/news/next-polls-under-caretaker-govt-4307426",
+  "headline": "Home Minister: Next national election will be held under caretaker government",
+  "topic": "next polls caretaker govt",
+  "source": "The Daily Star",
+  "status": "queued",
+  "at": "2026-10-26T00:08:30Z"
+ },
+ {
+  "title_hash": "b3be941cfdb4b25f",
+  "url": "https://www.thedailystar.net/news/bangladesh/diplomacy/news/bangladeshis-executed-ksa-jeddah-mission-thought-theyre-serving-time-4307491",
+  "headline": "Bangladesh mission mistook death sentences for prison terms for two citizens executed in Saudi Arabia",
+  "topic": "saudi execution sharia law",
+  "source": "Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-10-26T00:08:30Z"
+ },
+ {
+  "title_hash": "7a62ebe2d2ce6f0d",
+  "url": "https://www.prothomalo.com/religion/islam/zdbqflo91b",
+  "headline": "Bangladesh mission mistook death sentences for prison terms for two citizens executed in Saudi Arabia",
+  "topic": "saudi execution sharia law",
+  "source": "Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-10-26T00:08:30Z"
  }
 ]
