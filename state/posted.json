@@ -1,61 +1,5 @@
 [
  {
-  "title_hash": "1c93365d76fc196c",
-  "url": "https://www.jamuna.tv/health/666583",
-  "headline": "16,000+ police deployed as idol immersion ceremonies take place at 33 points in Dhaka",
-  "topic": "durga puja idol immersion security",
-  "source": "Jamuna TV",
-  "status": "failed",
-  "at": "2026-10-21T11:10:33Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "4c359f6d7c389169",
-  "url": "https://bdnews24.com/bangladesh/geln2u4nqa",
-  "headline": "Tk 28.11bn spent: Govt scraps Gazipur BRT project after 14 years",
-  "topic": "gazipur brt project scrapped",
-  "source": "bdnews24.com, Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-10-21T11:10:33Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "dc98cbf39e33ee3e",
-  "url": "https://www.dhakatribune.com/bangladesh/422598/tk2-811cr-spent-no-buses-run-as-govt-scraps",
-  "headline": "Tk 28.11bn spent: Govt scraps Gazipur BRT project after 14 years",
-  "topic": "gazipur brt project scrapped",
-  "source": "bdnews24.com, Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-10-21T11:10:33Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "74531bae27dff73a",
-  "url": "https://www.dhakatribune.com/bangladesh/422614/saudi-restrictions-disrupt-134-flights-from",
-  "headline": "Biman Bangladesh Airlines resumes flights to Riyadh from Oct 25",
-  "topic": "saudi flights disruption",
-  "source": "Dhaka Tribune, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-21T13:19:47Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "4689ba2e89aa5759",
   "url": "https://www.jamuna.tv/national/666598",
   "headline": "Biman Bangladesh Airlines resumes flights to Riyadh from Oct 25",
@@ -8308,5 +8252,41 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "b3be941cfdb4b25f",
+  "url": "https://www.thedailystar.net/news/bangladesh/diplomacy/news/bangladeshis-executed-ksa-jeddah-mission-thought-theyre-serving-time-4307491",
+  "headline": "Bangladesh mission thought executed citizens faced prison not death, in KSA",
+  "topic": "bangladeshis executed ksa sharia",
+  "source": "Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-10-26T02:06:51Z"
+ },
+ {
+  "title_hash": "7a62ebe2d2ce6f0d",
+  "url": "https://www.prothomalo.com/religion/islam/zdbqflo91b",
+  "headline": "Bangladesh mission thought executed citizens faced prison not death, in KSA",
+  "topic": "bangladeshis executed ksa sharia",
+  "source": "Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-10-26T02:06:51Z"
+ },
+ {
+  "title_hash": "3e4276c0b898e474",
+  "url": "https://bdnews24.com/bangladesh/r3pt70zhtw",
+  "headline": "Two DGFI members among 6 arrested over alleged kidnapping and extortion in Dhaka",
+  "topic": "dgfi men arrested extortion",
+  "source": "bdnews24.com, The Daily Star",
+  "status": "queued",
+  "at": "2026-10-26T02:06:51Z"
+ },
+ {
+  "title_hash": "28c01dbc8986251a",
+  "url": "https://www.thedailystar.net/news/crime-justice/news/extortion-attempt-two-dgfi-men-among-6-held-4307506",
+  "headline": "Two DGFI members among 6 arrested over alleged kidnapping and extortion in Dhaka",
+  "topic": "dgfi men arrested extortion",
+  "source": "bdnews24.com, The Daily Star",
+  "status": "queued",
+  "at": "2026-10-26T02:06:51Z"
  }
 ]
