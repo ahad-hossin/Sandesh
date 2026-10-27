@@ -8276,8 +8276,13 @@
   "headline": "Harry Kane wins Ballon d'Or, first Englishman in 25 years, after scoring 73 goals",
   "topic": "harry kane wins ballon dor",
   "source": "The Daily Star, bdnews24.com, Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-27T03:07:01Z"
+  "status": "failed",
+  "at": "2026-10-27T03:07:01Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "4e05d9c2d05ed20d",
@@ -8285,8 +8290,13 @@
   "headline": "Harry Kane wins Ballon d'Or, first Englishman in 25 years, after scoring 73 goals",
   "topic": "harry kane wins ballon dor",
   "source": "The Daily Star, bdnews24.com, Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-27T03:07:01Z"
+  "status": "failed",
+  "at": "2026-10-27T03:07:01Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "b57a04fc44d5bcde",
@@ -8294,8 +8304,13 @@
   "headline": "Harry Kane wins Ballon d'Or, first Englishman in 25 years, after scoring 73 goals",
   "topic": "harry kane wins ballon dor",
   "source": "The Daily Star, bdnews24.com, Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-27T03:07:01Z"
+  "status": "failed",
+  "at": "2026-10-27T03:07:01Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "55b1048cf31703d4",
@@ -8303,8 +8318,13 @@
   "headline": "Harry Kane wins Ballon d'Or, first Englishman in 25 years, after scoring 73 goals",
   "topic": "harry kane wins ballon dor",
   "source": "The Daily Star, bdnews24.com, Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-27T03:07:01Z"
+  "status": "failed",
+  "at": "2026-10-27T03:07:01Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "d0c40190843954a5",
@@ -8312,8 +8332,13 @@
   "headline": "59 foreign nationals executed in Saudi Arabia in 6 months amid concerns over unfair trials",
   "topic": "bangladeshi workers saudi houthi conflict",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-27T03:07:01Z"
+  "status": "failed",
+  "at": "2026-10-27T03:07:01Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "61100e3c2f787578",
@@ -8321,7 +8346,12 @@
   "headline": "59 foreign nationals executed in Saudi Arabia in 6 months amid concerns over unfair trials",
   "topic": "bangladeshi workers saudi houthi conflict",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-27T03:07:01Z"
+  "status": "failed",
+  "at": "2026-10-27T03:07:01Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
