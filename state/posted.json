@@ -8335,8 +8335,13 @@
   "headline": "Japan to strongly support nation-building efforts of Tarique Rahman administration",
   "topic": "japan pm tarique rahman bilateral ties",
   "source": "bdnews24.com, Dhaka Tribune, Jamuna TV, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-27T16:08:35Z"
+  "status": "failed",
+  "at": "2026-10-27T16:08:35Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "ce1da812d83b1eae",
@@ -8344,8 +8349,13 @@
   "headline": "Japan to strongly support nation-building efforts of Tarique Rahman administration",
   "topic": "japan pm tarique rahman bilateral ties",
   "source": "bdnews24.com, Dhaka Tribune, Jamuna TV, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-27T16:08:35Z"
+  "status": "failed",
+  "at": "2026-10-27T16:08:35Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "25c326b8f52d08d6",
@@ -8353,8 +8363,13 @@
   "headline": "Japan to strongly support nation-building efforts of Tarique Rahman administration",
   "topic": "japan pm tarique rahman bilateral ties",
   "source": "bdnews24.com, Dhaka Tribune, Jamuna TV, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-27T16:08:35Z"
+  "status": "failed",
+  "at": "2026-10-27T16:08:35Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "bb336d60f46373b4",
@@ -8362,8 +8377,13 @@
   "headline": "Japan to strongly support nation-building efforts of Tarique Rahman administration",
   "topic": "japan pm tarique rahman bilateral ties",
   "source": "bdnews24.com, Dhaka Tribune, Jamuna TV, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-27T16:08:35Z"
+  "status": "failed",
+  "at": "2026-10-27T16:08:35Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "40cadf02a4c78cd6",
@@ -8371,7 +8391,12 @@
   "headline": "Cox's Bazar: 10 tourist bodies handed over to families after resort fire",
   "topic": "coxs bazar resort fire victim bodies handed over",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-27T16:08:35Z"
+  "status": "failed",
+  "at": "2026-10-27T16:08:35Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
