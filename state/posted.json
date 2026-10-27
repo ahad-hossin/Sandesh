@@ -1,205 +1,5 @@
 [
  {
-  "title_hash": "78575f25bdefeede",
-  "url": "https://www.dhakatribune.com/bangladesh/health/422742/measles-outbreak-death-toll-reaches-1-214-as",
-  "headline": "7 die in 24 hours as measles death toll reaches 1,214",
-  "topic": "dengue deaths hospitalized",
-  "source": "bdnews24.com, The Daily Star, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-10-23T13:16:13Z"
- },
- {
-  "title_hash": "a12806fc8b08a1f0",
-  "url": "https://www.thedailystar.net/news/healthcare/news/four-more-die-dengue-1512-get-hospitalised-4305536",
-  "headline": "7 die in 24 hours as measles death toll reaches 1,214",
-  "topic": "dengue deaths hospitalized",
-  "source": "bdnews24.com, The Daily Star, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-10-23T13:16:13Z"
- },
- {
-  "title_hash": "ed9f7fdcab89c899",
-  "url": "https://www.dhakatribune.com/bangladesh/422762/tongi-gas-cylinder-blast-girl-dies-two-days-after",
-  "headline": "Tongi gas leak: Teenager dies after parents in fire",
-  "topic": "tongi gas cylinder blast girl dies",
-  "source": "Dhaka Tribune, The Daily Star, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-23T14:18:45Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "fb77664800aa7fbe",
-  "url": "https://www.thedailystar.net/news/accidents-and-fires/news/tongi-gas-fire-16-year-old-girl-dies-after-parents-4305751",
-  "headline": "Tongi gas leak: Teenager dies after parents in fire",
-  "topic": "tongi gas cylinder blast girl dies",
-  "source": "Dhaka Tribune, The Daily Star, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-23T14:18:45Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "2085e5417ed24851",
-  "url": "https://www.prothomalo.com/bangladesh/district/veff3i0290",
-  "headline": "Tongi gas leak: Teenager dies after parents in fire",
-  "topic": "tongi gas cylinder blast girl dies",
-  "source": "Dhaka Tribune, The Daily Star, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-23T14:18:45Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "381a069f50a5e286",
-  "url": "https://www.thedailystar.net/news/accidents-and-fires/news/3-killed-ambulance-bus-collision-faridpur-4305746",
-  "headline": "3 killed in ambulance-bus collision in Faridpur",
-  "topic": "ambulance bus collision kills three",
-  "source": "The Daily Star, Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-10-23T14:18:45Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "a8eb9840ed801756",
-  "url": "https://www.dhakatribune.com/bangladesh/accidents/422749/three-killed-four-injured-in-faridpur-road-crash",
-  "headline": "3 killed in ambulance-bus collision in Faridpur",
-  "topic": "ambulance bus collision kills three",
-  "source": "The Daily Star, Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-10-23T14:18:45Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "603140924782859e",
-  "url": "https://www.dhakatribune.com/bangladesh/accidents/422770/five-killed-seven-injured-in-separate-road",
-  "headline": "Five killed and seven injured in separate road accidents in Faridpur",
-  "topic": "faridpur road accidents kill five",
-  "source": "Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-10-23T15:09:37Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "0b417aab86ef123e",
-  "url": "https://www.dhakatribune.com/bangladesh/422764/two-girls-drown-in-bhola-pond",
-  "headline": "Tragedy in Bhola: Two girls drown in pond",
-  "topic": "two girls drown in bhola pond",
-  "source": "Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-10-23T15:09:37Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "0b417aab86ef123e",
-  "url": "https://www.dhakatribune.com/bangladesh/nation/422763/two-girls-drown-in-bhola-pond",
-  "headline": "Tragedy in Bhola: Two girls drown in pond",
-  "topic": "two girls drown in bhola pond",
-  "source": "Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-10-23T15:09:37Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "e9865b447c43bc4b",
-  "url": "https://www.dhakatribune.com/bangladesh/accidents/422774/fire-breaks-out-at-cox%E2%80%99s-bazar-hotel-300-tourists",
-  "headline": "Cox's Bazar hotel fire: 300 tourists evacuated safely from The Sea Princess",
-  "topic": "coxs bazar hotel fire",
-  "source": "Dhaka Tribune, bdnews24.com",
-  "status": "failed",
-  "at": "2026-10-23T16:10:41Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "f1c69f2f5bfec0db",
-  "url": "https://bdnews24.com/bangladesh/tj5s3h173z",
-  "headline": "Cox's Bazar hotel fire: 300 tourists evacuated safely from The Sea Princess",
-  "topic": "coxs bazar hotel fire",
-  "source": "Dhaka Tribune, bdnews24.com",
-  "status": "failed",
-  "at": "2026-10-23T16:10:41Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "aaa24c8b9fbb1bc1",
-  "url": "https://www.dhakatribune.com/bangladesh/422773/bus-helper-killed-15-injured-in-head-on-collision",
-  "headline": "One dead, 15 injured in head-on bus collision in Natore",
-  "topic": "road accidents kill multiple",
-  "source": "Dhaka Tribune, Jamuna TV, The Daily Star",
-  "status": "failed",
-  "at": "2026-10-23T16:10:41Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "f7ecb95035441621",
-  "url": "https://www.jamuna.tv/national/666696",
-  "headline": "One dead, 15 injured in head-on bus collision in Natore",
-  "topic": "road accidents kill multiple",
-  "source": "Dhaka Tribune, Jamuna TV, The Daily Star",
-  "status": "failed",
-  "at": "2026-10-23T16:10:41Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "603140924782859e",
-  "url": "https://www.dhakatribune.com/bangladesh/accidents/422770/five-killed-seven-injured-in-separate-road",
-  "headline": "One dead, 15 injured in head-on bus collision in Natore",
-  "topic": "road accidents kill multiple",
-  "source": "Dhaka Tribune, Jamuna TV, The Daily Star",
-  "status": "failed",
-  "at": "2026-10-23T16:10:41Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "3cb36b074b8d8e05",
   "url": "https://www.thedailystar.net/news/accidents-and-fires/news/six-killed-separate-faridpur-road-accidents-within-hour-4305746",
   "headline": "One dead, 15 injured in head-on bus collision in Natore",
@@ -8388,5 +8188,140 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "20da6443d8aad765",
+  "url": "https://www.dhakatribune.com/bangladesh/423063/police-service-association-calls-igp-s-crossfire",
+  "headline": "Police Association defends IGP's 'crossfire' remarks as timely call",
+  "topic": "igp crossfire remarks controversy",
+  "source": "Dhaka Tribune, bdnews24.com, The Daily Star, Prothom Alo, Jamuna TV",
+  "status": "queued",
+  "at": "2026-10-27T14:15:20Z"
+ },
+ {
+  "title_hash": "27bfd3429bd64a49",
+  "url": "https://bdnews24.com/bangladesh/pph79maahh",
+  "headline": "Police Association defends IGP's 'crossfire' remarks as timely call",
+  "topic": "igp crossfire remarks controversy",
+  "source": "Dhaka Tribune, bdnews24.com, The Daily Star, Prothom Alo, Jamuna TV",
+  "status": "queued",
+  "at": "2026-10-27T14:15:20Z"
+ },
+ {
+  "title_hash": "546293a50d90b025",
+  "url": "https://www.thedailystar.net/news/governance/news/police-cannot-carry-out-crossfire-even-if-government-orders-it-adviser-zahed-4308651",
+  "headline": "Police Association defends IGP's 'crossfire' remarks as timely call",
+  "topic": "igp crossfire remarks controversy",
+  "source": "Dhaka Tribune, bdnews24.com, The Daily Star, Prothom Alo, Jamuna TV",
+  "status": "queued",
+  "at": "2026-10-27T14:15:20Z"
+ },
+ {
+  "title_hash": "2d9f3602dcea0f5c",
+  "url": "https://www.thedailystar.net/news/news/igps-remarks-crossfire-what-do-the-constitution-and-law-say-4308611",
+  "headline": "Police Association defends IGP's 'crossfire' remarks as timely call",
+  "topic": "igp crossfire remarks controversy",
+  "source": "Dhaka Tribune, bdnews24.com, The Daily Star, Prothom Alo, Jamuna TV",
+  "status": "queued",
+  "at": "2026-10-27T14:15:20Z"
+ },
+ {
+  "title_hash": "b6a0e5b8af7d2c52",
+  "url": "https://www.dhakatribune.com/bangladesh/politics/423029/rizvi-igp%E2%80%99s-crossfire-remarks-have-put-govt-in-an",
+  "headline": "Police Association defends IGP's 'crossfire' remarks as timely call",
+  "topic": "igp crossfire remarks controversy",
+  "source": "Dhaka Tribune, bdnews24.com, The Daily Star, Prothom Alo, Jamuna TV",
+  "status": "queued",
+  "at": "2026-10-27T14:15:20Z"
+ },
+ {
+  "title_hash": "0f016b10725ab715",
+  "url": "https://www.prothomalo.com/politics/emsurvc6b9",
+  "headline": "Police Association defends IGP's 'crossfire' remarks as timely call",
+  "topic": "igp crossfire remarks controversy",
+  "source": "Dhaka Tribune, bdnews24.com, The Daily Star, Prothom Alo, Jamuna TV",
+  "status": "queued",
+  "at": "2026-10-27T14:15:20Z"
+ },
+ {
+  "title_hash": "db5ebe812e35c782",
+  "url": "https://www.dhakatribune.com/bangladesh/423021/zahed-bnp-won%E2%80%99t-back-extrajudicial-killings",
+  "headline": "Police Association defends IGP's 'crossfire' remarks as timely call",
+  "topic": "igp crossfire remarks controversy",
+  "source": "Dhaka Tribune, bdnews24.com, The Daily Star, Prothom Alo, Jamuna TV",
+  "status": "queued",
+  "at": "2026-10-27T14:15:20Z"
+ },
+ {
+  "title_hash": "7c1022be30b91f53",
+  "url": "https://www.thedailystar.net/news/governance/legal-system/news/igps-crossfire-remarks-embarrassing-govt-rizvi-4308826",
+  "headline": "Police Association defends IGP's 'crossfire' remarks as timely call",
+  "topic": "igp crossfire remarks controversy",
+  "source": "Dhaka Tribune, bdnews24.com, The Daily Star, Prothom Alo, Jamuna TV",
+  "status": "queued",
+  "at": "2026-10-27T14:15:20Z"
+ },
+ {
+  "title_hash": "52d071eb8c3fc8dd",
+  "url": "https://www.thedailystar.net/news/news/igps-crossfire-remarks-do-not-reflect-govt-position-home-minister-4308816",
+  "headline": "Police Association defends IGP's 'crossfire' remarks as timely call",
+  "topic": "igp crossfire remarks controversy",
+  "source": "Dhaka Tribune, bdnews24.com, The Daily Star, Prothom Alo, Jamuna TV",
+  "status": "queued",
+  "at": "2026-10-27T14:15:20Z"
+ },
+ {
+  "title_hash": "beb923bc3ffaee1f",
+  "url": "https://www.jamuna.tv/national/666898",
+  "headline": "Police Association defends IGP's 'crossfire' remarks as timely call",
+  "topic": "igp crossfire remarks controversy",
+  "source": "Dhaka Tribune, bdnews24.com, The Daily Star, Prothom Alo, Jamuna TV",
+  "status": "queued",
+  "at": "2026-10-27T14:15:20Z"
+ },
+ {
+  "title_hash": "13835b8521597ce7",
+  "url": "https://bdnews24.com/bangladesh/abqgtvc311",
+  "headline": "Police Association defends IGP's 'crossfire' remarks as timely call",
+  "topic": "igp crossfire remarks controversy",
+  "source": "Dhaka Tribune, bdnews24.com, The Daily Star, Prothom Alo, Jamuna TV",
+  "status": "queued",
+  "at": "2026-10-27T14:15:20Z"
+ },
+ {
+  "title_hash": "d26384e4119545b4",
+  "url": "https://www.prothomalo.com/video/bangladesh/4vdwqvmk37",
+  "headline": "Police Association defends IGP's 'crossfire' remarks as timely call",
+  "topic": "igp crossfire remarks controversy",
+  "source": "Dhaka Tribune, bdnews24.com, The Daily Star, Prothom Alo, Jamuna TV",
+  "status": "queued",
+  "at": "2026-10-27T14:15:20Z"
+ },
+ {
+  "title_hash": "3719bd5ff6a00483",
+  "url": "https://www.thedailystar.net/news/crime-justice/news/bnp-mps-son-questioned-over-jcd-leaders-killing-natore-4308731",
+  "headline": "BNP MP's son questioned over JCD leader's killing in Natore",
+  "topic": "bnp mp son questioned natore killing",
+  "source": "The Daily Star, Prothom Alo, Jamuna TV",
+  "status": "queued",
+  "at": "2026-10-27T14:15:20Z"
+ },
+ {
+  "title_hash": "154baba5e3331c34",
+  "url": "https://www.prothomalo.com/bangladesh/district/k0z3oa7hm3",
+  "headline": "BNP MP's son questioned over JCD leader's killing in Natore",
+  "topic": "bnp mp son questioned natore killing",
+  "source": "The Daily Star, Prothom Alo, Jamuna TV",
+  "status": "queued",
+  "at": "2026-10-27T14:15:20Z"
+ },
+ {
+  "title_hash": "5846d94cd44ffbc3",
+  "url": "https://www.jamuna.tv/all-bangladesh/666918",
+  "headline": "BNP MP's son questioned over JCD leader's killing in Natore",
+  "topic": "bnp mp son questioned natore killing",
+  "source": "The Daily Star, Prothom Alo, Jamuna TV",
+  "status": "queued",
+  "at": "2026-10-27T14:15:20Z"
  }
 ]
