@@ -1,75 +1,5 @@
 [
  {
-  "title_hash": "ecd5b93ae6aa31c4",
-  "url": "https://www.thedailystar.net/sports/cricket/news/records-galore-brook-sri-lanka-make-history-4305371",
-  "headline": "Sri Lanka chase down 430 to beat England in Rawalpindi record-breaker",
-  "topic": "harry brook double century record",
-  "source": "Prothom Alo, Jamuna TV, The Daily Star",
-  "status": "failed",
-  "at": "2026-10-22T22:09:28Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "71a142b82d93408d",
-  "url": "https://www.prothomalo.com/video/bangladesh/5683wtvckb",
-  "headline": "Sri Lanka chase down 430 to beat England in Rawalpindi record-breaker",
-  "topic": "harry brook double century record",
-  "source": "Prothom Alo, Jamuna TV, The Daily Star",
-  "status": "failed",
-  "at": "2026-10-22T22:09:28Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "cabf5dde2c688bb7",
-  "url": "https://www.jamuna.tv/sports/666666",
-  "headline": "Sri Lanka chase down 430 to beat England in Rawalpindi record-breaker",
-  "topic": "harry brook double century record",
-  "source": "Prothom Alo, Jamuna TV, The Daily Star",
-  "status": "failed",
-  "at": "2026-10-22T22:09:28Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "84eb79c9ce49c3ee",
-  "url": "https://www.prothomalo.com/sports/cricket/961oz9vdud",
-  "headline": "Sri Lanka chase down 430 to beat England in Rawalpindi record-breaker",
-  "topic": "harry brook double century record",
-  "source": "Prothom Alo, Jamuna TV, The Daily Star",
-  "status": "failed",
-  "at": "2026-10-22T22:09:28Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "b652abc75412bd55",
-  "url": "https://www.thedailystar.net/news/bangladesh/news/gunshots-shatter-sajek-serenity-4305446",
-  "headline": "3,000 tourists rescued from Sajek after gunfire and road blockade",
-  "topic": "sajek tourist rescue",
-  "source": "Prothom Alo, The Daily Star, Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-10-22T22:09:28Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "27453459087c3e43",
   "url": "https://www.prothomalo.com/video/bangladesh/3pkzzmp9rg",
   "headline": "3,000 tourists rescued from Sajek after gunfire and road blockade",
@@ -8353,5 +8283,50 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "c2995a0fbd3e415b",
+  "url": "https://www.dhakatribune.com/bangladesh/court/423003/sagar-runi-murder-task-force-seeks-more-time-to",
+  "headline": "Kushtia: Jamaat insists on Zila School ground despite stadium rally permit",
+  "topic": "political protest dhaka metro lockdown",
+  "source": "Dhaka Tribune, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-27T06:09:27Z"
+ },
+ {
+  "title_hash": "07a3a729c2843424",
+  "url": "https://www.prothomalo.com/bangladesh/district/xam4p7e9fw",
+  "headline": "Kushtia: Jamaat insists on Zila School ground despite stadium rally permit",
+  "topic": "political protest dhaka metro lockdown",
+  "source": "Dhaka Tribune, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-27T06:09:27Z"
+ },
+ {
+  "title_hash": "050042c0f38a81f3",
+  "url": "https://www.thedailystar.net/news/accidents-and-fires/news/five-killed-eight-injured-lorry-rams-people-beside-dhaka-chattogram-highway-4308531",
+  "headline": "5 killed as lorry rams into passengers beside Dhaka-Chattogram highway",
+  "topic": "lorry rams people dhaka chittagong highway",
+  "source": "The Daily Star, Prothom Alo, Jamuna TV",
+  "status": "queued",
+  "at": "2026-10-27T06:09:27Z"
+ },
+ {
+  "title_hash": "3e063aa761f232bc",
+  "url": "https://www.prothomalo.com/bangladesh/district/y62acrngsq",
+  "headline": "5 killed as lorry rams into passengers beside Dhaka-Chattogram highway",
+  "topic": "lorry rams people dhaka chittagong highway",
+  "source": "The Daily Star, Prothom Alo, Jamuna TV",
+  "status": "queued",
+  "at": "2026-10-27T06:09:27Z"
+ },
+ {
+  "title_hash": "04bb845242af0072",
+  "url": "https://www.jamuna.tv/all-bangladesh/666886",
+  "headline": "5 killed as lorry rams into passengers beside Dhaka-Chattogram highway",
+  "topic": "lorry rams people dhaka chittagong highway",
+  "source": "The Daily Star, Prothom Alo, Jamuna TV",
+  "status": "queued",
+  "at": "2026-10-27T06:09:27Z"
  }
 ]
