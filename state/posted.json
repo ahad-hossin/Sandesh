@@ -1,64 +1,5 @@
 [
  {
-  "title_hash": "1c5aad8405c4f38b",
-  "url": "https://bdnews24.com/bangladesh/emcz7tvlon",
-  "headline": "2 Bangladeshis injured in attack on Saudi airport",
-  "topic": "bangladeshis injured dammam airport attack",
-  "source": "Prothom Alo, bdnews24.com, Jamuna TV, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-10-22T17:08:33Z"
- },
- {
-  "title_hash": "6b9909801fc70713",
-  "url": "https://www.prothomalo.com/video/international/duuddarmii",
-  "headline": "2 Bangladeshis injured in attack on Saudi airport",
-  "topic": "bangladeshis injured dammam airport attack",
-  "source": "Prothom Alo, bdnews24.com, Jamuna TV, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-10-22T17:08:33Z"
- },
- {
-  "title_hash": "92be57767dc5585c",
-  "url": "https://www.jamuna.tv/international/666654",
-  "headline": "2 Bangladeshis injured in attack on Saudi airport",
-  "topic": "bangladeshis injured dammam airport attack",
-  "source": "Prothom Alo, bdnews24.com, Jamuna TV, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-10-22T17:08:33Z"
- },
- {
-  "title_hash": "e2042fed4d81cee0",
-  "url": "https://www.dhakatribune.com/bangladesh/422698/two-bangladeshis-injured-in-attack-on-saudi",
-  "headline": "2 Bangladeshis injured in attack on Saudi airport",
-  "topic": "bangladeshis injured dammam airport attack",
-  "source": "Prothom Alo, bdnews24.com, Jamuna TV, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-10-22T17:08:33Z"
- },
- {
-  "title_hash": "b29d527730a6592f",
-  "url": "https://bdnews24.com/world/middle-east/wk61tnih39",
-  "headline": "2 Bangladeshis injured in attack on Saudi airport",
-  "topic": "bangladeshis injured dammam airport attack",
-  "source": "Prothom Alo, bdnews24.com, Jamuna TV, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-10-22T17:08:33Z"
- },
- {
-  "title_hash": "a8c6529db94042e9",
-  "url": "https://bdnews24.com/economy/825yo5dp8f",
-  "headline": "$6.36bn boost: Japan to arrange private investments in Bangladesh",
-  "topic": "japan investment bangladesh",
-  "source": "bdnews24.com, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-22T18:11:49Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "7e68aa800e043663",
   "url": "https://www.prothomalo.com/bangladesh/30bfznkol2",
   "headline": "$6.36bn boost: Japan to arrange private investments in Bangladesh",
@@ -8328,5 +8269,59 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "24ea117e336e7708",
+  "url": "https://www.thedailystar.net/sports/football/news/kane-finally-gets-his-golden-moment-beats-yamal-and-mbappe-taste-ballon-dor-glory-4308461",
+  "headline": "Harry Kane wins Ballon d'Or, first Englishman in 25 years, after scoring 73 goals",
+  "topic": "harry kane wins ballon dor",
+  "source": "The Daily Star, bdnews24.com, Jamuna TV, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-27T03:07:01Z"
+ },
+ {
+  "title_hash": "4e05d9c2d05ed20d",
+  "url": "https://bdnews24.com/sport/kz5px27jrf",
+  "headline": "Harry Kane wins Ballon d'Or, first Englishman in 25 years, after scoring 73 goals",
+  "topic": "harry kane wins ballon dor",
+  "source": "The Daily Star, bdnews24.com, Jamuna TV, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-27T03:07:01Z"
+ },
+ {
+  "title_hash": "b57a04fc44d5bcde",
+  "url": "https://www.jamuna.tv/sports/666885",
+  "headline": "Harry Kane wins Ballon d'Or, first Englishman in 25 years, after scoring 73 goals",
+  "topic": "harry kane wins ballon dor",
+  "source": "The Daily Star, bdnews24.com, Jamuna TV, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-27T03:07:01Z"
+ },
+ {
+  "title_hash": "55b1048cf31703d4",
+  "url": "https://www.prothomalo.com/sports/football/dceu5978eb",
+  "headline": "Harry Kane wins Ballon d'Or, first Englishman in 25 years, after scoring 73 goals",
+  "topic": "harry kane wins ballon dor",
+  "source": "The Daily Star, bdnews24.com, Jamuna TV, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-27T03:07:01Z"
+ },
+ {
+  "title_hash": "d0c40190843954a5",
+  "url": "https://www.prothomalo.com/world/middle-east/rkosffnr41",
+  "headline": "59 foreign nationals executed in Saudi Arabia in 6 months amid concerns over unfair trials",
+  "topic": "bangladeshi workers saudi houthi conflict",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-27T03:07:01Z"
+ },
+ {
+  "title_hash": "61100e3c2f787578",
+  "url": "https://www.prothomalo.com/opinion/column/ygpynndzxe",
+  "headline": "59 foreign nationals executed in Saudi Arabia in 6 months amid concerns over unfair trials",
+  "topic": "bangladeshi workers saudi houthi conflict",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-27T03:07:01Z"
  }
 ]
