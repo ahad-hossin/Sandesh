@@ -8251,8 +8251,13 @@
   "headline": "5 killed by lorry in Sitakunda, Chittagong; 4 more injured in tragic accident",
   "topic": "sitakunda lorry accident 5 dead",
   "source": "Jamuna TV",
-  "status": "queued",
-  "at": "2026-10-27T02:06:55Z"
+  "status": "failed",
+  "at": "2026-10-27T02:06:55Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "24ea117e336e7708",
@@ -8260,8 +8265,13 @@
   "headline": "Harry Kane becomes England's first Ballon d'Or winner in 25 years, beating Mbappe",
   "topic": "harry kane wins ballon dor",
   "source": "The Daily Star, bdnews24.com, Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-27T02:06:55Z"
+  "status": "failed",
+  "at": "2026-10-27T02:06:55Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "4e05d9c2d05ed20d",
@@ -8269,8 +8279,13 @@
   "headline": "Harry Kane becomes England's first Ballon d'Or winner in 25 years, beating Mbappe",
   "topic": "harry kane wins ballon dor",
   "source": "The Daily Star, bdnews24.com, Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-27T02:06:55Z"
+  "status": "failed",
+  "at": "2026-10-27T02:06:55Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "b57a04fc44d5bcde",
@@ -8278,8 +8293,13 @@
   "headline": "Harry Kane becomes England's first Ballon d'Or winner in 25 years, beating Mbappe",
   "topic": "harry kane wins ballon dor",
   "source": "The Daily Star, bdnews24.com, Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-27T02:06:55Z"
+  "status": "failed",
+  "at": "2026-10-27T02:06:55Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "28e67732c45c2894",
@@ -8287,8 +8307,13 @@
   "headline": "Harry Kane becomes England's first Ballon d'Or winner in 25 years, beating Mbappe",
   "topic": "harry kane wins ballon dor",
   "source": "The Daily Star, bdnews24.com, Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-27T02:06:55Z"
+  "status": "failed",
+  "at": "2026-10-27T02:06:55Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "4469f7bacfc71df8",
@@ -8296,7 +8321,12 @@
   "headline": "Harry Kane becomes England's first Ballon d'Or winner in 25 years, beating Mbappe",
   "topic": "harry kane wins ballon dor",
   "source": "The Daily Star, bdnews24.com, Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-27T02:06:55Z"
+  "status": "failed",
+  "at": "2026-10-27T02:06:55Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
