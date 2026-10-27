@@ -8290,8 +8290,13 @@
   "headline": "Police cannot carry out crossfire even if government orders it: Adviser Zahed",
   "topic": "igp crossfire remarks scrutiny",
   "source": "Dhaka Tribune, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-27T12:11:22Z"
+  "status": "failed",
+  "at": "2026-10-27T12:11:22Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "546293a50d90b025",
@@ -8299,8 +8304,13 @@
   "headline": "Police cannot carry out crossfire even if government orders it: Adviser Zahed",
   "topic": "igp crossfire remarks scrutiny",
   "source": "Dhaka Tribune, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-27T12:11:22Z"
+  "status": "failed",
+  "at": "2026-10-27T12:11:22Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "2d9f3602dcea0f5c",
@@ -8308,8 +8318,13 @@
   "headline": "Police cannot carry out crossfire even if government orders it: Adviser Zahed",
   "topic": "igp crossfire remarks scrutiny",
   "source": "Dhaka Tribune, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-27T12:11:22Z"
+  "status": "failed",
+  "at": "2026-10-27T12:11:22Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "b0a0d1a63b077732",
@@ -8317,8 +8332,13 @@
   "headline": "Coal-laden cargo vessel sinks in Pasur river near Mongla port after collision",
   "topic": "coal vessel sinks pasur river",
   "source": "The Daily Star",
-  "status": "queued",
-  "at": "2026-10-27T12:11:22Z"
+  "status": "failed",
+  "at": "2026-10-27T12:11:22Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "050042c0f38a81f3",
@@ -8326,7 +8346,12 @@
   "headline": "Coal-laden cargo vessel sinks in Pasur river near Mongla port after collision",
   "topic": "coal vessel sinks pasur river",
   "source": "The Daily Star",
-  "status": "queued",
-  "at": "2026-10-27T12:11:22Z"
+  "status": "failed",
+  "at": "2026-10-27T12:11:22Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
