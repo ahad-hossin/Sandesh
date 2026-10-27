@@ -1,75 +1,5 @@
 [
  {
-  "title_hash": "a090c826d2d92134",
-  "url": "https://www.thedailystar.net/news/bangladesh/diplomacy/news/around-7500-bangladeshis-held-saudi-prisons-shama-obaed-4305636",
-  "headline": "7,500 Bangladeshis held in Saudi prisons, says State Minister Shama",
-  "topic": "thousands of Bangladeshis imprisoned in Saudi Arabia",
-  "source": "bdnews24.com, The Daily Star, Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-10-23T10:19:40Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "4c4774ba40d4b0b6",
-  "url": "https://www.dhakatribune.com/bangladesh/422729/shama-around-7-500-bangladeshis-imprisoned-in",
-  "headline": "7,500 Bangladeshis held in Saudi prisons, says State Minister Shama",
-  "topic": "thousands of Bangladeshis imprisoned in Saudi Arabia",
-  "source": "bdnews24.com, The Daily Star, Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-10-23T10:19:40Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "1f95bd8bf2d6b013",
-  "url": "https://www.dhakatribune.com/bangladesh/crime/422745/jubo-mohila-league-leader-found-slaughtered-in",
-  "headline": "State Minister Mir Shah Alam criticizes opposition for 'fake' religious politics",
-  "topic": "jubo mohila league leader slaughtered",
-  "source": "Dhaka Tribune, Jamuna TV",
-  "status": "failed",
-  "at": "2026-10-23T11:10:32Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "07465e04c0a35a87",
-  "url": "https://www.jamuna.tv/all-bangladesh/666690",
-  "headline": "State Minister Mir Shah Alam criticizes opposition for 'fake' religious politics",
-  "topic": "jubo mohila league leader slaughtered",
-  "source": "Dhaka Tribune, Jamuna TV",
-  "status": "failed",
-  "at": "2026-10-23T11:10:32Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "4a8d9fc10accfa9a",
-  "url": "https://bdnews24.com/bangladesh/3o691784kf",
-  "headline": "7,500 Bangladeshis held in Saudi prisons, says State Minister",
-  "topic": "newborn found in bushes",
-  "source": "Prothom Alo, bdnews24.com",
-  "status": "failed",
-  "at": "2026-10-23T11:10:32Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "471d3cf7508df272",
   "url": "https://www.prothomalo.com/bangladesh/district/yiw73staha",
   "headline": "7,500 Bangladeshis held in Saudi prisons, says State Minister",
@@ -8353,5 +8283,50 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "b6a0e5b8af7d2c52",
+  "url": "https://www.dhakatribune.com/bangladesh/politics/423029/rizvi-igp%E2%80%99s-crossfire-remarks-have-put-govt-in-an",
+  "headline": "Police cannot carry out crossfire even if government orders it: Adviser Zahed",
+  "topic": "igp crossfire remarks scrutiny",
+  "source": "Dhaka Tribune, The Daily Star",
+  "status": "queued",
+  "at": "2026-10-27T12:11:22Z"
+ },
+ {
+  "title_hash": "546293a50d90b025",
+  "url": "https://www.thedailystar.net/news/governance/news/police-cannot-carry-out-crossfire-even-if-government-orders-it-adviser-zahed-4308651",
+  "headline": "Police cannot carry out crossfire even if government orders it: Adviser Zahed",
+  "topic": "igp crossfire remarks scrutiny",
+  "source": "Dhaka Tribune, The Daily Star",
+  "status": "queued",
+  "at": "2026-10-27T12:11:22Z"
+ },
+ {
+  "title_hash": "2d9f3602dcea0f5c",
+  "url": "https://www.thedailystar.net/news/news/igps-remarks-crossfire-what-do-the-constitution-and-law-say-4308611",
+  "headline": "Police cannot carry out crossfire even if government orders it: Adviser Zahed",
+  "topic": "igp crossfire remarks scrutiny",
+  "source": "Dhaka Tribune, The Daily Star",
+  "status": "queued",
+  "at": "2026-10-27T12:11:22Z"
+ },
+ {
+  "title_hash": "b0a0d1a63b077732",
+  "url": "https://www.thedailystar.net/news/accidents-and-fires/news/coal-laden-cargo-vessel-sinks-pasur-river-near-mongla-port-4308691",
+  "headline": "Coal-laden cargo vessel sinks in Pasur river near Mongla port after collision",
+  "topic": "coal vessel sinks pasur river",
+  "source": "The Daily Star",
+  "status": "queued",
+  "at": "2026-10-27T12:11:22Z"
+ },
+ {
+  "title_hash": "050042c0f38a81f3",
+  "url": "https://www.thedailystar.net/news/accidents-and-fires/news/five-killed-eight-injured-lorry-rams-people-beside-dhaka-chattogram-highway-4308531",
+  "headline": "Coal-laden cargo vessel sinks in Pasur river near Mongla port after collision",
+  "topic": "coal vessel sinks pasur river",
+  "source": "The Daily Star",
+  "status": "queued",
+  "at": "2026-10-27T12:11:22Z"
  }
 ]
