@@ -8262,8 +8262,13 @@
   "headline": "Winds up to 150kmph: Cyclone Arnab becomes very severe as 4 ports warned",
   "topic": "cyclone arnab warning",
   "source": "Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-27T11:09:36Z"
+  "status": "failed",
+  "at": "2026-10-27T11:09:36Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "cbd7dc293dccf58f",
@@ -8271,8 +8276,13 @@
   "headline": "Winds up to 150kmph: Cyclone Arnab becomes very severe as 4 ports warned",
   "topic": "cyclone arnab warning",
   "source": "Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-27T11:09:36Z"
+  "status": "failed",
+  "at": "2026-10-27T11:09:36Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "67e77a83b01ae809",
@@ -8280,8 +8290,13 @@
   "headline": "HSC results delayed to October 31",
   "topic": "hsc results delayed october 31",
   "source": "Dhaka Tribune, Jamuna TV, bdnews24.com, Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-27T11:09:36Z"
+  "status": "failed",
+  "at": "2026-10-27T11:09:36Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "17d85f8b6ab29a37",
@@ -8289,8 +8304,13 @@
   "headline": "HSC results delayed to October 31",
   "topic": "hsc results delayed october 31",
   "source": "Dhaka Tribune, Jamuna TV, bdnews24.com, Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-27T11:09:36Z"
+  "status": "failed",
+  "at": "2026-10-27T11:09:36Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "68a575545844cc57",
@@ -8298,8 +8318,13 @@
   "headline": "HSC results delayed to October 31",
   "topic": "hsc results delayed october 31",
   "source": "Dhaka Tribune, Jamuna TV, bdnews24.com, Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-27T11:09:36Z"
+  "status": "failed",
+  "at": "2026-10-27T11:09:36Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "bfb886ceda1d8757",
@@ -8307,8 +8332,13 @@
   "headline": "HSC results delayed to October 31",
   "topic": "hsc results delayed october 31",
   "source": "Dhaka Tribune, Jamuna TV, bdnews24.com, Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-27T11:09:36Z"
+  "status": "failed",
+  "at": "2026-10-27T11:09:36Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "213ba04b1e2f7e36",
@@ -8316,7 +8346,12 @@
   "headline": "HSC results delayed to October 31",
   "topic": "hsc results delayed october 31",
   "source": "Dhaka Tribune, Jamuna TV, bdnews24.com, Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-27T11:09:36Z"
+  "status": "failed",
+  "at": "2026-10-27T11:09:36Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
