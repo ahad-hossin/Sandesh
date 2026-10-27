@@ -1,75 +1,5 @@
 [
  {
-  "title_hash": "2bbbd6b312e96bab",
-  "url": "https://www.prothomalo.com/bangladesh/nm26nf0lc3",
-  "headline": "Shops return to 8 PM closing as Durga Puja holiday hours end",
-  "topic": "shops markets return normal hours",
-  "source": "Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-24T04:08:09Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "a9512648c4794493",
-  "url": "https://bdnews24.com/bangladesh/wl2lxekr2v",
-  "headline": "Gunshots fired at singer Asif Akbar's car in Dhaka",
-  "topic": "shots fired at singer asif akbar car",
-  "source": "bdnews24.com, Jamuna TV, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-10-24T05:15:10Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "d275db78e629418d",
-  "url": "https://www.jamuna.tv/national/666708",
-  "headline": "Gunshots fired at singer Asif Akbar's car in Dhaka",
-  "topic": "shots fired at singer asif akbar car",
-  "source": "bdnews24.com, Jamuna TV, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-10-24T05:15:10Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "fd4d37afad65a38d",
-  "url": "https://www.prothomalo.com/bangladesh/crime/9oqup16mms",
-  "headline": "Gunshots fired at singer Asif Akbar's car in Dhaka",
-  "topic": "shots fired at singer asif akbar car",
-  "source": "bdnews24.com, Jamuna TV, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-10-24T05:15:10Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "919581e340cacdf7",
-  "url": "https://www.thedailystar.net/news/crime-justice/news/gunshots-fired-singer-asif-akbars-car-4306176",
-  "headline": "Gunshots fired at singer Asif Akbar's car in Dhaka",
-  "topic": "shots fired at singer asif akbar car",
-  "source": "bdnews24.com, Jamuna TV, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-10-24T05:15:10Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "fb8adb62991dcb98",
   "url": "https://www.thedailystar.net/news/world/middle-east/news/seven-killed-gunmen-open-fire-church-jordan-terrorist-attack-authorities-say-4306151",
   "headline": "7 killed as gunmen attack church in Jordan during funeral",
@@ -8398,5 +8328,50 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "e74a71aba1d94af7",
+  "url": "https://www.jamuna.tv/national/666941",
+  "headline": "Home Minister says IGP's remarks on crossfire were wrong",
+  "topic": "home minister slams igp crossfire remark",
+  "source": "Jamuna TV, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-27T20:11:55Z"
+ },
+ {
+  "title_hash": "45927596be3875fd",
+  "url": "https://www.prothomalo.com/video/bangladesh/0kwh8kplf6",
+  "headline": "Home Minister says IGP's remarks on crossfire were wrong",
+  "topic": "home minister slams igp crossfire remark",
+  "source": "Jamuna TV, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-27T20:11:55Z"
+ },
+ {
+  "title_hash": "a36c40615e7a5c3a",
+  "url": "https://www.dhakatribune.com/bangladesh/crime/423074/two-held-for-trafficking-bangladeshi-youths-to",
+  "headline": "2 held as youths trafficked to Cambodia for online scams",
+  "topic": "bangladeshis trafficked to cambodia scams",
+  "source": "Dhaka Tribune, bdnews24.com, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-27T20:11:55Z"
+ },
+ {
+  "title_hash": "2d166f4a7e469a49",
+  "url": "https://bdnews24.com/bangladesh/xhiojuu4do",
+  "headline": "2 held as youths trafficked to Cambodia for online scams",
+  "topic": "bangladeshis trafficked to cambodia scams",
+  "source": "Dhaka Tribune, bdnews24.com, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-27T20:11:55Z"
+ },
+ {
+  "title_hash": "513faa7b99522ac1",
+  "url": "https://www.prothomalo.com/bangladesh/iye9i6gtlx",
+  "headline": "2 held as youths trafficked to Cambodia for online scams",
+  "topic": "bangladeshis trafficked to cambodia scams",
+  "source": "Dhaka Tribune, bdnews24.com, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-27T20:11:55Z"
  }
 ]
