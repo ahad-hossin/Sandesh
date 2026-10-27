@@ -8290,8 +8290,13 @@
   "headline": "Kushtia: Jamaat insists on Zila School ground despite stadium rally permit",
   "topic": "political protest dhaka metro lockdown",
   "source": "Dhaka Tribune, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-27T06:09:27Z"
+  "status": "failed",
+  "at": "2026-10-27T06:09:27Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "07a3a729c2843424",
@@ -8299,8 +8304,13 @@
   "headline": "Kushtia: Jamaat insists on Zila School ground despite stadium rally permit",
   "topic": "political protest dhaka metro lockdown",
   "source": "Dhaka Tribune, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-27T06:09:27Z"
+  "status": "failed",
+  "at": "2026-10-27T06:09:27Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "050042c0f38a81f3",
@@ -8308,8 +8318,13 @@
   "headline": "5 killed as lorry rams into passengers beside Dhaka-Chattogram highway",
   "topic": "lorry rams people dhaka chittagong highway",
   "source": "The Daily Star, Prothom Alo, Jamuna TV",
-  "status": "queued",
-  "at": "2026-10-27T06:09:27Z"
+  "status": "failed",
+  "at": "2026-10-27T06:09:27Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "3e063aa761f232bc",
@@ -8317,8 +8332,13 @@
   "headline": "5 killed as lorry rams into passengers beside Dhaka-Chattogram highway",
   "topic": "lorry rams people dhaka chittagong highway",
   "source": "The Daily Star, Prothom Alo, Jamuna TV",
-  "status": "queued",
-  "at": "2026-10-27T06:09:27Z"
+  "status": "failed",
+  "at": "2026-10-27T06:09:27Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "04bb845242af0072",
@@ -8326,7 +8346,12 @@
   "headline": "5 killed as lorry rams into passengers beside Dhaka-Chattogram highway",
   "topic": "lorry rams people dhaka chittagong highway",
   "source": "The Daily Star, Prothom Alo, Jamuna TV",
-  "status": "queued",
-  "at": "2026-10-27T06:09:27Z"
+  "status": "failed",
+  "at": "2026-10-27T06:09:27Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
