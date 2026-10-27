@@ -8349,8 +8349,13 @@
   "headline": "HSC results deferred to Oct 31",
   "topic": "hsc results deferred oct 31",
   "source": "The Daily Star, Jamuna TV",
-  "status": "queued",
-  "at": "2026-10-27T23:08:26Z"
+  "status": "failed",
+  "at": "2026-10-27T23:08:26Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "4162f8793bda9d7f",
@@ -8358,8 +8363,13 @@
   "headline": "HSC results deferred to Oct 31",
   "topic": "hsc results deferred oct 31",
   "source": "The Daily Star, Jamuna TV",
-  "status": "queued",
-  "at": "2026-10-27T23:08:26Z"
+  "status": "failed",
+  "at": "2026-10-27T23:08:26Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "bbdcb20f690d5250",
@@ -8367,8 +8377,13 @@
   "headline": "400 deaths: Dengue death toll reaches 400 as cases turn severe",
   "topic": "dengue death toll 400",
   "source": "The Daily Star, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-10-27T23:08:26Z"
+  "status": "failed",
+  "at": "2026-10-27T23:08:26Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "b2e48d8628df7a8c",
@@ -8376,7 +8391,12 @@
   "headline": "400 deaths: Dengue death toll reaches 400 as cases turn severe",
   "topic": "dengue death toll 400",
   "source": "The Daily Star, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-10-27T23:08:26Z"
+  "status": "failed",
+  "at": "2026-10-27T23:08:26Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
