@@ -1,69 +1,5 @@
 [
  {
-  "title_hash": "2d63434adc5761a0",
-  "url": "https://bdnews24.com/world/xkke66ivxn",
-  "headline": "Magnitude 7 earthquake strikes Tibet, China",
-  "topic": "tibet-magnitude-7-earthquake",
-  "source": "Jamuna TV, bdnews24.com",
-  "status": "failed",
-  "at": "2026-10-22T16:08:50Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "bd88888a7455ad82",
-  "url": "https://www.jamuna.tv/international/666662",
-  "headline": "Magnitude 7 earthquake strikes Tibet, China",
-  "topic": "tibet-magnitude-7-earthquake",
-  "source": "Jamuna TV, bdnews24.com",
-  "status": "failed",
-  "at": "2026-10-22T16:08:50Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "977867c304b9c454",
-  "url": "https://www.dhakatribune.com/bangladesh/foreign-affairs/422714/biman-suspends-riyadh-and-dammam-flights-over",
-  "headline": "Biman suspends Riyadh and Dammam flights over security concerns",
-  "topic": "biman suspends saudi flights",
-  "source": "Jamuna TV, Dhaka Tribune, bdnews24.com, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-22T17:08:33Z"
- },
- {
-  "title_hash": "f0633f461c0b3f19",
-  "url": "https://www.jamuna.tv/national/666663",
-  "headline": "Biman suspends Riyadh and Dammam flights over security concerns",
-  "topic": "biman suspends saudi flights",
-  "source": "Jamuna TV, Dhaka Tribune, bdnews24.com, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-22T17:08:33Z"
- },
- {
-  "title_hash": "ab3bd0620b7c0711",
-  "url": "https://bdnews24.com/bangladesh/86gi8niesu",
-  "headline": "Biman suspends Riyadh and Dammam flights over security concerns",
-  "topic": "biman suspends saudi flights",
-  "source": "Jamuna TV, Dhaka Tribune, bdnews24.com, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-22T17:08:33Z"
- },
- {
-  "title_hash": "d33003d36ed20c68",
-  "url": "https://www.prothomalo.com/bangladesh/mdm4unravg",
-  "headline": "Biman suspends Riyadh and Dammam flights over security concerns",
-  "topic": "biman suspends saudi flights",
-  "source": "Jamuna TV, Dhaka Tribune, bdnews24.com, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-22T17:08:33Z"
- },
- {
   "title_hash": "1c5aad8405c4f38b",
   "url": "https://bdnews24.com/bangladesh/emcz7tvlon",
   "headline": "2 Bangladeshis injured in attack on Saudi airport",
@@ -8308,5 +8244,59 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "04bb845242af0072",
+  "url": "https://www.jamuna.tv/all-bangladesh/666886",
+  "headline": "5 killed by lorry in Sitakunda, Chittagong; 4 more injured in tragic accident",
+  "topic": "sitakunda lorry accident 5 dead",
+  "source": "Jamuna TV",
+  "status": "queued",
+  "at": "2026-10-27T02:06:55Z"
+ },
+ {
+  "title_hash": "24ea117e336e7708",
+  "url": "https://www.thedailystar.net/sports/football/news/kane-finally-gets-his-golden-moment-beats-yamal-and-mbappe-taste-ballon-dor-glory-4308461",
+  "headline": "Harry Kane becomes England's first Ballon d'Or winner in 25 years, beating Mbappe",
+  "topic": "harry kane wins ballon dor",
+  "source": "The Daily Star, bdnews24.com, Jamuna TV, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-27T02:06:55Z"
+ },
+ {
+  "title_hash": "4e05d9c2d05ed20d",
+  "url": "https://bdnews24.com/sport/kz5px27jrf",
+  "headline": "Harry Kane becomes England's first Ballon d'Or winner in 25 years, beating Mbappe",
+  "topic": "harry kane wins ballon dor",
+  "source": "The Daily Star, bdnews24.com, Jamuna TV, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-27T02:06:55Z"
+ },
+ {
+  "title_hash": "b57a04fc44d5bcde",
+  "url": "https://www.jamuna.tv/sports/666885",
+  "headline": "Harry Kane becomes England's first Ballon d'Or winner in 25 years, beating Mbappe",
+  "topic": "harry kane wins ballon dor",
+  "source": "The Daily Star, bdnews24.com, Jamuna TV, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-27T02:06:55Z"
+ },
+ {
+  "title_hash": "28e67732c45c2894",
+  "url": "https://www.prothomalo.com/sports/football/8wf198055f",
+  "headline": "Harry Kane becomes England's first Ballon d'Or winner in 25 years, beating Mbappe",
+  "topic": "harry kane wins ballon dor",
+  "source": "The Daily Star, bdnews24.com, Jamuna TV, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-27T02:06:55Z"
+ },
+ {
+  "title_hash": "4469f7bacfc71df8",
+  "url": "https://www.thedailystar.net/sports/football/news/one-season-wonder-ballon-dor-winner-kane-gets-his-golden-due-4308476",
+  "headline": "Harry Kane becomes England's first Ballon d'Or winner in 25 years, beating Mbappe",
+  "topic": "harry kane wins ballon dor",
+  "source": "The Daily Star, bdnews24.com, Jamuna TV, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-27T02:06:55Z"
  }
 ]
