@@ -8245,8 +8245,13 @@
   "headline": "Harry Kane wins Ballon d'Or, first English winner in 25 years, beating Yamal & Mbappe",
   "topic": "harry kane ballon d'or 2026",
   "source": "The Daily Star, bdnews24.com, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-27T01:08:10Z"
+  "status": "failed",
+  "at": "2026-10-27T01:08:10Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "4e05d9c2d05ed20d",
@@ -8254,8 +8259,13 @@
   "headline": "Harry Kane wins Ballon d'Or, first English winner in 25 years, beating Yamal & Mbappe",
   "topic": "harry kane ballon d'or 2026",
   "source": "The Daily Star, bdnews24.com, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-27T01:08:10Z"
+  "status": "failed",
+  "at": "2026-10-27T01:08:10Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "28e67732c45c2894",
@@ -8263,8 +8273,13 @@
   "headline": "Harry Kane wins Ballon d'Or, first English winner in 25 years, beating Yamal & Mbappe",
   "topic": "harry kane ballon d'or 2026",
   "source": "The Daily Star, bdnews24.com, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-27T01:08:10Z"
+  "status": "failed",
+  "at": "2026-10-27T01:08:10Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "4469f7bacfc71df8",
@@ -8272,8 +8287,13 @@
   "headline": "Harry Kane wins Ballon d'Or, first English winner in 25 years, beating Yamal & Mbappe",
   "topic": "harry kane ballon d'or 2026",
   "source": "The Daily Star, bdnews24.com, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-27T01:08:10Z"
+  "status": "failed",
+  "at": "2026-10-27T01:08:10Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "7fae5b523be38d60",
@@ -8281,7 +8301,12 @@
   "headline": "Alexia Putellas wins Ballon d'Or Feminin award for outstanding season",
   "topic": "putellas ballon d'or feminin",
   "source": "bdnews24.com",
-  "status": "queued",
-  "at": "2026-10-27T01:08:10Z"
+  "status": "failed",
+  "at": "2026-10-27T01:08:10Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
