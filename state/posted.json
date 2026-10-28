@@ -8321,8 +8321,13 @@
   "headline": "Nearly 100,000 evacuated as Cyclone Arnab, a 'very severe cyclonic storm', nears India's coast",
   "topic": "cyclone arnab hits india coast",
   "source": "Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-28T00:06:56Z"
+  "status": "failed",
+  "at": "2026-10-28T00:06:56Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "88f64bd9e21e795c",
@@ -8330,8 +8335,13 @@
   "headline": "Nearly 100,000 evacuated as Cyclone Arnab, a 'very severe cyclonic storm', nears India's coast",
   "topic": "cyclone arnab hits india coast",
   "source": "Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-28T00:06:56Z"
+  "status": "failed",
+  "at": "2026-10-28T00:06:56Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "eadc96ab7b28b67d",
@@ -8339,8 +8349,13 @@
   "headline": "Japan pledges $6.3B investment, 200,000 jobs for Bangladesh over five years, PM Tarique Rahman announces",
   "topic": "pm tarique rahman japan visit investment",
   "source": "bdnews24.com, Prothom Alo, The Daily Star, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-10-28T00:06:56Z"
+  "status": "failed",
+  "at": "2026-10-28T00:06:56Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "af21cf86119e6a6d",
@@ -8348,8 +8363,13 @@
   "headline": "Japan pledges $6.3B investment, 200,000 jobs for Bangladesh over five years, PM Tarique Rahman announces",
   "topic": "pm tarique rahman japan visit investment",
   "source": "bdnews24.com, Prothom Alo, The Daily Star, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-10-28T00:06:56Z"
+  "status": "failed",
+  "at": "2026-10-28T00:06:56Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "3f248a23cd013a1e",
@@ -8357,8 +8377,13 @@
   "headline": "Japan pledges $6.3B investment, 200,000 jobs for Bangladesh over five years, PM Tarique Rahman announces",
   "topic": "pm tarique rahman japan visit investment",
   "source": "bdnews24.com, Prothom Alo, The Daily Star, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-10-28T00:06:56Z"
+  "status": "failed",
+  "at": "2026-10-28T00:06:56Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "20da6443d8aad765",
@@ -8366,7 +8391,12 @@
   "headline": "Japan pledges $6.3B investment, 200,000 jobs for Bangladesh over five years, PM Tarique Rahman announces",
   "topic": "pm tarique rahman japan visit investment",
   "source": "bdnews24.com, Prothom Alo, The Daily Star, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-10-28T00:06:56Z"
+  "status": "failed",
+  "at": "2026-10-28T00:06:56Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
