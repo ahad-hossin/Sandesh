@@ -8377,8 +8377,13 @@
   "headline": "251 prisoners died in custody during first nine months of 2026",
   "topic": "death behind bars prisoners rights",
   "source": "bdnews24.com",
-  "status": "queued",
-  "at": "2026-10-28T20:10:23Z"
+  "status": "failed",
+  "at": "2026-10-28T20:10:23Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "2b0aacb2bd1c099e",
@@ -8386,7 +8391,12 @@
   "headline": "Farmer killed in Chattogram after refusing extortion",
   "topic": "man murdered for ransom in chattogram",
   "source": "Jamuna TV",
-  "status": "queued",
-  "at": "2026-10-28T20:10:23Z"
+  "status": "failed",
+  "at": "2026-10-28T20:10:23Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
