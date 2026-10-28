@@ -1,47 +1,5 @@
 [
  {
-  "title_hash": "addb16d3542f7a26",
-  "url": "https://www.dhakatribune.com/bangladesh/422876/saint-martin%E2%80%99s-island-to-reopen-to-tourists-on",
-  "headline": "Nov 1: Saint Martin’s Island to reopen to tourists with new rules",
-  "topic": "st martin island reopen november",
-  "source": "bdnews24.com, Prothom Alo, Dhaka Tribune, Jamuna TV",
-  "status": "failed",
-  "at": "2026-10-25T14:09:34Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "d44dce7680b71b03",
-  "url": "https://www.jamuna.tv/all-bangladesh/666801",
-  "headline": "Nov 1: Saint Martin’s Island to reopen to tourists with new rules",
-  "topic": "st martin island reopen november",
-  "source": "bdnews24.com, Prothom Alo, Dhaka Tribune, Jamuna TV",
-  "status": "failed",
-  "at": "2026-10-25T14:09:34Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "b111d56cb3ff54e0",
-  "url": "https://www.prothomalo.com/bangladesh/1-nbhembr-khulche-sentt-maarttin-laagbe-phi",
-  "headline": "Nov 1: Saint Martin’s Island to reopen to tourists with new rules",
-  "topic": "st martin island reopen november",
-  "source": "bdnews24.com, Prothom Alo, Dhaka Tribune, Jamuna TV",
-  "status": "failed",
-  "at": "2026-10-25T14:09:34Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "8c39f0b4ac219ebd",
   "url": "https://bdnews24.com/bangladesh/qiocfr41u8",
   "headline": "Youth remanded for 7 days over 'sniper' comment on PM's visit",
@@ -8398,5 +8356,32 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "a8bfd2c20edf5d61",
+  "url": "https://www.thedailystar.net/business/global-economy/news/sufficient-supplies-pipeline-ahead-ramadan-4310081",
+  "headline": "No Ramadan commodity shortages expected as Bangladesh secures sufficient supplies",
+  "topic": "ramadan commodity supplies",
+  "source": "The Daily Star",
+  "status": "queued",
+  "at": "2026-10-28T23:09:30Z"
+ },
+ {
+  "title_hash": "74fbc75150af3aba",
+  "url": "https://bdnews24.com/economy/qtpk6ebupn",
+  "headline": "World Bank: Commodity prices to surge 23% by 2026",
+  "topic": "world bank commodity price surge",
+  "source": "Prothom Alo, bdnews24.com",
+  "status": "queued",
+  "at": "2026-10-28T23:09:30Z"
+ },
+ {
+  "title_hash": "538397878252a578",
+  "url": "https://www.prothomalo.com/world/cu84lqwn27",
+  "headline": "World Bank: Commodity prices to surge 23% by 2026",
+  "topic": "world bank commodity price surge",
+  "source": "Prothom Alo, bdnews24.com",
+  "status": "queued",
+  "at": "2026-10-28T23:09:30Z"
  }
 ]
