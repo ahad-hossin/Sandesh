@@ -1,33 +1,5 @@
 [
  {
-  "title_hash": "3b01540e1450d472",
-  "url": "https://bdnews24.com/bangladesh/neky9v6eod",
-  "headline": "Nov 1: Saint Martin’s Island to reopen to tourists with new rules",
-  "topic": "st martin island reopen november",
-  "source": "bdnews24.com, Prothom Alo, Dhaka Tribune, Jamuna TV",
-  "status": "failed",
-  "at": "2026-10-25T14:09:34Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "ffbfd9f048b05a24",
-  "url": "https://www.prothomalo.com/lifestyle/travel/pubxsi4qmv",
-  "headline": "Nov 1: Saint Martin’s Island to reopen to tourists with new rules",
-  "topic": "st martin island reopen november",
-  "source": "bdnews24.com, Prothom Alo, Dhaka Tribune, Jamuna TV",
-  "status": "failed",
-  "at": "2026-10-25T14:09:34Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "addb16d3542f7a26",
   "url": "https://www.dhakatribune.com/bangladesh/422876/saint-martin%E2%80%99s-island-to-reopen-to-tourists-on",
   "headline": "Nov 1: Saint Martin’s Island to reopen to tourists with new rules",
@@ -8398,5 +8370,23 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "82a14f6fb8c0d426",
+  "url": "https://www.jamuna.tv/international/667012",
+  "headline": "68 killed in Spain train crash, 80 injured as one train hits stationary one",
+  "topic": "spain train collision death toll rises",
+  "source": "Jamuna TV",
+  "status": "queued",
+  "at": "2026-10-28T22:11:31Z"
+ },
+ {
+  "title_hash": "aa3fbee87605f5a4",
+  "url": "https://www.jamuna.tv/all-bangladesh/667011",
+  "headline": "Mother and daughter killed in head-on collision in Chakaria",
+  "topic": "bus-car crash kills mother-daughter in Chakaria",
+  "source": "Jamuna TV",
+  "status": "queued",
+  "at": "2026-10-28T22:11:31Z"
  }
 ]
