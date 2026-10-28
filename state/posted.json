@@ -1,33 +1,5 @@
 [
  {
-  "title_hash": "ff00fcfdec656a61",
-  "url": "https://www.thedailystar.net/slow-reads/geopolitical-insights/news/tarique-rahmans-japan-visit-the-next-frontier-bangladesh-japan-relations-4306441",
-  "headline": "Bangladesh PM Tarique Rahman to visit Japan, $2B loans & $6.36B investment expected",
-  "topic": "pm japan visit investment",
-  "source": "Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-10-25T02:07:34Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "3595b2b14b600e79",
-  "url": "https://bdnews24.com/education/e5i6mte96m",
-  "headline": "HSC and equivalent exam results to be published on October 29, says Inter-Education Board",
-  "topic": "hsc results date announced",
-  "source": "Jamuna TV, bdnews24.com, The Daily Star",
-  "status": "failed",
-  "at": "2026-10-25T02:07:34Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "eeb93c765c0e612b",
   "url": "https://www.jamuna.tv/national/666764",
   "headline": "HSC and equivalent exam results to be published on October 29, says Inter-Education Board",
@@ -8398,5 +8370,23 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "8ff48c5d09ffe981",
+  "url": "https://www.jamuna.tv/international/666994",
+  "headline": "At least 46 killed in Spain high-speed train collision",
+  "topic": "spain train collision kills 46",
+  "source": "Jamuna TV",
+  "status": "queued",
+  "at": "2026-10-28T11:09:14Z"
+ },
+ {
+  "title_hash": "9f48210cf630a7aa",
+  "url": "https://www.thedailystar.net/news/world/europe/news/least-30-people-killed-spain-when-two-high-speed-trains-collide-4309746",
+  "headline": "30 killed as two high-speed trains collide in Spain",
+  "topic": "spain train collision kills 30",
+  "source": "The Daily Star",
+  "status": "queued",
+  "at": "2026-10-28T11:09:14Z"
  }
 ]
