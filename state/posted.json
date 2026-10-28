@@ -8363,8 +8363,13 @@
   "headline": "HSC and equivalent exam results to be published on October 31, two days later than planned",
   "topic": "HSC results deferred",
   "source": "Jamuna TV, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-28T02:08:32Z"
+  "status": "failed",
+  "at": "2026-10-28T02:08:32Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "4162f8793bda9d7f",
@@ -8372,8 +8377,13 @@
   "headline": "HSC and equivalent exam results to be published on October 31, two days later than planned",
   "topic": "HSC results deferred",
   "source": "Jamuna TV, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-28T02:08:32Z"
+  "status": "failed",
+  "at": "2026-10-28T02:08:32Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "d026f9737b175685",
@@ -8381,7 +8391,12 @@
   "headline": "LPG price hike likely as BERC schedules public hearing amid consumer overpayments",
   "topic": "LPG price hike likely",
   "source": "The Daily Star",
-  "status": "queued",
-  "at": "2026-10-28T02:08:32Z"
+  "status": "failed",
+  "at": "2026-10-28T02:08:32Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
