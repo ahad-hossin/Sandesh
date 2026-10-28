@@ -8321,8 +8321,13 @@
   "headline": "Tk 24 crore gold seized: 12kg gold paste found in underwear at Dhaka airport",
   "topic": "gold paste seized dhaka airport",
   "source": "Dhaka Tribune, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-28T18:08:06Z"
+  "status": "failed",
+  "at": "2026-10-28T18:08:06Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "e76bba8cb617ae4a",
@@ -8330,8 +8335,13 @@
   "headline": "Tk 24 crore gold seized: 12kg gold paste found in underwear at Dhaka airport",
   "topic": "gold paste seized dhaka airport",
   "source": "Dhaka Tribune, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-28T18:08:06Z"
+  "status": "failed",
+  "at": "2026-10-28T18:08:06Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "10a16e7b46ddcd48",
@@ -8339,8 +8349,13 @@
   "headline": "DMCH ambulance strike: Private ambulance owners suspend strike for 7 days",
   "topic": "dhaka medical ambulance strike",
   "source": "Prothom Alo, Dhaka Tribune, bdnews24.com",
-  "status": "queued",
-  "at": "2026-10-28T18:08:06Z"
+  "status": "failed",
+  "at": "2026-10-28T18:08:06Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "ac5bb93fd0f714cc",
@@ -8348,8 +8363,13 @@
   "headline": "DMCH ambulance strike: Private ambulance owners suspend strike for 7 days",
   "topic": "dhaka medical ambulance strike",
   "source": "Prothom Alo, Dhaka Tribune, bdnews24.com",
-  "status": "queued",
-  "at": "2026-10-28T18:08:06Z"
+  "status": "failed",
+  "at": "2026-10-28T18:08:06Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "6eaac42117de9335",
@@ -8357,8 +8377,13 @@
   "headline": "DMCH ambulance strike: Private ambulance owners suspend strike for 7 days",
   "topic": "dhaka medical ambulance strike",
   "source": "Prothom Alo, Dhaka Tribune, bdnews24.com",
-  "status": "queued",
-  "at": "2026-10-28T18:08:06Z"
+  "status": "failed",
+  "at": "2026-10-28T18:08:06Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "0e7389011dce96d5",
@@ -8366,7 +8391,12 @@
   "headline": "DMCH ambulance strike: Private ambulance owners suspend strike for 7 days",
   "topic": "dhaka medical ambulance strike",
   "source": "Prothom Alo, Dhaka Tribune, bdnews24.com",
-  "status": "queued",
-  "at": "2026-10-28T18:08:06Z"
+  "status": "failed",
+  "at": "2026-10-28T18:08:06Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
