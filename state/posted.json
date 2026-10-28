@@ -1,47 +1,5 @@
 [
  {
-  "title_hash": "d275db78e629418d",
-  "url": "https://www.jamuna.tv/national/666708",
-  "headline": "Unknown assailants fire shots at singer Asif Akbar's car in Dhaka",
-  "topic": "gunshots fired at asif akbar car",
-  "source": "The Daily Star, bdnews24.com, Prothom Alo, Jamuna TV",
-  "status": "failed",
-  "at": "2026-10-24T10:10:06Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "d275db78e629418d",
-  "url": "https://www.prothomalo.com/video/bangladesh/t70kcqv0kq",
-  "headline": "Unknown assailants fire shots at singer Asif Akbar's car in Dhaka",
-  "topic": "gunshots fired at asif akbar car",
-  "source": "The Daily Star, bdnews24.com, Prothom Alo, Jamuna TV",
-  "status": "failed",
-  "at": "2026-10-24T10:10:06Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "fe1bea79659e0c30",
-  "url": "https://www.prothomalo.com/entertainment/song/44o8nide4y",
-  "headline": "Unknown assailants fire shots at singer Asif Akbar's car in Dhaka",
-  "topic": "gunshots fired at asif akbar car",
-  "source": "The Daily Star, bdnews24.com, Prothom Alo, Jamuna TV",
-  "status": "failed",
-  "at": "2026-10-24T10:10:06Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "a9c82a444cdf54f9",
   "url": "https://www.thedailystar.net/news/politics/news/rumeen-locks-horns-sarail-oc-over-security-misconduct-4306091",
   "headline": "Police file GD over Rumeen Farhana-Sarail OC confrontation",
@@ -8398,5 +8356,32 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "e62f886071349eaa",
+  "url": "https://www.thedailystar.net/news/bangladesh/news/hsc-results-deferred-oct-31-4309251",
+  "headline": "HSC and equivalent exam results to be published on October 31, two days later than planned",
+  "topic": "HSC results deferred",
+  "source": "Jamuna TV, The Daily Star",
+  "status": "queued",
+  "at": "2026-10-28T02:08:32Z"
+ },
+ {
+  "title_hash": "4162f8793bda9d7f",
+  "url": "https://www.jamuna.tv/all-bangladesh/666929",
+  "headline": "HSC and equivalent exam results to be published on October 31, two days later than planned",
+  "topic": "HSC results deferred",
+  "source": "Jamuna TV, The Daily Star",
+  "status": "queued",
+  "at": "2026-10-28T02:08:32Z"
+ },
+ {
+  "title_hash": "d026f9737b175685",
+  "url": "https://www.thedailystar.net/news/bangladesh/news/another-round-lpg-price-hike-likely-4309396",
+  "headline": "LPG price hike likely as BERC schedules public hearing amid consumer overpayments",
+  "topic": "LPG price hike likely",
+  "source": "The Daily Star",
+  "status": "queued",
+  "at": "2026-10-28T02:08:32Z"
  }
 ]
