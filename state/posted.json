@@ -1,33 +1,5 @@
 [
  {
-  "title_hash": "7f739633e679c57e",
-  "url": "https://www.prothomalo.com/bangladesh/environment/qdq7rpygf3",
-  "headline": "Bay depression may develop into cyclone Arnab",
-  "topic": "bay depression cyclone arnab",
-  "source": "bdnews24.com, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-25T14:09:34Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "9e8860d2dd54cf05",
-  "url": "https://bdnews24.com/bangladesh/ivy1c5n221",
-  "headline": "Bay depression may develop into cyclone Arnab",
-  "topic": "bay depression cyclone arnab",
-  "source": "bdnews24.com, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-25T14:09:34Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "3b01540e1450d472",
   "url": "https://bdnews24.com/bangladesh/neky9v6eod",
   "headline": "Nov 1: Saint Martin’s Island to reopen to tourists with new rules",
@@ -8398,5 +8370,23 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "82a14f6fb8c0d426",
+  "url": "https://www.jamuna.tv/international/667012",
+  "headline": "68 dead as high-speed trains collide in Spain, 80 injured",
+  "topic": "spain train collision kills 68",
+  "source": "Jamuna TV",
+  "status": "queued",
+  "at": "2026-10-28T21:09:25Z"
+ },
+ {
+  "title_hash": "538397878252a578",
+  "url": "https://www.prothomalo.com/world/cu84lqwn27",
+  "headline": "World Bank: Commodity prices could rise 23% by year-end",
+  "topic": "world bank predicts 23% commodity price rise by year-end",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-28T21:09:25Z"
  }
 ]
