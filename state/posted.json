@@ -6,90 +6,6 @@
   "topic": "hsc results date",
   "source": "Prothom Alo, bdnews24.com",
   "status": "failed",
-  "at": "2026-10-24T19:11:34Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "0cd866c187adf791",
-  "url": "https://www.dhakatribune.com/bangladesh/422845/what-happened-at-tongi-madrasah-to-draw",
-  "headline": "Police find primary evidence of sexual abuse of 7-year-old girl at Tongi madrasah",
-  "topic": "tongi madrasa child abuse",
-  "source": "Dhaka Tribune, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-24T19:11:34Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "45b1b1d58011bab4",
-  "url": "https://www.prothomalo.com/bangladesh/district/2yjzj49of0",
-  "headline": "Police find primary evidence of sexual abuse of 7-year-old girl at Tongi madrasah",
-  "topic": "tongi madrasa child abuse",
-  "source": "Dhaka Tribune, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-24T19:11:34Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "3595b2b14b600e79",
-  "url": "https://bdnews24.com/education/e5i6mte96m",
-  "headline": "Oct 29: HSC and equivalent results to be published",
-  "topic": "hsc results date",
-  "source": "Prothom Alo, bdnews24.com",
-  "status": "failed",
-  "at": "2026-10-24T20:09:31Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "70b17558fb82cbca",
-  "url": "https://www.prothomalo.com/education/examination/px8dwg1cii",
-  "headline": "Oct 29: HSC and equivalent results to be published",
-  "topic": "hsc results date",
-  "source": "Prothom Alo, bdnews24.com",
-  "status": "failed",
-  "at": "2026-10-24T20:09:31Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "ffedb7bcc292034e",
-  "url": "https://www.prothomalo.com/education/eicessir-phl-prkaash-29-akttobr",
-  "headline": "Oct 29: HSC and equivalent results to be published",
-  "topic": "hsc results date",
-  "source": "Prothom Alo, bdnews24.com",
-  "status": "failed",
-  "at": "2026-10-24T20:09:31Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "ffedb7bcc292034e",
-  "url": "https://www.prothomalo.com/bangladesh/crmxjekpw9",
-  "headline": "Oct 29: HSC and equivalent results to be published",
-  "topic": "hsc results date",
-  "source": "Prothom Alo, bdnews24.com",
-  "status": "failed",
   "at": "2026-10-24T20:09:31Z",
   "results": {
    "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
@@ -8398,5 +8314,59 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "c5233616c288efc0",
+  "url": "https://www.thedailystar.net/sports/cricket/news/bangladesh-reach-96-2-lunch-after-mominul-dismissal-4309506",
+  "headline": "Bangladesh reach 96-2 at lunch in 1st Test against West Indies",
+  "topic": "bangladesh vs west indies first test",
+  "source": "The Daily Star, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-28T07:11:24Z"
+ },
+ {
+  "title_hash": "43b347db3aaeb6d5",
+  "url": "https://www.thedailystar.net/sports/cricket/news/no-mushfiqur-tigers-bat-first-test-against-west-indies-4309476",
+  "headline": "Bangladesh reach 96-2 at lunch in 1st Test against West Indies",
+  "topic": "bangladesh vs west indies first test",
+  "source": "The Daily Star, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-28T07:11:24Z"
+ },
+ {
+  "title_hash": "5706a44034b33a8b",
+  "url": "https://www.thedailystar.net/sports/cricket/news/tigers-spin-dilemma-mirpur-4308966",
+  "headline": "Bangladesh reach 96-2 at lunch in 1st Test against West Indies",
+  "topic": "bangladesh vs west indies first test",
+  "source": "The Daily Star, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-28T07:11:24Z"
+ },
+ {
+  "title_hash": "78bbc19fe0819a0b",
+  "url": "https://www.prothomalo.com/sports/cricket/havs08wgsy",
+  "headline": "Bangladesh reach 96-2 at lunch in 1st Test against West Indies",
+  "topic": "bangladesh vs west indies first test",
+  "source": "The Daily Star, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-28T07:11:24Z"
+ },
+ {
+  "title_hash": "7df38935669f1426",
+  "url": "https://bdnews24.com/bangladesh/acpxom0r5b",
+  "headline": "Cox's Bazar: Gas-fed fire burns on for second day in Ukhiya",
+  "topic": "ukhiya gas fire",
+  "source": "bdnews24.com, Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-10-28T07:11:24Z"
+ },
+ {
+  "title_hash": "8db2659c8c59a434",
+  "url": "https://www.dhakatribune.com/bangladesh/nation/423091/gas-fed-fire-in-cox%E2%80%99s-bazar-continues-for-second",
+  "headline": "Cox's Bazar: Gas-fed fire burns on for second day in Ukhiya",
+  "topic": "ukhiya gas fire",
+  "source": "bdnews24.com, Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-10-28T07:11:24Z"
  }
 ]
