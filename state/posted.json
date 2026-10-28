@@ -8377,8 +8377,13 @@
   "headline": "68 dead as high-speed trains collide in Spain, 80 injured",
   "topic": "spain train collision kills 68",
   "source": "Jamuna TV",
-  "status": "queued",
-  "at": "2026-10-28T21:09:25Z"
+  "status": "failed",
+  "at": "2026-10-28T21:09:25Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "538397878252a578",
@@ -8386,7 +8391,12 @@
   "headline": "World Bank: Commodity prices could rise 23% by year-end",
   "topic": "world bank predicts 23% commodity price rise by year-end",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-28T21:09:25Z"
+  "status": "failed",
+  "at": "2026-10-28T21:09:25Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
