@@ -8307,8 +8307,13 @@
   "headline": "9 more dead as dengue death toll crosses 400 this year",
   "topic": "dengue_death_toll_400",
   "source": "bdnews24.com, Jamuna TV, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-28T12:11:59Z"
+  "status": "failed",
+  "at": "2026-10-28T12:11:59Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "cb17aaec1beb6aff",
@@ -8316,8 +8321,13 @@
   "headline": "9 more dead as dengue death toll crosses 400 this year",
   "topic": "dengue_death_toll_400",
   "source": "bdnews24.com, Jamuna TV, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-28T12:11:59Z"
+  "status": "failed",
+  "at": "2026-10-28T12:11:59Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "b6d867f8074e64d3",
@@ -8325,8 +8335,13 @@
   "headline": "9 more dead as dengue death toll crosses 400 this year",
   "topic": "dengue_death_toll_400",
   "source": "bdnews24.com, Jamuna TV, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-28T12:11:59Z"
+  "status": "failed",
+  "at": "2026-10-28T12:11:59Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "fc462dab88f543e2",
@@ -8334,8 +8349,13 @@
   "headline": "At least 10 dead in Spain as two high-speed trains collide",
   "topic": "spain_train_collision",
   "source": "Prothom Alo, Jamuna TV, bdnews24.com, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-28T12:11:59Z"
+  "status": "failed",
+  "at": "2026-10-28T12:11:59Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "3c3dac022cc6eda9",
@@ -8343,8 +8363,13 @@
   "headline": "At least 10 dead in Spain as two high-speed trains collide",
   "topic": "spain_train_collision",
   "source": "Prothom Alo, Jamuna TV, bdnews24.com, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-28T12:11:59Z"
+  "status": "failed",
+  "at": "2026-10-28T12:11:59Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "8ff48c5d09ffe981",
@@ -8352,8 +8377,13 @@
   "headline": "At least 10 dead in Spain as two high-speed trains collide",
   "topic": "spain_train_collision",
   "source": "Prothom Alo, Jamuna TV, bdnews24.com, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-28T12:11:59Z"
+  "status": "failed",
+  "at": "2026-10-28T12:11:59Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "9f48210cf630a7aa",
@@ -8361,7 +8391,12 @@
   "headline": "At least 10 dead in Spain as two high-speed trains collide",
   "topic": "spain_train_collision",
   "source": "Prothom Alo, Jamuna TV, bdnews24.com, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-28T12:11:59Z"
+  "status": "failed",
+  "at": "2026-10-28T12:11:59Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
