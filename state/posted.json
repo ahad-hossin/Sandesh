@@ -8321,8 +8321,13 @@
   "headline": "Neelsagar Express derails in Tangail, cutting rail links to north",
   "topic": "neel-sagar-express-derails-disrupting-dhaka-north-rail-links",
   "source": "Prothom Alo, Dhaka Tribune, Jamuna TV, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-29T07:10:34Z"
+  "status": "failed",
+  "at": "2026-10-29T07:10:34Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "e96e60f13abf123c",
@@ -8330,8 +8335,13 @@
   "headline": "Neelsagar Express derails in Tangail, cutting rail links to north",
   "topic": "neel-sagar-express-derails-disrupting-dhaka-north-rail-links",
   "source": "Prothom Alo, Dhaka Tribune, Jamuna TV, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-29T07:10:34Z"
+  "status": "failed",
+  "at": "2026-10-29T07:10:34Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "d02a401e0accd5e0",
@@ -8339,8 +8349,13 @@
   "headline": "Neelsagar Express derails in Tangail, cutting rail links to north",
   "topic": "neel-sagar-express-derails-disrupting-dhaka-north-rail-links",
   "source": "Prothom Alo, Dhaka Tribune, Jamuna TV, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-29T07:10:34Z"
+  "status": "failed",
+  "at": "2026-10-29T07:10:34Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "c399161051b2fcc0",
@@ -8348,8 +8363,13 @@
   "headline": "Neelsagar Express derails in Tangail, cutting rail links to north",
   "topic": "neel-sagar-express-derails-disrupting-dhaka-north-rail-links",
   "source": "Prothom Alo, Dhaka Tribune, Jamuna TV, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-29T07:10:34Z"
+  "status": "failed",
+  "at": "2026-10-29T07:10:34Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "73235a7b251408e1",
@@ -8357,8 +8377,13 @@
   "headline": "Death penalty for Mahbub ul Alam Hanif in crimes against humanity case",
   "topic": "hanif-sentenced-to-death-for-crimes-against-humanity",
   "source": "Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-29T07:10:34Z"
+  "status": "failed",
+  "at": "2026-10-29T07:10:34Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "eb76aea1a8f7b209",
@@ -8366,7 +8391,12 @@
   "headline": "Death penalty for Mahbub ul Alam Hanif in crimes against humanity case",
   "topic": "hanif-sentenced-to-death-for-crimes-against-humanity",
   "source": "Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-29T07:10:34Z"
+  "status": "failed",
+  "at": "2026-10-29T07:10:34Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
