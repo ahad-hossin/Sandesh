@@ -1,75 +1,5 @@
 [
  {
-  "title_hash": "b925476592b87949",
-  "url": "https://www.prothomalo.com/bangladesh/8ftpwbotw3",
-  "headline": "PM Tarique Rahman leaves for Tokyo on 4-day state visit to Japan",
-  "topic": "pm heads to japan for four-day visit",
-  "source": "Prothom Alo, Jamuna TV, bdnews24.com",
-  "status": "failed",
-  "at": "2026-10-25T20:10:41Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "df3fb411f9cc5b53",
-  "url": "https://www.jamuna.tv/national/666821",
-  "headline": "PM Tarique Rahman leaves for Tokyo on 4-day state visit to Japan",
-  "topic": "pm heads to japan for four-day visit",
-  "source": "Prothom Alo, Jamuna TV, bdnews24.com",
-  "status": "failed",
-  "at": "2026-10-25T20:10:41Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "a23a7bcb294dec3e",
-  "url": "https://bdnews24.com/bangladesh/wfmye86len",
-  "headline": "Bay depression may develop into cyclone named Arnab",
-  "topic": "deep depression in bay of bengal may turn into cyclone",
-  "source": "Prothom Alo, bdnews24.com",
-  "status": "failed",
-  "at": "2026-10-25T20:10:41Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "f457f142e8f0932a",
-  "url": "https://www.prothomalo.com/video/bangladesh/x2f592b5p1",
-  "headline": "Bay depression may develop into cyclone named Arnab",
-  "topic": "deep depression in bay of bengal may turn into cyclone",
-  "source": "Prothom Alo, bdnews24.com",
-  "status": "failed",
-  "at": "2026-10-25T20:10:41Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "9e8860d2dd54cf05",
-  "url": "https://bdnews24.com/bangladesh/ivy1c5n221",
-  "headline": "Bay depression may develop into cyclone named Arnab",
-  "topic": "deep depression in bay of bengal may turn into cyclone",
-  "source": "Prothom Alo, bdnews24.com",
-  "status": "failed",
-  "at": "2026-10-25T20:10:41Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "3ae50d54c7313675",
   "url": "https://bdnews24.com/bangladesh/fnnta9joul",
   "headline": "PM Tarique Rahman leaves for Tokyo on 4-day state visit",
@@ -8398,5 +8328,50 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "02f21d53c28a42ef",
+  "url": "https://www.dhakatribune.com/bangladesh/nation/423179/neel-sagar-express-derailment-suspends-dhaka-north",
+  "headline": "Rail link to North Bengal cut after Neelsagar Express derails in Tangail",
+  "topic": "neelsagar express derailment",
+  "source": "Dhaka Tribune, Jamuna TV, The Daily Star",
+  "status": "queued",
+  "at": "2026-10-29T06:09:15Z"
+ },
+ {
+  "title_hash": "d02a401e0accd5e0",
+  "url": "https://www.jamuna.tv/all-bangladesh/667026",
+  "headline": "Rail link to North Bengal cut after Neelsagar Express derails in Tangail",
+  "topic": "neelsagar express derailment",
+  "source": "Dhaka Tribune, Jamuna TV, The Daily Star",
+  "status": "queued",
+  "at": "2026-10-29T06:09:15Z"
+ },
+ {
+  "title_hash": "c399161051b2fcc0",
+  "url": "https://www.thedailystar.net/top-news-center/news/neelsagar-express-derails-tangail-dhaka-north-rail-link-cut-4310416",
+  "headline": "Rail link to North Bengal cut after Neelsagar Express derails in Tangail",
+  "topic": "neelsagar express derailment",
+  "source": "Dhaka Tribune, Jamuna TV, The Daily Star",
+  "status": "queued",
+  "at": "2026-10-29T06:09:15Z"
+ },
+ {
+  "title_hash": "1b4a862b8e102085",
+  "url": "https://bdnews24.com/bangladesh/3tdiuh34fp",
+  "headline": "Tk 30,000 salary demand: Garment workers block road in Mirpur",
+  "topic": "garment workers mirpur road block",
+  "source": "bdnews24.com, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-29T06:09:15Z"
+ },
+ {
+  "title_hash": "b212245df419b5d1",
+  "url": "https://www.prothomalo.com/bangladesh/capital/da43mt8qmu",
+  "headline": "Tk 30,000 salary demand: Garment workers block road in Mirpur",
+  "topic": "garment workers mirpur road block",
+  "source": "bdnews24.com, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-29T06:09:15Z"
  }
 ]
