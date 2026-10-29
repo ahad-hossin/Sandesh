@@ -1,33 +1,5 @@
 [
  {
-  "title_hash": "3e1984e5107dffa5",
-  "url": "https://www.jamuna.tv/national/666870",
-  "headline": "Police HQ clarify IGP's 'crossfire' remark, deny extrajudicial killings",
-  "topic": "igp crossfire remarks backlash",
-  "source": "Jamuna TV, bdnews24.com, Prothom Alo, Dhaka Tribune, The Daily Star",
-  "status": "failed",
-  "at": "2026-10-26T15:19:07Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "75141f56a643b30e",
-  "url": "https://www.dhakatribune.com/bangladesh/422980/police-hq-clarify-igp%E2%80%99s-crossfire-remark-deny",
-  "headline": "Police HQ clarify IGP's 'crossfire' remark, deny extrajudicial killings",
-  "topic": "igp crossfire remarks backlash",
-  "source": "Jamuna TV, bdnews24.com, Prothom Alo, Dhaka Tribune, The Daily Star",
-  "status": "failed",
-  "at": "2026-10-26T15:19:07Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "c79262c36e7a210c",
   "url": "https://www.dhakatribune.com/bangladesh/politics/422976/hasnat-slams-igp-over-crossfire-remarks-urges",
   "headline": "Police HQ clarify IGP's 'crossfire' remark, deny extrajudicial killings",
@@ -8398,5 +8370,23 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "b48af46f8577de05",
+  "url": "https://www.thedailystar.net/news/crime-justice/news/death-sentence-suspended-si-akbar-rayhan-murder-case-5-convicts-absconding-4310771",
+  "headline": "Suspended SI Akbar sentenced to death for Rayhan murder in Sylhet",
+  "topic": "ex-si akbar sentenced to death in rayhan murder case",
+  "source": "The Daily Star",
+  "status": "queued",
+  "at": "2026-10-29T17:09:30Z"
+ },
+ {
+  "title_hash": "228fb213fb425a79",
+  "url": "https://www.dhakatribune.com/bangladesh/nation/423241/two-shot-dead-in-pabna",
+  "headline": "Violence in Pabna: Two shot dead",
+  "topic": "two shot dead in pabna",
+  "source": "Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-10-29T17:09:30Z"
  }
 ]
