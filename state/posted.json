@@ -8335,8 +8335,13 @@
   "headline": "AL leader Mahbub ul Alam Hanif sentenced to death for crimes against humanity",
   "topic": "july uprising crimes verdicts",
   "source": "Prothom Alo, Dhaka Tribune, bdnews24.com",
-  "status": "queued",
-  "at": "2026-10-29T22:14:37Z"
+  "status": "failed",
+  "at": "2026-10-29T22:14:37Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "c164f877fe4640d8",
@@ -8344,8 +8349,13 @@
   "headline": "AL leader Mahbub ul Alam Hanif sentenced to death for crimes against humanity",
   "topic": "july uprising crimes verdicts",
   "source": "Prothom Alo, Dhaka Tribune, bdnews24.com",
-  "status": "queued",
-  "at": "2026-10-29T22:14:37Z"
+  "status": "failed",
+  "at": "2026-10-29T22:14:37Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "279e727b8780732a",
@@ -8353,8 +8363,13 @@
   "headline": "AL leader Mahbub ul Alam Hanif sentenced to death for crimes against humanity",
   "topic": "july uprising crimes verdicts",
   "source": "Prothom Alo, Dhaka Tribune, bdnews24.com",
-  "status": "queued",
-  "at": "2026-10-29T22:14:37Z"
+  "status": "failed",
+  "at": "2026-10-29T22:14:37Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "86f737fb0e003980",
@@ -8362,8 +8377,13 @@
   "headline": "3,430 workers to be hired by Dhaka's two city corporations",
   "topic": "dhaka city corporation recruitment and fuel cuts",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-29T22:14:37Z"
+  "status": "failed",
+  "at": "2026-10-29T22:14:37Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "771a2c0e0a773807",
@@ -8371,7 +8391,12 @@
   "headline": "3,430 workers to be hired by Dhaka's two city corporations",
   "topic": "dhaka city corporation recruitment and fuel cuts",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-29T22:14:37Z"
+  "status": "failed",
+  "at": "2026-10-29T22:14:37Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
