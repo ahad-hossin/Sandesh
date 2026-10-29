@@ -8349,8 +8349,13 @@
   "headline": "Gas emerges from submersible pump in Gopalganj, ignites into flames",
   "topic": "gopalganj pump gas fire",
   "source": "Jamuna TV, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-10-29T13:09:54Z"
+  "status": "failed",
+  "at": "2026-10-29T13:09:54Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "4a4c9ceaf763f7c1",
@@ -8358,8 +8363,13 @@
   "headline": "Gas emerges from submersible pump in Gopalganj, ignites into flames",
   "topic": "gopalganj pump gas fire",
   "source": "Jamuna TV, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-10-29T13:09:54Z"
+  "status": "failed",
+  "at": "2026-10-29T13:09:54Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "cfa4662260e8bbf2",
@@ -8367,8 +8377,13 @@
   "headline": "111 injury marks: Ex-SI Akbar sentenced to death for custodial murder",
   "topic": "raihan custody death sentence",
   "source": "Dhaka Tribune, bdnews24.com",
-  "status": "queued",
-  "at": "2026-10-29T13:09:54Z"
+  "status": "failed",
+  "at": "2026-10-29T13:09:54Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "279e727b8780732a",
@@ -8376,7 +8391,12 @@
   "headline": "111 injury marks: Ex-SI Akbar sentenced to death for custodial murder",
   "topic": "raihan custody death sentence",
   "source": "Dhaka Tribune, bdnews24.com",
-  "status": "queued",
-  "at": "2026-10-29T13:09:54Z"
+  "status": "failed",
+  "at": "2026-10-29T13:09:54Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
