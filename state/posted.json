@@ -1,47 +1,5 @@
 [
  {
-  "title_hash": "8c39f0b4ac219ebd",
-  "url": "https://bdnews24.com/bangladesh/qiocfr41u8",
-  "headline": "Youth remanded for 7 days over 'sniper' comment on PM's visit",
-  "topic": "pm bus sniper comment remand",
-  "source": "Prothom Alo, bdnews24.com, Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-10-25T15:06:54Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "91ced770700e70cd",
-  "url": "https://www.prothomalo.com/bangladesh/crime/jsdd61505s",
-  "headline": "Youth remanded for 7 days over 'sniper' comment on PM's visit",
-  "topic": "pm bus sniper comment remand",
-  "source": "Prothom Alo, bdnews24.com, Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-10-25T15:06:54Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "55e64ac97aaf8e00",
-  "url": "https://www.dhakatribune.com/bangladesh/422871/youth-placed-on-7-day-remand-over-sniper-comment",
-  "headline": "Youth remanded for 7 days over 'sniper' comment on PM's visit",
-  "topic": "pm bus sniper comment remand",
-  "source": "Prothom Alo, bdnews24.com, Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-10-25T15:06:54Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "a23a7bcb294dec3e",
   "url": "https://bdnews24.com/bangladesh/wfmye86len",
   "headline": "Bay depression may develop into cyclone Arnab",
@@ -8398,5 +8356,32 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "2790c45f2a127067",
+  "url": "https://www.thedailystar.net/news/bangladesh/news/out-pocket-medical-bills-push-108cr-poverty-4310276",
+  "headline": "1.08 crore Bangladeshis pushed into poverty by out-of-pocket medical bills in 2022: Study",
+  "topic": "medical bills push 1.08cr into poverty",
+  "source": "The Daily Star",
+  "status": "queued",
+  "at": "2026-10-29T01:07:45Z"
+ },
+ {
+  "title_hash": "a8bfd2c20edf5d61",
+  "url": "https://www.thedailystar.net/business/global-economy/news/sufficient-supplies-pipeline-ahead-ramadan-4310081",
+  "headline": "No essential commodity shortages expected before Ramadan, Minister assures; no immediate edible oil price hike planned.",
+  "topic": "ramadan essential supplies",
+  "source": "The Daily Star, Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-10-29T01:07:45Z"
+ },
+ {
+  "title_hash": "13f0faf8d1b7c62c",
+  "url": "https://www.dhakatribune.com/bangladesh/government-affairs/423144/commerce-minister-no-plan-to-raise-edible-oil",
+  "headline": "No essential commodity shortages expected before Ramadan, Minister assures; no immediate edible oil price hike planned.",
+  "topic": "ramadan essential supplies",
+  "source": "The Daily Star, Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-10-29T01:07:45Z"
  }
 ]
