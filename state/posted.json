@@ -1,61 +1,5 @@
 [
  {
-  "title_hash": "185c97caacd60fb5",
-  "url": "https://bdnews24.com/health/jiv7jn69ml",
-  "headline": "6 more die in 24 hours as measles toll reaches 1,233 in Bangladesh",
-  "topic": "measles deaths hospitalized",
-  "source": "bdnews24.com, Prothom Alo, Jamuna TV",
-  "status": "failed",
-  "at": "2026-10-26T11:12:31Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "abd1710be96d4e21",
-  "url": "https://www.prothomalo.com/bangladesh/yq6aamddky",
-  "headline": "6 more die in 24 hours as measles toll reaches 1,233 in Bangladesh",
-  "topic": "measles deaths hospitalized",
-  "source": "bdnews24.com, Prothom Alo, Jamuna TV",
-  "status": "failed",
-  "at": "2026-10-26T11:12:31Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "88b32a2492655e36",
-  "url": "https://www.jamuna.tv/health/666856",
-  "headline": "6 more die in 24 hours as measles toll reaches 1,233 in Bangladesh",
-  "topic": "measles deaths hospitalized",
-  "source": "bdnews24.com, Prothom Alo, Jamuna TV",
-  "status": "failed",
-  "at": "2026-10-26T11:12:31Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "0263997f8aee96f3",
-  "url": "https://www.dhakatribune.com/bangladesh/422947/one-killed-in-keraniganj-plastic-factory-fire",
-  "headline": "1 killed as fire breaks out at plastic factory in Keraniganj",
-  "topic": "keraniganj plastic factory fire",
-  "source": "Dhaka Tribune, bdnews24.com, The Daily Star, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-26T11:12:31Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "5c7c2d43273eac88",
   "url": "https://bdnews24.com/bangladesh/eggl2939jd",
   "headline": "1 killed as fire breaks out at plastic factory in Keraniganj",
@@ -8398,5 +8342,41 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "66f027a5fc9ec07f",
+  "url": "https://www.dhakatribune.com/bangladesh/power-energy/423218/gas-emerges-from-submersible-pump-in-gopalganj",
+  "headline": "Gas emerges from submersible pump in Gopalganj, ignites into flames",
+  "topic": "gopalganj pump gas fire",
+  "source": "Jamuna TV, Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-10-29T13:09:54Z"
+ },
+ {
+  "title_hash": "4a4c9ceaf763f7c1",
+  "url": "https://www.jamuna.tv/all-bangladesh/667061",
+  "headline": "Gas emerges from submersible pump in Gopalganj, ignites into flames",
+  "topic": "gopalganj pump gas fire",
+  "source": "Jamuna TV, Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-10-29T13:09:54Z"
+ },
+ {
+  "title_hash": "cfa4662260e8bbf2",
+  "url": "https://www.dhakatribune.com/bangladesh/court/423213/raihan%E2%80%99s-death-in-custody-suspended-sylhet-si",
+  "headline": "111 injury marks: Ex-SI Akbar sentenced to death for custodial murder",
+  "topic": "raihan custody death sentence",
+  "source": "Dhaka Tribune, bdnews24.com",
+  "status": "queued",
+  "at": "2026-10-29T13:09:54Z"
+ },
+ {
+  "title_hash": "279e727b8780732a",
+  "url": "https://bdnews24.com/bangladesh/7kf1b1x36a",
+  "headline": "111 injury marks: Ex-SI Akbar sentenced to death for custodial murder",
+  "topic": "raihan custody death sentence",
+  "source": "Dhaka Tribune, bdnews24.com",
+  "status": "queued",
+  "at": "2026-10-29T13:09:54Z"
  }
 ]
