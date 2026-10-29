@@ -1,33 +1,5 @@
 [
  {
-  "title_hash": "a23a7bcb294dec3e",
-  "url": "https://bdnews24.com/bangladesh/wfmye86len",
-  "headline": "Bay depression may develop into cyclone Arnab",
-  "topic": "bay depression cyclone arnab",
-  "source": "Prothom Alo, bdnews24.com",
-  "status": "failed",
-  "at": "2026-10-25T15:06:54Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "7f739633e679c57e",
-  "url": "https://www.prothomalo.com/bangladesh/environment/qdq7rpygf3",
-  "headline": "Bay depression may develop into cyclone Arnab",
-  "topic": "bay depression cyclone arnab",
-  "source": "Prothom Alo, bdnews24.com",
-  "status": "failed",
-  "at": "2026-10-25T15:06:54Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "9e8860d2dd54cf05",
   "url": "https://bdnews24.com/bangladesh/ivy1c5n221",
   "headline": "Bay depression may develop into cyclone Arnab",
@@ -8398,5 +8370,23 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "2790c45f2a127067",
+  "url": "https://www.thedailystar.net/news/bangladesh/news/out-pocket-medical-bills-push-108cr-poverty-4310276",
+  "headline": "1.08 crore Bangladeshis pushed into poverty by out-of-pocket medical bills in 2022: Study",
+  "topic": "Healthcare costs push millions to poverty",
+  "source": "The Daily Star",
+  "status": "queued",
+  "at": "2026-10-29T02:08:31Z"
+ },
+ {
+  "title_hash": "a8bfd2c20edf5d61",
+  "url": "https://www.thedailystar.net/business/global-economy/news/sufficient-supplies-pipeline-ahead-ramadan-4310081",
+  "headline": "Bangladesh assures sufficient supplies for Ramadan, no edible oil price hike planned",
+  "topic": "Ramadan commodity supply sufficiency",
+  "source": "The Daily Star",
+  "status": "queued",
+  "at": "2026-10-29T02:08:31Z"
  }
 ]
