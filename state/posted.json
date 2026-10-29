@@ -8335,8 +8335,13 @@
   "headline": "Rail link to North Bengal cut after Neelsagar Express derails in Tangail",
   "topic": "neelsagar express derailment",
   "source": "Dhaka Tribune, Jamuna TV, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-29T06:09:15Z"
+  "status": "failed",
+  "at": "2026-10-29T06:09:15Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "d02a401e0accd5e0",
@@ -8344,8 +8349,13 @@
   "headline": "Rail link to North Bengal cut after Neelsagar Express derails in Tangail",
   "topic": "neelsagar express derailment",
   "source": "Dhaka Tribune, Jamuna TV, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-29T06:09:15Z"
+  "status": "failed",
+  "at": "2026-10-29T06:09:15Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "c399161051b2fcc0",
@@ -8353,8 +8363,13 @@
   "headline": "Rail link to North Bengal cut after Neelsagar Express derails in Tangail",
   "topic": "neelsagar express derailment",
   "source": "Dhaka Tribune, Jamuna TV, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-29T06:09:15Z"
+  "status": "failed",
+  "at": "2026-10-29T06:09:15Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "1b4a862b8e102085",
@@ -8362,8 +8377,13 @@
   "headline": "Tk 30,000 salary demand: Garment workers block road in Mirpur",
   "topic": "garment workers mirpur road block",
   "source": "bdnews24.com, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-29T06:09:15Z"
+  "status": "failed",
+  "at": "2026-10-29T06:09:15Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "b212245df419b5d1",
@@ -8371,7 +8391,12 @@
   "headline": "Tk 30,000 salary demand: Garment workers block road in Mirpur",
   "topic": "garment workers mirpur road block",
   "source": "bdnews24.com, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-29T06:09:15Z"
+  "status": "failed",
+  "at": "2026-10-29T06:09:15Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
