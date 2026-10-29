@@ -8307,8 +8307,13 @@
   "headline": "PM's Biman flight from Tokyo delayed by technical glitch",
   "topic": "pm's flight delayed by technical glitch",
   "source": "Jamuna TV, Dhaka Tribune, bdnews24.com",
-  "status": "queued",
-  "at": "2026-10-29T14:11:49Z"
+  "status": "failed",
+  "at": "2026-10-29T14:11:49Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "c26c33db12a4e213",
@@ -8316,8 +8321,13 @@
   "headline": "PM's Biman flight from Tokyo delayed by technical glitch",
   "topic": "pm's flight delayed by technical glitch",
   "source": "Jamuna TV, Dhaka Tribune, bdnews24.com",
-  "status": "queued",
-  "at": "2026-10-29T14:11:49Z"
+  "status": "failed",
+  "at": "2026-10-29T14:11:49Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "919374ae036ef052",
@@ -8325,8 +8335,13 @@
   "headline": "PM's Biman flight from Tokyo delayed by technical glitch",
   "topic": "pm's flight delayed by technical glitch",
   "source": "Jamuna TV, Dhaka Tribune, bdnews24.com",
-  "status": "queued",
-  "at": "2026-10-29T14:11:49Z"
+  "status": "failed",
+  "at": "2026-10-29T14:11:49Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "829eab650fbee630",
@@ -8334,8 +8349,13 @@
   "headline": "PM's Biman flight from Tokyo delayed by technical glitch",
   "topic": "pm's flight delayed by technical glitch",
   "source": "Jamuna TV, Dhaka Tribune, bdnews24.com",
-  "status": "queued",
-  "at": "2026-10-29T14:11:49Z"
+  "status": "failed",
+  "at": "2026-10-29T14:11:49Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "16beb2e5c28985f1",
@@ -8343,8 +8363,13 @@
   "headline": "PM's Biman flight from Tokyo delayed by technical glitch",
   "topic": "pm's flight delayed by technical glitch",
   "source": "Jamuna TV, Dhaka Tribune, bdnews24.com",
-  "status": "queued",
-  "at": "2026-10-29T14:11:49Z"
+  "status": "failed",
+  "at": "2026-10-29T14:11:49Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "831b624f06587814",
@@ -8352,8 +8377,13 @@
   "headline": "24 injured in clash over dominance in Narsingdi",
   "topic": "clashes in narsingdi and munshiganj leave dozens injured",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-29T14:11:49Z"
+  "status": "failed",
+  "at": "2026-10-29T14:11:49Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "cbfba12a99038864",
@@ -8361,7 +8391,12 @@
   "headline": "24 injured in clash over dominance in Narsingdi",
   "topic": "clashes in narsingdi and munshiganj leave dozens injured",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-29T14:11:49Z"
+  "status": "failed",
+  "at": "2026-10-29T14:11:49Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
