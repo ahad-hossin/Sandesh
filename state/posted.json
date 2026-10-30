@@ -8377,8 +8377,13 @@
   "headline": "Rooppur Nuclear Power Plant begins power generation testing at Unit 1",
   "topic": "rooppur nuclear plant begins testing power generation",
   "source": "The Daily Star",
-  "status": "queued",
-  "at": "2026-10-30T18:09:35Z"
+  "status": "failed",
+  "at": "2026-10-30T18:09:35Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "8f756112b087a581",
@@ -8386,7 +8391,12 @@
   "headline": "22,721 passengers affected as 159 Dhaka-Riyadh flights cancelled",
   "topic": "dhaka-riyadh flight cancellations affect thousands",
   "source": "Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-10-30T18:09:35Z"
+  "status": "failed",
+  "at": "2026-10-30T18:09:35Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
