@@ -1,33 +1,5 @@
 [
  {
-  "title_hash": "057741d9068da4fc",
-  "url": "https://bdnews24.com/bangladesh/xh58yowzg8",
-  "headline": "Tarique Rahman seeks to turn Bangladesh-Japan ties into engine of shared prosperity",
-  "topic": "tarique rahman japan summit",
-  "source": "bdnews24.com, Dhaka Tribune, Jamuna TV, The Daily Star, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-27T05:11:47Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "e22030d73b2af43d",
-  "url": "https://www.dhakatribune.com/bangladesh/foreign-affairs/423001/tarique-takaichi-begin-bilateral-summit-in-tokyo",
-  "headline": "Tarique Rahman seeks to turn Bangladesh-Japan ties into engine of shared prosperity",
-  "topic": "tarique rahman japan summit",
-  "source": "bdnews24.com, Dhaka Tribune, Jamuna TV, The Daily Star, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-27T05:11:47Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "df6dca14ad79398f",
   "url": "https://www.jamuna.tv/national/666891",
   "headline": "Tarique Rahman seeks to turn Bangladesh-Japan ties into engine of shared prosperity",
@@ -8398,5 +8370,23 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "f3de48abe098fc36",
+  "url": "https://bdnews24.com/bangladesh/eh7t22k5vm",
+  "headline": "4 arrested after crude bombs explode outside ICT judge’s home",
+  "topic": "blasts outside ict judge home",
+  "source": "bdnews24.com, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-30T11:20:29Z"
+ },
+ {
+  "title_hash": "0df20bc1c652e7e7",
+  "url": "https://www.prothomalo.com/bangladesh/crime/f3mdxsl0fg",
+  "headline": "4 arrested after crude bombs explode outside ICT judge’s home",
+  "topic": "blasts outside ict judge home",
+  "source": "bdnews24.com, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-30T11:20:29Z"
  }
 ]
