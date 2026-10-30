@@ -1,61 +1,5 @@
 [
  {
-  "title_hash": "e76075e297d4ab4e",
-  "url": "https://www.thedailystar.net/sports/football/news/why-pele-and-maradona-never-won-ballon-dor-4308601",
-  "headline": "Harry Kane wins first Ballon d'Or, becoming England's first winner in 25 years",
-  "topic": "harry kane wins ballon d'or",
-  "source": "The Daily Star, bdnews24.com, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-27T08:10:54Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "e1bef8ac9f02c7a2",
-  "url": "https://www.prothomalo.com/sports/football/byaaln-ddi-ar-jitlen-hyaari-kein",
-  "headline": "Harry Kane wins first Ballon d'Or, becoming England's first winner in 25 years",
-  "topic": "harry kane wins ballon d'or",
-  "source": "The Daily Star, bdnews24.com, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-27T08:10:54Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "050042c0f38a81f3",
-  "url": "https://www.thedailystar.net/news/accidents-and-fires/news/five-killed-eight-injured-lorry-rams-people-beside-dhaka-chattogram-highway-4308531",
-  "headline": "5 killed as lorry rams into people beside Dhaka-Chattogram highway",
-  "topic": "sitakunda lorry accident deaths",
-  "source": "The Daily Star, Jamuna TV, bdnews24.com",
-  "status": "failed",
-  "at": "2026-10-27T08:10:54Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "04bb845242af0072",
-  "url": "https://www.jamuna.tv/all-bangladesh/666886",
-  "headline": "5 killed as lorry rams into people beside Dhaka-Chattogram highway",
-  "topic": "sitakunda lorry accident deaths",
-  "source": "The Daily Star, Jamuna TV, bdnews24.com",
-  "status": "failed",
-  "at": "2026-10-27T08:10:54Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "29b3bcbaf3a6d334",
   "url": "https://bdnews24.com/bangladesh/v426w1l46e",
   "headline": "5 killed as lorry rams into people beside Dhaka-Chattogram highway",
@@ -8398,5 +8342,41 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "c4ec635d7c7c9eb2",
+  "url": "https://www.thedailystar.net/news/power-and-energy/news/rooppur-nuclear-plant-begins-testing-power-generation-process-unit-1-4311346",
+  "headline": "Bangladesh enters nuclear power era as Rooppur plant begins testing power generation",
+  "topic": "rooppur nuclear plant begins power generation testing",
+  "source": "The Daily Star, Jamuna TV",
+  "status": "queued",
+  "at": "2026-10-30T15:15:29Z"
+ },
+ {
+  "title_hash": "be19fdb3877a28e7",
+  "url": "https://www.jamuna.tv/national/667107",
+  "headline": "Bangladesh enters nuclear power era as Rooppur plant begins testing power generation",
+  "topic": "rooppur nuclear plant begins power generation testing",
+  "source": "The Daily Star, Jamuna TV",
+  "status": "queued",
+  "at": "2026-10-30T15:15:29Z"
+ },
+ {
+  "title_hash": "0041c68ca46842f9",
+  "url": "https://www.thedailystar.net/news/politics/news/1500-vehicles-join-11-party-alliances-410km-long-march-kushtia-jamaat-4311276",
+  "headline": "1,500 vehicles to join 11-party alliance's 410km long march to Kushtia",
+  "topic": "jamaat announces 410km long march to kushtia",
+  "source": "The Daily Star, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-30T15:15:29Z"
+ },
+ {
+  "title_hash": "694be2b9c2837211",
+  "url": "https://www.prothomalo.com/politics/4r84fi1j34",
+  "headline": "1,500 vehicles to join 11-party alliance's 410km long march to Kushtia",
+  "topic": "jamaat announces 410km long march to kushtia",
+  "source": "The Daily Star, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-30T15:15:29Z"
  }
 ]
