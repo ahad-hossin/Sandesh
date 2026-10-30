@@ -8335,8 +8335,13 @@
   "headline": "Rooppur Unit 1 begins test to generate power",
   "topic": "rooppur nuclear power plant begins test power generation",
   "source": "The Daily Star, Jamuna TV, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-10-30T21:13:35Z"
+  "status": "failed",
+  "at": "2026-10-30T21:13:35Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "be19fdb3877a28e7",
@@ -8344,8 +8349,13 @@
   "headline": "Rooppur Unit 1 begins test to generate power",
   "topic": "rooppur nuclear power plant begins test power generation",
   "source": "The Daily Star, Jamuna TV, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-10-30T21:13:35Z"
+  "status": "failed",
+  "at": "2026-10-30T21:13:35Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "7fb489b4a92aa9d8",
@@ -8353,8 +8363,13 @@
   "headline": "Rooppur Unit 1 begins test to generate power",
   "topic": "rooppur nuclear power plant begins test power generation",
   "source": "The Daily Star, Jamuna TV, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-10-30T21:13:35Z"
+  "status": "failed",
+  "at": "2026-10-30T21:13:35Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "2a55fbdb679f2958",
@@ -8362,8 +8377,13 @@
   "headline": "13 cocktails recovered as 4 AL and affiliate activists arrested in Dhaka",
   "topic": "al activists arrested after cocktail blasts",
   "source": "Dhaka Tribune, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-30T21:13:35Z"
+  "status": "failed",
+  "at": "2026-10-30T21:13:35Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "2aa8f969f716b36d",
@@ -8371,7 +8391,12 @@
   "headline": "13 cocktails recovered as 4 AL and affiliate activists arrested in Dhaka",
   "topic": "al activists arrested after cocktail blasts",
   "source": "Dhaka Tribune, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-30T21:13:35Z"
+  "status": "failed",
+  "at": "2026-10-30T21:13:35Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
