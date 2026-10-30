@@ -8307,8 +8307,13 @@
   "headline": "PM's flight from Japan delayed by nearly 5 hours due to spoiler glitch",
   "topic": "pm returns from japan flight delay",
   "source": "Jamuna TV, The Daily Star, bdnews24.com",
-  "status": "queued",
-  "at": "2026-10-30T02:09:21Z"
+  "status": "failed",
+  "at": "2026-10-30T02:09:21Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "1687c316be62d5af",
@@ -8316,8 +8321,13 @@
   "headline": "PM's flight from Japan delayed by nearly 5 hours due to spoiler glitch",
   "topic": "pm returns from japan flight delay",
   "source": "Jamuna TV, The Daily Star, bdnews24.com",
-  "status": "queued",
-  "at": "2026-10-30T02:09:21Z"
+  "status": "failed",
+  "at": "2026-10-30T02:09:21Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "9583e7d2c36df227",
@@ -8325,8 +8335,13 @@
   "headline": "PM's flight from Japan delayed by nearly 5 hours due to spoiler glitch",
   "topic": "pm returns from japan flight delay",
   "source": "Jamuna TV, The Daily Star, bdnews24.com",
-  "status": "queued",
-  "at": "2026-10-30T02:09:21Z"
+  "status": "failed",
+  "at": "2026-10-30T02:09:21Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "1fcbb22a0d6cae76",
@@ -8334,8 +8349,13 @@
   "headline": "PM's flight from Japan delayed by nearly 5 hours due to spoiler glitch",
   "topic": "pm returns from japan flight delay",
   "source": "Jamuna TV, The Daily Star, bdnews24.com",
-  "status": "queued",
-  "at": "2026-10-30T02:09:21Z"
+  "status": "failed",
+  "at": "2026-10-30T02:09:21Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "78643aac14a2d028",
@@ -8343,8 +8363,13 @@
   "headline": "UN grants Bangladesh 3-year LDC graduation deferment for smoother transition",
   "topic": "bangladesh ldc graduation extension",
   "source": "Dhaka Tribune, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-30T02:09:21Z"
+  "status": "failed",
+  "at": "2026-10-30T02:09:21Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "82949d4770aad307",
@@ -8352,8 +8377,13 @@
   "headline": "UN grants Bangladesh 3-year LDC graduation deferment for smoother transition",
   "topic": "bangladesh ldc graduation extension",
   "source": "Dhaka Tribune, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-30T02:09:21Z"
+  "status": "failed",
+  "at": "2026-10-30T02:09:21Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "5f3193719be33964",
@@ -8361,7 +8391,12 @@
   "headline": "UN grants Bangladesh 3-year LDC graduation deferment for smoother transition",
   "topic": "bangladesh ldc graduation extension",
   "source": "Dhaka Tribune, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-30T02:09:21Z"
+  "status": "failed",
+  "at": "2026-10-30T02:09:21Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
