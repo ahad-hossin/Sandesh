@@ -1,75 +1,5 @@
 [
  {
-  "title_hash": "bf44c87a96292789",
-  "url": "https://www.jamuna.tv/national/666903",
-  "headline": "Grid fault causes power outage in parts of Dhaka and Chattogram",
-  "topic": "dhaka chattogram power outage",
-  "source": "bdnews24.com, Jamuna TV, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-10-27T10:07:35Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "4a1b7de6e0b59c4e",
-  "url": "https://www.prothomalo.com/bangladesh/ddhaakaar-puurbaanycl-o-cttttgraamer-ekaanshe-bidyu-bipryyy",
-  "headline": "Grid fault causes power outage in parts of Dhaka and Chattogram",
-  "topic": "dhaka chattogram power outage",
-  "source": "bdnews24.com, Jamuna TV, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-10-27T10:07:35Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "7c01224ff397d41e",
-  "url": "https://www.prothomalo.com/bangladesh/kc2mnlkc4m",
-  "headline": "Grid fault causes power outage in parts of Dhaka and Chattogram",
-  "topic": "dhaka chattogram power outage",
-  "source": "bdnews24.com, Jamuna TV, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-10-27T10:07:35Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "0ed23314ca317249",
-  "url": "https://www.thedailystar.net/news/power-and-energy/news/grid-fault-disrupts-power-supply-parts-dhaka-chattogram-4308671",
-  "headline": "Grid fault causes power outage in parts of Dhaka and Chattogram",
-  "topic": "dhaka chattogram power outage",
-  "source": "bdnews24.com, Jamuna TV, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-10-27T10:07:35Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "4f257927b78144db",
-  "url": "https://www.jamuna.tv/weather/666912",
-  "headline": "Winds up to 150kmph: Cyclone Arnab becomes very severe as 4 ports warned",
-  "topic": "cyclone arnab warning",
-  "source": "Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-27T11:09:36Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "cbd7dc293dccf58f",
   "url": "https://www.prothomalo.com/bangladesh/environment/sresuunfk4",
   "headline": "Winds up to 150kmph: Cyclone Arnab becomes very severe as 4 ports warned",
@@ -8398,5 +8328,50 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "370cadf3d20d95ec",
+  "url": "https://www.thedailystar.net/news/bangladesh/news/rooppur-unit-1-begins-test-generate-power-4311571",
+  "headline": "Rooppur Unit 1 begins test to generate power",
+  "topic": "rooppur nuclear power plant begins test power generation",
+  "source": "The Daily Star, Jamuna TV, Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-10-30T21:13:35Z"
+ },
+ {
+  "title_hash": "be19fdb3877a28e7",
+  "url": "https://www.jamuna.tv/national/667107",
+  "headline": "Rooppur Unit 1 begins test to generate power",
+  "topic": "rooppur nuclear power plant begins test power generation",
+  "source": "The Daily Star, Jamuna TV, Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-10-30T21:13:35Z"
+ },
+ {
+  "title_hash": "7fb489b4a92aa9d8",
+  "url": "https://www.dhakatribune.com/bangladesh/power-energy/423306/rnpp-starts-generating-power-begins-internal-use",
+  "headline": "Rooppur Unit 1 begins test to generate power",
+  "topic": "rooppur nuclear power plant begins test power generation",
+  "source": "The Daily Star, Jamuna TV, Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-10-30T21:13:35Z"
+ },
+ {
+  "title_hash": "2a55fbdb679f2958",
+  "url": "https://www.dhakatribune.com/bangladesh/423328/4-al-affiliate-activists-arrested-after",
+  "headline": "13 cocktails recovered as 4 AL and affiliate activists arrested in Dhaka",
+  "topic": "al activists arrested after cocktail blasts",
+  "source": "Dhaka Tribune, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-30T21:13:35Z"
+ },
+ {
+  "title_hash": "2aa8f969f716b36d",
+  "url": "https://www.prothomalo.com/bangladesh/crime/bq68l4lu4c",
+  "headline": "13 cocktails recovered as 4 AL and affiliate activists arrested in Dhaka",
+  "topic": "al activists arrested after cocktail blasts",
+  "source": "Dhaka Tribune, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-30T21:13:35Z"
  }
 ]
