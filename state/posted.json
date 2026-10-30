@@ -1,33 +1,5 @@
 [
  {
-  "title_hash": "77a307b7c0c61547",
-  "url": "https://bdnews24.com/neighbours/qcuuonv436",
-  "headline": "Severe Cyclone Arnab: Thousands evacuated in India as storm intensifies",
-  "topic": "cyclone arnab warning",
-  "source": "Prothom Alo, bdnews24.com",
-  "status": "failed",
-  "at": "2026-10-27T10:07:35Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "cbd7dc293dccf58f",
-  "url": "https://www.prothomalo.com/bangladesh/environment/sresuunfk4",
-  "headline": "Severe Cyclone Arnab: Thousands evacuated in India as storm intensifies",
-  "topic": "cyclone arnab warning",
-  "source": "Prothom Alo, bdnews24.com",
-  "status": "failed",
-  "at": "2026-10-27T10:07:35Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "8eb27bdcd576c48c",
   "url": "https://bdnews24.com/bangladesh/mujviiqca1",
   "headline": "Severe Cyclone Arnab: Thousands evacuated in India as storm intensifies",
@@ -8398,5 +8370,23 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "c4ec635d7c7c9eb2",
+  "url": "https://www.thedailystar.net/news/power-and-energy/news/rooppur-nuclear-plant-begins-testing-power-generation-process-unit-1-4311346",
+  "headline": "Rooppur Nuclear Power Plant begins power generation testing at Unit 1",
+  "topic": "rooppur nuclear plant begins testing power generation",
+  "source": "The Daily Star",
+  "status": "queued",
+  "at": "2026-10-30T18:09:35Z"
+ },
+ {
+  "title_hash": "8f756112b087a581",
+  "url": "https://www.dhakatribune.com/bangladesh/423330/159-dhaka-riyadh-flights-cancelled-22-721",
+  "headline": "22,721 passengers affected as 159 Dhaka-Riyadh flights cancelled",
+  "topic": "dhaka-riyadh flight cancellations affect thousands",
+  "source": "Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-10-30T18:09:35Z"
  }
 ]
