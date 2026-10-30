@@ -8377,8 +8377,13 @@
   "headline": "22,721 passengers affected as 159 Dhaka-Riyadh flights cancelled",
   "topic": "dhaka riyadh flight cancellations",
   "source": "Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-10-30T19:12:52Z"
+  "status": "failed",
+  "at": "2026-10-30T19:12:52Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "edf55952011e25f2",
@@ -8386,7 +8391,12 @@
   "headline": "1.27mn students await HSC results this Saturday",
   "topic": "hsc results awaited by 1.27mn students",
   "source": "bdnews24.com",
-  "status": "queued",
-  "at": "2026-10-30T19:12:52Z"
+  "status": "failed",
+  "at": "2026-10-30T19:12:52Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
