@@ -8349,8 +8349,13 @@
   "headline": "Bangladesh enters nuclear power era as Rooppur plant begins testing power generation",
   "topic": "rooppur nuclear plant begins power generation testing",
   "source": "The Daily Star, Jamuna TV",
-  "status": "queued",
-  "at": "2026-10-30T15:15:29Z"
+  "status": "failed",
+  "at": "2026-10-30T15:15:29Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "be19fdb3877a28e7",
@@ -8358,8 +8363,13 @@
   "headline": "Bangladesh enters nuclear power era as Rooppur plant begins testing power generation",
   "topic": "rooppur nuclear plant begins power generation testing",
   "source": "The Daily Star, Jamuna TV",
-  "status": "queued",
-  "at": "2026-10-30T15:15:29Z"
+  "status": "failed",
+  "at": "2026-10-30T15:15:29Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "0041c68ca46842f9",
@@ -8367,8 +8377,13 @@
   "headline": "1,500 vehicles to join 11-party alliance's 410km long march to Kushtia",
   "topic": "jamaat announces 410km long march to kushtia",
   "source": "The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-30T15:15:29Z"
+  "status": "failed",
+  "at": "2026-10-30T15:15:29Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "694be2b9c2837211",
@@ -8376,7 +8391,12 @@
   "headline": "1,500 vehicles to join 11-party alliance's 410km long march to Kushtia",
   "topic": "jamaat announces 410km long march to kushtia",
   "source": "The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-30T15:15:29Z"
+  "status": "failed",
+  "at": "2026-10-30T15:15:29Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
