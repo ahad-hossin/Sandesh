@@ -1,33 +1,5 @@
 [
  {
-  "title_hash": "8eb27bdcd576c48c",
-  "url": "https://bdnews24.com/bangladesh/mujviiqca1",
-  "headline": "Severe Cyclone Arnab: Thousands evacuated in India as storm intensifies",
-  "topic": "cyclone arnab warning",
-  "source": "Prothom Alo, bdnews24.com",
-  "status": "failed",
-  "at": "2026-10-27T10:07:35Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "80e0c458c2afe894",
-  "url": "https://bdnews24.com/bangladesh/klif4zo529",
-  "headline": "Grid fault causes power outage in parts of Dhaka and Chattogram",
-  "topic": "dhaka chattogram power outage",
-  "source": "bdnews24.com, Jamuna TV, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-10-27T10:07:35Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "bf44c87a96292789",
   "url": "https://www.jamuna.tv/national/666903",
   "headline": "Grid fault causes power outage in parts of Dhaka and Chattogram",
@@ -8398,5 +8370,23 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "8f756112b087a581",
+  "url": "https://www.dhakatribune.com/bangladesh/423330/159-dhaka-riyadh-flights-cancelled-22-721",
+  "headline": "22,721 passengers affected as 159 Dhaka-Riyadh flights cancelled",
+  "topic": "dhaka riyadh flight cancellations",
+  "source": "Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-10-30T19:12:52Z"
+ },
+ {
+  "title_hash": "edf55952011e25f2",
+  "url": "https://bdnews24.com/education/u3z6lnqji3",
+  "headline": "1.27mn students await HSC results this Saturday",
+  "topic": "hsc results awaited by 1.27mn students",
+  "source": "bdnews24.com",
+  "status": "queued",
+  "at": "2026-10-30T19:12:52Z"
  }
 ]
