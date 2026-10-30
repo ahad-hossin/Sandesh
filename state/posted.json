@@ -8349,8 +8349,13 @@
   "headline": "Netanyahu's bloc pressures Arab parties over unproven funding claims after indecisive election",
   "topic": "Netanyahu targets Arab parties",
   "source": "Prothom Alo, The Daily Star, bdnews24.com",
-  "status": "queued",
-  "at": "2026-10-30T01:07:40Z"
+  "status": "failed",
+  "at": "2026-10-30T01:07:40Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "1e66c1d0b9061c24",
@@ -8358,8 +8363,13 @@
   "headline": "Netanyahu's bloc pressures Arab parties over unproven funding claims after indecisive election",
   "topic": "Netanyahu targets Arab parties",
   "source": "Prothom Alo, The Daily Star, bdnews24.com",
-  "status": "queued",
-  "at": "2026-10-30T01:07:40Z"
+  "status": "failed",
+  "at": "2026-10-30T01:07:40Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "01da4a40841d0a85",
@@ -8367,8 +8377,13 @@
   "headline": "Netanyahu's bloc pressures Arab parties over unproven funding claims after indecisive election",
   "topic": "Netanyahu targets Arab parties",
   "source": "Prothom Alo, The Daily Star, bdnews24.com",
-  "status": "queued",
-  "at": "2026-10-30T01:07:40Z"
+  "status": "failed",
+  "at": "2026-10-30T01:07:40Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "8706ae96fe3109fb",
@@ -8376,7 +8391,12 @@
   "headline": "Many banks \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
   "topic": "Bangladesh banks on verge of collapse",
   "source": "The Daily Star",
-  "status": "queued",
-  "at": "2026-10-30T01:07:40Z"
+  "status": "failed",
+  "at": "2026-10-30T01:07:40Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
