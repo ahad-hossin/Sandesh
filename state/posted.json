@@ -1,61 +1,5 @@
 [
  {
-  "title_hash": "a3122f0330f12926",
-  "url": "https://www.thedailystar.net/news/crime-justice/news/ex-air-force-officers-body-recovered-turag-river-4310396",
-  "headline": "Ex-air force officer found dead in Turag river",
-  "topic": "tahsif souri body recovered",
-  "source": "Dhaka Tribune, bdnews24.com, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-10-29T04:07:59Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "e068e4e23eba3edb",
-  "url": "https://www.thedailystar.net/sports/football/news/bangladesh-reach-u-15-world-cup-quarterfinals-4310376",
-  "headline": "Bangladesh reach U-15 World Cup quarterfinals after penalty win",
-  "topic": "bangladesh u-15 world cup quarterfinals",
-  "source": "Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-10-29T04:07:59Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "dbc7b09e92f038fb",
-  "url": "https://www.prothomalo.com/sports/football/3kkz453bzi",
-  "headline": "Bangladesh reach U-15 World Cup quarterfinals after penalty win",
-  "topic": "bangladesh u-15 world cup quarterfinals",
-  "source": "Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-10-29T04:07:59Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "41105eb5f4ea64b0",
-  "url": "https://bdnews24.com/bangladesh/io1v94ev08",
-  "headline": "Thakurgaon-1 by-poll: Jamaat candidate claims presiding officers lack photo IDs",
-  "topic": "thakurgaon-1 by-poll",
-  "source": "bdnews24.com, The Daily Star, Prothom Alo, Jamuna TV",
-  "status": "failed",
-  "at": "2026-10-29T05:14:44Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "5daec71e7e0e7bbb",
   "url": "https://www.thedailystar.net/news/politics/election/news/voting-starts-thakurgaon-1-polls-bnp-jamaat-candidates-hopeful-victory-4310371",
   "headline": "Thakurgaon-1 by-poll: Jamaat candidate claims presiding officers lack photo IDs",
@@ -8398,5 +8342,41 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "c245aedfcfd5e441",
+  "url": "https://www.prothomalo.com/business/bank/u7bmph76p2",
+  "headline": "Dollar rates surge: Open market price hits 128.50 BDT",
+  "topic": "dollar price hike in open market",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-31T19:10:07Z"
+ },
+ {
+  "title_hash": "58c1f453abe9148d",
+  "url": "https://www.prothomalo.com/bangladesh/capital/1r1f1kz6te",
+  "headline": "Dollar rates surge: Open market price hits 128.50 BDT",
+  "topic": "dollar price hike in open market",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-31T19:10:07Z"
+ },
+ {
+  "title_hash": "29e0c4b70eb9c19e",
+  "url": "https://www.prothomalo.com/entertainment/dhallywood/p172pr2ky3",
+  "headline": "Actor Shariful Raj gets legal notice over scheduling conflict",
+  "topic": "legal notice against actor Sharif Uddin",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-31T19:10:07Z"
+ },
+ {
+  "title_hash": "31e68db0fcb5e070",
+  "url": "https://www.prothomalo.com/video/bangladesh/mjdyswhfbf",
+  "headline": "Actor Shariful Raj gets legal notice over scheduling conflict",
+  "topic": "legal notice against actor Sharif Uddin",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-31T19:10:07Z"
  }
 ]
