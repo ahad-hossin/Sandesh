@@ -8377,8 +8377,13 @@
   "headline": "Malaysia-bound workers’ medical tests to cost Tk 8,000",
   "topic": "malaysia-bound workers medical tests to cost tk8000",
   "source": "bdnews24.com",
-  "status": "queued",
-  "at": "2026-10-31T11:12:44Z"
+  "status": "failed",
+  "at": "2026-10-31T11:12:44Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "aeed6de3e5173d4a",
@@ -8386,7 +8391,12 @@
   "headline": "Tk 30,000 wage demand: RMG workers block roads in Mirpur",
   "topic": "rmg workers block roads demanding higher wages",
   "source": "The Daily Star",
-  "status": "queued",
-  "at": "2026-10-31T11:12:44Z"
+  "status": "failed",
+  "at": "2026-10-31T11:12:44Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
