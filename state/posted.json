@@ -8349,8 +8349,13 @@
   "headline": "Over 1.27 million students await HSC results to be published Saturday",
   "topic": "HSC exam results",
   "source": "bdnews24.com, The Daily Star, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-10-31T00:07:11Z"
+  "status": "failed",
+  "at": "2026-10-31T00:07:11Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "e1bcff143270e71a",
@@ -8358,8 +8363,13 @@
   "headline": "Over 1.27 million students await HSC results to be published Saturday",
   "topic": "HSC exam results",
   "source": "bdnews24.com, The Daily Star, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-10-31T00:07:11Z"
+  "status": "failed",
+  "at": "2026-10-31T00:07:11Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "7b509859e6e09702",
@@ -8367,8 +8377,13 @@
   "headline": "Over 1.27 million students await HSC results to be published Saturday",
   "topic": "HSC exam results",
   "source": "bdnews24.com, The Daily Star, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-10-31T00:07:11Z"
+  "status": "failed",
+  "at": "2026-10-31T00:07:11Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "627f8749786b6d6e",
@@ -8376,7 +8391,12 @@
   "headline": "Vegetable prices drop by over half in Dhaka markets, bringing relief to buyers",
   "topic": "Vegetable price drop",
   "source": "The Daily Star",
-  "status": "queued",
-  "at": "2026-10-31T00:07:11Z"
+  "status": "failed",
+  "at": "2026-10-31T00:07:11Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
