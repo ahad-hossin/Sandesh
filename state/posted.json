@@ -1,61 +1,5 @@
 [
  {
-  "title_hash": "eadc96ab7b28b67d",
-  "url": "https://bdnews24.com/bangladesh/lkhzyvgykb",
-  "headline": "Japan pledges $6.3B investment, 200,000 jobs for Bangladesh over five years, PM Tarique Rahman announces",
-  "topic": "pm tarique rahman japan visit investment",
-  "source": "bdnews24.com, Prothom Alo, The Daily Star, Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-10-28T00:06:56Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "af21cf86119e6a6d",
-  "url": "https://www.prothomalo.com/bangladesh/hyc21h1764",
-  "headline": "Japan pledges $6.3B investment, 200,000 jobs for Bangladesh over five years, PM Tarique Rahman announces",
-  "topic": "pm tarique rahman japan visit investment",
-  "source": "bdnews24.com, Prothom Alo, The Daily Star, Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-10-28T00:06:56Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "3f248a23cd013a1e",
-  "url": "https://www.thedailystar.net/news/bangladesh/diplomacy/news/japan-invest-635b-create-2-lakh-jobs-5yrs-4309386",
-  "headline": "Japan pledges $6.3B investment, 200,000 jobs for Bangladesh over five years, PM Tarique Rahman announces",
-  "topic": "pm tarique rahman japan visit investment",
-  "source": "bdnews24.com, Prothom Alo, The Daily Star, Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-10-28T00:06:56Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "20da6443d8aad765",
-  "url": "https://www.dhakatribune.com/bangladesh/423063/police-service-association-calls-igp-s-crossfire",
-  "headline": "Japan pledges $6.3B investment, 200,000 jobs for Bangladesh over five years, PM Tarique Rahman announces",
-  "topic": "pm tarique rahman japan visit investment",
-  "source": "bdnews24.com, Prothom Alo, The Daily Star, Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-10-28T00:06:56Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "17661fad0e5994e6",
   "url": "https://www.thedailystar.net/news/world/news/israeli-exit-polls-show-deadlock-apparent-setback-netanyahu-4309451",
   "headline": "Israeli election exit polls show deadlock, major setback for Netanyahu's coalition",
@@ -8398,5 +8342,41 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "aeed6de3e5173d4a",
+  "url": "https://www.thedailystar.net/news/news/rmg-workers-block-roads-mirpur-demanding-higher-wages-4311881",
+  "headline": "RMG workers block roads in Mirpur demanding Tk 30,000 minimum wage",
+  "topic": "mirpur-rmg-protests",
+  "source": "The Daily Star, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-31T09:14:44Z"
+ },
+ {
+  "title_hash": "8e92462ac759ec64",
+  "url": "https://www.prothomalo.com/bangladesh/capital/63nxta7nmm",
+  "headline": "RMG workers block roads in Mirpur demanding Tk 30,000 minimum wage",
+  "topic": "mirpur-rmg-protests",
+  "source": "The Daily Star, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-31T09:14:44Z"
+ },
+ {
+  "title_hash": "fbc6ef7aef2ec140",
+  "url": "https://www.prothomalo.com/bangladesh/capital/aajimpure-srkaari-phlyaatt-chaarraar-nottish-bipaake-shikssaarthiiraa",
+  "headline": "Dhaka students evicted from government flats ahead of final exams",
+  "topic": "azimpur-student-evictions",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-31T09:14:44Z"
+ },
+ {
+  "title_hash": "ad863058dd10614a",
+  "url": "https://www.prothomalo.com/bangladesh/capital/00tzrt1msr",
+  "headline": "Dhaka students evicted from government flats ahead of final exams",
+  "topic": "azimpur-student-evictions",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-31T09:14:44Z"
  }
 ]
