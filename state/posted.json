@@ -1,33 +1,5 @@
 [
  {
-  "title_hash": "17661fad0e5994e6",
-  "url": "https://www.thedailystar.net/news/world/news/israeli-exit-polls-show-deadlock-apparent-setback-netanyahu-4309451",
-  "headline": "Israeli election exit polls show deadlock, major setback for Netanyahu's coalition",
-  "topic": "israel election netanyahu defeat",
-  "source": "Jamuna TV, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-10-28T01:06:44Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "ff23fa5248c38d23",
-  "url": "https://www.jamuna.tv/international/666944",
-  "headline": "Israeli election exit polls show deadlock, major setback for Netanyahu's coalition",
-  "topic": "israel election netanyahu defeat",
-  "source": "Jamuna TV, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-10-28T01:06:44Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "7152d8b66b45364d",
   "url": "https://www.jamuna.tv/international/666943",
   "headline": "Israeli election exit polls show deadlock, major setback for Netanyahu's coalition",
@@ -8398,5 +8370,23 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "a531339d568818b7",
+  "url": "https://bdnews24.com/bangladesh/me1xrjvcrw",
+  "headline": "Malaysia-bound workers’ medical tests to cost Tk 8,000",
+  "topic": "malaysia-bound workers medical tests to cost tk8000",
+  "source": "bdnews24.com",
+  "status": "queued",
+  "at": "2026-10-31T11:12:44Z"
+ },
+ {
+  "title_hash": "aeed6de3e5173d4a",
+  "url": "https://www.thedailystar.net/news/news/rmg-workers-block-roads-mirpur-demanding-higher-wages-4311881",
+  "headline": "Tk 30,000 wage demand: RMG workers block roads in Mirpur",
+  "topic": "rmg workers block roads demanding higher wages",
+  "source": "The Daily Star",
+  "status": "queued",
+  "at": "2026-10-31T11:12:44Z"
  }
 ]
