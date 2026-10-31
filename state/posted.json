@@ -8321,8 +8321,13 @@
   "headline": "HSC and equivalent exam results published today for over 1.27 million students",
   "topic": "HSC equivalent exam results published",
   "source": "Jamuna TV, bdnews24.com, Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-31T02:06:42Z"
+  "status": "failed",
+  "at": "2026-10-31T02:06:42Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "f435be0b95984636",
@@ -8330,8 +8335,13 @@
   "headline": "HSC and equivalent exam results published today for over 1.27 million students",
   "topic": "HSC equivalent exam results published",
   "source": "Jamuna TV, bdnews24.com, Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-31T02:06:42Z"
+  "status": "failed",
+  "at": "2026-10-31T02:06:42Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "0edd2df9dc72618b",
@@ -8339,8 +8349,13 @@
   "headline": "HSC and equivalent exam results published today for over 1.27 million students",
   "topic": "HSC equivalent exam results published",
   "source": "Jamuna TV, bdnews24.com, Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-31T02:06:42Z"
+  "status": "failed",
+  "at": "2026-10-31T02:06:42Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "e1bcff143270e71a",
@@ -8348,8 +8363,13 @@
   "headline": "HSC and equivalent exam results published today for over 1.27 million students",
   "topic": "HSC equivalent exam results published",
   "source": "Jamuna TV, bdnews24.com, Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-31T02:06:42Z"
+  "status": "failed",
+  "at": "2026-10-31T02:06:42Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "6d25cb9a190a3cf3",
@@ -8357,8 +8377,13 @@
   "headline": "HSC and equivalent exam results published today for over 1.27 million students",
   "topic": "HSC equivalent exam results published",
   "source": "Jamuna TV, bdnews24.com, Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-31T02:06:42Z"
+  "status": "failed",
+  "at": "2026-10-31T02:06:42Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "627f8749786b6d6e",
@@ -8366,7 +8391,12 @@
   "headline": "Vegetable prices fall by over half in Dhaka markets as early-winter supply increases, bringing relief to buyers.",
   "topic": "Vegetable prices fall in Dhaka",
   "source": "The Daily Star",
-  "status": "queued",
-  "at": "2026-10-31T02:06:42Z"
+  "status": "failed",
+  "at": "2026-10-31T02:06:42Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
