@@ -8363,8 +8363,13 @@
   "headline": "HSC and equivalent exam results published today for over 12.70 lakh examinees",
   "topic": "HSC exam results today",
   "source": "Jamuna TV, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-31T01:06:48Z"
+  "status": "failed",
+  "at": "2026-10-31T01:06:48Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "f435be0b95984636",
@@ -8372,8 +8377,13 @@
   "headline": "HSC and equivalent exam results published today for over 12.70 lakh examinees",
   "topic": "HSC exam results today",
   "source": "Jamuna TV, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-31T01:06:48Z"
+  "status": "failed",
+  "at": "2026-10-31T01:06:48Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "a989b39735143ade",
@@ -8381,7 +8391,12 @@
   "headline": "PBI recovers motorcycle, friend claims Tahsif jumped into Turag after chase",
   "topic": "Tahsif murder investigation update",
   "source": "The Daily Star",
-  "status": "queued",
-  "at": "2026-10-31T01:06:48Z"
+  "status": "failed",
+  "at": "2026-10-31T01:06:48Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
