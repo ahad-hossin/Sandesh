@@ -1,47 +1,5 @@
 [
  {
-  "title_hash": "b2e48d8628df7a8c",
-  "url": "https://www.dhakatribune.com/bangladesh/health/423046/dengue-death-toll-reaches-400-october-sees",
-  "headline": "400 deaths: Dengue death toll hits 400 as October becomes deadliest month",
-  "topic": "dengue death toll hits 400",
-  "source": "Dhaka Tribune, bdnews24.com, Jamuna TV, The Daily Star",
-  "status": "failed",
-  "at": "2026-10-27T13:11:50Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "d073be2db3d6b71e",
-  "url": "https://bdnews24.com/health/m25zw74u6a",
-  "headline": "400 deaths: Dengue death toll hits 400 as October becomes deadliest month",
-  "topic": "dengue death toll hits 400",
-  "source": "Dhaka Tribune, bdnews24.com, Jamuna TV, The Daily Star",
-  "status": "failed",
-  "at": "2026-10-27T13:11:50Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "f9eaf1ae1aebbbe1",
-  "url": "https://www.jamuna.tv/national/666911",
-  "headline": "400 deaths: Dengue death toll hits 400 as October becomes deadliest month",
-  "topic": "dengue death toll hits 400",
-  "source": "Dhaka Tribune, bdnews24.com, Jamuna TV, The Daily Star",
-  "status": "failed",
-  "at": "2026-10-27T13:11:50Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "1c3aa5abca2826c1",
   "url": "https://www.thedailystar.net/news/healthcare/disease/news/dengue-claims-11-more-lives-4308751",
   "headline": "400 deaths: Dengue death toll hits 400 as October becomes deadliest month",
@@ -8398,5 +8356,32 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "e1bcff143270e71a",
+  "url": "https://www.thedailystar.net/news/bangladesh/education/news/hsc-equivalent-exam-results-today-4311611",
+  "headline": "HSC and equivalent exam results published today for over 12.70 lakh examinees",
+  "topic": "HSC exam results today",
+  "source": "Jamuna TV, The Daily Star",
+  "status": "queued",
+  "at": "2026-10-31T01:06:48Z"
+ },
+ {
+  "title_hash": "f435be0b95984636",
+  "url": "https://www.jamuna.tv/national/667118",
+  "headline": "HSC and equivalent exam results published today for over 12.70 lakh examinees",
+  "topic": "HSC exam results today",
+  "source": "Jamuna TV, The Daily Star",
+  "status": "queued",
+  "at": "2026-10-31T01:06:48Z"
+ },
+ {
+  "title_hash": "a989b39735143ade",
+  "url": "https://www.thedailystar.net/news/crime-justice/news/we-were-chased-tahsif-jumped-turag-i-fled-4311596",
+  "headline": "PBI recovers motorcycle, friend claims Tahsif jumped into Turag after chase",
+  "topic": "Tahsif murder investigation update",
+  "source": "The Daily Star",
+  "status": "queued",
+  "at": "2026-10-31T01:06:48Z"
  }
 ]
