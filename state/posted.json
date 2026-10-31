@@ -1,61 +1,5 @@
 [
  {
-  "title_hash": "db5ebe812e35c782",
-  "url": "https://www.dhakatribune.com/bangladesh/423021/zahed-bnp-won%E2%80%99t-back-extrajudicial-killings",
-  "headline": "Govt says police cannot carry out crossfire even if ordered",
-  "topic": "igp crossfire remarks controversy",
-  "source": "Prothom Alo, The Daily Star, Dhaka Tribune, Jamuna TV, bdnews24.com",
-  "status": "failed",
-  "at": "2026-10-27T13:11:50Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "dd0d5525b8c164bf",
-  "url": "https://www.prothomalo.com/politics/5cj1ffhask",
-  "headline": "Govt says police cannot carry out crossfire even if ordered",
-  "topic": "igp crossfire remarks controversy",
-  "source": "Prothom Alo, The Daily Star, Dhaka Tribune, Jamuna TV, bdnews24.com",
-  "status": "failed",
-  "at": "2026-10-27T13:11:50Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "beb923bc3ffaee1f",
-  "url": "https://www.jamuna.tv/national/666898",
-  "headline": "Govt says police cannot carry out crossfire even if ordered",
-  "topic": "igp crossfire remarks controversy",
-  "source": "Prothom Alo, The Daily Star, Dhaka Tribune, Jamuna TV, bdnews24.com",
-  "status": "failed",
-  "at": "2026-10-27T13:11:50Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "13835b8521597ce7",
-  "url": "https://bdnews24.com/bangladesh/abqgtvc311",
-  "headline": "Govt says police cannot carry out crossfire even if ordered",
-  "topic": "igp crossfire remarks controversy",
-  "source": "Prothom Alo, The Daily Star, Dhaka Tribune, Jamuna TV, bdnews24.com",
-  "status": "failed",
-  "at": "2026-10-27T13:11:50Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "b2e48d8628df7a8c",
   "url": "https://www.dhakatribune.com/bangladesh/health/423046/dengue-death-toll-reaches-400-october-sees",
   "headline": "400 deaths: Dengue death toll hits 400 as October becomes deadliest month",
@@ -8398,5 +8342,41 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "edf55952011e25f2",
+  "url": "https://bdnews24.com/education/u3z6lnqji3",
+  "headline": "Over 1.27 million students await HSC results to be published Saturday",
+  "topic": "HSC exam results",
+  "source": "bdnews24.com, The Daily Star, Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-10-31T00:07:11Z"
+ },
+ {
+  "title_hash": "e1bcff143270e71a",
+  "url": "https://www.thedailystar.net/news/bangladesh/education/news/hsc-equivalent-exam-results-today-4311611",
+  "headline": "Over 1.27 million students await HSC results to be published Saturday",
+  "topic": "HSC exam results",
+  "source": "bdnews24.com, The Daily Star, Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-10-31T00:07:11Z"
+ },
+ {
+  "title_hash": "7b509859e6e09702",
+  "url": "https://www.dhakatribune.com/bangladesh/education/423300/hsc-equivalent-exam-results-to-be-published-on",
+  "headline": "Over 1.27 million students await HSC results to be published Saturday",
+  "topic": "HSC exam results",
+  "source": "bdnews24.com, The Daily Star, Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-10-31T00:07:11Z"
+ },
+ {
+  "title_hash": "627f8749786b6d6e",
+  "url": "https://www.thedailystar.net/news/bangladesh/news/falling-veggie-prices-bring-relief-buyers-4311586",
+  "headline": "Vegetable prices drop by over half in Dhaka markets, bringing relief to buyers",
+  "topic": "Vegetable price drop",
+  "source": "The Daily Star",
+  "status": "queued",
+  "at": "2026-10-31T00:07:11Z"
  }
 ]
