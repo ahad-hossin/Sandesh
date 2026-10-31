@@ -8321,8 +8321,13 @@
   "headline": "HSC and equivalent exam results published today for over 12.70 lakh examinees",
   "topic": "HSC exam results published today",
   "source": "Jamuna TV, Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-31T04:06:59Z"
+  "status": "failed",
+  "at": "2026-10-31T04:06:59Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "f435be0b95984636",
@@ -8330,8 +8335,13 @@
   "headline": "HSC and equivalent exam results published today for over 12.70 lakh examinees",
   "topic": "HSC exam results published today",
   "source": "Jamuna TV, Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-31T04:06:59Z"
+  "status": "failed",
+  "at": "2026-10-31T04:06:59Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "0edd2df9dc72618b",
@@ -8339,8 +8349,13 @@
   "headline": "HSC and equivalent exam results published today for over 12.70 lakh examinees",
   "topic": "HSC exam results published today",
   "source": "Jamuna TV, Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-31T04:06:59Z"
+  "status": "failed",
+  "at": "2026-10-31T04:06:59Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "6d25cb9a190a3cf3",
@@ -8348,8 +8363,13 @@
   "headline": "HSC and equivalent exam results published today for over 12.70 lakh examinees",
   "topic": "HSC exam results published today",
   "source": "Jamuna TV, Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-31T04:06:59Z"
+  "status": "failed",
+  "at": "2026-10-31T04:06:59Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "4db8ddddaf73c279",
@@ -8357,8 +8377,13 @@
   "headline": "HSC and equivalent exam results published today for over 12.70 lakh examinees",
   "topic": "HSC exam results published today",
   "source": "Jamuna TV, Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-10-31T04:06:59Z"
+  "status": "failed",
+  "at": "2026-10-31T04:06:59Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "d1acbdd97e420fd3",
@@ -8366,7 +8391,12 @@
   "headline": "Fourth nuclear fuel shipment arrives for Rooppur’s second unit",
   "topic": "Fourth nuclear fuel shipment for Rooppur unit 2 arrives",
   "source": "Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-10-31T04:06:59Z"
+  "status": "failed",
+  "at": "2026-10-31T04:06:59Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
