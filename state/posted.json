@@ -1,75 +1,5 @@
 [
  {
-  "title_hash": "72ff5d9285781730",
-  "url": "https://www.thedailystar.net/news/politics/election/news/voting-underway-thakurgaon-1-polls-4310371",
-  "headline": "516,140 voters eligible as voting begins in Thakurgaon-1 by-poll",
-  "topic": "thakurgaon-1-by-poll-voting",
-  "source": "bdnews24.com, Jamuna TV, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-10-29T03:09:36Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "dbc7b09e92f038fb",
-  "url": "https://www.prothomalo.com/sports/football/3kkz453bzi",
-  "headline": "BD U-15s reach quarter-finals of FIFA U-15 World Cup & Festival",
-  "topic": "bangladesh-fifa-tournament-quarter-finals",
-  "source": "Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-29T03:09:36Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "a9ea6742d399a6ed",
-  "url": "https://www.dhakatribune.com/bangladesh/423170/body-of-former-flight-lieutenant-tahsif-souri",
-  "headline": "Ex-air force officer found dead in Turag river",
-  "topic": "tahsif souri body recovered",
-  "source": "Dhaka Tribune, bdnews24.com, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-10-29T04:07:59Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "4bd38486a4c790cd",
-  "url": "https://bdnews24.com/bangladesh/ilbgn7mct0",
-  "headline": "Ex-air force officer found dead in Turag river",
-  "topic": "tahsif souri body recovered",
-  "source": "Dhaka Tribune, bdnews24.com, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-10-29T04:07:59Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "74e3936bd505c7e6",
-  "url": "https://www.prothomalo.com/bangladesh/crime/qqe30kyz3o",
-  "headline": "Ex-air force officer found dead in Turag river",
-  "topic": "tahsif souri body recovered",
-  "source": "Dhaka Tribune, bdnews24.com, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-10-29T04:07:59Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "a3122f0330f12926",
   "url": "https://www.thedailystar.net/news/crime-justice/news/ex-air-force-officers-body-recovered-turag-river-4310396",
   "headline": "Ex-air force officer found dead in Turag river",
@@ -8398,5 +8328,50 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "c245aedfcfd5e441",
+  "url": "https://www.prothomalo.com/business/bank/u7bmph76p2",
+  "headline": "Dollar price hits 128.50 BDT in open market as rates rise in banks",
+  "topic": "dollar price hike",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-31T18:09:57Z"
+ },
+ {
+  "title_hash": "9f905a5f2974b89f",
+  "url": "https://www.prothomalo.com/bangladesh/capital/5n1oipa2o7",
+  "headline": "Garment workers demand 30,000 taka minimum wage in Mirpur protests",
+  "topic": "garment worker protests",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-31T18:09:57Z"
+ },
+ {
+  "title_hash": "e6ee191250304d5c",
+  "url": "https://www.prothomalo.com/bangladesh/district/ho1k34lf4a",
+  "headline": "Garment workers demand 30,000 taka minimum wage in Mirpur protests",
+  "topic": "garment worker protests",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-31T18:09:57Z"
+ },
+ {
+  "title_hash": "5609eda2fd1d5e60",
+  "url": "https://www.prothomalo.com/video/bangladesh/be04lhaeks",
+  "headline": "Garment workers demand 30,000 taka minimum wage in Mirpur protests",
+  "topic": "garment worker protests",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-31T18:09:57Z"
+ },
+ {
+  "title_hash": "eee62333b43fd655",
+  "url": "https://www.prothomalo.com/bangladesh/district/y3g8m2oe26",
+  "headline": "Garment workers demand 30,000 taka minimum wage in Mirpur protests",
+  "topic": "garment worker protests",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-31T18:09:57Z"
  }
 ]
