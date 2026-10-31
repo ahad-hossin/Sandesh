@@ -8349,8 +8349,13 @@
   "headline": "Dollar rates surge: Open market price hits 128.50 BDT",
   "topic": "dollar price hike in open market",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-31T19:10:07Z"
+  "status": "failed",
+  "at": "2026-10-31T19:10:07Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "58c1f453abe9148d",
@@ -8358,8 +8363,13 @@
   "headline": "Dollar rates surge: Open market price hits 128.50 BDT",
   "topic": "dollar price hike in open market",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-31T19:10:07Z"
+  "status": "failed",
+  "at": "2026-10-31T19:10:07Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "29e0c4b70eb9c19e",
@@ -8367,8 +8377,13 @@
   "headline": "Actor Shariful Raj gets legal notice over scheduling conflict",
   "topic": "legal notice against actor Sharif Uddin",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-31T19:10:07Z"
+  "status": "failed",
+  "at": "2026-10-31T19:10:07Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "31e68db0fcb5e070",
@@ -8376,7 +8391,12 @@
   "headline": "Actor Shariful Raj gets legal notice over scheduling conflict",
   "topic": "legal notice against actor Sharif Uddin",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-31T19:10:07Z"
+  "status": "failed",
+  "at": "2026-10-31T19:10:07Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
