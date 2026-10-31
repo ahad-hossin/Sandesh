@@ -8349,8 +8349,13 @@
   "headline": "Fakhar Zaman's 127 powers Pakistan to tri-series title over Sri Lanka",
   "topic": "pakistan wins tri-series",
   "source": "bdnews24.com, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-31T21:13:09Z"
+  "status": "failed",
+  "at": "2026-10-31T21:13:09Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "8d9fea6c4023d25c",
@@ -8358,8 +8363,13 @@
   "headline": "Fakhar Zaman's 127 powers Pakistan to tri-series title over Sri Lanka",
   "topic": "pakistan wins tri-series",
   "source": "bdnews24.com, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-31T21:13:09Z"
+  "status": "failed",
+  "at": "2026-10-31T21:13:09Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "31e68db0fcb5e070",
@@ -8367,8 +8377,13 @@
   "headline": "DB's Harun and 7 other police officers dismissed from service",
   "topic": "db harun police dismissed",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-31T21:13:09Z"
+  "status": "failed",
+  "at": "2026-10-31T21:13:09Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "18dc0d84c815dc84",
@@ -8376,7 +8391,12 @@
   "headline": "DB's Harun and 7 other police officers dismissed from service",
   "topic": "db harun police dismissed",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-31T21:13:09Z"
+  "status": "failed",
+  "at": "2026-10-31T21:13:09Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
