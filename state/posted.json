@@ -8335,8 +8335,13 @@
   "headline": "Dollar price hits 128.50 BDT in open market as rates rise in banks",
   "topic": "dollar price hike",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-31T18:09:57Z"
+  "status": "failed",
+  "at": "2026-10-31T18:09:57Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "9f905a5f2974b89f",
@@ -8344,8 +8349,13 @@
   "headline": "Garment workers demand 30,000 taka minimum wage in Mirpur protests",
   "topic": "garment worker protests",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-31T18:09:57Z"
+  "status": "failed",
+  "at": "2026-10-31T18:09:57Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "e6ee191250304d5c",
@@ -8353,8 +8363,13 @@
   "headline": "Garment workers demand 30,000 taka minimum wage in Mirpur protests",
   "topic": "garment worker protests",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-31T18:09:57Z"
+  "status": "failed",
+  "at": "2026-10-31T18:09:57Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "5609eda2fd1d5e60",
@@ -8362,8 +8377,13 @@
   "headline": "Garment workers demand 30,000 taka minimum wage in Mirpur protests",
   "topic": "garment worker protests",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-31T18:09:57Z"
+  "status": "failed",
+  "at": "2026-10-31T18:09:57Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "eee62333b43fd655",
@@ -8371,7 +8391,12 @@
   "headline": "Garment workers demand 30,000 taka minimum wage in Mirpur protests",
   "topic": "garment worker protests",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-31T18:09:57Z"
+  "status": "failed",
+  "at": "2026-10-31T18:09:57Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
