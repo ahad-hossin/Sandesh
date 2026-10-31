@@ -1,33 +1,5 @@
 [
  {
-  "title_hash": "d6b171ff497558fe",
-  "url": "https://www.dhakatribune.com/bangladesh/423176/pm-tarique-visits-toyota%E2%80%99s-motomachi-plant-in",
-  "headline": "Japan visit: PM Tarique Rahman visits Toyota’s Motomachi plant",
-  "topic": "pm tarique visits toyota japan",
-  "source": "bdnews24.com, Dhaka Tribune, Jamuna TV, The Daily Star, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-29T05:14:44Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "0adcd1fadf7dad9c",
-  "url": "https://www.jamuna.tv/national/667016",
-  "headline": "Japan visit: PM Tarique Rahman visits Toyota’s Motomachi plant",
-  "topic": "pm tarique visits toyota japan",
-  "source": "bdnews24.com, Dhaka Tribune, Jamuna TV, The Daily Star, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-29T05:14:44Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "d97160dfe4e6ce65",
   "url": "https://www.thedailystar.net/news/bangladesh/diplomacy/news/pm-visits-toyota-plant-japans-nagoya-4310406",
   "headline": "Japan visit: PM Tarique Rahman visits Toyota’s Motomachi plant",
@@ -8398,5 +8370,23 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "d9da5af3c18327f6",
+  "url": "https://www.dhakatribune.com/bangladesh/nation/423382/20-garment-factories-suspend-operation-in-ashulia",
+  "headline": "30 garment factories suspend operations in Ashulia amid workers' protests",
+  "topic": "garment factory closures amid wage protests",
+  "source": "Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-10-31T23:08:15Z"
+ },
+ {
+  "title_hash": "475137dd240c8974",
+  "url": "https://www.dhakatribune.com/bangladesh/accidents/423403/pedestrian-killed-30-jamaat-activists-injured-in",
+  "headline": "Pedestrian killed in Satkhira road crash, 30 Jamaat activists injured",
+  "topic": "road crash injures Jamaat activists",
+  "source": "Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-10-31T23:08:15Z"
  }
 ]
