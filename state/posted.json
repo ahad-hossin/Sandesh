@@ -8349,8 +8349,13 @@
   "headline": "RMG workers block roads in Mirpur demanding Tk 30,000 minimum wage",
   "topic": "mirpur-rmg-protests",
   "source": "The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-31T09:14:44Z"
+  "status": "failed",
+  "at": "2026-10-31T09:14:44Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "8e92462ac759ec64",
@@ -8358,8 +8363,13 @@
   "headline": "RMG workers block roads in Mirpur demanding Tk 30,000 minimum wage",
   "topic": "mirpur-rmg-protests",
   "source": "The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-31T09:14:44Z"
+  "status": "failed",
+  "at": "2026-10-31T09:14:44Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "fbc6ef7aef2ec140",
@@ -8367,8 +8377,13 @@
   "headline": "Dhaka students evicted from government flats ahead of final exams",
   "topic": "azimpur-student-evictions",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-31T09:14:44Z"
+  "status": "failed",
+  "at": "2026-10-31T09:14:44Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "ad863058dd10614a",
@@ -8376,7 +8391,12 @@
   "headline": "Dhaka students evicted from government flats ahead of final exams",
   "topic": "azimpur-student-evictions",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-10-31T09:14:44Z"
+  "status": "failed",
+  "at": "2026-10-31T09:14:44Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
