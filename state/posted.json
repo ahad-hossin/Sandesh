@@ -1,61 +1,5 @@
 [
  {
-  "title_hash": "2fdb7a7da2336e37",
-  "url": "https://www.jamuna.tv/all-bangladesh/667015",
-  "headline": "Thakurgaon-1 by-poll: Jamaat candidate claims presiding officers lack photo IDs",
-  "topic": "thakurgaon-1 by-poll",
-  "source": "bdnews24.com, The Daily Star, Prothom Alo, Jamuna TV",
-  "status": "failed",
-  "at": "2026-10-29T05:14:44Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "1227755ca38bb80c",
-  "url": "https://bdnews24.com/bangladesh/kmst7z94ht",
-  "headline": "Thakurgaon-1 by-poll: Jamaat candidate claims presiding officers lack photo IDs",
-  "topic": "thakurgaon-1 by-poll",
-  "source": "bdnews24.com, The Daily Star, Prothom Alo, Jamuna TV",
-  "status": "failed",
-  "at": "2026-10-29T05:14:44Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "eb52f79f9eb99ae7",
-  "url": "https://www.prothomalo.com/bangladesh/district/t2tngvjuns",
-  "headline": "Thakurgaon-1 by-poll: Jamaat candidate claims presiding officers lack photo IDs",
-  "topic": "thakurgaon-1 by-poll",
-  "source": "bdnews24.com, The Daily Star, Prothom Alo, Jamuna TV",
-  "status": "failed",
-  "at": "2026-10-29T05:14:44Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "0696c1b122183dde",
-  "url": "https://bdnews24.com/bangladesh/3iraawlqi9",
-  "headline": "Japan visit: PM Tarique Rahman visits Toyota’s Motomachi plant",
-  "topic": "pm tarique visits toyota japan",
-  "source": "bdnews24.com, Dhaka Tribune, Jamuna TV, The Daily Star, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-29T05:14:44Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "d6b171ff497558fe",
   "url": "https://www.dhakatribune.com/bangladesh/423176/pm-tarique-visits-toyota%E2%80%99s-motomachi-plant-in",
   "headline": "Japan visit: PM Tarique Rahman visits Toyota’s Motomachi plant",
@@ -8398,5 +8342,41 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "b838612277ddc8a3",
+  "url": "https://bdnews24.com/cricket/9rt5jzylf6",
+  "headline": "Fakhar Zaman's 127 powers Pakistan to tri-series title over Sri Lanka",
+  "topic": "pakistan wins tri-series",
+  "source": "bdnews24.com, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-31T21:13:09Z"
+ },
+ {
+  "title_hash": "8d9fea6c4023d25c",
+  "url": "https://www.prothomalo.com/sports/cricket/uhcipajrzz",
+  "headline": "Fakhar Zaman's 127 powers Pakistan to tri-series title over Sri Lanka",
+  "topic": "pakistan wins tri-series",
+  "source": "bdnews24.com, Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-31T21:13:09Z"
+ },
+ {
+  "title_hash": "31e68db0fcb5e070",
+  "url": "https://www.prothomalo.com/video/bangladesh/mjdyswhfbf",
+  "headline": "DB's Harun and 7 other police officers dismissed from service",
+  "topic": "db harun police dismissed",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-31T21:13:09Z"
+ },
+ {
+  "title_hash": "18dc0d84c815dc84",
+  "url": "https://www.prothomalo.com/video/bangladesh/gs6hcf0shl",
+  "headline": "DB's Harun and 7 other police officers dismissed from service",
+  "topic": "db harun police dismissed",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-10-31T21:13:09Z"
  }
 ]
