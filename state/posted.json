@@ -8377,8 +8377,13 @@
   "headline": "90 jobs available at Ashuganj Power Station: Online applications open November 2",
   "topic": "Ashuganj Power Station job circular",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-11-01T03:06:35Z"
+  "status": "failed",
+  "at": "2026-11-01T03:06:35Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "9884f6238a6454ff",
@@ -8386,7 +8391,12 @@
   "headline": "HSC result re-evaluation applications begin today, Nov 1; apply online by Nov 7",
   "topic": "HSC result re-evaluation application",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-11-01T03:06:35Z"
+  "status": "failed",
+  "at": "2026-11-01T03:06:35Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
