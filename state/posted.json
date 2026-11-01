@@ -1,33 +1,5 @@
 [
  {
-  "title_hash": "d02a401e0accd5e0",
-  "url": "https://www.jamuna.tv/all-bangladesh/667026",
-  "headline": "Neelsagar Express derails in Tangail, cutting rail links to north",
-  "topic": "neel-sagar-express-derails-disrupting-dhaka-north-rail-links",
-  "source": "Prothom Alo, Dhaka Tribune, Jamuna TV, The Daily Star",
-  "status": "failed",
-  "at": "2026-10-29T07:10:34Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "c399161051b2fcc0",
-  "url": "https://www.thedailystar.net/top-news-center/news/neelsagar-express-derails-tangail-dhaka-north-rail-link-cut-4310416",
-  "headline": "Neelsagar Express derails in Tangail, cutting rail links to north",
-  "topic": "neel-sagar-express-derails-disrupting-dhaka-north-rail-links",
-  "source": "Prothom Alo, Dhaka Tribune, Jamuna TV, The Daily Star",
-  "status": "failed",
-  "at": "2026-10-29T07:10:34Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "73235a7b251408e1",
   "url": "https://www.jamuna.tv/national/667032",
   "headline": "Death penalty for Mahbub ul Alam Hanif in crimes against humanity case",
@@ -8398,5 +8370,23 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "04198c91cbb39d8c",
+  "url": "https://www.thedailystar.net/health/news/the-hidden-price-being-poor-and-sick-bangladesh-4312336",
+  "headline": "79% of healthcare costs paid out-of-pocket in Bangladesh, WHO report reveals stark inequalities",
+  "topic": "cost of healthcare in bangladesh",
+  "source": "The Daily Star",
+  "status": "queued",
+  "at": "2026-11-01T02:07:02Z"
+ },
+ {
+  "title_hash": "af47e4a8c3cdd733",
+  "url": "https://www.thedailystar.net/news/bangladesh/news/obstruction-freedom-fighters-burial-criminal-offence-4312356",
+  "headline": "Obstruction of freedom fighter's burial by Jamaat-e-Islami leaders condemned as criminal offense",
+  "topic": "obstruction of freedom fighter burial",
+  "source": "The Daily Star",
+  "status": "queued",
+  "at": "2026-11-01T02:07:02Z"
  }
 ]
