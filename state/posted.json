@@ -8335,8 +8335,13 @@
   "headline": "HSC pass rate hits 20-year low at 52.12%, exposing major learning gaps",
   "topic": "hsc exam results low pass rates",
   "source": "bdnews24.com, The Daily Star",
-  "status": "queued",
-  "at": "2026-11-01T00:08:45Z"
+  "status": "failed",
+  "at": "2026-11-01T00:08:45Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "5192587ba01fafbb",
@@ -8344,8 +8349,13 @@
   "headline": "HSC pass rate hits 20-year low at 52.12%, exposing major learning gaps",
   "topic": "hsc exam results low pass rates",
   "source": "bdnews24.com, The Daily Star",
-  "status": "queued",
-  "at": "2026-11-01T00:08:45Z"
+  "status": "failed",
+  "at": "2026-11-01T00:08:45Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "285a38b2cf16199b",
@@ -8353,8 +8363,13 @@
   "headline": "HSC pass rate hits 20-year low at 52.12%, exposing major learning gaps",
   "topic": "hsc exam results low pass rates",
   "source": "bdnews24.com, The Daily Star",
-  "status": "queued",
-  "at": "2026-11-01T00:08:45Z"
+  "status": "failed",
+  "at": "2026-11-01T00:08:45Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "ca5c7282f3e14ba5",
@@ -8362,8 +8377,13 @@
   "headline": "HSC pass rate hits 20-year low at 52.12%, exposing major learning gaps",
   "topic": "hsc exam results low pass rates",
   "source": "bdnews24.com, The Daily Star",
-  "status": "queued",
-  "at": "2026-11-01T00:08:45Z"
+  "status": "failed",
+  "at": "2026-11-01T00:08:45Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "f49705f5585686b3",
@@ -8371,7 +8391,12 @@
   "headline": "Father breaks down seeing deceased son's HSC results for exam he couldn't complete",
   "topic": "father cries over deceased son hsc result",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-11-01T00:08:45Z"
+  "status": "failed",
+  "at": "2026-11-01T00:08:45Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
