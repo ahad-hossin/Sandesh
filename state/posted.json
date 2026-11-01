@@ -1,47 +1,5 @@
 [
  {
-  "title_hash": "d558fc75d0a62fd3",
-  "url": "https://www.prothomalo.com/bangladesh/crime/74a6u70ukc",
-  "headline": "Ex-Air Force officer's body recovered from Turag river",
-  "topic": "ex-air force officer found dead",
-  "source": "Prothom Alo, bdnews24.com, The Daily Star, Jamuna TV",
-  "status": "failed",
-  "at": "2026-10-29T11:08:07Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "718b1470f187e66b",
-  "url": "https://bdnews24.com/bangladesh/87sktawrto",
-  "headline": "Ex-Air Force officer's body recovered from Turag river",
-  "topic": "ex-air force officer found dead",
-  "source": "Prothom Alo, bdnews24.com, The Daily Star, Jamuna TV",
-  "status": "failed",
-  "at": "2026-10-29T11:08:07Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "2eedb71ad30eb457",
-  "url": "https://www.thedailystar.net/news/news/what-the-inquest-report-says-about-tahsif-souris-body-4310531",
-  "headline": "Ex-Air Force officer's body recovered from Turag river",
-  "topic": "ex-air force officer found dead",
-  "source": "Prothom Alo, bdnews24.com, The Daily Star, Jamuna TV",
-  "status": "failed",
-  "at": "2026-10-29T11:08:07Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "b1151b6f0a10c1b6",
   "url": "https://www.thedailystar.net/news/news/what-was-ex-air-force-officer-tahsifs-last-message-his-mother-4310526",
   "headline": "Ex-Air Force officer's body recovered from Turag river",
@@ -8398,5 +8356,32 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "c1b8688e2cfa1de8",
+  "url": "https://bdnews24.com/sport/h82k1fs23t",
+  "headline": "14 years later: Arsenal go top of Premier League after beating Liverpool",
+  "topic": "arsenal beat liverpool",
+  "source": "bdnews24.com, Prothom Alo",
+  "status": "queued",
+  "at": "2026-11-01T22:15:53Z"
+ },
+ {
+  "title_hash": "bbd7910e5e1907e1",
+  "url": "https://www.prothomalo.com/sports/football/8yyb3priva",
+  "headline": "14 years later: Arsenal go top of Premier League after beating Liverpool",
+  "topic": "arsenal beat liverpool",
+  "source": "bdnews24.com, Prothom Alo",
+  "status": "queued",
+  "at": "2026-11-01T22:15:53Z"
+ },
+ {
+  "title_hash": "6551a2c48bbc04f6",
+  "url": "https://www.prothomalo.com/bangladesh/z524l4zgjo",
+  "headline": "Cox's Bazar: Gas leak causes fire during tubewell drilling",
+  "topic": "coxs bazar gas fire",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-11-01T22:15:53Z"
  }
 ]
