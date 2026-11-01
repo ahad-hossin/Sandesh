@@ -8363,8 +8363,13 @@
   "headline": "14 years later: Arsenal go top of Premier League after beating Liverpool",
   "topic": "arsenal beat liverpool",
   "source": "bdnews24.com, Prothom Alo",
-  "status": "queued",
-  "at": "2026-11-01T22:15:53Z"
+  "status": "failed",
+  "at": "2026-11-01T22:15:53Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "bbd7910e5e1907e1",
@@ -8372,8 +8377,13 @@
   "headline": "14 years later: Arsenal go top of Premier League after beating Liverpool",
   "topic": "arsenal beat liverpool",
   "source": "bdnews24.com, Prothom Alo",
-  "status": "queued",
-  "at": "2026-11-01T22:15:53Z"
+  "status": "failed",
+  "at": "2026-11-01T22:15:53Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "6551a2c48bbc04f6",
@@ -8381,7 +8391,12 @@
   "headline": "Cox's Bazar: Gas leak causes fire during tubewell drilling",
   "topic": "coxs bazar gas fire",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-11-01T22:15:53Z"
+  "status": "failed",
+  "at": "2026-11-01T22:15:53Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
