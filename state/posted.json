@@ -1,61 +1,5 @@
 [
  {
-  "title_hash": "1b4a862b8e102085",
-  "url": "https://bdnews24.com/bangladesh/3tdiuh34fp",
-  "headline": "Tk 30,000 salary demand: Garment workers block road in Mirpur",
-  "topic": "garment workers mirpur road block",
-  "source": "bdnews24.com, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-29T06:09:15Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "b212245df419b5d1",
-  "url": "https://www.prothomalo.com/bangladesh/capital/da43mt8qmu",
-  "headline": "Tk 30,000 salary demand: Garment workers block road in Mirpur",
-  "topic": "garment workers mirpur road block",
-  "source": "bdnews24.com, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-29T06:09:15Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "02f21d53c28a42ef",
-  "url": "https://www.dhakatribune.com/bangladesh/nation/423179/neel-sagar-express-derailment-suspends-dhaka-north",
-  "headline": "Neelsagar Express derails in Tangail, cutting rail links to north",
-  "topic": "neel-sagar-express-derails-disrupting-dhaka-north-rail-links",
-  "source": "Prothom Alo, Dhaka Tribune, Jamuna TV, The Daily Star",
-  "status": "failed",
-  "at": "2026-10-29T07:10:34Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "e96e60f13abf123c",
-  "url": "https://www.prothomalo.com/bangladesh/district/1lrxtak7wt",
-  "headline": "Neelsagar Express derails in Tangail, cutting rail links to north",
-  "topic": "neel-sagar-express-derails-disrupting-dhaka-north-rail-links",
-  "source": "Prothom Alo, Dhaka Tribune, Jamuna TV, The Daily Star",
-  "status": "failed",
-  "at": "2026-10-29T07:10:34Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "d02a401e0accd5e0",
   "url": "https://www.jamuna.tv/all-bangladesh/667026",
   "headline": "Neelsagar Express derails in Tangail, cutting rail links to north",
@@ -8398,5 +8342,41 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "56dba62daab04859",
+  "url": "https://bdnews24.com/education/gmkepau7uz",
+  "headline": "HSC pass rate drops to 2-decade low at 52.12%, exposing learning gaps",
+  "topic": "bangladesh exam pass rates hit record low",
+  "source": "bdnews24.com, The Daily Star",
+  "status": "queued",
+  "at": "2026-11-01T01:07:08Z"
+ },
+ {
+  "title_hash": "285a38b2cf16199b",
+  "url": "https://www.thedailystar.net/news/bangladesh/education/news/alim-technical-pass-rates-hit-2-decade-lows-4312446",
+  "headline": "HSC pass rate drops to 2-decade low at 52.12%, exposing learning gaps",
+  "topic": "bangladesh exam pass rates hit record low",
+  "source": "bdnews24.com, The Daily Star",
+  "status": "queued",
+  "at": "2026-11-01T01:07:08Z"
+ },
+ {
+  "title_hash": "ca5c7282f3e14ba5",
+  "url": "https://www.thedailystar.net/news/education/news/only-half-the-students-pass-4312376",
+  "headline": "HSC pass rate drops to 2-decade low at 52.12%, exposing learning gaps",
+  "topic": "bangladesh exam pass rates hit record low",
+  "source": "bdnews24.com, The Daily Star",
+  "status": "queued",
+  "at": "2026-11-01T01:07:08Z"
+ },
+ {
+  "title_hash": "04198c91cbb39d8c",
+  "url": "https://www.thedailystar.net/health/news/the-hidden-price-being-poor-and-sick-bangladesh-4312336",
+  "headline": "79% of healthcare costs paid out-of-pocket in Bangladesh, WHO report reveals stark inequality",
+  "topic": "cost of healthcare for poor in bangladesh",
+  "source": "The Daily Star",
+  "status": "queued",
+  "at": "2026-11-01T01:07:08Z"
  }
 ]
