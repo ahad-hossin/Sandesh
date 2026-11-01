@@ -8377,8 +8377,13 @@
   "headline": "Pacific Jeans to shut oldest CEPZ unit due to safety risks",
   "topic": "pacific jeans cepz shutdown",
   "source": "The Daily Star",
-  "status": "queued",
-  "at": "2026-11-01T23:14:12Z"
+  "status": "failed",
+  "at": "2026-11-01T23:14:12Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "202f8b83baba42c2",
@@ -8386,7 +8391,12 @@
   "headline": "S&P Global revises Meta’s outlook to ‘negative’",
   "topic": "meta sp global negative outlook",
   "source": "The Daily Star",
-  "status": "queued",
-  "at": "2026-11-01T23:14:12Z"
+  "status": "failed",
+  "at": "2026-11-01T23:14:12Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
