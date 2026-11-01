@@ -1,33 +1,5 @@
 [
  {
-  "title_hash": "73235a7b251408e1",
-  "url": "https://www.jamuna.tv/national/667032",
-  "headline": "Death penalty for Mahbub ul Alam Hanif in crimes against humanity case",
-  "topic": "hanif-sentenced-to-death-for-crimes-against-humanity",
-  "source": "Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-29T07:10:34Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "eb76aea1a8f7b209",
-  "url": "https://www.prothomalo.com/bangladesh/jockkxb1no",
-  "headline": "Death penalty for Mahbub ul Alam Hanif in crimes against humanity case",
-  "topic": "hanif-sentenced-to-death-for-crimes-against-humanity",
-  "source": "Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-29T07:10:34Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "2225d3b39403eb9b",
   "url": "https://www.dhakatribune.com/bangladesh/court/423186/hanif-sentenced-to-death-for-crimes-against",
   "headline": "AL leader Hanif sentenced to death for crimes against humanity in Kushtia",
@@ -8398,5 +8370,23 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "c2a7a04a1ecaa895",
+  "url": "https://www.prothomalo.com/chakri/employment/303mtcae29",
+  "headline": "90 jobs available at Ashuganj Power Station: Online applications open November 2",
+  "topic": "Ashuganj Power Station job circular",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-11-01T03:06:35Z"
+ },
+ {
+  "title_hash": "9884f6238a6454ff",
+  "url": "https://www.prothomalo.com/education/examination/y99l7agvop",
+  "headline": "HSC result re-evaluation applications begin today, Nov 1; apply online by Nov 7",
+  "topic": "HSC result re-evaluation application",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-11-01T03:06:35Z"
  }
 ]
