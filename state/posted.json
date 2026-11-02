@@ -8363,8 +8363,13 @@
   "headline": "14,000 new recruits: Police to hire 6,000 constables and 4,000 SIs",
   "topic": "police recruitment 10000 posts",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-11-02T04:18:57Z"
+  "status": "failed",
+  "at": "2026-11-02T04:18:57Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "2bcd61e9b4466626",
@@ -8372,8 +8377,13 @@
   "headline": "Messi magic seals Miami’s comeback win with goal and assist",
   "topic": "messi inter miami win",
   "source": "Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-11-02T04:18:57Z"
+  "status": "failed",
+  "at": "2026-11-02T04:18:57Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "4a55b35aded25237",
@@ -8381,7 +8391,12 @@
   "headline": "Messi magic seals Miami’s comeback win with goal and assist",
   "topic": "messi inter miami win",
   "source": "Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-11-02T04:18:57Z"
+  "status": "failed",
+  "at": "2026-11-02T04:18:57Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
