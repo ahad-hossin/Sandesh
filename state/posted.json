@@ -8363,8 +8363,13 @@
   "headline": "Writing with feet, Rafiqul scores GPA-5 again in HSC exams",
   "topic": "student rafiqul gpa 5 with feet",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-11-02T19:21:00Z"
+  "status": "failed",
+  "at": "2026-11-02T19:21:00Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "97866a1b3b6f468f",
@@ -8372,8 +8377,13 @@
   "headline": "Writing with feet, Rafiqul scores GPA-5 again in HSC exams",
   "topic": "student rafiqul gpa 5 with feet",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-11-02T19:21:00Z"
+  "status": "failed",
+  "at": "2026-11-02T19:21:00Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "2289a3aca54b6007",
@@ -8381,7 +8391,12 @@
   "headline": "Tk 1,121 crore embezzled: ACC approves 3 cases against Salman F Rahman",
   "topic": "salman f rahman embezzlement case",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-11-02T19:21:00Z"
+  "status": "failed",
+  "at": "2026-11-02T19:21:00Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
