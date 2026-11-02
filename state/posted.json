@@ -1,75 +1,5 @@
 [
  {
-  "title_hash": "5a8c5bcd83f20b49",
-  "url": "https://www.dhakatribune.com/bangladesh/423233/who-is-deep-the-friend-who-last-met-tahsif-before",
-  "headline": "Ex-BAF officer's body recovered from Turag river",
-  "topic": "tahsif souri death investigation",
-  "source": "The Daily Star, Dhaka Tribune, bdnews24.com, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-29T16:09:29Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "2eedb71ad30eb457",
-  "url": "https://www.thedailystar.net/news/news/what-the-inquest-report-says-about-tahsif-souris-body-4310531",
-  "headline": "Ex-BAF officer's body recovered from Turag river",
-  "topic": "tahsif souri death investigation",
-  "source": "The Daily Star, Dhaka Tribune, bdnews24.com, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-29T16:09:29Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "ae0e5bede65fa265",
-  "url": "https://www.dhakatribune.com/bangladesh/423200/home-minister-cause-of-ex-baf-officer%E2%80%99s-death-to",
-  "headline": "Ex-BAF officer's body recovered from Turag river",
-  "topic": "tahsif souri death investigation",
-  "source": "The Daily Star, Dhaka Tribune, bdnews24.com, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-29T16:09:29Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "a3122f0330f12926",
-  "url": "https://www.thedailystar.net/news/crime-justice/news/ex-air-force-officers-body-recovered-turag-river-4310396",
-  "headline": "Ex-BAF officer's body recovered from Turag river",
-  "topic": "tahsif souri death investigation",
-  "source": "The Daily Star, Dhaka Tribune, bdnews24.com, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-29T16:09:29Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "8826b7a1e7318aaa",
-  "url": "https://bdnews24.com/bangladesh/m9f58oa4g4",
-  "headline": "Ex-BAF officer's body recovered from Turag river",
-  "topic": "tahsif souri death investigation",
-  "source": "The Daily Star, Dhaka Tribune, bdnews24.com, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-29T16:09:29Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "9a16cafd084480bd",
   "url": "https://www.prothomalo.com/bangladesh/crime/saabek-bimaan-krmkrtaar-mrtyu-baabaar-daabi-khun",
   "headline": "Ex-BAF officer's body recovered from Turag river",
@@ -8398,5 +8328,50 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "9a0f2f55a7418b5b",
+  "url": "https://www.dhakatribune.com/bangladesh/health/423537/six-die-of-dengue-1-970-hospitalised-in-24hrs",
+  "headline": "Dengue claims 8 lives in 24 hours as 1,929 new patients admitted",
+  "topic": "dengue death toll update",
+  "source": "Dhaka Tribune, bdnews24.com, Jamuna TV",
+  "status": "queued",
+  "at": "2026-11-02T13:15:08Z"
+ },
+ {
+  "title_hash": "e1b32163fd18a261",
+  "url": "https://bdnews24.com/health/j0r40mveeq",
+  "headline": "Dengue claims 8 lives in 24 hours as 1,929 new patients admitted",
+  "topic": "dengue death toll update",
+  "source": "Dhaka Tribune, bdnews24.com, Jamuna TV",
+  "status": "queued",
+  "at": "2026-11-02T13:15:08Z"
+ },
+ {
+  "title_hash": "e41108832602552d",
+  "url": "https://www.jamuna.tv/national/667281",
+  "headline": "Dengue claims 8 lives in 24 hours as 1,929 new patients admitted",
+  "topic": "dengue death toll update",
+  "source": "Dhaka Tribune, bdnews24.com, Jamuna TV",
+  "status": "queued",
+  "at": "2026-11-02T13:15:08Z"
+ },
+ {
+  "title_hash": "329f2448a16d201d",
+  "url": "https://www.jamuna.tv/national/667278",
+  "headline": "Dengue claims 8 lives in 24 hours as 1,929 new patients admitted",
+  "topic": "dengue death toll update",
+  "source": "Dhaka Tribune, bdnews24.com, Jamuna TV",
+  "status": "queued",
+  "at": "2026-11-02T13:15:08Z"
+ },
+ {
+  "title_hash": "f70c3478c8e64511",
+  "url": "https://bdnews24.com/bangladesh/a09o8has0y",
+  "headline": "Cyclone Murasu: Severe cyclonic storm to cross India's coast tonight",
+  "topic": "cyclone murasu coast crossing",
+  "source": "bdnews24.com",
+  "status": "queued",
+  "at": "2026-11-02T13:15:08Z"
  }
 ]
