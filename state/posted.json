@@ -8363,8 +8363,13 @@
   "headline": "LPG price jumps Tk 223 in a month; official retail price exceeds Tk 2,000",
   "topic": "lpg price hike",
   "source": "The Daily Star, bdnews24.com",
-  "status": "queued",
-  "at": "2026-11-02T22:19:50Z"
+  "status": "failed",
+  "at": "2026-11-02T22:19:50Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "ff5a346fe85f1ffa",
@@ -8372,8 +8377,13 @@
   "headline": "LPG price jumps Tk 223 in a month; official retail price exceeds Tk 2,000",
   "topic": "lpg price hike",
   "source": "The Daily Star, bdnews24.com",
-  "status": "queued",
-  "at": "2026-11-02T22:19:50Z"
+  "status": "failed",
+  "at": "2026-11-02T22:19:50Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "1f9e9f41789375cf",
@@ -8381,7 +8391,12 @@
   "headline": "Shakib, Litton in Diamond tier as Tigers flock to APL draft",
   "topic": "apl draft shakib litton",
   "source": "The Daily Star",
-  "status": "queued",
-  "at": "2026-11-02T22:19:50Z"
+  "status": "failed",
+  "at": "2026-11-02T22:19:50Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
