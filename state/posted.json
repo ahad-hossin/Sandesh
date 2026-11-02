@@ -1,47 +1,5 @@
 [
  {
-  "title_hash": "b100ae9657250f31",
-  "url": "https://bdnews24.com/entertainment/qi5du36zhh",
-  "headline": "Legendary actor Sir Patrick Stewart dies at 86",
-  "topic": "patrick stewart dies",
-  "source": "bdnews24.com, The Daily Star",
-  "status": "failed",
-  "at": "2026-10-29T21:10:14Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "345b31f8a1f81caa",
-  "url": "https://www.thedailystar.net/culture/tv-film/news/sir-patrick-stewart-dies-86-4311041",
-  "headline": "Legendary actor Sir Patrick Stewart dies at 86",
-  "topic": "patrick stewart dies",
-  "source": "bdnews24.com, The Daily Star",
-  "status": "failed",
-  "at": "2026-10-29T21:10:14Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "2d73fb3703abf0a4",
-  "url": "https://www.dhakatribune.com/bangladesh/423256/the-controversy-behind-the-attention-on-tahsif",
-  "headline": "Mystery surrounds death of former Air Force officer Tahsif Souri",
-  "topic": "tahsif souri death mystery",
-  "source": "Dhaka Tribune, Prothom Alo, Jamuna TV, bdnews24.com",
-  "status": "failed",
-  "at": "2026-10-29T21:10:14Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "5e49c15f4837269e",
   "url": "https://www.dhakatribune.com/bangladesh/423170/body-of-former-flight-lieutenant-tahsif-souri",
   "headline": "Mystery surrounds death of former Air Force officer Tahsif Souri",
@@ -8398,5 +8356,32 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "4bf1e9eeb8b6a4f4",
+  "url": "https://www.thedailystar.net/news/bangladesh/news/consumers-squeezed-again-berc-caves-4314141",
+  "headline": "LPG price jumps Tk 223 in a month; official retail price exceeds Tk 2,000",
+  "topic": "lpg price hike",
+  "source": "The Daily Star, bdnews24.com",
+  "status": "queued",
+  "at": "2026-11-02T22:19:50Z"
+ },
+ {
+  "title_hash": "ff5a346fe85f1ffa",
+  "url": "https://bdnews24.com/business/bjqwwog5k6",
+  "headline": "LPG price jumps Tk 223 in a month; official retail price exceeds Tk 2,000",
+  "topic": "lpg price hike",
+  "source": "The Daily Star, bdnews24.com",
+  "status": "queued",
+  "at": "2026-11-02T22:19:50Z"
+ },
+ {
+  "title_hash": "1f9e9f41789375cf",
+  "url": "https://www.thedailystar.net/sports/cricket/news/shakib-litton-diamond-category-tigers-flock-apl-draft-4314116",
+  "headline": "Shakib, Litton in Diamond tier as Tigers flock to APL draft",
+  "topic": "apl draft shakib litton",
+  "source": "The Daily Star",
+  "status": "queued",
+  "at": "2026-11-02T22:19:50Z"
  }
 ]
