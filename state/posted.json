@@ -8363,8 +8363,13 @@
   "headline": "Crude bomb explodes beneath Agargaon metro station",
   "topic": "agargaon metro station blast",
   "source": "Dhaka Tribune, Prothom Alo",
-  "status": "queued",
-  "at": "2026-11-02T20:15:52Z"
+  "status": "failed",
+  "at": "2026-11-02T20:15:52Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "e5b1d070fa7d941c",
@@ -8372,8 +8377,13 @@
   "headline": "Crude bomb explodes beneath Agargaon metro station",
   "topic": "agargaon metro station blast",
   "source": "Dhaka Tribune, Prothom Alo",
-  "status": "queued",
-  "at": "2026-11-02T20:15:52Z"
+  "status": "failed",
+  "at": "2026-11-02T20:15:52Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "19ac405598e87cd4",
@@ -8381,7 +8391,12 @@
   "headline": "800,000 seats: University seats may remain vacant after low HSC pass rate",
   "topic": "university seats vacant",
   "source": "bdnews24.com",
-  "status": "queued",
-  "at": "2026-11-02T20:15:52Z"
+  "status": "failed",
+  "at": "2026-11-02T20:15:52Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
