@@ -8363,8 +8363,13 @@
   "headline": "Filipino woman dies after severe burns in Banani kitchen fire",
   "topic": "filipino woman dies banani fire",
   "source": "bdnews24.com, The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-11-02T07:22:20Z"
+  "status": "failed",
+  "at": "2026-11-02T07:22:20Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "0f24a7716eabee07",
@@ -8372,8 +8377,13 @@
   "headline": "Filipino woman dies after severe burns in Banani kitchen fire",
   "topic": "filipino woman dies banani fire",
   "source": "bdnews24.com, The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-11-02T07:22:20Z"
+  "status": "failed",
+  "at": "2026-11-02T07:22:20Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "757b4644349c5727",
@@ -8381,7 +8391,12 @@
   "headline": "Filipino woman dies after severe burns in Banani kitchen fire",
   "topic": "filipino woman dies banani fire",
   "source": "bdnews24.com, The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-11-02T07:22:20Z"
+  "status": "failed",
+  "at": "2026-11-02T07:22:20Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
