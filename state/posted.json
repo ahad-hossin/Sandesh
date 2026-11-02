@@ -1,47 +1,5 @@
 [
  {
-  "title_hash": "bc08cc7e016b3c9a",
-  "url": "https://www.prothomalo.com/bangladesh/3txldn8zew",
-  "headline": "Sylhet court sentences ex-SI Akbar to death for custodial torture of Raihan Ahmed",
-  "topic": "sylhet SI akbar sentenced death raihan custody murder",
-  "source": "Dhaka Tribune, bdnews24.com, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-29T12:11:10Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "eb76aea1a8f7b209",
-  "url": "https://www.prothomalo.com/video/bangladesh/9h1zacm6ab",
-  "headline": "Sylhet court sentences ex-SI Akbar to death for custodial torture of Raihan Ahmed",
-  "topic": "sylhet SI akbar sentenced death raihan custody murder",
-  "source": "Dhaka Tribune, bdnews24.com, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-29T12:11:10Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "36b4f1eff8780ed9",
-  "url": "https://www.thedailystar.net/business/news/un-decide-bangladeshs-ldc-graduation-deferment-tonight-4310541",
-  "headline": "UN to decide on Bangladesh’s LDC graduation deferment tonight",
-  "topic": "bangladesh ldc graduation deferment decision",
-  "source": "The Daily Star, Jamuna TV",
-  "status": "failed",
-  "at": "2026-10-29T12:11:10Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "ca93263963250847",
   "url": "https://www.jamuna.tv/national/667057",
   "headline": "UN to decide on Bangladesh’s LDC graduation deferment tonight",
@@ -8398,5 +8356,32 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "a4b4e906e3507806",
+  "url": "https://www.prothomalo.com/chakri/employment/a3jw60wvrj",
+  "headline": "14,000 new recruits: Police to hire 6,000 constables and 4,000 SIs",
+  "topic": "police recruitment 10000 posts",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-11-02T04:18:57Z"
+ },
+ {
+  "title_hash": "2bcd61e9b4466626",
+  "url": "https://www.thedailystar.net/sports/football/news/one-goal-one-assist-messi-magic-seals-miamis-comeback-win-4313411",
+  "headline": "Messi magic seals Miami’s comeback win with goal and assist",
+  "topic": "messi inter miami win",
+  "source": "Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-11-02T04:18:57Z"
+ },
+ {
+  "title_hash": "4a55b35aded25237",
+  "url": "https://www.prothomalo.com/sports/football/ufpx6rxqox",
+  "headline": "Messi magic seals Miami’s comeback win with goal and assist",
+  "topic": "messi inter miami win",
+  "source": "Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-11-02T04:18:57Z"
  }
 ]
