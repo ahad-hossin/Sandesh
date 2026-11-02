@@ -8335,8 +8335,13 @@
   "headline": "Dengue claims 8 lives in 24 hours as 1,929 new patients admitted",
   "topic": "dengue death toll update",
   "source": "Dhaka Tribune, bdnews24.com, Jamuna TV",
-  "status": "queued",
-  "at": "2026-11-02T13:15:08Z"
+  "status": "failed",
+  "at": "2026-11-02T13:15:08Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "e1b32163fd18a261",
@@ -8344,8 +8349,13 @@
   "headline": "Dengue claims 8 lives in 24 hours as 1,929 new patients admitted",
   "topic": "dengue death toll update",
   "source": "Dhaka Tribune, bdnews24.com, Jamuna TV",
-  "status": "queued",
-  "at": "2026-11-02T13:15:08Z"
+  "status": "failed",
+  "at": "2026-11-02T13:15:08Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "e41108832602552d",
@@ -8353,8 +8363,13 @@
   "headline": "Dengue claims 8 lives in 24 hours as 1,929 new patients admitted",
   "topic": "dengue death toll update",
   "source": "Dhaka Tribune, bdnews24.com, Jamuna TV",
-  "status": "queued",
-  "at": "2026-11-02T13:15:08Z"
+  "status": "failed",
+  "at": "2026-11-02T13:15:08Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "329f2448a16d201d",
@@ -8362,8 +8377,13 @@
   "headline": "Dengue claims 8 lives in 24 hours as 1,929 new patients admitted",
   "topic": "dengue death toll update",
   "source": "Dhaka Tribune, bdnews24.com, Jamuna TV",
-  "status": "queued",
-  "at": "2026-11-02T13:15:08Z"
+  "status": "failed",
+  "at": "2026-11-02T13:15:08Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "f70c3478c8e64511",
@@ -8371,7 +8391,12 @@
   "headline": "Cyclone Murasu: Severe cyclonic storm to cross India's coast tonight",
   "topic": "cyclone murasu coast crossing",
   "source": "bdnews24.com",
-  "status": "queued",
-  "at": "2026-11-02T13:15:08Z"
+  "status": "failed",
+  "at": "2026-11-02T13:15:08Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
