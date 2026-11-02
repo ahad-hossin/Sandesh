@@ -1,47 +1,5 @@
 [
  {
-  "title_hash": "ca93263963250847",
-  "url": "https://www.jamuna.tv/national/667057",
-  "headline": "UN to decide on Bangladesh’s LDC graduation deferment tonight",
-  "topic": "bangladesh ldc graduation deferment decision",
-  "source": "The Daily Star, Jamuna TV",
-  "status": "failed",
-  "at": "2026-10-29T12:11:10Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "66f027a5fc9ec07f",
-  "url": "https://www.dhakatribune.com/bangladesh/power-energy/423218/gas-emerges-from-submersible-pump-in-gopalganj",
-  "headline": "Gas emerges from submersible pump in Gopalganj, ignites into flames",
-  "topic": "gopalganj pump gas fire",
-  "source": "Jamuna TV, Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-10-29T13:09:54Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "4a4c9ceaf763f7c1",
-  "url": "https://www.jamuna.tv/all-bangladesh/667061",
-  "headline": "Gas emerges from submersible pump in Gopalganj, ignites into flames",
-  "topic": "gopalganj pump gas fire",
-  "source": "Jamuna TV, Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-10-29T13:09:54Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "cfa4662260e8bbf2",
   "url": "https://www.dhakatribune.com/bangladesh/court/423213/raihan%E2%80%99s-death-in-custody-suspended-sylhet-si",
   "headline": "111 injury marks: Ex-SI Akbar sentenced to death for custodial murder",
@@ -8398,5 +8356,32 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "c4539328975c7dcb",
+  "url": "https://bdnews24.com/bangladesh/re9spkspf4",
+  "headline": "Filipino woman dies after severe burns in Banani kitchen fire",
+  "topic": "filipino woman dies banani fire",
+  "source": "bdnews24.com, The Daily Star, Prothom Alo",
+  "status": "queued",
+  "at": "2026-11-02T07:22:20Z"
+ },
+ {
+  "title_hash": "0f24a7716eabee07",
+  "url": "https://www.thedailystar.net/news/accidents-and-fires/news/filipino-woman-dies-after-suffering-burns-while-lighting-gas-stove-4313406",
+  "headline": "Filipino woman dies after severe burns in Banani kitchen fire",
+  "topic": "filipino woman dies banani fire",
+  "source": "bdnews24.com, The Daily Star, Prothom Alo",
+  "status": "queued",
+  "at": "2026-11-02T07:22:20Z"
+ },
+ {
+  "title_hash": "757b4644349c5727",
+  "url": "https://www.prothomalo.com/bangladesh/capital/9mbmzuwhh7",
+  "headline": "Filipino woman dies after severe burns in Banani kitchen fire",
+  "topic": "filipino woman dies banani fire",
+  "source": "bdnews24.com, The Daily Star, Prothom Alo",
+  "status": "queued",
+  "at": "2026-11-02T07:22:20Z"
  }
 ]
