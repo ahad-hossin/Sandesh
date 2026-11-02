@@ -1,33 +1,5 @@
 [
  {
-  "title_hash": "5e49c15f4837269e",
-  "url": "https://www.dhakatribune.com/bangladesh/423170/body-of-former-flight-lieutenant-tahsif-souri",
-  "headline": "Mystery surrounds death of former Air Force officer Tahsif Souri",
-  "topic": "tahsif souri death mystery",
-  "source": "Dhaka Tribune, Prothom Alo, Jamuna TV, bdnews24.com",
-  "status": "failed",
-  "at": "2026-10-29T21:10:14Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "024b3e884977f365",
-  "url": "https://www.prothomalo.com/bangladesh/crime/sg4j6ql26q",
-  "headline": "Mystery surrounds death of former Air Force officer Tahsif Souri",
-  "topic": "tahsif souri death mystery",
-  "source": "Dhaka Tribune, Prothom Alo, Jamuna TV, bdnews24.com",
-  "status": "failed",
-  "at": "2026-10-29T21:10:14Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "6acbd0695e8b7739",
   "url": "https://www.prothomalo.com/video/bangladesh/jz4ouw97nc",
   "headline": "Mystery surrounds death of former Air Force officer Tahsif Souri",
@@ -8398,5 +8370,23 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "ac06c544b0728f9c",
+  "url": "https://www.thedailystar.net/news/bangladesh/news/ict-prosecution-submits-charge-against-7-al-leaders-4314016",
+  "headline": "ICT prosecution submits charge against 7 AL leaders over July uprising",
+  "topic": "ict prosecution charge 7 al leaders",
+  "source": "The Daily Star",
+  "status": "queued",
+  "at": "2026-11-02T23:08:42Z"
+ },
+ {
+  "title_hash": "1d0a9324d8505c2b",
+  "url": "https://www.thedailystar.net/news/bangladesh/news/shakil-murder-lawmakers-son-two-day-fresh-remand-4314026",
+  "headline": "Lawmaker's son placed on fresh two-day remand for Shakil murder",
+  "topic": "shakil murder lawmaker son remand",
+  "source": "The Daily Star",
+  "status": "queued",
+  "at": "2026-11-02T23:08:42Z"
  }
 ]
