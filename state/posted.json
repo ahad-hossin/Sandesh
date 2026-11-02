@@ -1,33 +1,5 @@
 [
  {
-  "title_hash": "cfa4662260e8bbf2",
-  "url": "https://www.dhakatribune.com/bangladesh/court/423213/raihan%E2%80%99s-death-in-custody-suspended-sylhet-si",
-  "headline": "Sylhet court sentences ex-SI Akbar to death for custodial torture of Raihan Ahmed",
-  "topic": "sylhet SI akbar sentenced death raihan custody murder",
-  "source": "Dhaka Tribune, bdnews24.com, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-29T12:11:10Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "279e727b8780732a",
-  "url": "https://bdnews24.com/bangladesh/7kf1b1x36a",
-  "headline": "Sylhet court sentences ex-SI Akbar to death for custodial torture of Raihan Ahmed",
-  "topic": "sylhet SI akbar sentenced death raihan custody murder",
-  "source": "Dhaka Tribune, bdnews24.com, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-29T12:11:10Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "bc08cc7e016b3c9a",
   "url": "https://www.prothomalo.com/bangladesh/3txldn8zew",
   "headline": "Sylhet court sentences ex-SI Akbar to death for custodial torture of Raihan Ahmed",
@@ -8398,5 +8370,23 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "cf63af6ecb78038f",
+  "url": "https://www.prothomalo.com/world/usa/fezsfjkztz",
+  "headline": "9 killed as small plane crashes near Trump's Florida resort",
+  "topic": "us florida plane crash",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-11-02T02:19:58Z"
+ },
+ {
+  "title_hash": "0570c50b14988226",
+  "url": "https://www.prothomalo.com/bangladesh/iapdvog88i",
+  "headline": "Teacher needs 50 lakh BDT for liver transplant in India",
+  "topic": "teacher needs liver cirrhosis aid",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-11-02T02:19:58Z"
  }
 ]
