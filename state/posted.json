@@ -1,47 +1,5 @@
 [
  {
-  "title_hash": "ef493b00eb2cee2c",
-  "url": "https://www.jamuna.tv/all-bangladesh/667069",
-  "headline": "BNP's Mirza Faisal wins Thakurgaon-1 by-election by 131,336 votes",
-  "topic": "bnp wins thakurgaon-1 by-election",
-  "source": "Jamuna TV, bdnews24.com, Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-10-29T18:08:44Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "37fe578b569709dc",
-  "url": "https://www.dhakatribune.com/bangladesh/election/423250/bnp%E2%80%99s-faisal-amin-sweeps-thakurgaon-1-defeats",
-  "headline": "BNP's Mirza Faisal wins Thakurgaon-1 by-election by 131,336 votes",
-  "topic": "bnp wins thakurgaon-1 by-election",
-  "source": "Jamuna TV, bdnews24.com, Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-10-29T18:08:44Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "75d06b6be8b31d06",
-  "url": "https://www.dhakatribune.com/bangladesh/election/423223/ec-secretary-ec-satisfied-with-peaceful",
-  "headline": "BNP's Mirza Faisal wins Thakurgaon-1 by-election by 131,336 votes",
-  "topic": "bnp wins thakurgaon-1 by-election",
-  "source": "Jamuna TV, bdnews24.com, Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-10-29T18:08:44Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "afbd5d942a7dc86e",
   "url": "https://bdnews24.com/bangladesh/jvggaqos0y",
   "headline": "BNP's Mirza Faisal wins Thakurgaon-1 by-election by 131,336 votes",
@@ -8398,5 +8356,32 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "97866a1b3b6f468f",
+  "url": "https://www.prothomalo.com/video/bangladesh/llccrz82fc",
+  "headline": "Writing with feet, Rafiqul scores GPA-5 again in HSC exams",
+  "topic": "student rafiqul gpa 5 with feet",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-11-02T19:21:00Z"
+ },
+ {
+  "title_hash": "97866a1b3b6f468f",
+  "url": "https://www.prothomalo.com/video/bangladesh/78f5y1133z",
+  "headline": "Writing with feet, Rafiqul scores GPA-5 again in HSC exams",
+  "topic": "student rafiqul gpa 5 with feet",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-11-02T19:21:00Z"
+ },
+ {
+  "title_hash": "2289a3aca54b6007",
+  "url": "https://www.prothomalo.com/bangladesh/crime/2qicj662cd",
+  "headline": "Tk 1,121 crore embezzled: ACC approves 3 cases against Salman F Rahman",
+  "topic": "salman f rahman embezzlement case",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-11-02T19:21:00Z"
  }
 ]
