@@ -1,33 +1,5 @@
 [
  {
-  "title_hash": "4bd38486a4c790cd",
-  "url": "https://bdnews24.com/bangladesh/ilbgn7mct0",
-  "headline": "Ex-Air Force officer's body recovered from Turag river",
-  "topic": "ex-air force officer found dead",
-  "source": "Prothom Alo, bdnews24.com, The Daily Star, Jamuna TV",
-  "status": "failed",
-  "at": "2026-10-29T11:08:07Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "b15b5d1e68d6a98b",
-  "url": "https://www.jamuna.tv/national/667023",
-  "headline": "Ex-Air Force officer's body recovered from Turag river",
-  "topic": "ex-air force officer found dead",
-  "source": "Prothom Alo, bdnews24.com, The Daily Star, Jamuna TV",
-  "status": "failed",
-  "at": "2026-10-29T11:08:07Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "32d6e3978216af42",
   "url": "https://www.jamuna.tv/national/667039",
   "headline": "Ex-Air Force officer's body recovered from Turag river",
@@ -8398,5 +8370,23 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "aaaee9b1d605dec4",
+  "url": "https://www.prothomalo.com/world/middle-east/hcoqg0jq6n",
+  "headline": "Two oil tankers exploded in Strait of Hormuz after hitting mines, Iran claims",
+  "topic": "Strait of Hormuz oil tanker explosions",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-11-02T00:06:48Z"
+ },
+ {
+  "title_hash": "e015ec15aee060e9",
+  "url": "https://www.prothomalo.com/world/europe/u6v7755yr4",
+  "headline": "Russia arrests teenager planning Moscow park attack after US warning",
+  "topic": "Russia arrests teen for Moscow attack plot",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-11-02T00:06:48Z"
  }
 ]
