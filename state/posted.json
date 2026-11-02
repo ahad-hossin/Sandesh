@@ -1,47 +1,5 @@
 [
  {
-  "title_hash": "afbd5d942a7dc86e",
-  "url": "https://bdnews24.com/bangladesh/jvggaqos0y",
-  "headline": "BNP's Mirza Faisal wins Thakurgaon-1 by-election by 131,336 votes",
-  "topic": "bnp wins thakurgaon-1 by-election",
-  "source": "Jamuna TV, bdnews24.com, Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-10-29T18:08:44Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "f2d8ab2b5d5f1aa0",
-  "url": "https://www.dhakatribune.com/bangladesh/nation/423208/thakurgaon-1-by-election-ends-vote-counting",
-  "headline": "BNP's Mirza Faisal wins Thakurgaon-1 by-election by 131,336 votes",
-  "topic": "bnp wins thakurgaon-1 by-election",
-  "source": "Jamuna TV, bdnews24.com, Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-10-29T18:08:44Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "69364c973d95b086",
-  "url": "https://www.dhakatribune.com/bangladesh/election/423207/rizvi-thakurgaon-1-by-election-held-peacefully",
-  "headline": "BNP's Mirza Faisal wins Thakurgaon-1 by-election by 131,336 votes",
-  "topic": "bnp wins thakurgaon-1 by-election",
-  "source": "Jamuna TV, bdnews24.com, Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-10-29T18:08:44Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "b100ae9657250f31",
   "url": "https://bdnews24.com/entertainment/qi5du36zhh",
   "headline": "Legendary actor Sir Patrick Stewart dies at 86",
@@ -8398,5 +8356,32 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "db0332fd08b53d3c",
+  "url": "https://www.dhakatribune.com/bangladesh/dhaka/423577/crude-bomb-explodes-beneath-agargaon-metro-station",
+  "headline": "Crude bomb explodes beneath Agargaon metro station",
+  "topic": "agargaon metro station blast",
+  "source": "Dhaka Tribune, Prothom Alo",
+  "status": "queued",
+  "at": "2026-11-02T20:15:52Z"
+ },
+ {
+  "title_hash": "e5b1d070fa7d941c",
+  "url": "https://www.prothomalo.com/bangladesh/capital/11o4k7iqe7",
+  "headline": "Crude bomb explodes beneath Agargaon metro station",
+  "topic": "agargaon metro station blast",
+  "source": "Dhaka Tribune, Prothom Alo",
+  "status": "queued",
+  "at": "2026-11-02T20:15:52Z"
+ },
+ {
+  "title_hash": "19ac405598e87cd4",
+  "url": "https://bdnews24.com/bangladesh/v3xxcxoq9j",
+  "headline": "800,000 seats: University seats may remain vacant after low HSC pass rate",
+  "topic": "university seats vacant",
+  "source": "bdnews24.com",
+  "status": "queued",
+  "at": "2026-11-02T20:15:52Z"
  }
 ]
