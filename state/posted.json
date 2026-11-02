@@ -1,47 +1,5 @@
 [
  {
-  "title_hash": "9a16cafd084480bd",
-  "url": "https://www.prothomalo.com/bangladesh/crime/saabek-bimaan-krmkrtaar-mrtyu-baabaar-daabi-khun",
-  "headline": "Ex-BAF officer's body recovered from Turag river",
-  "topic": "tahsif souri death investigation",
-  "source": "The Daily Star, Dhaka Tribune, bdnews24.com, Jamuna TV, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-29T16:09:29Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "b48af46f8577de05",
-  "url": "https://www.thedailystar.net/news/crime-justice/news/death-sentence-suspended-si-akbar-rayhan-murder-case-5-convicts-absconding-4310771",
-  "headline": "Suspended SI Akbar sentenced to death for Rayhan murder in Sylhet",
-  "topic": "ex-si akbar sentenced to death in rayhan murder case",
-  "source": "The Daily Star",
-  "status": "failed",
-  "at": "2026-10-29T17:09:30Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "228fb213fb425a79",
-  "url": "https://www.dhakatribune.com/bangladesh/nation/423241/two-shot-dead-in-pabna",
-  "headline": "Violence in Pabna: Two shot dead",
-  "topic": "two shot dead in pabna",
-  "source": "Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-10-29T17:09:30Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "2d73fb3703abf0a4",
   "url": "https://www.dhakatribune.com/bangladesh/423256/the-controversy-behind-the-attention-on-tahsif",
   "headline": "Father claims Tahsif Souri's death was not suicide",
@@ -8398,5 +8356,32 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "1c9201c5edc83563",
+  "url": "https://www.prothomalo.com/bangladesh/4qz8x2uwjm",
+  "headline": "22 days of total leave: Cabinet approves next year's holiday list",
+  "topic": "2026-holiday-list",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-11-02T14:19:59Z"
+ },
+ {
+  "title_hash": "4d89eae9e1533d69",
+  "url": "https://www.thedailystar.net/news/news/bus-services-10-barishal-routes-suspended-over-three-wheeler-dispute-4313611",
+  "headline": "10 Barishal routes hit as bus services suspended over three-wheeler dispute",
+  "topic": "barishal-bus-strike",
+  "source": "The Daily Star, Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-11-02T14:19:59Z"
+ },
+ {
+  "title_hash": "60f90d54e6b4fe05",
+  "url": "https://www.dhakatribune.com/bangladesh/nation/423519/bus-strike-disrupts-services-on-six-routes-in",
+  "headline": "10 Barishal routes hit as bus services suspended over three-wheeler dispute",
+  "topic": "barishal-bus-strike",
+  "source": "The Daily Star, Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-11-02T14:19:59Z"
  }
 ]
