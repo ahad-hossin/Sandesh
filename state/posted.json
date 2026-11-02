@@ -8377,8 +8377,13 @@
   "headline": "9 dead as small plane crashes near Trump's Florida resort, creating large crater",
   "topic": "florida plane crash near trump resort",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-11-02T01:10:15Z"
+  "status": "failed",
+  "at": "2026-11-02T01:10:15Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "e015ec15aee060e9",
@@ -8386,7 +8391,12 @@
   "headline": "Russia detains teenager planning Moscow park attack after US warning",
   "topic": "russia arrests teen after us warning terror plot",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-11-02T01:10:15Z"
+  "status": "failed",
+  "at": "2026-11-02T01:10:15Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
