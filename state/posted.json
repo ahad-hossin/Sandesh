@@ -8363,8 +8363,13 @@
   "headline": "22 days of total leave: Cabinet approves next year's holiday list",
   "topic": "2026-holiday-list",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-11-02T14:19:59Z"
+  "status": "failed",
+  "at": "2026-11-02T14:19:59Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "4d89eae9e1533d69",
@@ -8372,8 +8377,13 @@
   "headline": "10 Barishal routes hit as bus services suspended over three-wheeler dispute",
   "topic": "barishal-bus-strike",
   "source": "The Daily Star, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-11-02T14:19:59Z"
+  "status": "failed",
+  "at": "2026-11-02T14:19:59Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "60f90d54e6b4fe05",
@@ -8381,7 +8391,12 @@
   "headline": "10 Barishal routes hit as bus services suspended over three-wheeler dispute",
   "topic": "barishal-bus-strike",
   "source": "The Daily Star, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-11-02T14:19:59Z"
+  "status": "failed",
+  "at": "2026-11-02T14:19:59Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
