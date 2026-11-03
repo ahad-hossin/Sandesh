@@ -1,47 +1,5 @@
 [
  {
-  "title_hash": "cee1348b897ec49c",
-  "url": "https://bdnews24.com/bangladesh/c3t4qxxfrh",
-  "headline": "Former Air Force officer Tahsif Souri jumped into Turag River while fleeing men in uniform",
-  "topic": "tahsif souri death investigation",
-  "source": "Dhaka Tribune, The Daily Star, bdnews24.com, Jamuna TV",
-  "status": "failed",
-  "at": "2026-10-30T16:15:12Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "a768e07296d29d62",
-  "url": "https://www.jamuna.tv/national/667088",
-  "headline": "Former Air Force officer Tahsif Souri jumped into Turag River while fleeing men in uniform",
-  "topic": "tahsif souri death investigation",
-  "source": "Dhaka Tribune, The Daily Star, bdnews24.com, Jamuna TV",
-  "status": "failed",
-  "at": "2026-10-30T16:15:12Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "86db7fdaab9bc33c",
-  "url": "https://www.dhakatribune.com/bangladesh/crime/423285/pbi-suspects-tahsif-may-have-been-strangled",
-  "headline": "Former Air Force officer Tahsif Souri jumped into Turag River while fleeing men in uniform",
-  "topic": "tahsif souri death investigation",
-  "source": "Dhaka Tribune, The Daily Star, bdnews24.com, Jamuna TV",
-  "status": "failed",
-  "at": "2026-10-30T16:15:12Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "1df2c74c2a574c24",
   "url": "https://www.dhakatribune.com/bangladesh/423276/pbi-takes-tahsif-s-friend-deep-into-custody-for",
   "headline": "Former Air Force officer Tahsif Souri jumped into Turag River while fleeing men in uniform",
@@ -8398,5 +8356,32 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "74a0a30404e73ce5",
+  "url": "https://www.dhakatribune.com/bangladesh/423664/conspiracy-or-survival-garment-workers-respond-to",
+  "headline": "Garment unrest clouds fragile economic recovery as factories close",
+  "topic": "garment worker wage protests continue",
+  "source": "Dhaka Tribune, The Daily Star",
+  "status": "queued",
+  "at": "2026-11-03T20:08:50Z"
+ },
+ {
+  "title_hash": "58f3e0394bffbebf",
+  "url": "https://www.thedailystar.net/business/economy/news/garment-unrest-clouds-fragile-economic-recovery-4314851",
+  "headline": "Garment unrest clouds fragile economic recovery as factories close",
+  "topic": "garment worker wage protests continue",
+  "source": "Dhaka Tribune, The Daily Star",
+  "status": "queued",
+  "at": "2026-11-03T20:08:50Z"
+ },
+ {
+  "title_hash": "95a16915e778d5b2",
+  "url": "https://bdnews24.com/neighbours/goo6exgfg1",
+  "headline": "ICJ to deliver ruling on Rohingya genocide case on Nov 19",
+  "topic": "ICJ to rule on Rohingya genocide case",
+  "source": "bdnews24.com",
+  "status": "queued",
+  "at": "2026-11-03T20:08:50Z"
  }
 ]
