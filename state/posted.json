@@ -1,47 +1,5 @@
 [
  {
-  "title_hash": "cfa4662260e8bbf2",
-  "url": "https://www.dhakatribune.com/bangladesh/court/423213/raihan%E2%80%99s-death-in-custody-suspended-sylhet-si",
-  "headline": "AL leader Mahbub ul Alam Hanif sentenced to death for crimes against humanity",
-  "topic": "july uprising crimes verdicts",
-  "source": "Prothom Alo, Dhaka Tribune, bdnews24.com",
-  "status": "failed",
-  "at": "2026-10-29T22:14:37Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "c164f877fe4640d8",
-  "url": "https://www.prothomalo.com/bangladesh/m7qgb6n6cd",
-  "headline": "AL leader Mahbub ul Alam Hanif sentenced to death for crimes against humanity",
-  "topic": "july uprising crimes verdicts",
-  "source": "Prothom Alo, Dhaka Tribune, bdnews24.com",
-  "status": "failed",
-  "at": "2026-10-29T22:14:37Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "279e727b8780732a",
-  "url": "https://bdnews24.com/bangladesh/7kf1b1x36a",
-  "headline": "AL leader Mahbub ul Alam Hanif sentenced to death for crimes against humanity",
-  "topic": "july uprising crimes verdicts",
-  "source": "Prothom Alo, Dhaka Tribune, bdnews24.com",
-  "status": "failed",
-  "at": "2026-10-29T22:14:37Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "86f737fb0e003980",
   "url": "https://www.prothomalo.com/bangladesh/capital/v9uss0wyv3",
   "headline": "3,430 workers to be hired by Dhaka's two city corporations",
@@ -8398,5 +8356,32 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "153b2162330e367b",
+  "url": "https://www.thedailystar.net/news/bangladesh/news/call-mushtaque-cleared-the-way-4314156",
+  "headline": "Four national leaders killed in Dhaka Central Jail on November 3, 1975, with presidential consent",
+  "topic": "jail killing day remembrance",
+  "source": "Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-11-03T02:07:52Z"
+ },
+ {
+  "title_hash": "4bc03b5ae0bb71bf",
+  "url": "https://www.prothomalo.com/bangladesh/ap6iwcx8vx",
+  "headline": "Four national leaders killed in Dhaka Central Jail on November 3, 1975, with presidential consent",
+  "topic": "jail killing day remembrance",
+  "source": "Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-11-03T02:07:52Z"
+ },
+ {
+  "title_hash": "ac06c544b0728f9c",
+  "url": "https://www.thedailystar.net/news/bangladesh/news/ict-prosecution-submits-charge-against-7-al-leaders-4314016",
+  "headline": "ICT prosecution charges 7 Awami League leaders over July uprising crimes",
+  "topic": "ict charge against al leaders",
+  "source": "The Daily Star",
+  "status": "queued",
+  "at": "2026-11-03T02:07:52Z"
  }
 ]
