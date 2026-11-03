@@ -8335,8 +8335,13 @@
   "headline": "ICT prosecution to seize assets of Sheikh Hasina and others",
   "topic": "seize-hasina-assets",
   "source": "Prothom Alo, bdnews24.com",
-  "status": "queued",
-  "at": "2026-11-03T12:10:03Z"
+  "status": "failed",
+  "at": "2026-11-03T12:10:03Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "4249f814c750191d",
@@ -8344,8 +8349,13 @@
   "headline": "ICT prosecution to seize assets of Sheikh Hasina and others",
   "topic": "seize-hasina-assets",
   "source": "Prothom Alo, bdnews24.com",
-  "status": "queued",
-  "at": "2026-11-03T12:10:03Z"
+  "status": "failed",
+  "at": "2026-11-03T12:10:03Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "e35c8a7ff84127ce",
@@ -8353,8 +8363,13 @@
   "headline": "2,010 hospitalised as 6 more die of dengue in 24 hours",
   "topic": "dengue-measles-outbreak",
   "source": "bdnews24.com, Jamuna TV",
-  "status": "queued",
-  "at": "2026-11-03T12:10:03Z"
+  "status": "failed",
+  "at": "2026-11-03T12:10:03Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "ccc4b91803c954a4",
@@ -8362,8 +8377,13 @@
   "headline": "2,010 hospitalised as 6 more die of dengue in 24 hours",
   "topic": "dengue-measles-outbreak",
   "source": "bdnews24.com, Jamuna TV",
-  "status": "queued",
-  "at": "2026-11-03T12:10:03Z"
+  "status": "failed",
+  "at": "2026-11-03T12:10:03Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "b036b1dda8eabffb",
@@ -8371,7 +8391,12 @@
   "headline": "2,010 hospitalised as 6 more die of dengue in 24 hours",
   "topic": "dengue-measles-outbreak",
   "source": "bdnews24.com, Jamuna TV",
-  "status": "queued",
-  "at": "2026-11-03T12:10:03Z"
+  "status": "failed",
+  "at": "2026-11-03T12:10:03Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
