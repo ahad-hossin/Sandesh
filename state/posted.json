@@ -1,61 +1,5 @@
 [
  {
-  "title_hash": "1df2c74c2a574c24",
-  "url": "https://www.dhakatribune.com/bangladesh/423276/pbi-takes-tahsif-s-friend-deep-into-custody-for",
-  "headline": "PBI takes friend into custody over ex-airman's death",
-  "topic": "tahsif souri death investigation",
-  "source": "Dhaka Tribune, Jamuna TV, bdnews24.com, The Daily Star, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-30T07:10:28Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "cae2de46cf71ce93",
-  "url": "https://www.dhakatribune.com/bangladesh/423275/pbi-tahsif-s-motorcycle-found-near-turag-river",
-  "headline": "PBI takes friend into custody over ex-airman's death",
-  "topic": "tahsif souri death investigation",
-  "source": "Dhaka Tribune, Jamuna TV, bdnews24.com, The Daily Star, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-30T07:10:28Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "ab78ac2939146797",
-  "url": "https://www.jamuna.tv/national/667083",
-  "headline": "PBI takes friend into custody over ex-airman's death",
-  "topic": "tahsif souri death investigation",
-  "source": "Dhaka Tribune, Jamuna TV, bdnews24.com, The Daily Star, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-30T07:10:28Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "5cfa415a2ed07319",
-  "url": "https://bdnews24.com/bangladesh/j6uneaxpbr",
-  "headline": "PBI takes friend into custody over ex-airman's death",
-  "topic": "tahsif souri death investigation",
-  "source": "Dhaka Tribune, Jamuna TV, bdnews24.com, The Daily Star, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-30T07:10:28Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "38935aeb0527f4d0",
   "url": "https://www.thedailystar.net/news/crime-justice/news/ex-airman-found-dead-turag-family-alleges-murder-4311081",
   "headline": "PBI takes friend into custody over ex-airman's death",
@@ -8398,5 +8342,41 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "6a31d38e7459890f",
+  "url": "https://www.dhakatribune.com/bangladesh/nation/423600/75-killed-in-khulna-this-year-as-extortion-gang",
+  "headline": "75 killed in Khulna this year amid surge in extortion and gang violence",
+  "topic": "surge in extortion and gang violence leads to high death toll in Khulna",
+  "source": "Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-11-03T09:18:32Z"
+ },
+ {
+  "title_hash": "f30a66951525f641",
+  "url": "https://www.dhakatribune.com/bangladesh/dhaka/423586/clashes-erupt-in-mirpur-for-third-consecutive-day",
+  "headline": "75 killed in Khulna this year amid surge in extortion and gang violence",
+  "topic": "surge in extortion and gang violence leads to high death toll in Khulna",
+  "source": "Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-11-03T09:18:32Z"
+ },
+ {
+  "title_hash": "5d0cec7426ef7425",
+  "url": "https://www.prothomalo.com/bangladesh/district/f0vt7hcohe",
+  "headline": "13 families left homeless after fire in Sunamganj village",
+  "topic": "fire destroys homes of poor fishing and farming families in Sunamganj",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-11-03T09:18:32Z"
+ },
+ {
+  "title_hash": "a4e6fc090cd1824f",
+  "url": "https://www.bondhushava.com/photo/wlw2maztmy",
+  "headline": "13 families left homeless after fire in Sunamganj village",
+  "topic": "fire destroys homes of poor fishing and farming families in Sunamganj",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-11-03T09:18:32Z"
  }
 ]
