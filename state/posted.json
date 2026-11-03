@@ -1,75 +1,5 @@
 [
  {
-  "title_hash": "cae2de46cf71ce93",
-  "url": "https://www.dhakatribune.com/bangladesh/423275/pbi-tahsif-s-motorcycle-found-near-turag-river",
-  "headline": "PBI takes friend into custody over death of former Air Force officer",
-  "topic": "tahsif souri death investigation",
-  "source": "The Daily Star, Dhaka Tribune, Jamuna TV, bdnews24.com, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-30T08:09:21Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "5cfa415a2ed07319",
-  "url": "https://bdnews24.com/bangladesh/j6uneaxpbr",
-  "headline": "PBI takes friend into custody over death of former Air Force officer",
-  "topic": "tahsif souri death investigation",
-  "source": "The Daily Star, Dhaka Tribune, Jamuna TV, bdnews24.com, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-30T08:09:21Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "ab78ac2939146797",
-  "url": "https://www.jamuna.tv/national/667083",
-  "headline": "PBI takes friend into custody over death of former Air Force officer",
-  "topic": "tahsif souri death investigation",
-  "source": "The Daily Star, Dhaka Tribune, Jamuna TV, bdnews24.com, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-30T08:09:21Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "d54ffe769f4374ad",
-  "url": "https://www.prothomalo.com/bangladesh/crime/bimaanbaahiniir-saabek-krmkrtaar-mrtyu-bndhu-diip-hephaajte",
-  "headline": "PBI takes friend into custody over death of former Air Force officer",
-  "topic": "tahsif souri death investigation",
-  "source": "The Daily Star, Dhaka Tribune, Jamuna TV, bdnews24.com, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-30T08:09:21Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "398258f1ff0d896a",
-  "url": "https://bdnews24.com/bangladesh/pew51ua9e6",
-  "headline": "PBI takes friend into custody over death of former Air Force officer",
-  "topic": "tahsif souri death investigation",
-  "source": "The Daily Star, Dhaka Tribune, Jamuna TV, bdnews24.com, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-30T08:09:21Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "2ca8337f03962dc9",
   "url": "https://www.prothomalo.com/bangladesh/crime/z3krxialp0",
   "headline": "PBI takes friend into custody over death of former Air Force officer",
@@ -8398,5 +8328,50 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "e54e19e1b0946364",
+  "url": "https://bdnews24.com/bangladesh/m0lleheial",
+  "headline": "ICT prosecution to seize assets of Sheikh Hasina and others",
+  "topic": "seize-hasina-assets",
+  "source": "Prothom Alo, bdnews24.com",
+  "status": "queued",
+  "at": "2026-11-03T12:10:03Z"
+ },
+ {
+  "title_hash": "4249f814c750191d",
+  "url": "https://www.prothomalo.com/bangladesh/xwic1cdm0k",
+  "headline": "ICT prosecution to seize assets of Sheikh Hasina and others",
+  "topic": "seize-hasina-assets",
+  "source": "Prothom Alo, bdnews24.com",
+  "status": "queued",
+  "at": "2026-11-03T12:10:03Z"
+ },
+ {
+  "title_hash": "e35c8a7ff84127ce",
+  "url": "https://bdnews24.com/health/puzs2wjl9l",
+  "headline": "2,010 hospitalised as 6 more die of dengue in 24 hours",
+  "topic": "dengue-measles-outbreak",
+  "source": "bdnews24.com, Jamuna TV",
+  "status": "queued",
+  "at": "2026-11-03T12:10:03Z"
+ },
+ {
+  "title_hash": "ccc4b91803c954a4",
+  "url": "https://www.jamuna.tv/national/667346",
+  "headline": "2,010 hospitalised as 6 more die of dengue in 24 hours",
+  "topic": "dengue-measles-outbreak",
+  "source": "bdnews24.com, Jamuna TV",
+  "status": "queued",
+  "at": "2026-11-03T12:10:03Z"
+ },
+ {
+  "title_hash": "b036b1dda8eabffb",
+  "url": "https://bdnews24.com/health/92tlrq9zq6",
+  "headline": "2,010 hospitalised as 6 more die of dengue in 24 hours",
+  "topic": "dengue-measles-outbreak",
+  "source": "bdnews24.com, Jamuna TV",
+  "status": "queued",
+  "at": "2026-11-03T12:10:03Z"
  }
 ]
