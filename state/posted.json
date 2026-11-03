@@ -8363,8 +8363,13 @@
   "headline": "Garment unrest clouds fragile economic recovery as factories close",
   "topic": "garment worker wage protests continue",
   "source": "Dhaka Tribune, The Daily Star",
-  "status": "queued",
-  "at": "2026-11-03T20:08:50Z"
+  "status": "failed",
+  "at": "2026-11-03T20:08:50Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "58f3e0394bffbebf",
@@ -8372,8 +8377,13 @@
   "headline": "Garment unrest clouds fragile economic recovery as factories close",
   "topic": "garment worker wage protests continue",
   "source": "Dhaka Tribune, The Daily Star",
-  "status": "queued",
-  "at": "2026-11-03T20:08:50Z"
+  "status": "failed",
+  "at": "2026-11-03T20:08:50Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "95a16915e778d5b2",
@@ -8381,7 +8391,12 @@
   "headline": "ICJ to deliver ruling on Rohingya genocide case on Nov 19",
   "topic": "ICJ to rule on Rohingya genocide case",
   "source": "bdnews24.com",
-  "status": "queued",
-  "at": "2026-11-03T20:08:50Z"
+  "status": "failed",
+  "at": "2026-11-03T20:08:50Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
