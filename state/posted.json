@@ -8321,8 +8321,13 @@
   "headline": "Accountant Md. Mostakur Rahman appointed Governor of Bangladesh Bank",
   "topic": "new bangladesh bank governor",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-11-03T19:09:32Z"
+  "status": "failed",
+  "at": "2026-11-03T19:09:32Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "c6ac8d6a3c89edac",
@@ -8330,8 +8335,13 @@
   "headline": "Man injured as two crude bombs explode in Mirpur",
   "topic": "mirpur labor protests and blasts",
   "source": "bdnews24.com, Prothom Alo",
-  "status": "queued",
-  "at": "2026-11-03T19:09:32Z"
+  "status": "failed",
+  "at": "2026-11-03T19:09:32Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "668a9257c52bb950",
@@ -8339,8 +8349,13 @@
   "headline": "Man injured as two crude bombs explode in Mirpur",
   "topic": "mirpur labor protests and blasts",
   "source": "bdnews24.com, Prothom Alo",
-  "status": "queued",
-  "at": "2026-11-03T19:09:32Z"
+  "status": "failed",
+  "at": "2026-11-03T19:09:32Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "50f50f020dad9bd0",
@@ -8348,8 +8363,13 @@
   "headline": "Man injured as two crude bombs explode in Mirpur",
   "topic": "mirpur labor protests and blasts",
   "source": "bdnews24.com, Prothom Alo",
-  "status": "queued",
-  "at": "2026-11-03T19:09:32Z"
+  "status": "failed",
+  "at": "2026-11-03T19:09:32Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "321bffde0bcc115f",
@@ -8357,8 +8377,13 @@
   "headline": "Man injured as two crude bombs explode in Mirpur",
   "topic": "mirpur labor protests and blasts",
   "source": "bdnews24.com, Prothom Alo",
-  "status": "queued",
-  "at": "2026-11-03T19:09:32Z"
+  "status": "failed",
+  "at": "2026-11-03T19:09:32Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "f887558149fbea9d",
@@ -8366,7 +8391,12 @@
   "headline": "Man injured as two crude bombs explode in Mirpur",
   "topic": "mirpur labor protests and blasts",
   "source": "bdnews24.com, Prothom Alo",
-  "status": "queued",
-  "at": "2026-11-03T19:09:32Z"
+  "status": "failed",
+  "at": "2026-11-03T19:09:32Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
