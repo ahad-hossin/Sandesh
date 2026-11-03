@@ -8349,8 +8349,13 @@
   "headline": "75 killed in Khulna this year amid surge in extortion and gang violence",
   "topic": "surge in extortion and gang violence leads to high death toll in Khulna",
   "source": "Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-11-03T09:18:32Z"
+  "status": "failed",
+  "at": "2026-11-03T09:18:32Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "f30a66951525f641",
@@ -8358,8 +8363,13 @@
   "headline": "75 killed in Khulna this year amid surge in extortion and gang violence",
   "topic": "surge in extortion and gang violence leads to high death toll in Khulna",
   "source": "Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-11-03T09:18:32Z"
+  "status": "failed",
+  "at": "2026-11-03T09:18:32Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "5d0cec7426ef7425",
@@ -8367,8 +8377,13 @@
   "headline": "13 families left homeless after fire in Sunamganj village",
   "topic": "fire destroys homes of poor fishing and farming families in Sunamganj",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-11-03T09:18:32Z"
+  "status": "failed",
+  "at": "2026-11-03T09:18:32Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "a4e6fc090cd1824f",
@@ -8376,7 +8391,12 @@
   "headline": "13 families left homeless after fire in Sunamganj village",
   "topic": "fire destroys homes of poor fishing and farming families in Sunamganj",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-11-03T09:18:32Z"
+  "status": "failed",
+  "at": "2026-11-03T09:18:32Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
