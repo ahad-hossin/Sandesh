@@ -8335,8 +8335,13 @@
   "headline": "Labor unrest: More garment factories shut in Gazipur, Savar, Ashulia",
   "topic": "gazipur garment worker protests",
   "source": "Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-11-03T05:09:49Z"
+  "status": "failed",
+  "at": "2026-11-03T05:09:49Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "ede05052d918c831",
@@ -8344,8 +8349,13 @@
   "headline": "Labor unrest: More garment factories shut in Gazipur, Savar, Ashulia",
   "topic": "gazipur garment worker protests",
   "source": "Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-11-03T05:09:49Z"
+  "status": "failed",
+  "at": "2026-11-03T05:09:49Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "5e49b2c4063a5d56",
@@ -8353,8 +8363,13 @@
   "headline": "The Big Show ends: Glenn Maxwell retires from international cricket",
   "topic": "glenn maxwell international retirement",
   "source": "bdnews24.com, Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-11-03T05:09:49Z"
+  "status": "failed",
+  "at": "2026-11-03T05:09:49Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "34e7f1b67f6bb330",
@@ -8362,8 +8377,13 @@
   "headline": "The Big Show ends: Glenn Maxwell retires from international cricket",
   "topic": "glenn maxwell international retirement",
   "source": "bdnews24.com, Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-11-03T05:09:49Z"
+  "status": "failed",
+  "at": "2026-11-03T05:09:49Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "dca56ac93faa93c8",
@@ -8371,7 +8391,12 @@
   "headline": "The Big Show ends: Glenn Maxwell retires from international cricket",
   "topic": "glenn maxwell international retirement",
   "source": "bdnews24.com, Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-11-03T05:09:49Z"
+  "status": "failed",
+  "at": "2026-11-03T05:09:49Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
