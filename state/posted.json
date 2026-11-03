@@ -8363,8 +8363,13 @@
   "headline": "Four national leaders killed in Dhaka Central Jail on November 3, 1975, with presidential consent",
   "topic": "jail killing day remembrance",
   "source": "Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-11-03T02:07:52Z"
+  "status": "failed",
+  "at": "2026-11-03T02:07:52Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "4bc03b5ae0bb71bf",
@@ -8372,8 +8377,13 @@
   "headline": "Four national leaders killed in Dhaka Central Jail on November 3, 1975, with presidential consent",
   "topic": "jail killing day remembrance",
   "source": "Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-11-03T02:07:52Z"
+  "status": "failed",
+  "at": "2026-11-03T02:07:52Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "ac06c544b0728f9c",
@@ -8381,7 +8391,12 @@
   "headline": "ICT prosecution charges 7 Awami League leaders over July uprising crimes",
   "topic": "ict charge against al leaders",
   "source": "The Daily Star",
-  "status": "queued",
-  "at": "2026-11-03T02:07:52Z"
+  "status": "failed",
+  "at": "2026-11-03T02:07:52Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
