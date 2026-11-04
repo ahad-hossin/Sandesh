@@ -8307,8 +8307,13 @@
   "headline": "Democrat Roy Cooper flips North Carolina Senate seat, crucial for party's control",
   "topic": "us midterm election results",
   "source": "bdnews24.com, The Daily Star",
-  "status": "queued",
-  "at": "2026-11-04T02:09:03Z"
+  "status": "failed",
+  "at": "2026-11-04T02:09:03Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "69117bc991f39d33",
@@ -8316,8 +8321,13 @@
   "headline": "Democrat Roy Cooper flips North Carolina Senate seat, crucial for party's control",
   "topic": "us midterm election results",
   "source": "bdnews24.com, The Daily Star",
-  "status": "queued",
-  "at": "2026-11-04T02:09:03Z"
+  "status": "failed",
+  "at": "2026-11-04T02:09:03Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "c9b37112ca90a04b",
@@ -8325,8 +8335,13 @@
   "headline": "Democrat Roy Cooper flips North Carolina Senate seat, crucial for party's control",
   "topic": "us midterm election results",
   "source": "bdnews24.com, The Daily Star",
-  "status": "queued",
-  "at": "2026-11-04T02:09:03Z"
+  "status": "failed",
+  "at": "2026-11-04T02:09:03Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "1d60f175bf9ef2ce",
@@ -8334,8 +8349,13 @@
   "headline": "Democrat Roy Cooper flips North Carolina Senate seat, crucial for party's control",
   "topic": "us midterm election results",
   "source": "bdnews24.com, The Daily Star",
-  "status": "queued",
-  "at": "2026-11-04T02:09:03Z"
+  "status": "failed",
+  "at": "2026-11-04T02:09:03Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "5bd8350fa7a6c7d5",
@@ -8343,8 +8363,13 @@
   "headline": "Democrat Roy Cooper flips North Carolina Senate seat, crucial for party's control",
   "topic": "us midterm election results",
   "source": "bdnews24.com, The Daily Star",
-  "status": "queued",
-  "at": "2026-11-04T02:09:03Z"
+  "status": "failed",
+  "at": "2026-11-04T02:09:03Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "7b4d91e4d6f5644f",
@@ -8352,8 +8377,13 @@
   "headline": "Democrat Roy Cooper flips North Carolina Senate seat, crucial for party's control",
   "topic": "us midterm election results",
   "source": "bdnews24.com, The Daily Star",
-  "status": "queued",
-  "at": "2026-11-04T02:09:03Z"
+  "status": "failed",
+  "at": "2026-11-04T02:09:03Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "f4cb65358ad43d70",
@@ -8361,7 +8391,12 @@
   "headline": "Indian cricket team agrees to visit Bangladesh for a limited-overs series in January",
   "topic": "india cricket tour bangladesh",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-11-04T02:09:03Z"
+  "status": "failed",
+  "at": "2026-11-04T02:09:03Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
