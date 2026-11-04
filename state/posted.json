@@ -1,75 +1,5 @@
 [
  {
-  "title_hash": "8ff44f520eabfc78",
-  "url": "https://bdnews24.com/business/tbr1fsb2b2",
-  "headline": "Record $6.3bn theft: Binance hit by largest-known crypto hack",
-  "topic": "binance crypto hack",
-  "source": "The Daily Star, bdnews24.com, Jamuna TV",
-  "status": "failed",
-  "at": "2026-10-30T23:11:44Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "faacbdd005d4c132",
-  "url": "https://www.jamuna.tv/international/667114",
-  "headline": "Record $6.3bn theft: Binance hit by largest-known crypto hack",
-  "topic": "binance crypto hack",
-  "source": "The Daily Star, bdnews24.com, Jamuna TV",
-  "status": "failed",
-  "at": "2026-10-30T23:11:44Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "e7b81b60f04fdb03",
-  "url": "https://www.thedailystar.net/news/bangladesh/news/dengue-toll-hits-418-third-highest-2000-4311621",
-  "headline": "Dengue toll hits 418, third-highest annual death toll since 2000",
-  "topic": "dengue death toll 418",
-  "source": "The Daily Star, Dhaka Tribune, bdnews24.com, Jamuna TV",
-  "status": "failed",
-  "at": "2026-10-30T23:11:44Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "e647cfee4523a5ce",
-  "url": "https://www.dhakatribune.com/bangladesh/health/423303/dengue-3-more-die-1-262-hospitalized-in-24hrs",
-  "headline": "Dengue toll hits 418, third-highest annual death toll since 2000",
-  "topic": "dengue death toll 418",
-  "source": "The Daily Star, Dhaka Tribune, bdnews24.com, Jamuna TV",
-  "status": "failed",
-  "at": "2026-10-30T23:11:44Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "e3489a8d46996e04",
-  "url": "https://bdnews24.com/bangladesh/hob4giud0u",
-  "headline": "Dengue toll hits 418, third-highest annual death toll since 2000",
-  "topic": "dengue death toll 418",
-  "source": "The Daily Star, Dhaka Tribune, bdnews24.com, Jamuna TV",
-  "status": "failed",
-  "at": "2026-10-30T23:11:44Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "91f7b5ffd3b80e3e",
   "url": "https://www.jamuna.tv/health/667105",
   "headline": "Dengue toll hits 418, third-highest annual death toll since 2000",
@@ -8398,5 +8328,50 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "58f3e0394bffbebf",
+  "url": "https://www.thedailystar.net/business/economy/news/garment-unrest-clouds-fragile-economic-recovery-4314851",
+  "headline": "Garment worker protests threaten Bangladesh's fragile economic recovery as hundreds of factories close",
+  "topic": "garment workers wage protest",
+  "source": "The Daily Star, bdnews24.com",
+  "status": "queued",
+  "at": "2026-11-04T01:07:05Z"
+ },
+ {
+  "title_hash": "e10363bb4f7f9959",
+  "url": "https://bdnews24.com/bangladesh/laomhakms4",
+  "headline": "Garment worker protests threaten Bangladesh's fragile economic recovery as hundreds of factories close",
+  "topic": "garment workers wage protest",
+  "source": "The Daily Star, bdnews24.com",
+  "status": "queued",
+  "at": "2026-11-04T01:07:05Z"
+ },
+ {
+  "title_hash": "04beb3c149dc44dc",
+  "url": "https://www.thedailystar.net/news/bangladesh/news/rmg-workers-fear-being-short-changed-4315016",
+  "headline": "Garment worker protests threaten Bangladesh's fragile economic recovery as hundreds of factories close",
+  "topic": "garment workers wage protest",
+  "source": "The Daily Star, bdnews24.com",
+  "status": "queued",
+  "at": "2026-11-04T01:07:05Z"
+ },
+ {
+  "title_hash": "82e57964f5f8fb0b",
+  "url": "https://bdnews24.com/world/americas/8lz0svisra",
+  "headline": "Millions cast ballots in US midterms as polls close, control of Congress hangs in balance",
+  "topic": "US midterms voting final hours",
+  "source": "bdnews24.com, The Daily Star",
+  "status": "queued",
+  "at": "2026-11-04T01:07:05Z"
+ },
+ {
+  "title_hash": "3388a5d2e07b428a",
+  "url": "https://www.thedailystar.net/news/world/north-america/news/voting-enters-final-hours-trumps-grip-us-congress-stake-4315091",
+  "headline": "Millions cast ballots in US midterms as polls close, control of Congress hangs in balance",
+  "topic": "US midterms voting final hours",
+  "source": "bdnews24.com, The Daily Star",
+  "status": "queued",
+  "at": "2026-11-04T01:07:05Z"
  }
 ]
