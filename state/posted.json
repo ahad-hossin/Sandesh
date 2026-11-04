@@ -1,89 +1,5 @@
 [
  {
-  "title_hash": "ce8ce37b658a40de",
-  "url": "https://www.thedailystar.net/news/news/30-ashulia-rmg-factories-suspend-todays-operation-amid-labour-unrest-4311906",
-  "headline": "30+ RMG factories suspend operations amid wage protests",
-  "topic": "garment workers protest over wages",
-  "source": "The Daily Star, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-31T12:08:17Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "b7a36727599597b2",
-  "url": "https://www.prothomalo.com/sports/cricket/tb9462m4ue",
-  "headline": "30+ RMG factories suspend operations amid wage protests",
-  "topic": "garment workers protest over wages",
-  "source": "The Daily Star, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-31T12:08:17Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "6e8c5b83a1731d27",
-  "url": "https://www.prothomalo.com/bangladesh/district/o9oh30vd05",
-  "headline": "30+ RMG factories suspend operations amid wage protests",
-  "topic": "garment workers protest over wages",
-  "source": "The Daily Star, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-31T12:08:17Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "aeed6de3e5173d4a",
-  "url": "https://www.thedailystar.net/news/news/rmg-workers-block-roads-mirpur-demanding-higher-wages-4311881",
-  "headline": "30+ RMG factories suspend operations amid wage protests",
-  "topic": "garment workers protest over wages",
-  "source": "The Daily Star, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-31T12:08:17Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "fcfac85fc24ca544",
-  "url": "https://www.prothomalo.com/bangladesh/district/y3g8m2oe26",
-  "headline": "30+ RMG factories suspend operations amid wage protests",
-  "topic": "garment workers protest over wages",
-  "source": "The Daily Star, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-31T12:08:17Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "d84de8894ad37dcc",
-  "url": "https://www.thedailystar.net/news/bangladesh/rights/news/rmg-workers-protest-triggers-traffic-jam-dhaka-tangail-highway-4311956",
-  "headline": "30+ RMG factories suspend operations amid wage protests",
-  "topic": "garment workers protest over wages",
-  "source": "The Daily Star, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-31T12:08:17Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "3cd134524935d642",
   "url": "https://www.thedailystar.net/business/news/new-rmg-wage-board-be-formed-tomorrow-minister-4311936",
   "headline": "30+ RMG factories suspend operations amid wage protests",
@@ -8343,5 +8259,59 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "55c294069c89eb6a",
+  "url": "https://www.thedailystar.net/news/crime-justice/news/pori-moni-surrender-tomorrow-after-court-cancels-bail-issues-arrest-warrant-4315541",
+  "headline": "Court cancels Pori Moni's bail, issues arrest warrant",
+  "topic": "pori moni arrest warrant",
+  "source": "The Daily Star, Prothom Alo",
+  "status": "queued",
+  "at": "2026-11-04T14:09:44Z"
+ },
+ {
+  "title_hash": "62527c7d594b5461",
+  "url": "https://www.prothomalo.com/entertainment/dhallywood/13yvr201wo",
+  "headline": "Court cancels Pori Moni's bail, issues arrest warrant",
+  "topic": "pori moni arrest warrant",
+  "source": "The Daily Star, Prothom Alo",
+  "status": "queued",
+  "at": "2026-11-04T14:09:44Z"
+ },
+ {
+  "title_hash": "2e002b5ddda2d1d7",
+  "url": "https://www.thedailystar.net/news/news/over-100-garment-factories-shut-amid-protests-and-clashes-savar-ashulia-4315506",
+  "headline": "100+ garment factories shut amid protests and clashes in Savar, Ashulia",
+  "topic": "garment worker protests clash police",
+  "source": "The Daily Star, Prothom Alo",
+  "status": "queued",
+  "at": "2026-11-04T14:09:44Z"
+ },
+ {
+  "title_hash": "c1b97a7362b60157",
+  "url": "https://www.prothomalo.com/video/bangladesh/dm9n0x3865",
+  "headline": "100+ garment factories shut amid protests and clashes in Savar, Ashulia",
+  "topic": "garment worker protests clash police",
+  "source": "The Daily Star, Prothom Alo",
+  "status": "queued",
+  "at": "2026-11-04T14:09:44Z"
+ },
+ {
+  "title_hash": "40926f3d7ed8b80b",
+  "url": "https://www.prothomalo.com/bangladesh/district/mox0fxeiy5",
+  "headline": "100+ garment factories shut amid protests and clashes in Savar, Ashulia",
+  "topic": "garment worker protests clash police",
+  "source": "The Daily Star, Prothom Alo",
+  "status": "queued",
+  "at": "2026-11-04T14:09:44Z"
+ },
+ {
+  "title_hash": "c767585ea9a11f6b",
+  "url": "https://www.prothomalo.com/bangladesh/district/ds8kybiy16",
+  "headline": "100+ garment factories shut amid protests and clashes in Savar, Ashulia",
+  "topic": "garment worker protests clash police",
+  "source": "The Daily Star, Prothom Alo",
+  "status": "queued",
+  "at": "2026-11-04T14:09:44Z"
  }
 ]
