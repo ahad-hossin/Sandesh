@@ -1,75 +1,5 @@
 [
  {
-  "title_hash": "0edd2df9dc72618b",
-  "url": "https://www.prothomalo.com/education/examination/3qgdkjuubd",
-  "headline": "HSC and equivalent exam results published today, over 1.27 million candidates registered",
-  "topic": "HSC exam results published",
-  "source": "Jamuna TV, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-10-31T03:06:46Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "6d25cb9a190a3cf3",
-  "url": "https://www.prothomalo.com/education/examination/4ym0b375o7",
-  "headline": "HSC and equivalent exam results published today, over 1.27 million candidates registered",
-  "topic": "HSC exam results published",
-  "source": "Jamuna TV, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-10-31T03:06:46Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "a989b39735143ade",
-  "url": "https://www.thedailystar.net/news/crime-justice/news/we-were-chased-tahsif-jumped-turag-i-fled-4311596",
-  "headline": "Motorcycle recovered in ex-airman Tahsif Souri case; friend claims chase led to river jump",
-  "topic": "Tahsif murder investigation",
-  "source": "Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-10-31T03:06:46Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "8a8a39158c15edca",
-  "url": "https://www.prothomalo.com/bangladesh/qylrmtuxfe",
-  "headline": "Motorcycle recovered in ex-airman Tahsif Souri case; friend claims chase led to river jump",
-  "topic": "Tahsif murder investigation",
-  "source": "Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-10-31T03:06:46Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "e1bcff143270e71a",
-  "url": "https://www.thedailystar.net/news/bangladesh/education/news/hsc-equivalent-exam-results-today-4311611",
-  "headline": "HSC and equivalent exam results published today for over 12.70 lakh examinees",
-  "topic": "HSC exam results published today",
-  "source": "Jamuna TV, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-10-31T04:06:59Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "f435be0b95984636",
   "url": "https://www.jamuna.tv/national/667118",
   "headline": "HSC and equivalent exam results published today for over 12.70 lakh examinees",
@@ -8398,5 +8328,50 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "989dc2332a023047",
+  "url": "https://bdnews24.com/bangladesh/k4jz7nmp1a",
+  "headline": "4 dead after bus rams into battery rickshaw in Mirpur",
+  "topic": "mirpur bus crash",
+  "source": "bdnews24.com, Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-11-04T04:14:10Z"
+ },
+ {
+  "title_hash": "ea8562e83356c99c",
+  "url": "https://www.prothomalo.com/bangladesh/capital/77wedmtc3y",
+  "headline": "4 dead after bus rams into battery rickshaw in Mirpur",
+  "topic": "mirpur bus crash",
+  "source": "bdnews24.com, Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-11-04T04:14:10Z"
+ },
+ {
+  "title_hash": "d57f1c1e2bc8a8a6",
+  "url": "https://www.thedailystar.net/news/accidents-and-fires/news/four-killed-bus-auto-rickshaw-collide-mirpur-4315176",
+  "headline": "4 dead after bus rams into battery rickshaw in Mirpur",
+  "topic": "mirpur bus crash",
+  "source": "bdnews24.com, Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-11-04T04:14:10Z"
+ },
+ {
+  "title_hash": "fa5d0ab780c82933",
+  "url": "https://www.thedailystar.net/news/news/db-detains-three-labour-leaders-over-alleged-incitement-ashulia-protests-4314981",
+  "headline": "DB detains three labour leaders in Ashulia over protest incitement",
+  "topic": "ashulia labour leaders detained",
+  "source": "Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-11-04T04:14:10Z"
+ },
+ {
+  "title_hash": "ba89b0338a91de21",
+  "url": "https://www.prothomalo.com/bangladesh/district/tcjyqnsedz",
+  "headline": "DB detains three labour leaders in Ashulia over protest incitement",
+  "topic": "ashulia labour leaders detained",
+  "source": "Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-11-04T04:14:10Z"
  }
 ]
