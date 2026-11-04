@@ -8294,8 +8294,13 @@
   "headline": "LNG shortage: Gas supply cut to power plants to manage deficit",
   "topic": "gas supply cut power plants",
   "source": "Dhaka Tribune, Prothom Alo",
-  "status": "queued",
-  "at": "2026-11-04T17:14:28Z"
+  "status": "failed",
+  "at": "2026-11-04T17:14:28Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "3d2b0226c444dc7f",
@@ -8303,8 +8308,13 @@
   "headline": "LNG shortage: Gas supply cut to power plants to manage deficit",
   "topic": "gas supply cut power plants",
   "source": "Dhaka Tribune, Prothom Alo",
-  "status": "queued",
-  "at": "2026-11-04T17:14:28Z"
+  "status": "failed",
+  "at": "2026-11-04T17:14:28Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "633262afe28647c8",
@@ -8312,8 +8322,13 @@
   "headline": "Video of man threatening others with pistols goes viral in Chattogram",
   "topic": "chattogram weapon threat video",
   "source": "The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-11-04T17:14:28Z"
+  "status": "failed",
+  "at": "2026-11-04T17:14:28Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "0b486b005b256f3c",
@@ -8321,7 +8336,12 @@
   "headline": "Video of man threatening others with pistols goes viral in Chattogram",
   "topic": "chattogram weapon threat video",
   "source": "The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-11-04T17:14:28Z"
+  "status": "failed",
+  "at": "2026-11-04T17:14:28Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
