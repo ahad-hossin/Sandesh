@@ -1,61 +1,5 @@
 [
  {
-  "title_hash": "259aded291975add",
-  "url": "https://www.thedailystar.net/news/education/news/hsc-english-results-drop-six-boards-barishal-sees-sharpest-fall-4311841",
-  "headline": "Over 5 lakh fail as HSC pass rate hits 22-year low",
-  "topic": "hsc_results_2024_crash",
-  "source": "The Daily Star, bdnews24.com, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-31T14:08:54Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "8ed16df1be375705",
-  "url": "https://www.thedailystar.net/news/education/news/hsc-results-girls-lead-pass-rate-boys-secure-more-gpa-5s-4311826",
-  "headline": "Over 5 lakh fail as HSC pass rate hits 22-year low",
-  "topic": "hsc_results_2024_crash",
-  "source": "The Daily Star, bdnews24.com, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-31T14:08:54Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "3c6923714f1dbe0f",
-  "url": "https://www.prothomalo.com/video/bangladesh/2vnvtvjmfl",
-  "headline": "Over 5 lakh fail as HSC pass rate hits 22-year low",
-  "topic": "hsc_results_2024_crash",
-  "source": "The Daily Star, bdnews24.com, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-31T14:08:54Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "c38da35fa25d2772",
-  "url": "https://www.thedailystar.net/news/education/news/pass-rates-fall-across-all-nine-general-education-boards-4311816",
-  "headline": "Over 5 lakh fail as HSC pass rate hits 22-year low",
-  "topic": "hsc_results_2024_crash",
-  "source": "The Daily Star, bdnews24.com, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-31T14:08:54Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "e6d136ecb0022cc1",
   "url": "https://www.prothomalo.com/education/examination/pjbmicfw23",
   "headline": "Over 5 lakh fail as HSC pass rate hits 22-year low",
@@ -8343,5 +8287,41 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "086f7a1727e83589",
+  "url": "https://bdnews24.com/bangladesh/qbiio0oe5z",
+  "headline": "Journalist Iqbal Sobhan arrested on murder charges linked to July protests",
+  "topic": "iqbal soban chowdhury arrested for murder",
+  "source": "Prothom Alo, bdnews24.com",
+  "status": "queued",
+  "at": "2026-11-04T21:11:00Z"
+ },
+ {
+  "title_hash": "115528f2f5b39bac",
+  "url": "https://www.prothomalo.com/bangladesh/bbqyoqtqo0",
+  "headline": "Journalist Iqbal Sobhan arrested on murder charges linked to July protests",
+  "topic": "iqbal soban chowdhury arrested for murder",
+  "source": "Prothom Alo, bdnews24.com",
+  "status": "queued",
+  "at": "2026-11-04T21:11:00Z"
+ },
+ {
+  "title_hash": "bf0c6dfebd8e3833",
+  "url": "https://www.thedailystar.net/news/crime-justice/news/2-killed-teknaf-over-yaba-consignment-dispute-police-4316016",
+  "headline": "Drug dispute: 2 killed in Teknaf over yaba consignment",
+  "topic": "two killed in teknaf over yaba dispute",
+  "source": "The Daily Star",
+  "status": "queued",
+  "at": "2026-11-04T21:11:00Z"
+ },
+ {
+  "title_hash": "8b7325e6da238644",
+  "url": "https://www.thedailystar.net/news/bangladesh/news/four-killed-mirpur-road-crash-4315896",
+  "headline": "Drug dispute: 2 killed in Teknaf over yaba consignment",
+  "topic": "two killed in teknaf over yaba dispute",
+  "source": "The Daily Star",
+  "status": "queued",
+  "at": "2026-11-04T21:11:00Z"
  }
 ]
