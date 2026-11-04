@@ -1,61 +1,5 @@
 [
  {
-  "title_hash": "e6d136ecb0022cc1",
-  "url": "https://www.prothomalo.com/education/examination/pjbmicfw23",
-  "headline": "Over 5 lakh students fail as HSC pass rate hits 22-year low",
-  "topic": "hsc exam pass rate hits 22-year low",
-  "source": "The Daily Star, Dhaka Tribune, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-31T13:08:52Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "fad9840270a33164",
-  "url": "https://www.thedailystar.net/news/education/news/hsc-pass-rate-hits-22-year-low-over-5-lakh-fail-4311876",
-  "headline": "Over 5 lakh fail as HSC pass rate hits 22-year low",
-  "topic": "hsc_results_2024_crash",
-  "source": "The Daily Star, bdnews24.com, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-31T14:08:54Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "4db8ddddaf73c279",
-  "url": "https://www.thedailystar.net/news/education/news/hsc-results-today-how-check-online-sms-4311736",
-  "headline": "Over 5 lakh fail as HSC pass rate hits 22-year low",
-  "topic": "hsc_results_2024_crash",
-  "source": "The Daily Star, bdnews24.com, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-31T14:08:54Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "b6fe0f94a29af2d7",
-  "url": "https://www.thedailystar.net/news/education/news/hsc-equivalent-exams-pass-rate-drops-5212-4311786",
-  "headline": "Over 5 lakh fail as HSC pass rate hits 22-year low",
-  "topic": "hsc_results_2024_crash",
-  "source": "The Daily Star, bdnews24.com, Prothom Alo",
-  "status": "failed",
-  "at": "2026-10-31T14:08:54Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "9110e1deca50ba00",
   "url": "https://bdnews24.com/media-en/image/lf8bvxzdgd",
   "headline": "Over 5 lakh fail as HSC pass rate hits 22-year low",
@@ -8343,5 +8287,41 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "4d74b561b165fbef",
+  "url": "https://www.dhakatribune.com/bangladesh/power-energy/423749/gas-supply-cut-to-power-plants-to-manage-lng",
+  "headline": "LNG shortage: Gas supply cut to power plants to manage deficit",
+  "topic": "gas supply cut power plants",
+  "source": "Dhaka Tribune, Prothom Alo",
+  "status": "queued",
+  "at": "2026-11-04T17:14:28Z"
+ },
+ {
+  "title_hash": "3d2b0226c444dc7f",
+  "url": "https://www.prothomalo.com/bangladesh/4y67zv2b87",
+  "headline": "LNG shortage: Gas supply cut to power plants to manage deficit",
+  "topic": "gas supply cut power plants",
+  "source": "Dhaka Tribune, Prothom Alo",
+  "status": "queued",
+  "at": "2026-11-04T17:14:28Z"
+ },
+ {
+  "title_hash": "633262afe28647c8",
+  "url": "https://www.thedailystar.net/news/crime-justice/news/run-while-you-still-can-video-showing-multiple-pistols-circulates-chattogram-4315676",
+  "headline": "Video of man threatening others with pistols goes viral in Chattogram",
+  "topic": "chattogram weapon threat video",
+  "source": "The Daily Star, Prothom Alo",
+  "status": "queued",
+  "at": "2026-11-04T17:14:28Z"
+ },
+ {
+  "title_hash": "0b486b005b256f3c",
+  "url": "https://www.prothomalo.com/video/bangladesh/q83mdj0eoq",
+  "headline": "Video of man threatening others with pistols goes viral in Chattogram",
+  "topic": "chattogram weapon threat video",
+  "source": "The Daily Star, Prothom Alo",
+  "status": "queued",
+  "at": "2026-11-04T17:14:28Z"
  }
 ]
