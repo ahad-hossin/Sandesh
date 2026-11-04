@@ -8335,8 +8335,13 @@
   "headline": "4 dead after bus rams into battery rickshaw in Mirpur",
   "topic": "mirpur bus crash",
   "source": "bdnews24.com, Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-11-04T04:14:10Z"
+  "status": "failed",
+  "at": "2026-11-04T04:14:10Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "ea8562e83356c99c",
@@ -8344,8 +8349,13 @@
   "headline": "4 dead after bus rams into battery rickshaw in Mirpur",
   "topic": "mirpur bus crash",
   "source": "bdnews24.com, Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-11-04T04:14:10Z"
+  "status": "failed",
+  "at": "2026-11-04T04:14:10Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "d57f1c1e2bc8a8a6",
@@ -8353,8 +8363,13 @@
   "headline": "4 dead after bus rams into battery rickshaw in Mirpur",
   "topic": "mirpur bus crash",
   "source": "bdnews24.com, Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-11-04T04:14:10Z"
+  "status": "failed",
+  "at": "2026-11-04T04:14:10Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "fa5d0ab780c82933",
@@ -8362,8 +8377,13 @@
   "headline": "DB detains three labour leaders in Ashulia over protest incitement",
   "topic": "ashulia labour leaders detained",
   "source": "Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-11-04T04:14:10Z"
+  "status": "failed",
+  "at": "2026-11-04T04:14:10Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "ba89b0338a91de21",
@@ -8371,7 +8391,12 @@
   "headline": "DB detains three labour leaders in Ashulia over protest incitement",
   "topic": "ashulia labour leaders detained",
   "source": "Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-11-04T04:14:10Z"
+  "status": "failed",
+  "at": "2026-11-04T04:14:10Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
