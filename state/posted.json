@@ -8335,8 +8335,13 @@
   "headline": "Garment worker protests threaten Bangladesh's fragile economic recovery as hundreds of factories close",
   "topic": "garment workers wage protest",
   "source": "The Daily Star, bdnews24.com",
-  "status": "queued",
-  "at": "2026-11-04T01:07:05Z"
+  "status": "failed",
+  "at": "2026-11-04T01:07:05Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "e10363bb4f7f9959",
@@ -8344,8 +8349,13 @@
   "headline": "Garment worker protests threaten Bangladesh's fragile economic recovery as hundreds of factories close",
   "topic": "garment workers wage protest",
   "source": "The Daily Star, bdnews24.com",
-  "status": "queued",
-  "at": "2026-11-04T01:07:05Z"
+  "status": "failed",
+  "at": "2026-11-04T01:07:05Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "04beb3c149dc44dc",
@@ -8353,8 +8363,13 @@
   "headline": "Garment worker protests threaten Bangladesh's fragile economic recovery as hundreds of factories close",
   "topic": "garment workers wage protest",
   "source": "The Daily Star, bdnews24.com",
-  "status": "queued",
-  "at": "2026-11-04T01:07:05Z"
+  "status": "failed",
+  "at": "2026-11-04T01:07:05Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "82e57964f5f8fb0b",
@@ -8362,8 +8377,13 @@
   "headline": "Millions cast ballots in US midterms as polls close, control of Congress hangs in balance",
   "topic": "US midterms voting final hours",
   "source": "bdnews24.com, The Daily Star",
-  "status": "queued",
-  "at": "2026-11-04T01:07:05Z"
+  "status": "failed",
+  "at": "2026-11-04T01:07:05Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "3388a5d2e07b428a",
@@ -8371,7 +8391,12 @@
   "headline": "Millions cast ballots in US midterms as polls close, control of Congress hangs in balance",
   "topic": "US midterms voting final hours",
   "source": "bdnews24.com, The Daily Star",
-  "status": "queued",
-  "at": "2026-11-04T01:07:05Z"
+  "status": "failed",
+  "at": "2026-11-04T01:07:05Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
