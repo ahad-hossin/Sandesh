@@ -8335,8 +8335,13 @@
   "headline": "30-40k workers protest in Savar: Police car set on fire, OC seriously injured",
   "topic": "garment workers protest minimum wage",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-11-04T09:09:49Z"
+  "status": "failed",
+  "at": "2026-11-04T09:09:49Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "7392198edee48e97",
@@ -8344,8 +8349,13 @@
   "headline": "30-40k workers protest in Savar: Police car set on fire, OC seriously injured",
   "topic": "garment workers protest minimum wage",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-11-04T09:09:49Z"
+  "status": "failed",
+  "at": "2026-11-04T09:09:49Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "967ca5c76f90a9ce",
@@ -8353,8 +8363,13 @@
   "headline": "Police use sound grenades to disperse garment workers in Gazipur",
   "topic": "police clash with garment workers",
   "source": "The Daily Star, bdnews24.com",
-  "status": "queued",
-  "at": "2026-11-04T09:09:49Z"
+  "status": "failed",
+  "at": "2026-11-04T09:09:49Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "e6c080623ee049af",
@@ -8362,8 +8377,13 @@
   "headline": "Police use sound grenades to disperse garment workers in Gazipur",
   "topic": "police clash with garment workers",
   "source": "The Daily Star, bdnews24.com",
-  "status": "queued",
-  "at": "2026-11-04T09:09:49Z"
+  "status": "failed",
+  "at": "2026-11-04T09:09:49Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "acf1948d94ba0f8b",
@@ -8371,7 +8391,12 @@
   "headline": "Police use sound grenades to disperse garment workers in Gazipur",
   "topic": "police clash with garment workers",
   "source": "The Daily Star, bdnews24.com",
-  "status": "queued",
-  "at": "2026-11-04T09:09:49Z"
+  "status": "failed",
+  "at": "2026-11-04T09:09:49Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
