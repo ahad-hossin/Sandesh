@@ -8280,8 +8280,13 @@
   "headline": "Jamaat leader's son stabbed in Kishoreganj",
   "topic": "jamaat leader son stabbed kishoreganj",
   "source": "bdnews24.com, Prothom Alo",
-  "status": "queued",
-  "at": "2026-11-04T18:13:17Z"
+  "status": "failed",
+  "at": "2026-11-04T18:13:17Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "bca1f8857f0ec744",
@@ -8289,8 +8294,13 @@
   "headline": "Jamaat leader's son stabbed in Kishoreganj",
   "topic": "jamaat leader son stabbed kishoreganj",
   "source": "bdnews24.com, Prothom Alo",
-  "status": "queued",
-  "at": "2026-11-04T18:13:17Z"
+  "status": "failed",
+  "at": "2026-11-04T18:13:17Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "ff67698d36d328ed",
@@ -8298,8 +8308,13 @@
   "headline": "Jamaat leader's son stabbed in Kishoreganj",
   "topic": "jamaat leader son stabbed kishoreganj",
   "source": "bdnews24.com, Prothom Alo",
-  "status": "queued",
-  "at": "2026-11-04T18:13:17Z"
+  "status": "failed",
+  "at": "2026-11-04T18:13:17Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "58d4489baa76f0c6",
@@ -8307,8 +8322,13 @@
   "headline": "491mmcfd drop in gas supply as Summit LNG terminal shut for maintenance",
   "topic": "bangladesh bank disconnects national payment switch",
   "source": "Prothom Alo, bdnews24.com",
-  "status": "queued",
-  "at": "2026-11-04T18:13:17Z"
+  "status": "failed",
+  "at": "2026-11-04T18:13:17Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "5b2138b8c4ae2fb4",
@@ -8316,7 +8336,12 @@
   "headline": "491mmcfd drop in gas supply as Summit LNG terminal shut for maintenance",
   "topic": "bangladesh bank disconnects national payment switch",
   "source": "Prothom Alo, bdnews24.com",
-  "status": "queued",
-  "at": "2026-11-04T18:13:17Z"
+  "status": "failed",
+  "at": "2026-11-04T18:13:17Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
