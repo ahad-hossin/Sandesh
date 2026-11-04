@@ -8294,8 +8294,13 @@
   "headline": "Journalist Iqbal Sobhan arrested on murder charges linked to July protests",
   "topic": "iqbal soban chowdhury arrested for murder",
   "source": "Prothom Alo, bdnews24.com",
-  "status": "queued",
-  "at": "2026-11-04T21:11:00Z"
+  "status": "failed",
+  "at": "2026-11-04T21:11:00Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "115528f2f5b39bac",
@@ -8303,8 +8308,13 @@
   "headline": "Journalist Iqbal Sobhan arrested on murder charges linked to July protests",
   "topic": "iqbal soban chowdhury arrested for murder",
   "source": "Prothom Alo, bdnews24.com",
-  "status": "queued",
-  "at": "2026-11-04T21:11:00Z"
+  "status": "failed",
+  "at": "2026-11-04T21:11:00Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "bf0c6dfebd8e3833",
@@ -8312,8 +8322,13 @@
   "headline": "Drug dispute: 2 killed in Teknaf over yaba consignment",
   "topic": "two killed in teknaf over yaba dispute",
   "source": "The Daily Star",
-  "status": "queued",
-  "at": "2026-11-04T21:11:00Z"
+  "status": "failed",
+  "at": "2026-11-04T21:11:00Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "8b7325e6da238644",
@@ -8321,7 +8336,12 @@
   "headline": "Drug dispute: 2 killed in Teknaf over yaba consignment",
   "topic": "two killed in teknaf over yaba dispute",
   "source": "The Daily Star",
-  "status": "queued",
-  "at": "2026-11-04T21:11:00Z"
+  "status": "failed",
+  "at": "2026-11-04T21:11:00Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
