@@ -8308,8 +8308,13 @@
   "headline": "Mother's silent struggle leads to son becoming BCS officer from remote village",
   "topic": "mother's struggle for magistrate son",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-11-05T02:10:52Z"
+  "status": "failed",
+  "at": "2026-11-05T02:10:52Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "a543e5259ddd1620",
@@ -8317,8 +8322,13 @@
   "headline": "Mother's silent struggle leads to son becoming BCS officer from remote village",
   "topic": "mother's struggle for magistrate son",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-11-05T02:10:52Z"
+  "status": "failed",
+  "at": "2026-11-05T02:10:52Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "e59a316f9e9c7cd0",
@@ -8326,7 +8336,12 @@
   "headline": "Research finds no direct link between dish sponges/scrubbers and cancer, but highlights germ contamination risk",
   "topic": "cancer risk from dishwashing sponges",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-11-05T02:10:52Z"
+  "status": "failed",
+  "at": "2026-11-05T02:10:52Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
