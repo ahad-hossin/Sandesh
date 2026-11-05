@@ -8280,8 +8280,13 @@
   "headline": "Clashes during garment protests leave 50 injured, 200 factories shut",
   "topic": "garment worker protests turn violent",
   "source": "Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-11-05T00:07:51Z"
+  "status": "failed",
+  "at": "2026-11-05T00:07:51Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "443a3dc833c5bd86",
@@ -8289,8 +8294,13 @@
   "headline": "Former PM adviser Iqbal Sobhan Chowdhury arrested in July uprising murder case",
   "topic": "iqbal sobhan chowdhury arrested in july uprising case",
   "source": "The Daily Star, Dhaka Tribune, bdnews24.com, Prothom Alo",
-  "status": "queued",
-  "at": "2026-11-05T00:07:51Z"
+  "status": "failed",
+  "at": "2026-11-05T00:07:51Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "2a10a04a1cb16374",
@@ -8298,8 +8308,13 @@
   "headline": "Former PM adviser Iqbal Sobhan Chowdhury arrested in July uprising murder case",
   "topic": "iqbal sobhan chowdhury arrested in july uprising case",
   "source": "The Daily Star, Dhaka Tribune, bdnews24.com, Prothom Alo",
-  "status": "queued",
-  "at": "2026-11-05T00:07:51Z"
+  "status": "failed",
+  "at": "2026-11-05T00:07:51Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "086f7a1727e83589",
@@ -8307,8 +8322,13 @@
   "headline": "Former PM adviser Iqbal Sobhan Chowdhury arrested in July uprising murder case",
   "topic": "iqbal sobhan chowdhury arrested in july uprising case",
   "source": "The Daily Star, Dhaka Tribune, bdnews24.com, Prothom Alo",
-  "status": "queued",
-  "at": "2026-11-05T00:07:51Z"
+  "status": "failed",
+  "at": "2026-11-05T00:07:51Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "115528f2f5b39bac",
@@ -8316,7 +8336,12 @@
   "headline": "Former PM adviser Iqbal Sobhan Chowdhury arrested in July uprising murder case",
   "topic": "iqbal sobhan chowdhury arrested in july uprising case",
   "source": "The Daily Star, Dhaka Tribune, bdnews24.com, Prothom Alo",
-  "status": "queued",
-  "at": "2026-11-05T00:07:51Z"
+  "status": "failed",
+  "at": "2026-11-05T00:07:51Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
