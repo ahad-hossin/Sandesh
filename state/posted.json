@@ -1,47 +1,5 @@
 [
  {
-  "title_hash": "4cfa1da20be56d8b",
-  "url": "https://bdnews24.com/media-en/image/o01c09310d",
-  "headline": "Garment factory unrest shuts 300 factories; police vehicle set ablaze",
-  "topic": "garment worker protests and clashes",
-  "source": "Prothom Alo, bdnews24.com, The Daily Star",
-  "status": "failed",
-  "at": "2026-11-01T13:08:40Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "f1e5d246ebec7f8b",
-  "url": "https://www.thedailystar.net/news/news/police-vehicle-set-fire-rmg-workers-police-clash-mirpur-4312541",
-  "headline": "Garment factory unrest shuts 300 factories; police vehicle set ablaze",
-  "topic": "garment worker protests and clashes",
-  "source": "Prothom Alo, bdnews24.com, The Daily Star",
-  "status": "failed",
-  "at": "2026-11-01T13:08:40Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "371886458f5b328a",
-  "url": "https://www.thedailystar.net/news/transport/news/protesting-garment-workers-block-dhaka-aricha-highway-savar-4312766",
-  "headline": "Garment factory unrest shuts 300 factories; police vehicle set ablaze",
-  "topic": "garment worker protests and clashes",
-  "source": "Prothom Alo, bdnews24.com, The Daily Star",
-  "status": "failed",
-  "at": "2026-11-01T13:08:40Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "ede6071291058392",
   "url": "https://www.thedailystar.net/news/news/wage-protests-turn-violent-gazipur-45-factories-close-4312696",
   "headline": "Garment factory unrest shuts 300 factories; police vehicle set ablaze",
@@ -8343,5 +8301,32 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "a8536a128797d03e",
+  "url": "https://www.prothomalo.com/bangladesh/district/v1t7l2xeqv",
+  "headline": "Police arrest banned student leader over garment worker clashes in Narayanganj",
+  "topic": "student wing leader arrested with explosives",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-11-05T16:10:58Z"
+ },
+ {
+  "title_hash": "23042d6a89ecf68e",
+  "url": "https://www.prothomalo.com/bangladesh/crime/h1531lg8fw",
+  "headline": "Police arrest banned student leader over garment worker clashes in Narayanganj",
+  "topic": "student wing leader arrested with explosives",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-11-05T16:10:58Z"
+ },
+ {
+  "title_hash": "f97b55849c4f4b83",
+  "url": "https://www.thedailystar.net/news/governance/news/mongla-port-set-tk-4068cr-overhaul-pm-eyes-regional-economic-hub-4316301",
+  "headline": "Tk 4,068cr project to modernise Mongla Port as regional economic hub",
+  "topic": "mongla port overhaul for regional hub",
+  "source": "The Daily Star",
+  "status": "queued",
+  "at": "2026-11-05T16:10:58Z"
  }
 ]
