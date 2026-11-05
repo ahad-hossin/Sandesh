@@ -8294,8 +8294,13 @@
   "headline": "Cristiano Ronaldo announces Portugal retirement after 23-year international career",
   "topic": "cristiano ronaldo portugal retirement",
   "source": "bdnews24.com, Jamuna TV",
-  "status": "queued",
-  "at": "2026-11-05T13:13:33Z"
+  "status": "failed",
+  "at": "2026-11-05T13:13:33Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "8e7c2058ffefafb6",
@@ -8303,8 +8308,13 @@
   "headline": "Cristiano Ronaldo announces Portugal retirement after 23-year international career",
   "topic": "cristiano ronaldo portugal retirement",
   "source": "bdnews24.com, Jamuna TV",
-  "status": "queued",
-  "at": "2026-11-05T13:13:33Z"
+  "status": "failed",
+  "at": "2026-11-05T13:13:33Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "9168b476dbef4acc",
@@ -8312,8 +8322,13 @@
   "headline": "BNP leader's son shot dead in Khulna at tea stall",
   "topic": "bnp leader son killed khulna",
   "source": "Prothom Alo, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-11-05T13:13:33Z"
+  "status": "failed",
+  "at": "2026-11-05T13:13:33Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "178621e3e71734f8",
@@ -8321,7 +8336,12 @@
   "headline": "BNP leader's son shot dead in Khulna at tea stall",
   "topic": "bnp leader son killed khulna",
   "source": "Prothom Alo, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-11-05T13:13:33Z"
+  "status": "failed",
+  "at": "2026-11-05T13:13:33Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
