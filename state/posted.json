@@ -1,61 +1,5 @@
 [
  {
-  "title_hash": "aeeca35e554bfdb6",
-  "url": "https://www.thedailystar.net/news/news/police-stop-garment-workers-march-towards-mirpur-10-4313501",
-  "headline": "4,000 suspects named as police file 3 cases over Gazipur wage protests",
-  "topic": "garment worker wage protests",
-  "source": "bdnews24.com, The Daily Star, Prothom Alo",
-  "status": "failed",
-  "at": "2026-11-02T11:11:13Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "e1b32163fd18a261",
-  "url": "https://bdnews24.com/health/j0r40mveeq",
-  "headline": "8 die in a day as dengue toll hits 433 this year",
-  "topic": "dengue and measles outbreaks",
-  "source": "bdnews24.com",
-  "status": "failed",
-  "at": "2026-11-02T12:11:05Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "4823d839037e1838",
-  "url": "https://bdnews24.com/health/cg2wbxoww8",
-  "headline": "8 die in a day as dengue toll hits 433 this year",
-  "topic": "dengue and measles outbreaks",
-  "source": "bdnews24.com",
-  "status": "failed",
-  "at": "2026-11-02T12:11:05Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "5fe9096ee54d77e9",
-  "url": "https://bdnews24.com/bangladesh/fgvwkbbef7",
-  "headline": "Schoolboy injured by brickbat amid Ashulia garment worker protests",
-  "topic": "garment worker protests and clashes",
-  "source": "Prothom Alo, bdnews24.com, The Daily Star",
-  "status": "failed",
-  "at": "2026-11-02T12:11:05Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "d715d52e0ba1150e",
   "url": "https://www.prothomalo.com/video/bangladesh/gbppydfp7p",
   "headline": "Schoolboy injured by brickbat amid Ashulia garment worker protests",
@@ -8328,5 +8272,41 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "9607ceca4c9c83dc",
+  "url": "https://www.thedailystar.net/news/crime-justice/news/two-dgfi-members-dismissed-jailed-mohammadpur-extortion-case-4316711",
+  "headline": "Two DGFI members dismissed and jailed for a year in extortion case",
+  "topic": "dgfi members jailed extortion",
+  "source": "The Daily Star",
+  "status": "queued",
+  "at": "2026-11-05T23:07:16Z"
+ },
+ {
+  "title_hash": "5a00c175e333c9d6",
+  "url": "https://www.thedailystar.net/news/crime-justice/news/extortion-bid-2-dgfi-men-sacked-jailed-year-4316881",
+  "headline": "Two DGFI members dismissed and jailed for a year in extortion case",
+  "topic": "dgfi members jailed extortion",
+  "source": "The Daily Star",
+  "status": "queued",
+  "at": "2026-11-05T23:07:16Z"
+ },
+ {
+  "title_hash": "0d0c7cb5abcf4f69",
+  "url": "https://www.thedailystar.net/sports/football/news/wasnt-expecting-ibrahim-score-bangladesh-coach-dooley-surprised-forwards-instant-impact-4316761",
+  "headline": "Ibrahim's super-sub goal: Bangladesh beat Bhutan 1-0 in SAFF opener",
+  "topic": "bangladesh beats bhutan",
+  "source": "The Daily Star, bdnews24.com",
+  "status": "queued",
+  "at": "2026-11-05T23:07:16Z"
+ },
+ {
+  "title_hash": "cdffac1b494e2781",
+  "url": "https://bdnews24.com/sport/tmjb6uk2vv",
+  "headline": "Ibrahim's super-sub goal: Bangladesh beat Bhutan 1-0 in SAFF opener",
+  "topic": "bangladesh beats bhutan",
+  "source": "The Daily Star, bdnews24.com",
+  "status": "queued",
+  "at": "2026-11-05T23:07:16Z"
  }
 ]
