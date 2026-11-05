@@ -1,75 +1,5 @@
 [
  {
-  "title_hash": "20b0f3f1a2e4157d",
-  "url": "https://bdnews24.com/bangladesh/rqwrm85yg4",
-  "headline": "Video of Hasina's exit suspected motive in former Air Force officer's murder",
-  "topic": "tahsif_murder_case",
-  "source": "Prothom Alo, bdnews24.com, The Daily Star",
-  "status": "failed",
-  "at": "2026-10-31T14:08:54Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "f09997efc8c730c1",
-  "url": "https://www.thedailystar.net/news/crime-justice/news/tahsif-murder-friend-dip-placed-four-day-remand-4311916",
-  "headline": "Video of Hasina's exit suspected motive in former Air Force officer's murder",
-  "topic": "tahsif_murder_case",
-  "source": "Prothom Alo, bdnews24.com, The Daily Star",
-  "status": "failed",
-  "at": "2026-10-31T14:08:54Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "b841ef9c5b3c306a",
-  "url": "https://www.thedailystar.net/news/crime-justice/news/tahsifs-friend-dip-shown-arrested-after-father-files-murder-case-4311821",
-  "headline": "Video of Hasina's exit suspected motive in former Air Force officer's murder",
-  "topic": "tahsif_murder_case",
-  "source": "Prothom Alo, bdnews24.com, The Daily Star",
-  "status": "failed",
-  "at": "2026-10-31T14:08:54Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "bee79cbd8eb22b57",
-  "url": "https://www.prothomalo.com/bangladesh/crime/aojmom5uf8",
-  "headline": "Video of Hasina's exit suspected motive in former Air Force officer's murder",
-  "topic": "tahsif_murder_case",
-  "source": "Prothom Alo, bdnews24.com, The Daily Star",
-  "status": "failed",
-  "at": "2026-10-31T14:08:54Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "edb54ebcad2bea3d",
-  "url": "https://www.dhakatribune.com/bangladesh/423378/police-garment-workers-clash-as-gazipur%E2%80%99s-chandra",
-  "headline": "30+ garment factories shut down in Ashulia amid wage protests",
-  "topic": "garment worker protests over wages",
-  "source": "Dhaka Tribune, The Daily Star, Prothom Alo, bdnews24.com",
-  "status": "failed",
-  "at": "2026-10-31T15:12:01Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "ce8ce37b658a40de",
   "url": "https://www.thedailystar.net/news/news/30-ashulia-rmg-factories-suspend-todays-operation-amid-labour-unrest-4311906",
   "headline": "30+ garment factories shut down in Ashulia amid wage protests",
@@ -8343,5 +8273,50 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "327589a35b8b11ab",
+  "url": "https://www.dhakatribune.com/bangladesh/423752/clashes-during-garment-protests-leave-50-injured",
+  "headline": "Clashes during garment protests leave 50 injured, 200 factories shut",
+  "topic": "garment worker protests turn violent",
+  "source": "Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-11-05T00:07:51Z"
+ },
+ {
+  "title_hash": "443a3dc833c5bd86",
+  "url": "https://www.thedailystar.net/news/crime-justice/news/iqbal-sobhan-chowdhury-arrested-july-uprising-case-4316061",
+  "headline": "Former PM adviser Iqbal Sobhan Chowdhury arrested in July uprising murder case",
+  "topic": "iqbal sobhan chowdhury arrested in july uprising case",
+  "source": "The Daily Star, Dhaka Tribune, bdnews24.com, Prothom Alo",
+  "status": "queued",
+  "at": "2026-11-05T00:07:51Z"
+ },
+ {
+  "title_hash": "2a10a04a1cb16374",
+  "url": "https://www.dhakatribune.com/bangladesh/423750/iqbal-sobhan-rajib-ghosh-in-db-custody-sparking",
+  "headline": "Former PM adviser Iqbal Sobhan Chowdhury arrested in July uprising murder case",
+  "topic": "iqbal sobhan chowdhury arrested in july uprising case",
+  "source": "The Daily Star, Dhaka Tribune, bdnews24.com, Prothom Alo",
+  "status": "queued",
+  "at": "2026-11-05T00:07:51Z"
+ },
+ {
+  "title_hash": "086f7a1727e83589",
+  "url": "https://bdnews24.com/bangladesh/qbiio0oe5z",
+  "headline": "Former PM adviser Iqbal Sobhan Chowdhury arrested in July uprising murder case",
+  "topic": "iqbal sobhan chowdhury arrested in july uprising case",
+  "source": "The Daily Star, Dhaka Tribune, bdnews24.com, Prothom Alo",
+  "status": "queued",
+  "at": "2026-11-05T00:07:51Z"
+ },
+ {
+  "title_hash": "115528f2f5b39bac",
+  "url": "https://www.prothomalo.com/bangladesh/bbqyoqtqo0",
+  "headline": "Former PM adviser Iqbal Sobhan Chowdhury arrested in July uprising murder case",
+  "topic": "iqbal sobhan chowdhury arrested in july uprising case",
+  "source": "The Daily Star, Dhaka Tribune, bdnews24.com, Prothom Alo",
+  "status": "queued",
+  "at": "2026-11-05T00:07:51Z"
  }
 ]
