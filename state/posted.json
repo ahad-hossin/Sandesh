@@ -8266,8 +8266,13 @@
   "headline": "No passport needed for Hasina to be handed over from India",
   "topic": "hasina passport denial",
   "source": "The Daily Star, bdnews24.com",
-  "status": "queued",
-  "at": "2026-11-05T15:10:00Z"
+  "status": "failed",
+  "at": "2026-11-05T15:10:00Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "f05111cc6595015c",
@@ -8275,8 +8280,13 @@
   "headline": "No passport needed for Hasina to be handed over from India",
   "topic": "hasina passport denial",
   "source": "The Daily Star, bdnews24.com",
-  "status": "queued",
-  "at": "2026-11-05T15:10:00Z"
+  "status": "failed",
+  "at": "2026-11-05T15:10:00Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "12633555c6fb597f",
@@ -8284,8 +8294,13 @@
   "headline": "78 police inspectors promoted to ASPs in sweeping move",
   "topic": "samanta sharmin quits ncp",
   "source": "bdnews24.com, Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-11-05T15:10:00Z"
+  "status": "failed",
+  "at": "2026-11-05T15:10:00Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "9285fa1f797582ee",
@@ -8293,8 +8308,13 @@
   "headline": "78 police inspectors promoted to ASPs in sweeping move",
   "topic": "samanta sharmin quits ncp",
   "source": "bdnews24.com, Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-11-05T15:10:00Z"
+  "status": "failed",
+  "at": "2026-11-05T15:10:00Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "f3141a85442152d0",
@@ -8302,8 +8322,13 @@
   "headline": "78 police inspectors promoted to ASPs in sweeping move",
   "topic": "samanta sharmin quits ncp",
   "source": "bdnews24.com, Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-11-05T15:10:00Z"
+  "status": "failed",
+  "at": "2026-11-05T15:10:00Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "5d5a5f3ea326d1ce",
@@ -8311,7 +8336,12 @@
   "headline": "78 police inspectors promoted to ASPs in sweeping move",
   "topic": "samanta sharmin quits ncp",
   "source": "bdnews24.com, Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-11-05T15:10:00Z"
+  "status": "failed",
+  "at": "2026-11-05T15:10:00Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
