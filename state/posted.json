@@ -8266,8 +8266,13 @@
   "headline": "Bangladesh wants Hasina extradited from India under existing treaty",
   "topic": "hasina passport extradition",
   "source": "The Daily Star, bdnews24.com, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-11-05T14:09:22Z"
+  "status": "failed",
+  "at": "2026-11-05T14:09:22Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "f05111cc6595015c",
@@ -8275,8 +8280,13 @@
   "headline": "Bangladesh wants Hasina extradited from India under existing treaty",
   "topic": "hasina passport extradition",
   "source": "The Daily Star, bdnews24.com, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-11-05T14:09:22Z"
+  "status": "failed",
+  "at": "2026-11-05T14:09:22Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "e65ad2774645e193",
@@ -8284,8 +8294,13 @@
   "headline": "Bangladesh wants Hasina extradited from India under existing treaty",
   "topic": "hasina passport extradition",
   "source": "The Daily Star, bdnews24.com, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-11-05T14:09:22Z"
+  "status": "failed",
+  "at": "2026-11-05T14:09:22Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "251487af491a31aa",
@@ -8293,8 +8308,13 @@
   "headline": "Samanta Shermeen resigns from National Citizen Party over political line",
   "topic": "samanta shermeen resigns ncp",
   "source": "Prothom Alo, Dhaka Tribune, Jamuna TV",
-  "status": "queued",
-  "at": "2026-11-05T14:09:22Z"
+  "status": "failed",
+  "at": "2026-11-05T14:09:22Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "f3141a85442152d0",
@@ -8302,8 +8322,13 @@
   "headline": "Samanta Shermeen resigns from National Citizen Party over political line",
   "topic": "samanta shermeen resigns ncp",
   "source": "Prothom Alo, Dhaka Tribune, Jamuna TV",
-  "status": "queued",
-  "at": "2026-11-05T14:09:22Z"
+  "status": "failed",
+  "at": "2026-11-05T14:09:22Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "a9dcfa0104a0eb86",
@@ -8311,7 +8336,12 @@
   "headline": "Samanta Shermeen resigns from National Citizen Party over political line",
   "topic": "samanta shermeen resigns ncp",
   "source": "Prothom Alo, Dhaka Tribune, Jamuna TV",
-  "status": "queued",
-  "at": "2026-11-05T14:09:22Z"
+  "status": "failed",
+  "at": "2026-11-05T14:09:22Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
