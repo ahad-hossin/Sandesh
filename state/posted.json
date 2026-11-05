@@ -1,75 +1,5 @@
 [
  {
-  "title_hash": "cf63af6ecb78038f",
-  "url": "https://www.prothomalo.com/world/usa/fezsfjkztz",
-  "headline": "9 killed as small plane crashes near Trump's Florida resort",
-  "topic": "us florida plane crash",
-  "source": "Prothom Alo",
-  "status": "failed",
-  "at": "2026-11-02T02:19:58Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "0570c50b14988226",
-  "url": "https://www.prothomalo.com/bangladesh/iapdvog88i",
-  "headline": "Teacher needs 50 lakh BDT for liver transplant in India",
-  "topic": "teacher needs liver cirrhosis aid",
-  "source": "Prothom Alo",
-  "status": "failed",
-  "at": "2026-11-02T02:19:58Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "a4b4e906e3507806",
-  "url": "https://www.prothomalo.com/chakri/employment/a3jw60wvrj",
-  "headline": "14,000 new recruits: Police to hire 6,000 constables and 4,000 SIs",
-  "topic": "police recruitment 10000 posts",
-  "source": "Prothom Alo",
-  "status": "failed",
-  "at": "2026-11-02T04:18:57Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "2bcd61e9b4466626",
-  "url": "https://www.thedailystar.net/sports/football/news/one-goal-one-assist-messi-magic-seals-miamis-comeback-win-4313411",
-  "headline": "Messi magic seals Miami’s comeback win with goal and assist",
-  "topic": "messi inter miami win",
-  "source": "Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-11-02T04:18:57Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "4a55b35aded25237",
-  "url": "https://www.prothomalo.com/sports/football/ufpx6rxqox",
-  "headline": "Messi magic seals Miami’s comeback win with goal and assist",
-  "topic": "messi inter miami win",
-  "source": "Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-11-02T04:18:57Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "c4539328975c7dcb",
   "url": "https://bdnews24.com/bangladesh/re9spkspf4",
   "headline": "Filipino woman dies after severe burns in Banani kitchen fire",
@@ -8328,5 +8258,50 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "11068b986e5b396b",
+  "url": "https://www.dhakatribune.com/bangladesh/nation/423833/soldier-injured-57-rescued-in-teknaf",
+  "headline": "57 rescued in Teknaf: Army soldier killed in gunfight with human traffickers",
+  "topic": "soldier killed in teknaf anti-trafficking operation",
+  "source": "Jamuna TV, Dhaka Tribune, Prothom Alo",
+  "status": "queued",
+  "at": "2026-11-05T18:08:41Z"
+ },
+ {
+  "title_hash": "2a7ca313ac9b485c",
+  "url": "https://www.jamuna.tv/all-bangladesh/667491",
+  "headline": "57 rescued in Teknaf: Army soldier killed in gunfight with human traffickers",
+  "topic": "soldier killed in teknaf anti-trafficking operation",
+  "source": "Jamuna TV, Dhaka Tribune, Prothom Alo",
+  "status": "queued",
+  "at": "2026-11-05T18:08:41Z"
+ },
+ {
+  "title_hash": "5cfc38ea6fb9da7c",
+  "url": "https://www.prothomalo.com/bangladesh/district/fcfm436w26",
+  "headline": "57 rescued in Teknaf: Army soldier killed in gunfight with human traffickers",
+  "topic": "soldier killed in teknaf anti-trafficking operation",
+  "source": "Jamuna TV, Dhaka Tribune, Prothom Alo",
+  "status": "queued",
+  "at": "2026-11-05T18:08:41Z"
+ },
+ {
+  "title_hash": "aad7d490bc32b6b3",
+  "url": "https://bdnews24.com/bangladesh/iwlfbqyj51",
+  "headline": "Govt eyes worker flights to Malaysia to resume in December",
+  "topic": "govt plans december start for malaysia worker flights",
+  "source": "bdnews24.com, Jamuna TV",
+  "status": "queued",
+  "at": "2026-11-05T18:08:41Z"
+ },
+ {
+  "title_hash": "47507f2b48582f44",
+  "url": "https://www.jamuna.tv/national/667490",
+  "headline": "Govt eyes worker flights to Malaysia to resume in December",
+  "topic": "govt plans december start for malaysia worker flights",
+  "source": "bdnews24.com, Jamuna TV",
+  "status": "queued",
+  "at": "2026-11-05T18:08:41Z"
  }
 ]
