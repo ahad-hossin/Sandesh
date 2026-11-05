@@ -1,61 +1,5 @@
 [
  {
-  "title_hash": "4550c1d6a69a8994",
-  "url": "https://www.prothomalo.com/bangladesh/district/cmfv5bnezm",
-  "headline": "4,000 suspects named as police file 3 cases over Gazipur wage protests",
-  "topic": "garment worker wage protests",
-  "source": "bdnews24.com, The Daily Star, Prothom Alo",
-  "status": "failed",
-  "at": "2026-11-02T11:11:13Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "152b75d9aeaefd59",
-  "url": "https://www.thedailystar.net/news/news/2-pickups-torched-gazipur-amid-labour-unrest-4313596",
-  "headline": "4,000 suspects named as police file 3 cases over Gazipur wage protests",
-  "topic": "garment worker wage protests",
-  "source": "bdnews24.com, The Daily Star, Prothom Alo",
-  "status": "failed",
-  "at": "2026-11-02T11:11:13Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "31b5300158c83154",
-  "url": "https://www.prothomalo.com/bangladesh/district/7rrfansv57",
-  "headline": "4,000 suspects named as police file 3 cases over Gazipur wage protests",
-  "topic": "garment worker wage protests",
-  "source": "bdnews24.com, The Daily Star, Prothom Alo",
-  "status": "failed",
-  "at": "2026-11-02T11:11:13Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "76c762242aafaa63",
-  "url": "https://www.prothomalo.com/video/bangladesh/u3g5qmj5s8",
-  "headline": "4,000 suspects named as police file 3 cases over Gazipur wage protests",
-  "topic": "garment worker wage protests",
-  "source": "bdnews24.com, The Daily Star, Prothom Alo",
-  "status": "failed",
-  "at": "2026-11-02T11:11:13Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "aeeca35e554bfdb6",
   "url": "https://www.thedailystar.net/news/news/police-stop-garment-workers-march-towards-mirpur-10-4313501",
   "headline": "4,000 suspects named as police file 3 cases over Gazipur wage protests",
@@ -8328,5 +8272,41 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "9607ceca4c9c83dc",
+  "url": "https://www.thedailystar.net/news/crime-justice/news/two-dgfi-members-dismissed-jailed-mohammadpur-extortion-case-4316711",
+  "headline": "Two DGFI members dismissed and jailed in extortion case",
+  "topic": "dgfi members jailed extortion",
+  "source": "The Daily Star",
+  "status": "queued",
+  "at": "2026-11-05T22:10:16Z"
+ },
+ {
+  "title_hash": "558b4508aba67856",
+  "url": "https://bdnews24.com/bangladesh/coxs-bazar",
+  "headline": "Army soldier killed in gunfight with traffickers in Teknaf",
+  "topic": "soldier killed teknaf gunfight",
+  "source": "bdnews24.com, Prothom Alo",
+  "status": "queued",
+  "at": "2026-11-05T22:10:16Z"
+ },
+ {
+  "title_hash": "84568d73495a8c7a",
+  "url": "https://bdnews24.com/bangladesh/cqhs9v34id",
+  "headline": "Army soldier killed in gunfight with traffickers in Teknaf",
+  "topic": "soldier killed teknaf gunfight",
+  "source": "bdnews24.com, Prothom Alo",
+  "status": "queued",
+  "at": "2026-11-05T22:10:16Z"
+ },
+ {
+  "title_hash": "235b31d39731c8c4",
+  "url": "https://www.prothomalo.com/bangladesh/district/fcfm436w26",
+  "headline": "Army soldier killed in gunfight with traffickers in Teknaf",
+  "topic": "soldier killed teknaf gunfight",
+  "source": "bdnews24.com, Prothom Alo",
+  "status": "queued",
+  "at": "2026-11-05T22:10:16Z"
  }
 ]
