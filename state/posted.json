@@ -8308,8 +8308,13 @@
   "headline": "PM Tarique Rahman visits Mongla and Khulna for port development and sports",
   "topic": "pm visit mongla khulna",
   "source": "bdnews24.com, The Daily Star",
-  "status": "queued",
-  "at": "2026-11-05T04:08:32Z"
+  "status": "failed",
+  "at": "2026-11-05T04:08:32Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "075b8a326504ca83",
@@ -8317,8 +8322,13 @@
   "headline": "PM Tarique Rahman visits Mongla and Khulna for port development and sports",
   "topic": "pm visit mongla khulna",
   "source": "bdnews24.com, The Daily Star",
-  "status": "queued",
-  "at": "2026-11-05T04:08:32Z"
+  "status": "failed",
+  "at": "2026-11-05T04:08:32Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "486f26b22f4da8f7",
@@ -8326,7 +8336,12 @@
   "headline": "Actress Pori Moni to surrender in court today after arrest warrant",
   "topic": "porimoni court surrender",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-11-05T04:08:32Z"
+  "status": "failed",
+  "at": "2026-11-05T04:08:32Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
