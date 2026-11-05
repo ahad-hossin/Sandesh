@@ -1,47 +1,5 @@
 [
  {
-  "title_hash": "3067af9f5770e8b7",
-  "url": "https://bdnews24.com/education/wyevx1rrka",
-  "headline": "Over 5 lakh fail as HSC pass rate hits 22-year low",
-  "topic": "HSC exam pass rate drops significantly",
-  "source": "The Daily Star, bdnews24.com",
-  "status": "failed",
-  "at": "2026-10-31T15:12:01Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "73a29cfef453ed5a",
-  "url": "https://bdnews24.com/bangladesh/snv44rvg09",
-  "headline": "Over 5 lakh fail as HSC pass rate hits 22-year low",
-  "topic": "HSC exam pass rate drops significantly",
-  "source": "The Daily Star, bdnews24.com",
-  "status": "failed",
-  "at": "2026-10-31T15:12:01Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "47999905e448c78e",
-  "url": "https://bdnews24.com/bangladesh/giiy6wsutl",
-  "headline": "Over 5 lakh fail as HSC pass rate hits 22-year low",
-  "topic": "HSC exam pass rate drops significantly",
-  "source": "The Daily Star, bdnews24.com",
-  "status": "failed",
-  "at": "2026-10-31T15:12:01Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "fad9840270a33164",
   "url": "https://www.thedailystar.net/news/education/news/hsc-pass-rate-hits-22-year-low-over-5-lakh-fail-4311876",
   "headline": "Over 5 lakh fail as HSC pass rate hits 22-year low",
@@ -8343,5 +8301,32 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "a543e5259ddd1620",
+  "url": "https://www.prothomalo.com/video/bangladesh/aekscaocjg",
+  "headline": "Mother's silent struggle leads to son becoming BCS officer from remote village",
+  "topic": "mother's struggle for magistrate son",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-11-05T02:10:52Z"
+ },
+ {
+  "title_hash": "a543e5259ddd1620",
+  "url": "https://www.prothomalo.com/video/bangladesh/5e2x2mzdm6",
+  "headline": "Mother's silent struggle leads to son becoming BCS officer from remote village",
+  "topic": "mother's struggle for magistrate son",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-11-05T02:10:52Z"
+ },
+ {
+  "title_hash": "e59a316f9e9c7cd0",
+  "url": "https://www.prothomalo.com/lifestyle/i5xuuo0yj1",
+  "headline": "Research finds no direct link between dish sponges/scrubbers and cancer, but highlights germ contamination risk",
+  "topic": "cancer risk from dishwashing sponges",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-11-05T02:10:52Z"
  }
 ]
