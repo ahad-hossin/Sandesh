@@ -8308,8 +8308,13 @@
   "headline": "3 albino snakes rescued in Dhaka, Chattogram and Panchagarh",
   "topic": "democratic breakthroughs for women and minorities",
   "source": "bdnews24.com",
-  "status": "queued",
-  "at": "2026-11-05T05:10:29Z"
+  "status": "failed",
+  "at": "2026-11-05T05:10:29Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "aaaf623c317d9356",
@@ -8317,8 +8322,13 @@
   "headline": "3 albino snakes rescued in Dhaka, Chattogram and Panchagarh",
   "topic": "democratic breakthroughs for women and minorities",
   "source": "bdnews24.com",
-  "status": "queued",
-  "at": "2026-11-05T05:10:29Z"
+  "status": "failed",
+  "at": "2026-11-05T05:10:29Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "24cf854ccc5ad7c1",
@@ -8326,7 +8336,12 @@
   "headline": "AQI 171: Dhaka air quality world’s 5th worst on Thursday morning",
   "topic": "dhaka air quality world's 5th worst",
   "source": "bdnews24.com",
-  "status": "queued",
-  "at": "2026-11-05T05:10:29Z"
+  "status": "failed",
+  "at": "2026-11-05T05:10:29Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
