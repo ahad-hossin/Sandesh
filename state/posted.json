@@ -8293,8 +8293,13 @@
   "headline": "Two DGFI members dismissed, jailed for one year in Mohammadpur extortion case",
   "topic": "dgfi members jailed extortion",
   "source": "The Daily Star",
-  "status": "queued",
-  "at": "2026-11-06T01:15:02Z"
+  "status": "failed",
+  "at": "2026-11-06T01:15:02Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "5a00c175e333c9d6",
@@ -8302,8 +8307,13 @@
   "headline": "Two DGFI members dismissed, jailed for one year in Mohammadpur extortion case",
   "topic": "dgfi members jailed extortion",
   "source": "The Daily Star",
-  "status": "queued",
-  "at": "2026-11-06T01:15:02Z"
+  "status": "failed",
+  "at": "2026-11-06T01:15:02Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "b8b485e0f4902e3c",
@@ -8311,7 +8321,12 @@
   "headline": "Students confine college principal for hours in Dhaka over fee dispute, demand resignation",
   "topic": "students confine principal",
   "source": "The Daily Star",
-  "status": "queued",
-  "at": "2026-11-06T01:15:02Z"
+  "status": "failed",
+  "at": "2026-11-06T01:15:02Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
