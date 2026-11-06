@@ -8293,8 +8293,13 @@
   "headline": "Courier van attacked and set on fire in Rayerbazar",
   "topic": "raiyarbazar courier vehicle explosion",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-11-06T09:07:40Z"
+  "status": "failed",
+  "at": "2026-11-06T09:07:40Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "9607ceca4c9c83dc",
@@ -8302,8 +8307,13 @@
   "headline": "Two DGFI members dismissed and jailed for a year in extortion case",
   "topic": "dgfi members jailed extortion",
   "source": "The Daily Star",
-  "status": "queued",
-  "at": "2026-11-06T09:07:40Z"
+  "status": "failed",
+  "at": "2026-11-06T09:07:40Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "5a00c175e333c9d6",
@@ -8311,7 +8321,12 @@
   "headline": "Two DGFI members dismissed and jailed for a year in extortion case",
   "topic": "dgfi members jailed extortion",
   "source": "The Daily Star",
-  "status": "queued",
-  "at": "2026-11-06T09:07:40Z"
+  "status": "failed",
+  "at": "2026-11-06T09:07:40Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
