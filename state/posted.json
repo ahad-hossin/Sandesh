@@ -1,47 +1,5 @@
 [
  {
-  "title_hash": "ff5a346fe85f1ffa",
-  "url": "https://bdnews24.com/business/bjqwwog5k6",
-  "headline": "LPG prices surge: 12kg cylinder now Tk 2,060 after monthly hike",
-  "topic": "lpg price hike",
-  "source": "Prothom Alo, bdnews24.com, The Daily Star",
-  "status": "failed",
-  "at": "2026-11-02T17:10:46Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "b0351a447465f8ca",
-  "url": "https://www.prothomalo.com/video/bangladesh/tu5jhc2644",
-  "headline": "LPG prices surge: 12kg cylinder now Tk 2,060 after monthly hike",
-  "topic": "lpg price hike",
-  "source": "Prothom Alo, bdnews24.com, The Daily Star",
-  "status": "failed",
-  "at": "2026-11-02T17:10:46Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "b05a714502147b9f",
-  "url": "https://www.thedailystar.net/news/power-and-energy/news/lpg-price-jumps-tk-475-two-months-12kg-cylinder-now-tk-2060-4313791",
-  "headline": "LPG prices surge: 12kg cylinder now Tk 2,060 after monthly hike",
-  "topic": "lpg price hike",
-  "source": "Prothom Alo, bdnews24.com, The Daily Star",
-  "status": "failed",
-  "at": "2026-11-02T17:10:46Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "b6d143ed381cad13",
   "url": "https://www.prothomalo.com/bangladesh/12-keji-elpiji-silinddaare-aabaar-daam-baarrl",
   "headline": "LPG prices surge: 12kg cylinder now Tk 2,060 after monthly hike",
@@ -8328,5 +8286,32 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "9607ceca4c9c83dc",
+  "url": "https://www.thedailystar.net/news/crime-justice/news/two-dgfi-members-dismissed-jailed-mohammadpur-extortion-case-4316711",
+  "headline": "2 DGFI members dismissed and jailed for one year in Mohammadpur extortion case",
+  "topic": "dgfi members jailed extortion",
+  "source": "The Daily Star",
+  "status": "queued",
+  "at": "2026-11-06T04:07:48Z"
+ },
+ {
+  "title_hash": "5a00c175e333c9d6",
+  "url": "https://www.thedailystar.net/news/crime-justice/news/extortion-bid-2-dgfi-men-sacked-jailed-year-4316881",
+  "headline": "2 DGFI members dismissed and jailed for one year in Mohammadpur extortion case",
+  "topic": "dgfi members jailed extortion",
+  "source": "The Daily Star",
+  "status": "queued",
+  "at": "2026-11-06T04:07:48Z"
+ },
+ {
+  "title_hash": "6d81746f085e8d7d",
+  "url": "https://www.jamuna.tv/economy/667495",
+  "headline": "Free recruitment for 112 skilled male workers in Malaysia via BOESL",
+  "topic": "malaysia zero cost worker recruitment",
+  "source": "Jamuna TV",
+  "status": "queued",
+  "at": "2026-11-06T04:07:48Z"
  }
 ]
