@@ -1,47 +1,5 @@
 [
  {
-  "title_hash": "153b2162330e367b",
-  "url": "https://www.thedailystar.net/news/bangladesh/news/call-mushtaque-cleared-the-way-4314156",
-  "headline": "Four national leaders killed in Dhaka Central Jail on November 3, 1975, with presidential consent",
-  "topic": "jail killing day remembrance",
-  "source": "Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-11-03T02:07:52Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "4bc03b5ae0bb71bf",
-  "url": "https://www.prothomalo.com/bangladesh/ap6iwcx8vx",
-  "headline": "Four national leaders killed in Dhaka Central Jail on November 3, 1975, with presidential consent",
-  "topic": "jail killing day remembrance",
-  "source": "Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-11-03T02:07:52Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "ac06c544b0728f9c",
-  "url": "https://www.thedailystar.net/news/bangladesh/news/ict-prosecution-submits-charge-against-7-al-leaders-4314016",
-  "headline": "ICT prosecution charges 7 Awami League leaders over July uprising crimes",
-  "topic": "ict charge against al leaders",
-  "source": "The Daily Star",
-  "status": "failed",
-  "at": "2026-11-03T02:07:52Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "2deb031bb8d88976",
   "url": "https://www.thedailystar.net/news/world/news/tankers-explode-after-hitting-hormuz-mines-4314191",
   "headline": "Two oil tankers explode in Strait of Hormuz amid escalating US-Iran tensions",
@@ -8328,5 +8286,32 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "d1da24da8ceb25e8",
+  "url": "https://www.prothomalo.com/bangladesh/crime/0gnewor6zs",
+  "headline": "Courier van attacked and set on fire in Rayerbazar",
+  "topic": "raiyarbazar courier vehicle explosion",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-11-06T09:07:40Z"
+ },
+ {
+  "title_hash": "9607ceca4c9c83dc",
+  "url": "https://www.thedailystar.net/news/crime-justice/news/two-dgfi-members-dismissed-jailed-mohammadpur-extortion-case-4316711",
+  "headline": "Two DGFI members dismissed and jailed for a year in extortion case",
+  "topic": "dgfi members jailed extortion",
+  "source": "The Daily Star",
+  "status": "queued",
+  "at": "2026-11-06T09:07:40Z"
+ },
+ {
+  "title_hash": "5a00c175e333c9d6",
+  "url": "https://www.thedailystar.net/news/crime-justice/news/extortion-bid-2-dgfi-men-sacked-jailed-year-4316881",
+  "headline": "Two DGFI members dismissed and jailed for a year in extortion case",
+  "topic": "dgfi members jailed extortion",
+  "source": "The Daily Star",
+  "status": "queued",
+  "at": "2026-11-06T09:07:40Z"
  }
 ]
