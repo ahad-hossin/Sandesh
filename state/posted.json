@@ -1,47 +1,5 @@
 [
  {
-  "title_hash": "b6d143ed381cad13",
-  "url": "https://www.prothomalo.com/bangladesh/12-keji-elpiji-silinddaare-aabaar-daam-baarrl",
-  "headline": "LPG prices surge: 12kg cylinder now Tk 2,060 after monthly hike",
-  "topic": "lpg price hike",
-  "source": "Prothom Alo, bdnews24.com, The Daily Star",
-  "status": "failed",
-  "at": "2026-11-02T17:10:46Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "073f3b98a9f3d7f7",
-  "url": "https://www.prothomalo.com/bangladesh/0m4sxob0tq",
-  "headline": "LPG prices surge: 12kg cylinder now Tk 2,060 after monthly hike",
-  "topic": "lpg price hike",
-  "source": "Prothom Alo, bdnews24.com, The Daily Star",
-  "status": "failed",
-  "at": "2026-11-02T17:10:46Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "97866a1b3b6f468f",
-  "url": "https://www.prothomalo.com/video/bangladesh/llccrz82fc",
-  "headline": "Writing with feet, Rafiqul scores GPA-5 again in HSC exams",
-  "topic": "student rafiqul gpa 5 with feet",
-  "source": "Prothom Alo",
-  "status": "failed",
-  "at": "2026-11-02T19:21:00Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "97866a1b3b6f468f",
   "url": "https://www.prothomalo.com/video/bangladesh/78f5y1133z",
   "headline": "Writing with feet, Rafiqul scores GPA-5 again in HSC exams",
@@ -8328,5 +8286,32 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "3be75c07756e01d8",
+  "url": "https://www.prothomalo.com/world/usa/pax8utohu9",
+  "headline": "White House denies rumors of Hegseth and Rubio resignations after GOP losses",
+  "topic": "us election fallout: top officials resign",
+  "source": "Prothom Alo, Jamuna TV",
+  "status": "queued",
+  "at": "2026-11-06T05:09:50Z"
+ },
+ {
+  "title_hash": "6f7c0a6d0ec853de",
+  "url": "https://www.jamuna.tv/international/667494",
+  "headline": "White House denies rumors of Hegseth and Rubio resignations after GOP losses",
+  "topic": "us election fallout: top officials resign",
+  "source": "Prothom Alo, Jamuna TV",
+  "status": "queued",
+  "at": "2026-11-06T05:09:50Z"
+ },
+ {
+  "title_hash": "d63fa9e88322edfb",
+  "url": "https://www.dhakatribune.com/bangladesh/dhaka/423846/dhaka-air-quality-%E2%80%98very-unhealthy%E2%80%99-friday-morning",
+  "headline": "Friday morning: Dhaka air quality ‘very unhealthy’",
+  "topic": "dhaka air quality very unhealthy",
+  "source": "Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-11-06T05:09:50Z"
  }
 ]
