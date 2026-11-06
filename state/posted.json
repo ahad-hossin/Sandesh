@@ -1,47 +1,5 @@
 [
  {
-  "title_hash": "7811427d3f6afd65",
-  "url": "https://www.jamuna.tv/all-bangladesh/667309",
-  "headline": "Workers block Dhaka-Tangail highway in Gazipur unrest",
-  "topic": "garment workers protest block highway",
-  "source": "Dhaka Tribune, Jamuna TV, The Daily Star",
-  "status": "failed",
-  "at": "2026-11-03T06:10:41Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "0b95c5ff1e1b7a49",
-  "url": "https://www.thedailystar.net/news/news/more-garment-factories-shut-amid-unrest-gazipur-savar-ashulia-4314241",
-  "headline": "Workers block Dhaka-Tangail highway in Gazipur unrest",
-  "topic": "garment workers protest block highway",
-  "source": "Dhaka Tribune, Jamuna TV, The Daily Star",
-  "status": "failed",
-  "at": "2026-11-03T06:10:41Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "f30a66951525f641",
-  "url": "https://www.dhakatribune.com/bangladesh/dhaka/423586/clashes-erupt-in-mirpur-for-third-consecutive-day",
-  "headline": "PM Tarique Rahman opens Bangladesh Solar Expo 2026 in Dhaka",
-  "topic": "pm inaugurates solar expo",
-  "source": "Dhaka Tribune, Jamuna TV, The Daily Star",
-  "status": "failed",
-  "at": "2026-11-03T06:10:41Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "a81b8ba1f2c35716",
   "url": "https://www.jamuna.tv/national/667311",
   "headline": "PM Tarique Rahman opens Bangladesh Solar Expo 2026 in Dhaka",
@@ -8328,5 +8286,32 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "1c373f56d747c806",
+  "url": "https://www.thedailystar.net/news/news/coast-guard-vessels-named-after-4-national-leaders-and-joy-bangla-get-new-names-4317071",
+  "headline": "5 Coast Guard vessels renamed, removing names of 4 national leaders",
+  "topic": "coast guard vessels renamed",
+  "source": "The Daily Star, bdnews24.com",
+  "status": "queued",
+  "at": "2026-11-06T13:10:34Z"
+ },
+ {
+  "title_hash": "5f063b23e4ffb1b5",
+  "url": "https://bdnews24.com/bangladesh/hghg7nexwa",
+  "headline": "5 Coast Guard vessels renamed, removing names of 4 national leaders",
+  "topic": "coast guard vessels renamed",
+  "source": "The Daily Star, bdnews24.com",
+  "status": "queued",
+  "at": "2026-11-06T13:10:34Z"
+ },
+ {
+  "title_hash": "9607ceca4c9c83dc",
+  "url": "https://www.thedailystar.net/news/crime-justice/news/two-dgfi-members-dismissed-jailed-mohammadpur-extortion-case-4316711",
+  "headline": "Two DGFI members dismissed and jailed in extortion case",
+  "topic": "dgfi members dismissed jailed extortion",
+  "source": "The Daily Star",
+  "status": "queued",
+  "at": "2026-11-06T13:10:34Z"
  }
 ]
