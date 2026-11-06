@@ -1,61 +1,5 @@
 [
  {
-  "title_hash": "885a0246174c1b0d",
-  "url": "https://www.thedailystar.net/news/news/ashulia-tense-garment-workers-continue-wage-protests-70-factories-shut-4314291",
-  "headline": "Police fire teargas as garment workers clash with police in Mirpur",
-  "topic": "mirpur garment worker protests",
-  "source": "The Daily Star, Prothom Alo, bdnews24.com",
-  "status": "failed",
-  "at": "2026-11-03T11:09:38Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "040068b761852da0",
-  "url": "https://www.prothomalo.com/bangladesh/capital/80yok95acw",
-  "headline": "Police fire teargas as garment workers clash with police in Mirpur",
-  "topic": "mirpur garment worker protests",
-  "source": "The Daily Star, Prothom Alo, bdnews24.com",
-  "status": "failed",
-  "at": "2026-11-03T11:09:38Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "b66776f15ca23341",
-  "url": "https://bdnews24.com/bangladesh/i133u835us",
-  "headline": "Garment workers block Dhaka-Tangail Highway in Gazipur unrest",
-  "topic": "gazipur garment worker protests",
-  "source": "Prothom Alo, bdnews24.com, The Daily Star",
-  "status": "failed",
-  "at": "2026-11-03T11:09:38Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "31f7d80559211574",
-  "url": "https://www.prothomalo.com/bangladesh/district/3ift92cto6",
-  "headline": "Garment workers block Dhaka-Tangail Highway in Gazipur unrest",
-  "topic": "gazipur garment worker protests",
-  "source": "Prothom Alo, bdnews24.com, The Daily Star",
-  "status": "failed",
-  "at": "2026-11-03T11:09:38Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "c8485e25bb0f0058",
   "url": "https://www.prothomalo.com/video/bangladesh/z4uyb82lbv",
   "headline": "Garment workers block Dhaka-Tangail Highway in Gazipur unrest",
@@ -8328,5 +8272,41 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "0f3e980af1c2c86e",
+  "url": "https://bdnews24.com/bangladesh/tkbpbs8kuw",
+  "headline": "BJP MP calls for reclaiming Noakhali, Chittagong Port, and Sylhet from Bangladesh",
+  "topic": "bjp mp reclaiming bangladesh",
+  "source": "Prothom Alo, bdnews24.com",
+  "status": "queued",
+  "at": "2026-11-06T21:09:24Z"
+ },
+ {
+  "title_hash": "221eb901cbaa98d9",
+  "url": "https://www.prothomalo.com/world/india/f3wy4wd7rh",
+  "headline": "BJP MP calls for reclaiming Noakhali, Chittagong Port, and Sylhet from Bangladesh",
+  "topic": "bjp mp reclaiming bangladesh",
+  "source": "Prothom Alo, bdnews24.com",
+  "status": "queued",
+  "at": "2026-11-06T21:09:24Z"
+ },
+ {
+  "title_hash": "59ba6f8df6f62d7e",
+  "url": "https://www.thedailystar.net/news/world/united-states/news/midterms-rout-trump-retains-grip-foreign-policy-4317291",
+  "headline": "Midterms rout: Trump retains grip on foreign policy despite losses",
+  "topic": "trump white house chief of staff",
+  "source": "Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-11-06T21:09:24Z"
+ },
+ {
+  "title_hash": "912fc52b907917b7",
+  "url": "https://www.prothomalo.com/world/usa/ao78jzjq6m",
+  "headline": "Midterms rout: Trump retains grip on foreign policy despite losses",
+  "topic": "trump white house chief of staff",
+  "source": "Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-11-06T21:09:24Z"
  }
 ]
