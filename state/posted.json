@@ -1,61 +1,5 @@
 [
  {
-  "title_hash": "c8485e25bb0f0058",
-  "url": "https://www.prothomalo.com/video/bangladesh/z4uyb82lbv",
-  "headline": "Garment workers block Dhaka-Tangail Highway in Gazipur unrest",
-  "topic": "gazipur garment worker protests",
-  "source": "Prothom Alo, bdnews24.com, The Daily Star",
-  "status": "failed",
-  "at": "2026-11-03T11:09:38Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "dbc28eeb520b91cf",
-  "url": "https://www.thedailystar.net/news/news/police-fire-sound-grenades-garment-workers-block-gazipur-roads-4314346",
-  "headline": "Garment workers block Dhaka-Tangail Highway in Gazipur unrest",
-  "topic": "gazipur garment worker protests",
-  "source": "Prothom Alo, bdnews24.com, The Daily Star",
-  "status": "failed",
-  "at": "2026-11-03T11:09:38Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "0b95c5ff1e1b7a49",
-  "url": "https://www.thedailystar.net/news/news/more-garment-factories-shut-amid-unrest-gazipur-savar-ashulia-4314241",
-  "headline": "Garment workers block Dhaka-Tangail Highway in Gazipur unrest",
-  "topic": "gazipur garment worker protests",
-  "source": "Prothom Alo, bdnews24.com, The Daily Star",
-  "status": "failed",
-  "at": "2026-11-03T11:09:38Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "e54e19e1b0946364",
-  "url": "https://bdnews24.com/bangladesh/m0lleheial",
-  "headline": "ICT prosecution to seize assets of Sheikh Hasina and others",
-  "topic": "seize-hasina-assets",
-  "source": "Prothom Alo, bdnews24.com",
-  "status": "failed",
-  "at": "2026-11-03T12:10:03Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "4249f814c750191d",
   "url": "https://www.prothomalo.com/bangladesh/xwic1cdm0k",
   "headline": "ICT prosecution to seize assets of Sheikh Hasina and others",
@@ -8328,5 +8272,41 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "3c768458f5d7e6ff",
+  "url": "https://www.dhakatribune.com/bangladesh/nation/423916/tagore-mural-defaced-with-black-ink-in-khulna",
+  "headline": "Rabindranath Tagore mural defaced with black ink in Khulna",
+  "topic": "tagore mural defaced khulna",
+  "source": "Dhaka Tribune, The Daily Star",
+  "status": "queued",
+  "at": "2026-11-06T22:08:25Z"
+ },
+ {
+  "title_hash": "0b9adf3be7b774c8",
+  "url": "https://www.thedailystar.net/news/crime-justice/news/rabindranath-tagore-mural-defaced-black-ink-khulna-railway-station-4317251",
+  "headline": "Rabindranath Tagore mural defaced with black ink in Khulna",
+  "topic": "tagore mural defaced khulna",
+  "source": "Dhaka Tribune, The Daily Star",
+  "status": "queued",
+  "at": "2026-11-06T22:08:25Z"
+ },
+ {
+  "title_hash": "0f3e980af1c2c86e",
+  "url": "https://bdnews24.com/bangladesh/tkbpbs8kuw",
+  "headline": "BJP MP calls for reclaiming Noakhali, Chittagong Port, and Sylhet from Bangladesh",
+  "topic": "bjp mp reclaim noakhali ctg sylhet",
+  "source": "bdnews24.com, Prothom Alo",
+  "status": "queued",
+  "at": "2026-11-06T22:08:25Z"
+ },
+ {
+  "title_hash": "221eb901cbaa98d9",
+  "url": "https://www.prothomalo.com/world/india/f3wy4wd7rh",
+  "headline": "BJP MP calls for reclaiming Noakhali, Chittagong Port, and Sylhet from Bangladesh",
+  "topic": "bjp mp reclaim noakhali ctg sylhet",
+  "source": "bdnews24.com, Prothom Alo",
+  "status": "queued",
+  "at": "2026-11-06T22:08:25Z"
  }
 ]
