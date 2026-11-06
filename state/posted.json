@@ -1,33 +1,5 @@
 [
  {
-  "title_hash": "4249f814c750191d",
-  "url": "https://www.prothomalo.com/bangladesh/xwic1cdm0k",
-  "headline": "ICT prosecution to seize assets of Sheikh Hasina and others",
-  "topic": "seize-hasina-assets",
-  "source": "Prothom Alo, bdnews24.com",
-  "status": "failed",
-  "at": "2026-11-03T12:10:03Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "e35c8a7ff84127ce",
-  "url": "https://bdnews24.com/health/puzs2wjl9l",
-  "headline": "2,010 hospitalised as 6 more die of dengue in 24 hours",
-  "topic": "dengue-measles-outbreak",
-  "source": "bdnews24.com, Jamuna TV",
-  "status": "failed",
-  "at": "2026-11-03T12:10:03Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "ccc4b91803c954a4",
   "url": "https://www.jamuna.tv/national/667346",
   "headline": "2,010 hospitalised as 6 more die of dengue in 24 hours",
@@ -8328,5 +8300,23 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "b48400523fb07fb9",
+  "url": "https://www.thedailystar.net/news/bangladesh/news/four-more-die-measles-symptoms-4317341",
+  "headline": "4 children die as measles-related deaths hit 1,276 this year",
+  "topic": "measles-like deaths children",
+  "source": "The Daily Star",
+  "status": "queued",
+  "at": "2026-11-06T23:15:29Z"
+ },
+ {
+  "title_hash": "344be30a13a75131",
+  "url": "https://www.thedailystar.net/news/bangladesh/news/lpg-now-way-too-costly-bangladesh-4317301",
+  "headline": "LPG prices in Bangladesh rise 52% since February, far outpacing neighbors",
+  "topic": "lpg price hike",
+  "source": "The Daily Star",
+  "status": "queued",
+  "at": "2026-11-06T23:15:29Z"
  }
 ]
