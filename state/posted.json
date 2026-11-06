@@ -1,61 +1,5 @@
 [
  {
-  "title_hash": "cbde5cd729cd183a",
-  "url": "https://www.thedailystar.net/news/crime-justice/news/garment-workers-police-clash-mirpur-11-teargas-fired-several-detained-4314356",
-  "headline": "Police fire teargas as garment workers clash with police in Mirpur",
-  "topic": "mirpur garment worker protests",
-  "source": "The Daily Star, Prothom Alo, bdnews24.com",
-  "status": "failed",
-  "at": "2026-11-03T11:09:38Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "f8b2c0d41107af18",
-  "url": "https://www.prothomalo.com/video/bangladesh/zk3rm05fyl",
-  "headline": "Police fire teargas as garment workers clash with police in Mirpur",
-  "topic": "mirpur garment worker protests",
-  "source": "The Daily Star, Prothom Alo, bdnews24.com",
-  "status": "failed",
-  "at": "2026-11-03T11:09:38Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "321bffde0bcc115f",
-  "url": "https://bdnews24.com/bangladesh/wqhsbu92tr",
-  "headline": "Police fire teargas as garment workers clash with police in Mirpur",
-  "topic": "mirpur garment worker protests",
-  "source": "The Daily Star, Prothom Alo, bdnews24.com",
-  "status": "failed",
-  "at": "2026-11-03T11:09:38Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "3fe58b621af01d27",
-  "url": "https://www.thedailystar.net/news/news/garment-workers-protest-disrupts-metro-service-mirpur-11-4314286",
-  "headline": "Police fire teargas as garment workers clash with police in Mirpur",
-  "topic": "mirpur garment worker protests",
-  "source": "The Daily Star, Prothom Alo, bdnews24.com",
-  "status": "failed",
-  "at": "2026-11-03T11:09:38Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "f887558149fbea9d",
   "url": "https://bdnews24.com/bangladesh/0z1e7du7nn",
   "headline": "Police fire teargas as garment workers clash with police in Mirpur",
@@ -8328,5 +8272,41 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "8f19557751631a4d",
+  "url": "https://bdnews24.com/bangladesh/jk91ilmlju",
+  "headline": "Friends and well-wishers remember Toufique Imrose Khalidi at memorial service",
+  "topic": "toufique imrose khalidi memorial",
+  "source": "bdnews24.com",
+  "status": "queued",
+  "at": "2026-11-06T19:14:07Z"
+ },
+ {
+  "title_hash": "2380bbf1bae56ea8",
+  "url": "https://bdnews24.com/media-en/image/r0vr9harln",
+  "headline": "Friends and well-wishers remember Toufique Imrose Khalidi at memorial service",
+  "topic": "toufique imrose khalidi memorial",
+  "source": "bdnews24.com",
+  "status": "queued",
+  "at": "2026-11-06T19:14:07Z"
+ },
+ {
+  "title_hash": "e39f7ce5e842a1a3",
+  "url": "https://bdnews24.com/bangladesh/44ls7to0ou",
+  "headline": "Fire engulfs passenger bus in Dhaka's Baridhara",
+  "topic": "baridhara bus fire",
+  "source": "bdnews24.com, Prothom Alo",
+  "status": "queued",
+  "at": "2026-11-06T19:14:07Z"
+ },
+ {
+  "title_hash": "ae84690a94baa47d",
+  "url": "https://www.prothomalo.com/bangladesh/crime/x9430w2mjv",
+  "headline": "Fire engulfs passenger bus in Dhaka's Baridhara",
+  "topic": "baridhara bus fire",
+  "source": "bdnews24.com, Prothom Alo",
+  "status": "queued",
+  "at": "2026-11-06T19:14:07Z"
  }
 ]
