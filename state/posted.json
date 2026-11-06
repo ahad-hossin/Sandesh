@@ -1,89 +1,5 @@
 [
  {
-  "title_hash": "a81b8ba1f2c35716",
-  "url": "https://www.jamuna.tv/national/667311",
-  "headline": "PM Tarique Rahman opens Bangladesh Solar Expo 2026 in Dhaka",
-  "topic": "pm inaugurates solar expo",
-  "source": "Dhaka Tribune, Jamuna TV, The Daily Star",
-  "status": "failed",
-  "at": "2026-11-03T06:10:41Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "5e5dee08c539219e",
-  "url": "https://www.thedailystar.net/news/governance/news/pm-opens-two-day-solar-expo-2026-dhaka-4314301",
-  "headline": "PM Tarique Rahman opens Bangladesh Solar Expo 2026 in Dhaka",
-  "topic": "pm inaugurates solar expo",
-  "source": "Dhaka Tribune, Jamuna TV, The Daily Star",
-  "status": "failed",
-  "at": "2026-11-03T06:10:41Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "ea899f4ed801d20c",
-  "url": "https://bdnews24.com/bangladesh/gt4ap617fy",
-  "headline": "Police use tear gas to disperse garment workers' protests in Ashulia",
-  "topic": "garment-worker-protests-mirpur-gazipur",
-  "source": "Prothom Alo, bdnews24.com, The Daily Star",
-  "status": "failed",
-  "at": "2026-11-03T07:10:02Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "040068b761852da0",
-  "url": "https://www.prothomalo.com/bangladesh/capital/80yok95acw",
-  "headline": "Police use tear gas to disperse garment workers' protests in Ashulia",
-  "topic": "garment-worker-protests-mirpur-gazipur",
-  "source": "Prothom Alo, bdnews24.com, The Daily Star",
-  "status": "failed",
-  "at": "2026-11-03T07:10:02Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "871148b7acf31d6f",
-  "url": "https://bdnews24.com/bangladesh/1k63o3x2os",
-  "headline": "Police use tear gas to disperse garment workers' protests in Ashulia",
-  "topic": "garment-worker-protests-mirpur-gazipur",
-  "source": "Prothom Alo, bdnews24.com, The Daily Star",
-  "status": "failed",
-  "at": "2026-11-03T07:10:02Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "46a27b2fa987840c",
-  "url": "https://www.prothomalo.com/bangladesh/capital/mirpure-poshaakshrmik-pulish-snghrss",
-  "headline": "Police use tear gas to disperse garment workers' protests in Ashulia",
-  "topic": "garment-worker-protests-mirpur-gazipur",
-  "source": "Prothom Alo, bdnews24.com, The Daily Star",
-  "status": "failed",
-  "at": "2026-11-03T07:10:02Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "06c9fc935ab2c592",
   "url": "https://www.prothomalo.com/bangladesh/capital/jufy968x4u",
   "headline": "Police use tear gas to disperse garment workers' protests in Ashulia",
@@ -8328,5 +8244,59 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "d098c4e4a6848d68",
+  "url": "https://www.thedailystar.net/news/healthcare/disease/news/3-die-1535-hospitalised-dengue-24-hours-4317161",
+  "headline": "1,535 hospitalised as 3 more die of dengue in 24 hours",
+  "topic": "dengue deaths rise",
+  "source": "The Daily Star, Dhaka Tribune, bdnews24.com",
+  "status": "queued",
+  "at": "2026-11-06T15:08:07Z"
+ },
+ {
+  "title_hash": "183d3205c60a93bb",
+  "url": "https://www.dhakatribune.com/bangladesh/health/423899/dengue-3-more-die-1-535-hospitalized-in-24hrs",
+  "headline": "1,535 hospitalised as 3 more die of dengue in 24 hours",
+  "topic": "dengue deaths rise",
+  "source": "The Daily Star, Dhaka Tribune, bdnews24.com",
+  "status": "queued",
+  "at": "2026-11-06T15:08:07Z"
+ },
+ {
+  "title_hash": "c2deb112248ae2a1",
+  "url": "https://bdnews24.com/health/5zvdqu2hmp",
+  "headline": "1,535 hospitalised as 3 more die of dengue in 24 hours",
+  "topic": "dengue deaths rise",
+  "source": "The Daily Star, Dhaka Tribune, bdnews24.com",
+  "status": "queued",
+  "at": "2026-11-06T15:08:07Z"
+ },
+ {
+  "title_hash": "08e190849c065380",
+  "url": "https://www.dhakatribune.com/bangladesh/nation/423887/july-uprising-martyrs%E2%80%99-memorial-torched-in",
+  "headline": "Attack in Chandpur: July uprising martyrs’ memorial torched by miscreants",
+  "topic": "july memorial torched chandpur",
+  "source": "Prothom Alo, Dhaka Tribune, bdnews24.com",
+  "status": "queued",
+  "at": "2026-11-06T15:08:07Z"
+ },
+ {
+  "title_hash": "3221c0645f5e28ce",
+  "url": "https://www.prothomalo.com/video/bangladesh/371w6otcfl",
+  "headline": "Attack in Chandpur: July uprising martyrs’ memorial torched by miscreants",
+  "topic": "july memorial torched chandpur",
+  "source": "Prothom Alo, Dhaka Tribune, bdnews24.com",
+  "status": "queued",
+  "at": "2026-11-06T15:08:07Z"
+ },
+ {
+  "title_hash": "4252e93e480f5327",
+  "url": "https://bdnews24.com/bangladesh/88kd62bvb5",
+  "headline": "Attack in Chandpur: July uprising martyrs’ memorial torched by miscreants",
+  "topic": "july memorial torched chandpur",
+  "source": "Prothom Alo, Dhaka Tribune, bdnews24.com",
+  "status": "queued",
+  "at": "2026-11-06T15:08:07Z"
  }
 ]
