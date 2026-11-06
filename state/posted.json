@@ -8251,8 +8251,13 @@
   "headline": "Govt renames 5 Coast Guard ships, removing names of 4 national leaders",
   "topic": "coast guard ship name change",
   "source": "Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-11-06T11:09:24Z"
+  "status": "failed",
+  "at": "2026-11-06T11:09:24Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "3c0e58824a325640",
@@ -8260,8 +8265,13 @@
   "headline": "Govt renames 5 Coast Guard ships, removing names of 4 national leaders",
   "topic": "coast guard ship name change",
   "source": "Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-11-06T11:09:24Z"
+  "status": "failed",
+  "at": "2026-11-06T11:09:24Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "7eefb49d9f3f4fb2",
@@ -8269,8 +8279,13 @@
   "headline": "Govt renames 5 Coast Guard ships, removing names of 4 national leaders",
   "topic": "coast guard ship name change",
   "source": "Jamuna TV, Prothom Alo",
-  "status": "queued",
-  "at": "2026-11-06T11:09:24Z"
+  "status": "failed",
+  "at": "2026-11-06T11:09:24Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "ac393b77e40d2cd4",
@@ -8278,8 +8293,13 @@
   "headline": "1,276 deaths from measles symptoms since March 15",
   "topic": "measles outbreak deaths",
   "source": "bdnews24.com, Dhaka Tribune, Jamuna TV",
-  "status": "queued",
-  "at": "2026-11-06T11:09:24Z"
+  "status": "failed",
+  "at": "2026-11-06T11:09:24Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "083f50823cb5fe1b",
@@ -8287,8 +8307,13 @@
   "headline": "1,276 deaths from measles symptoms since March 15",
   "topic": "measles outbreak deaths",
   "source": "bdnews24.com, Dhaka Tribune, Jamuna TV",
-  "status": "queued",
-  "at": "2026-11-06T11:09:24Z"
+  "status": "failed",
+  "at": "2026-11-06T11:09:24Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "4e4b20a23e1585d7",
@@ -8296,7 +8321,12 @@
   "headline": "1,276 deaths from measles symptoms since March 15",
   "topic": "measles outbreak deaths",
   "source": "bdnews24.com, Dhaka Tribune, Jamuna TV",
-  "status": "queued",
-  "at": "2026-11-06T11:09:24Z"
+  "status": "failed",
+  "at": "2026-11-06T11:09:24Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
