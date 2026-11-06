@@ -8293,8 +8293,13 @@
   "headline": "5 Coast Guard vessels renamed, removing names of 4 national leaders",
   "topic": "coast guard vessels renamed",
   "source": "The Daily Star, bdnews24.com",
-  "status": "queued",
-  "at": "2026-11-06T13:10:34Z"
+  "status": "failed",
+  "at": "2026-11-06T13:10:34Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "5f063b23e4ffb1b5",
@@ -8302,8 +8307,13 @@
   "headline": "5 Coast Guard vessels renamed, removing names of 4 national leaders",
   "topic": "coast guard vessels renamed",
   "source": "The Daily Star, bdnews24.com",
-  "status": "queued",
-  "at": "2026-11-06T13:10:34Z"
+  "status": "failed",
+  "at": "2026-11-06T13:10:34Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "9607ceca4c9c83dc",
@@ -8311,7 +8321,12 @@
   "headline": "Two DGFI members dismissed and jailed in extortion case",
   "topic": "dgfi members dismissed jailed extortion",
   "source": "The Daily Star",
-  "status": "queued",
-  "at": "2026-11-06T13:10:34Z"
+  "status": "failed",
+  "at": "2026-11-06T13:10:34Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
