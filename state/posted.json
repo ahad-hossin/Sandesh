@@ -1,33 +1,5 @@
 [
  {
-  "title_hash": "60f90d54e6b4fe05",
-  "url": "https://www.dhakatribune.com/bangladesh/nation/423519/bus-strike-disrupts-services-on-six-routes-in",
-  "headline": "10 Barishal routes hit as bus services suspended over three-wheeler dispute",
-  "topic": "barishal-bus-strike",
-  "source": "The Daily Star, Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-11-02T14:19:59Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "014ec62f7ea220ea",
-  "url": "https://www.thedailystar.net/news/governance/news/bangladesh-public-holidays-2027-cabinet-approves-29-days-4313836",
-  "headline": "29 days off: Cabinet approves 2027 public holidays",
-  "topic": "bangladesh public holidays 2027",
-  "source": "Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-11-02T17:10:46Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "3aa101a99a562ae5",
   "url": "https://www.prothomalo.com/video/bangladesh/ioi1oxerhd",
   "headline": "29 days off: Cabinet approves 2027 public holidays",
@@ -8328,5 +8300,23 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "958755328178ddb4",
+  "url": "https://www.prothomalo.com/fun/voc02k4xuy",
+  "headline": "Five 'real' reasons behind gas price hikes, according to a satirical piece",
+  "topic": "gas price hike reasons",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-11-06T02:08:22Z"
+ },
+ {
+  "title_hash": "fb0f1f4b39a8da15",
+  "url": "https://www.thedailystar.net/news/bangladesh/news/no-passport-needed-bring-hasina-back-4316871",
+  "headline": "State Minister: No passport needed to bring Hasina back from India under extradition treaty",
+  "topic": "no passport needed bring hasina back",
+  "source": "The Daily Star",
+  "status": "queued",
+  "at": "2026-11-06T02:08:22Z"
  }
 ]
