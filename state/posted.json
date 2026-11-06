@@ -8279,8 +8279,13 @@
   "headline": "Friends and well-wishers remember Toufique Imrose Khalidi at memorial service",
   "topic": "toufique imrose khalidi memorial",
   "source": "bdnews24.com",
-  "status": "queued",
-  "at": "2026-11-06T19:14:07Z"
+  "status": "failed",
+  "at": "2026-11-06T19:14:07Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "2380bbf1bae56ea8",
@@ -8288,8 +8293,13 @@
   "headline": "Friends and well-wishers remember Toufique Imrose Khalidi at memorial service",
   "topic": "toufique imrose khalidi memorial",
   "source": "bdnews24.com",
-  "status": "queued",
-  "at": "2026-11-06T19:14:07Z"
+  "status": "failed",
+  "at": "2026-11-06T19:14:07Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "e39f7ce5e842a1a3",
@@ -8297,8 +8307,13 @@
   "headline": "Fire engulfs passenger bus in Dhaka's Baridhara",
   "topic": "baridhara bus fire",
   "source": "bdnews24.com, Prothom Alo",
-  "status": "queued",
-  "at": "2026-11-06T19:14:07Z"
+  "status": "failed",
+  "at": "2026-11-06T19:14:07Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "ae84690a94baa47d",
@@ -8306,7 +8321,12 @@
   "headline": "Fire engulfs passenger bus in Dhaka's Baridhara",
   "topic": "baridhara bus fire",
   "source": "bdnews24.com, Prothom Alo",
-  "status": "queued",
-  "at": "2026-11-06T19:14:07Z"
+  "status": "failed",
+  "at": "2026-11-06T19:14:07Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
