@@ -8279,8 +8279,13 @@
   "headline": "Rabindranath Tagore mural defaced with black ink in Khulna",
   "topic": "tagore mural defaced khulna",
   "source": "Dhaka Tribune, The Daily Star",
-  "status": "queued",
-  "at": "2026-11-06T22:08:25Z"
+  "status": "failed",
+  "at": "2026-11-06T22:08:25Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "0b9adf3be7b774c8",
@@ -8288,8 +8293,13 @@
   "headline": "Rabindranath Tagore mural defaced with black ink in Khulna",
   "topic": "tagore mural defaced khulna",
   "source": "Dhaka Tribune, The Daily Star",
-  "status": "queued",
-  "at": "2026-11-06T22:08:25Z"
+  "status": "failed",
+  "at": "2026-11-06T22:08:25Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "0f3e980af1c2c86e",
@@ -8297,8 +8307,13 @@
   "headline": "BJP MP calls for reclaiming Noakhali, Chittagong Port, and Sylhet from Bangladesh",
   "topic": "bjp mp reclaim noakhali ctg sylhet",
   "source": "bdnews24.com, Prothom Alo",
-  "status": "queued",
-  "at": "2026-11-06T22:08:25Z"
+  "status": "failed",
+  "at": "2026-11-06T22:08:25Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "221eb901cbaa98d9",
@@ -8306,7 +8321,12 @@
   "headline": "BJP MP calls for reclaiming Noakhali, Chittagong Port, and Sylhet from Bangladesh",
   "topic": "bjp mp reclaim noakhali ctg sylhet",
   "source": "bdnews24.com, Prothom Alo",
-  "status": "queued",
-  "at": "2026-11-06T22:08:25Z"
+  "status": "failed",
+  "at": "2026-11-06T22:08:25Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
