@@ -1,89 +1,5 @@
 [
  {
-  "title_hash": "d57ce4c59bebbfda",
-  "url": "https://www.thedailystar.net/news/bangladesh/news/whom-should-i-turn-justice-4314086",
-  "headline": "Four national leaders murdered in Dhaka Central Jail on November 3, 1975, amid power struggle",
-  "topic": "jail killing day observance",
-  "source": "Jamuna TV, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-11-03T03:07:07Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "9d2e7a2fd27c2c5f",
-  "url": "https://bdnews24.com/world/0vwf4g2x8r",
-  "headline": "US Supreme Court rejects Trump bid to stop California ballot count",
-  "topic": "us top court rejects trump ballot count bid",
-  "source": "bdnews24.com, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-11-03T04:09:10Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "def739c5bd325def",
-  "url": "https://www.prothomalo.com/world/usa/h1l8c5robf",
-  "headline": "US Supreme Court rejects Trump bid to stop California ballot count",
-  "topic": "us top court rejects trump ballot count bid",
-  "source": "bdnews24.com, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-11-03T04:09:10Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "95b42df0febcc172",
-  "url": "https://www.thedailystar.net/news/world/united-states/news/trump-administration-takes-california-ballot-fight-supreme-court-4314126",
-  "headline": "US Supreme Court rejects Trump bid to stop California ballot count",
-  "topic": "us top court rejects trump ballot count bid",
-  "source": "bdnews24.com, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-11-03T04:09:10Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "5e49b2c4063a5d56",
-  "url": "https://bdnews24.com/cricket/qbmfbtcl8v",
-  "headline": "Glenn Maxwell announces international retirement at 38",
-  "topic": "glenn maxwell retires from international cricket",
-  "source": "bdnews24.com, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-11-03T04:09:10Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "34e7f1b67f6bb330",
-  "url": "https://www.prothomalo.com/sports/cricket/r10qs1rk7x",
-  "headline": "Glenn Maxwell announces international retirement at 38",
-  "topic": "glenn maxwell retires from international cricket",
-  "source": "bdnews24.com, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-11-03T04:09:10Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "dca56ac93faa93c8",
   "url": "https://www.thedailystar.net/sports/cricket/news/maxwell-calls-time-international-career-4314146",
   "headline": "Glenn Maxwell announces international retirement at 38",
@@ -8328,5 +8244,59 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "e6b42ff485ba0fa9",
+  "url": "https://www.jamuna.tv/national/667522",
+  "headline": "Govt renames 5 Coast Guard ships, removing names of 4 national leaders",
+  "topic": "coast guard ship name change",
+  "source": "Jamuna TV, Prothom Alo",
+  "status": "queued",
+  "at": "2026-11-06T11:09:24Z"
+ },
+ {
+  "title_hash": "3c0e58824a325640",
+  "url": "https://www.prothomalo.com/bangladesh/jaatiiyy-caar-netaar-naamer-jaahaajer-naam-bdl",
+  "headline": "Govt renames 5 Coast Guard ships, removing names of 4 national leaders",
+  "topic": "coast guard ship name change",
+  "source": "Jamuna TV, Prothom Alo",
+  "status": "queued",
+  "at": "2026-11-06T11:09:24Z"
+ },
+ {
+  "title_hash": "7eefb49d9f3f4fb2",
+  "url": "https://www.prothomalo.com/bangladesh/mwrqxgbbdz",
+  "headline": "Govt renames 5 Coast Guard ships, removing names of 4 national leaders",
+  "topic": "coast guard ship name change",
+  "source": "Jamuna TV, Prothom Alo",
+  "status": "queued",
+  "at": "2026-11-06T11:09:24Z"
+ },
+ {
+  "title_hash": "ac393b77e40d2cd4",
+  "url": "https://bdnews24.com/health/z0v4dxv74q",
+  "headline": "1,276 deaths from measles symptoms since March 15",
+  "topic": "measles outbreak deaths",
+  "source": "bdnews24.com, Dhaka Tribune, Jamuna TV",
+  "status": "queued",
+  "at": "2026-11-06T11:09:24Z"
+ },
+ {
+  "title_hash": "083f50823cb5fe1b",
+  "url": "https://www.dhakatribune.com/bangladesh/health/423868/measles-outbreak-death-toll-reaches-1-276-as-four",
+  "headline": "1,276 deaths from measles symptoms since March 15",
+  "topic": "measles outbreak deaths",
+  "source": "bdnews24.com, Dhaka Tribune, Jamuna TV",
+  "status": "queued",
+  "at": "2026-11-06T11:09:24Z"
+ },
+ {
+  "title_hash": "4e4b20a23e1585d7",
+  "url": "https://www.jamuna.tv/health/667514",
+  "headline": "1,276 deaths from measles symptoms since March 15",
+  "topic": "measles outbreak deaths",
+  "source": "bdnews24.com, Dhaka Tribune, Jamuna TV",
+  "status": "queued",
+  "at": "2026-11-06T11:09:24Z"
  }
 ]
