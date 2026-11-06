@@ -8251,8 +8251,13 @@
   "headline": "Rabindranath Tagore mural defaced with black ink at Khulna Railway Station",
   "topic": "tagore mural defaced khulna",
   "source": "The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-11-06T20:08:46Z"
+  "status": "failed",
+  "at": "2026-11-06T20:08:46Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "96ec909b2c39954a",
@@ -8260,8 +8265,13 @@
   "headline": "Rabindranath Tagore mural defaced with black ink at Khulna Railway Station",
   "topic": "tagore mural defaced khulna",
   "source": "The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-11-06T20:08:46Z"
+  "status": "failed",
+  "at": "2026-11-06T20:08:46Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "aef3f0341ccc3a26",
@@ -8269,8 +8279,13 @@
   "headline": "234 caps, 146 goals: Cristiano Ronaldo retires from international football",
   "topic": "ronaldo retirement national team",
   "source": "The Daily Star, Prothom Alo, bdnews24.com",
-  "status": "queued",
-  "at": "2026-11-06T20:08:46Z"
+  "status": "failed",
+  "at": "2026-11-06T20:08:46Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "0e355c8dee5edf92",
@@ -8278,8 +8293,13 @@
   "headline": "234 caps, 146 goals: Cristiano Ronaldo retires from international football",
   "topic": "ronaldo retirement national team",
   "source": "The Daily Star, Prothom Alo, bdnews24.com",
-  "status": "queued",
-  "at": "2026-11-06T20:08:46Z"
+  "status": "failed",
+  "at": "2026-11-06T20:08:46Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "daf55560d3fac2ed",
@@ -8287,8 +8307,13 @@
   "headline": "234 caps, 146 goals: Cristiano Ronaldo retires from international football",
   "topic": "ronaldo retirement national team",
   "source": "The Daily Star, Prothom Alo, bdnews24.com",
-  "status": "queued",
-  "at": "2026-11-06T20:08:46Z"
+  "status": "failed",
+  "at": "2026-11-06T20:08:46Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "83f4136b92cd0d3e",
@@ -8296,7 +8321,12 @@
   "headline": "234 caps, 146 goals: Cristiano Ronaldo retires from international football",
   "topic": "ronaldo retirement national team",
   "source": "The Daily Star, Prothom Alo, bdnews24.com",
-  "status": "queued",
-  "at": "2026-11-06T20:08:46Z"
+  "status": "failed",
+  "at": "2026-11-06T20:08:46Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
