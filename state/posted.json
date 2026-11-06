@@ -1,33 +1,5 @@
 [
  {
-  "title_hash": "97866a1b3b6f468f",
-  "url": "https://www.prothomalo.com/video/bangladesh/78f5y1133z",
-  "headline": "Writing with feet, Rafiqul scores GPA-5 again in HSC exams",
-  "topic": "student rafiqul gpa 5 with feet",
-  "source": "Prothom Alo",
-  "status": "failed",
-  "at": "2026-11-02T19:21:00Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "2289a3aca54b6007",
-  "url": "https://www.prothomalo.com/bangladesh/crime/2qicj662cd",
-  "headline": "Tk 1,121 crore embezzled: ACC approves 3 cases against Salman F Rahman",
-  "topic": "salman f rahman embezzlement case",
-  "source": "Prothom Alo",
-  "status": "failed",
-  "at": "2026-11-02T19:21:00Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "db0332fd08b53d3c",
   "url": "https://www.dhakatribune.com/bangladesh/dhaka/423577/crude-bomb-explodes-beneath-agargaon-metro-station",
   "headline": "Crude bomb explodes beneath Agargaon metro station",
@@ -8328,5 +8300,23 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "106e79c3c881412a",
+  "url": "https://www.prothomalo.com/bangladesh/5tdwps4gdf",
+  "headline": "Police used batons and tear gas on garment workers protesting for higher wages in Bangladesh, says HRW",
+  "topic": "hrw urges police to avoid excessive force on garment workers",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-11-06T06:22:07Z"
+ },
+ {
+  "title_hash": "9607ceca4c9c83dc",
+  "url": "https://www.thedailystar.net/news/crime-justice/news/two-dgfi-members-dismissed-jailed-mohammadpur-extortion-case-4316711",
+  "headline": "Two DGFI members dismissed and jailed in Mohammadpur extortion case",
+  "topic": "two dgfi members dismissed, jailed for extortion",
+  "source": "The Daily Star",
+  "status": "queued",
+  "at": "2026-11-06T06:22:07Z"
  }
 ]
