@@ -8251,8 +8251,13 @@
   "headline": "1,535 hospitalised as 3 more die of dengue in 24 hours",
   "topic": "dengue deaths rise",
   "source": "The Daily Star, Dhaka Tribune, bdnews24.com",
-  "status": "queued",
-  "at": "2026-11-06T15:08:07Z"
+  "status": "failed",
+  "at": "2026-11-06T15:08:07Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "183d3205c60a93bb",
@@ -8260,8 +8265,13 @@
   "headline": "1,535 hospitalised as 3 more die of dengue in 24 hours",
   "topic": "dengue deaths rise",
   "source": "The Daily Star, Dhaka Tribune, bdnews24.com",
-  "status": "queued",
-  "at": "2026-11-06T15:08:07Z"
+  "status": "failed",
+  "at": "2026-11-06T15:08:07Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "c2deb112248ae2a1",
@@ -8269,8 +8279,13 @@
   "headline": "1,535 hospitalised as 3 more die of dengue in 24 hours",
   "topic": "dengue deaths rise",
   "source": "The Daily Star, Dhaka Tribune, bdnews24.com",
-  "status": "queued",
-  "at": "2026-11-06T15:08:07Z"
+  "status": "failed",
+  "at": "2026-11-06T15:08:07Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "08e190849c065380",
@@ -8278,8 +8293,13 @@
   "headline": "Attack in Chandpur: July uprising martyrs’ memorial torched by miscreants",
   "topic": "july memorial torched chandpur",
   "source": "Prothom Alo, Dhaka Tribune, bdnews24.com",
-  "status": "queued",
-  "at": "2026-11-06T15:08:07Z"
+  "status": "failed",
+  "at": "2026-11-06T15:08:07Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "3221c0645f5e28ce",
@@ -8287,8 +8307,13 @@
   "headline": "Attack in Chandpur: July uprising martyrs’ memorial torched by miscreants",
   "topic": "july memorial torched chandpur",
   "source": "Prothom Alo, Dhaka Tribune, bdnews24.com",
-  "status": "queued",
-  "at": "2026-11-06T15:08:07Z"
+  "status": "failed",
+  "at": "2026-11-06T15:08:07Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "4252e93e480f5327",
@@ -8296,7 +8321,12 @@
   "headline": "Attack in Chandpur: July uprising martyrs’ memorial torched by miscreants",
   "topic": "july memorial torched chandpur",
   "source": "Prothom Alo, Dhaka Tribune, bdnews24.com",
-  "status": "queued",
-  "at": "2026-11-06T15:08:07Z"
+  "status": "failed",
+  "at": "2026-11-06T15:08:07Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
