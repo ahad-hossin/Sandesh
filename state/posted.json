@@ -8307,8 +8307,13 @@
   "headline": "Five 'real' reasons behind gas price hikes, according to a satirical piece",
   "topic": "gas price hike reasons",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-11-06T02:08:22Z"
+  "status": "failed",
+  "at": "2026-11-06T02:08:22Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "fb0f1f4b39a8da15",
@@ -8316,7 +8321,12 @@
   "headline": "State Minister: No passport needed to bring Hasina back from India under extradition treaty",
   "topic": "no passport needed bring hasina back",
   "source": "The Daily Star",
-  "status": "queued",
-  "at": "2026-11-06T02:08:22Z"
+  "status": "failed",
+  "at": "2026-11-06T02:08:22Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
