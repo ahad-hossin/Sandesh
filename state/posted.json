@@ -1,47 +1,5 @@
 [
  {
-  "title_hash": "f70c3478c8e64511",
-  "url": "https://bdnews24.com/bangladesh/a09o8has0y",
-  "headline": "Cyclone Murasu: Severe cyclonic storm to cross India's coast tonight",
-  "topic": "cyclone murasu coast crossing",
-  "source": "bdnews24.com",
-  "status": "failed",
-  "at": "2026-11-02T13:15:08Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "1c9201c5edc83563",
-  "url": "https://www.prothomalo.com/bangladesh/4qz8x2uwjm",
-  "headline": "22 days of total leave: Cabinet approves next year's holiday list",
-  "topic": "2026-holiday-list",
-  "source": "Prothom Alo",
-  "status": "failed",
-  "at": "2026-11-02T14:19:59Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "4d89eae9e1533d69",
-  "url": "https://www.thedailystar.net/news/news/bus-services-10-barishal-routes-suspended-over-three-wheeler-dispute-4313611",
-  "headline": "10 Barishal routes hit as bus services suspended over three-wheeler dispute",
-  "topic": "barishal-bus-strike",
-  "source": "The Daily Star, Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-11-02T14:19:59Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "60f90d54e6b4fe05",
   "url": "https://www.dhakatribune.com/bangladesh/nation/423519/bus-strike-disrupts-services-on-six-routes-in",
   "headline": "10 Barishal routes hit as bus services suspended over three-wheeler dispute",
@@ -8328,5 +8286,32 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "9607ceca4c9c83dc",
+  "url": "https://www.thedailystar.net/news/crime-justice/news/two-dgfi-members-dismissed-jailed-mohammadpur-extortion-case-4316711",
+  "headline": "Two DGFI members dismissed, jailed for one year in Mohammadpur extortion case",
+  "topic": "dgfi members jailed extortion",
+  "source": "The Daily Star",
+  "status": "queued",
+  "at": "2026-11-06T01:15:02Z"
+ },
+ {
+  "title_hash": "5a00c175e333c9d6",
+  "url": "https://www.thedailystar.net/news/crime-justice/news/extortion-bid-2-dgfi-men-sacked-jailed-year-4316881",
+  "headline": "Two DGFI members dismissed, jailed for one year in Mohammadpur extortion case",
+  "topic": "dgfi members jailed extortion",
+  "source": "The Daily Star",
+  "status": "queued",
+  "at": "2026-11-06T01:15:02Z"
+ },
+ {
+  "title_hash": "b8b485e0f4902e3c",
+  "url": "https://www.thedailystar.net/campus/news/students-confine-applied-human-science-college-principal-demand-resignation-4316801",
+  "headline": "Students confine college principal for hours in Dhaka over fee dispute, demand resignation",
+  "topic": "students confine principal",
+  "source": "The Daily Star",
+  "status": "queued",
+  "at": "2026-11-06T01:15:02Z"
  }
 ]
