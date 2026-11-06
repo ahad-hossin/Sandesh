@@ -8293,8 +8293,13 @@
   "headline": "White House denies rumors of Hegseth and Rubio resignations after GOP losses",
   "topic": "us election fallout: top officials resign",
   "source": "Prothom Alo, Jamuna TV",
-  "status": "queued",
-  "at": "2026-11-06T05:09:50Z"
+  "status": "failed",
+  "at": "2026-11-06T05:09:50Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "6f7c0a6d0ec853de",
@@ -8302,8 +8307,13 @@
   "headline": "White House denies rumors of Hegseth and Rubio resignations after GOP losses",
   "topic": "us election fallout: top officials resign",
   "source": "Prothom Alo, Jamuna TV",
-  "status": "queued",
-  "at": "2026-11-06T05:09:50Z"
+  "status": "failed",
+  "at": "2026-11-06T05:09:50Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "d63fa9e88322edfb",
@@ -8311,7 +8321,12 @@
   "headline": "Friday morning: Dhaka air quality ‘very unhealthy’",
   "topic": "dhaka air quality very unhealthy",
   "source": "Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-11-06T05:09:50Z"
+  "status": "failed",
+  "at": "2026-11-06T05:09:50Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
