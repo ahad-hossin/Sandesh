@@ -8279,8 +8279,13 @@
   "headline": "14 arrested after fresh clash erupts over New Gini Properties land in Dhaka",
   "topic": "new gini attack arrests",
   "source": "bdnews24.com",
-  "status": "queued",
-  "at": "2026-11-07T19:10:59Z"
+  "status": "failed",
+  "at": "2026-11-07T19:10:59Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "ed6a68d17c2a7438",
@@ -8288,8 +8293,13 @@
   "headline": "14 arrested after fresh clash erupts over New Gini Properties land in Dhaka",
   "topic": "new gini attack arrests",
   "source": "bdnews24.com",
-  "status": "queued",
-  "at": "2026-11-07T19:10:59Z"
+  "status": "failed",
+  "at": "2026-11-07T19:10:59Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "095c78fedc44d205",
@@ -8297,8 +8307,13 @@
   "headline": "Attack in Mirpur: Group attempts to torch passenger bus near Metro Station",
   "topic": "mirpur bus torch attempt",
   "source": "bdnews24.com, Prothom Alo",
-  "status": "queued",
-  "at": "2026-11-07T19:10:59Z"
+  "status": "failed",
+  "at": "2026-11-07T19:10:59Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "486423111c1ed7ca",
@@ -8306,7 +8321,12 @@
   "headline": "Attack in Mirpur: Group attempts to torch passenger bus near Metro Station",
   "topic": "mirpur bus torch attempt",
   "source": "bdnews24.com, Prothom Alo",
-  "status": "queued",
-  "at": "2026-11-07T19:10:59Z"
+  "status": "failed",
+  "at": "2026-11-07T19:10:59Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
