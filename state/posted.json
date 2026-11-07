@@ -8265,8 +8265,13 @@
   "headline": "2 buses targeted: Bus caught fire at Mohakhali terminal in Dhaka",
   "topic": "dhaka bus arson cocktails",
   "source": "bdnews24.com, Prothom Alo",
-  "status": "queued",
-  "at": "2026-11-07T23:08:37Z"
+  "status": "failed",
+  "at": "2026-11-07T23:08:37Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "6e3142b1f4145589",
@@ -8274,8 +8279,13 @@
   "headline": "2 buses targeted: Bus caught fire at Mohakhali terminal in Dhaka",
   "topic": "dhaka bus arson cocktails",
   "source": "bdnews24.com, Prothom Alo",
-  "status": "queued",
-  "at": "2026-11-07T23:08:37Z"
+  "status": "failed",
+  "at": "2026-11-07T23:08:37Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "298b0f67a5298248",
@@ -8283,8 +8293,13 @@
   "headline": "14 arrested after fresh attack on New Gini housing in Dhaka",
   "topic": "new gini properties attack",
   "source": "bdnews24.com, Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-11-07T23:08:37Z"
+  "status": "failed",
+  "at": "2026-11-07T23:08:37Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "a8532bec3ba0b8ca",
@@ -8292,8 +8307,13 @@
   "headline": "14 arrested after fresh attack on New Gini housing in Dhaka",
   "topic": "new gini properties attack",
   "source": "bdnews24.com, Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-11-07T23:08:37Z"
+  "status": "failed",
+  "at": "2026-11-07T23:08:37Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "3ce8c2b7ace79613",
@@ -8301,7 +8321,12 @@
   "headline": "14 arrested after fresh attack on New Gini housing in Dhaka",
   "topic": "new gini properties attack",
   "source": "bdnews24.com, Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-11-07T23:08:37Z"
+  "status": "failed",
+  "at": "2026-11-07T23:08:37Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
