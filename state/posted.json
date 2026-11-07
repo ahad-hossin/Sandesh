@@ -8265,8 +8265,13 @@
   "headline": "Measles outbreak: Death toll reaches 1,175 as four die in 24 hours",
   "topic": "measles outbreak death toll surpasses 1000",
   "source": "Dhaka Tribune, Jamuna TV",
-  "status": "queued",
-  "at": "2026-11-07T11:11:50Z"
+  "status": "failed",
+  "at": "2026-11-07T11:11:50Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "04bfd6643f6c141d",
@@ -8274,8 +8279,13 @@
   "headline": "Measles outbreak: Death toll reaches 1,175 as four die in 24 hours",
   "topic": "measles outbreak death toll surpasses 1000",
   "source": "Dhaka Tribune, Jamuna TV",
-  "status": "queued",
-  "at": "2026-11-07T11:11:50Z"
+  "status": "failed",
+  "at": "2026-11-07T11:11:50Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "977c7f3a2e1631ef",
@@ -8283,8 +8293,13 @@
   "headline": "7 Bangladeshis killed in Saudi road crash",
   "topic": "bangladeshis killed in foreign road accidents",
   "source": "Dhaka Tribune, Prothom Alo",
-  "status": "queued",
-  "at": "2026-11-07T11:11:50Z"
+  "status": "failed",
+  "at": "2026-11-07T11:11:50Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "878bfa0e07836c9a",
@@ -8292,8 +8307,13 @@
   "headline": "7 Bangladeshis killed in Saudi road crash",
   "topic": "bangladeshis killed in foreign road accidents",
   "source": "Dhaka Tribune, Prothom Alo",
-  "status": "queued",
-  "at": "2026-11-07T11:11:50Z"
+  "status": "failed",
+  "at": "2026-11-07T11:11:50Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "98d20cfc9577d54d",
@@ -8301,7 +8321,12 @@
   "headline": "7 Bangladeshis killed in Saudi road crash",
   "topic": "bangladeshis killed in foreign road accidents",
   "source": "Dhaka Tribune, Prothom Alo",
-  "status": "queued",
-  "at": "2026-11-07T11:11:50Z"
+  "status": "failed",
+  "at": "2026-11-07T11:11:50Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
