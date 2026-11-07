@@ -8307,8 +8307,13 @@
   "headline": "PM Tarique Rahman calls for national unity to prevent rights violations",
   "topic": "pm calls for unity against rights violations",
   "source": "The Daily Star",
-  "status": "queued",
-  "at": "2026-11-07T07:08:40Z"
+  "status": "failed",
+  "at": "2026-11-07T07:08:40Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "3c198b2ddded0c82",
@@ -8316,7 +8321,12 @@
   "headline": "2 killed, 20 injured as bus overturns during study tour in Satkania",
   "topic": "bus crash kills teacher and two others en route to Cox's Bazar",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-11-07T07:08:40Z"
+  "status": "failed",
+  "at": "2026-11-07T07:08:40Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
