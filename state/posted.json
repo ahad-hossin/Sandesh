@@ -8265,8 +8265,13 @@
   "headline": "Towhid Hridoy slams historic double ton to lead Bangladesh fightback",
   "topic": "towhid hridoy double century",
   "source": "bdnews24.com, The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-11-07T10:08:49Z"
+  "status": "failed",
+  "at": "2026-11-07T10:08:49Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "b1b2f65a3a884d53",
@@ -8274,8 +8279,13 @@
   "headline": "Towhid Hridoy slams historic double ton to lead Bangladesh fightback",
   "topic": "towhid hridoy double century",
   "source": "bdnews24.com, The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-11-07T10:08:49Z"
+  "status": "failed",
+  "at": "2026-11-07T10:08:49Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "de779fd7e581b0ed",
@@ -8283,8 +8293,13 @@
   "headline": "Towhid Hridoy slams historic double ton to lead Bangladesh fightback",
   "topic": "towhid hridoy double century",
   "source": "bdnews24.com, The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-11-07T10:08:49Z"
+  "status": "failed",
+  "at": "2026-11-07T10:08:49Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "04cb809c8473a504",
@@ -8292,8 +8307,13 @@
   "headline": "Towhid Hridoy slams historic double ton to lead Bangladesh fightback",
   "topic": "towhid hridoy double century",
   "source": "bdnews24.com, The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-11-07T10:08:49Z"
+  "status": "failed",
+  "at": "2026-11-07T10:08:49Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "98d20cfc9577d54d",
@@ -8301,7 +8321,12 @@
   "headline": "7 Bangladeshi nationals killed in Saudi road accident",
   "topic": "bangladeshis killed jeddah road accident",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-11-07T10:08:49Z"
+  "status": "failed",
+  "at": "2026-11-07T10:08:49Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
