@@ -1,61 +1,5 @@
 [
  {
-  "title_hash": "5bd8350fa7a6c7d5",
-  "url": "https://www.thedailystar.net/news/world/north-america/news/chris-pappas-holds-new-hampshire-us-senate-seat-democrats-4315136",
-  "headline": "Democrat Roy Cooper flips North Carolina Senate seat, crucial for party's control",
-  "topic": "us midterm election results",
-  "source": "bdnews24.com, The Daily Star",
-  "status": "failed",
-  "at": "2026-11-04T02:09:03Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "7b4d91e4d6f5644f",
-  "url": "https://www.thedailystar.net/news/world/north-america/news/rising-democratic-star-jon-ossoff-retains-us-senate-seat-georgia-networks-4315101",
-  "headline": "Democrat Roy Cooper flips North Carolina Senate seat, crucial for party's control",
-  "topic": "us midterm election results",
-  "source": "bdnews24.com, The Daily Star",
-  "status": "failed",
-  "at": "2026-11-04T02:09:03Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "f4cb65358ad43d70",
-  "url": "https://www.prothomalo.com/sports/cricket/1wpz9njnvz",
-  "headline": "Indian cricket team agrees to visit Bangladesh for a limited-overs series in January",
-  "topic": "india cricket tour bangladesh",
-  "source": "Prothom Alo",
-  "status": "failed",
-  "at": "2026-11-04T02:09:03Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "58f3e0394bffbebf",
-  "url": "https://www.thedailystar.net/business/economy/news/garment-unrest-clouds-fragile-economic-recovery-4314851",
-  "headline": "Garment worker wage protests force hundreds of factories to close amid fragile economic recovery",
-  "topic": "Garment worker wage protests",
-  "source": "The Daily Star, Prothom Alo, bdnews24.com",
-  "status": "failed",
-  "at": "2026-11-04T03:08:52Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "90e91a3d18264702",
   "url": "https://www.prothomalo.com/opinion/editorial/k7lm6bbtua",
   "headline": "Garment worker wage protests force hundreds of factories to close amid fragile economic recovery",
@@ -8328,5 +8272,41 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "298b0f67a5298248",
+  "url": "https://bdnews24.com/bangladesh/4o7pkw7tx2",
+  "headline": "14 arrested after fresh attack on New Gini Properties housing project",
+  "topic": "new gini properties attack",
+  "source": "Prothom Alo, bdnews24.com",
+  "status": "queued",
+  "at": "2026-11-07T20:09:23Z"
+ },
+ {
+  "title_hash": "a8532bec3ba0b8ca",
+  "url": "https://www.prothomalo.com/bangladesh/crime/e6q50fday7",
+  "headline": "14 arrested after fresh attack on New Gini Properties housing project",
+  "topic": "new gini properties attack",
+  "source": "Prothom Alo, bdnews24.com",
+  "status": "queued",
+  "at": "2026-11-07T20:09:23Z"
+ },
+ {
+  "title_hash": "cdfa0751dd1ebb75",
+  "url": "https://www.thedailystar.net/news/healthcare/disease/news/three-more-die-dengue-1674-get-hospitalised-4317971",
+  "headline": "1,674 hospitalised as three more die of dengue in 24 hours",
+  "topic": "dengue deaths hospitalised",
+  "source": "The Daily Star, bdnews24.com",
+  "status": "queued",
+  "at": "2026-11-07T20:09:23Z"
+ },
+ {
+  "title_hash": "fb3857dfb54ba5d4",
+  "url": "https://bdnews24.com/health/fdlc6sxl11",
+  "headline": "1,674 hospitalised as three more die of dengue in 24 hours",
+  "topic": "dengue deaths hospitalised",
+  "source": "The Daily Star, bdnews24.com",
+  "status": "queued",
+  "at": "2026-11-07T20:09:23Z"
  }
 ]
