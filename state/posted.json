@@ -8293,8 +8293,13 @@
   "headline": "Tragedy in Chattogram: 10-year-old boy dies, baby brother on life support",
   "topic": "father loses child to dengue, another on life support",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-11-07T13:10:14Z"
+  "status": "failed",
+  "at": "2026-11-07T13:10:14Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "cbaec3c634d5dcab",
@@ -8302,8 +8307,13 @@
   "headline": "World Bank commits $300 million to boost primary education in Bangladesh",
   "topic": "World Bank commits $300mn to boost primary education",
   "source": "Prothom Alo, bdnews24.com",
-  "status": "queued",
-  "at": "2026-11-07T13:10:14Z"
+  "status": "failed",
+  "at": "2026-11-07T13:10:14Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "e446821a06b3ebc6",
@@ -8311,7 +8321,12 @@
   "headline": "World Bank commits $300 million to boost primary education in Bangladesh",
   "topic": "World Bank commits $300mn to boost primary education",
   "source": "Prothom Alo, bdnews24.com",
-  "status": "queued",
-  "at": "2026-11-07T13:10:14Z"
+  "status": "failed",
+  "at": "2026-11-07T13:10:14Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
