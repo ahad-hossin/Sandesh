@@ -1,75 +1,5 @@
 [
  {
-  "title_hash": "b348369ae8e7f824",
-  "url": "https://www.thedailystar.net/news/crime-justice/news/tahsif-souri-murder-dip-remanded-three-more-days-4314446",
-  "headline": "Tahsif Souri murder: Friend Ahmed Shahriar Reza Dip gets 3-day remand",
-  "topic": "tahsif souri murder investigation",
-  "source": "The Daily Star, Prothom Alo, bdnews24.com",
-  "status": "failed",
-  "at": "2026-11-03T15:10:49Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "83759b75b14e4d04",
-  "url": "https://www.prothomalo.com/video/bangladesh/8py76zdf8l",
-  "headline": "Tahsif Souri murder: Friend Ahmed Shahriar Reza Dip gets 3-day remand",
-  "topic": "tahsif souri murder investigation",
-  "source": "The Daily Star, Prothom Alo, bdnews24.com",
-  "status": "failed",
-  "at": "2026-11-03T15:10:49Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "3b94de920adf8004",
-  "url": "https://bdnews24.com/bangladesh/xxzeno9xaf",
-  "headline": "Tahsif Souri murder: Friend Ahmed Shahriar Reza Dip gets 3-day remand",
-  "topic": "tahsif souri murder investigation",
-  "source": "The Daily Star, Prothom Alo, bdnews24.com",
-  "status": "failed",
-  "at": "2026-11-03T15:10:49Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "04cbbad0b637ca04",
-  "url": "https://www.thedailystar.net/news/crime-justice/news/magistrate-asks-journalists-leave-courtroom-during-remand-hearing-tahsif-murder-case-4314631",
-  "headline": "Tahsif Souri murder: Friend Ahmed Shahriar Reza Dip gets 3-day remand",
-  "topic": "tahsif souri murder investigation",
-  "source": "The Daily Star, Prothom Alo, bdnews24.com",
-  "status": "failed",
-  "at": "2026-11-03T15:10:49Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "cbde5cd729cd183a",
-  "url": "https://www.thedailystar.net/news/crime-justice/news/garment-workers-police-clash-mirpur-11-teargas-fired-several-detained-4314356",
-  "headline": "Teargas fired as garment workers clash with police in Mirpur",
-  "topic": "garment workers protest savar ashulia",
-  "source": "The Daily Star, Prothom Alo",
-  "status": "failed",
-  "at": "2026-11-03T17:10:08Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "cdf1b6e842171362",
   "url": "https://www.thedailystar.net/news/news/workers-unrest-forces-200-factories-close-savar-ashulia-industrial-police-4314411",
   "headline": "Teargas fired as garment workers clash with police in Mirpur",
@@ -8328,5 +8258,50 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "f461105caab9a26c",
+  "url": "https://www.dhakatribune.com/bangladesh/health/423941/four-more-die-of-suspected-measles",
+  "headline": "Measles outbreak: Death toll reaches 1,175 as four die in 24 hours",
+  "topic": "measles outbreak death toll surpasses 1000",
+  "source": "Dhaka Tribune, Jamuna TV",
+  "status": "queued",
+  "at": "2026-11-07T11:11:50Z"
+ },
+ {
+  "title_hash": "04bfd6643f6c141d",
+  "url": "https://www.jamuna.tv/health/667567",
+  "headline": "Measles outbreak: Death toll reaches 1,175 as four die in 24 hours",
+  "topic": "measles outbreak death toll surpasses 1000",
+  "source": "Dhaka Tribune, Jamuna TV",
+  "status": "queued",
+  "at": "2026-11-07T11:11:50Z"
+ },
+ {
+  "title_hash": "977c7f3a2e1631ef",
+  "url": "https://www.dhakatribune.com/bangladesh/crime/423940/from-job-promises-to-torture-57-recount-teknaf",
+  "headline": "7 Bangladeshis killed in Saudi road crash",
+  "topic": "bangladeshis killed in foreign road accidents",
+  "source": "Dhaka Tribune, Prothom Alo",
+  "status": "queued",
+  "at": "2026-11-07T11:11:50Z"
+ },
+ {
+  "title_hash": "878bfa0e07836c9a",
+  "url": "https://www.dhakatribune.com/bangladesh/423937/seven-bangladeshis-killed-in-saudi-road-crash",
+  "headline": "7 Bangladeshis killed in Saudi road crash",
+  "topic": "bangladeshis killed in foreign road accidents",
+  "source": "Dhaka Tribune, Prothom Alo",
+  "status": "queued",
+  "at": "2026-11-07T11:11:50Z"
+ },
+ {
+  "title_hash": "98d20cfc9577d54d",
+  "url": "https://www.prothomalo.com/bangladesh/2j0pyfijyq",
+  "headline": "7 Bangladeshis killed in Saudi road crash",
+  "topic": "bangladeshis killed in foreign road accidents",
+  "source": "Dhaka Tribune, Prothom Alo",
+  "status": "queued",
+  "at": "2026-11-07T11:11:50Z"
  }
 ]
