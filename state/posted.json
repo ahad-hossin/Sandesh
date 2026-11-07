@@ -1,33 +1,5 @@
 [
  {
-  "title_hash": "9240e3f7ae4f2977",
-  "url": "https://www.prothomalo.com/bangladesh/district/1hqr4cuu6f",
-  "headline": "Mirpur clashes: Police fire teargas and sound grenades to disperse garment workers",
-  "topic": "garment_worker_unrest",
-  "source": "Dhaka Tribune, The Daily Star, Jamuna TV, bdnews24.com, Prothom Alo",
-  "status": "failed",
-  "at": "2026-11-03T13:14:08Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "4640b572ebf5c677",
-  "url": "https://www.dhakatribune.com/bangladesh/dhaka/423594/mirpur-people-gripped-by-fear-after-three-days-of",
-  "headline": "Mirpur clashes: Police fire teargas and sound grenades to disperse garment workers",
-  "topic": "garment_worker_unrest",
-  "source": "Dhaka Tribune, The Daily Star, Jamuna TV, bdnews24.com, Prothom Alo",
-  "status": "failed",
-  "at": "2026-11-03T13:14:08Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "43ab7227f25127da",
   "url": "https://www.prothomalo.com/video/bangladesh/s5jkmah8p0",
   "headline": "Mirpur clashes: Police fire teargas and sound grenades to disperse garment workers",
@@ -8328,5 +8300,23 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "0f3e980af1c2c86e",
+  "url": "https://bdnews24.com/bangladesh/tkbpbs8kuw",
+  "headline": "BJP MP Nishikant Dubey calls for India to 'reclaim' Noakhali, Ctg Port, Sylhet from Bangladesh",
+  "topic": "bjp mp claim bangladesh territory",
+  "source": "bdnews24.com",
+  "status": "queued",
+  "at": "2026-11-07T03:06:32Z"
+ },
+ {
+  "title_hash": "ecaa9eebba538eab",
+  "url": "https://www.prothomalo.com/chakri/employment/tp3xvudv2z",
+  "headline": "Dhaka South City Corporation offers 18 job opportunities in 9th & 10th grade",
+  "topic": "dhaka south city corp job circular",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-11-07T03:06:32Z"
  }
 ]
