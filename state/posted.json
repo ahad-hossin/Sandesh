@@ -1,61 +1,5 @@
 [
  {
-  "title_hash": "14cc5f626ed9b21f",
-  "url": "https://www.prothomalo.com/video/bangladesh/4g2zj1f18g",
-  "headline": "Mirpur clashes: Police fire teargas and sound grenades to disperse garment workers",
-  "topic": "garment_worker_unrest",
-  "source": "Dhaka Tribune, The Daily Star, Jamuna TV, bdnews24.com, Prothom Alo",
-  "status": "failed",
-  "at": "2026-11-03T13:14:08Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "187ed4db13cbee77",
-  "url": "https://www.jamuna.tv/national/667322",
-  "headline": "Mirpur clashes: Police fire teargas and sound grenades to disperse garment workers",
-  "topic": "garment_worker_unrest",
-  "source": "Dhaka Tribune, The Daily Star, Jamuna TV, bdnews24.com, Prothom Alo",
-  "status": "failed",
-  "at": "2026-11-03T13:14:08Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "871148b7acf31d6f",
-  "url": "https://bdnews24.com/bangladesh/1k63o3x2os",
-  "headline": "Mirpur clashes: Police fire teargas and sound grenades to disperse garment workers",
-  "topic": "garment_worker_unrest",
-  "source": "Dhaka Tribune, The Daily Star, Jamuna TV, bdnews24.com, Prothom Alo",
-  "status": "failed",
-  "at": "2026-11-03T13:14:08Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "b0ac242051066de3",
-  "url": "https://www.jamuna.tv/national/667320",
-  "headline": "Mirpur clashes: Police fire teargas and sound grenades to disperse garment workers",
-  "topic": "garment_worker_unrest",
-  "source": "Dhaka Tribune, The Daily Star, Jamuna TV, bdnews24.com, Prothom Alo",
-  "status": "failed",
-  "at": "2026-11-03T13:14:08Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "e35c8a7ff84127ce",
   "url": "https://bdnews24.com/health/puzs2wjl9l",
   "headline": "2,010 hospitalised as 6 more die of dengue in 24 hours",
@@ -8328,5 +8272,41 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "18e8b2c96521d6cc",
+  "url": "https://bdnews24.com/cricket/64x0vdq2za",
+  "headline": "Towhid Hridoy hits maiden Test century to lead Bangladesh fightback",
+  "topic": "hridoy maiden test ton",
+  "source": "bdnews24.com, The Daily Star",
+  "status": "queued",
+  "at": "2026-11-07T06:08:38Z"
+ },
+ {
+  "title_hash": "1605a6e7e3e85878",
+  "url": "https://www.thedailystar.net/sports/cricket/news/hridoy-reaches-maiden-test-ton-tigers-trouble-4317516",
+  "headline": "Towhid Hridoy hits maiden Test century to lead Bangladesh fightback",
+  "topic": "hridoy maiden test ton",
+  "source": "bdnews24.com, The Daily Star",
+  "status": "queued",
+  "at": "2026-11-07T06:08:38Z"
+ },
+ {
+  "title_hash": "cd1eeead72748f81",
+  "url": "https://bdnews24.com/bangladesh/4suoobvj1g",
+  "headline": "Police suspect arson: BRTC bus burned in Khagrachhari",
+  "topic": "brtc bus fire khagrachhari",
+  "source": "Prothom Alo, bdnews24.com",
+  "status": "queued",
+  "at": "2026-11-07T06:08:38Z"
+ },
+ {
+  "title_hash": "13a5e1cdbc347789",
+  "url": "https://www.prothomalo.com/bangladesh/district/iu1xwmkvo2",
+  "headline": "Police suspect arson: BRTC bus burned in Khagrachhari",
+  "topic": "brtc bus fire khagrachhari",
+  "source": "Prothom Alo, bdnews24.com",
+  "status": "queued",
+  "at": "2026-11-07T06:08:38Z"
  }
 ]
