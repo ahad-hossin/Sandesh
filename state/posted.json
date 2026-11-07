@@ -1,75 +1,5 @@
 [
  {
-  "title_hash": "13a884e1fd3e70d7",
-  "url": "https://bdnews24.com/world/americas/93qf0fn7y4",
-  "headline": "Democrat Roy Cooper flips Republican-held US Senate seat in North Carolina",
-  "topic": "roy cooper flips nc senate seat",
-  "source": "The Daily Star, Jamuna TV, bdnews24.com",
-  "status": "failed",
-  "at": "2026-11-04T05:18:30Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "3bb71e924c190302",
-  "url": "https://bdnews24.com/bangladesh/h35az9m4x9",
-  "headline": "RMG wage board to meet for first time amid worker protests",
-  "topic": "rmg wage board meeting",
-  "source": "bdnews24.com, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-11-04T06:08:22Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "1ad87fde73f5510e",
-  "url": "https://www.prothomalo.com/business/mlz2orpwyt",
-  "headline": "RMG wage board to meet for first time amid worker protests",
-  "topic": "rmg wage board meeting",
-  "source": "bdnews24.com, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-11-04T06:08:22Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "eca40549f36c43f6",
-  "url": "https://www.thedailystar.net/business/news/rmg-wage-board-meet-11am-today-amid-protests-4315206",
-  "headline": "RMG wage board to meet for first time amid worker protests",
-  "topic": "rmg wage board meeting",
-  "source": "bdnews24.com, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-11-04T06:08:22Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "967ca5c76f90a9ce",
-  "url": "https://www.thedailystar.net/news/news/sound-grenades-used-disperse-protesting-rmg-workers-gazipur-4315211",
-  "headline": "Police use sound grenades to disperse RMG workers in Gazipur",
-  "topic": "rmg worker protests violence",
-  "source": "The Daily Star, bdnews24.com, Prothom Alo",
-  "status": "failed",
-  "at": "2026-11-04T06:08:22Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "c4095b2977fbb0ff",
   "url": "https://bdnews24.com/bangladesh/v1y657wlq3",
   "headline": "Police use sound grenades to disperse RMG workers in Gazipur",
@@ -8328,5 +8258,50 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "684fa32036b40da5",
+  "url": "https://bdnews24.com/bangladesh/v8egg9exbx",
+  "headline": "2 buses targeted: Bus caught fire at Mohakhali terminal in Dhaka",
+  "topic": "dhaka bus arson cocktails",
+  "source": "bdnews24.com, Prothom Alo",
+  "status": "queued",
+  "at": "2026-11-07T23:08:37Z"
+ },
+ {
+  "title_hash": "6e3142b1f4145589",
+  "url": "https://www.prothomalo.com/bangladesh/capital/19wrdfv1j2",
+  "headline": "2 buses targeted: Bus caught fire at Mohakhali terminal in Dhaka",
+  "topic": "dhaka bus arson cocktails",
+  "source": "bdnews24.com, Prothom Alo",
+  "status": "queued",
+  "at": "2026-11-07T23:08:37Z"
+ },
+ {
+  "title_hash": "298b0f67a5298248",
+  "url": "https://bdnews24.com/bangladesh/4o7pkw7tx2",
+  "headline": "14 arrested after fresh attack on New Gini housing in Dhaka",
+  "topic": "new gini properties attack",
+  "source": "bdnews24.com, Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-11-07T23:08:37Z"
+ },
+ {
+  "title_hash": "a8532bec3ba0b8ca",
+  "url": "https://www.prothomalo.com/bangladesh/crime/e6q50fday7",
+  "headline": "14 arrested after fresh attack on New Gini housing in Dhaka",
+  "topic": "new gini properties attack",
+  "source": "bdnews24.com, Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-11-07T23:08:37Z"
+ },
+ {
+  "title_hash": "3ce8c2b7ace79613",
+  "url": "https://www.thedailystar.net/news/crime-justice/news/new-gini-housing-attacked-again-4318076",
+  "headline": "14 arrested after fresh attack on New Gini housing in Dhaka",
+  "topic": "new gini properties attack",
+  "source": "bdnews24.com, Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-11-07T23:08:37Z"
  }
 ]
