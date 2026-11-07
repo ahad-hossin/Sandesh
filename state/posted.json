@@ -8265,8 +8265,13 @@
   "headline": "Towhid Hridoy hits maiden Test century to lead Bangladesh fightback",
   "topic": "towhid hridoy test century",
   "source": "bdnews24.com, The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-11-07T08:09:45Z"
+  "status": "failed",
+  "at": "2026-11-07T08:09:45Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "e647c57615499bae",
@@ -8274,8 +8279,13 @@
   "headline": "Towhid Hridoy hits maiden Test century to lead Bangladesh fightback",
   "topic": "towhid hridoy test century",
   "source": "bdnews24.com, The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-11-07T08:09:45Z"
+  "status": "failed",
+  "at": "2026-11-07T08:09:45Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "04cb809c8473a504",
@@ -8283,8 +8293,13 @@
   "headline": "Towhid Hridoy hits maiden Test century to lead Bangladesh fightback",
   "topic": "towhid hridoy test century",
   "source": "bdnews24.com, The Daily Star, Prothom Alo",
-  "status": "queued",
-  "at": "2026-11-07T08:09:45Z"
+  "status": "failed",
+  "at": "2026-11-07T08:09:45Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "229a00d28735243b",
@@ -8292,8 +8307,13 @@
   "headline": "229 wickets in 64 Tests: Mohammed Shami retires from Test cricket",
   "topic": "shami retires from tests",
   "source": "bdnews24.com, The Daily Star",
-  "status": "queued",
-  "at": "2026-11-07T08:09:45Z"
+  "status": "failed",
+  "at": "2026-11-07T08:09:45Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "8a148823fba00192",
@@ -8301,7 +8321,12 @@
   "headline": "229 wickets in 64 Tests: Mohammed Shami retires from Test cricket",
   "topic": "shami retires from tests",
   "source": "bdnews24.com, The Daily Star",
-  "status": "queued",
-  "at": "2026-11-07T08:09:45Z"
+  "status": "failed",
+  "at": "2026-11-07T08:09:45Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
