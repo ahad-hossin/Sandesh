@@ -1,33 +1,5 @@
 [
  {
-  "title_hash": "e35c8a7ff84127ce",
-  "url": "https://bdnews24.com/health/puzs2wjl9l",
-  "headline": "2,010 hospitalised as 6 more die of dengue in 24 hours",
-  "topic": "dengue_death_toll",
-  "source": "bdnews24.com, Jamuna TV, The Daily Star",
-  "status": "failed",
-  "at": "2026-11-03T13:14:08Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "ccc4b91803c954a4",
-  "url": "https://www.jamuna.tv/national/667346",
-  "headline": "2,010 hospitalised as 6 more die of dengue in 24 hours",
-  "topic": "dengue_death_toll",
-  "source": "bdnews24.com, Jamuna TV, The Daily Star",
-  "status": "failed",
-  "at": "2026-11-03T13:14:08Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "bf0d9e382c9a8f05",
   "url": "https://www.thedailystar.net/news/healthcare/disease/news/6-more-die-dengue-4314526",
   "headline": "2,010 hospitalised as 6 more die of dengue in 24 hours",
@@ -8328,5 +8300,23 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "9922f33dba5c90f2",
+  "url": "https://www.thedailystar.net/news/governance/news/pm-calls-unity-prevent-rights-violations-foreign-domination-4317531",
+  "headline": "PM Tarique Rahman calls for national unity to prevent rights violations",
+  "topic": "pm calls for unity against rights violations",
+  "source": "The Daily Star",
+  "status": "queued",
+  "at": "2026-11-07T07:08:40Z"
+ },
+ {
+  "title_hash": "3c198b2ddded0c82",
+  "url": "https://www.prothomalo.com/bangladesh/district/bq9bn5fch8",
+  "headline": "2 killed, 20 injured as bus overturns during study tour in Satkania",
+  "topic": "bus crash kills teacher and two others en route to Cox's Bazar",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-11-07T07:08:40Z"
  }
 ]
