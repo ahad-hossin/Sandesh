@@ -8251,8 +8251,13 @@
   "headline": "Ziaur Rahman confined in 1975 coup attempt, leading to historic November 7th",
   "topic": "historic november 7 national day",
   "source": "Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-11-07T02:06:45Z"
+  "status": "failed",
+  "at": "2026-11-07T02:06:45Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "c68f98d52782a806",
@@ -8260,8 +8265,13 @@
   "headline": "Ziaur Rahman confined in 1975 coup attempt, leading to historic November 7th",
   "topic": "historic november 7 national day",
   "source": "Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-11-07T02:06:45Z"
+  "status": "failed",
+  "at": "2026-11-07T02:06:45Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "e2a569ff0eff7303",
@@ -8269,8 +8279,13 @@
   "headline": "Ziaur Rahman confined in 1975 coup attempt, leading to historic November 7th",
   "topic": "historic november 7 national day",
   "source": "Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-11-07T02:06:45Z"
+  "status": "failed",
+  "at": "2026-11-07T02:06:45Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "0051539e28611ec5",
@@ -8278,8 +8293,13 @@
   "headline": "Ziaur Rahman confined in 1975 coup attempt, leading to historic November 7th",
   "topic": "historic november 7 national day",
   "source": "Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-11-07T02:06:45Z"
+  "status": "failed",
+  "at": "2026-11-07T02:06:45Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "344be30a13a75131",
@@ -8287,8 +8307,13 @@
   "headline": "Bangladesh LPG prices soar 52% since Feb, 30-45% higher than neighbors",
   "topic": "lpg price hike bangladesh",
   "source": "Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-11-07T02:06:45Z"
+  "status": "failed",
+  "at": "2026-11-07T02:06:45Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "19ceab2d582cee01",
@@ -8296,7 +8321,12 @@
   "headline": "Bangladesh LPG prices soar 52% since Feb, 30-45% higher than neighbors",
   "topic": "lpg price hike bangladesh",
   "source": "Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-11-07T02:06:45Z"
+  "status": "failed",
+  "at": "2026-11-07T02:06:45Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
