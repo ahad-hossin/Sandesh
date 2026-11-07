@@ -8307,8 +8307,13 @@
   "headline": "BJP MP calls for 'reclaiming' Noakhali, Ctg Port, Sylhet from Bangladesh, citing Partition-era claims",
   "topic": "bjp mp reclaim bd territory",
   "source": "bdnews24.com",
-  "status": "queued",
-  "at": "2026-11-07T00:08:52Z"
+  "status": "failed",
+  "at": "2026-11-07T00:08:52Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "344be30a13a75131",
@@ -8316,7 +8321,12 @@
   "headline": "Bangladesh LPG prices soar 52% since February, costing 30-45% more than neighbors",
   "topic": "lpg prices too high",
   "source": "The Daily Star",
-  "status": "queued",
-  "at": "2026-11-07T00:08:52Z"
+  "status": "failed",
+  "at": "2026-11-07T00:08:52Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
