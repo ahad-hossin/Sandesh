@@ -1,47 +1,5 @@
 [
  {
-  "title_hash": "ae5e38c83f0b780a",
-  "url": "https://www.thedailystar.net/news/news/lpg-price-hike-sparks-fresh-anger-among-garment-workers-ashulia-4314486",
-  "headline": "16 held as garment workers protest for Tk 30,000 wage in Mirpur",
-  "topic": "mirpur garment workers protest",
-  "source": "bdnews24.com, The Daily Star, Prothom Alo",
-  "status": "failed",
-  "at": "2026-11-03T17:10:08Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "1556a882b9a2e033",
-  "url": "https://bdnews24.com/bangladesh/qwe52igvzi",
-  "headline": "Press minister, police spar over BNP leader's alleged arrest pressure",
-  "topic": "garment-worker-police-clashes",
-  "source": "bdnews24.com, Dhaka Tribune, Prothom Alo",
-  "status": "failed",
-  "at": "2026-11-03T18:10:35Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "668a9257c52bb950",
-  "url": "https://bdnews24.com/bangladesh/as8mbcq4ib",
-  "headline": "Press minister, police spar over BNP leader's alleged arrest pressure",
-  "topic": "garment-worker-police-clashes",
-  "source": "bdnews24.com, Dhaka Tribune, Prothom Alo",
-  "status": "failed",
-  "at": "2026-11-03T18:10:35Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "427c384ca4918947",
   "url": "https://www.dhakatribune.com/bangladesh/nation/423647/at-least-50-police-injured-in-ashulia-worker",
   "headline": "Press minister, police spar over BNP leader's alleged arrest pressure",
@@ -8328,5 +8286,32 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "5a1e92fb61d51176",
+  "url": "https://www.prothomalo.com/bangladesh/district/tx92uirfn9",
+  "headline": "Tragedy in Chattogram: 10-year-old boy dies, baby brother on life support",
+  "topic": "father loses child to dengue, another on life support",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-11-07T13:10:14Z"
+ },
+ {
+  "title_hash": "cbaec3c634d5dcab",
+  "url": "https://bdnews24.com/bangladesh/cxxw41kxs0",
+  "headline": "World Bank commits $300 million to boost primary education in Bangladesh",
+  "topic": "World Bank commits $300mn to boost primary education",
+  "source": "Prothom Alo, bdnews24.com",
+  "status": "queued",
+  "at": "2026-11-07T13:10:14Z"
+ },
+ {
+  "title_hash": "e446821a06b3ebc6",
+  "url": "https://www.prothomalo.com/education/8t3ldgpf4f",
+  "headline": "World Bank commits $300 million to boost primary education in Bangladesh",
+  "topic": "World Bank commits $300mn to boost primary education",
+  "source": "Prothom Alo, bdnews24.com",
+  "status": "queued",
+  "at": "2026-11-07T13:10:14Z"
  }
 ]
