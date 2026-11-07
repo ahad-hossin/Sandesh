@@ -8279,8 +8279,13 @@
   "headline": "14 arrested after fresh attack on New Gini Properties housing project",
   "topic": "new gini properties attack",
   "source": "Prothom Alo, bdnews24.com",
-  "status": "queued",
-  "at": "2026-11-07T20:09:23Z"
+  "status": "failed",
+  "at": "2026-11-07T20:09:23Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "a8532bec3ba0b8ca",
@@ -8288,8 +8293,13 @@
   "headline": "14 arrested after fresh attack on New Gini Properties housing project",
   "topic": "new gini properties attack",
   "source": "Prothom Alo, bdnews24.com",
-  "status": "queued",
-  "at": "2026-11-07T20:09:23Z"
+  "status": "failed",
+  "at": "2026-11-07T20:09:23Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "cdfa0751dd1ebb75",
@@ -8297,8 +8307,13 @@
   "headline": "1,674 hospitalised as three more die of dengue in 24 hours",
   "topic": "dengue deaths hospitalised",
   "source": "The Daily Star, bdnews24.com",
-  "status": "queued",
-  "at": "2026-11-07T20:09:23Z"
+  "status": "failed",
+  "at": "2026-11-07T20:09:23Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "fb3857dfb54ba5d4",
@@ -8306,7 +8321,12 @@
   "headline": "1,674 hospitalised as three more die of dengue in 24 hours",
   "topic": "dengue deaths hospitalised",
   "source": "The Daily Star, bdnews24.com",
-  "status": "queued",
-  "at": "2026-11-07T20:09:23Z"
+  "status": "failed",
+  "at": "2026-11-07T20:09:23Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
