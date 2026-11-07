@@ -1,61 +1,5 @@
 [
  {
-  "title_hash": "13a884e1fd3e70d7",
-  "url": "https://bdnews24.com/world/americas/93qf0fn7y4",
-  "headline": "Democrat Roy Cooper flips North Carolina Senate seat, crucial for party's control",
-  "topic": "us midterm election results",
-  "source": "bdnews24.com, The Daily Star",
-  "status": "failed",
-  "at": "2026-11-04T02:09:03Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "69117bc991f39d33",
-  "url": "https://bdnews24.com/world/americas/v03xb9ohph",
-  "headline": "Democrat Roy Cooper flips North Carolina Senate seat, crucial for party's control",
-  "topic": "us midterm election results",
-  "source": "bdnews24.com, The Daily Star",
-  "status": "failed",
-  "at": "2026-11-04T02:09:03Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "c9b37112ca90a04b",
-  "url": "https://bdnews24.com/world/americas/oemgcopqwq",
-  "headline": "Democrat Roy Cooper flips North Carolina Senate seat, crucial for party's control",
-  "topic": "us midterm election results",
-  "source": "bdnews24.com, The Daily Star",
-  "status": "failed",
-  "at": "2026-11-04T02:09:03Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "1d60f175bf9ef2ce",
-  "url": "https://www.thedailystar.net/news/world/north-america/news/democrat-roy-cooper-flips-republican-held-us-senate-seat-north-carolina-4315141",
-  "headline": "Democrat Roy Cooper flips North Carolina Senate seat, crucial for party's control",
-  "topic": "us midterm election results",
-  "source": "bdnews24.com, The Daily Star",
-  "status": "failed",
-  "at": "2026-11-04T02:09:03Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "5bd8350fa7a6c7d5",
   "url": "https://www.thedailystar.net/news/world/north-america/news/chris-pappas-holds-new-hampshire-us-senate-seat-democrats-4315136",
   "headline": "Democrat Roy Cooper flips North Carolina Senate seat, crucial for party's control",
@@ -8328,5 +8272,41 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "298b0f67a5298248",
+  "url": "https://bdnews24.com/bangladesh/4o7pkw7tx2",
+  "headline": "14 arrested after fresh clash erupts over New Gini Properties land in Dhaka",
+  "topic": "new gini attack arrests",
+  "source": "bdnews24.com",
+  "status": "queued",
+  "at": "2026-11-07T19:10:59Z"
+ },
+ {
+  "title_hash": "ed6a68d17c2a7438",
+  "url": "https://bdnews24.com/bangladesh/lsyw1odmo0",
+  "headline": "14 arrested after fresh clash erupts over New Gini Properties land in Dhaka",
+  "topic": "new gini attack arrests",
+  "source": "bdnews24.com",
+  "status": "queued",
+  "at": "2026-11-07T19:10:59Z"
+ },
+ {
+  "title_hash": "095c78fedc44d205",
+  "url": "https://bdnews24.com/bangladesh/oe1wx1b0nj",
+  "headline": "Attack in Mirpur: Group attempts to torch passenger bus near Metro Station",
+  "topic": "mirpur bus torch attempt",
+  "source": "bdnews24.com, Prothom Alo",
+  "status": "queued",
+  "at": "2026-11-07T19:10:59Z"
+ },
+ {
+  "title_hash": "486423111c1ed7ca",
+  "url": "https://www.prothomalo.com/bangladesh/crime/athkwtzgdz",
+  "headline": "Attack in Mirpur: Group attempts to torch passenger bus near Metro Station",
+  "topic": "mirpur bus torch attempt",
+  "source": "bdnews24.com, Prothom Alo",
+  "status": "queued",
+  "at": "2026-11-07T19:10:59Z"
  }
 ]
