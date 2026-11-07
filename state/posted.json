@@ -1,75 +1,5 @@
 [
  {
-  "title_hash": "bf0d9e382c9a8f05",
-  "url": "https://www.thedailystar.net/news/healthcare/disease/news/6-more-die-dengue-4314526",
-  "headline": "2,010 hospitalised as 6 more die of dengue in 24 hours",
-  "topic": "dengue_death_toll",
-  "source": "bdnews24.com, Jamuna TV, The Daily Star",
-  "status": "failed",
-  "at": "2026-11-03T13:14:08Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "5da6bcf0d83aef53",
-  "url": "https://bdnews24.com/bangladesh/xnbxsuxm8n",
-  "headline": "PM sets September deadline for second Padma and Jamuna bridges",
-  "topic": "pm sets deadline for new Padma, Jamuna bridges",
-  "source": "bdnews24.com",
-  "status": "failed",
-  "at": "2026-11-03T14:09:14Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "cbde5cd729cd183a",
-  "url": "https://www.thedailystar.net/news/crime-justice/news/garment-workers-police-clash-mirpur-11-teargas-fired-several-detained-4314356",
-  "headline": "Police fire teargas as garment workers clash with police in Mirpur-11",
-  "topic": "garment workers protest disrupt transport",
-  "source": "The Daily Star, Prothom Alo",
-  "status": "failed",
-  "at": "2026-11-03T14:09:14Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "cdf1b6e842171362",
-  "url": "https://www.thedailystar.net/news/news/workers-unrest-forces-200-factories-close-savar-ashulia-industrial-police-4314411",
-  "headline": "Police fire teargas as garment workers clash with police in Mirpur-11",
-  "topic": "garment workers protest disrupt transport",
-  "source": "The Daily Star, Prothom Alo",
-  "status": "failed",
-  "at": "2026-11-03T14:09:14Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "3fe58b621af01d27",
-  "url": "https://www.thedailystar.net/news/news/garment-workers-protest-disrupts-metro-service-mirpur-11-4314286",
-  "headline": "Police fire teargas as garment workers clash with police in Mirpur-11",
-  "topic": "garment workers protest disrupt transport",
-  "source": "The Daily Star, Prothom Alo",
-  "status": "failed",
-  "at": "2026-11-03T14:09:14Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "a188b5c6e5ef818e",
   "url": "https://www.thedailystar.net/news/news/garment-workers-block-highways-savar-narayanganj-clash-police-4314546",
   "headline": "Police fire teargas as garment workers clash with police in Mirpur-11",
@@ -8328,5 +8258,50 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "18e8b2c96521d6cc",
+  "url": "https://bdnews24.com/cricket/64x0vdq2za",
+  "headline": "Towhid Hridoy hits maiden Test century to lead Bangladesh fightback",
+  "topic": "towhid hridoy test century",
+  "source": "bdnews24.com, The Daily Star, Prothom Alo",
+  "status": "queued",
+  "at": "2026-11-07T08:09:45Z"
+ },
+ {
+  "title_hash": "e647c57615499bae",
+  "url": "https://www.thedailystar.net/sports/cricket/news/hridoys-150-fuels-tigers-fightback-4317516",
+  "headline": "Towhid Hridoy hits maiden Test century to lead Bangladesh fightback",
+  "topic": "towhid hridoy test century",
+  "source": "bdnews24.com, The Daily Star, Prothom Alo",
+  "status": "queued",
+  "at": "2026-11-07T08:09:45Z"
+ },
+ {
+  "title_hash": "04cb809c8473a504",
+  "url": "https://www.prothomalo.com/sports/cricket/cmrqlzdv5i",
+  "headline": "Towhid Hridoy hits maiden Test century to lead Bangladesh fightback",
+  "topic": "towhid hridoy test century",
+  "source": "bdnews24.com, The Daily Star, Prothom Alo",
+  "status": "queued",
+  "at": "2026-11-07T08:09:45Z"
+ },
+ {
+  "title_hash": "229a00d28735243b",
+  "url": "https://bdnews24.com/sport/z2hrmyg7oh",
+  "headline": "229 wickets in 64 Tests: Mohammed Shami retires from Test cricket",
+  "topic": "shami retires from tests",
+  "source": "bdnews24.com, The Daily Star",
+  "status": "queued",
+  "at": "2026-11-07T08:09:45Z"
+ },
+ {
+  "title_hash": "8a148823fba00192",
+  "url": "https://www.thedailystar.net/sports/cricket/news/i-started-it-today-and-i-am-ending-it-today-shami-retires-tests-4317506",
+  "headline": "229 wickets in 64 Tests: Mohammed Shami retires from Test cricket",
+  "topic": "shami retires from tests",
+  "source": "bdnews24.com, The Daily Star",
+  "status": "queued",
+  "at": "2026-11-07T08:09:45Z"
  }
 ]
