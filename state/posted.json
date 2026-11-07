@@ -8279,8 +8279,13 @@
   "headline": "Towhid Hridoy hits maiden Test century to lead Bangladesh fightback",
   "topic": "hridoy maiden test ton",
   "source": "bdnews24.com, The Daily Star",
-  "status": "queued",
-  "at": "2026-11-07T06:08:38Z"
+  "status": "failed",
+  "at": "2026-11-07T06:08:38Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "1605a6e7e3e85878",
@@ -8288,8 +8293,13 @@
   "headline": "Towhid Hridoy hits maiden Test century to lead Bangladesh fightback",
   "topic": "hridoy maiden test ton",
   "source": "bdnews24.com, The Daily Star",
-  "status": "queued",
-  "at": "2026-11-07T06:08:38Z"
+  "status": "failed",
+  "at": "2026-11-07T06:08:38Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "cd1eeead72748f81",
@@ -8297,8 +8307,13 @@
   "headline": "Police suspect arson: BRTC bus burned in Khagrachhari",
   "topic": "brtc bus fire khagrachhari",
   "source": "Prothom Alo, bdnews24.com",
-  "status": "queued",
-  "at": "2026-11-07T06:08:38Z"
+  "status": "failed",
+  "at": "2026-11-07T06:08:38Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "13a5e1cdbc347789",
@@ -8306,7 +8321,12 @@
   "headline": "Police suspect arson: BRTC bus burned in Khagrachhari",
   "topic": "brtc bus fire khagrachhari",
   "source": "Prothom Alo, bdnews24.com",
-  "status": "queued",
-  "at": "2026-11-07T06:08:38Z"
+  "status": "failed",
+  "at": "2026-11-07T06:08:38Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
