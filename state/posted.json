@@ -8307,8 +8307,13 @@
   "headline": "Dhaka South City Corporation offers job opportunities in 9th and 10th grades",
   "topic": "dhaka south city corporation job circular",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-11-07T04:06:44Z"
+  "status": "failed",
+  "at": "2026-11-07T04:06:44Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "9c07edd9b92ab0f2",
@@ -8316,7 +8321,12 @@
   "headline": "South Korea targets 400,000 foreign students, offers 3-year post-study stay with new visa changes",
   "topic": "south korea higher education visa changes",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-11-07T04:06:44Z"
+  "status": "failed",
+  "at": "2026-11-07T04:06:44Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
