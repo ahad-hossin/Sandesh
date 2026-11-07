@@ -1,33 +1,5 @@
 [
  {
-  "title_hash": "43ab7227f25127da",
-  "url": "https://www.prothomalo.com/video/bangladesh/s5jkmah8p0",
-  "headline": "Mirpur clashes: Police fire teargas and sound grenades to disperse garment workers",
-  "topic": "garment_worker_unrest",
-  "source": "Dhaka Tribune, The Daily Star, Jamuna TV, bdnews24.com, Prothom Alo",
-  "status": "failed",
-  "at": "2026-11-03T13:14:08Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "f887558149fbea9d",
-  "url": "https://bdnews24.com/bangladesh/0z1e7du7nn",
-  "headline": "Mirpur clashes: Police fire teargas and sound grenades to disperse garment workers",
-  "topic": "garment_worker_unrest",
-  "source": "Dhaka Tribune, The Daily Star, Jamuna TV, bdnews24.com, Prothom Alo",
-  "status": "failed",
-  "at": "2026-11-03T13:14:08Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "a188b5c6e5ef818e",
   "url": "https://www.thedailystar.net/news/news/garment-workers-block-highways-savar-narayanganj-clash-police-4314546",
   "headline": "Mirpur clashes: Police fire teargas and sound grenades to disperse garment workers",
@@ -8328,5 +8300,23 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "ecaa9eebba538eab",
+  "url": "https://www.prothomalo.com/chakri/employment/tp3xvudv2z",
+  "headline": "Dhaka South City Corporation offers job opportunities in 9th and 10th grades",
+  "topic": "dhaka south city corporation job circular",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-11-07T04:06:44Z"
+ },
+ {
+  "title_hash": "9c07edd9b92ab0f2",
+  "url": "https://www.prothomalo.com/education/higher-education/l0mhn96qnc",
+  "headline": "South Korea targets 400,000 foreign students, offers 3-year post-study stay with new visa changes",
+  "topic": "south korea higher education visa changes",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-11-07T04:06:44Z"
  }
 ]
