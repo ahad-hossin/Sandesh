@@ -1,33 +1,5 @@
 [
  {
-  "title_hash": "5bb2c3c7ed8d29cb",
-  "url": "https://www.prothomalo.com/bangladesh/district/g95axuztnk",
-  "headline": "Worker dies as police tear-gas garment workers in Gazipur wage protest",
-  "topic": "gazipur garment worker death",
-  "source": "bdnews24.com, The Daily Star, Prothom Alo",
-  "status": "failed",
-  "at": "2026-11-04T07:09:58Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "9d37ef15cd5ecfb2",
-  "url": "https://www.thedailystar.net/news/world/united-states/news/democrats-win-us-congress-midterm-rout-trump-4315221",
-  "headline": "US Midterms: Democrats seize control of Congress in rout of Trump",
-  "topic": "us midterm elections democrats win",
-  "source": "The Daily Star, bdnews24.com, Prothom Alo",
-  "status": "failed",
-  "at": "2026-11-04T07:09:58Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "e9da52701d25a185",
   "url": "https://bdnews24.com/world/americas/sel2hqqlmi",
   "headline": "US Midterms: Democrats seize control of Congress in rout of Trump",
@@ -8328,5 +8300,23 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "1e93ac4eb92cf6d3",
+  "url": "https://www.prothomalo.com/bangladesh/ih7ee2rzgi",
+  "headline": "Consumers pay BDT 300-440 more for 12kg LPG cylinders than official price",
+  "topic": "cooking gas price hike",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-11-08T03:06:43Z"
+ },
+ {
+  "title_hash": "974f71b8d369c1cc",
+  "url": "https://www.prothomalo.com/opinion/column/vytgr3xp8b",
+  "headline": "Bangladesh's debt exceeds $204 billion, now over 40% of GDP, raising fiscal concerns",
+  "topic": "karnaphuli tunnel corruption",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-11-08T03:06:43Z"
  }
 ]
