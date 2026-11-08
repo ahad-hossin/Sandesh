@@ -1,61 +1,5 @@
 [
  {
-  "title_hash": "1d60f175bf9ef2ce",
-  "url": "https://www.thedailystar.net/news/world/north-america/news/democrat-roy-cooper-flips-republican-held-us-senate-seat-north-carolina-4315141",
-  "headline": "US Midterms: Democrats seize control of Congress in rout of Trump",
-  "topic": "us midterm elections democrats win",
-  "source": "The Daily Star, bdnews24.com, Prothom Alo",
-  "status": "failed",
-  "at": "2026-11-04T07:09:58Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "07b0174c5792e680",
-  "url": "https://www.thedailystar.net/news/world/north-america/news/top-takeaways-the-us-midterm-elections-4315126",
-  "headline": "US Midterms: Democrats seize control of Congress in rout of Trump",
-  "topic": "us midterm elections democrats win",
-  "source": "The Daily Star, bdnews24.com, Prothom Alo",
-  "status": "failed",
-  "at": "2026-11-04T07:09:58Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "004c82e230b19bd0",
-  "url": "https://bdnews24.com/world/americas/zpau4rirxx",
-  "headline": "US Midterms: Democrats seize control of Congress in rout of Trump",
-  "topic": "us midterm elections democrats win",
-  "source": "The Daily Star, bdnews24.com, Prothom Alo",
-  "status": "failed",
-  "at": "2026-11-04T07:09:58Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "7b4d91e4d6f5644f",
-  "url": "https://www.thedailystar.net/news/world/north-america/news/rising-democratic-star-jon-ossoff-retains-us-senate-seat-georgia-networks-4315101",
-  "headline": "US Midterms: Democrats seize control of Congress in rout of Trump",
-  "topic": "us midterm elections democrats win",
-  "source": "The Daily Star, bdnews24.com, Prothom Alo",
-  "status": "failed",
-  "at": "2026-11-04T07:09:58Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "ed9ec8923c7d6450",
   "url": "https://www.prothomalo.com/world/usa/jo8p8xmmeu",
   "headline": "US Midterms: Democrats seize control of Congress in rout of Trump",
@@ -8328,5 +8272,41 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "0f4fd16ecc2a3f59",
+  "url": "https://www.prothomalo.com/sports/cricket/izcnuciojt",
+  "headline": "Tawhid Hridoy scores highest individual Test score for Bangladesh",
+  "topic": "towhid hridoy test double century",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-11-08T05:07:33Z"
+ },
+ {
+  "title_hash": "afb19dd0dce0fcc6",
+  "url": "https://www.prothomalo.com/ampstories/sports/cricket/jag56olhby",
+  "headline": "Tawhid Hridoy scores highest individual Test score for Bangladesh",
+  "topic": "towhid hridoy test double century",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-11-08T05:07:33Z"
+ },
+ {
+  "title_hash": "27f2bae53cf51e87",
+  "url": "https://bdnews24.com/world/middle-east/e4tvo0oy6k",
+  "headline": "Explosions heard in southern Iran near strategic Strait of Hormuz",
+  "topic": "blasts in southern iran",
+  "source": "bdnews24.com, Prothom Alo",
+  "status": "queued",
+  "at": "2026-11-08T05:07:33Z"
+ },
+ {
+  "title_hash": "dff33b7781ad1e2b",
+  "url": "https://www.prothomalo.com/world/middle-east/c0ifzfoq2j",
+  "headline": "Explosions heard in southern Iran near strategic Strait of Hormuz",
+  "topic": "blasts in southern iran",
+  "source": "bdnews24.com, Prothom Alo",
+  "status": "queued",
+  "at": "2026-11-08T05:07:33Z"
  }
 ]
