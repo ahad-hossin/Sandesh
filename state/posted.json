@@ -1,75 +1,5 @@
 [
  {
-  "title_hash": "c4095b2977fbb0ff",
-  "url": "https://bdnews24.com/bangladesh/v1y657wlq3",
-  "headline": "Police use sound grenades to disperse RMG workers in Gazipur",
-  "topic": "rmg worker protests violence",
-  "source": "The Daily Star, bdnews24.com, Prothom Alo",
-  "status": "failed",
-  "at": "2026-11-04T06:08:22Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "04beb3c149dc44dc",
-  "url": "https://www.thedailystar.net/news/bangladesh/news/rmg-workers-fear-being-short-changed-4315016",
-  "headline": "Police use sound grenades to disperse RMG workers in Gazipur",
-  "topic": "rmg worker protests violence",
-  "source": "The Daily Star, bdnews24.com, Prothom Alo",
-  "status": "failed",
-  "at": "2026-11-04T06:08:22Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "ba89b0338a91de21",
-  "url": "https://www.prothomalo.com/bangladesh/district/tcjyqnsedz",
-  "headline": "Police use sound grenades to disperse RMG workers in Gazipur",
-  "topic": "rmg worker protests violence",
-  "source": "The Daily Star, bdnews24.com, Prothom Alo",
-  "status": "failed",
-  "at": "2026-11-04T06:08:22Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "5bb2c3c7ed8d29cb",
-  "url": "https://www.prothomalo.com/bangladesh/district/g95axuztnk",
-  "headline": "Police use sound grenades to disperse RMG workers in Gazipur",
-  "topic": "rmg worker protests violence",
-  "source": "The Daily Star, bdnews24.com, Prothom Alo",
-  "status": "failed",
-  "at": "2026-11-04T06:08:22Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "1eb4570a8ba337c4",
-  "url": "https://www.thedailystar.net/news/news/workers-block-dhaka-aricha-highway-after-clash-police-savar-4315201",
-  "headline": "Police use sound grenades to disperse RMG workers in Gazipur",
-  "topic": "rmg worker protests violence",
-  "source": "The Daily Star, bdnews24.com, Prothom Alo",
-  "status": "failed",
-  "at": "2026-11-04T06:08:22Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "90e91a3d18264702",
   "url": "https://www.prothomalo.com/opinion/editorial/k7lm6bbtua",
   "headline": "Police use sound grenades to disperse RMG workers in Gazipur",
@@ -8328,5 +8258,50 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "cdfa0751dd1ebb75",
+  "url": "https://www.thedailystar.net/news/healthcare/disease/news/three-more-die-dengue-1674-get-hospitalised-4317971",
+  "headline": "3 more die of dengue, 1,674 hospitalised in Bangladesh in 24 hours",
+  "topic": "dengue deaths hospitalisations",
+  "source": "The Daily Star, bdnews24.com",
+  "status": "queued",
+  "at": "2026-11-08T00:06:43Z"
+ },
+ {
+  "title_hash": "fb3857dfb54ba5d4",
+  "url": "https://bdnews24.com/health/fdlc6sxl11",
+  "headline": "3 more die of dengue, 1,674 hospitalised in Bangladesh in 24 hours",
+  "topic": "dengue deaths hospitalisations",
+  "source": "The Daily Star, bdnews24.com",
+  "status": "queued",
+  "at": "2026-11-08T00:06:43Z"
+ },
+ {
+  "title_hash": "684fa32036b40da5",
+  "url": "https://bdnews24.com/bangladesh/v8egg9exbx",
+  "headline": "Second bus set ablaze in Dhaka in a single night, raising security concerns",
+  "topic": "dhaka bus arson cocktail blasts",
+  "source": "bdnews24.com, Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-11-08T00:06:43Z"
+ },
+ {
+  "title_hash": "6e3142b1f4145589",
+  "url": "https://www.prothomalo.com/bangladesh/capital/19wrdfv1j2",
+  "headline": "Second bus set ablaze in Dhaka in a single night, raising security concerns",
+  "topic": "dhaka bus arson cocktail blasts",
+  "source": "bdnews24.com, Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-11-08T00:06:43Z"
+ },
+ {
+  "title_hash": "6d4b060384a76244",
+  "url": "https://www.thedailystar.net/news/crime-justice/news/crude-bomb-blasts-bus-arson-raise-security-alarm-4318066",
+  "headline": "Second bus set ablaze in Dhaka in a single night, raising security concerns",
+  "topic": "dhaka bus arson cocktail blasts",
+  "source": "bdnews24.com, Prothom Alo, The Daily Star",
+  "status": "queued",
+  "at": "2026-11-08T00:06:43Z"
  }
 ]
