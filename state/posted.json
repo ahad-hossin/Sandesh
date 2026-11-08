@@ -8265,8 +8265,13 @@
   "headline": "3 more die of dengue, 1,674 hospitalised in Bangladesh in 24 hours",
   "topic": "dengue deaths hospitalisations",
   "source": "The Daily Star, bdnews24.com",
-  "status": "queued",
-  "at": "2026-11-08T00:06:43Z"
+  "status": "failed",
+  "at": "2026-11-08T00:06:43Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "fb3857dfb54ba5d4",
@@ -8274,8 +8279,13 @@
   "headline": "3 more die of dengue, 1,674 hospitalised in Bangladesh in 24 hours",
   "topic": "dengue deaths hospitalisations",
   "source": "The Daily Star, bdnews24.com",
-  "status": "queued",
-  "at": "2026-11-08T00:06:43Z"
+  "status": "failed",
+  "at": "2026-11-08T00:06:43Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "684fa32036b40da5",
@@ -8283,8 +8293,13 @@
   "headline": "Second bus set ablaze in Dhaka in a single night, raising security concerns",
   "topic": "dhaka bus arson cocktail blasts",
   "source": "bdnews24.com, Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-11-08T00:06:43Z"
+  "status": "failed",
+  "at": "2026-11-08T00:06:43Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "6e3142b1f4145589",
@@ -8292,8 +8307,13 @@
   "headline": "Second bus set ablaze in Dhaka in a single night, raising security concerns",
   "topic": "dhaka bus arson cocktail blasts",
   "source": "bdnews24.com, Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-11-08T00:06:43Z"
+  "status": "failed",
+  "at": "2026-11-08T00:06:43Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "6d4b060384a76244",
@@ -8301,7 +8321,12 @@
   "headline": "Second bus set ablaze in Dhaka in a single night, raising security concerns",
   "topic": "dhaka bus arson cocktail blasts",
   "source": "bdnews24.com, Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-11-08T00:06:43Z"
+  "status": "failed",
+  "at": "2026-11-08T00:06:43Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
