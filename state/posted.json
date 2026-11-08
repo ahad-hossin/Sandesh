@@ -8251,8 +8251,13 @@
   "headline": "Actress Samira Khan Mahi crowned Miss Universe Bangladesh 2026",
   "topic": "miss universe bangladesh 2026",
   "source": "Prothom Alo, bdnews24.com, The Daily Star",
-  "status": "queued",
-  "at": "2026-11-08T08:09:50Z"
+  "status": "failed",
+  "at": "2026-11-08T08:09:50Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "e8cd84c0d3bef5e6",
@@ -8260,8 +8265,13 @@
   "headline": "Actress Samira Khan Mahi crowned Miss Universe Bangladesh 2026",
   "topic": "miss universe bangladesh 2026",
   "source": "Prothom Alo, bdnews24.com, The Daily Star",
-  "status": "queued",
-  "at": "2026-11-08T08:09:50Z"
+  "status": "failed",
+  "at": "2026-11-08T08:09:50Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "ea0b262a71bf3c30",
@@ -8269,8 +8279,13 @@
   "headline": "Actress Samira Khan Mahi crowned Miss Universe Bangladesh 2026",
   "topic": "miss universe bangladesh 2026",
   "source": "Prothom Alo, bdnews24.com, The Daily Star",
-  "status": "queued",
-  "at": "2026-11-08T08:09:50Z"
+  "status": "failed",
+  "at": "2026-11-08T08:09:50Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "0591024a102d63e8",
@@ -8278,8 +8293,13 @@
   "headline": "Law Minister: Sheikh Hasina is a convicted criminal",
   "topic": "hasina convicted criminal",
   "source": "bdnews24.com, Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-11-08T08:09:50Z"
+  "status": "failed",
+  "at": "2026-11-08T08:09:50Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "48a8992a8b1e8286",
@@ -8287,8 +8307,13 @@
   "headline": "Law Minister: Sheikh Hasina is a convicted criminal",
   "topic": "hasina convicted criminal",
   "source": "bdnews24.com, Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-11-08T08:09:50Z"
+  "status": "failed",
+  "at": "2026-11-08T08:09:50Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "82cc19a84b2f27ca",
@@ -8296,7 +8321,12 @@
   "headline": "Law Minister: Sheikh Hasina is a convicted criminal",
   "topic": "hasina convicted criminal",
   "source": "bdnews24.com, Prothom Alo, The Daily Star",
-  "status": "queued",
-  "at": "2026-11-08T08:09:50Z"
+  "status": "failed",
+  "at": "2026-11-08T08:09:50Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
