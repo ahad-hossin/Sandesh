@@ -1,55 +1,5 @@
 [
  {
-  "title_hash": "acf1948d94ba0f8b",
-  "url": "https://www.thedailystar.net/news/news/garment-worker-dies-after-attack-during-gazipur-wage-protest-4315296",
-  "headline": "Police use sound grenades to disperse garment workers in Gazipur",
-  "topic": "police clash with garment workers",
-  "source": "The Daily Star, bdnews24.com",
-  "status": "failed",
-  "at": "2026-11-04T09:09:49Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "617db6cf2fb82069",
-  "url": "https://www.dhakatribune.com/bangladesh/423695/iqbal-sobhan-chowdhury-taken-to-db-for-questioning",
-  "headline": "Former info advisor Iqbal Sobhan Chowdhury taken to DB for questioning",
-  "topic": "iqbal sobhan chowdhury detained",
-  "source": "Prothom Alo, Dhaka Tribune, bdnews24.com, The Daily Star",
-  "status": "queued",
-  "at": "2026-11-04T11:09:50Z"
- },
- {
-  "title_hash": "b790281622470c3f",
-  "url": "https://www.prothomalo.com/bangladesh/wi4bu6t3w7",
-  "headline": "Former info advisor Iqbal Sobhan Chowdhury taken to DB for questioning",
-  "topic": "iqbal sobhan chowdhury detained",
-  "source": "Prothom Alo, Dhaka Tribune, bdnews24.com, The Daily Star",
-  "status": "queued",
-  "at": "2026-11-04T11:09:50Z"
- },
- {
-  "title_hash": "bb50bf0142903b45",
-  "url": "https://bdnews24.com/media-en/5hqcttthwc",
-  "headline": "Former info advisor Iqbal Sobhan Chowdhury taken to DB for questioning",
-  "topic": "iqbal sobhan chowdhury detained",
-  "source": "Prothom Alo, Dhaka Tribune, bdnews24.com, The Daily Star",
-  "status": "queued",
-  "at": "2026-11-04T11:09:50Z"
- },
- {
-  "title_hash": "95e37befc948c0a6",
-  "url": "https://www.thedailystar.net/news/crime-justice/news/iqbal-sobhan-chowdhury-taken-db-custody-4315446",
-  "headline": "Former info advisor Iqbal Sobhan Chowdhury taken to DB for questioning",
-  "topic": "iqbal sobhan chowdhury detained",
-  "source": "Prothom Alo, Dhaka Tribune, bdnews24.com, The Daily Star",
-  "status": "queued",
-  "at": "2026-11-04T11:09:50Z"
- },
- {
   "title_hash": "2ca32972b5435823",
   "url": "https://bdnews24.com/business/kbre5ut1gz",
   "headline": "New garment wages to take effect from Dec, board agrees",
@@ -8328,5 +8278,50 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "590cdc935f898436",
+  "url": "https://www.dhakatribune.com/bangladesh/accidents/424033/nearly-300-families-wiped-out-in-road-accidents",
+  "headline": "7 Bangladeshis killed in Saudi road crash",
+  "topic": "seven bangladeshis die in saudi road accident",
+  "source": "Dhaka Tribune, The Daily Star",
+  "status": "queued",
+  "at": "2026-11-08T12:08:23Z"
+ },
+ {
+  "title_hash": "fa1eee9dee290d8f",
+  "url": "https://www.dhakatribune.com/bangladesh/foreign-affairs/424031/pm-mourns-death-of-7-bangladeshis-in-saudi-road",
+  "headline": "7 Bangladeshis killed in Saudi road crash",
+  "topic": "seven bangladeshis die in saudi road accident",
+  "source": "Dhaka Tribune, The Daily Star",
+  "status": "queued",
+  "at": "2026-11-08T12:08:23Z"
+ },
+ {
+  "title_hash": "20ebbc23c6f81f48",
+  "url": "https://www.thedailystar.net/news/accidents-and-fires/news/7-bangladeshis-killed-saudi-road-crash-4318056",
+  "headline": "7 Bangladeshis killed in Saudi road crash",
+  "topic": "seven bangladeshis die in saudi road accident",
+  "source": "Dhaka Tribune, The Daily Star",
+  "status": "queued",
+  "at": "2026-11-08T12:08:23Z"
+ },
+ {
+  "title_hash": "cdfa0751dd1ebb75",
+  "url": "https://www.thedailystar.net/news/healthcare/disease/news/three-more-die-dengue-1674-get-hospitalised-4317971",
+  "headline": "1,674 hospitalised as three more die of dengue in 24 hours",
+  "topic": "measles outbreak death toll rises",
+  "source": "The Daily Star, Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-11-08T12:08:23Z"
+ },
+ {
+  "title_hash": "c33e08bcde789432",
+  "url": "https://www.dhakatribune.com/bangladesh/health/424017/measles-outbreak-death-toll-reaches-1-282-as-two",
+  "headline": "1,674 hospitalised as three more die of dengue in 24 hours",
+  "topic": "measles outbreak death toll rises",
+  "source": "The Daily Star, Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-11-08T12:08:23Z"
  }
 ]
