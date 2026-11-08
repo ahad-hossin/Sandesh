@@ -1,33 +1,5 @@
 [
  {
-  "title_hash": "e9da52701d25a185",
-  "url": "https://bdnews24.com/world/americas/sel2hqqlmi",
-  "headline": "US Midterms: Democrats seize control of Congress in rout of Trump",
-  "topic": "us midterm elections democrats win",
-  "source": "The Daily Star, bdnews24.com, Prothom Alo",
-  "status": "failed",
-  "at": "2026-11-04T07:09:58Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "9aba37adc95f3239",
-  "url": "https://www.thedailystar.net/news/world/united-states/news/what-americans-are-saying-about-how-they-voted-the-midterm-elections-4315151",
-  "headline": "US Midterms: Democrats seize control of Congress in rout of Trump",
-  "topic": "us midterm elections democrats win",
-  "source": "The Daily Star, bdnews24.com, Prothom Alo",
-  "status": "failed",
-  "at": "2026-11-04T07:09:58Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "1d60f175bf9ef2ce",
   "url": "https://www.thedailystar.net/news/world/north-america/news/democrat-roy-cooper-flips-republican-held-us-senate-seat-north-carolina-4315141",
   "headline": "US Midterms: Democrats seize control of Congress in rout of Trump",
@@ -8328,5 +8300,23 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "1e93ac4eb92cf6d3",
+  "url": "https://www.prothomalo.com/bangladesh/ih7ee2rzgi",
+  "headline": "Consumers pay Tk 300-440 more for cooking gas despite BERC's fixed price of Tk 2,060 for 12kg cylinder.",
+  "topic": "lpg price hike unregulated",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-11-08T04:07:06Z"
+ },
+ {
+  "title_hash": "cdfa0751dd1ebb75",
+  "url": "https://www.thedailystar.net/news/healthcare/disease/news/three-more-die-dengue-1674-get-hospitalised-4317971",
+  "headline": "1,674 hospitalised as three more die of dengue in 24 hours",
+  "topic": "dengue deaths hospitalizations",
+  "source": "The Daily Star",
+  "status": "queued",
+  "at": "2026-11-08T04:07:06Z"
  }
 ]
