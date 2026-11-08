@@ -1,47 +1,5 @@
 [
  {
-  "title_hash": "e6c080623ee049af",
-  "url": "https://bdnews24.com/bangladesh/35ctqmszbj",
-  "headline": "Worker dies as police tear-gas garment workers in Gazipur wage protest",
-  "topic": "gazipur garment worker death",
-  "source": "bdnews24.com, The Daily Star, Prothom Alo",
-  "status": "failed",
-  "at": "2026-11-04T07:09:58Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "967ca5c76f90a9ce",
-  "url": "https://www.thedailystar.net/news/news/sound-grenades-used-disperse-protesting-rmg-workers-gazipur-4315211",
-  "headline": "Worker dies as police tear-gas garment workers in Gazipur wage protest",
-  "topic": "gazipur garment worker death",
-  "source": "bdnews24.com, The Daily Star, Prothom Alo",
-  "status": "failed",
-  "at": "2026-11-04T07:09:58Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "acf1948d94ba0f8b",
-  "url": "https://www.thedailystar.net/news/news/garment-worker-dies-after-attack-during-gazipur-wage-protest-4315296",
-  "headline": "Worker dies as police tear-gas garment workers in Gazipur wage protest",
-  "topic": "gazipur garment worker death",
-  "source": "bdnews24.com, The Daily Star, Prothom Alo",
-  "status": "failed",
-  "at": "2026-11-04T07:09:58Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "5bb2c3c7ed8d29cb",
   "url": "https://www.prothomalo.com/bangladesh/district/g95axuztnk",
   "headline": "Worker dies as police tear-gas garment workers in Gazipur wage protest",
@@ -8328,5 +8286,32 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "cdfa0751dd1ebb75",
+  "url": "https://www.thedailystar.net/news/healthcare/disease/news/three-more-die-dengue-1674-get-hospitalised-4317971",
+  "headline": "3 more die of dengue, 1,674 hospitalised in 24 hours across Bangladesh",
+  "topic": "dengue deaths and hospitalisations",
+  "source": "The Daily Star, bdnews24.com",
+  "status": "queued",
+  "at": "2026-11-08T02:07:21Z"
+ },
+ {
+  "title_hash": "fb3857dfb54ba5d4",
+  "url": "https://bdnews24.com/health/fdlc6sxl11",
+  "headline": "3 more die of dengue, 1,674 hospitalised in 24 hours across Bangladesh",
+  "topic": "dengue deaths and hospitalisations",
+  "source": "The Daily Star, bdnews24.com",
+  "status": "queued",
+  "at": "2026-11-08T02:07:21Z"
+ },
+ {
+  "title_hash": "3b62fe3910f116cd",
+  "url": "https://www.thedailystar.net/news/bangladesh/news/tk-4cr-bridge-remains-unusable-without-approach-roads-4317986",
+  "headline": "Tk 4 crore bridge unusable for 5 years in Moulvibazar due to missing approach roads",
+  "topic": "unusable bridge without approach roads",
+  "source": "The Daily Star",
+  "status": "queued",
+  "at": "2026-11-08T02:07:21Z"
  }
 ]
