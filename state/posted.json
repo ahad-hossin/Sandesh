@@ -1,61 +1,5 @@
 [
  {
-  "title_hash": "ed9ec8923c7d6450",
-  "url": "https://www.prothomalo.com/world/usa/jo8p8xmmeu",
-  "headline": "US Midterms: Democrats seize control of Congress in rout of Trump",
-  "topic": "us midterm elections democrats win",
-  "source": "The Daily Star, bdnews24.com, Prothom Alo",
-  "status": "failed",
-  "at": "2026-11-04T07:09:58Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "37b927764182c62a",
-  "url": "https://bdnews24.com/world/americas/91g7luwqqf",
-  "headline": "US Midterms: Democrats seize control of Congress in rout of Trump",
-  "topic": "us midterm elections democrats win",
-  "source": "The Daily Star, bdnews24.com, Prothom Alo",
-  "status": "failed",
-  "at": "2026-11-04T07:09:58Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "fe59088d8986dc29",
-  "url": "https://bdnews24.com/business/zjbozrygi6",
-  "headline": "US Midterms: Democrats seize control of Congress in rout of Trump",
-  "topic": "us midterm elections democrats win",
-  "source": "The Daily Star, bdnews24.com, Prothom Alo",
-  "status": "failed",
-  "at": "2026-11-04T07:09:58Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "f92c7c14eef4e641",
-  "url": "https://bdnews24.com/world/americas/gfz8t6shm6",
-  "headline": "US Midterms: Democrats seize control of Congress in rout of Trump",
-  "topic": "us midterm elections democrats win",
-  "source": "The Daily Star, bdnews24.com, Prothom Alo",
-  "status": "failed",
-  "at": "2026-11-04T07:09:58Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "c8d1bb1f12ba28c8",
   "url": "https://www.thedailystar.net/news/world/north-america/news/trump-rages-fox-us-midterms-voting-wraps-4315111",
   "headline": "US Midterms: Democrats seize control of Congress in rout of Trump",
@@ -8328,5 +8272,41 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "f56c535f3609348a",
+  "url": "https://www.dhakatribune.com/bangladesh/423994/33-bgb-platoons-deployed-across-dhaka-gazipur",
+  "headline": "33 BGB platoons deployed across industrial hubs in Dhaka, Gazipur, Narayanganj",
+  "topic": "bgb platoons deployed industrial hubs",
+  "source": "Dhaka Tribune, bdnews24.com",
+  "status": "queued",
+  "at": "2026-11-08T06:08:39Z"
+ },
+ {
+  "title_hash": "f367b6b4f04cdadf",
+  "url": "https://bdnews24.com/bangladesh/c8v9898i92",
+  "headline": "33 BGB platoons deployed across industrial hubs in Dhaka, Gazipur, Narayanganj",
+  "topic": "bgb platoons deployed industrial hubs",
+  "source": "Dhaka Tribune, bdnews24.com",
+  "status": "queued",
+  "at": "2026-11-08T06:08:39Z"
+ },
+ {
+  "title_hash": "0f4fd16ecc2a3f59",
+  "url": "https://www.prothomalo.com/sports/cricket/izcnuciojt",
+  "headline": "Tawhid Hridoy scores highest individual Test score for Bangladesh with 242",
+  "topic": "towhid hridoy test double century",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-11-08T06:08:39Z"
+ },
+ {
+  "title_hash": "afb19dd0dce0fcc6",
+  "url": "https://www.prothomalo.com/ampstories/sports/cricket/jag56olhby",
+  "headline": "Tawhid Hridoy scores highest individual Test score for Bangladesh with 242",
+  "topic": "towhid hridoy test double century",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-11-08T06:08:39Z"
  }
 ]
