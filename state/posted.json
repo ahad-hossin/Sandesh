@@ -1,32 +1,5 @@
 [
  {
-  "title_hash": "2ca32972b5435823",
-  "url": "https://bdnews24.com/business/kbre5ut1gz",
-  "headline": "New garment wages to take effect from Dec, board agrees",
-  "topic": "garment worker wage board",
-  "source": "bdnews24.com, Prothom Alo, Jamuna TV, The Daily Star",
-  "status": "queued",
-  "at": "2026-11-04T11:09:50Z"
- },
- {
-  "title_hash": "d9b3e9d0efb58e8a",
-  "url": "https://www.prothomalo.com/opinion/column/etcanbwi6y",
-  "headline": "New garment wages to take effect from Dec, board agrees",
-  "topic": "garment worker wage board",
-  "source": "bdnews24.com, Prothom Alo, Jamuna TV, The Daily Star",
-  "status": "queued",
-  "at": "2026-11-04T11:09:50Z"
- },
- {
-  "title_hash": "8b8be952f59e088e",
-  "url": "https://www.jamuna.tv/national/667402",
-  "headline": "New garment wages to take effect from Dec, board agrees",
-  "topic": "garment worker wage board",
-  "source": "bdnews24.com, Prothom Alo, Jamuna TV, The Daily Star",
-  "status": "queued",
-  "at": "2026-11-04T11:09:50Z"
- },
- {
   "title_hash": "b24a4716009938c3",
   "url": "https://bdnews24.com/bangladesh/kpimjs48eo",
   "headline": "New garment wages to take effect from Dec, board agrees",
@@ -8348,5 +8321,32 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "cbeaf849dd28cdfb",
+  "url": "https://www.dhakatribune.com/bangladesh/crime/424043/dt-journalists-held-hostage-tortured-at-gunpoint",
+  "headline": "Tongi drug gang held Dhaka Tribune journalists hostage and tortured them",
+  "topic": "dt journalists tortured tongi gang",
+  "source": "Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-11-08T14:08:27Z"
+ },
+ {
+  "title_hash": "a1043c1c34e1409f",
+  "url": "https://www.dhakatribune.com/bangladesh/424047/school-bus-set-on-fire-in-dhaka%E2%80%99s-bhatara",
+  "headline": "School bus set on fire in Dhaka’s Bhatara",
+  "topic": "school bus fire bhatara",
+  "source": "Dhaka Tribune, Prothom Alo",
+  "status": "queued",
+  "at": "2026-11-08T14:08:27Z"
+ },
+ {
+  "title_hash": "f9d34bb178573658",
+  "url": "https://www.prothomalo.com/bangladesh/crime/8dqbv7k2r8",
+  "headline": "School bus set on fire in Dhaka’s Bhatara",
+  "topic": "school bus fire bhatara",
+  "source": "Dhaka Tribune, Prothom Alo",
+  "status": "queued",
+  "at": "2026-11-08T14:08:27Z"
  }
 ]
