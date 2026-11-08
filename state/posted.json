@@ -1,33 +1,5 @@
 [
  {
-  "title_hash": "90e91a3d18264702",
-  "url": "https://www.prothomalo.com/opinion/editorial/k7lm6bbtua",
-  "headline": "Police use sound grenades to disperse RMG workers in Gazipur",
-  "topic": "rmg worker protests violence",
-  "source": "The Daily Star, bdnews24.com, Prothom Alo",
-  "status": "failed",
-  "at": "2026-11-04T06:08:22Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "fa5d0ab780c82933",
-  "url": "https://www.thedailystar.net/news/news/db-detains-three-labour-leaders-over-alleged-incitement-ashulia-protests-4314981",
-  "headline": "Police use sound grenades to disperse RMG workers in Gazipur",
-  "topic": "rmg worker protests violence",
-  "source": "The Daily Star, bdnews24.com, Prothom Alo",
-  "status": "failed",
-  "at": "2026-11-04T06:08:22Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "e6c080623ee049af",
   "url": "https://bdnews24.com/bangladesh/35ctqmszbj",
   "headline": "Worker dies as police tear-gas garment workers in Gazipur wage protest",
@@ -8328,5 +8300,23 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "257f4ff79ee27a2e",
+  "url": "https://www.thedailystar.net/news/accidents-and-fires/news/nine-killed-road-accidents-across-four-districts-4317991",
+  "headline": "Nine killed in road accidents across four districts, 52 injured",
+  "topic": "nine killed road accidents",
+  "source": "The Daily Star",
+  "status": "queued",
+  "at": "2026-11-08T01:08:01Z"
+ },
+ {
+  "title_hash": "cdfa0751dd1ebb75",
+  "url": "https://www.thedailystar.net/news/healthcare/disease/news/three-more-die-dengue-1674-get-hospitalised-4317971",
+  "headline": "Three more die of dengue, 1,674 hospitalised in 24 hours across Bangladesh",
+  "topic": "dengue deaths hospitalisations",
+  "source": "The Daily Star",
+  "status": "queued",
+  "at": "2026-11-08T01:08:01Z"
  }
 ]
