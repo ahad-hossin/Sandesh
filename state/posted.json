@@ -1,61 +1,5 @@
 [
  {
-  "title_hash": "ff67698d36d328ed",
-  "url": "https://www.prothomalo.com/bangladesh/district/xj3oezwqst",
-  "headline": "Jamaat leader's son stabbed in Kishoreganj",
-  "topic": "jamaat leader son stabbed kishoreganj",
-  "source": "bdnews24.com, Prothom Alo",
-  "status": "failed",
-  "at": "2026-11-04T18:13:17Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "58d4489baa76f0c6",
-  "url": "https://bdnews24.com/bangladesh/2q05m27fnp",
-  "headline": "491mmcfd drop in gas supply as Summit LNG terminal shut for maintenance",
-  "topic": "bangladesh bank disconnects national payment switch",
-  "source": "Prothom Alo, bdnews24.com",
-  "status": "failed",
-  "at": "2026-11-04T18:13:17Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "5b2138b8c4ae2fb4",
-  "url": "https://www.prothomalo.com/business/bank/4jsh27cxtf",
-  "headline": "491mmcfd drop in gas supply as Summit LNG terminal shut for maintenance",
-  "topic": "bangladesh bank disconnects national payment switch",
-  "source": "Prothom Alo, bdnews24.com",
-  "status": "failed",
-  "at": "2026-11-04T18:13:17Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "add861d3cd841b1f",
-  "url": "https://bdnews24.com/world/t1qfr7di5z",
-  "headline": "US Midterms: Democrats secure control of Senate and House, curbing Trump's power",
-  "topic": "us midterm election results",
-  "source": "bdnews24.com, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-11-04T19:20:41Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "a3d777f3affe3c02",
   "url": "https://www.prothomalo.com/sports/football/k5rhcdandd",
   "headline": "US Midterms: Democrats secure control of Senate and House, curbing Trump's power",
@@ -8383,5 +8327,41 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "fe50995ef3a71f76",
+  "url": "https://www.dhakatribune.com/bangladesh/dhaka/424076/blasts-across-the-capital-few-answers-who-is",
+  "headline": "Crude bombs and arson: Buses torched and blasts rock Dhaka",
+  "topic": "dhaka crude bomb attacks",
+  "source": "Dhaka Tribune, The Daily Star",
+  "status": "queued",
+  "at": "2026-11-08T22:07:20Z"
+ },
+ {
+  "title_hash": "a3b57cc43d583f1c",
+  "url": "https://www.thedailystar.net/news/crime-justice/news/buses-burn-crude-bombs-go-city-again-4318791",
+  "headline": "Crude bombs and arson: Buses torched and blasts rock Dhaka",
+  "topic": "dhaka crude bomb attacks",
+  "source": "Dhaka Tribune, The Daily Star",
+  "status": "queued",
+  "at": "2026-11-08T22:07:20Z"
+ },
+ {
+  "title_hash": "cbeaf849dd28cdfb",
+  "url": "https://www.dhakatribune.com/bangladesh/crime/424043/dt-journalists-held-hostage-tortured-at-gunpoint",
+  "headline": "Tongi drug gang held DT journalists hostage and tortured them at gunpoint",
+  "topic": "dt journalists tortured tongi",
+  "source": "Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-11-08T22:07:20Z"
+ },
+ {
+  "title_hash": "c6c2298a3a472140",
+  "url": "https://www.dhakatribune.com/bangladesh/crime/424071/inside-tongi%E2%80%99s-drug-empire-where-gangs-defy",
+  "headline": "Tongi drug gang held DT journalists hostage and tortured them at gunpoint",
+  "topic": "dt journalists tortured tongi",
+  "source": "Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-11-08T22:07:20Z"
  }
 ]
