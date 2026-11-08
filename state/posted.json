@@ -8307,8 +8307,13 @@
   "headline": "Nine killed in road accidents across four districts, 52 injured",
   "topic": "nine killed road accidents",
   "source": "The Daily Star",
-  "status": "queued",
-  "at": "2026-11-08T01:08:01Z"
+  "status": "failed",
+  "at": "2026-11-08T01:08:01Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "cdfa0751dd1ebb75",
@@ -8316,7 +8321,12 @@
   "headline": "Three more die of dengue, 1,674 hospitalised in 24 hours across Bangladesh",
   "topic": "dengue deaths hospitalisations",
   "source": "The Daily Star",
-  "status": "queued",
-  "at": "2026-11-08T01:08:01Z"
+  "status": "failed",
+  "at": "2026-11-08T01:08:01Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
