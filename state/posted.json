@@ -8285,8 +8285,13 @@
   "headline": "7 Bangladeshis killed in Saudi road crash",
   "topic": "seven bangladeshis die in saudi road accident",
   "source": "Dhaka Tribune, The Daily Star",
-  "status": "queued",
-  "at": "2026-11-08T12:08:23Z"
+  "status": "failed",
+  "at": "2026-11-08T12:08:23Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "fa1eee9dee290d8f",
@@ -8294,8 +8299,13 @@
   "headline": "7 Bangladeshis killed in Saudi road crash",
   "topic": "seven bangladeshis die in saudi road accident",
   "source": "Dhaka Tribune, The Daily Star",
-  "status": "queued",
-  "at": "2026-11-08T12:08:23Z"
+  "status": "failed",
+  "at": "2026-11-08T12:08:23Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "20ebbc23c6f81f48",
@@ -8303,8 +8313,13 @@
   "headline": "7 Bangladeshis killed in Saudi road crash",
   "topic": "seven bangladeshis die in saudi road accident",
   "source": "Dhaka Tribune, The Daily Star",
-  "status": "queued",
-  "at": "2026-11-08T12:08:23Z"
+  "status": "failed",
+  "at": "2026-11-08T12:08:23Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "cdfa0751dd1ebb75",
@@ -8312,8 +8327,13 @@
   "headline": "1,674 hospitalised as three more die of dengue in 24 hours",
   "topic": "measles outbreak death toll rises",
   "source": "The Daily Star, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-11-08T12:08:23Z"
+  "status": "failed",
+  "at": "2026-11-08T12:08:23Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "c33e08bcde789432",
@@ -8321,7 +8341,12 @@
   "headline": "1,674 hospitalised as three more die of dengue in 24 hours",
   "topic": "measles outbreak death toll rises",
   "source": "The Daily Star, Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-11-08T12:08:23Z"
+  "status": "failed",
+  "at": "2026-11-08T12:08:23Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
