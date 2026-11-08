@@ -1,55 +1,5 @@
 [
  {
-  "title_hash": "b24a4716009938c3",
-  "url": "https://bdnews24.com/bangladesh/kpimjs48eo",
-  "headline": "New garment wages to take effect from Dec, board agrees",
-  "topic": "garment worker wage board",
-  "source": "bdnews24.com, Prothom Alo, Jamuna TV, The Daily Star",
-  "status": "queued",
-  "at": "2026-11-04T11:09:50Z"
- },
- {
-  "title_hash": "1877f665ae1ed330",
-  "url": "https://www.prothomalo.com/business/industry/fxkujbqbdp",
-  "headline": "New garment wages to take effect from Dec, board agrees",
-  "topic": "garment worker wage board",
-  "source": "bdnews24.com, Prothom Alo, Jamuna TV, The Daily Star",
-  "status": "queued",
-  "at": "2026-11-04T11:09:50Z"
- },
- {
-  "title_hash": "36454fb954185840",
-  "url": "https://www.thedailystar.net/opinion/views/news/why-do-some-resent-garment-workers-demand-living-wage-4314901",
-  "headline": "New garment wages to take effect from Dec, board agrees",
-  "topic": "garment worker wage board",
-  "source": "bdnews24.com, Prothom Alo, Jamuna TV, The Daily Star",
-  "status": "queued",
-  "at": "2026-11-04T11:09:50Z"
- },
- {
-  "title_hash": "ee658e41c51951a1",
-  "url": "https://bdnews24.com/bangladesh/h35az9m4x9",
-  "headline": "New garment wages to take effect from Dec, board agrees",
-  "topic": "garment worker wage board",
-  "source": "bdnews24.com, Prothom Alo, Jamuna TV, The Daily Star",
-  "status": "queued",
-  "at": "2026-11-04T11:09:50Z"
- },
- {
-  "title_hash": "c765636df59dabe0",
-  "url": "https://bdnews24.com/world/americas/scj6zbamnt",
-  "headline": "Democrats seize Congress in rebuke of Trump, world leaders react",
-  "topic": "us midterm elections democrats win",
-  "source": "bdnews24.com, The Daily Star, Prothom Alo",
-  "status": "failed",
-  "at": "2026-11-04T12:13:43Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "c8b9895eed0f8440",
   "url": "https://www.thedailystar.net/news/world/united-states/news/democrat-abdul-el-sayed-claims-victory-michigan-senate-battle-4315326",
   "headline": "Democrats seize Congress in rebuke of Trump, world leaders react",
@@ -8363,5 +8313,50 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "1df041bed407fbe9",
+  "url": "https://www.prothomalo.com/bangladesh/district/nlwtwb8mz1",
+  "headline": "Police attacked, banned student leader freed from custody in Jhalokathi",
+  "topic": "police attacked, banned student leader freed in Jhalkathi",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-11-08T15:05:04Z"
+ },
+ {
+  "title_hash": "05e4cd3f0151c5db",
+  "url": "https://www.prothomalo.com/video/bangladesh/6egbbm21ve",
+  "headline": "Police attacked, banned student leader freed from custody in Jhalokathi",
+  "topic": "police attacked, banned student leader freed in Jhalkathi",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-11-08T15:05:04Z"
+ },
+ {
+  "title_hash": "b28794b16d6b22ac",
+  "url": "https://bdnews24.com/campus/to2wkw9x8j",
+  "headline": "6 crude bomb blasts hit Dhaka University campus, 3 detained",
+  "topic": "crude bomb blasts at Dhaka University, three held",
+  "source": "bdnews24.com, Dhaka Tribune, The Daily Star",
+  "status": "queued",
+  "at": "2026-11-08T15:05:04Z"
+ },
+ {
+  "title_hash": "0222254f3634067a",
+  "url": "https://www.dhakatribune.com/bangladesh/424057/four-crude-bomb-explosions-reported-at-du-two",
+  "headline": "6 crude bomb blasts hit Dhaka University campus, 3 detained",
+  "topic": "crude bomb blasts at Dhaka University, three held",
+  "source": "bdnews24.com, Dhaka Tribune, The Daily Star",
+  "status": "queued",
+  "at": "2026-11-08T15:05:04Z"
+ },
+ {
+  "title_hash": "46ffbd5d36d74bef",
+  "url": "https://www.thedailystar.net/news/crime-justice/news/students-catch-3-men-after-explosions-dhaka-university-4318446",
+  "headline": "6 crude bomb blasts hit Dhaka University campus, 3 detained",
+  "topic": "crude bomb blasts at Dhaka University, three held",
+  "source": "bdnews24.com, Dhaka Tribune, The Daily Star",
+  "status": "queued",
+  "at": "2026-11-08T15:05:04Z"
  }
 ]
