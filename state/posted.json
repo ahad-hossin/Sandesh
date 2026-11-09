@@ -1,47 +1,5 @@
 [
  {
-  "title_hash": "086f7a1727e83589",
-  "url": "https://bdnews24.com/bangladesh/qbiio0oe5z",
-  "headline": "Former PM adviser Iqbal Sobhan Chowdhury arrested in July uprising murder case",
-  "topic": "iqbal sobhan chowdhury arrested in july uprising case",
-  "source": "The Daily Star, Dhaka Tribune, bdnews24.com, Prothom Alo",
-  "status": "failed",
-  "at": "2026-11-05T00:07:51Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "115528f2f5b39bac",
-  "url": "https://www.prothomalo.com/bangladesh/bbqyoqtqo0",
-  "headline": "Former PM adviser Iqbal Sobhan Chowdhury arrested in July uprising murder case",
-  "topic": "iqbal sobhan chowdhury arrested in july uprising case",
-  "source": "The Daily Star, Dhaka Tribune, bdnews24.com, Prothom Alo",
-  "status": "failed",
-  "at": "2026-11-05T00:07:51Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "85e2102e34ccb481",
-  "url": "https://bdnews24.com/world/36hiln7xyj",
-  "headline": "Iran war caused Republican midterm losses, Trump acknowledges but defends decision",
-  "topic": "us midterm elections trump iran",
-  "source": "bdnews24.com, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-11-05T01:07:05Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "63b15a56b9635059",
   "url": "https://www.prothomalo.com/world/usa/qpkjxi0ltk",
   "headline": "Iran war caused Republican midterm losses, Trump acknowledges but defends decision",
@@ -8383,5 +8341,32 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "5340ead6556aea44",
+  "url": "https://www.dhakatribune.com/bangladesh/424081/34-platoons-of-bgb-deployed-in-industrial-areas-of",
+  "headline": "34 platoons of BGB deployed in industrial areas of Dhaka, Gazipur, Narayanganj",
+  "topic": "bgb deployed industrial areas",
+  "source": "Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-11-09T05:10:16Z"
+ },
+ {
+  "title_hash": "3dd0c3507b0f18f5",
+  "url": "https://bdnews24.com/bangladesh/ajpn8yeief",
+  "headline": "Sheikh Hasina requests new passport and NID to return to Bangladesh",
+  "topic": "hasina seeks new passport",
+  "source": "bdnews24.com, The Daily Star",
+  "status": "queued",
+  "at": "2026-11-09T05:10:16Z"
+ },
+ {
+  "title_hash": "bc652ff7333fd7c9",
+  "url": "https://www.thedailystar.net/news/news/hasina-seeks-new-passport-clearest-sign-bangladesh-return-4318931",
+  "headline": "Sheikh Hasina requests new passport and NID to return to Bangladesh",
+  "topic": "hasina seeks new passport",
+  "source": "bdnews24.com, The Daily Star",
+  "status": "queued",
+  "at": "2026-11-09T05:10:16Z"
  }
 ]
