@@ -1,47 +1,5 @@
 [
  {
-  "title_hash": "c140eb258a594091",
-  "url": "https://www.thedailystar.net/news/world/news/numbers-tell-the-story-democrats-midterm-blowout-4315926",
-  "headline": "Democratic sweep: Democrats win US Congress in midterm rout of Trump",
-  "topic": "us midterm election democrats win",
-  "source": "Prothom Alo, bdnews24.com, The Daily Star, Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-11-04T22:10:09Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "a91a71796a3ab8a5",
-  "url": "https://www.thedailystar.net/news/world/news/what-next-voters-curb-trumps-power-4315941",
-  "headline": "Democratic sweep: Democrats win US Congress in midterm rout of Trump",
-  "topic": "us midterm election democrats win",
-  "source": "Prothom Alo, bdnews24.com, The Daily Star, Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-11-04T22:10:09Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "327589a35b8b11ab",
-  "url": "https://www.dhakatribune.com/bangladesh/423752/clashes-during-garment-protests-leave-50-injured",
-  "headline": "Clashes during garment protests leave 50 injured, 200 factories shut",
-  "topic": "garment worker protests turn violent",
-  "source": "Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-11-05T00:07:51Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "443a3dc833c5bd86",
   "url": "https://www.thedailystar.net/news/crime-justice/news/iqbal-sobhan-chowdhury-arrested-july-uprising-case-4316061",
   "headline": "Former PM adviser Iqbal Sobhan Chowdhury arrested in July uprising murder case",
@@ -8383,5 +8341,32 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "fe50995ef3a71f76",
+  "url": "https://www.dhakatribune.com/bangladesh/dhaka/424076/blasts-across-the-capital-few-answers-who-is",
+  "headline": "Dhaka shaken by crude bomb blasts and bus arson",
+  "topic": "dhaka crude bomb attacks",
+  "source": "Dhaka Tribune, The Daily Star",
+  "status": "queued",
+  "at": "2026-11-09T03:08:39Z"
+ },
+ {
+  "title_hash": "a3b57cc43d583f1c",
+  "url": "https://www.thedailystar.net/news/crime-justice/news/buses-burn-crude-bombs-go-city-again-4318791",
+  "headline": "Dhaka shaken by crude bomb blasts and bus arson",
+  "topic": "dhaka crude bomb attacks",
+  "source": "Dhaka Tribune, The Daily Star",
+  "status": "queued",
+  "at": "2026-11-09T03:08:39Z"
+ },
+ {
+  "title_hash": "6efa7066c1b9f5f9",
+  "url": "https://www.prothomalo.com/business/economics/9y3bsnquqq",
+  "headline": "Workers seek over 30,000 taka minimum wage at board meeting",
+  "topic": "garment worker wage board meeting",
+  "source": "Prothom Alo",
+  "status": "queued",
+  "at": "2026-11-09T03:08:39Z"
  }
 ]
