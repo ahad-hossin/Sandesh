@@ -1,47 +1,5 @@
 [
  {
-  "title_hash": "bf0c6dfebd8e3833",
-  "url": "https://www.thedailystar.net/news/crime-justice/news/2-killed-teknaf-over-yaba-consignment-dispute-police-4316016",
-  "headline": "Drug dispute: 2 killed in Teknaf over yaba consignment",
-  "topic": "two killed in teknaf over yaba dispute",
-  "source": "The Daily Star",
-  "status": "failed",
-  "at": "2026-11-04T21:11:00Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "8b7325e6da238644",
-  "url": "https://www.thedailystar.net/news/bangladesh/news/four-killed-mirpur-road-crash-4315896",
-  "headline": "Drug dispute: 2 killed in Teknaf over yaba consignment",
-  "topic": "two killed in teknaf over yaba dispute",
-  "source": "The Daily Star",
-  "status": "failed",
-  "at": "2026-11-04T21:11:00Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "123d7332b313e2ba",
-  "url": "https://bdnews24.com/sport/opjrwg9o20",
-  "headline": "Stoppage time goal: Valverde rescues Real Madrid in 3-2 win over AEK Athens",
-  "topic": "real madrid win vs liverpool",
-  "source": "bdnews24.com, Jamuna TV, Prothom Alo, The Daily Star",
-  "status": "failed",
-  "at": "2026-11-04T22:10:09Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "6e43c66aacff7dbb",
   "url": "https://www.jamuna.tv/sports/667431",
   "headline": "Stoppage time goal: Valverde rescues Real Madrid in 3-2 win over AEK Athens",
@@ -8383,5 +8341,32 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "fe50995ef3a71f76",
+  "url": "https://www.dhakatribune.com/bangladesh/dhaka/424076/blasts-across-the-capital-few-answers-who-is",
+  "headline": "Multiple crude bombs explode, 3 buses torched across Dhaka; 3 suspects detained",
+  "topic": "dhaka terror blasts and arson",
+  "source": "Dhaka Tribune, The Daily Star",
+  "status": "queued",
+  "at": "2026-11-09T00:06:55Z"
+ },
+ {
+  "title_hash": "a3b57cc43d583f1c",
+  "url": "https://www.thedailystar.net/news/crime-justice/news/buses-burn-crude-bombs-go-city-again-4318791",
+  "headline": "Multiple crude bombs explode, 3 buses torched across Dhaka; 3 suspects detained",
+  "topic": "dhaka terror blasts and arson",
+  "source": "Dhaka Tribune, The Daily Star",
+  "status": "queued",
+  "at": "2026-11-09T00:06:55Z"
+ },
+ {
+  "title_hash": "95cf33f118922f84",
+  "url": "https://www.thedailystar.net/news/work-and-migration/news/bangladeshi-women-saudi-arabia-back-home-dead-or-scarred-4318796",
+  "headline": "Bangladeshi women return dead or scarred from Saudi Arabia, reflecting persistent abuse concerns",
+  "topic": "bangladeshi women abused saudi arabia",
+  "source": "The Daily Star",
+  "status": "queued",
+  "at": "2026-11-09T00:06:55Z"
  }
 ]
