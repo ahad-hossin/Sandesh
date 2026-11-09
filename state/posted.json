@@ -1,33 +1,5 @@
 [
  {
-  "title_hash": "443a3dc833c5bd86",
-  "url": "https://www.thedailystar.net/news/crime-justice/news/iqbal-sobhan-chowdhury-arrested-july-uprising-case-4316061",
-  "headline": "Former PM adviser Iqbal Sobhan Chowdhury arrested in July uprising murder case",
-  "topic": "iqbal sobhan chowdhury arrested in july uprising case",
-  "source": "The Daily Star, Dhaka Tribune, bdnews24.com, Prothom Alo",
-  "status": "failed",
-  "at": "2026-11-05T00:07:51Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "2a10a04a1cb16374",
-  "url": "https://www.dhakatribune.com/bangladesh/423750/iqbal-sobhan-rajib-ghosh-in-db-custody-sparking",
-  "headline": "Former PM adviser Iqbal Sobhan Chowdhury arrested in July uprising murder case",
-  "topic": "iqbal sobhan chowdhury arrested in july uprising case",
-  "source": "The Daily Star, Dhaka Tribune, bdnews24.com, Prothom Alo",
-  "status": "failed",
-  "at": "2026-11-05T00:07:51Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "086f7a1727e83589",
   "url": "https://bdnews24.com/bangladesh/qbiio0oe5z",
   "headline": "Former PM adviser Iqbal Sobhan Chowdhury arrested in July uprising murder case",
@@ -8383,5 +8355,23 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "5485d3ad4a12e710",
+  "url": "https://www.thedailystar.net/news/bangladesh/news/jubo-dal-leader-found-dead-bandarban-4318701",
+  "headline": "Jubo Dal leader found dead in Bandarban stream",
+  "topic": "jubo dal leader found dead in bandarban",
+  "source": "The Daily Star",
+  "status": "queued",
+  "at": "2026-11-09T04:08:30Z"
+ },
+ {
+  "title_hash": "fe50995ef3a71f76",
+  "url": "https://www.dhakatribune.com/bangladesh/dhaka/424076/blasts-across-the-capital-few-answers-who-is",
+  "headline": "Over 50 blasts, 8 buses torched in Dhaka",
+  "topic": "dhaka terror: over 50 blasts, 8 buses torched",
+  "source": "Dhaka Tribune",
+  "status": "queued",
+  "at": "2026-11-09T04:08:30Z"
  }
 ]
