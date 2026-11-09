@@ -8362,8 +8362,13 @@
   "headline": "Jubo Dal leader found dead in Bandarban stream",
   "topic": "jubo dal leader found dead in bandarban",
   "source": "The Daily Star",
-  "status": "queued",
-  "at": "2026-11-09T04:08:30Z"
+  "status": "failed",
+  "at": "2026-11-09T04:08:30Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "fe50995ef3a71f76",
@@ -8371,7 +8376,12 @@
   "headline": "Over 50 blasts, 8 buses torched in Dhaka",
   "topic": "dhaka terror: over 50 blasts, 8 buses torched",
   "source": "Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-11-09T04:08:30Z"
+  "status": "failed",
+  "at": "2026-11-09T04:08:30Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
