@@ -8362,8 +8362,13 @@
   "headline": "Jubo Dal leader confesses in Satkhira mob killing case",
   "topic": "Jubo Dal leader confesses in mob killing",
   "source": "The Daily Star",
-  "status": "queued",
-  "at": "2026-11-09T02:08:25Z"
+  "status": "failed",
+  "at": "2026-11-09T02:08:25Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "2b6c3d38f6a467a5",
@@ -8371,7 +8376,12 @@
   "headline": "UP polls: EC sticks to old laws, key reforms left out",
   "topic": "EC retains old laws for UP polls",
   "source": "The Daily Star",
-  "status": "queued",
-  "at": "2026-11-09T02:08:25Z"
+  "status": "failed",
+  "at": "2026-11-09T02:08:25Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
