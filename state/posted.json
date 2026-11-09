@@ -1,33 +1,5 @@
 [
  {
-  "title_hash": "67f5bd11e48a355e",
-  "url": "https://www.thedailystar.net/news/world/news/hakeem-poised-become-first-black-us-speaker-4316081",
-  "headline": "Democratic sweep: Democrats win US Congress in midterm rout of Trump",
-  "topic": "us midterm election democrats win",
-  "source": "Prothom Alo, bdnews24.com, The Daily Star, Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-11-04T22:10:09Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
-  "title_hash": "9d37ef15cd5ecfb2",
-  "url": "https://www.dhakatribune.com/bangladesh/nation/423694/democrats-win-us-congress-in-midterm-rout-of-trump",
-  "headline": "Democratic sweep: Democrats win US Congress in midterm rout of Trump",
-  "topic": "us midterm election democrats win",
-  "source": "Prothom Alo, bdnews24.com, The Daily Star, Dhaka Tribune",
-  "status": "failed",
-  "at": "2026-11-04T22:10:09Z",
-  "results": {
-   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
-   "x": "dry-run"
-  }
- },
- {
   "title_hash": "c140eb258a594091",
   "url": "https://www.thedailystar.net/news/world/news/numbers-tell-the-story-democrats-midterm-blowout-4315926",
   "headline": "Democratic sweep: Democrats win US Congress in midterm rout of Trump",
@@ -8383,5 +8355,23 @@
    "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
    "x": "dry-run"
   }
+ },
+ {
+  "title_hash": "6882235b152b49f9",
+  "url": "https://www.thedailystar.net/news/bangladesh/news/jubo-dal-leader-confesses-satkhira-mob-killing-case-4318661",
+  "headline": "Jubo Dal leader confesses in Satkhira mob killing case",
+  "topic": "Jubo Dal leader confesses in mob killing",
+  "source": "The Daily Star",
+  "status": "queued",
+  "at": "2026-11-09T02:08:25Z"
+ },
+ {
+  "title_hash": "2b6c3d38f6a467a5",
+  "url": "https://www.thedailystar.net/news/bangladesh/news/polls-ec-sticks-old-laws-key-reforms-left-out-4318836",
+  "headline": "UP polls: EC sticks to old laws, key reforms left out",
+  "topic": "EC retains old laws for UP polls",
+  "source": "The Daily Star",
+  "status": "queued",
+  "at": "2026-11-09T02:08:25Z"
  }
 ]
