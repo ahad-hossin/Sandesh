@@ -8292,8 +8292,13 @@
   "headline": "Sheikh Hasina requests new passport and NID to return to Bangladesh",
   "topic": "hasina seeks new passport",
   "source": "The Daily Star, bdnews24.com, Prothom Alo",
-  "status": "queued",
-  "at": "2026-11-09T07:07:53Z"
+  "status": "failed",
+  "at": "2026-11-09T07:07:53Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "3dd0c3507b0f18f5",
@@ -8301,8 +8306,13 @@
   "headline": "Sheikh Hasina requests new passport and NID to return to Bangladesh",
   "topic": "hasina seeks new passport",
   "source": "The Daily Star, bdnews24.com, Prothom Alo",
-  "status": "queued",
-  "at": "2026-11-09T07:07:53Z"
+  "status": "failed",
+  "at": "2026-11-09T07:07:53Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "5bea72b7eb55b0a2",
@@ -8310,8 +8320,13 @@
   "headline": "Sheikh Hasina requests new passport and NID to return to Bangladesh",
   "topic": "hasina seeks new passport",
   "source": "The Daily Star, bdnews24.com, Prothom Alo",
-  "status": "queued",
-  "at": "2026-11-09T07:07:53Z"
+  "status": "failed",
+  "at": "2026-11-09T07:07:53Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "71d48d38372984a8",
@@ -8319,8 +8334,13 @@
   "headline": "Sheikh Hasina requests new passport and NID to return to Bangladesh",
   "topic": "hasina seeks new passport",
   "source": "The Daily Star, bdnews24.com, Prothom Alo",
-  "status": "queued",
-  "at": "2026-11-09T07:07:53Z"
+  "status": "failed",
+  "at": "2026-11-09T07:07:53Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "9b29b3b3a2db8a53",
@@ -8328,8 +8348,13 @@
   "headline": "Actress Pori Moni claims car was attacked and vandalized",
   "topic": "porimoni car attack allegation",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-11-09T07:07:53Z"
+  "status": "failed",
+  "at": "2026-11-09T07:07:53Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "ca25cc1a04989140",
@@ -8337,8 +8362,13 @@
   "headline": "Actress Pori Moni claims car was attacked and vandalized",
   "topic": "porimoni car attack allegation",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-11-09T07:07:53Z"
+  "status": "failed",
+  "at": "2026-11-09T07:07:53Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "34f0fe4ee2ef7c98",
@@ -8346,7 +8376,12 @@
   "headline": "Actress Pori Moni claims car was attacked and vandalized",
   "topic": "porimoni car attack allegation",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-11-09T07:07:53Z"
+  "status": "failed",
+  "at": "2026-11-09T07:07:53Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
