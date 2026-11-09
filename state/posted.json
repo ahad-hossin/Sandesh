@@ -8348,8 +8348,13 @@
   "headline": "Dhaka shaken by crude bomb blasts and bus arson",
   "topic": "dhaka crude bomb attacks",
   "source": "Dhaka Tribune, The Daily Star",
-  "status": "queued",
-  "at": "2026-11-09T03:08:39Z"
+  "status": "failed",
+  "at": "2026-11-09T03:08:39Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "a3b57cc43d583f1c",
@@ -8357,8 +8362,13 @@
   "headline": "Dhaka shaken by crude bomb blasts and bus arson",
   "topic": "dhaka crude bomb attacks",
   "source": "Dhaka Tribune, The Daily Star",
-  "status": "queued",
-  "at": "2026-11-09T03:08:39Z"
+  "status": "failed",
+  "at": "2026-11-09T03:08:39Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "6efa7066c1b9f5f9",
@@ -8366,7 +8376,12 @@
   "headline": "Workers seek over 30,000 taka minimum wage at board meeting",
   "topic": "garment worker wage board meeting",
   "source": "Prothom Alo",
-  "status": "queued",
-  "at": "2026-11-09T03:08:39Z"
+  "status": "failed",
+  "at": "2026-11-09T03:08:39Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
