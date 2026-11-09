@@ -8348,8 +8348,13 @@
   "headline": "34 platoons of BGB deployed in industrial areas of Dhaka, Gazipur, Narayanganj",
   "topic": "bgb deployed industrial areas",
   "source": "Dhaka Tribune",
-  "status": "queued",
-  "at": "2026-11-09T05:10:16Z"
+  "status": "failed",
+  "at": "2026-11-09T05:10:16Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "3dd0c3507b0f18f5",
@@ -8357,8 +8362,13 @@
   "headline": "Sheikh Hasina requests new passport and NID to return to Bangladesh",
   "topic": "hasina seeks new passport",
   "source": "bdnews24.com, The Daily Star",
-  "status": "queued",
-  "at": "2026-11-09T05:10:16Z"
+  "status": "failed",
+  "at": "2026-11-09T05:10:16Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  },
  {
   "title_hash": "bc652ff7333fd7c9",
@@ -8366,7 +8376,12 @@
   "headline": "Sheikh Hasina requests new passport and NID to return to Bangladesh",
   "topic": "hasina seeks new passport",
   "source": "bdnews24.com, The Daily Star",
-  "status": "queued",
-  "at": "2026-11-09T05:10:16Z"
+  "status": "failed",
+  "at": "2026-11-09T05:10:16Z",
+  "results": {
+   "facebook": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/1237737746078842/photos :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "instagram": "error: 400 Client Error: Bad Request for url: https://graph.facebook.com/v21.0/17841416579385088/media :: {\"error\":{\"message\":\"This Page access token belongs to",
+   "x": "dry-run"
+  }
  }
 ]
